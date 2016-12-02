@@ -1,14 +1,10 @@
 # farsec
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+## Filtering and Ranking Security Bug Reports
+This application is used to build prediction models for predicting security bug reports. Included here are bug reports from five different projects, code, experiments, and results.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License version 1.0.
