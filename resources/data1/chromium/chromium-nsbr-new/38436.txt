@@ -1,0 +1,1 @@
+<title>Issue 38436 -   chromium -    Win7: Show number of downloads badge in the superbar - Project Hosting on Google Code</title> <pre> On Windows 7  we should show a badge that indicates the number of downloads   currently present on the taskbar.    Perhaps we can reuse the badge from the browser action. </pre>

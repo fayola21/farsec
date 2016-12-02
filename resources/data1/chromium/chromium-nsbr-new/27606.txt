@@ -1,0 +1,1 @@
+<title>Issue 27606 -   chromium -    Numbers in DevTools' Heap Snapshot view not right-aligned - Project Hosting on Google Code</title> <pre>   1. take a heap snapshot            I expect to see the snapshot with all numbers right aligned (like they are   in e.g. the CPU profiler).   Instead they are left-aligned     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3750 -   chromium -    Closing last open tab crashes Chrome - Project Hosting on Google Code</title>   1. Have one tab open  2. Click Close button of the tab        A new tab with default contents should open      Chrome crashes    Please provide

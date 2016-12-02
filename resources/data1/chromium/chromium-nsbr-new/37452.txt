@@ -1,0 +1,1 @@
+<title>Issue 37452 -   chromium -    Allow hard-coded geolocation - Project Hosting on Google Code</title> <pre> An advanced setting should allow the user to hard-code a geolocation.  This  is useful for testing  and also for desktop computers that don't have wifi  or GPS. </pre>

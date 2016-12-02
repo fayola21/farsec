@@ -1,0 +1,1 @@
+<title>Issue 44992 -   chromium -    White flashes during QuickTime playback - Project Hosting on Google Code</title>   1. Go to the movie URL.          The movie plays smoothly in the browser window.      The video plays  but the player constantly flashes white as it refreshes the frame.    <b>Please provide

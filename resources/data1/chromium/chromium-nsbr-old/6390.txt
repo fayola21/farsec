@@ -1,0 +1,1 @@
+<title>Issue 6390 -   chromium -    the browser crashes every few min for no reason  - Project Hosting on Google Code</title>   1. will crash on its own witn no steps required  just need to open it and   wait been very un stable all day                     Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2288 -   chromium -    Cleanup old vector iterator safety code in cookies_views - Project Hosting on Google Code</title> <pre> After moving CookieList to a std::list instead of a std::vector  mutations   on the std::list do not have the same concerns as a std::vector  the   entries will not be moved.  The code could probably be simplified a bunch   now. </pre>

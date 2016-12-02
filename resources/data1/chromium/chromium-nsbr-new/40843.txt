@@ -1,0 +1,1 @@
+<title>Issue 40843 -   chromium -    getting location bar padding right (linux) - Project Hosting on Google Code</title> <pre> title. Filing so I don't forget. Depends on pkasting committing the windows   side.   </pre>

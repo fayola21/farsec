@@ -1,0 +1,1 @@
+Install Wizard: Confirm host stuck at Preparing stage    With the install wizard went to assign slaves page successfully  returned back to Welcome page  reentered data and then the UI got stuck at Confirm hosts page.   

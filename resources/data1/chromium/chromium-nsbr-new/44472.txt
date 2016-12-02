@@ -1,0 +1,1 @@
+<title>Issue 44472 -   chromium -    Annoying Chrome Toast message appeared  even though I use chrome every day - Project Hosting on Google Code</title> <pre> I got the toast for &quot;There's a new version of Google Chrome available that   includes extensions&quot; popup.    I don't need this - I use chrome every day.  This is very annoying. </pre>

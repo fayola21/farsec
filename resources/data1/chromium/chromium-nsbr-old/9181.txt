@@ -1,0 +1,1 @@
+<title>Issue 9181 -   chromium -    Drop links onto toolbar - Project Hosting on Google Code</title> <pre> You can drop a link onto the address bar or tabstrip  but not onto the   toolbar.  It seems like dropping onto the toolbar should just load the link   in the current tab. </pre>

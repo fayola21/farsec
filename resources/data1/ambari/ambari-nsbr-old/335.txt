@@ -1,0 +1,1 @@
+Redundant downloads even though the artifacts are already installed    Artifacts (such as mysql-connector.zip  hive.tar.gz  pig.tar.gz  ext.zip) are being downloaded even though they are previously installed leading to additional execution time.   

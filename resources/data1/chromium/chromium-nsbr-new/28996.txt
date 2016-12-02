@@ -1,0 +1,1 @@
+<title>Issue 28996 -   chromium -    change color of link in crash page to white - Project Hosting on Google Code</title> <pre> per UX team  the current light-blue link in crash page is too glaring and   should change to white. </pre>

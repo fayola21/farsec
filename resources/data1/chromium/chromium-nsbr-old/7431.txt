@@ -1,0 +1,1 @@
+<title>Issue 7431 -   chromium -    Tabs cut off in full screen - Project Hosting on Google Code</title>   1. Install newest trunk build on a 16:10 widescreen (haven't tested on   standard screen)  2. Open chrome  3. Maximize  the top of the tabs will be cut off                Please provide

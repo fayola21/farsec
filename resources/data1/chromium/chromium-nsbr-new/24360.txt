@@ -1,0 +1,1 @@
+<title>Issue 24360 -   chromium -    Linux needs a &quot;loading&quot; bubble while loading a theme - Project Hosting on Google Code</title> <pre> Windows has one  the Mac will have one when  <a href="http://codereview.chromium.org/267031">http://codereview.chromium.org/267031</a> lands. </pre>

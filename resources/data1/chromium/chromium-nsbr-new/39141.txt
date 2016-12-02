@@ -1,0 +1,1 @@
+<title>Issue 39141 -   chromium -    memory can't be read. - Project Hosting on Google Code</title>   1.right button  2.save picture as  3.the there a bug        the chrome corrupted  and cycle for a dialog:  will you restart chrome        <b>Please provide

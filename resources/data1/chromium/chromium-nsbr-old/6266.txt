@@ -1,0 +1,1 @@
+<title>Issue 6266 -   chromium -    How to disable activeX/oleobject permanently? - Project Hosting on Google Code</title> <pre> Just wanted to know why there's a bunch of -disable flags for stuff  but  nothing for -disable-activex or a flag to make it run _always_ without activex?    How do I make it run WITHOUT activeX? </pre>

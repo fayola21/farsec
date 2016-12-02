@@ -1,0 +1,1 @@
+<title>Issue 35104 -   chromium -    Chrome has slowed to a crawl with 5.0.317.2 - Project Hosting on Google Code</title>   1. Install 5.0.317.2  2. Interact with a webpage (forexample Gmail chat)  3. Click on a name        A chat window is supposed to immediately pop up      It takes approx 3 seconds to pop up.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37429 -   chromium -    Cannot select text from web pages using keyboard - Project Hosting on Google Code</title>   1. Left-click at the beginning of a sentence on a web site.  2. Hold Shift and press the right arrow key.      Expect that the text beginning at the left-click spot will be selected.      Nothing is selected    <b>Please provide

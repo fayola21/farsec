@@ -1,0 +1,1 @@
+<title>Issue 27680 -   chromium -    Regression: Combo boxes menus are empty in Linux - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.237.0 (31086)  URLs (if applicable) : all  e.g. gmail      1.  Click a combo box to select a value      Items are shown      The list is empty. See the screenshot.    The previous developer version worked ok. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12272 -   chromium -    Linux: svg icon support - Project Hosting on Google Code</title> <pre> Currently we have no way of reading and rendering an SVG in the browser  (this is not a bug about webkit  which can render SVGs just fine). We need  this for loading SVG icons. Thus  currently  SVG icon support is turned off  in mime_util_linux.cc. </pre>

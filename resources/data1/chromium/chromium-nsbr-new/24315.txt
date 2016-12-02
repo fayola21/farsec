@@ -1,0 +1,1 @@
+<title>Issue 24315 -   chromium -    Implement full screen bubble explaining how to exit - Project Hosting on Google Code</title>   1. Press F11 to go to full screen mode      There should be a bubble explaining how to exit the full screen mode just   like in Windows.      No bubble    <b>Please provide

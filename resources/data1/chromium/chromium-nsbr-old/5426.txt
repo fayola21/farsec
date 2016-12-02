@@ -1,0 +1,1 @@
+<title>Issue 5426 -   chromium -    NPObjects maintain extraneous internal field - Project Hosting on Google Code</title> <pre> In v8_helpers.cpp we add a 3rd internal field on the NPObject.    Matt pointed this out and I'm pretty sure we don't need it anymore. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13901 -   chromium -    New tab should not appear for files we don't render - Project Hosting on Google Code</title> <pre>   1. middle click on a file that we don't render (e.g. .xls)      no new tab should open. Instead  a new blank tab opens.    This is not a regression  but it is more pointless now since the download   shelf is app-wide. </pre>

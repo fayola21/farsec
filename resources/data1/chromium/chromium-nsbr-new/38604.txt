@@ -1,0 +1,1 @@
+<title>Issue 38604 -   chromium -    PNGImageEncoder is incompatible with libpng 1.4.1-1 - Project Hosting on Google Code</title> <pre> png_voidp_NULL and png_error_ptr_NULL in   third_party/WebKit/WebCore/platform/image-encoders/skia/PNGImageEncoder.cpp   are undefined in libpng 1.4.1-1  so chromium fails to compile with a scope   error. </pre>

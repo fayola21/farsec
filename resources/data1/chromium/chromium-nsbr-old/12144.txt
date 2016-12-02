@@ -1,0 +1,1 @@
+<title>Issue 12144 -   chromium -    page saved using chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.65                     IE 7: OK        if you save a page using chrome  only chrome opens it correctly whereas IE   fails. i have attached an example page and screenshots of the saved page   opened using chrome and IE.             </pre>

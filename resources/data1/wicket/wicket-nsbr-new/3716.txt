@@ -1,0 +1,1 @@
+Please improve ErrorMessage for WicketTester#assertRenderedPage    If WicketTester#assertRenderedPage fails  the errormessage does only say 'classes not same' this is sufficient  but can be improved.At least expected PageClass and Current Page Class should be printed out in the message.   

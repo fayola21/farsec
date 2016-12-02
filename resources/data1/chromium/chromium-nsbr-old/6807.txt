@@ -1,0 +1,1 @@
+<title>Issue 6807 -   chromium -    low resolution favicon in alt-tab - Project Hosting on Google Code</title>   1. Create application shortcuts for GMail and Google Reader  2. Press alt-tab          Large version of favicon is used         Low resolution version of favicon is used    Please provide

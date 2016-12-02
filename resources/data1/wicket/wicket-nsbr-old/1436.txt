@@ -1,0 +1,1 @@
+Unable to use properties file when generating XML files    Please refer to this thread: http://www.nabble.com/Unable-to-use-wicket:message-when-generating-XML-files-td15779276.html   

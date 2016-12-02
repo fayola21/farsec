@@ -1,0 +1,1 @@
+<title>Issue 3135 -   chromium -    Partial Hungarian translation of the About Google Chrome dialog - Project Hosting on Google Code</title> <pre>   Hungarian      0.3.154.0 (Hivatalos verzi��__ 2776)      Windows XP SP2      About dialog  The &quot;Portions of this software were licensed from third parties as   described at&quot; sentence isn't translated.         </pre>

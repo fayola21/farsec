@@ -1,0 +1,1 @@
+<title>Issue 20250 -   chromium -    Right-click &quot;Inspect Element&quot; should open inspector on that element - Project Hosting on Google Code</title> <pre> The page context menu has an &quot;Inspect Element&quot; option  but when clicked it   just opens the web inspector.  It should open the inspector with that precise   element expanded and highlighted. </pre>

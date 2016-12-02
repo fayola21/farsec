@@ -1,0 +1,1 @@
+<title>Issue 31426 -   chromium -    Function Shift+Alt+PrintScreen do not work in Chromium - Project Hosting on Google Code</title> <pre> I have the habit of working with the screen of my computer with the function   Shift+Alt+PrintScreen thrown. Chromium does not convert to this view. </pre>

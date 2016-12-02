@@ -1,0 +1,1 @@
+<title>Issue 10812 -   chromium -    No java plugin support yet on the Mac - Project Hosting on Google Code</title> <pre> Chrome 2.0.175.0      1. Login to myspace.com  2. View pics &gt; Photo uploader        The uploader doesn't show up as there's no support for Java yet      FF3: ok   Safari 4 (webkit nightly 42662): ok  </pre>

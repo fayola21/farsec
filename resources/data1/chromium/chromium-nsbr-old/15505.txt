@@ -1,0 +1,1 @@
+<title>Issue 15505 -   chromium -    Need shadow in webframe and above the toolbar - Project Hosting on Google Code</title> <pre> In Windows Chrome  the web contents drops a shadow into the custom frame.    This doesn't exist on linux making it look flat and the border thicker. </pre>

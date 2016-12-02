@@ -1,0 +1,1 @@
+<title>Issue 1721 -   chromium -    Can't move more than one language up or down - Project Hosting on Google Code</title>   1. Open the language options  2. Add 4 languages  3. Select the 2 languages in the mid      The &quot;move up&quot; and &quot;move down&quot; button is available.      Nothing. I can move one by one entry only (see attachment)    Please provide

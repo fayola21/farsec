@@ -1,0 +1,1 @@
+<title>Issue 33860 -   chromium -    Extensions page should list homepage - Project Hosting on Google Code</title> <pre> On the page listing installed extensions  each extensions should have a link   to the extension homepage.    This would make it easier to report issues to author.   </pre>

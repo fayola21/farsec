@@ -1,0 +1,1 @@
+<title>Issue 18582 -   chromium -    Task manager &quot;End process&quot; button should be disabled when task manager opens - Project Hosting on Google Code</title> <pre> Since nothing is selected  it should be grayed out. </pre>

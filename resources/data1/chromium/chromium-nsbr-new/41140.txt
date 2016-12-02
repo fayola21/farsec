@@ -1,0 +1,1 @@
+<title>Issue 41140 -   chromium -    XML Application fails - Project Hosting on Google Code</title>   1. open <a href="http://www.w3schools.com/xml/tryit.asp?">http://www.w3schools.com/xml/tryit.asp?</a>  filename=tryxml_app_navigate            press buttons to display each item for xml elements' content          nothing displayed    <b>Please provide

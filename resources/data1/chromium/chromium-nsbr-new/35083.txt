@@ -1,0 +1,1 @@
+<title>Issue 35083 -   chromium -    Add padding column between link and button in content blocked bubble - Project Hosting on Google Code</title> <pre> Right now with no padding  they can get crammed together on short   hostnames. </pre>

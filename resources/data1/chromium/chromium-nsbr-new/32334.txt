@@ -1,0 +1,1 @@
+<title>Issue 32334 -   chromium -    Implement Bookmark Sort - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.295.0 dev    Other browsers tested:  ALL      Most browsers have the ability to sort bookmarks  by alpha  or by date added.    This would be a very helpful feature. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18227 -   chromium -    Theme infobar needs an icon - Project Hosting on Google Code</title> <pre> Theme infobar needs an icon.    Possible for 3? </pre>

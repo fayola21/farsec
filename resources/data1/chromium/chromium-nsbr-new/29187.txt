@@ -1,0 +1,1 @@
+<title>Issue 29187 -   chromium -    Print to PDF Strips Images - Project Hosting on Google Code</title>   1. Select recipe and go to print  2. Print to PDF using the PDF button  3. Save and open with Preview...no images.      PDF is made  reproducing the printed page        Images are stripped from the resulting PDF    <b>Please provide

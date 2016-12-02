@@ -1,0 +1,1 @@
+<title>Issue 26627 -   chromium -    Developer report of unreliable tab API - Project Hosting on Google Code</title> <pre> See: <a href="http://groups.google.com/group/chromium-extensions/msg/ea5cd4820ffd1d10">http://groups.google.com/group/chromium-extensions/msg/ea5cd4820ffd1d10</a> </pre>

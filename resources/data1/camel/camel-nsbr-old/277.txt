@@ -1,0 +1,1 @@
+[Spring integration] TheadType is missing in org/apache/camel/model/jaxb.index    TheadType is missing in org/apache/camel/model/jaxb.index =&gt; JAXB don't know how to unmarshall thread.Bug description found in Camel Users forum : http://www.nabble.com/Processor-thread-pool-td13212513s22882.html   

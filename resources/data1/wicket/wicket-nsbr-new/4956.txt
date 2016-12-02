@@ -1,0 +1,1 @@
+compareTo methods of Actions in BufferedWebResponse violate Comparable contract    I've never seen this result in an exception so far  but the implementations of the methods is wrong and will fail on java 7 if multiple action instances of the same class are sorted using Collections.sort. The sorting should return 0 if instances are of the same type.   

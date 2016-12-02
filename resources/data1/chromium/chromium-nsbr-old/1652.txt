@@ -1,0 +1,1 @@
+<title>Issue 1652 -   chromium -    Clearing Browser Data - Project Hosting on Google Code</title>   1. It would be better if we can assign some shortcut keys for clearing   browser data  rather than selecting from a menu.          Clearing the Browser data with some shortcut key.          Please provide

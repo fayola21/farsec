@@ -1,0 +1,1 @@
+enable more testcases in ConcurrencyTest    A number of testcases  which depend on SUR  are not enabled in the ConcurrencyTest.These testcases can be enabled. The test should also set some properties to reduce lock timeout  so that it runs faster.   

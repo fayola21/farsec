@@ -1,0 +1,1 @@
+<title>Issue 8076 -   chromium -    Inbox.com: webmail isn't fully supported in Chrome - Project Hosting on Google Code</title> <pre>   1. Log in to inbox.com to check email    What is the expected output?       What do you see instead?  A message &quot;your browser isn't fully supported. You're using the application   at your own risk&quot;       </pre>

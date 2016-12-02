@@ -1,0 +1,1 @@
+<title>Issue 32822 -   chromium -    Suddenly Chrome makes my Graphics driver loop. - Project Hosting on Google Code</title>   1.Click on Chrome  2.Screen turns black  3.PC hangs.      Chrome to open      Computer hangs    <b>Please provide

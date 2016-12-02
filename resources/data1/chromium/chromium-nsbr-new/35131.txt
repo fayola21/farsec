@@ -1,0 +1,1 @@
+<title>Issue 35131 -   chromium -    Pin tab functionality missing - Project Hosting on Google Code</title>   1. The problem is perpetual.      -When I right-click on a tab  I like to pin a few tabs that I always want   open.      -When I right-click on a tab I am given the typical menu  sans the &quot;pin   tab&quot; option. I miss it!    <b>Please provide

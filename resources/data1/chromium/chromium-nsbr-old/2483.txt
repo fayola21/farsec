@@ -1,0 +1,1 @@
+<title>Issue 2483 -   chromium -    Can't resize AeroGlassFrame from the bottom - Project Hosting on Google Code</title> <pre> It looks like the magic frame on aero glass can't be resized from the   bottom sizing border. </pre>

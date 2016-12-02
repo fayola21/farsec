@@ -1,0 +1,1 @@
+<title>Issue 41769 -   chromium -    Mac polish: too many dividers in Chrome menu (in menu bar) - Project Hosting on Google Code</title> <pre> I count 5 one-element sections and 1 two-element section. </pre>

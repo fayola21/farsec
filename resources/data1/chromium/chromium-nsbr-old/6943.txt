@@ -1,0 +1,1 @@
+<title>Issue 6943 -   chromium -    Future request: delete single page from history - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.158.0  but also each other version                IE 7: OK  Can a function to delete a single page from the history be added?  Now you're only able to delete a full day of history. </pre>

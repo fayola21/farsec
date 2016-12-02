@@ -1,0 +1,1 @@
+<title>Issue 15646 -   chromium -    Status bubble overlaps Mac download shelf - Project Hosting on Google Code</title> <pre>   1. Download something so that the shelf is visible  2. Hover over a link on the page  3. Notice that the URL status bubble is displayed over the shelf     </pre>

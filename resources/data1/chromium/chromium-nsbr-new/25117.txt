@@ -1,0 +1,1 @@
+<title>Issue 25117 -   chromium -    extensions dont load correctly after sleep mode - Project Hosting on Google Code</title>   1.Enter sleep mode with a chrome browser opened  2.Wake up from sleep mode      That the extensions will work      They dont work    <b>Please provide

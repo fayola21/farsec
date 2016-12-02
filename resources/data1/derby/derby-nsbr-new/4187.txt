@@ -1,0 +1,1 @@
+Convert altertable.sql to JUnit    Converting altertable.sql harness test to JUnit   

@@ -1,0 +1,1 @@
+<title>Issue 34633 -   chromium -    delete html5 databases in browsing data remover - Project Hosting on Google Code</title> <pre> html5 databases should be deleted by the browsing data remover </pre>

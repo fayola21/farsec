@@ -1,0 +1,1 @@
+<title>Issue 15104 -   chromium -    NNTP: Closed window menu gets clipped - Project Hosting on Google Code</title> <pre>   1. Open a new window with at least five tabs.  2. Close the window  3. Hover over the item in the recent section.        The menu should not be clipped.   </pre>

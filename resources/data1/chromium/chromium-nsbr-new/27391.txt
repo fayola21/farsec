@@ -1,0 +1,1 @@
+<title>Issue 27391 -   chromium -    Chrome task bar icon incorrect - Project Hosting on Google Code</title>   1. Open Chrome          Taskbar icon should be same as favicon for site in currently selected Tab    or chrome icon.      The icon is part of the loading animation (see attachment)    <b>Please provide

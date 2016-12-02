@@ -1,0 +1,1 @@
+<title>Issue 23618 -   chromium -    Empty FTP error dialog - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.213.1  URLs (if applicable) : <a href="ftp://ftp.mirror.ac.za">ftp://ftp.mirror.ac.za</a>      1. Browse to URL.  2. Notice empty FTP error dialog   </pre>

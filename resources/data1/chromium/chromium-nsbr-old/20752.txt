@@ -1,0 +1,1 @@
+<title>Issue 20752 -   chromium -    Submits a duplicate post when posting to a vBulletin forum - Project Hosting on Google Code</title>   1. Submit a reply to a vBulletin forum thread with either Enter or a mouse   click        Only one reply gets added to the forum thread.        Two replies get added tot he forum thread.    <b>Please provide

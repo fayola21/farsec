@@ -1,0 +1,1 @@
+<title>Issue 3057 -   chromium -    Let both Go and Reload change to Stop - Project Hosting on Google Code</title>   1. Click Reload  2. Click Stop      The Stop button is nearby  within easy reach.      The Stop button is clear on the other side of the screen.    Please provide

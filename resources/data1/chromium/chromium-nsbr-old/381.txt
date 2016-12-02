@@ -1,0 +1,1 @@
+<title>Issue 381 -   chromium -    Middleclick for new tab not working for back/forward/home buttons - Project Hosting on Google Code</title>   1. Use the middle-button on mouse on HOME/BACK/FORWARD buttons in Chrome          A new tab opens with homepage/previous page/next page       Nothing happens    Please provide

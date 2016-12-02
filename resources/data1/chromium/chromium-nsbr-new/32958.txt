@@ -1,0 +1,1 @@
+<title>Issue 32958 -   chromium -    Regression: No picture with Flash on YouTube - Project Hosting on Google Code</title>   1. Open Chrome  2. Go to youtube.com  3. Click on any video        Video plays with sound.        Sound plays but no video is seen. There is a large black box where the   video should be. See screenshot.    <b>Please provide

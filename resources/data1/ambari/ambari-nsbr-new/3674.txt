@@ -1,0 +1,1 @@
+UI does not update active hbase master in display    When we have 3 HBase masters we show in UI that one of them is active. When the master is stopped  the other HBase master is not marked as active in UI. In API it does become active.   

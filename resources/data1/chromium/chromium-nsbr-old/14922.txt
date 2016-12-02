@@ -1,0 +1,1 @@
+<title>Issue 14922 -   chromium -    tab dragging jitters - Project Hosting on Google Code</title> <pre> ben sez: &quot;still jitters when I drag a tab near the mid point of another tab. &quot;    I'll leave it to him to provide more detail. </pre>

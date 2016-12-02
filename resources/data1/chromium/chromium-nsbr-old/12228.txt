@@ -1,0 +1,1 @@
+<title>Issue 12228 -   chromium -    URL entry drawing bug after window resize - Project Hosting on Google Code</title> <pre> Chrome Version       : current Linux builds      Chrome Windows: OK      1. start chromium  2. make window wider      The URL entry should look nice :)      There's a drawing bug -&gt; Screenshot   </pre>

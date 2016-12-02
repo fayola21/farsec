@@ -1,0 +1,1 @@
+<title>Issue 27979 -   chromium -    text bounces when typing in address bar - Project Hosting on Google Code</title>   1. Type in address bar.        Smooth text-entering freedom.      Line of text jumps up and down with each character entered.    <b>Please provide

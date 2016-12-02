@@ -1,0 +1,1 @@
+<title>Issue 43045 -   chromium -    Google Chrome usually crash when enable download by Internet Download Manager 5.18 - Project Hosting on Google Code</title>   1.Turn on advanced browser integration in Internet Download Manager 5.18  2.Check for Google Chrome        Google Chrome will usually crash and need to restart          <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15576 -   chromium -    all clicks in dev tools window are treated as window drag click - Project Hosting on Google Code</title> <pre> See topic. </pre>

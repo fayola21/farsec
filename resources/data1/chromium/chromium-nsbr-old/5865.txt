@@ -1,0 +1,1 @@
+<title>Issue 5865 -   chromium -    crash when closing - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.42  URLs (if applicable) : <a href="http://cnettv.cnet.com/2001-1_53-28106.html">http://cnettv.cnet.com/2001-1_53-28106.html</a>      1. trying to close chromium while playing the video.      not to crash?        it crashes... (duh) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38931 -   chromium -    Links not working in Chrome - Project Hosting on Google Code</title>   1. go to above page  2. scroll down and click on any link on the page        go to that clicked link      get &quot;Aw Snap&quot; page  can reload first page  Seems to be limited to wired.com site    <b>Please provide

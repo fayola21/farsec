@@ -1,0 +1,1 @@
+<title>Issue 36712 -   chromium -    Crash when pressing Ctrl+f - Project Hosting on Google Code</title>   1. open chrome  2. press Ctrl+f        search-box.        Browser crashes.    Please provide

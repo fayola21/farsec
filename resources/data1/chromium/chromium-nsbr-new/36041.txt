@@ -1,0 +1,1 @@
+<title>Issue 36041 -   chromium -    Feature: Theme submission to google chrome themes gallery - Project Hosting on Google Code</title> <pre> Developers should be able to submit themes to the google chrome themes gallery.  (Also a feature template would help save a lot of developers precious time...) </pre>

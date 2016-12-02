@@ -1,0 +1,1 @@
+<title>Issue 25961 -   chromium -    the mouse wont work in full screen - Project Hosting on Google Code</title>   1.trying to watch a full screen video          to be able to use the play/stop or volume buttons        while in full screen mode i cant use anything with the mouse   only the keyboard is working     <b>Please provide

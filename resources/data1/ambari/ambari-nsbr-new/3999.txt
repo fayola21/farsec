@@ -1,0 +1,1 @@
+Long host names are inconvenient for viewing in background operations popup    Steps: Open background operations window and select any operation.Result: If the host name is too long  they are not placed on designated place.Solution:If the host name is too long  we show part of the string with '...' at the end.Also the string should keep in a single line all the time   

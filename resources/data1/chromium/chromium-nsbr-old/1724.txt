@@ -1,0 +1,1 @@
+<title>Issue 1724 -   chromium -    Upscroll using the notebook touchpad doesnt work where as down scroll works - Project Hosting on Google Code</title>   1. Open any page like gmail or any page  you wont able to upscroll with   laptop touchpad where as the same works in IE or mozilla                    Please provide

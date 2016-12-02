@@ -1,0 +1,1 @@
+<title>Issue 10526 -   chromium -    On the New Tab Page  the font size from the thumbnails title changes - Project Hosting on Google Code</title> <pre> 1. Open the New Tab Page  2. Notice as when the title for the most-visited thumbnails changes from   big to smaller.     Note: this is mostly visible the 1st time the NTP is opened.   </pre>

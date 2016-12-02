@@ -1,0 +1,1 @@
+<title>Issue 272 -   chromium -    Labels dont fit buttons with Turkish translation - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    Some labels dont fit buttons with Turkish translation so labels cant be   seen correctly.   </pre>

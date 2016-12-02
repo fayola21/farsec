@@ -1,0 +1,1 @@
+Rerendering a page with WicketTester after you loose permission does not give access-denied    Since WICKET-4256 WicketTester does not give an access-denied page when you try to rerender a page instance after loosing permission to render that page. A testcase is added to WicketTesterTest (rerenderNotAllowed) to demonstrate the problem.   

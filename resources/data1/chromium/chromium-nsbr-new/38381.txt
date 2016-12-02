@@ -1,0 +1,1 @@
+<title>Issue 38381 -   chromium -    Chrome doesnt have touch Screen support - Project Hosting on Google Code</title>   1. If you Use Internet explorer in a touch screen you can move whit  your   fingers scrolling the page but in Chrome thats not posibble  2. I wan Google chrome have touch support for scrolling agains thanks   google :D                  <b>Please provide

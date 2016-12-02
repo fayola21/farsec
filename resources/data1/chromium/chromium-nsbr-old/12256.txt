@@ -1,0 +1,1 @@
+<title>Issue 12256 -   chromium -    Behavior of media cache for the incognito profile. - Project Hosting on Google Code</title> <pre> We have a separate media cache for the incognito profile  but it doesn't do   anything different than the regular media cache: it stores info to disk and   never performs a cleanup. </pre>

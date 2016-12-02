@@ -1,0 +1,1 @@
+<title>Issue 16289 -   chromium -    slider-mouse-events.html fails from webkit merge 45652:45659 - Project Hosting on Google Code</title> <pre> slider-mouse-events.html fails from WebKit merge.    Assigning to hclam as gardener.  Feel free to re-assign. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28070 -   chromium -    Pepper Events implementation - Project Hosting on Google Code</title> <pre> Implement the Pepper event handling APIs specified in:    <a href="https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI#Event_Handling">https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI#Event_Handling</a> </pre>

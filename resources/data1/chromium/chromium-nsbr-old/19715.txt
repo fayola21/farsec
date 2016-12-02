@@ -1,0 +1,1 @@
+<title>Issue 19715 -   chromium -    Failure with Google talk display and position under orkut - Project Hosting on Google Code</title>   1. Enter some Orkut��_��_��_s user main page.          Google talk displays correctly.        Google talk display is messy.     <b>Please provide

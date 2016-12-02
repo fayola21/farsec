@@ -1,0 +1,1 @@
+<title>Issue 43427 -   chromium -    Can't login slicehost - Project Hosting on Google Code</title>   1. Go to slicehost log in page  2. Enter username and password          be able to login successfully.        The page says &quot;That OpenID URL could not be verified&quot;    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21914 -   chromium -    Feature Request: Google Chrome 3.0 stable themes - Project Hosting on Google Code</title> <pre> The &quot;Reset to default themes&quot; button is first and the &quot;Get themes&quot; button is   placed after it in the options menu. The &quot;Get themes&quot; button should be first.   Hope this can be changed soon. </pre>

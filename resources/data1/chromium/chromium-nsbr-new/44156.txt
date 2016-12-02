@@ -1,0 +1,1 @@
+<title>Issue 44156 -   chromium -    When resized  the minimize  maximize and close buttons go pas the window - Project Hosting on Google Code</title>   1.Resize window      Not <a href="http://danindigital.com/chrome.png">http://danindigital.com/chrome.png</a>      <a href="http://danindigital.com/chrome.png">http://danindigital.com/chrome.png</a>    <b>Please provide

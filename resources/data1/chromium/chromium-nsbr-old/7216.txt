@@ -1,0 +1,1 @@
+<title>Issue 7216 -   chromium -    track how users launch Chrome - Project Hosting on Google Code</title> <pre> For users who opt-in to data collection  we should record how they launch   Chrome (desktop shortcut  start menu  opening a document  etc.) to help us   understand usability issues involved with launching Chrome.   </pre>

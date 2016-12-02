@@ -1,0 +1,1 @@
+<title>Issue 17593 -   chromium -    When no NTP background image is provided  the notused.png image paints as white. - Project Hosting on Google Code</title> <pre> If you install a theme with a custom background color but no background   image  the notused.png shows up on the NNTP as white. We can do a quick   workaround for beta  but we should figure out why. </pre>

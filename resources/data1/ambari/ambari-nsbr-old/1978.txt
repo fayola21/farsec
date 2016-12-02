@@ -1,0 +1,1 @@
+Deploying HDP-1.3.0 results in several alerts - is it related to hard-coded port    TaskTracker  RegionServer  HBase master process down because check_tcp failure.Looks like the hadoop-services.cfg.erb has:check_command check_tcp!&lt;%=scope.function_hdp_template_var('jtnode_port')%&gt;!-w 1 -c 1and looks like the ports are not getting replaced and end up being empty.   

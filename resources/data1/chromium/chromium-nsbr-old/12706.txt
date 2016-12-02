@@ -1,0 +1,1 @@
+<title>Issue 12706 -   chromium -    Tabs opened in background are not made active properly - Project Hosting on Google Code</title> <pre>   1. Open a link in the background with cmd-click.  Make sure the link goes  to a webpage that requires scrolling.  2. Switch to that tab.      The scrollbars should be blue  indicating an active tab.      The scrollbars stay white. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34550 -   chromium -    Dynamic tab relocates and is unaccessible with Bamboo Pen and Touch tablet - Project Hosting on Google Code</title>   1. Using the pen  drag tab to very top of screen.      Dragged tab opens in new independent window.      Tab relocates behind Windows 7 task bar  and is unaccessible.     <b>Please provide

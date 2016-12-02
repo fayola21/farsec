@@ -1,0 +1,1 @@
+<title>Issue 25498 -   chromium -    Performance in Google Doc - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.12             Safari 4: Not tested    Firefox 3.x: Ok           IE 7: Not tested           IE 8: Ok      1. Scrolling on xls document      More scrolling speed      Small Delay lag on scroll   </pre>

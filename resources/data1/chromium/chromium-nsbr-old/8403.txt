@@ -1,0 +1,1 @@
+<title>Issue 8403 -   chromium -    Chromium build downloads get cut off on slow internet connections - Project Hosting on Google Code</title>   1. Try to download any of the Chromium builds (either the mini installer or the zip file) from a slow   internet connection (say 40 KB/s)      The whole file downloads      The download stops before it's finished    <b>Please provide

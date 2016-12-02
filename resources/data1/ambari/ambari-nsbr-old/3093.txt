@@ -1,0 +1,1 @@
+Incorrect units of measure for 'HBase Master Heap' widget on Dashboard    'HBase Master Heap' widget on Dashboard displays parameters in TB (param1.png)  but real values are in MB (param0.png).   

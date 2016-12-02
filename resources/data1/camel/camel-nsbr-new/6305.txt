@@ -1,0 +1,1 @@
+debugBefore() and debugAfter() not called if unit test extends CamelBlueprintTestSupport    A test that extends CamelBlueprintTestSupport does not get its debugBefore() and debugAfter() methods called.   

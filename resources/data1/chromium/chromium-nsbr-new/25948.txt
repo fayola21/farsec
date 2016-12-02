@@ -1,0 +1,1 @@
+<title>Issue 25948 -   chromium -    Update check should report failure - Project Hosting on Google Code</title> <pre>   1. Unplug the network cable.  2. Go to the Chrome:About Google Chrome.      Expect: update check to fail.  Observe: no indication of failure.    This needs a KSR update and cooperation from KSG. </pre>

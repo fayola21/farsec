@@ -1,0 +1,1 @@
+<title>Issue 8306 -   chromium -    Ctrl+PgDn only change tab when at the bottom at the current page - Project Hosting on Google Code</title>   1. A page with more text than there can be in the window  2. Press Ctrl+PgDn and it will scroll down instead of changing page  3. When at the bottom at the page then ctrl+pgdn change tab                Please provide

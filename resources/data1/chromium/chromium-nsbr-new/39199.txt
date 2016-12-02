@@ -1,0 +1,1 @@
+<title>Issue 39199 -   chromium -    The Browser Actions container is not synced across windows. - Project Hosting on Google Code</title> <pre> If you resize the container in one window. Other window's containers stay the same. If you open a   new window  however  the correct size is used. </pre>

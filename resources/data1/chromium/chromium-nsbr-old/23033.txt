@@ -1,0 +1,1 @@
+<title>Issue 23033 -   chromium -    Chrome sends wrong mimetype for ssh publickey - Project Hosting on Google Code</title> <pre> Uploading a publickey to bitbucket doesn't work. Presumable it sends the   wrong mimetype as the error given is wrong filetype. Using mac nightly build. </pre>

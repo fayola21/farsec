@@ -1,0 +1,1 @@
+<title>Issue 25929 -   chromium -    window.opener and parent.window.opener both always seem to return null - Project Hosting on Google Code</title> <pre> ChromeFrame version: 4.0.223.9 (Official Build 29618)          1. Attempt to access either window.opener or parent.window.opener      Get access this these.      null is returned. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27366 -   chromium -    DevTools frontend crashes if break event occurs when the frontend is being loaded - Project Hosting on Google Code</title> <pre>   1. Navigate to the attached page.  2. Open DevTools.    What is the expected output?  Script is paused on the 'debugger' staement.    What do you see instead?  The frontend crashes.       </pre>

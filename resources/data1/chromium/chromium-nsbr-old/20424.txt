@@ -1,0 +1,1 @@
+<title>Issue 20424 -   chromium -    There should be a minimum size to prevent the &quot;close&quot; button et al looking weird - Project Hosting on Google Code</title>   1. Resize the window to a small size  2. Observe weird looking window (see attached file)      Most apps just enforce a minimum size...      There's no minimum size and it looks screwed up    <b>Please provide

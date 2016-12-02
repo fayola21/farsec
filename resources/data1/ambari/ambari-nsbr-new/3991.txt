@@ -1,0 +1,1 @@
+Manage config group links needed in save config-group confirmation    When any service config-group is saved  we have a confirmation popup saying save was successful. We should enhance that popup to have a button to Manage Config Groups dialog  along with appropriate message. When button is clicked  the popup should go away and the Manage Config Groups dialog should show.   

@@ -1,0 +1,1 @@
+<title>Issue 37438 -   chromium -    Not opening site - Project Hosting on Google Code</title>   1. Login to the site my.mail.ru.  2. Authorization.  3. Try to go to any other site in the current tab  for example   www.google.com.      Browser will not open a new site  and returned my.mail.ru.      Browser must open the site    <b>Please provide

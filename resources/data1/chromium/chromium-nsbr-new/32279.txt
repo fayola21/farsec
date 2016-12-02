@@ -1,0 +1,1 @@
+<title>Issue 32279 -   chromium -    Extension installed bubble icon size - Project Hosting on Google Code</title> <pre> Chrome Version : 4.0.299.0 (Developer Build 36241)  OS + version : Linux      1. install some extension on a recent build      Extension bubble should display the 32x32 icon      Extension bubble displays the 128x128 icon scaled down to 43x43   </pre>

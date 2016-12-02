@@ -1,0 +1,1 @@
+<title>Issue 15821 -   chromium -    Difficulty with ordering or rearranging Blogger widgets with Chrome - Project Hosting on Google Code</title> <pre> I occasionally change the position of the widgets (layout mode) I use on my   Blogger Blog trinityflorida.org.  I have to use IE to change the order   properly.  Chrome Settings problem or what?    Thanks </pre>

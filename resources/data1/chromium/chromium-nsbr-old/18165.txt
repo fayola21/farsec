@@ -1,0 +1,1 @@
+<title>Issue 18165 -   chromium -    Pull new Dutch dictionary - Project Hosting on Google Code</title> <pre> OpenTaal released a new Dutch dictionary  which we should pull:    <a href="http://www.opentaal.org/download_spellingbestanden.php">http://www.opentaal.org/download_spellingbestanden.php</a> </pre>

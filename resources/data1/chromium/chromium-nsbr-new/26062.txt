@@ -1,0 +1,1 @@
+<title>Issue 26062 -   chromium -    SVG text rendered badly when font-size very large - Project Hosting on Google Code</title>   1. try to draw a SVG &lt;text&gt; element with large font-size  as in attached  testcase          text rendered perfectly      text is rendered badly    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9598 -   chromium -    We need to throttle DNS request - Project Hosting on Google Code</title> <pre> I was looking at this crash with Paul and noticed we have 88 threads with   getaddrinfo on the stack:    http://crash/reportdetail?reportid=194595eb2da8cd9c    We need to set some limit of making DNS requests.    </pre>

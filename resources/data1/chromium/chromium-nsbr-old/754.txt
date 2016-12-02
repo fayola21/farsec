@@ -1,0 +1,1 @@
+<title>Issue 754 -   chromium -    Crash on typing in addressbar: About:% - Project Hosting on Google Code</title>   1. Type in the adressbar About:%  2. Then Crash  3. Chrome shutdown      Nothing      Crash  and shutdown chrome    Please provide

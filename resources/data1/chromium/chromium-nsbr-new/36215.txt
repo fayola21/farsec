@@ -1,0 +1,1 @@
+<title>Issue 36215 -   chromium -    Add automation support for Themes - Project Hosting on Google Code</title> <pre> Following should be exposed via AutomationProxy:  - Install Theme  - Undo Theme  - Change Theme </pre>

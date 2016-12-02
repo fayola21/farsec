@@ -1,0 +1,1 @@
+<title>Issue 12953 -   chromium -    Highlighting a string causes highlighting of the whole text before the string - Project Hosting on Google Code</title>   Explained on video      Explained on video      Explained on video    <b>Please provide

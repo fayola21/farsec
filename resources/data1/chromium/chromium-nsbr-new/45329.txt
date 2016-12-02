@@ -1,0 +1,1 @@
+<title>Issue 45329 -   chromium -    Extensions disappeared - Project Hosting on Google Code</title>   1. Turn on the Chrome  2. Look for my extensions  3. All extensions disappeared      Extensions remain as they were.      All the extensions and my theme disappeared    <b>Please provide

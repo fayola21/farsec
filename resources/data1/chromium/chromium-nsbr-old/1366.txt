@@ -1,0 +1,1 @@
+<title>Issue 1366 -   chromium -    No Javascript support. - Project Hosting on Google Code</title>   1. clicking on any world to enter the game          Javascript should load and start the Javascript.      I can the message &quot;No plugin can be found&quot;    Please provide

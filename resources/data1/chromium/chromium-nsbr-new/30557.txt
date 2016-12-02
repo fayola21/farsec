@@ -1,0 +1,1 @@
+<title>Issue 30557 -   chromium -    Bookmarks Sinchronize not work - Project Hosting on Google Code</title>   1. Click on bookmark sinchornize on new tab.  2. Enter my google account data.        To have my bookmarks in Chrome        In Chrome appears last sinchronization: 11 minutes. but there aren't any   bookmark.      <b>Please provide

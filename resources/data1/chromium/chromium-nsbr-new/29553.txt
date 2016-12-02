@@ -1,0 +1,1 @@
+<title>Issue 29553 -   chromium -    When scrolling there is garbage on screen - Project Hosting on Google Code</title>   1. Just scroll with your mouse          Scroll without garbage      The screen is covered with garbage    <b>Please provide

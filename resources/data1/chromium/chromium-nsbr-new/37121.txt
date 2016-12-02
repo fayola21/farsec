@@ -1,0 +1,1 @@
+<title>Issue 37121 -   chromium -    google translate infobar sometimes shows a double overlay - Project Hosting on Google Code</title> <pre> I loaded a local buildbot slave's update step stdio and got 2 google   translate infobars.  This reproduced briefly in the same tab (while hitting   reload)  but won't reproduce now. </pre>

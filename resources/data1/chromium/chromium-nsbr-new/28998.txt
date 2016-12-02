@@ -1,0 +1,1 @@
+<title>Issue 28998 -   chromium -    Implement AccessibilityUIElement.cellForColumnAndRow - Project Hosting on Google Code</title> <pre> We can't implement this  because the information is not directly exposed by   AccessibilityObject. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17642 -   chromium -    Fedora: IME only enabled by default with CJK locale? - Project Hosting on Google Code</title>   1. start Fedora GNOME desktop with IME working (imsetting+ibus)  2. start new chromium with: LANG=en_US.UTF-8 chromium  3. try to activate IME      IME should work      nothing (IME seems not available in this locale)    Please provide

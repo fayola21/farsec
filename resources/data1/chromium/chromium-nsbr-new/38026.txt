@@ -1,0 +1,1 @@
+<title>Issue 38026 -   chromium -    The purpose of theme_tab_background_v unlocked. - Project Hosting on Google Code</title> <pre> theme_tab_background_v serves to function as an alternative tab background   when Chrome is used in Aero mode. v may stand for 'vista'  etc. </pre>

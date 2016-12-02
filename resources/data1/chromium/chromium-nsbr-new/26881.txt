@@ -1,0 +1,1 @@
+<title>Issue 26881 -   chromium -    scrolling with keyboard arrow keys doesn't work in Google Reader - Project Hosting on Google Code</title>   1. log in to google.com/reader  2. Click on &quot;all items&quot;  3. Press up and down arrow keys to scroll      The page will scroll up or down      Nothing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32326 -   chromium -    compact location bar needs &quot;add bookmark&quot; button - Project Hosting on Google Code</title> <pre> The compact location bar is currently missing &quot;add bookmark&quot; button (star   buttton). </pre>

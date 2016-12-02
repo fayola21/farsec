@@ -1,0 +1,1 @@
+<title>Issue 35262 -   chromium -    Crash while deleting bookmarks - Project Hosting on Google Code</title>   Select a bunch of bookmarks in the manager  try to delete them.      Bookmarks get deleted.        Crash!    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 23835 -   chromium -    browser actions: popup position is a little too low - Project Hosting on Google Code</title> <pre> It used to be up against the bottom of the button highlight.  It appears to   have shifted down a bit  probably due to the recent badge changes that   expanded the size of the toolbar area. </pre>

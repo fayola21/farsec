@@ -1,0 +1,1 @@
+<title>Issue 18759 -   chromium -    Https protocol not supported - Project Hosting on Google Code</title>   1.Open a https supported site      it should enter in      https not supported red screen error screen    <b>Please provide

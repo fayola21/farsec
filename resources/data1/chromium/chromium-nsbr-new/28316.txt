@@ -1,0 +1,1 @@
+<title>Issue 28316 -   chromium -    Extension view unit tests need to be implemented. - Project Hosting on Google Code</title> <pre> Mechanisms for getting decent mocking of Extension and related objects   need to be implemented to allow for easier testing of UI elements cross-  platform. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 32072 -   chromium -    Control-clicking a Page Action icon does not bring up its context menu. - Project Hosting on Google Code</title> <pre> Right-click works  but control-click is a no-op. </pre>

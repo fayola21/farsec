@@ -1,0 +1,1 @@
+<title>Issue 28848 -   chromium -    Functionality bug: More than 8 Thumbnail windows (feature request) - Project Hosting on Google Code</title>    1. Open a new tab      You see a list of thumbnails  presently  you see 8  you should be able to   ajust that amount  so that you eg. could show 4-8-12 or 3-6-9      It just shows 8 and no way to ajust it    <b>Please provide

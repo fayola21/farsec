@@ -1,0 +1,1 @@
+<title>Issue 26983 -   chromium -    Inactive incognito window still shows blue tabs - Project Hosting on Google Code</title> <pre> Steps to reproduce:    1. Open an incognito mode window  2. Move to some other window    Expected behavior:    The tabs should be grey.    Actual behavior:    The tabs are still blue. </pre>

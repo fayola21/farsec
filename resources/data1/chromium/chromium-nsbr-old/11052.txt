@@ -1,0 +1,1 @@
+<title>Issue 11052 -   chromium -    glue/simple_clipboard.cc should be moved into test_shell - Project Hosting on Google Code</title> <pre> glue/simple_clipboard.cc is used only instead test_shell  not other modules.   It should be moved to the test_shell directory. </pre>

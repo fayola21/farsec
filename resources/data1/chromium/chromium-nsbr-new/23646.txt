@@ -1,0 +1,1 @@
+<title>Issue 23646 -   chromium -    WebMediaPlayer.h incorrectly uses std::vector - Project Hosting on Google Code</title> <pre> WebMediaPlayer.h incorrectly uses std::vector    It is a rule that WebKit API should not use STL container types.   </pre>

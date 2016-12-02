@@ -1,0 +1,1 @@
+<title>Issue 46187 -   chromium -    Move data from HttpNetworkSession to IOThread for better sharing and ownership semantics - Project Hosting on Google Code</title> <pre> We should try to share the socket pools and SpdySessionPool beyond just a single HttpNetworkSession.  Other URLRequestContexts may want them  such as WebSockets. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19886 -   chromium -    Conciliate syncapi ctime/mtime with bookmark properties - Project Hosting on Google Code</title> <pre> syncapi syncs ctime and mtime.    the bookmark model supports &quot;date added&quot; and &quot;date modified&quot; properties.    Should these two be connected? </pre>

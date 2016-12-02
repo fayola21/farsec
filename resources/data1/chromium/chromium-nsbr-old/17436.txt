@@ -1,0 +1,1 @@
+<title>Issue 17436 -   chromium -    Clearing data animation is truncated on &quot;Clear Browsing Data&quot; dialog with Russian language - Project Hosting on Google Code</title> <pre>   Russian    2.0.172.37    Win XP SP3    Clear browsing data dialog.     </pre>

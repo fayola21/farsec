@@ -1,0 +1,1 @@
+Minor patch in polish translation    The current PL translation is nice  just minor change to null value to give it universal meaning in some cases   

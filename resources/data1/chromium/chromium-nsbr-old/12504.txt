@@ -1,0 +1,1 @@
+<title>Issue 12504 -   chromium -    chrome's chrome display error - Project Hosting on Google Code</title>   1. Open  chrome on win XP service pack 3          not to display the go left/ go right buttons (like in chrome 1.x      They display    <b>Please provide

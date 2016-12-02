@@ -1,0 +1,1 @@
+<title>Issue 15648 -   chromium -    Move ResourceFetcher and related usage out of WebFrame - Project Hosting on Google Code</title> <pre> Move ResourceFetcher and related usage out of WebFrame </pre>

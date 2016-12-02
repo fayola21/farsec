@@ -1,0 +1,1 @@
+<title>Issue 3388 -   chromium -    Can't hear the audio on hulu's site - Project Hosting on Google Code</title>   1. Play any video on hulu.com  can't hear the audio                    Please provide

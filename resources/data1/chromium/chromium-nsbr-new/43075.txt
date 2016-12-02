@@ -1,0 +1,1 @@
+<title>Issue 43075 -   chromium -    Failed to handle debugger reponse: SyntaxError: Unexpected token ) WHEN USING new Function() - Project Hosting on Google Code</title>   1.using of building javascript function : new Function()          javascript function creation      It Works  but debugger gets SyntaxError    <b>Please provide

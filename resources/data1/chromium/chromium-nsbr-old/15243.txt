@@ -1,0 +1,1 @@
+<title>Issue 15243 -   chromium -    NNTP: Action menu is frozen  - Project Hosting on Google Code</title> <pre> ToT(<a href="/p/chromium/source/detail?r=19163">r19163</a>)    -Action menu in NNTP is frozen  nothing (Hide Thumbnails  Show list..etc)   works out  by clicking on them. </pre>

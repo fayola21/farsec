@@ -1,0 +1,1 @@
+<title>Issue 24950 -   chromium -    rounded windows aren't actually rounded - Project Hosting on Google Code</title> <pre> our rounded window class fakes roundedness by cutting corners. This looks   jacked up for windows with largish corners. </pre>

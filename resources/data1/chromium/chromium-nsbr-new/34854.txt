@@ -1,0 +1,1 @@
+<title>Issue 34854 -   chromium -    Translation Feature Not Working on Wiki. - Project Hosting on Google Code</title>   1. Go to Wikipedia in another language (I chose Spanish)  2. Click &quot;Translate&quot; on the dropdown bar.   3. Wait for tranlation      The page should appear in English      Only the navigation bar is translated.     <b>Please provide

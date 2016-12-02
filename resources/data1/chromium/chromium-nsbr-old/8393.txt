@@ -1,0 +1,1 @@
+<title>Issue 8393 -   chromium -    Regression: some sites on history page lack favicon - Project Hosting on Google Code</title> <pre>   1. Bring up history page  2. Notice not all pages have an icon.          If we haven't fetched the favicon  you should get the default favicon.     </pre>

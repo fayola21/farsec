@@ -1,0 +1,1 @@
+Cluster missing hosts after successful install and restart.    Cluster missing hosts after successful install and restart. This bug got introduced due to my patch in AMBARI-1301.   

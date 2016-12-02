@@ -1,0 +1,1 @@
+<title>Issue 19930 -   chromium -    store.apple.com search box looks terrible in Mac Chrome - Project Hosting on Google Code</title> <pre> See attached screen shot.     </pre>

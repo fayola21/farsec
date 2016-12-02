@@ -1,0 +1,1 @@
+<title>Issue 1381 -   chromium -    SVG shape-rendering=&quot;crispEdges&quot; not honoured - Project Hosting on Google Code</title>   1. Open attached file  CrispTest.svg      Line drawn should not be anti-aliased (1 pixel thick)      Line is anti-aliased (2 pixels thick)    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 43330 -   chromium -    remove spdy_network_transaction - Project Hosting on Google Code</title> <pre> This code is now in http_network_transaction.  It's mostly dead - but our   unit tests are still all based on SpdyNetworkTransaction.    Need to remove this class and make the spdy_network_transaction_unittest.cc   use HttpNetworkTransaction. </pre>

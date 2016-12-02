@@ -1,0 +1,1 @@
+<title>Issue 27720 -   chromium -    Text  misalignment in an image box - Project Hosting on Google Code</title>   1. Just go this page  2. The Vote down area is light red  and the 'n' is outside the box        For all browsers the n is inside the box  including Windows/chrome       the 'n' is outside the red box    <b>Please provide

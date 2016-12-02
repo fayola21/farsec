@@ -1,0 +1,1 @@
+<title>Issue 41279 -   chromium -    Live web pages in extension should get same storage as associated extensions - Project Hosting on Google Code</title> <pre> Extensions can now include live web pages. These pages should get the same storage bucket as   the extension  not the bucket from the origin they are running on. </pre>

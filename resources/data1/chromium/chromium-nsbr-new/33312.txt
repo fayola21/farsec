@@ -1,0 +1,1 @@
+<title>Issue 33312 -   chromium -    One feature about site https://chrome.google.com/extensions - Project Hosting on Google Code</title> <pre> I think this site needs one folder like bookmarks.we can collect the   extension  we love . </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19664 -   chromium -    Should be able to delete form auto-complete value. - Project Hosting on Google Code</title> <pre> ToT(r 23643)    -Bring up form auto-complete pop-up on a web page.  -Select any item/value in the pop-up hit delete key.    Result:  Does nothing.    Expected: Should delete the form auto-complete value.    Woks fine on Mac. </pre>

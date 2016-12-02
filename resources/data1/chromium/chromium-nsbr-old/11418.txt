@@ -1,0 +1,1 @@
+<title>Issue 11418 -   chromium -    NPAPI plugin is not started in Chrome BETA 2.x - Project Hosting on Google Code</title>   1. Enter <a href="http://www.devalvr.com/installation/">http://www.devalvr.com/installation/</a>  2. Install DevalVR plugin        The plugin window should be visible.      The plugin window is not started.     <b>Please provide

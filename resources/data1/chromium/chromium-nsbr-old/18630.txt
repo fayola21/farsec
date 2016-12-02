@@ -1,0 +1,1 @@
+<title>Issue 18630 -   chromium -    REGRESSION: box-shadow with large table graphical bug - Project Hosting on Google Code</title>   1.Run the php script or any html that generates 2000+ rows in a table   with box-shadow      A normal looking table      Black bar to the right of table    <b>Please provide

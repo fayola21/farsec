@@ -1,0 +1,1 @@
+<title>Issue 273 -   chromium -    Truncation of options in Google Gears under 'Create Application Shortcuts' - Project Hosting on Google Code</title>   1. Navigate to webpage in chrome  2. Select 'Create Application Shortcuts...' in controls  3. Dialog box will render with 'Quick Launch Bar' option truncated at   bottom                Please provide

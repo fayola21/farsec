@@ -1,0 +1,1 @@
+<title>Issue 13256 -   chromium -    Comboboxes cannot be focused - Project Hosting on Google Code</title> <pre> 1. Open the option panel  2. Press the TAB key several times to move the focus around     Expected:  The combobox gets focused as part of the focus traversal.    Actual:  The combobox does not get focus through tab traversal  it is skipped.   </pre>

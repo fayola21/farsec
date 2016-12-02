@@ -1,0 +1,1 @@
+<title>Issue 16821 -   chromium -    Memory leak - Project Hosting on Google Code</title>   1. Open the attached hml file with Chrome  2. Open taskmanager (windows)  3. Wait for loop =&gt; 2        The (virtual) memory use should stay stable after 1 loop.        Chromes (virtual) memory use keeps on growing till it crashes.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37217 -   chromium -    Hovering over a bookmark element causes window controls to become active. - Project Hosting on Google Code</title> <pre>   1. Hover over a bookmark in the toolbar.    The window controls (red  yellow  green) become active as you hover over a bookmark action as if   you were hovering over the window controls themselves.   </pre>

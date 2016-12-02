@@ -1,0 +1,1 @@
+<title>Issue 578 -   chromium -    Facebook &quot;ADD a Personal Message Not working&quot; - Project Hosting on Google Code</title>   1. login into facebook  2. add a new friend  3. try adding add a personal message in the invite.    Bhaaam! it wont open the text box!                Please provide

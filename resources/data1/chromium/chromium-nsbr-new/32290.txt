@@ -1,0 +1,1 @@
+<title>Issue 32290 -   chromium -    Tab crash at librarything.com - Project Hosting on Google Code</title>   1. Create an account and login at librarything.com  2. Click add books.  3. Click &quot;choose from 690 sources around the world&quot;  4. Choose portuguese in the language drop down.        Load portuguese sources      Aw snap! tab crashed.    <b>Please provide

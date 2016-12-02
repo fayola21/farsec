@@ -1,0 +1,1 @@
+<title>Issue 27137 -   chromium -    Can't enter curly bracket with AltGR+B on Hungarian Keyboard - Project Hosting on Google Code</title>   1. press AltGr+B with Hungarian keyboard installed      &quot;{&quot; character to appear      nothing happens    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 3244 -   chromium -    SVG masks are broken - Project Hosting on Google Code</title> <pre> Maybe all masks are broken  but svg masks are definitely broken.  This   includes the following tests:    LayoutTests/fast/backgrounds/svg-as-mask.html  LayoutTests/svg/W3C-SVG-1.1/masking-mask-01-b.svg  LayoutTEsts/svg/batik/masking/maskRegions.svg     </pre>

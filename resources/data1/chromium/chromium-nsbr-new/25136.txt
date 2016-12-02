@@ -1,0 +1,1 @@
+<title>Issue 25136 -   chromium -    Segmentation fault when starting latest browser build - Project Hosting on Google Code</title>   1. opened 'chromium-browser' in terminal  2. instant reply with 'Segmentation Fault' without even opening a browser window.      Browser starts      Browser fails to start    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 31332 -   chromium -    won't load history or favicons - Project Hosting on Google Code</title>   1.today chrome won't load any favicons or histories.  2.crashed after about 5 minutes of use. i haven't changed anything on my   system that would cause this.                  <b>Please provide

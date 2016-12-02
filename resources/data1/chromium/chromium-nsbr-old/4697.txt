@@ -1,0 +1,1 @@
+<title>Issue 4697 -   chromium -    How to re-enable &quot;Save Username and Password&quot; - Project Hosting on Google Code</title> <pre> Please tell me  How to re-enable &quot;Save Username and Password&quot; options for   any site such as Orkut. As it is cumbersome to type Username each time    while logging.    please reply me at     hutch_amit@yahoo.co.in </pre>

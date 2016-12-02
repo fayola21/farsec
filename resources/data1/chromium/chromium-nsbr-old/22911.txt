@@ -1,0 +1,1 @@
+<title>Issue 22911 -   chromium -    Printing the wrong area - Project Hosting on Google Code</title>   1. Click the printer icon in the upper right corner  2. Print the page      The area to the right should be printed - see screenshot.        The whole page including the scrollbar gets printed - see screenshot.    <b>Please provide

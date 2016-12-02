@@ -1,0 +1,1 @@
+<title>Issue 35022 -   chromium -    Chrome should provide option to confirm before quit  - Project Hosting on Google Code</title>   1. Command-q  2. Notice that there is no dialog to confirm before actually quitting. This   should be a configurable preference.                 <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36210 -   chromium -    Add automation support for NNTP drag/drop - Project Hosting on Google Code</title> <pre> Drag and Drop for New New tab page should be exposed via AutomationProxy.   </pre>

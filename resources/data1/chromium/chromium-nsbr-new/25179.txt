@@ -1,0 +1,1 @@
+<title>Issue 25179 -   chromium -    HTML5 &lt;video&gt; crashes attempting to autoplay - Project Hosting on Google Code</title>   1.load HTML5 page with embedded video using the &lt;video&gt;&lt;/video&gt; tag      Video will autoplay      Chrome crashes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 31436 -   chromium -    Problem entering a password protected site - Project Hosting on Google Code</title>   1.Go to a password protected web server.  2.Enter your username and password in the popup box.  3.Click OK.      It should let you into the website.      It resets the Username and password entry box.    <b>Please provide

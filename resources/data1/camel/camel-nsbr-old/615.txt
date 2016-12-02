@@ -1,0 +1,1 @@
+Headers should be modifiable using velocity templates    See context at:http://www.nabble.com/Exchange-headers-in-velocity-td17916457s22882.html   

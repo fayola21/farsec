@@ -1,0 +1,1 @@
+<title>Issue 45824 -   chromium -    img's title which has a direction rtl set gets surrounded by squares - Project Hosting on Google Code</title>   1. img with title  2. direction rtl in the css      title text on hover      square characters around the title    <b>Please provide

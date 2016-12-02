@@ -1,0 +1,1 @@
+<title>Issue 11964 -   chromium -    Chrome crashes many times when trying to close it - Project Hosting on Google Code</title>   1. update to 2.0.180.0  2. open some tabs  3. press the close button. Note that the closed tab crashes if you try to   close 1 tab or the full browser crashes when you close the whole browser      to shut down chrome      crash    <b>Please provide

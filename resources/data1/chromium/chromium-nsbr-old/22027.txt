@@ -1,0 +1,1 @@
+<title>Issue 22027 -   chromium -    Some printers don't accept PDFs - Project Hosting on Google Code</title> <pre> Depending on the percentage of print systems that don't accept pdf  we may   need to come up with some other printing solution on Linux.    Please post below if you were directed here by the printing failure infobar. </pre>

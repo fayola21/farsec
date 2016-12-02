@@ -1,0 +1,1 @@
+<title>Issue 37350 -   chromium -    Leverage CookieMessageFilter in RendererWebStorageAreaImpl::setItem - Project Hosting on Google Code</title> <pre> Leverage CookieMessageFilter in RendererWebStorageAreaImpl::setItem    This will enable us to avoid message pumping inside setItem unless there is a   cookie prompt showing.  This is mainly a performance issue.   </pre>

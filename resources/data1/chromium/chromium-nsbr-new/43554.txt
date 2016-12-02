@@ -1,0 +1,1 @@
+<title>Issue 43554 -   chromium -    :first does not works anymore with querySelectorAll ! - Project Hosting on Google Code</title>   1. just use the &quot;:first&quot; selector like $(&quot;A:first&quot;)  2. to avoid the problem try $(&quot;A:first &quot;)  or $(&quot;A:first;&quot;)        It should returns 1 node..        It returns 0 nodes    <b>Please provide

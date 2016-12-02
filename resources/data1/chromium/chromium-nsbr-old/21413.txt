@@ -1,0 +1,1 @@
+<title>Issue 21413 -   chromium -    Make toolstrip handle pop up sooner - Project Hosting on Google Code</title> <pre> It takes soooo long right now :). Should be like 1 second. </pre>

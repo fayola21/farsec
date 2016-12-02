@@ -1,0 +1,1 @@
+<title>Issue 4223 -   chromium -    My Yahoo login cookie disappears often - Project Hosting on Google Code</title>   1. Log in to My Yahoo  say keep me logged in  2. Exit and restart Chrome    What is the expected result? login should be retained    What happens instead? often (30%)  login information is not retained    Please provide

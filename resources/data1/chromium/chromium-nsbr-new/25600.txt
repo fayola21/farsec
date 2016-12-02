@@ -1,0 +1,1 @@
+<title>Issue 25600 -   chromium -    Bookmark bar presentation should animate. - Project Hosting on Google Code</title> <pre> When the bookmark bar is opened and closed  it should animate.    The morphing should work like the windows one when the new tab page is   selected... please study windows carefully. </pre>

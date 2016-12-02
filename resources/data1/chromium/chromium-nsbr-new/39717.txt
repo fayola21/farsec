@@ -1,0 +1,1 @@
+<title>Issue 39717 -   chromium -    Page doesn't load but does with proxy - Project Hosting on Google Code</title>   1. go to wire.tk  2. wait while page is loading  3. finish loading      You will get a wire.tk home page.      I get an answer that Google Chrome could not connect to wire.tk     <b>Please provide

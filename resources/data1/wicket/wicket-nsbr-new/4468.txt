@@ -1,0 +1,1 @@
+Stateful components which are invisible force page to be stateful    Stateful components which are not rendered (setVisible(false)) force the page to be stateful.Page#isPageStateless() visits all components to check Component#isStateless()  whether they are visible or not.Please change this so invisible components no longer force a page to be stateful.   

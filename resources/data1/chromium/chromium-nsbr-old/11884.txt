@@ -1,0 +1,1 @@
+<title>Issue 11884 -   chromium -    gcl upload for added files is broken - Project Hosting on Google Code</title> <pre>   1. svn (cp|ren|mv) a.cc b.cc  2. gcl change containing b.cc      b.cc is left out of the change list   </pre>

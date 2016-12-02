@@ -1,0 +1,1 @@
+<title>Issue 32947 -   chromium -    Fix DecoderBase pending read versus read queue invariant - Project Hosting on Google Code</title> <pre> Re-enable the DCHECK and fix ReadTask() to NOT do a while loop increments to   pending_reads_    Also add in DCHECKs to confirm the invariant in other places of the code. </pre>

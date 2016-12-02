@@ -1,0 +1,1 @@
+Add removeEndpoints to CamelContext    It should support uri patterns so you can remove all endpoints using wild cards etc.removeEndpoints('activemq:queue:foo*')removeEndpoints('ftp:*')   

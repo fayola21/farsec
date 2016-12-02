@@ -1,0 +1,1 @@
+<title>Issue 24391 -   chromium -    Unsolicited Download - Project Hosting on Google Code</title>   1. Login to facebook  2. Goto URL (with Adblock+?)  3. Look at download bar.      No file should be downloaded in download bar.      &quot;B3733703;sz=1x1&quot; is downloaded automatically. (empty file)    <b>Please provide

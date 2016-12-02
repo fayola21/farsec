@@ -1,0 +1,1 @@
+<title>Issue 29926 -   chromium -    Implement the autofill sync data type - Project Hosting on Google Code</title> <pre> When sync is enabled  users should see the same list of choices in the drop   down autofill box for text fields in web forms.   </pre>

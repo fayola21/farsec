@@ -1,0 +1,1 @@
+<title>Issue 26281 -   chromium -    Native Video doesn't work. - Project Hosting on Google Code</title>   1. Go to a internet page that use video balise  2. Click play      Video plays normally...      Video don't play and cursor in the middle...    Please provide

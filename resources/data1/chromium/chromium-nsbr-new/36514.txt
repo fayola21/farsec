@@ -1,0 +1,1 @@
+<title>Issue 36514 -   chromium -    Show favicon for extension pages - Project Hosting on Google Code</title> <pre> When we show an extension page in a tab we should show the icon of the   extension.    If the manifest does not have a 16x16 should we resize the closest icon or   not? </pre>

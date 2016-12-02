@@ -1,0 +1,1 @@
+<title>Issue 5794 -   chromium -    Aw Snap error on Gmail - Project Hosting on Google Code</title>   1. Go to <a href="http://mail.google.com/mail/">http://mail.google.com/mail/</a>  2. Wait till loading  3. See Aw Snap! error      The new GMail should load.      The Aw Snap! error  even after refreshing the page.    Please provide

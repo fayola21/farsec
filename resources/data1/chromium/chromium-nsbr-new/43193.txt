@@ -1,0 +1,1 @@
+<title>Issue 43193 -   chromium -    Resize status bubble as URL changes - Project Hosting on Google Code</title> <pre> Mac version of <a title="Status Bar always has the same width/length" class=closed_ref href="/p/chromium/issues/detail?id=1455"> issue 1455 </a>. </pre>

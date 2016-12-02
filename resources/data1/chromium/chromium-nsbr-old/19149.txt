@@ -1,0 +1,1 @@
+<title>Issue 19149 -   chromium -    Microsoft.com doesn't serve Silverlight based on user-agent - Project Hosting on Google Code</title>   1. <a href="http://www.microsoft.com/fr/fr/">http://www.microsoft.com/fr/fr/</a>            the animation does not start and displays the need to install silverlight   when there is already    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6604 -   chromium -    High CPU usage when playing video from this website - Project Hosting on Google Code</title>   1. go to the url mentioned  2. Play the videos  3. high cpu usage. stop the video  the cpu usage will come down      CPU usage should be below 10%.       CPU usage is high.    Please provide

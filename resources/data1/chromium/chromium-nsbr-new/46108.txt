@@ -1,0 +1,1 @@
+<title>Issue 46108 -   chromium -    New Tab Page Should Have Distinct Favicon - Project Hosting on Google Code</title>   1.Open New Tab Page        New Tab Page should have a distinct favicon appear in the tab      default page icon ( no favicon ) is displayed     <b>Please provide

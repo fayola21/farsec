@@ -1,0 +1,1 @@
+<title>Issue 2065 -   chromium -    Tabs often flicker when moved - Project Hosting on Google Code</title>   1. Grab a tab  2. Place the tab to far right of browser frame  keeping it in bounds  3. Release your hold on the tab  4. Watch carefully  as when the tab lands at its destination  it will   flicker      No flicker      Flicker    Please provide

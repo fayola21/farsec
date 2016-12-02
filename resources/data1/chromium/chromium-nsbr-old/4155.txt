@@ -1,0 +1,1 @@
+<title>Issue 4155 -   chromium -    Notes - Project Hosting on Google Code</title> <pre> Can you do &quot;notes&quot; in Chrome browser like &quot;notes&quot; in Opera browser. This   will help people save important notes for quick access. </pre>

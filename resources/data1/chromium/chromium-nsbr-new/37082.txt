@@ -1,0 +1,1 @@
+<title>Issue 37082 -   chromium -    background_page loading error message doesn't show path - Project Hosting on Google Code</title>   1. add a background page to your extension that not exists  2. the error message says can't load page ''        the error message should say can't load page 'name.html'          <b>Please provide

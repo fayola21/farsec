@@ -1,0 +1,1 @@
+<title>Issue 3902 -   chromium -    menus in webpage not displayed correctly - Project Hosting on Google Code</title>   1. Open the front page. Menus are displayed one below the other instead   inline      See page in Firefox or Explorer      See it in Chrome    Please provide

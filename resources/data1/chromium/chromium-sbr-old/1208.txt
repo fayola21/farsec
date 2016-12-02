@@ -1,0 +1,1 @@
+<title>Issue 1208 -   chromium -    Never elide file extensions (at least in download UI) - Project Hosting on Google Code</title> <pre> In the download UI  and perhaps everywhere else  we should always show the   file extension.  Not doing so puts users at more risk from websites trying   to spoof a file's type/characteristics. </pre>

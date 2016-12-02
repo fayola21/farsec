@@ -1,0 +1,1 @@
+<title>Issue 45744 -   chromium -    New new tab button icons without + - Project Hosting on Google Code</title> <pre> We need new new tab button icons for all platforms without +.    Glen  please assign to Cole once you've attached Windows/Linux ones. </pre>

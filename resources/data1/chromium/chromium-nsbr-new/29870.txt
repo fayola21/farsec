@@ -1,0 +1,1 @@
+<title>Issue 29870 -   chromium -    XML document cannot be seen - Project Hosting on Google Code</title>   1. Open any .xml file or url ending with .xml in Goole Chrome  2. File is opened but no content is shown. Although content is visible in   &quot;view source&quot;.        XML Content should be displayed in browser.      Blank content is seen.    <b>Please provide

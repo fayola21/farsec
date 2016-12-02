@@ -1,0 +1,1 @@
+<title>Issue 45156 -   chromium -    chrome wants to translate a calendar from filipino - Project Hosting on Google Code</title> <pre> <a href="http://jdvhotels.com/calendar.html?datetime=1274857200000&amp;id=0">http://jdvhotels.com/calendar.html?datetime=1274857200000&amp;id=0</a>    chrome version: 6.0.408.1-<a href="/p/chromium/source/detail?r=47574">r47574</a> </pre>

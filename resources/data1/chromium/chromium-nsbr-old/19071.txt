@@ -1,0 +1,1 @@
+<title>Issue 19071 -   chromium -    Drag-and-drop between tabs - Project Hosting on Google Code</title>   1. Select text  2. Drag and hover over other tab      Other tab opens and text can be dropped.      Black circle-with-lines appears.    <b>Please provide

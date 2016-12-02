@@ -1,0 +1,1 @@
+<title>Issue 40083 -   chromium -    Remove --omnibox-popup-count - Project Hosting on Google Code</title> <pre>       If the shortcut properties google chrome under the label in the field of   object append the parameter-omnibox-popup-count = 0  google chrome ends   critically. If the parameter is 1  everything works fine. :) </pre>

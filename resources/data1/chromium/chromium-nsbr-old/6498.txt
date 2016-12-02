@@ -1,0 +1,1 @@
+<title>Issue 6498 -   chromium -    Wrong rendering of styled boxes  using images as borders and corners. - Project Hosting on Google Code</title>   1. go to  for example <a href="http://www.facebook.com/">http://www.facebook.com/</a> (a profile page)  2. watch the box on the right        A nice box.      A messed up box is shown.    Please provide

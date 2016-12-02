@@ -1,0 +1,1 @@
+<title>Issue 36869 -   chromium -    XMLHttpRequest from Worker in the background page fails - Project Hosting on Google Code</title>   1. Install attached extension.  2. Open console of background page.        Response text of XHR.      Error message &quot;NETWORK_ERR: XMLHttpRequest Exception 101&quot;    <b>Please provide

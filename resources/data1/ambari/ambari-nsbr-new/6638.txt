@@ -1,0 +1,1 @@
+Config categories aren't displayed on 'Configure Services' step of Secrity Wizard    See the screenshot attached.JS error Uncaught TypeError: Cannot read property 'filterProperty' of undefined at ambari-web/app/views/common/configs/services_config.js:338   

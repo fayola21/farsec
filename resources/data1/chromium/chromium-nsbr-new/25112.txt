@@ -1,0 +1,1 @@
+<title>Issue 25112 -   chromium -    [Private] Application title - Google Chrome Helper instead of Google Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.5  OS version               : 10.5.8      1. Open Chrome Browser      The menubar should read Google Chrome      The menu bar read Google Chrome   </pre>

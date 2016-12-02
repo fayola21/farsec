@@ -1,0 +1,1 @@
+<title>Issue 31546 -   chromium -    Enter key doesn't work when searching from address bar - Project Hosting on Google Code</title>   1. Enter a search query in the address bar (ctrl-K or click the address bar   and type ?myquery  2. Press Enter      Search Google for my query      Nothing at all    <b>Please provide

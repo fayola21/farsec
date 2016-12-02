@@ -1,0 +1,1 @@
+<title>Issue 14071 -   chromium -    Cloning git://git.chromium.org/chromium.git hangs while &quot;Compressing objects&quot; - Project Hosting on Google Code</title> <pre>   1. git clone git://git.chromium.org/chromium.git src        Everything clones successfully.        git hangs for many hours (forever?) at 41% in the 'remote: Compressing   objects' stage. </pre>

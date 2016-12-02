@@ -1,0 +1,1 @@
+<title>Issue 4718 -   chromium -    Download Progress should display time in seconds - Project Hosting on Google Code</title> <pre> When downloading a file  it should show the amount of seconds left  not  only minutes and hours etc.   </pre>

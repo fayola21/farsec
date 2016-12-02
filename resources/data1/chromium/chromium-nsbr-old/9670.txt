@@ -1,0 +1,1 @@
+<title>Issue 9670 -   chromium -    Mac tabs are dragging even when I don't intend to. - Project Hosting on Google Code</title> <pre> Where I'm seeing it is when I have a few tabs up  and rapidly click between them.  Eventually  I get   just enough move to drop it.  I use a trackball  which probably doesn't help.    Fix on the way. </pre>

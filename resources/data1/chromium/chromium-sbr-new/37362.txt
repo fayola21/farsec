@@ -1,0 +1,1 @@
+<title>Issue 37362 -   chromium -    Security: Ogg Vorbis: Random crashes when playing .ogg - Project Hosting on Google Code</title> <pre> Attached .ogg file has given me a bunch of different crashes when loaded in   Chrome.    Adding people cc-ed on 37184 as this may or may not be related. </pre>

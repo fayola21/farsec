@@ -1,0 +1,1 @@
+<title>Issue 4962 -   chromium -    Bookmark import should retain the order of the bookmarks from source browser - Project Hosting on Google Code</title>   1. Import your IE7 favorites.  2. Notice they are in alphabetic order        I wish it would retain the ordering I have put them in.  It doesn't.      Alphabetic order    Please provide

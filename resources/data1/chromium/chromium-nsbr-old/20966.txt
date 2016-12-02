@@ -1,0 +1,1 @@
+<title>Issue 20966 -   chromium -    REGRESSION: InfoBubble::Show makes window inactive - Project Hosting on Google Code</title> <pre> When you mouseover a page action  a little bubble pops up  and this bubble   gets focus and blurs the window. This shouldn't happen. </pre>

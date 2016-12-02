@@ -1,0 +1,1 @@
+<title>Issue 30720 -   chromium -    Feature Request - Project Hosting on Google Code</title> <pre> It would be nice if you could middle click the submit links on forms to open   the resulting page in a new tab. </pre>

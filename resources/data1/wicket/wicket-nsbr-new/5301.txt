@@ -1,0 +1,1 @@
+Create a module for Native WebSocket based on JSR 356    Tomcat 8 will soon release its RC1 that contains an implementation of JSR 356 - WebSocket 1.0Wicket should provide module to integrate with this API. It should work with other implementations of this JSR too   

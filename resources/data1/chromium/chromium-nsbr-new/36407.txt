@@ -1,0 +1,1 @@
+<title>Issue 36407 -   chromium -    The last Korean character disappears during entering a query at the browser  - Project Hosting on Google Code</title>   1. Type a Korean query at the url input box at the browser.  2. Then we can see the last Korean character disappears during entering a   query.                  <b>Please provide

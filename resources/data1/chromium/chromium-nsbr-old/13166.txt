@@ -1,0 +1,1 @@
+<title>Issue 13166 -   chromium -    Can't disable underlining of hyperlinks - Project Hosting on Google Code</title>   1.Why on earth is this not an option???  How can a modern browser not allow   users to disable underlining of links?  ALL of the competition does.    Please add this to a future build as soon as possible.                    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6778 -   chromium -    Tabs affected by task manager selection should pulsate - Project Hosting on Google Code</title> <pre> Tabs now support pulsating. When a tab is selected in the task manager the   affected tab(s) associated with that selection should pulsate  so it's   clearer to the user what tabs will be affected if the process is killed. </pre>

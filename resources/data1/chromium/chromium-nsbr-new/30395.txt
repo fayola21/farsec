@@ -1,0 +1,1 @@
+<title>Issue 30395 -   chromium -    Chrome causes a complete computer freeze up  lock-up. unresponsive... - Project Hosting on Google Code</title>   1. unpredictable  2. usually when firefox is also running        regular browsing      whole computer crash/frozen (always updated WIN-xp HP computer  running  live-onecare antivirus)    <b>Please provide

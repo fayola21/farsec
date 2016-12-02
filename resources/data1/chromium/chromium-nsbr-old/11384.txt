@@ -1,0 +1,1 @@
+<title>Issue 11384 -   chromium -    Gmail encryption not working on Chrome 2.0 - Project Hosting on Google Code</title>   -      encrytion working      the encryption is broken    <b>Please provide

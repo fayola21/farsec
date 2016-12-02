@@ -1,0 +1,1 @@
+<title>Issue 39241 -   chromium -    [Linux] Pin tabs function is gone - Project Hosting on Google Code</title>   1. Starting up Chrome after update from the last beta-version      That my tabs should be pin'ed      Tabs that where pin'ed in the release before this is not pin'ed anymore    and the option to pin a tab is gone.    <b>Please provide

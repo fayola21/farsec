@@ -1,0 +1,1 @@
+<title>Issue 5097 -   chromium -    checkboxes in gmail not shown by chrome - Project Hosting on Google Code</title>   1. enter gmail  2. see that the checkboxes correponding to each email are not visible        they should be visible...        they are not :|    Please provide

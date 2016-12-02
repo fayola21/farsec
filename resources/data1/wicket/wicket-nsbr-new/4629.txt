@@ -1,0 +1,1 @@
+AbstractLink does not call getBody to get its body    AbstractLink#getBody() is not final  and can be overridded  but AbstractLink#onComponentTagBody() does not call it. Instead it references the bodyModel set by the setBody() method.   

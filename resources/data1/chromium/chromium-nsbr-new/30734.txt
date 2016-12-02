@@ -1,0 +1,1 @@
+<title>Issue 30734 -   chromium -    Website header does not appear in Chrome - Project Hosting on Google Code</title>   1. bring up <a href="http://goodlifezen.com">http://goodlifezen.com</a>          Website should appear like in Firefox with header etc.        Header is missing and nav bar design is missing  Sidebar is also missing      <b>Please provide

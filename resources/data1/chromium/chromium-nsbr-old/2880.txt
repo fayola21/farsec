@@ -1,0 +1,1 @@
+<title>Issue 2880 -   chromium -    YouTube Search Suggestion fails on Chrome (and Safari) - Project Hosting on Google Code</title>   1. Typing a video name in the search textfield  2. Would have appear a list of videos related  3. On the IE works but on the chrome didn't                Please provide

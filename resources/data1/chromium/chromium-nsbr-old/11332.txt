@@ -1,0 +1,1 @@
+<title>Issue 11332 -   chromium -    Inspector blank in trunk (2.0.178.0) builds - Project Hosting on Google Code</title> <pre>   1.  Inspect element    What is the expected output?   DOM listing and stuff.    What do you see instead?  Very little        I believe this also fails in 2.0.177.1. </pre>

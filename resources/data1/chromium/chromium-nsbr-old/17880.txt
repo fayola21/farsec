@@ -1,0 +1,1 @@
+<title>Issue 17880 -   chromium -    Font rendering broken - Project Hosting on Google Code</title>   1. Open chrome-linux  2. Go to any url or just view &quot;new-tab&quot; page        View text correctly.      The text is totally unreadable; copying it to another application works   correctly  though.    <b>Please provide

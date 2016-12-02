@@ -1,0 +1,1 @@
+Add a Camel Component to support MQTT    MQTT is a light weight messaging protocol for small sensors and mobile devices - see http://mqtt.org   

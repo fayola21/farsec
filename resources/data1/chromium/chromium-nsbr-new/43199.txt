@@ -1,0 +1,1 @@
+<title>Issue 43199 -   chromium -    Translate to portuguese an page that was wrote in portuguese! - Project Hosting on Google Code</title> <pre> Sometimes appears on the top a button asking if you want translate the   current page for example &quot;english to portugues&quot;  but the page was wrotten in   portuguese!   </pre>

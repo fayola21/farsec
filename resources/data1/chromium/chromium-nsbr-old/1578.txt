@@ -1,0 +1,1 @@
+<title>Issue 1578 -   chromium -    Button to access bookmarks - Project Hosting on Google Code</title>   1. Try open bookmarks list without using shortcuts  neither opening a new   tab.      Open a list of the user's bookmarks.      Should have a button to access the bookmarks list (maybe on left side of   the star in address bar?).    Please provide

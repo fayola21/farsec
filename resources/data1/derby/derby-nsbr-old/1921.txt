@@ -1,0 +1,1 @@
+Bring STATUS file up to date    The STATUS file is stale:1) Votes taken since February aren't mentioned.2) The development trunk is labelled as 10.23) The committer list is stale.   

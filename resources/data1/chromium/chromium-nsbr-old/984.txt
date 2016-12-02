@@ -1,0 +1,1 @@
+<title>Issue 984 -   chromium -    Downloads do not start when download location is set to network drive - Project Hosting on Google Code</title>   1. Set download location under options -&gt; minor tweaks to any UNC path   (i.e. serversharefolder   2. Attempt to download any file.    3. Download will queue and will stay at 0B.                Please provide

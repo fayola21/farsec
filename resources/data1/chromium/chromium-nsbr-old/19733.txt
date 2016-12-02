@@ -1,0 +1,1 @@
+<title>Issue 19733 -   chromium -    Remove extension's obsolete Current Version file - Project Hosting on Google Code</title> <pre> We have some code to handle migration of Current Version -&gt; prefs for back   compat. Remove it after everyone has migrated. </pre>

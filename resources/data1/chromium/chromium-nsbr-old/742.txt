@@ -1,0 +1,1 @@
+<title>Issue 742 -   chromium -    Setup Lacking support for proxy servers - Project Hosting on Google Code</title>   1. Download Chrome Setup from the website  2. Run the setup through an internet connection behind a proxy server      Setup should download the files and start the installation      Setup shows downloading files for infinite time    Please provide

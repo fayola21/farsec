@@ -1,0 +1,1 @@
+<title>Issue 16038 -   chromium -    Middle clicking a bookmark in Mac Chrome does not open in a new background tab - Project Hosting on Google Code</title> <pre>   1. Display the bookmark bar in Mac Chrome  2. Middle click a bookmark  3. Notice that nothing happens    Middle clicking a bookmark should open that link in a new  background tab. </pre>

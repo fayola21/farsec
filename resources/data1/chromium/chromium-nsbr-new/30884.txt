@@ -1,0 +1,1 @@
+<title>Issue 30884 -   chromium -    w3schools javascript examples don't repaint - Project Hosting on Google Code</title>   1. load the page  2. click the &quot;Edit and Click Me&quot; button      right side of screen repaints  showing results of mods in left side      right side is blank    <b>Please provide

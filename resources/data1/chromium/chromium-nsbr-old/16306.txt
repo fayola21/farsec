@@ -1,0 +1,1 @@
+<title>Issue 16306 -   chromium -    Jump to tab - Keyboard shortcut on Mac OSX - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.192.0    It would be very nice if chrome on osx could implement cmd+&lt;number&gt; for   direct jump to tab. This is the default behavior of firefox. </pre>

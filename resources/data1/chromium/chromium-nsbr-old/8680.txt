@@ -1,0 +1,1 @@
+<title>Issue 8680 -   chromium -    http://www.ssa.gov: Improper Display of Web Pages - Project Hosting on Google Code</title>   1. Go to <a href="http://www.ssa.gov/policy/docs/progdesc/ssptw/">http://www.ssa.gov/policy/docs/progdesc/ssptw/</a> page does not   display well in Chrome but works OK in IE7                    Please provide

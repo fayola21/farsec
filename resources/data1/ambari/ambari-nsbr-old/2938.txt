@@ -1,0 +1,1 @@
+Update stack definition for MAPREDUCE2    Update stack definition for MAPREDUCE2 and the default site xml files.   

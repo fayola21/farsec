@@ -1,0 +1,1 @@
+<title>Issue 36255 -   chromium -    Memory leak with about:memory - Project Hosting on Google Code</title>   1. Go to about:memory  2. Refresh the page several times  3. Notice a huge jump in memory use      For the browser not to leak.      It appears to leak.    <b>Please provide

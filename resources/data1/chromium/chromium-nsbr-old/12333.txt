@@ -1,0 +1,1 @@
+<title>Issue 12333 -   chromium -    Tabs don't size properly on restore - Project Hosting on Google Code</title> <pre>   Restore a chrome session      The tabs should expand to fill the width of the window.  They don't though.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1153 -   chromium -    NetUtilTest.IDNToUnicode fails - Project Hosting on Google Code</title> <pre> NetUtilTest.IDNToUnicode fails  when run on non-English locale. Running  under LANG=C succeeds.    See <a href="http://groups.google.com/group/chromium-dev/msg/16865058437afc7f">http://groups.google.com/group/chromium-dev/msg/16865058437afc7f</a> </pre>

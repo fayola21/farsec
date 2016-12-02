@@ -1,0 +1,1 @@
+<title>Issue 38554 -   chromium -    Consolidate NaCl command line flags - Project Hosting on Google Code</title> <pre> Create a new command line flag (name suggestion '-enable-nacl') to replace   the multiple flags needed now to enable running Native Client modules: --  internal-nacl --enable-gpu-plugin   </pre>

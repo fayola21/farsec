@@ -1,0 +1,1 @@
+<title>Issue 24803 -   chromium -    Google Docs Keyboard Shortcuts Use ctrl not cmd - Project Hosting on Google Code</title>   1. Attempt to copy or paste in Google Docs using cmd shortcuts (i.e.   cmd+A  cmd+C  cmd+V)          Normal cut  copy  paste behaviour      Nothing    <b>Please provide

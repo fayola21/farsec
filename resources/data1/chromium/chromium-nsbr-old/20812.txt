@@ -1,0 +1,1 @@
+<title>Issue 20812 -   chromium -    Download item menus should appear on mouse-down - Project Hosting on Google Code</title> <pre> - download a file so there's a download item in the download strip  - left click on the arrow part of the download item    expected:  - menu drops down so i can drag to select an item    actual:  - nothing happens until mouse up.   </pre>

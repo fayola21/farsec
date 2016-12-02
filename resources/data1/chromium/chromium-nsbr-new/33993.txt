@@ -1,0 +1,1 @@
+<title>Issue 33993 -   chromium -    Tabs close without permission - Project Hosting on Google Code</title>   1. input any URL in new tab  2. close a different tab while the new tab still says loading      Selected tab should be the only one closing      Selected tab and new tab closes    <b>Please provide

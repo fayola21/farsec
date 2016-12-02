@@ -1,0 +1,1 @@
+<title>Issue 45882 -   chromium -    AutomatedUITestBase.FindInPage fails on the Mac - Project Hosting on Google Code</title> <pre> AutomatedUITestBase.FindInPage had never been enabled on the Mac. I'm enabling it as FAILS_  but   we should figure out why the test doesn't work. </pre>

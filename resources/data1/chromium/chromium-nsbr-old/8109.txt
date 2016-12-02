@@ -1,0 +1,1 @@
+<title>Issue 8109 -   chromium -    Recently closed tabs looks odd - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.164.0    See attachment.  It's normal list of Recently closed tabs?  It's looks like it's broken or it should looks like that?    P.S. Why 'Submit Issue' was disabled when I've tried to post Issue here? </pre>

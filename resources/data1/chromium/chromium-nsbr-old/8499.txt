@@ -1,0 +1,1 @@
+<title>Issue 8499 -   chromium -    Google on top on minimize button - Project Hosting on Google Code</title>   1. Open a new &quot;unmaximized&quot; window.          The &quot;Google&quot; text appears next to the minimize button.      Google is on top of the minimize button. If you  maximze the window then   unmaximize  it is fixed.    Please provide

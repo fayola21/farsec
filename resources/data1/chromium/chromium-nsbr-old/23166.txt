@@ -1,0 +1,1 @@
+<title>Issue 23166 -   chromium -    Regression of 9703 - Project Hosting on Google Code</title>   1. go to www.ebay.com  2. the computer freezes.  3. All the details were already given in <a title="Chrome Becomes Unresponsive or Crashes on Facebook" class=closed_ref href="/p/chromium/issues/detail?id=9703"> issue 9703 </a>                <b>Please provide

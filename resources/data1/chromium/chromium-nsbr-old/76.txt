@@ -1,0 +1,1 @@
+<title>Issue 76 -   chromium -    Incorrect fieldset rendering - Project Hosting on Google Code</title>   1. Just load the url in the browser          Panels (fieldsets) on the right  should stay on the right      Right fieldsets go over left fieldsets      Please provide

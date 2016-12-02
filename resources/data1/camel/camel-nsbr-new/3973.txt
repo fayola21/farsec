@@ -1,0 +1,1 @@
+Add send body operations to managed CamelContext so you can pass in headers as well    Currently we only support sendBody / requestBody on ManagedCamelContext. We should add operations that includes a map of headers. Then we supports sending a message that has headers as well.Also the existing operations should accept a java.lang.Object as body instead of a fixed String.   

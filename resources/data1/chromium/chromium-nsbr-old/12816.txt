@@ -1,0 +1,1 @@
+<title>Issue 12816 -   chromium -    2 Bugs - Small Font Text Even In English Language + Dialog(pop-up) boxes have no text - Project Hosting on Google Code</title>   1. Loading Google Chrome up in English(UK) small text still appears  2. When a dialog box pops up  there is no text displayed        Hard to understand what is happening on the page      N/A    <b>Please provide

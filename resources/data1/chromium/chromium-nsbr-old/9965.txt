@@ -1,0 +1,1 @@
+<title>Issue 9965 -   chromium -    Chrome does not update - Project Hosting on Google Code</title>   1. Open Chrome and go to &quot;About Google Chrome&quot;        The browser must detect a new available version.        The browser displays that Chrome is to the latest version.     <b>Please provide

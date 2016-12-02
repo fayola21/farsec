@@ -1,0 +1,1 @@
+Cannot delete cluster with components in UNKNOWN state    When components are marked in an UNKNOWN state  it is not possible to delete the cluster - this should be possible.   

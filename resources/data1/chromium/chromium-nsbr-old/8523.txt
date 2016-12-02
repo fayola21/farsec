@@ -1,0 +1,1 @@
+<title>Issue 8523 -   chromium -    Exit Fullscreen Mode link Unresponsive - Project Hosting on Google Code</title>   1. Going into Fullscreen  2. Clicking Exit Fullscreen (F11)      It should go back to 'normal' screen mode      It is nonresponsive    Please provide

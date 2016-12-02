@@ -1,0 +1,1 @@
+<title>Issue 16074 -   chromium -    Mac - Maximize fails - Project Hosting on Google Code</title>     1. Click the green mac os X maximize button        The expected result would be to get all the screen  like all other programs.        It only gets around 2/3 of the screen.    <b>Please provide

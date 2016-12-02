@@ -1,0 +1,1 @@
+<title>Issue 28865 -   chromium -    add font setting for tab's titles and address bar - Project Hosting on Google Code</title>   1. Run chromium  2. See that it has very small font in address bar and tab's title  3. Close chromium                <b>Please provide

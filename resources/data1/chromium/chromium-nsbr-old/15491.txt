@@ -1,0 +1,1 @@
+<title>Issue 15491 -   chromium -    NNTP: null string in the UI - Project Hosting on Google Code</title> <pre> The options menu has the string &quot;null&quot; in it because we forgot to rename all   instances of recommenations to tips. </pre>

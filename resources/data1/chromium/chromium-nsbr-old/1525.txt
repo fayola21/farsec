@@ -1,0 +1,1 @@
+<title>Issue 1525 -   chromium -    Add a TTF/OTF dynamic font support - Project Hosting on Google Code</title> <pre> Webkit trunk already has that. We have to adapt it to work with our Windows   port.      Related to this bug is supporting EOT fonts.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27506 -   chromium -    SVG not displayed with Ubuntu PPA Chromium - Project Hosting on Google Code</title>   1. SVG not rendered          SVG rendered      Error thrown    <b>Please provide

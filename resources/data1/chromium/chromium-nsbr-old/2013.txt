@@ -1,0 +1,1 @@
+<title>Issue 2013 -   chromium -    Images don't zoom with ctrl mouse wheel or ctlr+ - Project Hosting on Google Code</title>   1.Open any webpage with images.  2 Zoom it with ctrl + or ctrl mouse wheel up      Text and images get bigger.      Only text is enlarged    Please provide

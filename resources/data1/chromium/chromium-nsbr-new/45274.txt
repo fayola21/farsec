@@ -1,0 +1,1 @@
+<title>Issue 45274 -   chromium -    Support CORS (Cross Origin Resource Sharing) - Project Hosting on Google Code</title> <pre> Spec: <a href="http://dev.w3.org/2006/waf/access-control/">http://dev.w3.org/2006/waf/access-control/</a>    Firefox 3.5+ supports this  would be nice to have support for it in Chrome as well. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27600 -   chromium -    Java Applets doesnt work with chrome! - Project Hosting on Google Code</title>   1.installed jre-6u17-windows-i586-iftw-rv but it says plugin required. did   it many times but no success!      Java applets should work on chrome.      Applet doesnt appear  getplugin page comes everytime and i installed it   million times.    <b>Please provide

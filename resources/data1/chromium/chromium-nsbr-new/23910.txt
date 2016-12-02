@@ -1,0 +1,1 @@
+<title>Issue 23910 -   chromium -    Can't type message in facebook - Project Hosting on Google Code</title>   1. Log in to facebook.com  2. Compose Message or reply to message  3. Go in the textbox to type      Your typing appears      Nothing - my typing doesn't show up and I'm not sure why that is    <b>Please provide

@@ -1,0 +1,1 @@
+Rendered URL is resulting with double slash when using AuthenticatedWebApplication    When the application requires authentication and a page requiring authentication is the first page to be accessed the url for the Login page is including a double slash causing a 404. This only happens when the page locked down is mounted with mountPackage.   

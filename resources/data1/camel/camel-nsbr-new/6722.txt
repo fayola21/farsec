@@ -1,0 +1,1 @@
+binding component - Should start/stop its child services    We should ensure all the child services the binding component create is also started/stopped so they can do initialization logic.   

@@ -1,0 +1,1 @@
+<title>Issue 2613 -   chromium -    javascript problem on csa.cz website - Project Hosting on Google Code</title>   1. Log in to csa.cz  2. Go to My Account  3. Go to Change your PIN  4. Enter current PIN and any new PIN  5. Click Submit      PIN is changed        Alert &quot;PIN must contain 5-10 characters  letters and numbers only&quot;    Please provide

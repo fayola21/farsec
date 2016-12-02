@@ -1,0 +1,1 @@
+<title>Issue 35118 -   chromium -    Dialog windows need correct localized sizes - Project Hosting on Google Code</title>   1. Open 'Parameters' window.  2. Go to the last tab.  3. Push 'Content settings' button.  4. Move to 'plug-ins' tab.  5. Push 'Exceptions...' button.      Nice rendering =)      'Close' button moved under 'remove all' button    <b>Please provide

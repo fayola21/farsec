@@ -1,0 +1,1 @@
+<title>Issue 24898 -   chromium -    one mouse click is selecting whole URL instead of just putting cursor to intended  place - Project Hosting on Google Code</title>   1. go to some URL  2. do one click into URL  3. whole URL is selected instead of cursor placement only      cursor on place  where I like to adjust URL      whole URL is selected    <b>Please provide

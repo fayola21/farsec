@@ -1,0 +1,1 @@
+<title>Issue 32343 -   chromium -    Mouse motion speed problem. - Project Hosting on Google Code</title>   1. Mouse motion speed to slow when on Chrome browser. The motion speed not   match with other browser.        -Make the mouse motion speed match with Firefox 3.x      ~~~~~    Thanks.     <b>Please provide

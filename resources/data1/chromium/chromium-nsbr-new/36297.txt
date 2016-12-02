@@ -1,0 +1,1 @@
+<title>Issue 36297 -   chromium -    Extensions page shows blank page. - Project Hosting on Google Code</title> <pre> Build: ToT(<a href="/p/chromium/source/detail?r=39467">r39467</a>)  OS: XP    -Navigate to Extensions page from Wrench menu or by visiting the URL:   chrome://extensions/      Issue: Shows blank page. </pre>

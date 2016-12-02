@@ -1,0 +1,1 @@
+<title>Issue 20585 -   chromium -    Right clicking on URLs should let you go to the address  not search for it - Project Hosting on Google Code</title>   1. Select a URL on a webpage.  2. Right Click.      There should be an entry like &quot;Navigate to &lt;URL&gt;&quot;.      The menu entry says &quot;Search Google for &lt;URL&gt;&quot;      <b>Please provide

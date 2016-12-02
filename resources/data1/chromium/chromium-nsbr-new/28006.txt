@@ -1,0 +1,1 @@
+<title>Issue 28006 -   chromium -    Crash while changing font settings - Project Hosting on Google Code</title>   1. Go to options  &quot;under the hood&quot;  &quot;change font and language settings&quot;  2. click &quot;change&quot; on Sans-Serif Font&quot; then cancel out.        go back to settings      chrome crashes..    <b>Please provide

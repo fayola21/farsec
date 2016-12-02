@@ -1,0 +1,1 @@
+<title>Issue 2764 -   chromium -    Implement custom PAC support leveraging V8 - Project Hosting on Google Code</title> <pre> Implement custom PAC support leveraging V8    This will fix the bug that Chromium cannot load a proxy autoconfig file://   URL.    This is probably also the right solution for porting to other platforms. </pre>

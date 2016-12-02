@@ -1,0 +1,1 @@
+<title>Issue 34461 -   chromium -    Fix CFProtocol test - Project Hosting on Google Code</title> <pre> gcf: protocol test fails now since the protocol is disabled by default for   http requests. We need a different kind of test for this. </pre>

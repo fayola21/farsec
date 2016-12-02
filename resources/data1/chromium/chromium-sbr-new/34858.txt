@@ -1,0 +1,1 @@
+<title>Issue 34858 -   chromium -    Chrome version 4.0.248 BOF - Project Hosting on Google Code</title> <pre> Just by opening this simple file your chrome would crash.     Behrouz S.  The-0utl4w  Aria-Security.Com </pre>

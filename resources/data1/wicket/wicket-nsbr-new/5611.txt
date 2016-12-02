@@ -1,0 +1,1 @@
+Add AjaxChannel.DEFAULT constant = '0' and type 'Queue'    Can I request AjaxChannel.DEFAULT public static constant with a value of '0' ? I don't feel comfortable typing '0' there  I much prefer a constant. http://apache-wicket.1842946.n4.nabble.com/ListenerInvocationNotAllowedException-and-EmptyRequestHandler-tp4663618p4666126.html   

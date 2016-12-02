@@ -1,0 +1,1 @@
+<title>Issue 42817 -   chromium -    [Bookmark Manager] REGRESSION: missing folders and the bookmark manager icon near search box - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.392.0 (45913)    See screenshot </pre>

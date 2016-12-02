@@ -1,0 +1,1 @@
+<title>Issue 40909 -   chromium -    Upgrade Hunspell to 1.2.9 - Project Hosting on Google Code</title> <pre> 1.2.9 is a bugfix release  released in 2010-03-03  I believe chrome is using 1.2.8    I am guessing that staying up to date with this one will help ease future   upgrades </pre>

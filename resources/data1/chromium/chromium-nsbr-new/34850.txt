@@ -1,0 +1,1 @@
+<title>Issue 34850 -   chromium -    when i go to the google chrome extensions website i get the page in japanese instead of english - Project Hosting on Google Code</title>   1.go to the options tab  2. go to exensions  3.click get more extensions      the webpage in english      its not in english    <b>Please provide

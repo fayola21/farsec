@@ -1,0 +1,1 @@
+<title>Issue 5686 -   chromium -    On Windows executable no registered with operating system completely - Project Hosting on Google Code</title>   1. On windows type  Windows+R  2. Type 'chrome'  press enter        chrome.exe is run          Windows cannot find 'chrome'. Make sure you typed the name correctly  and  then try again.    Please provide

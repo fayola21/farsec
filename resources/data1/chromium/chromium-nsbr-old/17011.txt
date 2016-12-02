@@ -1,0 +1,1 @@
+<title>Issue 17011 -   chromium -    Keyboard combination to override popup blocker - Project Hosting on Google Code</title> <pre> In IE8  holding Ctrl+Alt overrides the popup blocker as long as the user is   holding the key combination    i find it very useful. </pre>

@@ -1,0 +1,1 @@
+camel-jdbc should provide a option not set the autoCommit flag    When the jdbc connection is work as XA resource  the connection autoCommit flag doesn't support to be reset.So we should provide an option in the camel-jdbc endpont not to set the autoCommit flag on the connection.   

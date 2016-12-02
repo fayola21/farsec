@@ -1,0 +1,1 @@
+<title>Issue 21249 -   chromium -    Logout from secure site when opening a popup - Project Hosting on Google Code</title>   1. Open a popup from within the site  2. Popup opens or Notification occurs  3. Main site logs off      The popup opens and the main site remains logged in      The popup opens and the main site logs off    <b>Please provide

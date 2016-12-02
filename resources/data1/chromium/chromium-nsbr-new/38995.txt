@@ -1,0 +1,1 @@
+<title>Issue 38995 -   chromium -    Change &quot;query&quot; argument to &quot;text&quot; in chrome.experimental.history.query - Project Hosting on Google Code</title> <pre> This annoyed me last time I reviewed the API and I agreed to wait awhile and see if it still did. It still   does. </pre>

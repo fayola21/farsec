@@ -1,0 +1,1 @@
+<title>Issue 42122 -   chromium -    Non-security bugs with malformed audio and video files - Project Hosting on Google Code</title> <pre> The following OGG attachments crash ffmpeg with various non-exploitable   conditions (e.g. assert()s  fixed-offset NULLs etc). Hence not filing as a   security bug. But some appear to be regressions? </pre>

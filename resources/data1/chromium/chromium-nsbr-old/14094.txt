@@ -1,0 +1,1 @@
+<title>Issue 14094 -   chromium -    Chrome 2.0.172.31 (Windows) Close on Back Button - Project Hosting on Google Code</title>   1. Open Chrome  2. Login to www.gmail.com  3. Click the back button a bunch of times really fast!        Should end up back at start page with the thumbnail grid and a  disabled back button.      Chrome closes.    <b>Please provide

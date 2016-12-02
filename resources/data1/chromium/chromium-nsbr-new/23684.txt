@@ -1,0 +1,1 @@
+<title>Issue 23684 -   chromium -    mac does not respect volume - Project Hosting on Google Code</title> <pre>   1. play video  2. change volume with slider    What is the expected output?  volume/mute should be respected.    What do you see instead?  Always full volume   </pre>

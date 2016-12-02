@@ -1,0 +1,1 @@
+<title>Issue 1913 -   chromium -    Citirx Web Client installation does not support Chrome - Project Hosting on Google Code</title>   1. Down load citrix web client  2. Run installation  3. Lunch Citrix website to launch application .. it is not working      Launch the my site and auth. then run my citrix applications      it lounch the site but i cant auth.    Please provide

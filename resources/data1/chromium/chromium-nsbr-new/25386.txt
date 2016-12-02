@@ -1,0 +1,1 @@
+<title>Issue 25386 -   chromium -    strange page orientation - Project Hosting on Google Code</title>   1. search from address bar          normal page orientation      direction wrong    <b>Please provide

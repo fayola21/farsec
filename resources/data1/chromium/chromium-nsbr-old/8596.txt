@@ -1,0 +1,1 @@
+<title>Issue 8596 -   chromium -    http://www.hk-pub.com: Chrome have something wrong with Discuz! 5.50 - Project Hosting on Google Code</title>   -      all Hyperlink are clickable.      cursor have no change when point to text.  Nearly all Hyperlink can not be click as usual.    Please provide

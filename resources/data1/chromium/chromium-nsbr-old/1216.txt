@@ -1,0 +1,1 @@
+<title>Issue 1216 -   chromium -    When a new scrap comes a pop up is shown at the right corner and when clicke on settings its navigating to orkut home - Project Hosting on Google Code</title>   1. check why session validation is beign failed          to navigate to settings page        navigating to home page    Please provide

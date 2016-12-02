@@ -1,0 +1,1 @@
+<title>Issue 13850 -   chromium -    Tool &amp; Page button drop down crash - Project Hosting on Google Code</title>   1.When I click on the wrench or the page buttons I get the drop down menu   but if I click on any of the options in the drop down menus Chrome crashes.  This repeats all the time without exception.                    <b>Please provide

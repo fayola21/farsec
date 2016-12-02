@@ -1,0 +1,1 @@
+<title>Issue 2324 -   chromium -    Remove old frame code - Project Hosting on Google Code</title> <pre> Now that we have the new frames  the old frame code should be removed. </pre>

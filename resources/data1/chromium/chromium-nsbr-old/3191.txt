@@ -1,0 +1,1 @@
+<title>Issue 3191 -   chromium -    Add menu item for opening a local file - Project Hosting on Google Code</title> <pre> None of our current ways to open a local file (ctrl-O  drag the file in    type a file:// or c:/ URL) is both convenient and discoverable.  We should   add an &quot;Open file...&quot; item to the page menu. </pre>

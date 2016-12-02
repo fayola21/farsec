@@ -1,0 +1,1 @@
+<title>Issue 11655 -   chromium -    Yahoo! New Mail does not recognize Chrome for Mac  - Project Hosting on Google Code</title> <pre>   1.   Login to Yahoo! with Chrome for Mac  2.   Go to your mail    What is the expected output?      New Mail UI.    What do you see instead?     Warning that &quot;browser is not supported  blah blah blah&quot;   </pre>

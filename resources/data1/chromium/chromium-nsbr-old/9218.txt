@@ -1,0 +1,1 @@
+<title>Issue 9218 -   chromium -    Suggest a feature: hot key for pre-tab; next-tab - Project Hosting on Google Code</title> <pre> I suggest a feature for Chrome  that is add two hot keys:  alt + -&gt;   : Switch to immediately right tab  alt + -&lt;   : Switch to immediately left tab. </pre>

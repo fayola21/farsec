@@ -1,0 +1,1 @@
+<title>Issue 33048 -   chromium -    &quot;index&quot; property should be optional with &quot;chrome.tabs.move&quot; - Project Hosting on Google Code</title>   1. Try to move a tab with &quot;chrome.tabs.move&quot;  but without the &quot;index&quot;   property.      The tab should be moved to be last in the window.      An error is thrown.    <b>Please provide

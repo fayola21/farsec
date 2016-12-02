@@ -1,0 +1,1 @@
+<title>Issue 45943 -   chromium -    Strange redraw artifacts on some sites - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0  URLs (if applicable) : darkroastedblend.com  pajiba.com           Safari 4: ok    Firefox 3.x:ok           IE 7:n/a           IE 8:n/a    There are redraw garbled artifacts on some pages.  See attached. </pre>

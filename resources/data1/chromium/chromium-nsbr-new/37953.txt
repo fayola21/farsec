@@ -1,0 +1,1 @@
+<title>Issue 37953 -   chromium -    Feature request: Give a different icon for incognito - Project Hosting on Google Code</title> <pre> I wish that incognito windows will have a slightly different icon. </pre>

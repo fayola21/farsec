@@ -1,0 +1,1 @@
+<title>Issue 36361 -   chromium -    debugger command in console freezes page - Project Hosting on Google Code</title>   1. open console  2. type debugger and press enter twice  3. press continue       page resumes normally       page freezes  can't interact with it    <b>Please provide

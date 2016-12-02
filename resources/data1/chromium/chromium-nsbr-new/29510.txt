@@ -1,0 +1,1 @@
+<title>Issue 29510 -   chromium -    Chrome: corrupt downloads - Project Hosting on Google Code</title>   1. Download any archive bigger than ~10MB (below problem not seen  actually   tested 6MB was OK  first bigger downloaded file was 40MB and was not OK)  2. Try to unpack archive  3. CRC error on file.      File should unpack OK      File is corrupted.    <b>Please provide

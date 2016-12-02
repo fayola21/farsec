@@ -1,0 +1,1 @@
+<title>Issue 4430 -   chromium -    Chrome closes completely when last open tab is closed  in my opinion it should show you the new tab window. - Project Hosting on Google Code</title>   1. Close all open tabs.  2. Browser closes completely. (doh!)  3. Why didn't it just take me to the new tab page?                Please provide

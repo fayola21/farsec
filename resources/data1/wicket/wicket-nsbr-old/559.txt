@@ -1,0 +1,1 @@
+LocalizedImageResource escapes ampersands twice (regression)    urlFor returns escaped ampersands (apparently  a change) so LocalizedImageResource should not do it a second time.   

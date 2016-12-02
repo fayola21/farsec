@@ -1,0 +1,1 @@
+<title>Issue 32257 -   chromium -    http://paulirish.com/work/gordon/demos/blue.html leaks memory. - Project Hosting on Google Code</title> <pre> This page leaks memory on 4.0.288.1 unstable Linux build and 4.0.249.49 beta   Mac build uses x4 more memory than Safari 4.0.4.   </pre>

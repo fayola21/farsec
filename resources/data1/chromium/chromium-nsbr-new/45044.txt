@@ -1,0 +1,1 @@
+<title>Issue 45044 -   chromium -    Wonder bar display is jumbled - Project Hosting on Google Code</title>   1. install windows 7 64-bit  2. install latest Chromium build  3. open and see issue      semi-pixelated wonderbar.          <b>Please provide

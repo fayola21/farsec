@@ -1,0 +1,1 @@
+<title>Issue 12963 -   chromium -    inbox.com: compose message font too small in Chrome - Project Hosting on Google Code</title>   1. Login to inbox.com  2. Compose a message  3. Start typing in the message body            The font is too small that it is hardly readable. See screenshot.    <b>Please provide

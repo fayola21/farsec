@@ -1,0 +1,1 @@
+<title>Issue 37969 -   chromium -    Cannot replay sound - Project Hosting on Google Code</title>   1. Create a global variable in JavaScript of a new audio object  2. Play that sound using the object's play function.  3. Try playing that sound again by calling play.       The sound should play again.      It will not play after the first time.     <b>Please provide

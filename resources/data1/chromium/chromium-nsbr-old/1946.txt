@@ -1,0 +1,1 @@
+<title>Issue 1946 -   chromium -    Chromium not saving bookmarks - Project Hosting on Google Code</title>   1. add a bookmark.  2. restart chromium.  3. notice how bookmark isn't there.      saved bookmarks.      they aren't saved!    Please provide

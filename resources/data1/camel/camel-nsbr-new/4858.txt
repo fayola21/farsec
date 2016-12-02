@@ -1,0 +1,1 @@
+xpath expression with $header with saxon may throw exception if header did not exist    See CAMEL-747We should return an empty String instead of a Void.class  as this works with both JDK + Saxon XPathEngine.Saxon does not work with the Void.class.   

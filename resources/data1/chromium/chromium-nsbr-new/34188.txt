@@ -1,0 +1,1 @@
+<title>Issue 34188 -   chromium -     Issue 34184 in chromium - Project Hosting on Google Code</title> <pre> Sorry  I expressed myself badly...    I noticed that in Internet Explorer plugin that works normally but not in   google chrome.       </pre>

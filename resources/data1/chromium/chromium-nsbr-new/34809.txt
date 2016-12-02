@@ -1,0 +1,1 @@
+<title>Issue 34809 -   chromium -    subpixel rendering support for images on Linux - Project Hosting on Google Code</title> <pre> Browser resized images can look sharper if they can take advantage of   subpixel rendering on appropriate display hardware. Patch attached to add   library support but not enable. Please review and consider for inclusion.     </pre>

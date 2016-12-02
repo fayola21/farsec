@@ -1,0 +1,1 @@
+<title>Issue 6565 -   chromium -    Chrome mouse scrolling's granularity is too big - Project Hosting on Google Code</title>   1. Go any url with a long page.  2. Scroll down/up the mouse      The page should be scroll up/down smoothly      It scrolls up/down too much of the web page  I often lost when I am reading   on the page.    Please provide

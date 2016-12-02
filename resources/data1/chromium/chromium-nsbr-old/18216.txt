@@ -1,0 +1,1 @@
+<title>Issue 18216 -   chromium -    Installation instructions are confusing about 64-bit support - Project Hosting on Google Code</title>   1. Try to run chromium  2. Watch the output      Chromium up and running      Message about invalid ELF class is shown.    <b>Please provide

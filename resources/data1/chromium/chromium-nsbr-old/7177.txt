@@ -1,0 +1,1 @@
+<title>Issue 7177 -   chromium -    Cursor should blink in Classic Yahoo compose box - Project Hosting on Google Code</title> <pre> Looks like it never worked.    -In Yahoo Classic mail  click on Compose box.  -Click on To/CC/BCC    Expected:  Mouse cursor should blink    Result:  Nothing happens. </pre>

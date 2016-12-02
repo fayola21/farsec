@@ -1,0 +1,1 @@
+<title>Issue 6870 -   chromium -    Omnibox should suggest other about: protocols - Project Hosting on Google Code</title> <pre> It would be nice to have (low-relevance) autocomplete matches suggested for   our various about: pages  so you could discover them by typing &quot;about&quot;. </pre>

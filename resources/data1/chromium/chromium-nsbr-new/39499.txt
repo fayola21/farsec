@@ -1,0 +1,1 @@
+<title>Issue 39499 -   chromium -    Small boxes from tabs appear when program is minimized - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.356.2      It happens occasionally after I minimize Chrome  these boxes appear.    Presumably these have something to do with the new Aero Peak feature.  </pre>

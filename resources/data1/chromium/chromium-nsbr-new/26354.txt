@@ -1,0 +1,1 @@
+<title>Issue 26354 -   chromium -    Chrome on Linux does not respect DPI - Project Hosting on Google Code</title>   1. Configure the system with non-standard DPI (in my case  200)  2. Open Chrome        Everything is scaled according to the DPI: Chrome's own icons  tab labels    website contents.        The DPI has no effect (except for the dialogs).    <b>Please provide

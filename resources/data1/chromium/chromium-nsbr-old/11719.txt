@@ -1,0 +1,1 @@
+<title>Issue 11719 -   chromium -    Title bar turns black in maximized mode - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=15736">r15736</a>)    -Maximize Chrome browser window.    The empty title bar turns black (including window management controls). Looks   good in unmaximized mode.    Sceenshot attached. </pre>

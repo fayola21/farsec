@@ -1,0 +1,1 @@
+<title>Issue 7134 -   chromium -    Tabs bar cut when using Aero and window is maximized. - Project Hosting on Google Code</title>   1. Open Google Chrome  2. Maximize window.      The tab bar should appear not cut.      The tab bar appear cut in the upper part.    Please provide

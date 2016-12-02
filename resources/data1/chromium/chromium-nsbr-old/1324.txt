@@ -1,0 +1,1 @@
+<title>Issue 1324 -   chromium -    middle click on the back/forward buttons doesnt open the page in a new tab - Project Hosting on Google Code</title>   1. middle click opens a new tab  but it doesnt do anything when using it on   the back forward  and go to webpage buttons          new tab      nothing    Please provide

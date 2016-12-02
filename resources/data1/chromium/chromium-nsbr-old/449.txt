@@ -1,0 +1,1 @@
+<title>Issue 449 -   chromium -    Browser shutdown when last tab closing - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)      1. Open browser with 1 tabsite  2. Close tab      Opening of HomeBlankFastdial page      Browser closing </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14670 -   chromium -    Google Chrome logo squished on page not found page - Project Hosting on Google Code</title> <pre> Navigate to a page that won't load.  The logo width is resized so that it looks like my geocities site from when I   was 13. See attachment for ugliness.    </pre>

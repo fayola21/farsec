@@ -1,0 +1,1 @@
+<title>Issue 10019 -   chromium -    Browser Crashes CONSTANTLY - Project Hosting on Google Code</title>   1. Browse Websites          Be able to browse websites and read content      Browser crashes constantly  whether or not I'm clicking or typing or just   reading.    <b>Please provide

@@ -1,0 +1,1 @@
+Using service stop instead of killall for uninstall       

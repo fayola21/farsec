@@ -1,0 +1,1 @@
+Nagios alerts are not shown on SUSE    STR:1. Deploy cluster by default scenario w/o Storm and Falcon.2. Go to HDFS service page.3. Go to Nagios service page.4. Navigate to Nagios Web UI.5. Enter credentials nagiosadmin/passwordActual results: There are no alerts on service page. Web UI is unavailable due to ERROR 403.Screenshots attached.   

@@ -1,0 +1,1 @@
+<title>Issue 45865 -   chromium -    Mac 10.6: Dev tools window��_��_��_s title bar is a different color from the toolbar when the window is in the background - Project Hosting on Google Code</title> <pre> Mac 10.6: Dev tools window��_��_��_s title bar is a different color from the toolbar when the window is in   the background </pre>

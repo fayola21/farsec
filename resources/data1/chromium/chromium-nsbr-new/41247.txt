@@ -1,0 +1,1 @@
+<title>Issue 41247 -   chromium -    need to sync kAutoFillDefaultProfile - Project Hosting on Google Code</title> <pre> Autofill profiles are synced but the &quot;default&quot; attribute is stored in prefs    and is not currently synced.  It should be added to   synchronized_preferences.h and tested for syncing </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1755 -   chromium -    Java Applets not loading - Project Hosting on Google Code</title>   1. Open any https site with java applet  2. Open any http site with java applet                  Please provide

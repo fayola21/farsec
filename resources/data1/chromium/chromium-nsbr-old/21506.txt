@@ -1,0 +1,1 @@
+<title>Issue 21506 -   chromium -    Thumbnail 'undo' is not highlighted. - Project Hosting on Google Code</title> <pre> Repros on ToT and 3.0.195.19    -Remove a thumbnail in NNTP.    As shown in the screenshot  notice the 'undo' link is not highlighted  (grayed out)  though it is click-able.      Marking this Beta blocker. </pre>

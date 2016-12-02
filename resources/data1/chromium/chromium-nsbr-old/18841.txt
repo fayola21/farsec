@@ -1,0 +1,1 @@
+<title>Issue 18841 -   chromium -    Vista SP2: with 100 tabs open  mouse has to be on edge of screen to close entire window - Project Hosting on Google Code</title>   1.see summary          when mouse is at middle of x button  pressing closes window      nothing    <b>Please provide

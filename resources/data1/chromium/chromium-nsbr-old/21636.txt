@@ -1,0 +1,1 @@
+<title>Issue 21636 -   chromium -    Make RestoreTab automated_ui_tests action not hang when it's invalid - Project Hosting on Google Code</title> <pre> When there is no tab to restore the command will hang (the automation   provider won't send IPC reply). </pre>

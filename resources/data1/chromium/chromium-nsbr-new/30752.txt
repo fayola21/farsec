@@ -1,0 +1,1 @@
+<title>Issue 30752 -   chromium -    Permission increase UI not displayed if user dismisses infobar - Project Hosting on Google Code</title> <pre> We have a report that if the user dismisses the infobar UI  the permissions   dialog is not displayed when they later re-enable the extensions from the   management page. </pre>

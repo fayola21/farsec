@@ -1,0 +1,1 @@
+<title>Issue 27921 -   chromium -    less padding on the extension &quot;successfully installed&quot; bubble - Project Hosting on Google Code</title> <pre> The bubble you see when you install an extension should have less padding   around the sides in general and the close box should be a few pixels closer   to the upper right hand corner. </pre>

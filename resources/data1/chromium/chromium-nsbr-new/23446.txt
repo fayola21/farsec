@@ -1,0 +1,1 @@
+<title>Issue 23446 -   chromium -    Vista x64 Chrome window resized small looks bad - Project Hosting on Google Code</title>   1. Windows Vista x64 machine.  2. Install Chrome browser.  3. Open a URL.  4. Resize the window very small.                <b>Please provide

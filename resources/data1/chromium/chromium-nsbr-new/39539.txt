@@ -1,0 +1,1 @@
+<title>Issue 39539 -   chromium -    Chrome fails this test horribly - max connections and images - Project Hosting on Google Code</title> <pre> Firefox: OK  Opera: OK        <a href="http://stevesouders.com/hpws/max-connections.php">http://stevesouders.com/hpws/max-connections.php</a>   </pre>

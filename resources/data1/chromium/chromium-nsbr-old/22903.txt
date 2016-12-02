@@ -1,0 +1,1 @@
+<title>Issue 22903 -   chromium -    No 'refresh' in context (right-click) menu in iframes. - Project Hosting on Google Code</title>   1. right click in an &lt;iframe&gt;      Having a way to reload the iframe content.      No way to reload the iframe content manually (without refreshing the entire   page).    <b>Please provide

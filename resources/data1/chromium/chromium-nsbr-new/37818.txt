@@ -1,0 +1,1 @@
+<title>Issue 37818 -   chromium -    Animations in autofill profile dialog box on Windows - Project Hosting on Google Code</title> <pre> David Holloway implemented some nice animations for the autofill dialog box   on Mac. We should implement these on windows too. Sez Linus  &quot;No transition   in Chrome's UI should appear discontinuous.&quot; </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45729 -   chromium -    Broken font-rendering in buildbot builds 48690 to 48693 - Project Hosting on Google Code</title>   1. Fetch build 48693 from the buildbot for Linux.  2. Open an URL using the Monaco font in Chromium.  3. See ugly font rendering.      Nice font rendering like in previous builds (48690).      Ugly font rendering.    <b>Please provide

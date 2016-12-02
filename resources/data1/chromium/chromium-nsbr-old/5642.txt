@@ -1,0 +1,1 @@
+<title>Issue 5642 -   chromium -    list-style-type square has rounded upper-left corner - Project Hosting on Google Code</title>   1. Open attached html file  2. Look at it          The list items should have a square in front of them        The upper left corner of the square is rounded    <b>Please provide

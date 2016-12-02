@@ -1,0 +1,1 @@
+SpringCamelContext will get into endless loop of calling start method if the route service calling the ApplicationContext refresh method in it's initial method    Here is the mail thread which discusses this issue.http://www.nabble.com/StackOverFlow-error-with-Camel-1.6.1-tp24172060p24172060.html   

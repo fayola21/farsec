@@ -1,0 +1,1 @@
+<title>Issue 32953 -   chromium -    relative-sized-shadow-tree-content-with-symbol.xhtml - Project Hosting on Google Code</title> <pre> Regression with WebKit roll 53704 -&gt; 53747.    svg/custom/relative-sized-shadow-tree-content-with-symbol.xhtml = IMAGE+TEXT </pre>

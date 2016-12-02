@@ -1,0 +1,1 @@
+<title>Issue 11232 -   chromium -    Add support for ThemeProvider to views - Project Hosting on Google Code</title> <pre> Views should gain the notion of a ThemeProvider to reduce our dependence on   ResourceBundle. This ThemeProvider should be profile-aware. </pre>

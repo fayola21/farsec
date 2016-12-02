@@ -1,0 +1,1 @@
+<title>Issue 20830 -   chromium -    Tabs Not Using Theme Color - Project Hosting on Google Code</title>   1. Set Chrome theme too grey scale (did not test other themes)          Tabs that are not in focus use the theme's color (a grey variant IIRC)      Tabs that are not in focus appear blue (like in Chrome's default theme)    <b>Please provide

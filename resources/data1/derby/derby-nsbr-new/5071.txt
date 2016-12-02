@@ -1,0 +1,1 @@
+[patch] use string buffers when building strings in loops    Various spots in code builds up strings in loops. This causes n extra StringBuffer allocations and n extra String allocationspatch replaces with direct StringBuffer use.   

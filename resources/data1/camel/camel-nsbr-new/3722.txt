@@ -1,0 +1,1 @@
+ThreadPoolProfile - Use string types so its much easier to use property placeholders    In the XML DSL you can use threadPoolProfile to define profiles for thread pools. People may want to use property placeholders for min/max values etc. Using xs:string is thus much easier to do that. We do that for some of the others such as &lt;jmxAgent&gt;   

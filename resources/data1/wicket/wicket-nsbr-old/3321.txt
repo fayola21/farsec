@@ -1,0 +1,1 @@
+Ajax submit  link does not show busy indicator under IE    When form is sumbitted via link inside form then busy indicator is not shown under IE.The problem occurs only when form was earlier refreshed via ajax.   

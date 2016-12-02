@@ -1,0 +1,1 @@
+<title>Issue 34702 -   chromium -    Allow data URI scheme for url argument to createHTMLNotification - Project Hosting on Google Code</title>   1. Call the NotificationCenter createHTMLNotification method with a data   URI of content type &quot;text/html&quot;.        Display the HTML content in the notification.      No notification is displayed.    <b>Please provide

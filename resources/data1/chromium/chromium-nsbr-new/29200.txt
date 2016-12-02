@@ -1,0 +1,1 @@
+<title>Issue 29200 -   chromium -    failure pasting html into firefox - Project Hosting on Google Code</title> <pre>   1. rich text compose in gmail in ff  2. copy some html from chrome  3. paste into ff      expected = works  with formatting  actual = nothing pastes   </pre>

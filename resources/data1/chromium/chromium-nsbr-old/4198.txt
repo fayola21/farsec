@@ -1,0 +1,1 @@
+<title>Issue 4198 -   chromium -    Chromium does not attach attachement to gmail messages - Project Hosting on Google Code</title>   1. send a message with attachement in gmail to another account  2. attachement will not be sent                  Please provide

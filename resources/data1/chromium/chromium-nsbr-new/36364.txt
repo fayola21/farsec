@@ -1,0 +1,1 @@
+<title>Issue 36364 -   chromium -    Google Chrome Crash after upload form - Project Hosting on Google Code</title>   1. When i upload 2-3 pics to a imagehoster  everythings fine.  2. Then i switch some Tabs to other Pages  3. After this i switch back and want to upload another pic -&gt; Chrome CRASHS      Chrome Crashs      Page will show a link to the pic    <b>Please provide

@@ -1,0 +1,1 @@
+Storm fails to start after disabling security    nimbus.childopts  ui.childopts and supervisor.childopts points to sasl configuration files after the security is disabled. web-ui should remove -Djava.security.auth.login.config parameter from these properties while disabling security.   

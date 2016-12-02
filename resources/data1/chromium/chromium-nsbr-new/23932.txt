@@ -1,0 +1,1 @@
+<title>Issue 23932 -   chromium -    some times unable to delete history - Project Hosting on Google Code</title>   1.go to history(ctrl+h)          able to delete history      not showing up the history  and delete option in the browser    <b>Please provide

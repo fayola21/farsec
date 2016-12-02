@@ -1,0 +1,1 @@
+<title>Issue 44208 -   chromium -    myspace - edit profile/view new friends/etc. - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.401.1 (Official Build 47018) dev  URL : <a href="http://myspace.com/">http://myspace.com/</a>        1. Sign into myspace.com  2. Click Edit Profile or &quot;New Friends!&quot;  3. Tab Crashes.     </pre>

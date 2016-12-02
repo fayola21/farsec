@@ -1,0 +1,1 @@
+<title>Issue 12893 -   chromium -    A character missing from Estonian translations for &quot;Other bookmarks&quot; - Project Hosting on Google Code</title> <pre>   Estonian      2.0.172.30      Windows Vista      On the bookmarks toolbar. (The character &quot;��__&quot; is missing) </pre>

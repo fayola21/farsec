@@ -1,0 +1,1 @@
+HDFS Config page is broken in testMode on trunk    HDFS Config page (post-install) does not load when App.testMode = true   

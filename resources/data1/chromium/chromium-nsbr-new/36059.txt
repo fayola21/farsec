@@ -1,0 +1,1 @@
+<title>Issue 36059 -   chromium -    When blocking images  image context menu should have &quot;load image&quot; action - Project Hosting on Google Code</title> <pre> ...so people can manually show images one at a time. </pre>

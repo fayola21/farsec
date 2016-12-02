@@ -1,0 +1,1 @@
+<title>Issue 1754 -   chromium -    Browser hangs while accessing PDF documents - Project Hosting on Google Code</title>   1. Opened a PDF document and while it gets loaded  browser hangs           Should be able to navigate or browse thru other tabs.      Chrome hangs and none of the tabs are accessible.    Please provide

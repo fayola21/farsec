@@ -1,0 +1,1 @@
+<title>Issue 32877 -   chromium -    Support pause on caught exceptions - Project Hosting on Google Code</title> <pre> WebKit does support three states: don't pause on exceptions  pause on   uncaught exceptions and pause on caught exceptions. The latter state is not   available in Chromium. </pre>

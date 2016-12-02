@@ -1,0 +1,1 @@
+<title>Issue 3113 -   chromium -    PathService needs &quot;chrome/test/data&quot; - Project Hosting on Google Code</title> <pre> Every unittest that uses the TestServer creates a literal for this because   PathService only offers the absolute version. This was realized in a code   review so I'm filing to track. </pre>

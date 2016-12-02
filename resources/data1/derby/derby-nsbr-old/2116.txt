@@ -1,0 +1,1 @@
+Test files missing svn:eol-style    The following files don't have the svn:eol-style property:functionTests/harness/ibm15.javafunctionTests/tests/i18n/MessageBundleTest.javafunctionTests/tests/store/LogDeviceTest.javafunctionTests/tests/storetests/st_derby1189.sqlfunctionTests/tests/tools/IJRunScriptTest.javajunit/SystemPropertyTestSetup.java   

@@ -1,0 +1,1 @@
+<title>Issue 18255 -   chromium -    about:network isnt  highlightable  copy pastable  suggestion  make it a textbox and loggable - Project Hosting on Google Code</title>   1. goto about:network  2. highlight something  3. copy and paste it to notepad      selection must be copied      it cannot be done    <b>Please provide

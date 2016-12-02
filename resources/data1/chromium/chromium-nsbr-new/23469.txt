@@ -1,0 +1,1 @@
+<title>Issue 23469 -   chromium -    Mac pixel tests: SVG edges are slightly different - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/svg/batik/text/textEffect3.svg  LayoutTests/svg/custom/use-css-no-effect-on-shadow-tree.svg  LayoutTests/svg/W3C-SVG-1.1/masking-intro-01-f.svg   </pre>

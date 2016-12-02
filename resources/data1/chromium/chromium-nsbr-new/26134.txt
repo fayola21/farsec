@@ -1,0 +1,1 @@
+<title>Issue 26134 -   chromium -    CRASH dragging link versus JavaScript close - Project Hosting on Google Code</title> <pre>   1. Arrange to view the attached test.html.  2. W/in 5 seconds  drag the link it shows and do not drop it.  3. After the tab closes  drop it.        Crashes the browser. </pre>

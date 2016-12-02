@@ -1,0 +1,1 @@
+Wicket ignores allowDefault:false attribute in multipart ajax requests       

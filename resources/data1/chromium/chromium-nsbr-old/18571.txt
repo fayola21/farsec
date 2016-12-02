@@ -1,0 +1,1 @@
+<title>Issue 18571 -   chromium -    Experiment with hovers on Mac toolbar - Project Hosting on Google Code</title> <pre> Glen and I think the Mac toolbar feels to inert  and it's already non-standard   enough. Cole should experiment with some hover animations for the buttons. </pre>

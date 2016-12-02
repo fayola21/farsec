@@ -1,0 +1,1 @@
+<title>Issue 33542 -   chromium -    extensions disappear - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 'about:version'&gt;                extensions disappear after restart  pay me my money </pre>

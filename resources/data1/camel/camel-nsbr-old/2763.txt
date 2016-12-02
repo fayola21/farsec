@@ -1,0 +1,1 @@
+MailBinding can't handle the subject header with NO_ASCII code rightly.    Here is the mail thread which discusses about it.   

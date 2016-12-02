@@ -1,0 +1,1 @@
+Converter misusage/mangling in RadioChoice    1.x RadioChoice:433 is doing conversion. I don't think it should be.I think the default ChoiceRenderer should be doing the conversion  and that if you supply your own  no conversion should be done.   

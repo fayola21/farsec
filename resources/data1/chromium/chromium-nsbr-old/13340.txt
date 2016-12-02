@@ -1,0 +1,1 @@
+<title>Issue 13340 -   chromium -    Yahoo mail no longer works at all! (chrome version 3.0.182.3) - Project Hosting on Google Code</title>   1. login to yahoo mail (should have new interface enabled)  2. see the following error message:  Ooops. Yahoo! Mail can't load  Loading Yahoo! Mail failed due to a client side error                  <b>Please provide

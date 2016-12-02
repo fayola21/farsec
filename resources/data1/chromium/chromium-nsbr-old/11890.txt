@@ -1,0 +1,1 @@
+<title>Issue 11890 -   chromium -    the update server isn't available (error 3) - Project Hosting on Google Code</title>   1. open the about window  2. notice the error 'the update server isn't available (error: 3)' (in   dutch: 'de updateserver is niet beschikbaar (fout: 3)'  3. try it again 10000000 times      to be able to update      doesn't update    <b>Please provide

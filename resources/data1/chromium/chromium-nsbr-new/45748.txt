@@ -1,0 +1,1 @@
+<title>Issue 45748 -   chromium -    Evaluate XP color scheme - Project Hosting on Google Code</title> <pre> Glen wants to look at the color scheme of the UI on XP. </pre>

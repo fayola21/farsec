@@ -1,0 +1,1 @@
+<title>Issue 27228 -   chromium -    Picasa Web Album CA problem - Project Hosting on Google Code</title>   1. Trying to upload pictures from Picasa to Picasa Web Albums and putting  my login credential in.                See attached error message    <b>Please provide

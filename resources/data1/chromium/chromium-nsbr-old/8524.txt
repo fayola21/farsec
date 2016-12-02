@@ -1,0 +1,1 @@
+<title>Issue 8524 -   chromium -    Downloading of huge files failes - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.48        Firefox 3: OK      1. Try to download a 9GB file      Download      Web page unreachable Error 8 (net:ERR_FILE_TOO_BIG)    Can we change this limit? </pre>

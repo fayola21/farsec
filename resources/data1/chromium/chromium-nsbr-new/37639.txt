@@ -1,0 +1,1 @@
+<title>Issue 37639 -   chromium -    Error in Spanish Translation - Project Hosting on Google Code</title> <pre>   Spanish      5.0.342.2dev      Windows XP      See the photos  i add the correct translation over the english text.         </pre>

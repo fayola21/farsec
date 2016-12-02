@@ -1,0 +1,1 @@
+<title>Issue 44905 -   chromium -    navigator.platform property does not display linux x86_64 - Project Hosting on Google Code</title>   1. run the following script in chrome          platform should be Linux X86-64        Linux x686    <b>Please provide

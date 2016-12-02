@@ -1,0 +1,1 @@
+<title>Issue 21198 -   chromium -    Regression: Can't drag files from download shelf to open them - Project Hosting on Google Code</title> <pre> Download a file the browser can open (e.g. an image).  Drag the button on the   downloads shelf up to the tabstrip and notice a drop target appears.  Drop.    Nothing happens. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37343 -   chromium -    AX: Mac: Tables in bookmark manager need AXDescriptions - Project Hosting on Google Code</title> <pre> the two tables in the bookmarks manager need AXDescriptions on them like   &quot;Bookmarks&quot; or &quot;Categories&quot; (i just made those up... choose appropriate and   concise labels) </pre>

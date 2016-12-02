@@ -1,0 +1,1 @@
+<title>Issue 7032 -   chromium -    Find (CTRL + F) doesn't search textareas. - Project Hosting on Google Code</title>   1. CTRL + F (or find on a page with a textarea)  2. Chrome's find feature will NOT search for text in a textarea.        The find feature SHOULD highlight text within a textarea.      It simply ignores the textarea.    Please provide

@@ -1,0 +1,1 @@
+Provide add/remove/rename/duplicate actions in manage-config-groups dialog    Various config-group actions (add/remove/rename/duplicate) should be provided in the manage-config-groups dialog. Any of these should not rely on the Save button  but are immediately persisted via API.   

@@ -1,0 +1,1 @@
+<title>Issue 12862 -   chromium -    '..' should show when navigating file folders - Project Hosting on Google Code</title> <pre> File navigation as a whole could probably do with a lot of improvement but  one small thing that might be easy to get is to have a &quot;..&quot; (aka &quot;up on  directory&quot;). </pre>

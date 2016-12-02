@@ -1,0 +1,1 @@
+<title>Issue 6655 -   chromium -    www.snapfish.com does not work with Chrome - Project Hosting on Google Code</title>   1. Visiting this photo website and logging in as a user          See the contents of one's 'shopping cart'      The cart is said to be 'empty'.  This is distressing if you were working on   a photo project/gift! (as I was at home  on firefox)    Please provide

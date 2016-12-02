@@ -1,0 +1,1 @@
+<title>Issue 1633 -   chromium -    facebook - Project Hosting on Google Code</title>   1. go on new.facebook.com  2. try delete a post or a status on your page  it doesn't work                  Please provide

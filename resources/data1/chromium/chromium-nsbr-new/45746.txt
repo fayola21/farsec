@@ -1,0 +1,1 @@
+<title>Issue 45746 -   chromium -    Gray icons for omnibox - Project Hosting on Google Code</title> <pre> All inside-omnibox icons need gray versions:    - globe  - search box  - star  - history clock    Cole please desaturate these or make new ones and attach. When you're done   I'll find an eng owner to commit. </pre>

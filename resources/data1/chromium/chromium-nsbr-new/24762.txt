@@ -1,0 +1,1 @@
+<title>Issue 24762 -   chromium -    page fault tab icon persistent after new page load - Project Hosting on Google Code</title>   1. fault a page  2. visit another page in the faulted pages tab  3. the page fault icon is displayed on the tab still            <b>Please provide

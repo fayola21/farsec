@@ -1,0 +1,1 @@
+<title>Issue 19408 -   chromium -    bookmark STAR bubble: Disambiguate folders with the same name - Project Hosting on Google Code</title> <pre> If bookmark folders have the same name we might get confused when build the folder list in the   bookmark STAR bubble.    See fillInFolderList chrome/browser/cocoa/bookmark_bubble_controller.m for details.   </pre>

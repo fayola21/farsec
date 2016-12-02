@@ -1,0 +1,1 @@
+<title>Issue 28100 -   chromium -    Remove Lock/Unlock from VideoFrame interface - Project Hosting on Google Code</title> <pre> It was originally added for a use case that will never be used.    Let's get rid of it.    Refer to:  media/base/buffers.h (interface)  media/base/video_frame_impl.cc/h (implementation)   </pre>

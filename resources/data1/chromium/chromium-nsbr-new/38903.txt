@@ -1,0 +1,1 @@
+<title>Issue 38903 -   chromium -    Add notes to Bookmarks - Project Hosting on Google Code</title> <pre> New Feature Request:    Chrome Version       : 5.0.356.2 dev      Please allow a text attribute to store a &quot;note&quot; in addition to &quot;url&quot; and   &quot;title&quot;  would make it easier to find a bookmark - e.g. selected text from a   webpage.     </pre>

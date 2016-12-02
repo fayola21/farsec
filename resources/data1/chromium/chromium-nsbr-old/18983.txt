@@ -1,0 +1,1 @@
+<title>Issue 18983 -   chromium -    Add support for __noSuchMethod__ to V8 - Project Hosting on Google Code</title>   1. Implement a '__noSuchMethod__' &quot;catch all&quot; and it doesn't work            That defining a __noSuchMethod__ hook would work.        It doesn't.    <b>Please provide

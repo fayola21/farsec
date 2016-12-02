@@ -1,0 +1,1 @@
+<title>Issue 28789 -   chromium -    Wrong translation (Danish) - Project Hosting on Google Code</title> <pre> Danish    4.0.249.11    Win XP    If you press a file in the download-bar  when its downloading  it says:  &quot;��_��_bner i XXsek.&quot;  This should be:  &quot;��_��_bner om XXsek.&quot;   </pre>

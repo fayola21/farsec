@@ -1,0 +1,1 @@
+<title>Issue 18266 -   chromium -    About Google Chrome window isn't themed - Project Hosting on Google Code</title>   1. Install any theme  2. Go to &quot;About Google Chrome&quot;        Themed &quot;About&quot; window      Unthemed &quot;About&quot; window    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 869 -   chromium -    CTRL + SHIFT + ENTER doesn't append www and .org to a URL in the address bar - Project Hosting on Google Code</title>   1. enter part of a url in the address bar - &quot;google&quot;  2. Press CRTL+SHIFT+ENTER.  3. Tada. Nothing happens      the browser adds www. and .org to the url      -nothing    Please provide

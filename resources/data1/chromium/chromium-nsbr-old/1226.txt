@@ -1,0 +1,1 @@
+<title>Issue 1226 -   chromium -    Chrome doesn't pass Acid 3 - Project Hosting on Google Code</title>   1. Run the Acid test          100/100 passed      77/100 passed    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20562 -   chromium -    Two menu seperators shows up under Wrench drop-down list. - Project Hosting on Google Code</title> <pre> Build: 4.0.203.2 and Trunk.    As shown in the screenshot  we can notice two menu separators under Wench  drop-down list.      Though  it's a minor  bumping this as it is a regression. </pre>

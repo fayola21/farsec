@@ -1,0 +1,1 @@
+<title>Issue 43111 -   chromium -    Dynamic button labels don't play well with layout on OS X - Project Hosting on Google Code</title> <pre> Basically we need to rework sync UI to avoid dynamic button labels.  See  e.g.   <a href="http://code.google.com/p/chromium/issues/detail?id=42537">http://code.google.com/p/chromium/issues/detail?id=42537</a> . </pre>

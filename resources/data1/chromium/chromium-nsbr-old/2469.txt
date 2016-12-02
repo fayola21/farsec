@@ -1,0 +1,1 @@
+<title>Issue 2469 -   chromium -    Don't retract bookmark sub-menus after moves or deletes - Project Hosting on Google Code</title>   1. Create a bunch of bookmarks  2. delete a bookmark. Ideally after deleting a bookmark  the pulldown menu   shouldn't be closed after deleting the bookmark giving a chance for further   deletion                  Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22334 -   chromium -    Tint opaque frame to match system theme colors - Project Hosting on Google Code</title> <pre> We now have the ability to shift the colors of different bitmaps.  We should   make it so that users using the opaque frame without a theme get the default   theme graphics shifted to match their system colors. </pre>

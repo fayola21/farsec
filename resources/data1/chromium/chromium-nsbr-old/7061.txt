@@ -1,0 +1,1 @@
+<title>Issue 7061 -   chromium -    tools from net.sln aren't in chrome.sln - Project Hosting on Google Code</title> <pre> net.sln has a handful of vcproj's which aren't in chrome.sln.  The   buildbots (but not the try bots) build from net.sln.  The combination of   these factors mean that you can break the net project and not realize it   until the bots break.   </pre>

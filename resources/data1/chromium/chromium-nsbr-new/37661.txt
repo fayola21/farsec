@@ -1,0 +1,1 @@
+<title>Issue 37661 -   chromium -    Stack Overflow XML Tags  - Project Hosting on Google Code</title> <pre> Stack Overflow caused by long malformed string inside XML Tags     Tested on Windows 7 64bit  Chrome will through up the &quot;Aw  Snap!&quot;     </pre>

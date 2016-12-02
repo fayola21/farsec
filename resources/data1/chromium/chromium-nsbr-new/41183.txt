@@ -1,0 +1,1 @@
+<title>Issue 41183 -   chromium -    Boomark manager: Show UI hint that items have a context menu - Project Hosting on Google Code</title> <pre> The tree items and the list items have context menu. However  users are not   yet accustomed to web ui having a context menu. We should show a &quot;drop down   arrow&quot; to give the user some kind of hint. </pre>

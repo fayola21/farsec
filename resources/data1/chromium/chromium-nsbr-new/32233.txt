@@ -1,0 +1,1 @@
+<title>Issue 32233 -   chromium -    in developer tools  there should be a save button when editing on the fly files recursively including src - Project Hosting on Google Code</title>   1. goto development tools  2. edit webpages on the fly  3. save current edited page to disk or somewhere                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 3853 -   chromium -    Chrome opens downloaded file with a single click - Project Hosting on Google Code</title>   1. Download any file  2. Click the file in the download bar        File should be selected (not opened)      File is opened    Please provide

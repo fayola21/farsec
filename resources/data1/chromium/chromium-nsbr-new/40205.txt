@@ -1,0 +1,1 @@
+<title>Issue 40205 -   chromium -    Wrong date in copywrite field in Help/About - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.1.249.1045 (42898)      1. Open Help/About. (Have not tried any Beta or Dev builds.)        Should say (c)2006-2010        This barely counts as a defect  more of a tiny oversight  but I thought I   would point it out. </pre>

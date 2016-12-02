@@ -1,0 +1,1 @@
+<title>Issue 21761 -   chromium -    Multiple &quot;manage search&quot; windows - Project Hosting on Google Code</title> <pre> - open prefs  - click &quot;manage&quot; button a few times    expected:  - 1 window  brought to foreground if already created.    actual:  - many windows! aaaaaahhhh! </pre>

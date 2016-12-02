@@ -1,0 +1,1 @@
+<title>Issue 30540 -   chromium -    HTML5 Audio tag not working in BrowserAction background - Project Hosting on Google Code</title>                       <b>Please provide

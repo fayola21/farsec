@@ -1,0 +1,1 @@
+<title>Issue 3729 -   chromium -    Full-screen scrolling issue - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.3.155.0      1. Switch to full-screen.  2. Point with the cursor to the side of the screen.  3. The cursor changes to the resize cursor and the mouse scroll wheel   doesn't work. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 10906 -   chromium -    Tab crashes when loading iGoogle - Project Hosting on Google Code</title>     Just loading my personalized iGoogle site causes the tab to crash.  The   page starts to load and then crashes.  This just started happening when I   updated to this dev build of Chromium.  Last build was 14288 and all was   well.      <b>Please provide

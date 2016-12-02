@@ -1,0 +1,1 @@
+<title>Issue 1272 -   chromium -    Yahoo Mail Address Book auto-complete issue - Project Hosting on Google Code</title>   1. typing in an email address to sent to          it should auto-complete the address from the address book while typing      doesn't auto-complete (give matches)    Please provide

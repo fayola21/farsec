@@ -1,0 +1,1 @@
+Memory leak in SedaComponent if adding and removing a lot of seda endpoints with different queue names    If you add and remove a lot of seda endpoints with different queue names  then the seda component may keep references to non used queues.   

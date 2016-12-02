@@ -1,0 +1,1 @@
+<title>Issue 31832 -   chromium -    Page hangs developer console - Project Hosting on Google Code</title> <pre>   1. Visit <a href="https://zlibdroidtest.appspot.com/">https://zlibdroidtest.appspot.com/</a>  2. View source  3. Try switching tabs in the dom inspector    In particular  the &quot;elements&quot; tab seems to hang.  Maybe it's due to the page   being long. </pre>

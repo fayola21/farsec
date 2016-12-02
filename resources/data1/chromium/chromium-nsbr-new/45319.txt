@@ -1,0 +1,1 @@
+<title>Issue 45319 -   chromium -    Crashes after losing network connection - Project Hosting on Google Code</title>   1. (Put your laptop into sleep mode and turn it on again) OR (Disconnect   from a Cicso VPN connection on a wired network.)  2. Chrome will crash after a few seconds      It should not crash?      Crashes.    <b>Please provide

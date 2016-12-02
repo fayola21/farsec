@@ -1,0 +1,1 @@
+<title>Issue 16653 -   chromium -    Context dependent NNTP - Project Hosting on Google Code</title> <pre> Have the option to change the NTP based on different profiles. Ex. Select from   a &quot;Work&quot; NTP profile or &quot;Personal&quot; NTP profile.   </pre>

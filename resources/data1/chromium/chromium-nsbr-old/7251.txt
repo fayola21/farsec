@@ -1,0 +1,1 @@
+<title>Issue 7251 -   chromium -    No captcha shown at particular site - Project Hosting on Google Code</title>   1. Go to URL <a href="http://q-est.ru/users/register">http://q-est.ru/users/register</a>      A captcha image should appear at the bottom of the form.      The image does not appear.    Please provide

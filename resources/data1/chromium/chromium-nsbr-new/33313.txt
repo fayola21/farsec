@@ -1,0 +1,1 @@
+<title>Issue 33313 -   chromium -    Reloading a webpage that uses CF will flash the crash sad tab sometimes - Project Hosting on Google Code</title> <pre>   1. Go to cf:about:  2. Focus address bar and hit enter  3. Do it several times    Sometimes a flash of the renderer crash sad tab page will be seen    CF-5.0.306.0 (Official Build 37088) and IE8 on Vista </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4896 -   chromium -    Viewing PDF online - Project Hosting on Google Code</title>   1. can't view or open PDF online it says adobe acrobat is running in the   background I need to close it and the browsers.                    Please provide

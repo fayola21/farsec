@@ -1,0 +1,1 @@
+<title>Issue 34725 -   chromium -    Sad tab on creating/editing event in Google Calendar - Project Hosting on Google Code</title>   1. Go to Google Calendar and log in if prompted.  2. Click &quot;Create Event&quot; near the top left (or &quot;edit event details&quot; where   offered).      Seeing the edit event form.      Immediate sad tab.    <b>Please provide

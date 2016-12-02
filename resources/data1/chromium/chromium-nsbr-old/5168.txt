@@ -1,0 +1,1 @@
+<title>Issue 5168 -   chromium -    Add option for what to show on new tab - Project Hosting on Google Code</title>   1. Configure browser to start with a blank page  2. Open a new tab      A blank tab opens.      The default new-tab page opens.    Please provide

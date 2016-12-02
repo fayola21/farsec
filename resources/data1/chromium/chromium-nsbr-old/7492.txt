@@ -1,0 +1,1 @@
+<title>Issue 7492 -   chromium -    SVG image crash the tab - Project Hosting on Google Code</title>   1. Open the url <a href="http://www.nojhan.net/geekscottes//strips/geekscottes_124.svg">http://www.nojhan.net/geekscottes//strips/geekscottes_124.svg</a> in chrome          The SVG image is displayed      The image start to render and then the tab crash    Please provide

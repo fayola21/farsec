@@ -1,0 +1,1 @@
+<title>Issue 11879 -   chromium -    Title bar black when window maximised - Project Hosting on Google Code</title>   1.Start Chrome in windowed mode  2.Maximise on any page        A blue title bar to appear when a window is maximised      When maximised  the title bar is black      <b>Please provide

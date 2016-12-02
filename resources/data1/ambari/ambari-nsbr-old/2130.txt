@@ -1,0 +1,1 @@
+Use modified dependencies if a stack contains an HCFS service (Hadoop Compatible File System)    Use stack metadata to determine if a stack contains an HCFS service and generate modified RoleCommandOrder dependencies if it does.   

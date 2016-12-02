@@ -1,0 +1,1 @@
+<title>Issue 30380 -   chromium -    waterfall no longer shows the number of skipped tests - Project Hosting on Google Code</title> <pre> I assume the log output changed just slightly such that the log parser no   longer correctly parses the number of skipped tests. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2639 -   chromium -    Rename net/base/tcp_client_socket.cc to tcp_client_socket_win.cc - Project Hosting on Google Code</title> <pre> Given that net/base/tcp_client_socket.cc is win32-centric  and we have a  different file for a posix/libEvent-based implemenation  we should rename  the existing file with a &quot;-win&quot; suffix.    </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13189 -   chromium -    SVG files open in media player - Project Hosting on Google Code</title>   1. Open a SVG/SVGZ file or a website including one   (<a href="http://www.svgopen.org/">http://www.svgopen.org/</a>)  2. Notice the SVG file opens in the media player.      Chrome opens the SVG as an image      Chrome opens the SVG in a media player    <b>Please provide

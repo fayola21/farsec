@@ -1,0 +1,1 @@
+<title>Issue 560 -   chromium -    this is not about bug but importent - Project Hosting on Google Code</title> <pre> chrome not downloding fast please provide us direct download version </pre>

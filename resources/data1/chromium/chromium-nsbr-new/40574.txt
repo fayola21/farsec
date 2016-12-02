@@ -1,0 +1,1 @@
+<title>Issue 40574 -   chromium -    Can no longer delete from omnibar history with shift-del - Project Hosting on Google Code</title> <pre> Chrome Version (from the about:version page): 5.0.370.0 (Developer Build   43613)  OS + version: Linux      1. try to delete a history item in the awesomebar (shift-del)      it used to work...      it does not work anymore!   </pre>

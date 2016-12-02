@@ -1,0 +1,1 @@
+EnumChoiceRenderer misbehaves with anonymous enum classes    Please find attached testcase reproducing the problem.Proper fix is to doreturn object.getDeclaringClass().getSimpleName() + '.' + object.name()instead ofreturn object.getClass().getSimpleName() + '.' + object.name()in EnumChoiceRenderer.resourceKey   

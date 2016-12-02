@@ -1,0 +1,1 @@
+<title>Issue 5905 -   chromium -    hover text misplaced when windows task bar is on left - Project Hosting on Google Code</title> <pre> ...filed for Louis.    Steps to reproduce:    1. move windows task bar to left  2. hover over a link    See attached screenshot to see the problem.     </pre>

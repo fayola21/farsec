@@ -1,0 +1,1 @@
+<title>Issue 20961 -   chromium -    Shockwave / Flash Crashing Chrome - Project Hosting on Google Code</title>   1. go the adobe.com  2. while the frontpage flash is playing  u click the &quot;Get Adobe Shockwave   button&quot;   3. page will freeze      youtube wont load on new tab. seems one page crash corrupted the rest.          <b>Please provide

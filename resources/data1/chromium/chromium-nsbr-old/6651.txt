@@ -1,0 +1,1 @@
+<title>Issue 6651 -   chromium -    adblockplus - Project Hosting on Google Code</title> <pre> I want to get Adblockplus for google chrome or something else that blocks   and/or removes whole ad bars </pre>

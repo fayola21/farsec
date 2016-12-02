@@ -1,0 +1,1 @@
+<title>Issue 12800 -   chromium -    Viewing SVG shows a media player - Project Hosting on Google Code</title>   1. Open any SVG      The SVG is rendered.      A media player is shown.    <b>Please provide

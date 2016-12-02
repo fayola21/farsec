@@ -1,0 +1,1 @@
+<title>Issue 16059 -   chromium -    Stop() should be asynchronous and should receive a callback - Project Hosting on Google Code</title> <pre> Change MediaFilter::Stop() to accept a callback so that Stop() is   asynchronous. </pre>

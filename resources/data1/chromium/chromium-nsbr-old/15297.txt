@@ -1,0 +1,1 @@
+<title>Issue 15297 -   chromium -    strange chromium behaviour  - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: '3.0.191.0 (19232)'&gt;  URLs (if applicable) : google.com  about:version  etc          Firefox 3.x: OK             IE 8: OK      1. open most of urls       </pre>

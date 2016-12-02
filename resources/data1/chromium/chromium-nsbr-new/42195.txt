@@ -1,0 +1,1 @@
+<title>Issue 42195 -   chromium -    favicon refresh problems - Project Hosting on Google Code</title>   1. Set favicon via JavaScript/(or chrome content script) using &lt;link&gt; tag      favicon to be changed      favicon is changed only if page is reloaded using F5  and if browser has   default skin. Otherwise it don't change or flicker and dissapear.      <b>Please provide

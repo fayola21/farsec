@@ -1,0 +1,1 @@
+<title>Issue 1177 -   chromium -    Scroll up problem - Project Hosting on Google Code</title>   1. I use a laptop using the touchpanel scroll I cannot scroll up in any   website  while I can only scroll down        Able to scroll up and down using the touchpanel from the laptop..      Unable to scroll up.    Please provide

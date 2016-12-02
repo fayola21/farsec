@@ -1,0 +1,1 @@
+camel-ftp : uri set on endpoint has stripped all parameters  that is wrong as they should be there as well    See nabblehttp://www.nabble.com/Camel-Remote-File-Producer---Recipient-List-Password-Issue-td21678952s22882.htmlThe bug is introduced with CAMEL-941   

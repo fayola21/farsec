@@ -1,0 +1,1 @@
+<title>Issue 753 -   chromium -    I cound't find progress bar - Project Hosting on Google Code</title>             Progress should be visible somewhere either at bottom or in address bad   itself.          Please provide

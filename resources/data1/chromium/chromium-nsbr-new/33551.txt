@@ -1,0 +1,1 @@
+<title>Issue 33551 -   chromium -    Google voice extension does not verify SMS - Project Hosting on Google Code</title>   1. open google voice extension  2. enter SMS number and text  3. click send      send SMS with verification message      program hangs without verification message    <b>Please provide

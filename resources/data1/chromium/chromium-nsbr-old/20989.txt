@@ -1,0 +1,1 @@
+<title>Issue 20989 -   chromium -    Linux: using a proxy with plugins cause pages to hang - Project Hosting on Google Code</title>   1.set --enable-plugins --proxy-server=localhost:8118  2.visit digg.com or engadget.com        Page should load      Hangs while loading    <b>Please provide

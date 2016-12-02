@@ -1,0 +1,1 @@
+Navigation from Hosts page to HostDetailsPage breaks occasionally    STR: 1. Navigate to hosts page  wait for page loaded. 2. Click specific hosts link. 3. Wait for HostDetails page loaded. 4. Click Back. 5. Iterate. Actual result: sometimes the Hosts page hangs not resulting in presenting a HostDetails page. Speed of attached videos is 5 times faster than real.   

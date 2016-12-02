@@ -1,0 +1,1 @@
+<title>Issue 17623 -   chromium -    Revisit bookmark rebuilding.   - Project Hosting on Google Code</title> <pre> Be gentle  not brute force (e.g. bookmark reorder causes complete  tear-down and build of bar).  Maybe not if efficient enough.   </pre>

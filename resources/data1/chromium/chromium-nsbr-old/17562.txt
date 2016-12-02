@@ -1,0 +1,1 @@
+<title>Issue 17562 -   chromium -    chrome.bookmarks.getTree doesn't return any bookmarks - Project Hosting on Google Code</title> <pre> Chrome Version: 3.0.195.1    This was working in 3.0.193.X  but in in 3.0.195.1 the callback for  chrome.bookmarks.getTree doesn't seem to get any bookmarks passed in.   </pre>

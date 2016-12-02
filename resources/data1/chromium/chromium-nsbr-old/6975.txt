@@ -1,0 +1,1 @@
+<title>Issue 6975 -   chromium -    Feature Request: Content Blocking - Project Hosting on Google Code</title> <pre> Ability to block images and pop-ups on pages. Something similar to what   Firefox and Opera do. </pre>

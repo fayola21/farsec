@@ -1,0 +1,1 @@
+<title>Issue 27521 -   chromium -    Element is highlighted on page refresh - Project Hosting on Google Code</title> <pre>   1. Novigate to google.ru  2. Open DevTools  3. Refresh the inspected page.    What do you see?  Page body is highlighted while page is being reloaded. See attachment.     </pre>

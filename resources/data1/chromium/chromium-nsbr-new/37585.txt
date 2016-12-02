@@ -1,0 +1,1 @@
+<title>Issue 37585 -   chromium -    Position is lost after clicking Back button on ALL Russian sites - Project Hosting on Google Code</title>   1. Go to www.lenta.ru  2. Scroll down  3. Click on some link to news  4. Click Back button        Same position on the page like before click on link        Top of page.    Note: it happens to ALL Russian sites.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1292 -   chromium -    gmail tab key glitch - white bar - Project Hosting on Google Code</title>   1. log on to gmail inbox  2. open a google talk box  3. press tab multiple times (5-10)                Please provide

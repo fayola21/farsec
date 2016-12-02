@@ -1,0 +1,1 @@
+<title>Issue 40377 -   chromium -    cookies lost on crash - Project Hosting on Google Code</title>   1. Log in to a site with a remember-me cookie  2. Crash Chrome (end task should be fine)  3. Start Chrome  4. Revisit site        Logged in to site        Not logged in to site    <b>Please provide

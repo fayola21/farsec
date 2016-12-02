@@ -1,0 +1,1 @@
+<title>Issue 45508 -   chromium -    Tried to download and install RSS feed extension. Wouldn't let me. Said I have the wrong Chrome and made me download Chrome again but it still wouldn't work.  - Project Hosting on Google Code</title>                       <b>Please provide

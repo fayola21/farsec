@@ -1,0 +1,1 @@
+<title>Issue 40433 -   chromium -    No_Modification_Allowed_Err: DOM Exception 7 - Project Hosting on Google Code</title>   1. Open site molotok.ru  2. Choose any lot. And click on discussion of the lot (___��_��_��_��_��____��__��____��__��_ _��___��_��__��_)  3. Then see this error.      Without message about error.      This error.)    <b>Please provide

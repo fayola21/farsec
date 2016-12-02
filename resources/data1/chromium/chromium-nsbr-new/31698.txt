@@ -1,0 +1,1 @@
+<title>Issue 31698 -   chromium -    Perf regression due to WebKit roll 52793 -&gt; 52852 - Project Hosting on Google Code</title> <pre> Since the roll (<a href="http://src.chromium.org/viewvc/chrome?view=rev&amp;revision=35646">http://src.chromium.org/viewvc/chrome?view=rev&amp;revision=35646</a>) page cycler   intl1 and intl2 observed perf regression. </pre>

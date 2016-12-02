@@ -1,0 +1,1 @@
+<title>Issue 31748 -   chromium -    JavaScript Console needs runtime editor - Project Hosting on Google Code</title> <pre> I would like to see features added to the JavaScript Console such as the   Firefox Phoenix Editor plugin provides  where you can tweak the JavaScript at   runtime and execute it  which can be invaluable for JavaScript debugging and   testing. </pre>

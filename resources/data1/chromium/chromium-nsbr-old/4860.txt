@@ -1,0 +1,1 @@
+<title>Issue 4860 -   chromium -    Hot key for tabs - Project Hosting on Google Code</title>             When I enter Alt+1  Alt+2   Please change to tab1  tab2....          Please provide

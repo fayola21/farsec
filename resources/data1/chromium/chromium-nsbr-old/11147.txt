@@ -1,0 +1,1 @@
+<title>Issue 11147 -   chromium -    Omnibar adding letters - Project Hosting on Google Code</title>   1.  Start Chromium  2.  Clear contents of Omnibar  3.  Type &quot;http&quot; (without quotes)    Expected behavior:  you see http in the Omnibar  Actual behavior: you see hhttp or htttp                <b>Please provide

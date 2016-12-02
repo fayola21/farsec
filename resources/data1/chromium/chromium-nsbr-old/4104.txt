@@ -1,0 +1,1 @@
+<title>Issue 4104 -   chromium -    Tab-switching tests always output zero - Project Hosting on Google Code</title> <pre> The tab-switching perf tests on the buildbot always output {0.0  0.0}.  Can   we figure out why that's happening and how to fix it so we can make these   tests useful?  Do we need higher precision than ms? </pre>

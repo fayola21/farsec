@@ -1,0 +1,1 @@
+<title>Issue 45230 -   chromium -    Collect blocked cookies and show to the user on demand - Project Hosting on Google Code</title> <pre>   1. Disallow cookies  2. Visit a site that uses cookies          There should be some way to see what cookies the site accessed (which were   blocked).   </pre>

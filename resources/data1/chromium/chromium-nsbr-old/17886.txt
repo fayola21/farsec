@@ -1,0 +1,1 @@
+<title>Issue 17886 -   chromium -    Can step in Array.prototype.slice - Project Hosting on Google Code</title> <pre>   In the attached file try to step in Array.prototype.slice.call      The call should be stepped over.     </pre>

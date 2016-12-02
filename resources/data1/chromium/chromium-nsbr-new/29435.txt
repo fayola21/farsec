@@ -1,0 +1,1 @@
+<title>Issue 29435 -   chromium -    [SnowLeopard] Support CoreAnimation to make out of process plugins work properly - Project Hosting on Google Code</title> <pre> Subject says it all - this will make plugins work better on Mac OS X </pre>

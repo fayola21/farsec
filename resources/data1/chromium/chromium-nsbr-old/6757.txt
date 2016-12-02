@@ -1,0 +1,1 @@
+<title>Issue 6757 -   chromium -    Renderer can draw all over the screen - Project Hosting on Google Code</title> <pre> Currently ViewHostMsg_ShowWidget let's the renderer draw over arbitrary   regions of the screen.  We should validate the rect so that a compromised   renderer can't draw over the entire screen.     </pre>

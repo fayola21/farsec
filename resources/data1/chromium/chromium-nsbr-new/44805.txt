@@ -1,0 +1,1 @@
+<title>Issue 44805 -   chromium -    CTRL+B fails to respond - Project Hosting on Google Code</title>   1. Download latest Google Chrome  and change to dev channel  2. Press CTRL+B      Bookmark bar is toggling between hide / show.      No response to pressing ctrl+B    <b>Please provide

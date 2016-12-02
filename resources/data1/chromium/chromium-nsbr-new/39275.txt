@@ -1,0 +1,1 @@
+<title>Issue 39275 -   chromium -    Create automation hooks in the automation proxy for history - Project Hosting on Google Code</title> <pre> Talked with John and he said he may be able to help with this one.    What we would need is:    - returnAllHistory    - deleteHistoryforDate    - clearAllHistory </pre>

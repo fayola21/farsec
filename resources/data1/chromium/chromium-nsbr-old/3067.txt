@@ -1,0 +1,1 @@
+<title>Issue 3067 -   chromium -    Scroll bar rendering problem - Project Hosting on Google Code</title>   1. Log into Outlook Web Access  2. Open an email that requires a vertical scroll bar  3. DO NOT SCROLL YET.      The scroll bar is rendered      The scroll bar still shows as the edge of the image from the inbox view.    See attached screenshot.    Please provide

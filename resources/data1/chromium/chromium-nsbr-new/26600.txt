@@ -1,0 +1,1 @@
+<title>Issue 26600 -   chromium -    Regression: Window icon shows throbber - Project Hosting on Google Code</title> <pre>   1. Launch chrome.  2. Look in the taskbar and notice the icon for the chrome window is a portion   of the throbber.    This tot (<a href="/p/chromium/source/detail?r=30815">r30815</a>). </pre>

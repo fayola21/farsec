@@ -1,0 +1,1 @@
+<title>Issue 28496 -   chromium -    Google Analytics show garbage - Project Hosting on Google Code</title>   1. Go to the Google Analytics page  2. Select account and click Show Report  3. Look at all the garbage      No garbage        I see garbage. After refreshing the garbage disappears and no charts appear    <b>Please provide

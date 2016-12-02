@@ -1,0 +1,1 @@
+<title>Issue 8962 -   chromium -    crash observed upon entering invalid chrome-ui:// url in URL field - Project Hosting on Google Code</title>   1. Type chrome-ui://hi or any unsupported chrome-ui URL in URL field  2. And hit enter to go  3. Chrome crashes      Error page saying not supported or something of that sort      Chrome crashes.      <b>Please provide

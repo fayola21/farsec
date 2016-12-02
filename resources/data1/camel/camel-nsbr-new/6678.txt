@@ -1,0 +1,1 @@
+Throttler does not honor time slots after period expires    Camel's Throttler eip uses time slots to calc what tasks need to be delayed and which don't. The time slots don't take into account period elapse. See from this mailing list question:http://camel.465427.n5.nabble.com/Camel-Throttler-not-throttling-as-expected-td5738158.htmlI can recreate  and working on a patch.   

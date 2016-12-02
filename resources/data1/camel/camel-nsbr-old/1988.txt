@@ -1,0 +1,1 @@
+Better OSGi metadata to allow deploying multiple camel versions in the same OSGi framework       

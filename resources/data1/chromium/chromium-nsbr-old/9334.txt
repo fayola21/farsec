@@ -1,0 +1,1 @@
+<title>Issue 9334 -   chromium -    HTMLCollection.prototype problem - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.171.0  Other browsers tested: IE 8: OK      1. run HTMLCollection.html from attachement      alert value: 2      nothing </pre>

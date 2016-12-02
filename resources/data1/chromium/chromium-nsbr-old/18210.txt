@@ -1,0 +1,1 @@
+<title>Issue 18210 -   chromium -    Undo not implemented in omnibox - Project Hosting on Google Code</title> <pre> This was mentioned in <a title="Ctrl+Z in address bar pastes text on Fedora 8 with XFCE"  href="/p/chromium/issues/detail?id=17820">issue 17820</a>  but I can't find an actual bug for it    Ctrl+Z or right click &gt; undo should undo in the omnibox </pre>

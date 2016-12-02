@@ -1,0 +1,1 @@
+<title>Issue 16118 -   chromium -    --safe-plugins hangs browser window @ imageshack.us - Project Hosting on Google Code</title>   1. try to upload a file          a file dialog      window hangs and requires killing it off - trying to use taskbar window   close crashes the whole browser    <b>Please provide

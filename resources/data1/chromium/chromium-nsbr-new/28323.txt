@@ -1,0 +1,1 @@
+<title>Issue 28323 -   chromium -    On chrome://extensions  it'd be nice if recently updated extensions had a different color - Project Hosting on Google Code</title> <pre> ...so users can see what extensions have been updated since they last looked. Maybe also some   messaging such as &quot;Updated on such and such date to version so and so&quot;. </pre>

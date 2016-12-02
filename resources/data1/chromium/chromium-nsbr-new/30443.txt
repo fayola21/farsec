@@ -1,0 +1,1 @@
+<title>Issue 30443 -   chromium -    Popups initially render too large - Project Hosting on Google Code</title> <pre> When you initially open a popup  it flickers open at a large size  then jumps   to the right size moments later. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18449 -   chromium -    Scaler assembly optimization for linux - Project Hosting on Google Code</title> <pre> Windows currently has optimized assembly for its scaling code.  Mac/Linux   don't which causes high CPU usage during video playback.    The code needs to be ported to other platforms.    It has a reasonably large performance impact on linux. </pre>

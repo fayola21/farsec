@@ -1,0 +1,1 @@
+<title>Issue 40378 -   chromium -    Soft Hyphens become spaces in copy+paste - Project Hosting on Google Code</title>   1. Copy some text with large words at the above url  or any text with   &amp;shy;.  2. Paste elsewhere  3. Observe spaces        No spaces        Spaces in between syllables of the word.    <b>Please provide

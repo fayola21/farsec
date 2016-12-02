@@ -1,0 +1,1 @@
+<title>Issue 13890 -   chromium -    Tracking bug: Remove Cocoa from the renderer - Project Hosting on Google Code</title> <pre> In the long term  we need to remove all uses of Cocoa from the renderer.  This is the tracking bug. </pre>

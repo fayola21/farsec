@@ -1,0 +1,1 @@
+<title>Issue 1744 -   chromium -    Clicking downloaded file opens it several times - Project Hosting on Google Code</title>   1. Download a file  2. Wait for it to finish  3. Double click it in the bottom bar      Double clicking opens the file once      Double clicking opens the file 2/3 times    Please provide

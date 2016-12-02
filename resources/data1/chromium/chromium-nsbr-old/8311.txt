@@ -1,0 +1,1 @@
+<title>Issue 8311 -   chromium -    Stats counters from renderers don't work - Project Hosting on Google Code</title> <pre> 1. Run chromium in multi-process mode  2. Go to stats page (about:stats)     Stats for Chrome::RendererInit will be missing  along with all other stats   created from renderer processes  including all V8 stats     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1136 -   chromium -    Advanced bookmark organizer enhancement - Project Hosting on Google Code</title> <pre> Please create a more advanced bookmark organizer that can be used to move   bookmarks around easily  along with the ability to sort bookmarks by name    date created  last visited  or other stats.    </pre>

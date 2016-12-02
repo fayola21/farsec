@@ -1,0 +1,1 @@
+<title>Issue 36362 -   chromium -    Problem Yellow Bars Google Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       :Google Chrome    URL :<a href="http://www.vidaextra.com">http://www.vidaextra.com</a>      1.Select text or  2.click on the address bar  and yellow bars appear on this   </pre>

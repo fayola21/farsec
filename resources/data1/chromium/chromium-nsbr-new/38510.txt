@@ -1,0 +1,1 @@
+<title>Issue 38510 -   chromium -    r41133 changes cause a duplicate entry in Win7 taskbar - Project Hosting on Google Code</title>   1. Enable Options&gt;Basics&gt;&quot;Reopen the pages that were open last&quot;  2. Close Chromium  3. Open Chromium      Chromium should have only one windows taskbar entry.      Chromium has two windows taskbar entries.    <b>Please provide

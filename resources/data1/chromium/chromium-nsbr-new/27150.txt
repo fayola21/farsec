@@ -1,0 +1,1 @@
+<title>Issue 27150 -   chromium -    Not showing the icon in taskbar - Project Hosting on Google Code</title>   1. Open a website in windows xp.                The icon in the taskbar is not showing    <b>Please provide

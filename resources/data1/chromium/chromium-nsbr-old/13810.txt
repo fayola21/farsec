@@ -1,0 +1,1 @@
+<title>Issue 13810 -   chromium -    Browser keeps crashing after update - Project Hosting on Google Code</title>   1. Update Chrome with the latest Dev build (3.0.187.0).  2. Restart browser.  3. Try to get to About or any menu option.      About dialog box should appear.      Browser crashes and a dialog box with the option to restart appears.    <b>Please provide

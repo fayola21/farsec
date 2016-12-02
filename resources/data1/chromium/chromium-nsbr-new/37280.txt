@@ -1,0 +1,1 @@
+<title>Issue 37280 -   chromium -    Add an extension API for the HTTP stack - Project Hosting on Google Code</title> <pre> Support observing and perhaps mutation of HTTP request/responses. </pre>

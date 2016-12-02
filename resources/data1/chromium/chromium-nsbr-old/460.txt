@@ -1,0 +1,1 @@
+<title>Issue 460 -   chromium -    SAP Web Application Server compatibility - Project Hosting on Google Code</title>   1. Open an url from the SAP Web Application Server  2. In particular SAP CRM Interaction Center WebClient        See image image_IE.jpg      See image image_chrome.jpg    Please provide

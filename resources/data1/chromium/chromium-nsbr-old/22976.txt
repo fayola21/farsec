@@ -1,0 +1,1 @@
+<title>Issue 22976 -   chromium -    spell-checker in Open SuSe 11.1 doesn't work - Project Hosting on Google Code</title>   1. Open a page where there's a text field  2. Type something with incorrect spelling        misspelled word should have red underline      nothing    <b>Please provide

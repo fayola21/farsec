@@ -1,0 +1,1 @@
+Log the exception if the application cannot start properly    WicketFilter doesn't provide helpful information when the application cannot be initialized for some reason.At the moment it just does:log.warn('initialization failed  destroying now');1) it doesn't log the cause exception2) the severity is rather FATAL than WARN   

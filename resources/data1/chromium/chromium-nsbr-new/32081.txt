@@ -1,0 +1,1 @@
+<title>Issue 32081 -   chromium -    [gentoo] Startup crash in NSS_InitReadWrite - Project Hosting on Google Code</title>   1. Just start chromium or chromium-bin  2. Wait for about 5 seconds      Should just keep running      The application runs for about 5 seconds and then gets killed by SIGABRT    <b>Please provide

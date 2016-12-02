@@ -1,0 +1,1 @@
+<title>Issue 21183 -   chromium -    New-FTP: Never stops loading - Project Hosting on Google Code</title>   1. Login to an FTP via ftp://&lt;address&gt;  2. Observe loading icon      It should stop loading.      It does not stop loading.    <b>Please provide

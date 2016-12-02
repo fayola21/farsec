@@ -1,0 +1,1 @@
+<title>Issue 18938 -   chromium -    middle-click on GoButton doesn't paste PRIMARY selection into LocationBar - Project Hosting on Google Code</title>   1. select a URL  2. click the middle mouse button in a page body (not on any link)          URL loads in this tab        Nothing    <b>Please provide

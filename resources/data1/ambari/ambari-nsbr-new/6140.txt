@@ -1,0 +1,1 @@
+Step3. Hosts checks requests    Proceed to step3  wait while registration is complete.Host checks requests are set every second.UI should set next request only when previous is completed.   

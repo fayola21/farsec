@@ -1,0 +1,1 @@
+<title>Issue 43114 -   chromium -    Dragging tabs within Extension Windows shows large icon while dragging - Project Hosting on Google Code</title> <pre>   1. Open an Extension Window  2. Start dragging a tab within it  3. Notice it changes icon from small to large while dragging    The icon size change should not happen.    I have a fix. </pre>

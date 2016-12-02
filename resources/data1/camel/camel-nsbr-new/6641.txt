@@ -1,0 +1,1 @@
+SJMS component throws class cast error when used with IBM Webshpere MQ    When using the IBM MQ JMS classes and pub/sub over a TOPIC the JmsObjectFactory.createMessageConsumer method throws a cast class exception. The session is being cast to a TopicSession which for MQ it is not.Using pure jms this cast is not required as the session class is aware of the destination type.   

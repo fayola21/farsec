@@ -1,0 +1,1 @@
+<title>Issue 20171 -   chromium -    Change the default fonts for Linux and Mac per UI language - Project Hosting on Google Code</title> <pre> Some of the current  default fonts are windows-specific. Some of them have   to be changed to fonts available on Linux and Mac.     Tony already paved the way for this change.      </pre>

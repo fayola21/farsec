@@ -1,0 +1,1 @@
+JMX Instrumentation - Nodeid can be null    The processors that is registered in JMX can have null in their id. So the JMX path is processor -&gt; null -&gt; 0.Either we should replace null with unknown as we do for endpoints. Or try to fix that the id is generated.   

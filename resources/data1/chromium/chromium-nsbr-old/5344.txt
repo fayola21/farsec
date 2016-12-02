@@ -1,0 +1,1 @@
+<title>Issue 5344 -   chromium -    Mouse Scroll-Up doesnt Work - Project Hosting on Google Code</title>   1. open news.google.co.in  2. scroll down and the page will move up  3. scroll up and the page will not move down.                Please provide

@@ -1,0 +1,1 @@
+<title>Issue 45175 -   chromium -    Time in history is off by one hour  - Project Hosting on Google Code</title> <pre> Spun off of <a title="Google chrome wrong time zone in history for Warsaw " class=closed_ref href="/p/chromium/issues/detail?id=12579"> bug 12579 </a>.      </pre>

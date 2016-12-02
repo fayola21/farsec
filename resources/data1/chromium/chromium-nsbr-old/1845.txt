@@ -1,0 +1,1 @@
+<title>Issue 1845 -   chromium -    cant alignt text to the right using right shift and right ctrl - Project Hosting on Google Code</title>   1. trying to fill a text box with hebrew chars and then trying to align   them to the right with right shift+ right ctrl          text should be aligned to the right       nothing. no respond    Please provide

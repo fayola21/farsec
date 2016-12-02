@@ -1,0 +1,1 @@
+<title>Issue 19798 -   chromium -    Bookmark Sync does not work with Proxy - Project Hosting on Google Code</title>   1.Setup Proxy info  2.Click on Sync my Bookmarks...  3.Enter login info  4.Click on Sync      To work like it works without proxy info.      Error after clicking on Sync    <b>Please provide

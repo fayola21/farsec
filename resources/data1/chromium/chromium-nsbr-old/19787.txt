@@ -1,0 +1,1 @@
+<title>Issue 19787 -   chromium -    Copy function fails to work past the first few - Project Hosting on Google Code</title>   1. Open lots of tabs  2. Attempt to copy  3. Fail      Selected contents added to clipboard.      Doesn't happen.    <b>Please provide

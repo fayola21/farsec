@@ -1,0 +1,1 @@
+<title>Issue 36100 -   chromium -    About Title bar of Google Chrome is not show normal size - Project Hosting on Google Code</title>   1. Open Google Chrome.  2. Double click in title bar for Restore window (PC Style).  3. I found a height of title bar is wrong.      I want a height of title bar is normally every time.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36817 -   chromium -    Crash when drag and drop to desktop - Project Hosting on Google Code</title>   1. drag a photo to the desktop          drag a photo in a folder      immediately crash    <b>Please provide

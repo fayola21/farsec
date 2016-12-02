@@ -1,0 +1,1 @@
+<title>Issue 34235 -   chromium -    idbipaisabuilder.com not working on google chrome  - Project Hosting on Google Code</title>   1.You need an account with idbipaisabuilder to test this.  2.Its not opening the trading window after logging which runs an applet.                  <b>Please provide

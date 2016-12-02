@@ -1,0 +1,1 @@
+<title>Issue 19750 -   chromium -    GtkTreeModel leak audit needed - Project Hosting on Google Code</title> <pre> We need to audit all uses of GtkTreeModels to make sure we're properly   releasing the reference to the object so the tree view owns the model.  This   way  the model will be destroyed when the tree view is destroyed and we   won't leak the model. </pre>

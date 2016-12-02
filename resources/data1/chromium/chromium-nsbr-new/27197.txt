@@ -1,0 +1,1 @@
+<title>Issue 27197 -   chromium -    omnibox searching google.co.hk even though i'm back in the USA - Project Hosting on Google Code</title>   1. Go to Hong Kong  search from omnibox  2. Come back  search from omnibox again  3. Search is still going to HK version of google                <b>Please provide

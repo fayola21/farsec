@@ -1,0 +1,1 @@
+<title>Issue 2710 -   chromium -    Window controls stay hot even after the mouse moves out of them - Project Hosting on Google Code</title> <pre> With the new frames  move the mouse over the window controls and then   rapidly out of the browser window. The window controls will remain   illuminated as if the mouse was still positioned over them. </pre>

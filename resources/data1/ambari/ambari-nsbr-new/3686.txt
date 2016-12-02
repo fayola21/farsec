@@ -1,0 +1,1 @@
+NameNode HA wizard (Configure Components step): Task 'Reconfigure HDFS' always fail  and user cannot proceed to next step    This task fails due to bad request:/api/v1/clusters/c1/hosts/HDFS_CLIENT/host_components/dev01.hortonworks.comShould be: api/v1/clusters/c1/hosts/dev01.hortonworks.com/host_components/HDFS_CLIENT   

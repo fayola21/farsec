@@ -1,0 +1,1 @@
+<title>Issue 46218 -   chromium -    Unable to navigate on full-screen mode - Project Hosting on Google Code</title> <pre>   Being able to go to other address      Stuck in one address </pre>

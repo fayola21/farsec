@@ -1,0 +1,1 @@
+<title>Issue 545 -   chromium -    No stop button - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    There is no button to stop a page loading. There should either be a separate button or a button for reload/stop. </pre>

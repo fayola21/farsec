@@ -1,0 +1,1 @@
+<title>Issue 29197 -   chromium -    GTK theme change notifications should trigger a refresh of the WebKit prefs - Project Hosting on Google Code</title> <pre> Changing the GNOME theme should trigger a refresh of the user interface. Most   notably  it should update the focus ring color  and it should redraw all   scrollbars in the newly selected color-scheme. </pre>

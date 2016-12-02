@@ -1,0 +1,1 @@
+<title>Issue 1026 -   chromium -    background-color: transparent on &quot;select&quot; element - Project Hosting on Google Code</title>   1. Avoid using background-color: transparent       The background has no color. It's transparent instead (as it should be)       In GChorme the background color is black instead of usual     <b>Please provide

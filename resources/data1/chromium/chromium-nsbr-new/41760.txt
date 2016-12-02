@@ -1,0 +1,1 @@
+<title>Issue 41760 -   chromium -    Support for XHR sending FormData - Project Hosting on Google Code</title> <pre> see <a href="http://sites.google.com/a/chromium.org/dev/developers/web-platform-">http://sites.google.com/a/chromium.org/dev/developers/web-platform-</a>  status#TOC-XHR-supports-sending-FormData </pre>

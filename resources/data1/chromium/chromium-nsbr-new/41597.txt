@@ -1,0 +1,1 @@
+<title>Issue 41597 -   chromium -    Crash in FT_Load_Glyph with Russian text. - Project Hosting on Google Code</title>   $ chromium <a href="http://snowcore.net">http://snowcore.net</a>      A normal web page      'Aw  snap' and a crash log in a console.    <b>Please provide

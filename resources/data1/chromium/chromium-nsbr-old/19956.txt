@@ -1,0 +1,1 @@
+<title>Issue 19956 -   chromium -    suggestion: incognito mode should also not display the page title in the titlebar - Project Hosting on Google Code</title> <pre> The subject line says it all. Showing the page title in the titlebar  reveals what you're looking at to anyone who sees your taskbar  even if the  browser is minimized or hidden behind other windows. </pre>

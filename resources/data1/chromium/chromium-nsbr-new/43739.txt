@@ -1,0 +1,1 @@
+<title>Issue 43739 -   chromium -    A false &quot;reset&quot; drag event is sent at the end of each drag &amp; drop transaction - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396.0 dev             Safari 4: N/A    Firefox 3.x: N/A           IE 7: N/A           IE 8: N/A    Please see the attached file for the defect demo. </pre>

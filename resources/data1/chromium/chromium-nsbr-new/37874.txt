@@ -1,0 +1,1 @@
+<title>Issue 37874 -   chromium -    REGRESSION: Visual Defect / Gray Bar on Frame and Superbar on Windows 7 and Vista Aero - Project Hosting on Google Code</title>   1. Start Chromium          No extraneous structure overlaping the superbar and aero frame.        See the attachment    <b>Please provide

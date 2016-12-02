@@ -1,0 +1,1 @@
+<title>Issue 29560 -   chromium -    display garbled on Linux - Project Hosting on Google Code</title>   1. Fire up the browser  2. Pull the mouse over the browser window a few times      You see the startup page nice &amp; fresh &amp; clean :)      Garbled display  see attached screenshot.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40039 -   chromium -    BookmarkBarViewTest10.KeyEvents is disabled for Chromeos - Project Hosting on Google Code</title> <pre> BookmarkBarViewTest10.KeyEvents is disabled for Chromeos as  it's failing. Seems like it's due to timing/asynchronous issue  but I   haven't look into details yet. </pre>

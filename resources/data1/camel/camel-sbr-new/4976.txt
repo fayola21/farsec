@@ -1,0 +1,1 @@
+Problem Removing Endpoints    (see context on the users@ list)When using removeEndpoints(String) with a pattern  some endpoints (like jms topics) are reported as removed but they are not.   

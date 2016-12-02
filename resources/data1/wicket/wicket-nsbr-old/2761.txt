@@ -1,0 +1,1 @@
+InjectorHolder.getInjector().inject(this) doesn't work with wicket-guice    Using Wicket-Guice integration for dependency injection does not provide the helper mechanism 'InjectorHolder.getInjector().inject(this)' for classes which do not extend o.a.w.Component.   

@@ -1,0 +1,1 @@
+<title>Issue 1327 -   chromium -    get webkit/tools/npapi_layout_test_plugin building on Linux - Project Hosting on Google Code</title> <pre> Sub-task of <a title="Get all of WebCore building on Linux" class=closed_ref href="/p/chromium/issues/detail?id=1307"> Issue 1307 </a>. Need to adapt SConscript  wrap win32-isms  and  check code. </pre>

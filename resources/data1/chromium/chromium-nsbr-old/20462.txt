@@ -1,0 +1,1 @@
+<title>Issue 20462 -   chromium -    If the theme is not default it does not show correctly - Project Hosting on Google Code</title>   1.See the attachment file it's show the look.                    <b>Please provide

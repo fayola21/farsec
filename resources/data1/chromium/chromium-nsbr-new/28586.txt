@@ -1,0 +1,1 @@
+<title>Issue 28586 -   chromium -    ChromeFrame should have an uninstall link. - Project Hosting on Google Code</title> <pre> Some systems have access to the Add/Remove Programs dialog restricted via   group policy. CF should still provide a way to uninstall in this case.   </pre>

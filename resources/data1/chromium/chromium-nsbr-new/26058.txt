@@ -1,0 +1,1 @@
+<title>Issue 26058 -   chromium -    Renderer crashes if pause is pressed during page load - Project Hosting on Google Code</title> <pre>   1. Open DevTools window.  2. Navigate to cnn.com  3. Press pause while the page is loading.    What is the expected output?  Script execution is paused.    What do you see instead?  Inspected renderer crashes.     </pre>

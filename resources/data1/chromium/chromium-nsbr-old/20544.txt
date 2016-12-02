@@ -1,0 +1,1 @@
+<title>Issue 20544 -   chromium -    Changes to the style.pixelWidth attribute of a &lt;COL&gt; element are not reflected in the table. - Project Hosting on Google Code</title>     1. Save the attached file anywhere and run it in Chome  2. Click on the show bug button  3. That's it.            The column 1 should be resized but it stays the same width.    <b>Please provide

@@ -1,0 +1,1 @@
+Add a setting to MultiFileUploadField to not close the file uploads' streams    As explained at http://markmail.org/message/hdde56myxso5cwgy MultiFileUploadField should provide a setting that decides whether its file uploads should close their streams at the end of the request cycle.   

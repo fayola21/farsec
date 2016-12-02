@@ -1,0 +1,1 @@
+<title>Issue 26406 -   chromium -    The +/i icon next to &quot;Developer Tools&quot; should be 1 or 2 px more to the left - Project Hosting on Google Code</title> <pre> See attached.    Also  the text &quot;Developer Tools&quot; should have the style &quot;cursor:default&quot; to   make it use the normal arrow instead of the text i-beam. </pre>

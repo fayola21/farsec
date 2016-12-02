@@ -1,0 +1,1 @@
+<title>Issue 38622 -   chromium -    Disable taskbar windows in Win7 (not a real bug) - Project Hosting on Google Code</title>   1. using latest Chrome on Windows 7          - Until yesterday  I had just one window in  the taskbar for every chrome   window I had open.      - Now I have a window down there for every single tab I'm using    <b>Please provide

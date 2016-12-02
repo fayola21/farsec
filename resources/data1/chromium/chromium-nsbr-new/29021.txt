@@ -1,0 +1,1 @@
+<title>Issue 29021 -   chromium -    Confirming uninstallation of extension says &quot;install&quot; instead of &quot;uninstall&quot; - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.11        Uninstalling an extension should say uninstall  not install.   </pre>

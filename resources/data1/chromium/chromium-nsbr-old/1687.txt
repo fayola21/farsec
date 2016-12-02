@@ -1,0 +1,1 @@
+<title>Issue 1687 -   chromium -    Wish: middle click to ignore javascript - Project Hosting on Google Code</title>   1. Click a link that does something with javascript  2. Get a new tab whatever the javascript is        Get a new tab whatever the javascript is (like Firefox does).      Javascript executes.    Please provide

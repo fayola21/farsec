@@ -1,0 +1,1 @@
+<title>Issue 40765 -   chromium -    [Content Settings] FTP directory listing doesn't work with JS disabled - Project Hosting on Google Code</title>   1. Disable JavaScript globally using the Content Settings.  2. Go to an FTP directory listing        Normal listing        Only a &lt;hr&gt; is shown.    <b>Please provide

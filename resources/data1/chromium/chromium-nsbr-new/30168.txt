@@ -1,0 +1,1 @@
+<title>Issue 30168 -   chromium -    Broadcast notifications when a single autofill item is removed - Project Hosting on Google Code</title> <pre> Broadcast notifications when a single autofill item is removed.  This   happens when WebDataService::RemoveFormValueForElement() is called   </pre>

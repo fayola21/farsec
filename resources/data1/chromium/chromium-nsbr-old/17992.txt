@@ -1,0 +1,1 @@
+<title>Issue 17992 -   chromium -    &quot;open in new-tab&quot; option should open the new tab in background  not foreground. - Project Hosting on Google Code</title>   1.right-click any link and select &quot;open in new tab&quot;          open new tab with the focus staying on existing tab      it opens the new tab and changes the focus    <b>Please provide

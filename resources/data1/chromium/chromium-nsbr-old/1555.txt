@@ -1,0 +1,1 @@
+<title>Issue 1555 -   chromium -    Mouse wheel allows for scrolling down  but not up. - Project Hosting on Google Code</title>   1. Open Chrome  2. Scroll down with mouse wheel  3. Try to scroll up (it won't)                Please provide

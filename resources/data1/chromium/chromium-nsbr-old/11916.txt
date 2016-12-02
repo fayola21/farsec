@@ -1,0 +1,1 @@
+<title>Issue 11916 -   chromium -    Need throbber on tabs when loading - Project Hosting on Google Code</title> <pre> When loading a tab  we need a throbber in place of the favicon to indicate  loading status. </pre>

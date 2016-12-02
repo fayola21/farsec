@@ -1,0 +1,1 @@
+camel-sql - JDBC aggregation repository - Should use ClassResolver from Camel to load classes    The ClassLoadingAwareObjectInputStream should use the classResolver from CamelContext  which ensures better class loading on various platforms and OSGi etc.   

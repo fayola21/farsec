@@ -1,0 +1,1 @@
+<title>Issue 18440 -   chromium -    &quot;Remove a thumnail&quot; in NTP is not localized - Project Hosting on Google Code</title> <pre>   Japanese      2.0.172.39      Windows XP SP3      NTP (New Tab Page) - you can find &quot;Remove a thumnail&quot; at the bottom in   English.  This should be Japanese.       </pre>

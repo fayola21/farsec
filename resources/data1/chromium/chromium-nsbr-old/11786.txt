@@ -1,0 +1,1 @@
+<title>Issue 11786 -   chromium -    the frame doesn't load properly? - Project Hosting on Google Code</title>   1. Opening similar pages using Google Chrome  2. -  3. -      The same page view as it looks on IE 7.      Switch to IE7 or take it as it is :)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11615 -   chromium -    No sad tab crash animation in tabstrip - Project Hosting on Google Code</title> <pre> We show the sad tab page now  but not crash animation in the tab.  We should   show this. </pre>

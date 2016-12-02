@@ -1,0 +1,1 @@
+<title>Issue 29142 -   chromium -    Crash sometimes when restoring tabs (after crash  unclean shutdown etc.) - Project Hosting on Google Code</title>   1. Make the browser crash. Unclean shutdown  chromium crash etc.  2. Reopen Chromium  3. Click the &quot;restore&quot; button to restore the tabs that were open      Restoring tabs      Chromium crashing    <b>Please provide

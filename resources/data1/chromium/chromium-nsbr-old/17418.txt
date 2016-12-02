@@ -1,0 +1,1 @@
+<title>Issue 17418 -   chromium -    @fontface not working in chrome... - Project Hosting on Google Code</title> <pre> From what I remember @fontface worked in v2 of chrome. not working now  works   in firefox  safari  opera.     </pre>

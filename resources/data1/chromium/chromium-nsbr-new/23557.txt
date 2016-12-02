@@ -1,0 +1,1 @@
+<title>Issue 23557 -   chromium -    Mac pixel tests: Missing baselines - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/fast/text/text-letter-spacing.html  LayoutTests/fast/forms/menulist-style-color.html  LayoutTests/platform/win/accessibility/scroll-to-anchor.html   </pre>

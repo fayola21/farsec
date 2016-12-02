@@ -1,0 +1,1 @@
+<title>Issue 43490 -   chromium -    Ctrl+Tab should work like Alt+Tab - Project Hosting on Google Code</title>   1. Open at least 3 tabs  2. Press Ctrl+Tab        This should function the same as Alt+Tab  cycling in the reverse order of   which tabs were in focus.      It cycles through all tabs in order from left to right.    <b>Please provide

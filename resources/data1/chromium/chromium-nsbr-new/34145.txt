@@ -1,0 +1,1 @@
+<title>Issue 34145 -   chromium -    No way to close Desktop notification on Linux - Project Hosting on Google Code</title>   1. Create a notification  2. show      -Notification with close button      -Notification without close button    <b>Please provide

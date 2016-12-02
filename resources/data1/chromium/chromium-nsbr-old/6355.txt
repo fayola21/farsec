@@ -1,0 +1,1 @@
+<title>Issue 6355 -   chromium -    Unable to configure ddwrt based router - Project Hosting on Google Code</title>   1. get a wireless router running ddwrt   2. Log in and change some settings  3. click apply and wait chrome will return a page not found error and the   settings are not applied                Please provide

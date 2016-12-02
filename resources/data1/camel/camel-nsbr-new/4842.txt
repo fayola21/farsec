@@ -1,0 +1,1 @@
+Remove ProducerCache from CamelContext service list when shutting down a route    If people add routes dynamic and remove the routes later on  we need to remove services which may have been added to the CamelContext services list. For example the ProducerCache by SendProcessor etc.This will ensure that the ProducerCache can be GC'ed.   

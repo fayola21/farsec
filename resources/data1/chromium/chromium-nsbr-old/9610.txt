@@ -1,0 +1,1 @@
+<title>Issue 9610 -   chromium -    It's not a bug... - Project Hosting on Google Code</title> <pre> ... but something is missing: the ability to automatically clear the   browsing data when we shutdown G-Chrome...    Thanks a lot for your work  have a nice day! </pre>

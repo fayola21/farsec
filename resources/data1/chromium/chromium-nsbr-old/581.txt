@@ -1,0 +1,1 @@
+<title>Issue 581 -   chromium -    Closing of a session doesnt prompt user to confirm! - Project Hosting on Google Code</title>   1. Open multiple tabs  2. Close the browser        A prompt requiring the user to confirm if he really meant to close      The browser just closes    Please provide

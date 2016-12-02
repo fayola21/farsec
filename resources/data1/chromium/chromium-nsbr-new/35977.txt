@@ -1,0 +1,1 @@
+<title>Issue 35977 -   chromium -    window.closed is wrongly true when user change location to a different origin. - Project Hosting on Google Code</title>   1. w=window.open(sameOriginURL).  2. User change w's location to another origin.        w.closed should be false.      w.closed is true.    <b>Please provide

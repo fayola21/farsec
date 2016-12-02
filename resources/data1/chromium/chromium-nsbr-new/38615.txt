@@ -1,0 +1,1 @@
+<title>Issue 38615 -   chromium -    Translate toolbar  - Project Hosting on Google Code</title> <pre> how can I turn off the &quot;translate toolbar&quot; in Chrome ??? !!! it is very   annoying !!!    </pre>

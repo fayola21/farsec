@@ -1,0 +1,1 @@
+<title>Issue 24643 -   chromium -    Weird transparency glitch with browser actions + gmail checker - Project Hosting on Google Code</title> <pre> The new gmail checker-as-browser action has a weird transparency glitch. Some   of the pixels near the top of the gmail icon show up the wrong color after it   rotates. This is especially obvious on dark grey themes. </pre>

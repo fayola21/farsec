@@ -1,0 +1,1 @@
+<title>Issue 1695 -   chromium -    Chrome needs option to turn off &quot;Friendly 404&quot; displays - Project Hosting on Google Code</title>   1. Prepare url to a non-existing resource            A server-defined 404 not found response page.        Chrome will display its own &quot;Friendly&quot; 404 response page. See image.    Please provide

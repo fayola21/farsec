@@ -1,0 +1,1 @@
+<title>Issue 31956 -   chromium -    Baseline for cert text in omnibox too low - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.288.1      1. Go to a page that makes the green cert text show up in the omnibox  2. Look at it        Baseline should be higher.        It's not. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1266 -   chromium -    www.sciencedirect.com is rendered incorrectly - Project Hosting on Google Code</title>   1. Open www.sciencedirect.com      The page should render correctly  as in other browsers (excluding Opera).      The section below &quot;Browse by title&quot; is rendered incorrectly    Please provide

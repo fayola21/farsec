@@ -1,0 +1,1 @@
+<title>Issue 12778 -   chromium -    menus in very small font - Project Hosting on Google Code</title>   1. open chrome      normal UI font      very small UI Font on tabs labels  toolbar labels  chrome dialogs labels   and controls.    <b>Please provide

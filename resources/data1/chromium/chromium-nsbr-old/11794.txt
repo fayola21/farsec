@@ -1,0 +1,1 @@
+<title>Issue 11794 -   chromium -    Crash on creating new tab when opening chromium maximized - Project Hosting on Google Code</title>   1. Create a shortcut to open chromium maximized  2. Start chromium  3. Click on add-tab (+)  4. Chromium crashes    Please provide

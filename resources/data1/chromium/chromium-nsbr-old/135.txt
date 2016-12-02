@@ -1,0 +1,1 @@
+<title>Issue 135 -   chromium -    Focused Form elements do not have a visual cue for focus on Classic theme - Project Hosting on Google Code</title>   1. Go to www.google.com  2. Press Tab     I've attached screenshots from FF3 and IE7 - as well as Chrome.        Some visual indication that a submit element has focus        No indication  but focus exists    Please provide

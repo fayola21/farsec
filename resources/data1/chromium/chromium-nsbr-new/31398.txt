@@ -1,0 +1,1 @@
+<title>Issue 31398 -   chromium -    T-mobile web page does not support Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;from About Google Chrome/Chromium or  'about:version'&gt;            1. <a href="https://my5.msg.t-mobile.com/my5emu2/web/safari.cmd">https://my5.msg.t-mobile.com/my5emu2/web/safari.cmd</a>  2. Require account log in.     </pre>

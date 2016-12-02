@@ -1,0 +1,1 @@
+<title>Issue 23922 -   chromium -    Play an audio/video after paused doesn't start from where it was paused - Project Hosting on Google Code</title> <pre>   1. Play an audio  2. Pause  3. Play again      Sound is playing from where it was paused but instead some parts are skipped.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15835 -   chromium -    nptest.dll plugin not loading in chrome - Project Hosting on Google Code</title>   (See below)      The NPAPI Plugin should install  and be invoked by Chrome when the HTML  EMBED tag is executed.      The Plugin appears to install correct  but does not get invoked by Chrome  when the HTML EMBED tag is executed.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21478 -   chromium -    my language is not working - Project Hosting on Google Code</title> <pre> [Language]malayam    [Version number]2.0.173.1    [OS details]win xp    [Where is the poor translation?]web browser       </pre>

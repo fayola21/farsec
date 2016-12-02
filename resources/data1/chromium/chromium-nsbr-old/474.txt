@@ -1,0 +1,1 @@
+<title>Issue 474 -   chromium -    CSS horizontal 1px dotted border - Project Hosting on Google Code</title>   1. Make a 1px dotted border with css.  2. View it in Chrome.  3. Notice the white space in the middle of the border.                Please provide

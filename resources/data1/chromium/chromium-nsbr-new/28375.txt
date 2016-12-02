@@ -1,0 +1,1 @@
+<title>Issue 28375 -   chromium -    gcl commit should not allow you to commit without making sure rietveld is up to date - Project Hosting on Google Code</title> <pre> gcl commit should either do a non-try upload  or it should somehow validate that nothing has   changed since you're last upload.   </pre>

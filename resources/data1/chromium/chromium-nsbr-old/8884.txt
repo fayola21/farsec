@@ -1,0 +1,1 @@
+<title>Issue 8884 -   chromium -    Chromium crashes when clicking on the STAR next to omnibox - Project Hosting on Google Code</title>   1. Visit a site  2. Click on the STAR next to omnibox         Link is added to bookmarks          Often Chromium crashes and shuts down      <b>Please provide

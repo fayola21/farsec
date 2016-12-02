@@ -1,0 +1,1 @@
+<title>Issue 34763 -   chromium -    Remaining Tabs become small after closing a tab - RTL languages - Project Hosting on Google Code</title>   1. Launch Chrome with Ar or He UI  2. Open multiple tabs on the browser (ex : create 7 tabs)  3. close a tab        Remaining tabs are small after the tab is closed.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13738 -   chromium -    Omnibar has scaling artifacts - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.183.1 (Official Build 17570)      1. Type something in the omnibar      The omnibar is drawn without scaling artifacts.      The omnibar is drawn with scaling artifacts </pre>

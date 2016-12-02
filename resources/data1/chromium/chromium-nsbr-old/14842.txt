@@ -1,0 +1,1 @@
+<title>Issue 14842 -   chromium -    Gmail always crash my Chrome 3.0.189.0  - Project Hosting on Google Code</title>   1. Open Gmail   2. Chrome crashes      works as in other browser      Chrome always crashes while signing in Gmail.     <b>Please provide

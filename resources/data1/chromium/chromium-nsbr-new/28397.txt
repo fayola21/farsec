@@ -1,0 +1,1 @@
+<title>Issue 28397 -   chromium -    Ctrl+W closes browser - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 'about:version'&gt;3.0.195.33 (Official   Build 31639)                    1. Open Chrome with one tab  2. Press Ctrl+W      I have a browser with one tab.        Browser is closed.   </pre>

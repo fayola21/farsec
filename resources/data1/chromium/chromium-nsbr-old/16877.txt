@@ -1,0 +1,1 @@
+<title>Issue 16877 -   chromium -    Enable DOM Storage locking. - Project Hosting on Google Code</title> <pre> Enable DOM Storage locking.    The spec requires that only one script can be touching DOM Storage at once.    WebKit is inherently single threaded  so they didn't have to worry about   this  but we do. </pre>

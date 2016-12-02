@@ -1,0 +1,1 @@
+<title>Issue 6145 -   chromium -    what's with the orange background for text selection - Project Hosting on Google Code</title> <pre> version: 2.0.156.1    In corp gmail when I select text the highlight background is orange. In the   old version it was the standard windows dark blue. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44395 -   chromium -    Add policy for disabling the password manager - Project Hosting on Google Code</title> <pre> One the policy abstraction is complete  we need to implement a policy to   enable or disable the password manager from triggering.  Some organizations   will not want passwords to be saved  ever. </pre>

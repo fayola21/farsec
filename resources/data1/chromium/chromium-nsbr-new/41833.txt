@@ -1,0 +1,1 @@
+<title>Issue 41833 -   chromium -    Disable autofill sync on M5 - Project Hosting on Google Code</title> <pre> We've decided to stop syncing autofill in Chrome 5  due to bugs and the   decision to drop new-style autofill anyway. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 758 -   chromium -    Windows XP + XP Themes disabled causes ugly custom window frame to be used. - Project Hosting on Google Code</title>   1. Open browser.            A Windows 2000-style window border.          Some ugly amateurish atrocity.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20434 -   chromium -    Feature request: option to not close Chrome when closing last tab - Project Hosting on Google Code</title>   1. (single tab opened with some page)  2. press Ctrl-W or click X button on tab      Tab is replaced by New Tab page      Chrome quits    <b>Please provide

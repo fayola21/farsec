@@ -1,0 +1,1 @@
+<title>Issue 33680 -   chromium -    Preview window on wimdows taskbar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.1      When is 2 or more tabs open in Chrome   preview window on the windows task   bar shoold show that. (Please see attach)     The way how is doing IE.    </pre>

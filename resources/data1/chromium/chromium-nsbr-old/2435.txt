@@ -1,0 +1,1 @@
+<title>Issue 2435 -   chromium -    HTMLTextAreaElement.textLength is not implemented - Project Hosting on Google Code</title>   1. Create a Text  2. Create a named link  3. JavaScript generated BB-Markup dosn`t work as expected.    (See URL for testcase and more details)                Please provide

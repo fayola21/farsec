@@ -1,0 +1,1 @@
+<title>Issue 22036 -   chromium -    Findbar does not move out of the way when selection is underneath it - Project Hosting on Google Code</title> <pre> GetDialogPosition() and SetDialogPosition() are not implemented in find_bar_bridge.mm.  They need   to be implemented in order for the find bar to move out of the way of found text. </pre>

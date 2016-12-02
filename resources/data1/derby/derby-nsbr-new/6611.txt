@@ -1,0 +1,1 @@
+Broken link in API docs to derby.drda.keepAlive documentation    In the javadoc for NetworkServerMBean#getDrdaKeepAlive  there is a@see link which is broken. It points to:http://db.apache.org/derby/docs/dev/adminguide/radmindrdakeepalive.html   

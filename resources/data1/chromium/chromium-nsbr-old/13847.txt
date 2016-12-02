@@ -1,0 +1,1 @@
+<title>Issue 13847 -   chromium -    HTML Authentication dialog box is double-wrapped (Vista) - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.187.0  URLs (if applicable) : N/A      1. Visit a site that requires HTTP Authentication (using htaccess or similar)  2. Dialog box for login information is double-wrapped.     </pre>

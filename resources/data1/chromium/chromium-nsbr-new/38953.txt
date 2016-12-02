@@ -1,0 +1,1 @@
+<title>Issue 38953 -   chromium -    Be consistent with ellipses in dialogs - Project Hosting on Google Code</title> <pre> In under the hood  some buttons have ellipses (&quot;Content settings...&quot;) and   others do not (&quot;Change proxy settings&quot;). I don't understand the rationale    but this feels inconsistent. </pre>

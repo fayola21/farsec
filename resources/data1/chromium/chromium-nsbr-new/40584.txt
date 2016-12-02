@@ -1,0 +1,1 @@
+<title>Issue 40584 -   chromium -    tests in ExtensionProxyUITest are failing on linux/chromeos valgrind bots. - Project Hosting on Google Code</title> <pre> It seems that all tests in ExtensionProxyUITest are failing due to mmap failure.  Excluding them from valgrind tests for now.    could be same issue as 28439  but filing separately for now.   </pre>

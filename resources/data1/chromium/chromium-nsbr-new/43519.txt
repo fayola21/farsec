@@ -1,0 +1,1 @@
+<title>Issue 43519 -   chromium -    New Arabic domain does not display properly in omnibox - Project Hosting on Google Code</title>   1. open the url in Chrome  2. Chrome opens the page  3. omnibox now displays garbage      keep text in Arabic characters      characters replaced by something weird    <b>Please provide

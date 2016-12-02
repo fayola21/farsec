@@ -1,0 +1,1 @@
+<title>Issue 20525 -   chromium -    L10N: BookmarkBubble.xib - Project Hosting on Google Code</title> <pre> Finish L10N work on the xib/ui. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 24767 -   chromium -    On RGBA-compatible visuals  antialias the window border - Project Hosting on Google Code</title> <pre> If we marked our window as RGBA we could use an alpha channel on the corners   to make the rounded edges smooth.    Only would work in the presence of a compositing WM  but we can test for   that. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6368 -   chromium -    All the languages: Some strings under &quot;Bookmard Manager&quot; are not translated. - Project Hosting on Google Code</title> <pre>   Dutch    2.0.156.1    Windows Vista Home Premium    Ctrl + Shift + B --&gt; first menu entry     AND  Ctrl + B --&gt; right-mouse click on the bar     </pre>

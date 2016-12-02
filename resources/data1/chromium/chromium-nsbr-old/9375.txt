@@ -1,0 +1,1 @@
+<title>Issue 9375 -   chromium -    Right-click -&gt; Task Manager does nothing (Requires nView  ?) - Project Hosting on Google Code</title> <pre> Right-clicking the caption area to bring up the context menu  then selecting   &quot;Task Manager&quot;  does nothing.    Shift-Esc still works. </pre>

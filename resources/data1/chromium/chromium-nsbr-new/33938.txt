@@ -1,0 +1,1 @@
+<title>Issue 33938 -   chromium -    Universal/master volume control through browser - Project Hosting on Google Code</title> <pre> Different multimedia from different websites all have start playing with   different volume settings. It would be useful if there were a volume control   option through the browser to set an overall volume or to mute everything </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40593 -   chromium -    [mac] notifications in the wrong place if the dock is not auto-hide - Project Hosting on Google Code</title> <pre>   1.  Set your Mac OS dock to not auto hide  2.  Create a notification  3.  The notification will not be in the upper right  in fact it will be  shifted down by the height of the dock.      Faulty math...   </pre>

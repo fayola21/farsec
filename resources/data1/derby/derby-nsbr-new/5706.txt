@@ -1,0 +1,1 @@
+Clean up statements in CreateTableFromQueryTest    CreateTableFromQueryTest has a Statement field that it closes  but doesn't null out  in tearDown(). Since the field isn't nulled out  it cannot be garbage collected  and one Statement per test case will be left on the heap after completion.   

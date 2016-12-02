@@ -1,0 +1,1 @@
+<title>Issue 3102 -   chromium -    On Orkut  I cannot scrap using Indian languages (Kannada  Hindi  Telugu etc).. I can't Ctrl-G :( - Project Hosting on Google Code</title>   1. Just login via orkut.co.in  2. Click Ctrl-G to choose an Indian language - no effect :(  3. Log off  and login to orkut using Mozilla firefox  and you'll know what   I mean.                Please provide

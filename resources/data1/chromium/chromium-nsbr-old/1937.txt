@@ -1,0 +1,1 @@
+<title>Issue 1937 -   chromium -    no scrollbars on svg pictures larger then browser - Project Hosting on Google Code</title>   1. open <a href="http://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-">http://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-</a>  simple.svg        scrollbars available          there is no scrollbars      Please provide

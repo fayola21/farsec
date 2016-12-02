@@ -1,0 +1,1 @@
+<title>Issue 31198 -   chromium -    Extensions Missing - Project Hosting on Google Code</title>   1. Opening and closing the browser      Normal usage.      All extensions that were installed are now gone. It still leaves with bookmarks and   form information. Google account info and option settings are now reset to default.    <b>Please provide

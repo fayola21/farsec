@@ -1,0 +1,1 @@
+If 'Install from Local Repository' selected in install wizard  Add Host wizard not working       

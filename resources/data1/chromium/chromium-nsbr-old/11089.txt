@@ -1,0 +1,1 @@
+<title>Issue 11089 -   chromium -    Cannot type '(' in the text search box - Project Hosting on Google Code</title>   1. Go to the page given. Click cntl-F to get to the search box.  2. Start typing 'replace('        Highlight all 'replace(' strings and get to the first match.      Search box does not accept '(' and does scroll down instead.      <b>Please provide

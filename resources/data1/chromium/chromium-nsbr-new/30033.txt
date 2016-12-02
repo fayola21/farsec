@@ -1,0 +1,1 @@
+<title>Issue 30033 -   chromium -    cursor moves only half as far on trackball roll as it does in all other applications - Project Hosting on Google Code</title>   1.problem is constant over all tabs        What is the expected result?  I would like normal trackball behavior   (Logitech Marble Mouse)            <b>Please provide

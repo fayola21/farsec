@@ -1,0 +1,1 @@
+<title>Issue 8169 -   chromium -    Tab doesn't close - Project Hosting on Google Code</title>   1. Open chrome and maximize the window  2. Open 2 more Tabs  3. Try to close the last one(third) by clicking the x      The third tab should be closed      Nothing      Please provide

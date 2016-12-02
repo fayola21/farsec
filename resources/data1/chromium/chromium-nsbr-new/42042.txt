@@ -1,0 +1,1 @@
+<title>Issue 42042 -   chromium -    google3/googleclient/chrome/sheriff/rotation.py should do 4 day rotations - Project Hosting on Google Code</title> <pre> Each gardener should have 4 days at a time with two days overlap  i.e. the first two days for one   gardener will be the last two days of the previous gardener </pre>

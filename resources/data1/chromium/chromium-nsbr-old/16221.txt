@@ -1,0 +1,1 @@
+<title>Issue 16221 -   chromium -    Add realtime stats monitoring WebCoreCache metrics - Project Hosting on Google Code</title> <pre> It would be nice if you could view the various WebCoreCache metrics (in the   histograms page) as live per-renderer readouts on the Chrome task manager. </pre>

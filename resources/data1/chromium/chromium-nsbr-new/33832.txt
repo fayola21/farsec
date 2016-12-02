@@ -1,0 +1,1 @@
+<title>Issue 33832 -   chromium -    I can not run the extension - Project Hosting on Google Code</title>   1.Download an extension  2. Select the extension  3. And I can not run      That in the next build fixes the problem        I can not run the extension      <b>Please provide

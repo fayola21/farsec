@@ -1,0 +1,1 @@
+<title>Issue 5113 -   chromium -    VectorCanvas/Device and associated unittests should not depend on base includes - Project Hosting on Google Code</title> <pre> This will be necessary to compile WebKit upstream properly. Marc-Antoine    can you take a crack at this? I'm doing most of the rest of the stuff in   that directory. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 570 -   chromium -    Add an option to disable JavaScript/plug-ins - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    The current released version of Chrome doesn't have an option to disable   JavaScript or plug-ins. It should be possible to do this. </pre>

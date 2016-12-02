@@ -1,0 +1,1 @@
+<title>Issue 3767 -   chromium -    No way to pin the Ctrl+F bar - Project Hosting on Google Code</title> <pre> Suggestion:  I wish there was a way to pin the Ctrl-F bar so that it won't disappear   after browsing to another page (for example by clicking a pin/unpin icon   next to its X button).   It should also search again (if not empty) in that new page. </pre>

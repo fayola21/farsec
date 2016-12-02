@@ -1,0 +1,1 @@
+<title>Issue 29801 -   chromium -    gtk theme ought to be selected via special link in themes gallery - Project Hosting on Google Code</title> <pre> similar to classic theme on windows or silver/aluminum theme on mac. This   way we can remove the option in the options dialog. </pre>

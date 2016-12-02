@@ -1,0 +1,1 @@
+<title>Issue 39343 -   chromium -    REGRESSION: Gears logo is missing in gears settings dialog - Project Hosting on Google Code</title> <pre> Go to Wrench &gt; Options &gt; under the hood &gt; Change Gears settings    Issue: Gears logo is missing    Please see the attached image    Google Chrome	5.0.360.0 (Official Build 42309) </pre>

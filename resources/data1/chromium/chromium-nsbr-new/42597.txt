@@ -1,0 +1,1 @@
+<title>Issue 42597 -   chromium -    ClientSocketPool backup jobs can exceed the global socket limit - Project Hosting on Google Code</title> <pre> If creating a backup job would exceed the global limit  we should not create   the backup job. </pre>

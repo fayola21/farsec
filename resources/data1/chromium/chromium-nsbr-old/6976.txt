@@ -1,0 +1,1 @@
+<title>Issue 6976 -   chromium -    Divx - Project Hosting on Google Code</title> <pre> Don't have Divx player installed. Go to a website that requires it to play   a video; ex. - <a href="http://www.vureel.com/divx/1385">http://www.vureel.com/divx/1385</a>  It should allow you to go to the website to install divx player like with   other plug-ins. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6506 -   chromium -    The new tab doesn't open easily - Project Hosting on Google Code</title>               A new tab should open wherever I click on the plus button          I have to click repeatedly unless I click in some specific region on the   button(maybe closer to the top of the button)   to have a new tab opened.      Please provide

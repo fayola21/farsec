@@ -1,0 +1,1 @@
+TryProcessor - Do not use local copy Exchange in doCatch    There is no need to use a local copy when processing in doCatch.See nabblehttp://old.nabble.com/To-Roman---About-TryProcessor-to26377903s22882.html   

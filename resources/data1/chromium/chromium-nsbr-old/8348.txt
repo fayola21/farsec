@@ -1,0 +1,1 @@
+<title>Issue 8348 -   chromium -    unfork pe_image.h / pe_image.cc - Project Hosting on Google Code</title> <pre> There is no reason to have basepe_image.cc and sandboxInterceptionpe_image.cc    Given that sandbox uses base  sandbox should use that one.       </pre>

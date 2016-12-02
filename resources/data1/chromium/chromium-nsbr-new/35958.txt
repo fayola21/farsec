@@ -1,0 +1,1 @@
+<title>Issue 35958 -   chromium -    Window and tab themes should line up when in fullscreen mode - Project Hosting on Google Code</title> <pre> The window background does not line up with the tab view background when in fullscreen mode.    Fix.  This is easiest to see with the Topography theme. </pre>

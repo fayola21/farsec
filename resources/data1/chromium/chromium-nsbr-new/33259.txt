@@ -1,0 +1,1 @@
+<title>Issue 33259 -   chromium -    [www.budemeadows.com]: Images are not touching - Project Hosting on Google Code</title>   1.look at www.budemeadows.com          top and bottom borders should be touching main image        there's a gap  <b>Please provide

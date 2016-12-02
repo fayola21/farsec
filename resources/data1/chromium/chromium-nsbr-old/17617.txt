@@ -1,0 +1,1 @@
+<title>Issue 17617 -   chromium -    Excessive buttons made (don't make them if can't be displayed; revisit on width growth) - Project Hosting on Google Code</title> <pre> All bookmarks are made into buttons.  If the buttons won't be visible we shouldn't bother making them.  Will be a problem if you have millions of bookmarks.   </pre>

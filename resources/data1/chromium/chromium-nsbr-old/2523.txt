@@ -1,0 +1,1 @@
+<title>Issue 2523 -   chromium -    Tooltip for tab doesn't show if only one tab in browser - Project Hosting on Google Code</title> <pre>   1. Create a browser with a single tab.  2. Go to ebay.com  3. Hover mouse over tab.        You should see the tooltip  but you don't. If you create another tab then   the tooltip appears.        </pre>

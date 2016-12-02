@@ -1,0 +1,1 @@
+<title>Issue 44426 -   chromium -    Embedding a flash object with Jquery on crashes Chrome on Linux - Project Hosting on Google Code</title>   1.Use Jquery to embed a flash object      That the flash object appears and works      Page becomes unresponsive.    Please provide

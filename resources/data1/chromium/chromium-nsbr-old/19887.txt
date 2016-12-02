@@ -1,0 +1,1 @@
+<title>Issue 19887 -   chromium -    Remove ConflictResolutionEvent - Project Hosting on Google Code</title> <pre> ConflictResolutionEvent is an anachronism  and the channel that it's hooked   up to insidiously infects constructors. It ought to die. </pre>

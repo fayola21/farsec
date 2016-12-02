@@ -1,0 +1,1 @@
+camel-bindy - Do not use locale if not explicit configured    Bindy should newer use locale if not explicit configured to use one  as they will format numbers and whatnot in unexpected ways.For example an integer with an US locale will have comma as thousand separator  and that dont go well when marshalling to a CSV file  as the comma is also often a separator there.   

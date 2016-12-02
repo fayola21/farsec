@@ -1,0 +1,1 @@
+<title>Issue 13482 -   chromium -    Page looks with font bigger than Firefox - Project Hosting on Google Code</title>   1. Go to this page: <a href="http://www.openstreetphoto.org/">http://www.openstreetphoto.org/</a>          Maybe should look like Firefox        Part of page is with font bigger than looking with Firefox      <b>Please provide

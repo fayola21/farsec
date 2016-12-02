@@ -1,0 +1,1 @@
+<title>Issue 11639 -   chromium -    function location - Project Hosting on Google Code</title>   1.put a function called location in a javascript tag  2.call the function location        the page redirects to an error page           <b>Please provide

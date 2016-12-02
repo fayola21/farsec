@@ -1,0 +1,1 @@
+<title>Issue 13345 -   chromium -    Copy - Past Bug (From Chrome to Dreamweaver) - Project Hosting on Google Code</title>   1.Copy text from chrome and paste to dreamweaver (Didn't paste well)          Copy text      Didn't copy from chrome    <b>Please provide

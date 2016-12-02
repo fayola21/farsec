@@ -1,0 +1,1 @@
+<title>Issue 6170 -   chromium -    Java Applet not working as should - Project Hosting on Google Code</title>   1. Visit <a href="http://www.playandwin.co.uk">http://www.playandwin.co.uk</a>   2. Create a free account  3. Try to play a game (java)      Java Applets Load and you can play a game.      Java Applets dont load    Please provide

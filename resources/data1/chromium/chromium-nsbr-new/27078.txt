@@ -1,0 +1,1 @@
+<title>Issue 27078 -   chromium -    Some pdf files not opened in browser &amp; ask for download - Project Hosting on Google Code</title>   1. Goto scholar.google.com  2. Search something  3. Click on some link which has &quot;[PDF]&quot; in the result.      Should open the pdf in the browser itself  may be in a new tab.      Gives a save-as dialog.    <b>Please provide

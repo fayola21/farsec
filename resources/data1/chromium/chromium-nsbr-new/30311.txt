@@ -1,0 +1,1 @@
+<title>Issue 30311 -   chromium -    Win 7 taskbar issue - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.266.0    Hello  in a recent update 4.0.266 (or maybe a little before)  When launching Chrome with a Shortcut placed in the new win7 taskbar  a new   chrome taskbar icon appear and does not activate the original icon but create   a new one   </pre>

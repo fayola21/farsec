@@ -1,0 +1,1 @@
+<title>Issue 20290 -   chromium -    audio out of sync with rate != 1 - Project Hosting on Google Code</title> <pre> 1. play sync2.ogv in test matrix  2. set rate to 0.75  audio sync will be out.  returning to rate 1.0 the video gets back in sync.   </pre>

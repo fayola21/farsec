@@ -1,0 +1,1 @@
+<title>Issue 3703 -   chromium -    When a page is TIS-620 and EUC-KR   'Thai' and Korean encoding are not checked in the encoding menu. - Project Hosting on Google Code</title> <pre> Works in 0.3.154.x  but broken in 0.3.155.x.    Encoding name aliasing seems to be broken after the latest webkit merge.  </pre>

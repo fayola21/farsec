@@ -1,0 +1,1 @@
+Sending to http endpoint may double encoding parameters    See nabbleThe workaround is to use either HTTP_URI or HTTP_QUERY as a header with the parameters. Then they are not double encoded.Also the HTTP_URI should be placeholder resolved  so we can use port or the likes to inject the port number dynamic.   

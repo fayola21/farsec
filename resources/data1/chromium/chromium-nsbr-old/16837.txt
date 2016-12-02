@@ -1,0 +1,1 @@
+<title>Issue 16837 -   chromium -    gclient sync/update doesn't always run hooks - Project Hosting on Google Code</title> <pre> gclient's hooks aren't run on sync  but are on update.  we have some pages   that talk about doing a gclient sync and some about an update.  Since we need   the hooks to get project files  both should do it. </pre>

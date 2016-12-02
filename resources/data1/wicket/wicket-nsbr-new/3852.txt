@@ -1,0 +1,1 @@
+make PropertiesFactory easier to use outside of wicket scope    In relation to WICKET-3850  it'd be nice if PropertiesFactory didn't rely on Application at all  but rather on the only part of the Application it uses: IResourceSettings.   

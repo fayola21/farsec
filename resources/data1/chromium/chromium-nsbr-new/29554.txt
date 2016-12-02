@@ -1,0 +1,1 @@
+<title>Issue 29554 -   chromium -    Not shown are the downloads on the Downloads tab in the Private mode. - Project Hosting on Google Code</title>   1. I open a private window  2. I do a download  3. I open the Downloads tab      should show ongoing downloads      do not show me any downloads in progress    <b>Please provide

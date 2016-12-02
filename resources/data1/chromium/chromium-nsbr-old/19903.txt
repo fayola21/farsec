@@ -1,0 +1,1 @@
+<title>Issue 19903 -   chromium -    option to import from other browser is disabled  - Project Hosting on Google Code</title>   1. Do a fresh install of Chrome so FRUI comes up.          Option to import from other browser is enabled      Option is disabled although I got firefox 3.5 installed in the system.    <b>Please provide

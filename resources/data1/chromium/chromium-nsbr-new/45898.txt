@@ -1,0 +1,1 @@
+<title>Issue 45898 -   chromium -    ANGLE should handle rendering for WebGL and NaCl - Project Hosting on Google Code</title> <pre> ANGLE should be included with Chrome and handle drawing for both WebGL and NaCl on windows.    It should be on by default but include a command-line flag to turn it off. </pre>

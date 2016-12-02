@@ -1,0 +1,1 @@
+<title>Issue 13329 -   chromium -    Pages visited not stored in history - Project Hosting on Google Code</title>   1. search a music track on imeem  2. play the track until the end  a new related track will load  3. click on the &quot;back&quot; button      I should be redirected to the first track I searched      I'm redirected to my last search    <b>Please provide

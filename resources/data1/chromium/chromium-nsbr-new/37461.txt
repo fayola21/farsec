@@ -1,0 +1,1 @@
+<title>Issue 37461 -   chromium -    Text for bookmarks in bookmark bar folder is centered aligned - Project Hosting on Google Code</title> <pre> Chrome Version: 5.0.342.1 (Official Build 40461) dev    Text in bookmark folder should be left-aligned. In this build  it's center-aligned. </pre>

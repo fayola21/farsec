@@ -1,0 +1,1 @@
+<title>Issue 27764 -   chromium -    HomePageLink makes valgrind crash or hang - Project Hosting on Google Code</title> <pre> The new HomePageLink test is not able to run under valgrind.    I'll disable this test for valgrind only and see if it helps.    Please reenable the test once you found the issue. </pre>

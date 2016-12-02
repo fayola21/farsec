@@ -1,0 +1,1 @@
+<title>Issue 19934 -   chromium -    Default Search doesn't match selection - Project Hosting on Google Code</title>   1. Choose Google as the default search  2. The URL bar searchs on amazeonsearch.com  3. On the Settings it's showing Google  but it's searching on Amazon      Search on Google      Search on Amazon    <b>Please provide

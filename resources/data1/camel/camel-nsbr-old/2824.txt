@@ -1,0 +1,1 @@
+Deadlock in org.apache.camel.util.DefaultTimeoutMap    After running a camel route with a camel Aggregator for a while  I get a deadlock in org.apache.camel.util.DefaultTimeoutMap. A full processdump is attached to this bug.I have also tried to recreate this as failing testcase  but without any luck so far.   

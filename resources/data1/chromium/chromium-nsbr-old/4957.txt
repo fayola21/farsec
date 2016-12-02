@@ -1,0 +1,1 @@
+<title>Issue 4957 -   chromium -    none of site javascript loaded - Project Hosting on Google Code</title>   1. no action needed  just brows that Address       this site use Ajax  so if you click on links it must open them in an  javascript window (DIV)  but in chrome it open a new ordinary window.      none of java scripts work and you will get 14 errors.    Please provide

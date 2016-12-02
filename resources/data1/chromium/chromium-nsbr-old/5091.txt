@@ -1,0 +1,1 @@
+<title>Issue 5091 -   chromium -    &quot;Downloads window&quot; space at the bottom remains blank after closing it - Project Hosting on Google Code</title>   1. Download a file - &quot;downloads&quot; window appears at the bottom  2. Close it - the space remains blank and not used up again by the main   browser's window.                  Please provide

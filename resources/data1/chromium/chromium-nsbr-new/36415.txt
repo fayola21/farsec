@@ -1,0 +1,1 @@
+<title>Issue 36415 -   chromium -    Implement touch events API - Project Hosting on Google Code</title> <pre> The touch events API is not yet supported under Chromium. The V8 work has  already been merged into mainline WebKit by the Android project. I've  started working on plumbing these events into Chromium. </pre>

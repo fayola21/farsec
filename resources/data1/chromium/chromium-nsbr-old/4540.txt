@@ -1,0 +1,1 @@
+<title>Issue 4540 -   chromium -    unable to select open all bookmarks  from bookmarks bar - Project Hosting on Google Code</title>   1. Show the bookmarks bar  2. right click the bar  3. trey to select Open all bookmarks      Open all the bookmarks      unable to select that option  so nothing    Please provide

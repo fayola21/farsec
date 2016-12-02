@@ -1,0 +1,1 @@
+<title>Issue 20586 -   chromium -    Theme reverts to default when Chrome is not in focus. - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.203.2 (Official Build 24690)      1. Install Theme  2. Remove focus from main window  click desktop  open a javascript prompt    etc.  3. Theme disappears from container chrome. </pre>

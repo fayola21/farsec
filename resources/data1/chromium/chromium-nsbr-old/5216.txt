@@ -1,0 +1,1 @@
+<title>Issue 5216 -   chromium -    Pottery barn website does not render correctly - Project Hosting on Google Code</title>   1. go to the above url   2. the text on the product page is not displaying properly in Chrome    missing tabs (overview  product info)                  Please provide

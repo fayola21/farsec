@@ -1,0 +1,1 @@
+<title>Issue 36211 -   chromium -    XHR-content script example - Project Hosting on Google Code</title> <pre> We need a example that shows how a content script can request that its host   extension perform a XMLHttpRequest. </pre>

@@ -1,0 +1,1 @@
+Possible issue in camel-apns - Reported on user forum    See nabblehttp://camel.465427.n5.nabble.com/Issue-with-ApnsServiceFactory-tp5717573.html   

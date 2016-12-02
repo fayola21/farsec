@@ -1,0 +1,1 @@
+Redesign master service assignment page so that it takes up less vertical space       

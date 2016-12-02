@@ -1,0 +1,1 @@
+make support for os check a bit more robust       

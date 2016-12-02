@@ -1,0 +1,1 @@
+<title>Issue 32824 -   chromium -    Re-enable Negotiate and NTLM unit test in http_auth_unittest - Project Hosting on Google Code</title> <pre> I took out the Negotiate protocol to make this work - need to re-enable it. </pre>

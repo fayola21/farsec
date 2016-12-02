@@ -1,0 +1,1 @@
+<title>Issue 12043 -   chromium -    Need HTTP auth login sheet - Project Hosting on Google Code</title>   1. Visit any site with access controll via htaccess file (like a router or any   other password protected zone)      User should be presented with modal action sheet to input username and   password.      Absolutely nothing.    Please provide

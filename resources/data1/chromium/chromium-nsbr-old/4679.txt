@@ -1,0 +1,1 @@
+<title>Issue 4679 -   chromium -    ImageDecoder.h does not need to refcount SkBitmaps - Project Hosting on Google Code</title> <pre> Once my fix for issue 4298 is checked in  there will be no need for   ImageDecoder.h to refcount SkBitmaps.  We can keep them in a vector   directly.  This should simplify this file somewhat. </pre>

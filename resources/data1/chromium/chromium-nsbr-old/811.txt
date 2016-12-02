@@ -1,0 +1,1 @@
+<title>Issue 811 -   chromium -    Browser Sync Support through Google Account - Project Hosting on Google Code</title> <pre> Hi!    I would like to request an feature that will be nice for every user. How  about to implement an Browser Sync feature  that works through Google  Account. Like Google Browser Sync for Firefox.    Thanks    </pre>

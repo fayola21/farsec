@@ -1,0 +1,1 @@
+<title>Issue 16254 -   chromium -    DOM Storage needs to be cleaned up in the GYP files - Project Hosting on Google Code</title> <pre> The DOM Storage portion of the GYP files is a mess.  I have no clue why it's   building some of what it is.  The file list needs to be updated and the   exceptions need to be cleaned up. </pre>

@@ -1,0 +1,1 @@
+mvn jetty:run; maven-jetty-plugin not configured    maven-jetty-plugin not configured for wicket-quickstart.   

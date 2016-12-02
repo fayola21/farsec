@@ -1,0 +1,1 @@
+<title>Issue 30127 -   chromium -    Dutch: Print menu title should be &quot;Druk af...&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Print menu item in the menu Archief is localized as &quot;Afdrukken...&quot;. The   correct localization on the Mac is &quot;Druk af...&quot;.   </pre>

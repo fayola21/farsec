@@ -1,0 +1,1 @@
+<title>Issue 24687 -   chromium -    make CookieMonsterTest.TestTotalGarbageCollection faster - Project Hosting on Google Code</title> <pre> BrowserEventExtensionTest.RunTest is one of the slowest tests right now   averaging 12.3 seconds per run. Please try to make it faster.    Assigning to ananta who touched it last. </pre>

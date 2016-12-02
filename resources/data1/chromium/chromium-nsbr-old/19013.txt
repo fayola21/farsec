@@ -1,0 +1,1 @@
+<title>Issue 19013 -   chromium -    mouse wheel - Project Hosting on Google Code</title>   1.When i click mouse wheel on the link- browser minimizes  but link still   opens in new tab                    <b>Please provide

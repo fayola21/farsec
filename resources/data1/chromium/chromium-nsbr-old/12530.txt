@@ -1,0 +1,1 @@
+<title>Issue 12530 -   chromium -    Segfault when ResourceBundle::GetFont fails -- more font fallback needed? - Project Hosting on Google Code</title>   1. trying to lauch chrome  every time          to see the chromium window when I type chromium-browser :-)          <b>Please provide

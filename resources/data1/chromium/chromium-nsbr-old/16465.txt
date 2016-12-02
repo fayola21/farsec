@@ -1,0 +1,1 @@
+<title>Issue 16465 -   chromium -    REGRESSION: Clicking links in Google Reader automatically closes the new tab - Project Hosting on Google Code</title> <pre>   1. Navigate to Google Reader in Mac Chrome  2. Open any news item  3. Click  or middle click on the item's title or the arrow to the right of   the title.  4. The new tab opens then closes immediately.     </pre>

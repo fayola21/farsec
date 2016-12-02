@@ -1,0 +1,1 @@
+camel:dot - pipeline is drawn as a multicast    And it has a few other areas as well that could be polished.   

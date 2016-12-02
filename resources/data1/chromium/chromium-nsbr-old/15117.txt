@@ -1,0 +1,1 @@
+<title>Issue 15117 -   chromium -    Add a command line switch to force the maximum disk cache size to some value. - Project Hosting on Google Code</title> <pre> There should be a way to override the automatic size setting of the max cache   size. </pre>

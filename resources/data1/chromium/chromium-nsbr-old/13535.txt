@@ -1,0 +1,1 @@
+<title>Issue 13535 -   chromium -    Alert text not selectable (but ctrl-c shortcut works) - Project Hosting on Google Code</title>   1. call alert('some text') in javascript  2. try to select(mark) text by dragging mouse cursor      dragging mouse cursor over text should select it      alert text is not selectable  though copying by ctrl-c shortcut works    <b>Please provide

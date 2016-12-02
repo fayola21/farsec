@@ -1,0 +1,1 @@
+<title>Issue 19362 -   chromium -    Crash - WebCore::FrameLoader::checkContentPolicy - Project Hosting on Google Code</title> <pre> Google Chrome version: 2.0.172.39  Firefox: OK      1. Go to Google Translate.  2. Write some text in and click translate.  3. Click the back button rapidly and continue until you see aw snap page.    100% reproducible. </pre>

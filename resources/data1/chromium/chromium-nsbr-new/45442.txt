@@ -1,0 +1,1 @@
+<title>Issue 45442 -   chromium -    Chrome crash when PC gets connected to WiFi - Project Hosting on Google Code</title>   1. I'm connected to a WiFi.  2. I disconnect because of distance problems  3. I'm getting reconnected. And Chrome crashes      Continue browsing      Chrome crashes    <b>Please provide

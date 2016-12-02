@@ -1,0 +1,1 @@
+<title>Issue 3240 -   chromium -    css target and first-letter selectors not working properly when mixed with javascript and display: run-in - Project Hosting on Google Code</title>   1. Open the attached page  2. Click on one of the links        The color of the entire targeted heading should be blue.      The first letter of the heading remains black.    Please provide

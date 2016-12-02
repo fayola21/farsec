@@ -1,0 +1,1 @@
+<title>Issue 46294 -   chromium -    sync_unit_tests is significantly slower on Mac - Project Hosting on Google Code</title> <pre> On Windows and Linux  sync_unit_tests runs in ~20 and ~10 seconds  respectively.    On Mac  it takes 500 seconds. This is a significant slowdown  especially on the try bots. </pre>

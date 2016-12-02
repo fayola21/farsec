@@ -1,0 +1,1 @@
+<title>Issue 43161 -   chromium -    address box can not do search after compiled with gcc 4.5 - Project Hosting on Google Code</title>   1. input words to search in the address box  2. press Enter or click the right hand triangle  3. search does not happen        start a google search  and show result in the browser.        nothing happens instead     <b>Please provide

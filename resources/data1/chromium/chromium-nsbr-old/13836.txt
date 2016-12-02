@@ -1,0 +1,1 @@
+<title>Issue 13836 -   chromium -    browser crash - Project Hosting on Google Code</title>   1. click the 'new' or the 'options' button.            the menu opens and you can pick an option.        the menu opens and the browser crashes. asks to restart.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20834 -   chromium -    Chrome does not use GTK themed scrollbar - Project Hosting on Google Code</title>   1. Open any webpage like google.com/news.          Scrollbar used does not respect GTK theme's scrollbar      Chrome's own scrollbar is displayed.    <b>Please provide

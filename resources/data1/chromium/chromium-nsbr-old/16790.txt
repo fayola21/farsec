@@ -1,0 +1,1 @@
+<title>Issue 16790 -   chromium -    Some items fail to open in Google Reader - Project Hosting on Google Code</title>   1. Add newsarama.com feed  2. Middle-click item titles        Items open in new tab.        New tab appears for half a second or so  then vanishes.    <b>Please provide

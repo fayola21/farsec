@@ -1,0 +1,1 @@
+<title>Issue 6661 -   chromium -    Better unittests for net/base/host_resolver - Project Hosting on Google Code</title> <pre> Code I'm working on uses HostResolver  and it turned out it lacks unit  tests for some cases  like asynchronous resolving.    I'm going to write the cases  but if you want to do that  I didn't start yet. </pre>

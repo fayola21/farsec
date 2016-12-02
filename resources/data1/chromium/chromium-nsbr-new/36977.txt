@@ -1,0 +1,1 @@
+<title>Issue 36977 -   chromium -    ctrl + click to open link in a new tab sometimes does not work - Project Hosting on Google Code</title> <pre> I don't have good repros for this... sometimes work  sometimes doesn't.  sometimes happens that when you hit ctrl+click the link opens in the tab you   are browsing and not in another tab in background. this is a bit annoying. </pre>

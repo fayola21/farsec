@@ -1,0 +1,1 @@
+Service graphs refresh with spinners    Service graphs are refreshing with spinners  rather than simply shifting to the left.See the attached movie clip.   

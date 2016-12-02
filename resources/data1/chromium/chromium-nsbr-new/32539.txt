@@ -1,0 +1,1 @@
+<title>Issue 32539 -   chromium -    Display function invocation count in CPU profiler - Project Hosting on Google Code</title> <pre> It would be handy for some cases to know actual number of function's   invocations to distinguish between slow functions and functions being called   many times. </pre>

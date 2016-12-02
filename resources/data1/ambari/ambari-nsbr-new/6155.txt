@@ -1,0 +1,1 @@
+JS error on POST config group request (step7 installer)    Go to installer step7Click override for some propertySelect 'New Config Group'Click 'OK'JS-error appears - 404 error. Missing clusterName in request URL.   

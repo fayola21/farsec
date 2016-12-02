@@ -1,0 +1,1 @@
+<title>Issue 19202 -   chromium -    IDMap should support safe removing elements from it during iteration - Project Hosting on Google Code</title> <pre> There are multiple scenarios where code depends on that  and crashes if it   really removes some elements from IDMap. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 24598 -   chromium -    Eliminate WebViewDelegate::WasOpenedByUserGesture - Project Hosting on Google Code</title> <pre> Eliminate WebViewDelegate::WasOpenedByUserGesture    Either move this method to WebViewClient or find a way to avoid needing it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19126 -   chromium -    Refused to set unsafe header &quot;Connection&quot; - Project Hosting on Google Code</title>   1. Use Gmail  2. Wait        No errors        Refused to set unsafe header &quot;Connection&quot;  sometimes:  Uncaught ReferenceError: is_browser_supported is not defined    <b>Please provide

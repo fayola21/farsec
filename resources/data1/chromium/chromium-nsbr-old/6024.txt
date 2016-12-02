@@ -1,0 +1,1 @@
+<title>Issue 6024 -   chromium -    When I try to download the latest version of firefox a warn appears saying that there is a problem with the chrome registration and prevents me from installing firefox. What to do to solve this problem?  ents me   Wnhat  - Project Hosting on Google Code</title>                       Please provide

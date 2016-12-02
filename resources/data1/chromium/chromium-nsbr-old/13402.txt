@@ -1,0 +1,1 @@
+<title>Issue 13402 -   chromium -    Can't install: Dependency not satisfiable: libnss3-1d - Project Hosting on Google Code</title>   1. Download i386 deb file from go/chromelinux on gutsy laptop  2. Open in gdebi  3. Observe error message :-P        I get all required dependencies :)        Dependency not satisfiable: libnss3-1d    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44119 -   chromium -    Retrieval of Firefox proxy settings doesn't work right when using an autoconfig URL - Project Hosting on Google Code</title> <pre> Firefox proxy settings retrieval fails to parse when using an autoconfig URL. </pre>

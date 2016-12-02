@@ -1,0 +1,1 @@
+<title>Issue 3267 -   chromium -    Drag tab to minimized window - Project Hosting on Google Code</title>   1. Create 2 windows  2. Minimize the other window  3. Drag the active tab to the minimized window      The minimized window should be opened and user can place the dragged tab   there.      The minimized window won't open    Please provide

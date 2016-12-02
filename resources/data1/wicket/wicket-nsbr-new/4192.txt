@@ -1,0 +1,1 @@
+Do not add anti cache parameter to the images used for the Tree's junction links    Since a while Wicket automatically adds antiCache pararemeter to the url of the Image components which are re-rendered in Ajax request.This new feature makes the Tree component slower to rerender because the link's images are re-rendered for each expand.   

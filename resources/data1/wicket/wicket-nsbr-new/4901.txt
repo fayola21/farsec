@@ -1,0 +1,1 @@
+AjaxPagingNaviagtionLink should provide updateAjaxAttributes like AjaxLink    It is cumbersome to override AjaxPagingNavigationLink#newAjaxPagingNavigationBehavior to provide a subclass of AjaxPagingNavigationBehavior with it's updateAjaxAttributes overriden to allow for changing the ajax attributes. It would be easier if the AjaxPagingNavigationLink worked like AjaxLink.   

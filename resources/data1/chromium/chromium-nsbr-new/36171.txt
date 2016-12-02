@@ -1,0 +1,1 @@
+<title>Issue 36171 -   chromium -    Implement extension uninstall automation - Project Hosting on Google Code</title> <pre> Automation Provider/proxy has a method to install a given extension; there's   no uninstall. This is a tracking bug to add that. </pre>

@@ -1,0 +1,1 @@
+Extract the short names of the ajax attributes as a constants    Currently the short names of the AjaxRequestAttributes are hardcoded to AbstractDefaultAjaxBehavior#renderAttributes().   

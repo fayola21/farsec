@@ -1,0 +1,1 @@
+<title>Issue 32374 -   chromium -    &quot;Report bug or broken website...&quot; dialog have a problem - Project Hosting on Google Code</title>   1. opening the report bug or broken website in chrome  2. type 2 or 3 line text  3. select only a word in first line with mouse!!!(can your select?)                <b>Please provide

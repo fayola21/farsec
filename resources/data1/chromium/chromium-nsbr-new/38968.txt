@@ -1,0 +1,1 @@
+<title>Issue 38968 -   chromium -    Crash on New Tab or View History - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.356.2 (Official Build 42060) dev    If I try to open a tab or view history  Chrome crashes. It was fine  yesterday but hasn't been working today.    If I help you by submitting any logs  please feel free to ask.    Thanks </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43564 -   chromium -    Store arbitrary blobs on GAE - Project Hosting on Google Code</title> <pre> Enables BlobStore on aebuild in a generic enough way to be able to store   different kinds of blobs. </pre>

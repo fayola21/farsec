@@ -1,0 +1,1 @@
+<title>Issue 12101 -   chromium -    Escaped character cause json serialization error in bookmarks calls - Project Hosting on Google Code</title> <pre> 1. Bookmark: <a href="http://digitarald.de/projects/">http://digitarald.de/projects/</a> (contains xBB character in the   title).  2. use the chrome.bookmarks.getTree()  3. Inspector reports invalid json string.   </pre>

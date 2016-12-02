@@ -1,0 +1,1 @@
+<title>Issue 35082 -   chromium -    Chromium crashes when I try to delete directory bookmark  - Project Hosting on Google Code</title>   1. Bookmark Manager  2. Try to Delete a directory in Other bookmarks &gt; Other bookmarks &gt; Other   bookmarks  3. Chromium Crashes !      Directory delete      Crashe !    <b>Please provide

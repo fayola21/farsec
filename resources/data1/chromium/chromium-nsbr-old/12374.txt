@@ -1,0 +1,1 @@
+<title>Issue 12374 -   chromium -    Save window bounds into SessionService - Project Hosting on Google Code</title> <pre> We're not saving the window bounds in Linux.  We should do this.  Doing so   should also fix <a title="Tabs don't size properly on restore" class=closed_ref href="/p/chromium/issues/detail?id=12333"> issue 12333 </a>. </pre>

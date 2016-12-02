@@ -1,0 +1,1 @@
+<title>Issue 5706 -   chromium -    allow javascript popup in certain sites - Project Hosting on Google Code</title>   1. Use a website that opens popup windows via javascript (like   notifications)  2. Popups go to the Popup UI Notification area  3. There is no way to avoid point 2... this makes a few sites unusable in   Chrome.                Please provide

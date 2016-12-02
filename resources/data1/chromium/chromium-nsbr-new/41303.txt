@@ -1,0 +1,1 @@
+<title>Issue 41303 -   chromium -    'http://' missing from URLs - Project Hosting on Google Code</title>   1. enter a url like: <a href="http://foo.bar">http://foo.bar</a>  2.after it opens you have only foo.bar  3. https URLs still show the https://      to have a URL i can copy and use      i have to add http:// manualy    <b>Please provide

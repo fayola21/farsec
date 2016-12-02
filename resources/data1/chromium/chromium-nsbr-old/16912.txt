@@ -1,0 +1,1 @@
+<title>Issue 16912 -   chromium -    Unable to view Gif imgaes - Project Hosting on Google Code</title>   1.Open any site with Gif images                    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 35620 -   chromium -    Developer versions greater than 317.1 loop in browser task on Win XP - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.322.2    Behavior in Safari 3.x/4.x : N/A  Behavior in Firefox 3.x: OK      1. On  WXP install any dev version greater than 317.1  2.  Browser loops within 5 minutes     </pre>

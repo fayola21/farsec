@@ -1,0 +1,1 @@
+element should not require contextPath attribute    In the Java DSL  you can say from('foo').marshal().jaxb().to('bar')In XML I think it would look like this:&lt;from uri='...' /&gt;&lt;marshal&gt; &lt;jaxb /&gt;&lt;/marshal&gt;&lt;to uri='...' /&gt;The problem is that you can't use the &lt;jaxb /&gt; element without the contextPath attribute  which the XSD says is required.   

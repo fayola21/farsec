@@ -1,0 +1,1 @@
+DataFormat - Support for CamelContextAware injection and start/stop callbacks with Service    This allows custom DataFormat to do any initialization logic in start and stop methods from Service.Also they will get access to CamelContext by implementing CamelContextAware   

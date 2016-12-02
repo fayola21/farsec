@@ -1,0 +1,1 @@
+<title>Issue 179 -   chromium -    MS Sharepoint tabs are shown as stack of links - Project Hosting on Google Code</title>   1. Open local MS sharepoint site          Internal Tab's within the web app      Tabs end up as stack of links    Please provide

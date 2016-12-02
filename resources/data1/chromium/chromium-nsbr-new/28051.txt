@@ -1,0 +1,1 @@
+<title>Issue 28051 -   chromium -    Should the sync promo be in the bookmarks bar? - Project Hosting on Google Code</title> <pre> Linus was suggesting changing this. I know we'd made mocks for this before  I'm cc'ing the UI team   in case they want to revisit this. </pre>

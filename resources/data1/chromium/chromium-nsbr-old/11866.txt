@@ -1,0 +1,1 @@
+<title>Issue 11866 -   chromium -    Toolbar missing bottom border in maximized mode - Project Hosting on Google Code</title> <pre> Haven't tried on trunk  where this may be fixed  but in 2.0.180.0  the   toolbar lacks the bottom border that it has in restored mode.  I'm testing on   glass  not sure if the opaque frame also has this.    You broke my pixel-perfection!!!!11 </pre>

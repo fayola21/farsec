@@ -1,0 +1,1 @@
+<title>Issue 1098 -   chromium -    Bookmarkbar animation is very slow - Project Hosting on Google Code</title>   1. Press CTRL+B          The bookmarkbar should appear and disappear with a fluid animation fairly   fast.      The bookmarkbar animation takes about 3 seconds to appear/disappear.    Please provide

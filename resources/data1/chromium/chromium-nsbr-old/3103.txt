@@ -1,0 +1,1 @@
+<title>Issue 3103 -   chromium -    [Klocwork] resource_util.cc wrong variable check - Project Hosting on Google Code</title> <pre>  HGLOBAL hres = LoadResource(module  hres_info);    if (!hres_info)      return false;   </pre>

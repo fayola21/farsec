@@ -1,0 +1,1 @@
+datatime extension's calendar-min.js appears to be corrupted / out of sync    In some cases  when including a datepicker as a component inside a modal window. Internet Explorer 7/8 throw a runtime exception.This happens only in deployment mode  after re-minifying calendar.js and replacing calendar-min.js the problem goes away  the files seem to be out of sync or corrupted.   

@@ -1,0 +1,1 @@
+<title>Issue 10744 -   chromium -    chrome as default browser will not open with google gadget gmail notify - Project Hosting on Google Code</title>   1. activate chrome as default browser          chrome not open      nothing    <b>Please provide

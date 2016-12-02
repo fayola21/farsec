@@ -1,0 +1,1 @@
+<title>Issue 37571 -   chromium -    Synchronous XHR should only pump messages if we need to show a cookie prompt - Project Hosting on Google Code</title> <pre> Synchronous XHR should only pump messages if we need to show a cookie prompt </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44394 -   chromium -    Add policy for disabling Suggest - Project Hosting on Google Code</title> <pre> One the policy abstraction is complete  we need to implement a policy to   enable or disable Suggest capability in the omnibox. </pre>

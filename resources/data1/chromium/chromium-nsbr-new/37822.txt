@@ -1,0 +1,1 @@
+<title>Issue 37822 -   chromium -    Copy &amp; Paste doesn't work with extensions - Project Hosting on Google Code</title> <pre> Mac 10.6.2: 5.0.307.11 beta    I'm using the Chromed Bird extension:    It's not possible to copy from its text field or to paste to its text field   (Compose Tweet). In Linux&amp;Windows copy&amp;paste works with this extension. </pre>

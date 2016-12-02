@@ -1,0 +1,1 @@
+<title>Issue 13206 -   chromium -    Spellchecking does not use the OS X dictionary - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  Spellchecking does not use the OS X dictionary. </pre>

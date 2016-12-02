@@ -1,0 +1,1 @@
+<title>Issue 9118 -   chromium -    Drag and Drop for views/gtk - Project Hosting on Google Code</title> <pre> Figure out how to make Drag &amp; Drop work with Gtk widgets. OSExchangeData   already provides a mostly platform-neutral API (or did the last time I looked   at it  about 18 months ago!) </pre>

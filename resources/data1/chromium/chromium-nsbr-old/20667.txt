@@ -1,0 +1,1 @@
+<title>Issue 20667 -   chromium -    Extensions API for spellchecking - Project Hosting on Google Code</title> <pre> Required an extensions API for spellchecking. This API can be called with a   sentence  and the language  to generate the list of suggestions if the word   is misspelled. </pre>

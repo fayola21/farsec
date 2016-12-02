@@ -1,0 +1,1 @@
+<title>Issue 25793 -   chromium -    LayoutTest failures of text/basic/006.html and text/whitespace/026.html on Linux - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=30038">r30038</a> made them failure.  We need to rebaseline them.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14024 -   chromium -    Download shelf should be per tab  not per window - Project Hosting on Google Code</title> <pre> Currently users are tired of clicking the x countless times a session    instead of just closing the tab  and feel like CTRL-J does the job well. </pre>

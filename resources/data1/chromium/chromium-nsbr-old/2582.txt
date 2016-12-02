@@ -1,0 +1,1 @@
+<title>Issue 2582 -   chromium -    Browser crash - Project Hosting on Google Code</title> <pre> I don't have any steps to repro the crash. I had Chrome open and after a   while it crashed    Crash id: bd190df2789ca018    </pre>

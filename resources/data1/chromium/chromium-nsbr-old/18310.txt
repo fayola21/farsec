@@ -1,0 +1,1 @@
+<title>Issue 18310 -   chromium -    Omnibox Tab-to-Search bubbles need rounded corners. - Project Hosting on Google Code</title> <pre> When I press &quot;Tab&quot; to accept a Tab-to-Search hint  the bubble has square   edges. It should have rounded edges. </pre>

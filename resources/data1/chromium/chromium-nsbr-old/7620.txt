@@ -1,0 +1,1 @@
+<title>Issue 7620 -   chromium -    Unable to print from Chromium - Project Hosting on Google Code</title>   1. Go to a webpage.  2. Click on Print  the dialog comes up  hit print.  3. The job sits in the print queue as spooling  it never prints.      The webpage should print.      The print job sits in the print queue as spooling.    Please provide

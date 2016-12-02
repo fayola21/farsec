@@ -1,0 +1,1 @@
+<title>Issue 27042 -   chromium -    task bar icon is frozen - Project Hosting on Google Code</title>   1.open chrome          the red  green  yellow icon should appear in the task/start bar.      the loading arc stays frozen there indefinitely.  (the picture explains it all)    <b>Please provide

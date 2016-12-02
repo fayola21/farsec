@@ -1,0 +1,1 @@
+Upgrade pom reference for joda-time from 1.6.2 to 2.0    Current stable version of joda-time is 2.0. Wicket could upgrade to the latest and greatest version.Changelog and migration: http://joda-time.sourceforge.net/upgradeto200.htmlAll tests pass with 2.0 instead of 1.6.2. wicket-examples also run properly.   

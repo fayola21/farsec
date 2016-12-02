@@ -1,0 +1,1 @@
+Improve SelectOptions: allow customization of created SelectOption objects    I've created a patch that makes SelectOptions more flexible  as it now allows customization ofthe created SelectOption objects (e.g. adding an AjaxEventBehavior).The patch also extends the javadoc of Select  I've added an example on how to use Select  SelectOptions and SelectOption   

@@ -1,0 +1,1 @@
+Datanode Live widget displays 0 dead when no datanode is live on a cluster.       

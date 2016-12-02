@@ -1,0 +1,1 @@
+<title>Issue 36506 -   chromium -    Implement DataTypeManager to coordinate start and stop of multiple data types - Project Hosting on Google Code</title> <pre> Extract the data type start up and shut down logic from ProfileSyncService   and abstract it into its own class.   </pre>

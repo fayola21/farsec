@@ -1,0 +1,1 @@
+<title>Issue 1654 -   chromium -    Recognize screen size if maximized - Project Hosting on Google Code</title>   1. Use two different size displays on one machine (I have 1680x1050 and   1280x1024)  2. Set up the largest as the primary  3. Try to maximize Chrome on secondary  4. Chrome will size to 1680x1050 on smaller screen so won't fit...              Please provide

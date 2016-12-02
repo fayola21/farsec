@@ -1,0 +1,1 @@
+xslt component - Cannot load xslt file from file system    See nabblehttp://camel.465427.n5.nabble.com/Custom-URIResolver-for-Camel-tp4665485p4665485.htmlThe Spring IO resource is a bit pants  as you ask for it to give an input stream  and then it fails doing that for a plain file url.Instead it gives you an URL connection  and you get a unknown host exception.   

@@ -1,0 +1,1 @@
+<title>Issue 43172 -   chromium -    geolocation permission not in install dialog - Project Hosting on Google Code</title> <pre> The geolocation permission isn't shown in the install dialog  so users aren't   aware that they're granting this permission.    We merged this feature into M5 late in the game  so we need to decide whether   we'll revert  patch or patch later.   </pre>

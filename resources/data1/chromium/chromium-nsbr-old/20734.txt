@@ -1,0 +1,1 @@
+<title>Issue 20734 -   chromium -    Internationalize errors from ExtensionCreator - Project Hosting on Google Code</title> <pre> Internationalize errors from ExtensionCreator </pre>

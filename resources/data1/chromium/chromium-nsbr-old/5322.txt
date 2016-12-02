@@ -1,0 +1,1 @@
+<title>Issue 5322 -   chromium -    Opening Google Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.4.154.29    1. Open Google Chrome; it opens maximized.  2. Open Google Chrome again; it is supposed to open maximized but does not   open maximized.  3. Maximize the window  close it and open it again.  4. It still does not open maximized. </pre>

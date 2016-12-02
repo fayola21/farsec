@@ -1,0 +1,1 @@
+<title>Issue 16811 -   chromium -    TabContentsViewMac::StartDragging() gets called when it shouldn't by renderer - Project Hosting on Google Code</title> <pre> TabContentsViewMac::StartDragging() gets called spuriously  but usually  only when dragging images. We need to figure out why as I've had to put in  a hack to ignore these extra messages. </pre>

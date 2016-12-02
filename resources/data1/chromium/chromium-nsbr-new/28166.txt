@@ -1,0 +1,1 @@
+<title>Issue 28166 -   chromium -    Mouse hover lag on page/wrench menu buttons - Project Hosting on Google Code</title> <pre> Move your mouse over the page/wrench menus repeatedly. Notice a slight    jarring lag in the hover effects. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26455 -   chromium -    High CPU usage loading the most basic of pages - Project Hosting on Google Code</title>   1.  Try to load any pages while network performance is sluggish          Slow loading  normal CPU usage      CPU spikes until all elements of the page are rendered    <b>Please provide

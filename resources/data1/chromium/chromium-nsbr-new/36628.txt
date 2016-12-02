@@ -1,0 +1,1 @@
+<title>Issue 36628 -   chromium -    PLEASE Implement KDE 4.4.0 integration - Project Hosting on Google Code</title>             Complete integration with KDE (www.kde.org)  dialogs and many more...  thanks      ugly GTK dialog    <b>Please provide

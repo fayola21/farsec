@@ -1,0 +1,1 @@
+org.apache.camel.processor.UnitOfWorkWithAsyncFlowTest failure    Running org.apache.camel.processor.UnitOfWorkWithAsyncFlowTestTests run: 3  Failures: 1  Errors: 0  Skipped: 0  Time elapsed: 20.345 sec &lt;&lt;&lt; FAILURE!This prevents developer from building camel under Linux platform. Thanks!   

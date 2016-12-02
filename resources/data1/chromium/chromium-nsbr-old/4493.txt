@@ -1,0 +1,1 @@
+<title>Issue 4493 -   chromium -    cannot go back to previous page on www.reuters.com - Project Hosting on Google Code</title>   1. Go to reuters.com  2. pick an article  3. try to go back   4. will not go back                 Please provide

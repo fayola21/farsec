@@ -1,0 +1,1 @@
+<title>Issue 36660 -   chromium -    Close Tab shortcut not working with mouse middle button - Project Hosting on Google Code</title>   1. Open a new tab  2. Click middle WHEEL in mouse when Pointer/cursor is on the TAB (that you   want to close)        CLOSE TAB      I see the SCROLL Arrows instead    <b>Please provide

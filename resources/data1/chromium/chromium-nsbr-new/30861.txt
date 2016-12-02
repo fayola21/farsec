@@ -1,0 +1,1 @@
+<title>Issue 30861 -   chromium -    Links from other apps spawn new Chromium window rather than a tab in the open window - Project Hosting on Google Code</title>   1. Click on a link in an external application        It will spawn a new tab in the already open window        It opens a new window.    <b>Please provide

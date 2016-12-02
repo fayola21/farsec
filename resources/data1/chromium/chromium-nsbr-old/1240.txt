@@ -1,0 +1,1 @@
+<title>Issue 1240 -   chromium -    Link from personal home page does not open in a new process - Project Hosting on Google Code</title>   1. Connect to Netvibes  2. Click any link        I was hoping to create a new process like with any click on favorite or   search engine result      The web page appears in a new tab but in the same process    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9138 -   chromium -    Constrained Windows and views-gtk - Project Hosting on Google Code</title> <pre> Figure out how to make constrained windows (right now only http basic auth   prompt) work with views-gtk </pre>

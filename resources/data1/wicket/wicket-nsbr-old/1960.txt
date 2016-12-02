@@ -1,0 +1,1 @@
+AutoCompleteTextField - gives a type mismatch error on IE - version wicket-1.4-rc1    wicket-autocomplete.jsfunction function showAutoComplete()line 291 container.style.zIndex=(!isNaN(Number(index))?Number(index)+1:index);looks like IE doesn't like big i in zIndex  IE seem to be be happy with zindex not sure if that's the correct way to resolve the issue.   

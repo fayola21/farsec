@@ -1,0 +1,1 @@
+<title>Issue 46049 -   chromium -    Stop refcounting HostResolver - Project Hosting on Google Code</title> <pre> It's owned by the IOThread.  It shouldn't be refcounted. </pre>

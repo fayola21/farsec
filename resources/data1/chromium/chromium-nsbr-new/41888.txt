@@ -1,0 +1,1 @@
+<title>Issue 41888 -   chromium -    Usability: Task Manager should support using Del key as a shortcut to End Process - Project Hosting on Google Code</title>   1. Press Shift+Esc to open Chrome Task Manager  2. Use Tab  arrow keys to select a task to kill  3. Press Del      Same as the 'E' keyboard hotkey  end selected task(s)      Nothing    <b>Please provide

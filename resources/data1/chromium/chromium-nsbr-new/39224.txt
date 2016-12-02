@@ -1,0 +1,1 @@
+<title>Issue 39224 -   chromium -    Remove kDisableMetrics constant - Project Hosting on Google Code</title> <pre> This requires removing it from ChromeFrame before removing it from   chrome/common/chrome_switches to avoid breaking the CF build.    The user can disable the metrics in the prefs instead. </pre>

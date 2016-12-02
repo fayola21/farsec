@@ -1,0 +1,1 @@
+Out of Heap memory issues with Camel-File processing large files    Camel-File component throws heap memory issue when processing csv file which is about 45MB with 218k Lines. http://camel.465427.n5.nabble.com/Java-heap-space-issue-with-reading-large-CSV-file-tt2638903.html#a2638903   

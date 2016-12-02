@@ -1,0 +1,1 @@
+<title>Issue 29131 -   chromium -    &lt;select&gt; doesn't work with page or browser action popups on Linux toolkit views - Project Hosting on Google Code</title> <pre> When you try to activate the select element  the popup dismisses.   </pre>

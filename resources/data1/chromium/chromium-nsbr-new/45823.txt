@@ -1,0 +1,1 @@
+<title>Issue 45823 -   chromium -    Inspector crashes - Project Hosting on Google Code</title>   1. Go to site <a href="http://barbaracorcoran.com/">http://barbaracorcoran.com/</a>  2. Open Inspector window  3. Watch crash      Normal work      Crashing both inspector and page    <b>Please provide

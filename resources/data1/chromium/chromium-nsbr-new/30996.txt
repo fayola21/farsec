@@ -1,0 +1,1 @@
+<title>Issue 30996 -   chromium -    Make gclient pack work with git checkouts - Project Hosting on Google Code</title> <pre> It will simplify trying jobs across multiple checkouts and make it more scm-  agnostic. </pre>

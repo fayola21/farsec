@@ -1,0 +1,1 @@
+<title>Issue 26961 -   chromium -    Notifications from extensions should use display name  not the chrome-extensions://xxx... &quot;origin&quot; - Project Hosting on Google Code</title> <pre>   1. request permission / show notification from an extension      You see an ugly and unhelpful &quot;origin&quot; identifying the extension.  You should   see a friendly name.     </pre>

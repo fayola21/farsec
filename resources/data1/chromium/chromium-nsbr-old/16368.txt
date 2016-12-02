@@ -1,0 +1,1 @@
+<title>Issue 16368 -   chromium -    Double-clicking word selects following space too - Project Hosting on Google Code</title> <pre> When you double-click a word  the space following it is selected as well.  This is what they do on Windows  but we should not do that on the Mac. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1819 -   chromium -    Browser crash if '%' (percent) is entered after protocol in omnibar - Project Hosting on Google Code</title>   1. Type about:% into omnibar  2. Browser crashes    This also happens for other protocols.                Please provide

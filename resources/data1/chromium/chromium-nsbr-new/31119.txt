@@ -1,0 +1,1 @@
+<title>Issue 31119 -   chromium -    Bookmarkbarfolder closing - Project Hosting on Google Code</title>   1. open a web page  2. when Chrome has not jet loaded AdThwart (the funny devil in the omnibox)   open a folder on you bookmarkbar  3. my folder closes when it does load AdThwart  very annoying      That my folder stays open      My folder closes    <b>Please provide

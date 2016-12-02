@@ -1,0 +1,1 @@
+Default button does not provide button name    When the default button is set in a form  the name property should be rendered too  so that the right button is executed rather than just the form's onsubmit method.   

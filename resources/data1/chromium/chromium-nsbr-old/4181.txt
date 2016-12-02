@@ -1,0 +1,1 @@
+<title>Issue 4181 -   chromium -    JavaScript debugger window seems scrunched - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=4898">r4898</a>    1. I've been watching JavaDebugger Input window very tiny for last two days  in Dev channel. See the attached screenshot.    Is it by design? Feel free to close it  if by design. </pre>

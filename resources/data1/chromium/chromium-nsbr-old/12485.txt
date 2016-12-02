@@ -1,0 +1,1 @@
+<title>Issue 12485 -   chromium -    Chrome 2 crashes on its own after update - Project Hosting on Google Code</title>   Chrome always crashes after a few seconds independently of what I do. If I  open www.google.com and leave it idle  it crashes after a few seconds.  Apparently the only way it won't crash is if I leave the landing page open.    <b>Please provide

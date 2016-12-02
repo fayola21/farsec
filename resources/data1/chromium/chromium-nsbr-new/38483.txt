@@ -1,0 +1,1 @@
+<title>Issue 38483 -   chromium -    Aw Snap Error When Clicking on Webpage - Project Hosting on Google Code</title>   1. Go to <a href="http://serotonin-storm.livejournal.com/friends">http://serotonin-storm.livejournal.com/friends</a>  2. Left-click page.      Page is clicked.      Aw snap error page appears.    <b>Please provide

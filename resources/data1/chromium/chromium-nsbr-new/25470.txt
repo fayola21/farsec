@@ -1,0 +1,1 @@
+<title>Issue 25470 -   chromium -    [CF Full Mode] Chrome Frame doesn't work on IE home page - Project Hosting on Google Code</title> <pre>     1. Set IE home page with a webpage which should be rendered by Chrome  Frame(e.g. page with chrome meta tag)  2. Close IE and relaunch IE        The home page is not rendered by Chrome Frame  but actually it should.   </pre>

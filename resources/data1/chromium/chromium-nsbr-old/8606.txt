@@ -1,0 +1,1 @@
+<title>Issue 8606 -   chromium -    64 bit chrome on Windows - Project Hosting on Google Code</title> <pre> I think the team should begin develop an official x86-64 version of Chrome  for Windows x64 (XP/Vista/7).    IE (official) and Firefox (unofficial) have it.    Java plugin has 64 bit version. Flash x64 is coming (already available for  Linux).     </pre>

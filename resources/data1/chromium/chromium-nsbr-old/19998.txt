@@ -1,0 +1,1 @@
+<title>Issue 19998 -   chromium -    Investigate USB audio devices under Linux - Project Hosting on Google Code</title> <pre> It's untested and we're not sure what happens when we add/remove devices at   run time. </pre>

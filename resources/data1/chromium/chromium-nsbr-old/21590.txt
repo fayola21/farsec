@@ -1,0 +1,1 @@
+<title>Issue 21590 -   chromium -    Page and wrench buttons should have same size - Project Hosting on Google Code</title> <pre> Chrome Version : 4.0.208.0 (Developer Build 25971)  OS + version : Linux      1. Compare page and wrench buttons (GTK theme)      both should have the same size      The page button is a few pixels shorter   </pre>

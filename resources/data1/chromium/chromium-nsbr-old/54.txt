@@ -1,0 +1,1 @@
+<title>Issue 54 -   chromium -    In Windows XP x64  Chrome crashes while opening Options. - Project Hosting on Google Code</title>   1. Windows XP x64  2. Chrome &gt; Options  3. Crash.      To open options.      Crashes.    Please provide

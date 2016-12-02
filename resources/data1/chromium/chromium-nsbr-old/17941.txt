@@ -1,0 +1,1 @@
+<title>Issue 17941 -   chromium -    The updater fails from 195.1 to 195.3 - Project Hosting on Google Code</title> <pre>   This is happening only on XP ! Works fine on Vista.    -Install 3.0.195.1 Chrome version  -Run the updater (195.3_from_195.1_chrome_updater)    The updater fails with registry key ap is set to 'full'    Expected:  Should update to 195.3 ! </pre>

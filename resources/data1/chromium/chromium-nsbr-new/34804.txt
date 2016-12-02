@@ -1,0 +1,1 @@
+<title>Issue 34804 -   chromium -    Arquivo Corrompido - Project Hosting on Google Code</title> <pre>       Quando se faz v��_��_rios downloads  as vezes ocorre Arquivo corrompido  coisa que   n��_��_o acontece no firefox. </pre>

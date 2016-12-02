@@ -1,0 +1,1 @@
+<title>Issue 11862 -   chromium -    Interface bug - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.181.0 () Linux version        Chromium start with some ones things strange in the interface.           </pre>

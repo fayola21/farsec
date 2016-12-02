@@ -1,0 +1,1 @@
+<title>Issue 629 -   chromium -    Submitting a PDF form does nothing - Project Hosting on Google Code</title>   1. Go to the above URL (the same pdf can be found also as an attachment)  2. Click &quot;Submit&quot;        The form is submitted to <a href="http://blah.nu/dump.php">http://blah.nu/dump.php</a>  which prints out the   contents        Nothing happens    Please provide

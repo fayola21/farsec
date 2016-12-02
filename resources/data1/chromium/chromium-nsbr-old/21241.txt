@@ -1,0 +1,1 @@
+<title>Issue 21241 -   chromium -    REGRESSION: Middle button does nothing on session history buttons/menus - Project Hosting on Google Code</title> <pre> Visit a few sites in one tab.  Middle-click the back button.  Now ctrl-click   it.  Only the latter opens a new tab  both should.    Middle-click on the menu entries doesn't work either.    Not sure when this broke. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7016 -   chromium -    Disabling &quot;This type of file can harm your computer&quot; message - Project Hosting on Google Code</title>   1. Download an .exe file  2. Before the download begins  there is a &quot;This type of file can harm your   computer&quot; message  3. You must press &quot;Save&quot; in order to continue with your download.    Please provide

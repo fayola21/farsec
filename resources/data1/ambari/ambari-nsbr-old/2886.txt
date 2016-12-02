@@ -1,0 +1,1 @@
+HDFS Service Check failed (as designed) but took 10 mins to fail    After I had a cluster up and running successfully  but manually turned HDFS Safe Mode ON by running:hdfs dfsadmin -safemode enter.HDFS Execute Check failed due to Puppet timeout after 10 minutes.It should have failed quicker since task timeout is 10 minutes on server.   

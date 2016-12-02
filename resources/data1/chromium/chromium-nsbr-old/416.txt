@@ -1,0 +1,1 @@
+<title>Issue 416 -   chromium -    mouse function buttod does not work - Project Hosting on Google Code</title> <pre> Hi    mouse button to zoom in and zoom out does not work. shourd to keys: - +    Thanks    X    </pre>

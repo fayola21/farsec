@@ -1,0 +1,1 @@
+<title>Issue 16206 -   chromium -    Media currentTime should be more accurate - Project Hosting on Google Code</title> <pre> Right now we do very coarse updates to media time  where we should be   performing interpolation so subsequent calls to currentTime will have   monotonically increasing values. </pre>

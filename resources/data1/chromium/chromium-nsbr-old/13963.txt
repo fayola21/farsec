@@ -1,0 +1,1 @@
+<title>Issue 13963 -   chromium -    Copy past fo body content dont work linux V - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.187.0    Copy past of body content dont work linux V </pre>

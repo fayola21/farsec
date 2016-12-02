@@ -1,0 +1,1 @@
+<title>Issue 6305 -   chromium -    need public key signature API in base - Project Hosting on Google Code</title> <pre> In order to do secure autoupdates in extensions  we need to be able to   verify a public key signature.  It appears that we currently don't expose   any of the necessary algorithms from the underlying crypto libraries we   use.   </pre>

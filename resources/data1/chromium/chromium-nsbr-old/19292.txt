@@ -1,0 +1,1 @@
+<title>Issue 19292 -   chromium -    Chrome will continuously steal focus as long as an alert box is up - Project Hosting on Google Code</title>   1. javascript: alert(&quot;Hello world&quot;);  2. Transfer focus to another application while alert box is up.      Chrome doesn't immediately retake focus.      Chrome immediately steals the focus back to it.    <b>Please provide

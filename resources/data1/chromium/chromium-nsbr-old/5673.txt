@@ -1,0 +1,1 @@
+<title>Issue 5673 -   chromium -    AutomationProxyTests are flaky - Project Hosting on Google Code</title> <pre> The following shows the number of failures in the past week:    35  AutomationProxyTest.GetTabCount  34  AutomationProxyTest.GetBrowserWindow  34  AutomationProxyTest.GetActiveTabIndex </pre>

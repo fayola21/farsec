@@ -1,0 +1,1 @@
+<title>Issue 7000 -   chromium -    Installation language - Project Hosting on Google Code</title>   1. Run the installer            It would be nice to get an option to choose from different languages when   installing. My localization settings in Vista are set for Estonia  that   does not mean I want to use the Estonian version of Chromium.          Please provide

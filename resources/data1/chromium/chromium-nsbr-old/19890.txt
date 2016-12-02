@@ -1,0 +1,1 @@
+<title>Issue 19890 -   chromium -    Segmentation fault loading gmail extension - Project Hosting on Google Code</title>   1. Save and extract attached gmail2.zip file  2. Start chromium 64-bit using  chromium-browser --enable-plugins --load-extension=&quot;/path/to/gmail&quot;      no crash      segmentation fault    <b>Please provide

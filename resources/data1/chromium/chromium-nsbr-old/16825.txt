@@ -1,0 +1,1 @@
+<title>Issue 16825 -   chromium -    bookmarks bar should always be visible on the new tab page - Project Hosting on Google Code</title> <pre> See summary.    The rounded corners would be nice if it's not set to be visible on other   pages  but I'd be happy to punt that for later. </pre>

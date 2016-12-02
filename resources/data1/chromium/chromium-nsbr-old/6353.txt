@@ -1,0 +1,1 @@
+<title>Issue 6353 -   chromium -    Opening History freezes browser - Project Hosting on Google Code</title>   1. Star Google Chrome  2. Went to History        To see the history tab appear right away      The browser froze for a few seconds (max. 10) and then open the history   tab.    Please provide

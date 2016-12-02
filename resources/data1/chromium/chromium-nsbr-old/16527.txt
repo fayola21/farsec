@@ -1,0 +1,1 @@
+<title>Issue 16527 -   chromium -    Canvas gradient drawing problem - Project Hosting on Google Code</title>   1. Open the page  2. Look at the planets      Each circle should have a radial gradient that's not centered (simulate  lighting from the side)      Each circle has a centered radial gradient.    <b>Please provide

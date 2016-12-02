@@ -1,0 +1,1 @@
+<title>Issue 9805 -   chromium -    Favicon of History and Downloads page is missing - Project Hosting on Google Code</title>   1. Open History or Downloads Page (Ctrl+H or Ctrl+J)      A favicon should be used... (eg: the down-arrow on the downloads page)      Chrome just shows the standard white favicon.    <b>Please provide

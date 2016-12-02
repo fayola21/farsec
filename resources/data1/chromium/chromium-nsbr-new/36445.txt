@@ -1,0 +1,1 @@
+<title>Issue 36445 -   chromium -    Find and address vm_peak_r regression around r39495 - Project Hosting on Google Code</title> <pre> There was a vm_peak_r regression on the Windows page cyclers around <a href="/p/chromium/source/detail?r=39495">r39495</a>.    The linux page cyclers also increased in vm_rss_final_r and friends. </pre>

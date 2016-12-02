@@ -1,0 +1,1 @@
+<title>Issue 8016 -   chromium -    Fonts and Languages Tab is truncated. - Project Hosting on Google Code</title> <pre> Build: 2.0.167.0 (Developer Build 10261)    Fonts and Languages Tab is truncated.    See the attached screenshot.     </pre>

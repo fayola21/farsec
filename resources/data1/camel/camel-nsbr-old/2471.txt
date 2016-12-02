@@ -1,0 +1,1 @@
+seda endpoint - Let it be easily to configure size option to use an unbounded queue    Instead of having 1000 as the default size we should let it be unbounded by default and let people set a size if they really want that   

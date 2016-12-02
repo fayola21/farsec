@@ -1,0 +1,1 @@
+<title>Issue 20204 -   chromium -    High CPU usage on wired.com article. - Project Hosting on Google Code</title>   1. Start Chrom(e/ium) with many windows (not necessarily with --enable-  plugins)        Power consumption stays sane.        Power consumption shoots up by about 6 Watts.      Please provide

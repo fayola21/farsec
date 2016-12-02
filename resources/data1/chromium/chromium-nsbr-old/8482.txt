@@ -1,0 +1,1 @@
+<title>Issue 8482 -   chromium -    Categories for search engines - Project Hosting on Google Code</title> <pre> We should have a set of categories for search engines  e.g. &quot;map&quot; that we   can use to offer relevant searches to the user given the context of their   browsing/system environment. </pre>

@@ -1,0 +1,1 @@
+Hadoop2 Monitoring: Jobs page should be hidden when HDP 2.0.x stack is installed    When a HDP 2.0.x stack is installed  the Jobs page should be hidden.   

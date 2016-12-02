@@ -1,0 +1,1 @@
+<title>Issue 22020 -   chromium -    about:memory doesn't display extension processes properly - Project Hosting on Google Code</title> <pre> The Task Manager was updated to do this  but about:memory shows extension   processes as unnamed tabs. </pre>

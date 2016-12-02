@@ -1,0 +1,1 @@
+<title>Issue 19542 -   chromium -    No stroke along bottom of bookmark bar when turned on. - Project Hosting on Google Code</title> <pre>   1. Make sure the Bookmark Bar is set to always visible  2. Note that there's no stroke to separate the bottom of the toolbar from the   page.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40304 -   chromium -    Crash when moving tabs - Project Hosting on Google Code</title>   1.  Open chromium  2.  Open two URLs in different tabs  3.  Change the tabs position      Tabs are in a the new position      Get a SIGSEGV (gdb backtrace attached).    <b>Please provide

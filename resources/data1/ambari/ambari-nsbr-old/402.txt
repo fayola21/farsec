@@ -1,0 +1,1 @@
+Completing successful add node takes one to initialize cluster page starting from scratch       

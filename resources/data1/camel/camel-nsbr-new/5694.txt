@@ -1,0 +1,1 @@
+camel-jms - Should also allow multiple consumers from multiple routes from the same queue    If having 2+ routes that consumes from the same queue  then that should be allowed.Its a bit unusual though for queues in Camel as you most likely want to use the same route for the same queue. But there is nothing in the JMS spec that forbids this.   

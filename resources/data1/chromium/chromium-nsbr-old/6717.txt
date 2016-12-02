@@ -1,0 +1,1 @@
+<title>Issue 6717 -   chromium -    Disappearing images ERROR - Project Hosting on Google Code</title>   1. Update Chrome to 2.0.157.0 (automatically).   2. Enter into any page. Load all of the pictures. Movement of mouse over   the image so that it disappears. Refresh page (F5) does not help.                Please provide

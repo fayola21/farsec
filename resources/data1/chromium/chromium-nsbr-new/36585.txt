@@ -1,0 +1,1 @@
+<title>Issue 36585 -   chromium -    Need new baselines for fast/repaint/repaint-during-scroll.html - Project Hosting on Google Code</title> <pre> WebKit's <a href="/p/chromium/source/detail?r=55159">r55159</a> added a new layout test which needs baselines. I'll pull   them from the bots once the roll has landed. </pre>

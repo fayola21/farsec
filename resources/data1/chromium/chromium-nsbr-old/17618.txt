@@ -1,0 +1,1 @@
+<title>Issue 17618 -   chromium -    Bookmark animators - Project Hosting on Google Code</title> <pre> Bookmark bar animators are disabled due to complications (e.g. interfering with info bar animators    choke when window resized  slowness  etc).  This needs to be looked at more.   </pre>

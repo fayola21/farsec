@@ -1,0 +1,1 @@
+Allow cometd component to send message headers with the message    Currently the cometd component ignores message headers. ======Code snippet from CometdConsumer.java: Message message = new DefaultMessage(); message.setBody(data); Exchange exchange = endpoint.createExchange(); exchange.setIn(message);======Exchange message headers should be maintained (perhaps with a flag?).   

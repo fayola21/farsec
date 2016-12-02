@@ -1,0 +1,1 @@
+<title>Issue 32789 -   chromium -    Add secure inspection of iframe across domains - Project Hosting on Google Code</title> <pre> We should make inspection of iframes across domains possible in a secure   manner. </pre>

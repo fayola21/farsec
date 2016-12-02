@@ -1,0 +1,1 @@
+<title>Issue 35694 -   chromium -    In this version google chrome (serbian language) is misplaced tab for &quot;erase all data of surfing&quot; - Project Hosting on Google Code</title>   1. No &quot;erase all data&quot; tab in this version this tab is  visible only in   &quot;options&quot; then &quot;erase all data of surfing&quot;                    <b>Please provide

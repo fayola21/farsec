@@ -1,0 +1,1 @@
+<title>Issue 5528 -   chromium -    Always delete cookies when I close chrome window - Project Hosting on Google Code</title>   1. Cookies saves in Chorme  2. Chrome Window closed  3. Cookies will delete  when Chrome window closed. I dont want to delete all   cookies.                Please provide

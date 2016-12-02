@@ -1,0 +1,1 @@
+<title>Issue 6171 -   chromium -    Middle mouse autoscroll does not work in Google Reader - Project Hosting on Google Code</title> <pre> The cursor changes  but the page doesn't scroll. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22773 -   chromium -    Popup menu (combobox) does not close after select a value - Project Hosting on Google Code</title>   1. Select a value from popup menu          Popup menu should close and the selected value appear.      After select a value  popup menu stay open but the value is changed.    <b>Please provide

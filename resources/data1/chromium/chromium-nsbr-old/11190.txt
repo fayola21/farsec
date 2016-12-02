@@ -1,0 +1,1 @@
+<title>Issue 11190 -   chromium -    [regression] cannot make the window narrower - Project Hosting on Google Code</title> <pre> Make a Chrome window.  Try to resize it narrower.    I can only go wider on my metacity box.    (This isn't such a bad thing but I guess regressions are P0?)    (CC'ing the usual suspects for browser UI...) </pre>

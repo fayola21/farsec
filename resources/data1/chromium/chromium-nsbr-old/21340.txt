@@ -1,0 +1,1 @@
+<title>Issue 21340 -   chromium -    Prefer newer Flash plugin over older ones - Project Hosting on Google Code</title> <pre>   1. Install two versions of Flash  2. See about:plugins      Should use the newer one.   </pre>

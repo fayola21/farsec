@@ -1,0 +1,1 @@
+<title>Issue 24850 -   chromium -    &quot;Load unpacked extension&quot; should persist across browser restarts - Project Hosting on Google Code</title> <pre> This would make it easier for developers to develop across browser restarts. </pre>

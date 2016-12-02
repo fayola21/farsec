@@ -1,0 +1,1 @@
+file component - markerFile read lock - do not use nio FileLock    In some situations in OSGi platforms the file lock can be kept and then you need to shutdown the JVM to clear the JDK FileLock.So better to not use them as we can just create the file and Camel will still back off reading the file as it can see the lock file exists.   

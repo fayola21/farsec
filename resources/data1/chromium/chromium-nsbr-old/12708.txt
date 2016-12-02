@@ -1,0 +1,1 @@
+<title>Issue 12708 -   chromium -    Wasted space when Chrome isn't maximized on Windows - Project Hosting on Google Code</title>   1. Un-maximize Chrome      Chrome should look like it does when it is maximized      There is space between the tabs and the top of the browser    <b>Please provide

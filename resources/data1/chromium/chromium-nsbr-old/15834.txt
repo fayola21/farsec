@@ -1,0 +1,1 @@
+<title>Issue 15834 -   chromium -    Use RegisterApplicationRestart - Project Hosting on Google Code</title> <pre> <a href="http://msdn.microsoft.com/en-us/library/aa373347.aspx">http://msdn.microsoft.com/en-us/library/aa373347.aspx</a>    It's not being used at the moment. That will involve create a new flag to   force session restore. </pre>

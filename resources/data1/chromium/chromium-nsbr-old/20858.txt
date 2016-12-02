@@ -1,0 +1,1 @@
+<title>Issue 20858 -   chromium -    Developer Tolls does not work - Project Hosting on Google Code</title>   1. Open a page in chrome  2. Go to: &quot;Page&quot; &gt; Developer &gt; Developer Tools      For Developer Tools to work like previous versions      Black Developer Bools on the bottom    <b>Please provide

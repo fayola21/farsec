@@ -1,0 +1,1 @@
+<title>Issue 17471 -   chromium -    gcl/git-cl change should prepopulate the change description - Project Hosting on Google Code</title> <pre> Something like this:  &quot;&quot;&quot;      BUG=  TEST=  RELEASE_NOTES=  &quot;&quot;&quot; </pre>

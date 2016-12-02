@@ -1,0 +1,1 @@
+WicketAjaxIndicatorAppender rename to AjaxIndicatorAppender    Just a tiny niggle really... but other ajax components start with Ajax.... and I always forget this one! Perhaps rename and keep a deprecated subclass with the old name?   

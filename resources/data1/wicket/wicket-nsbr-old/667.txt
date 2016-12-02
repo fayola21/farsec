@@ -1,0 +1,1 @@
+[PATCH] remove XX in firefox and palette    I know it is a firefox bug but we can workaround (at least into palette) this with the attach patch   

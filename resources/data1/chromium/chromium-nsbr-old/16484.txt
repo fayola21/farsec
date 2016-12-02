@@ -1,0 +1,1 @@
+<title>Issue 16484 -   chromium -    chromium.app/Contents/MacOS/extensions? - Project Hosting on Google Code</title> <pre> The bundles is getting an extensions folder  might be breaking code signing   for google chrome. </pre>

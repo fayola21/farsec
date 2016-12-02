@@ -1,0 +1,1 @@
+<title>Issue 25569 -   chromium -    Immediate crash clicking on messages in Gmail - Project Hosting on Google Code</title>   1. ANY click on any message in Gmail.          Open the message.      Immediate crash  Chrome asks whether to restart.    <b>Please provide

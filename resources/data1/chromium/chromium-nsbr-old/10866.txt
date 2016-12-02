@@ -1,0 +1,1 @@
+<title>Issue 10866 -   chromium -    Empty chrome folder does not get deleted when uninstalling system-level chrome - Project Hosting on Google Code</title> <pre>   1. Install system-level 1.0.154.59 (or 2.0.172.8)   2. Now  uninstall        &quot;Chrome&quot; folder doesn't get deleted under Program Files       </pre>

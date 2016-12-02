@@ -1,0 +1,1 @@
+<title>Issue 1613 -   chromium -    Omnibar search not working - Project Hosting on Google Code</title>   1. Go to omnibar after visiting a search engine ie google  2. type google and press tab  3. autocompletes to &quot;google.com/&quot;      should put the omnibar into search google mode      autocompletes to google's URL    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 484 -   chromium -    Won't import firefox bookmarks - Project Hosting on Google Code</title>   1. Import bookmarks and settings / select firefox / click import      To have the bookmarks imported.      Message states &quot;Sadly  your Firefox settings are not available while that   browser is running. To import... close... blah blah&quot;      Please provide

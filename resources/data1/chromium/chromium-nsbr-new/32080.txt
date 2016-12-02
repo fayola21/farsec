@@ -1,0 +1,1 @@
+<title>Issue 32080 -   chromium -    Bookmark Manager: Recents and Search - Project Hosting on Google Code</title> <pre> The bookmarks manager needs to display recently-added bookmarks (the   &quot;Recently Added&quot; top-level item) and to search by title (the search field and   &quot;Search Results&quot; top-level item.)    These are coming in an upcoming checkin. </pre>

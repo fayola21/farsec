@@ -1,0 +1,1 @@
+<title>Issue 6090 -   chromium -    Mozilla Firefox website issue - Project Hosting on Google Code</title> <pre> Go to this website - <a href="http://www.mozilla.com/en-US/firefox/3.0/details/">http://www.mozilla.com/en-US/firefox/3.0/details/</a>  It says &quot;Your current browser is no longer supported&quot; and &quot;Upgrade to   Firefox 3 to stay secure.&quot; </pre>

@@ -1,0 +1,1 @@
+The should throw the exception if there is some thing wrong with  type attribute    If you specify an invalided class name in the convertBodyTo@type  you will get a NPE error  but no detail log information for the type attribute.We need to throw the exception for user to locate the error.   

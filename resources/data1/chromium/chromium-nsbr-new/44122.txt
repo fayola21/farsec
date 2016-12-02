@@ -1,0 +1,1 @@
+<title>Issue 44122 -   chromium -    Chrome Forced Refresh does not ignore cache - Project Hosting on Google Code</title>   1. View a webpage  2. Update some of the css (for example an div's background image)  3. Refresh the page (Shift-F5  or CTRL-F5 both do not work)      The cache is ignored      The opposite    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44815 -   chromium -    REGRESSION: Chrome crashes nearly everytime I resume my laptop from sleep - Project Hosting on Google Code</title> <pre> Chrome crashes nearly everytime I resume my laptop from sleep    Observed using 6.0.408.1 (Official Build 47574) dev on Vista.  I think this   may have been happening in earlier builds too. </pre>

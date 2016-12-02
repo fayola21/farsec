@@ -1,0 +1,1 @@
+<title>Issue 39849 -   chromium -    Add context creation attributes to GGL - Project Hosting on Google Code</title> <pre> Need to add context creation attributes  such as selection of multisampling   and a stencil buffer  to the GGL API. This is needed both for emulation of   EGL for Pepper 3D as well as for the command buffer WebGL implementation.   </pre>

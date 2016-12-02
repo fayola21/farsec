@@ -1,0 +1,1 @@
+<title>Issue 22187 -   chromium -    Infobar text should not be selectable - Project Hosting on Google Code</title> <pre> The infobar text is selectable on the Mac  but not on Windows or Linux.    It shouldn't be on the Mac either.    THIS BUG IS NOT A DUPE OF ANY OF MY OR TOM'S BUGS. </pre>

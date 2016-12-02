@@ -1,0 +1,1 @@
+<title>Issue 45909 -   chromium -    Chrome does not play theora videos - Project Hosting on Google Code</title>   1. load url.          Video plays.      In Chrome: Only the controls are shown. When embedded using the video tag  it's the same.  In Chromium the &quot;oh no&quot; page is shown when embedded as well as loading the  video from the url.     <b>Please provide

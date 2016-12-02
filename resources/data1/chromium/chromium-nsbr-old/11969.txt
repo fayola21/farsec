@@ -1,0 +1,1 @@
+<title>Issue 11969 -   chromium -    Gmail checker can get stuck in &quot;Login&quot; mode - Project Hosting on Google Code</title> <pre> I believe this happens in the following situation:    1. Go offline  wait for gmail checker to show &quot;Login&quot;  2. Go back online  3. If there is no change in message count  gmail checker won't change back to   message count mode </pre>

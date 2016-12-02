@@ -1,0 +1,1 @@
+<title>Issue 26295 -   chromium -    Black screen on restored full-screen flash application. - Project Hosting on Google Code</title>   1. enter on full-screen mode  2. restore from full-screen mode  3. instead of windowed mode you find an unusefull black square      To redraw flash window.      black window.    <b>Please provide

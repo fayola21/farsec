@@ -1,0 +1,1 @@
+<title>Issue 42824 -   chromium -    Chrome installed through Google Pack does not update on Win7 64 bit. - Project Hosting on Google Code</title>   1. Install Chrome through Google Pack on Windows 7 64 bit   2. Trying to update        - Chrome should update to the latest stable release (now 4.1.249.1064)      - Update server not available (Error:3)    <b>Please provide

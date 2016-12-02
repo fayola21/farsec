@@ -1,0 +1,1 @@
+<title>Issue 4463 -   chromium -    Feature Request: Themes for Chrome's toolbar and frame. - Project Hosting on Google Code</title> <pre> I think Google Chrome should have an option to change themes in the browser   with a few themes from Google. </pre>

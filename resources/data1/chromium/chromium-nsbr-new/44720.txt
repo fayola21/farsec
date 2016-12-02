@@ -1,0 +1,1 @@
+<title>Issue 44720 -   chromium -    Data sent to console.log can be altered after the fact - Project Hosting on Google Code</title>   1. Load <a href="http://www.chrisfinke.com/files/console_log_bug.html">http://www.chrisfinke.com/files/console_log_bug.html</a>  2. View console.        Object &gt; y : 1        Object &gt; y : 2    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11585 -   chromium -    Create file_util::ReplaceFile for ImportantFileWriter - Project Hosting on Google Code</title> <pre> The idea is to use ::ReplaceFile on Windows which is specially designed for   such tasks. On Linux we will be able to make sure that the file move will   never fallback to the copy-and-delete operation. </pre>

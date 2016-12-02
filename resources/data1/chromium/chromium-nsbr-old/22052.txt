@@ -1,0 +1,1 @@
+<title>Issue 22052 -   chromium -    Cache SB gethash responses across restart - Project Hosting on Google Code</title> <pre> We should figure out how to cache safebrowsing gethash responses across   browser restarts. Currently we throw them away when the browser is closed  so   we end-up re-requesting the next time the browser opens. </pre>

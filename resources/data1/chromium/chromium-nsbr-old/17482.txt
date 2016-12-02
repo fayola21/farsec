@@ -1,0 +1,1 @@
+<title>Issue 17482 -   chromium -    Mouse pointer shadow (?) is shown on a page  - Project Hosting on Google Code</title> <pre> ToT(r 21310)    Repros on XP and Win-7.    -Keep mouse pointer any where on client area (NNTP/any webpage is fine)    Notice  as shown in the screenshot  mouse pointer shadow(?) is shown just  underneath the mouse pointer.       </pre>

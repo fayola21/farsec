@@ -1,0 +1,1 @@
+Make LOCKS as non-reserved keyword in Derby since it is not a reserved keyword in the SQL standards    Since LOCKS is not a reserved keyword in SQL standards  Derby should not make LOCKS as reserved keyword.   

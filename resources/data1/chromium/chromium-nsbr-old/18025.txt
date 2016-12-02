@@ -1,0 +1,1 @@
+<title>Issue 18025 -   chromium -    omnibox ought to navigate when drop target is URL - Project Hosting on Google Code</title>   1. Have a few thumbnails appear in NNTP  2. Drag the thumbnail into omnibox        The tab should navigate to the page      nothing. The URL of the thumbnail simply gets populated    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9759 -   chromium -    Page locks up with 100% CPU usage - Project Hosting on Google Code</title>   1.Go to <a href="http://chesstempo.com/tactical-motifs.html">http://chesstempo.com/tactical-motifs.html</a>  2.Boom! Both Chrome and safari lock up  so sounds like a generic webkit  issue (Safari is unrecoverable and needs killing).                  <b>Please provide

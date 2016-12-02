@@ -1,0 +1,1 @@
+<title>Issue 36406 -   chromium -    Google misbehaving on email check for certain registration - Project Hosting on Google Code</title>   1.Go to the registration page  2.enter any email address          It should accept a valid email address        No matter what you type  it will give a message that the email you entered   is invalid.    <b>Please provide

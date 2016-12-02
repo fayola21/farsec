@@ -1,0 +1,1 @@
+<title>Issue 20381 -   chromium -    Support Mutter (GNOME 3 Shell) for client decorations - Project Hosting on Google Code</title> <pre> The GNOME 3 shell is using a Metacity fork called Mutter; this is a   permanent fork  Metacity will be 2D only  Mutter is 3D compositing only.       </pre>

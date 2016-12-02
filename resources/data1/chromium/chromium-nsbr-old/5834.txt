@@ -1,0 +1,1 @@
+<title>Issue 5834 -   chromium -    Bullets for list items doesn't render correct when FONT-FAMILY is Tahoma Verdana Segoe sans-serif; - Project Hosting on Google Code</title>   1. Go to website      A nice and clean bullet in texts      An ugly deformed icon is shown    Please provide

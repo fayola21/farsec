@@ -1,0 +1,1 @@
+<title>Issue 35515 -   chromium -    about ed2k links - Project Hosting on Google Code</title>   1.right click any link that contains Chinese characters          I want to copy the link and paste it to the emule      the right-click menu doesn't show the &quot;copy the link&quot;    <b>Please provide

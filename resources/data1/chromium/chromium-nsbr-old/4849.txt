@@ -1,0 +1,1 @@
+<title>Issue 4849 -   chromium -    Cannot grab resize handle for table in Google Sites - Project Hosting on Google Code</title>   1. Insert a table in a google sites page and then try to resize a cell.   Does not grab.          Table will resize      Selects contents of page being edited    Please provide

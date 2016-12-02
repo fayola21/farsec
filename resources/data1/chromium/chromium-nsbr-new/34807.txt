@@ -1,0 +1,1 @@
+<title>Issue 34807 -   chromium -    Visual Html Editor error - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.1  URL : allegro.pl  Behavior in Safari 3.x/4.x : everything ok  Behavior in Firefox 3.x: everything ok      1. Login in allegro.pl  2. Go to sell menu  3. The visual html editor was broken down   </pre>

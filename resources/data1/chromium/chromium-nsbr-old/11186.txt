@@ -1,0 +1,1 @@
+<title>Issue 11186 -   chromium -    Run LayoutTests in the browser - Project Hosting on Google Code</title> <pre> Some layout tests behave differently in the browser than test_shell or they   depend on things not available in test_shell.    We should figure how to run (some? all?) layout tests in Chrome. </pre>

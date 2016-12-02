@@ -1,0 +1,1 @@
+<title>Issue 18714 -   chromium -    chrome.bookmarks: Create function callback param &amp; event param type schemas and first-pass documentation in extension_api.js - Project Hosting on Google Code</title> <pre> This bug should be fixed before crbug.com/18711 </pre>

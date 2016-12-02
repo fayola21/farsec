@@ -1,0 +1,1 @@
+<title>Issue 24340 -   chromium -    LayoutTests/fast/frames/iframe-text-contents.html started failing in r28419 - Project Hosting on Google Code</title> <pre> 091008 12:28:21 test_shell_thread.py:318 ERROR   LayoutTests/fast/frames/iframe-text-contents.html failed:    Test shell crashed </pre>

@@ -1,0 +1,1 @@
+Wicket autocomplete keeps working on the replaced element when somehow the element is replaced by another ajax request when it is shown.       

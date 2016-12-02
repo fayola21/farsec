@@ -1,0 +1,1 @@
+<title>Issue 20663 -   chromium -    top of browser next to tabs turns to blue with the themes - Project Hosting on Google Code</title>   1.open Google Chrome beta.  2.Get a theme and apply it.  3.Open another program or click blank spot on bottom toolbar.      Keep the theme.      The top area next to the tabs where its blank turns to default blue.    <b>Please provide

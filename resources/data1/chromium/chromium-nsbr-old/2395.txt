@@ -1,0 +1,1 @@
+<title>Issue 2395 -   chromium -    Move chrome/browser/views/window_resources.h to chrome/views - Project Hosting on Google Code</title> <pre> We don't like dependencies into chrome/browser from chrome/views  so   chrome/browser/views/window_resources.h should move to chrome/views/   alongside CustomFrameWindow that uses it. </pre>

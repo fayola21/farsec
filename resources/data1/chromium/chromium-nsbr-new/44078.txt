@@ -1,0 +1,1 @@
+<title>Issue 44078 -   chromium -    Chrome: refresh in the middle of connection blanks url  and doesn't reload it - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.38 beta    If a page failed to load (and not gave up yet)  pressing F5 makes URL blank   and doesn't actually refresh anything at all.   </pre>

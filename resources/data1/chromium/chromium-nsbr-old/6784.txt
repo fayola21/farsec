@@ -1,0 +1,1 @@
+<title>Issue 6784 -   chromium -    Clean up code duplication in layout test http_server.py - Project Hosting on Google Code</title> <pre> Consider using UrlIsAlive and HttpdNotStarted from   tools/google/python/httpd_utils.py in layout_package/http_server.py rather   than duplicating the code. </pre>

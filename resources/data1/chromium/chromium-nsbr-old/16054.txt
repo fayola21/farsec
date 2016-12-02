@@ -1,0 +1,1 @@
+<title>Issue 16054 -   chromium -    Un-flaky crash recovery tests - Project Hosting on Google Code</title> <pre> To make them less flaky  I'm porting crash_recovery_uitest.cc to browser  tests framework. It will also make them more portable (not require  crash_service.exe).    Keywords: CrashRecoveryUITest </pre>

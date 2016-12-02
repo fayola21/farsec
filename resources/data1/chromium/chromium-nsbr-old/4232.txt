@@ -1,0 +1,1 @@
+<title>Issue 4232 -   chromium -    facebook profile page on chrome not fully functional - Project Hosting on Google Code</title>   1. On facebook profile page try to delete or edit a wall post   2. nothing happens                  Please provide

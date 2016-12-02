@@ -1,0 +1,1 @@
+<title>Issue 256 -   chromium -    Linux Version - Project Hosting on Google Code</title> <pre> It is extremely important that a linux version be released because people   will start screaming </pre>

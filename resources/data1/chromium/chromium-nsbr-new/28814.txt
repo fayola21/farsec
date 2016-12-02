@@ -1,0 +1,1 @@
+<title>Issue 28814 -   chromium -    Show some UI when pressing the 'update now' button in chrome://extensions/ - Project Hosting on Google Code</title> <pre> Right now when you hit the button you don't really get any feedback.    </pre>

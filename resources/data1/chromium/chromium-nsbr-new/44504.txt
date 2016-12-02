@@ -1,0 +1,1 @@
+<title>Issue 44504 -   chromium -    Add policy for setting language - Project Hosting on Google Code</title> <pre> Once the policy abstraction is complete  we should add a policy to set the UI   locale to a specified language code.    This maps loosely to the preference &quot;intl.app_locale&quot; preference. </pre>

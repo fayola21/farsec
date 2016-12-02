@@ -1,0 +1,1 @@
+<title>Issue 41572 -   chromium -    remove chrome_launcher.exe from GCF startup on XP - Project Hosting on Google Code</title> <pre> directly launch chrome.exe instead of paying the broker penalty on OSes where   we can't possibly have differing permission levels. </pre>

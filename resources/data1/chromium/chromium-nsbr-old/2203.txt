@@ -1,0 +1,1 @@
+<title>Issue 2203 -   chromium -    Implement file_util::CopyDirectory for POSIX/Mac - Project Hosting on Google Code</title> <pre> file_util::CopyDirectory is not implemented for Linux or Mac OS-X. There is    a comment to implement CopyTree on base/file_util_posix.cc but that   function should be CopyDirectory instead.   </pre>

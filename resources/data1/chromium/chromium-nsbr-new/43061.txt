@@ -1,0 +1,1 @@
+<title>Issue 43061 -   chromium -    Chrome OS doesn't open app extension windows. - Project Hosting on Google Code</title> <pre> Install the gmail app extension.    Open it from the new tab page.     </pre>

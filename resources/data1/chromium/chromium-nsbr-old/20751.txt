@@ -1,0 +1,1 @@
+<title>Issue 20751 -   chromium -    Cannot read PDF file - Project Hosting on Google Code</title>   1. try to open the url with pdf  2. the page is blank  3. acroread 9.1.2 is installed in my ubuntu os       open the pdf file using acroread on a new tab              <b>Please provide

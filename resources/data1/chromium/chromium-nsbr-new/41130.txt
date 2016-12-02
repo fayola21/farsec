@@ -1,0 +1,1 @@
+<title>Issue 41130 -   chromium -    Inset Box Shadow not appearing on HTML element - Project Hosting on Google Code</title>   1. inset -webkit-box-shadow on HTML element doesn't work as it should (I   believe) according to firefox. Doesn't appear framing page.      A box-shadow should frame the html page      Doesn't appear      <b>Please provide

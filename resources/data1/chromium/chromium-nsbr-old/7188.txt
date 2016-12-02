@@ -1,0 +1,1 @@
+<title>Issue 7188 -   chromium -    Maximize oversized on secondary [not default] monitor - Project Hosting on Google Code</title>   1. Move to non-primary monitor  click maximize      Fix to screen edges..      Browser window extends too far on the right.      Please provide

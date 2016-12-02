@@ -1,0 +1,1 @@
+<title>Issue 6238 -   chromium -    Can't copy any text from Chromium to Evernote - Project Hosting on Google Code</title>   1. Select any text on page (or in textarea)  2. Ctrl+C  3. Alt+Tab on Evernote  Ctrl+V      Text appears in Evernote note      No text pasted in Evernote    Please provide

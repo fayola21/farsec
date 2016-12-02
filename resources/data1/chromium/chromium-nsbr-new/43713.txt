@@ -1,0 +1,1 @@
+<title>Issue 43713 -   chromium -    Devanagari text does not appear properly in linux - Project Hosting on Google Code</title>   1. Go to the website given in URL using Google Chrome          Join characters in devanagari text should appear properly.      Joint characters in devanagari text appear separated.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13152 -   chromium -    Hung renderer warning is not implemented - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  No warning about hung tabs is displayed when a site gets stuck in  JavaScript that takes a very long time to execute. </pre>

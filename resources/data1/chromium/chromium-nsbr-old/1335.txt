@@ -1,0 +1,1 @@
+<title>Issue 1335 -   chromium -    Unable to open pages in the right Font for non Latin characters - Project Hosting on Google Code</title>   1. type www.manoramaonline.com  2. view the pages - it should appear in Malayalam font  3. Please see the attached file                Please provide

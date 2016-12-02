@@ -1,0 +1,1 @@
+Graceful shutdown - Add option to shutdown routes in reverse order as they were started    As its more intuitive this way.And it should be the new default in 2.3 onwards. The old behavior can be enabled by turning off the shutdownRoutesInReverseOrder option.   

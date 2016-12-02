@@ -1,0 +1,1 @@
+'Add local user' button is enabled but nothing happens upon clicking it under certain conditions    Steps to reproduce1. Go to Admin tab2. Click on 'Add Local User' button3. Click on Admin tab again4. Clicking on 'Add Local User' button does nothing   

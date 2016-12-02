@@ -1,0 +1,1 @@
+<title>Issue 38236 -   chromium -    Chrome tab crashing on javascript - Project Hosting on Google Code</title>   1. Type &quot;42 &quot; (with space) in the search box          &quot;42 &quot; appears in the input box.      The tab crashes.    <b>Please provide

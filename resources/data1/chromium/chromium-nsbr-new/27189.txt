@@ -1,0 +1,1 @@
+<title>Issue 27189 -   chromium -    &lt;select&gt; drop-down options are not visible - Project Hosting on Google Code</title>   1. Click on a drop-down menu.      See the options for the select box.      See a blank list of the appropriate width and height.    <b>Please provide

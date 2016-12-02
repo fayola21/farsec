@@ -1,0 +1,1 @@
+<title>Issue 15363 -   chromium -    Re-enable background page in extensions_service_unittest - Project Hosting on Google Code</title> <pre> chrome/test/data/extensions/good/hpiknbiabeeppbpihjehijgoemciehgk has it's   background page commented out.    re-enable it  and re-enable the checking for it in   ExtensionsService.LoadAllExtensionsFromDirectorySuccess unittest. </pre>

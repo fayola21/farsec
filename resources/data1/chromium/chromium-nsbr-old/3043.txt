@@ -1,0 +1,1 @@
+<title>Issue 3043 -   chromium -    Figure out what to do with the JSC SConscript file - Project Hosting on Google Code</title> <pre> The JSC SConscript file has a lot of stuff related to building JSC that we  don't need and is wrong post-merge that is commented out. All we really  need is to pilfer some headers and build pcre. Make a decision about this  cleanup. </pre>

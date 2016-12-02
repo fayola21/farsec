@@ -1,0 +1,1 @@
+<title>Issue 33021 -   chromium -    background image - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.2                FIX THE FACT THAT YOU CANNOT RIGHTCLICK AN IMAGE AND USE IT AS BACKGROUND!    cheers </pre>

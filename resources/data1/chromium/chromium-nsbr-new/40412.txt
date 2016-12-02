@@ -1,0 +1,1 @@
+<title>Issue 40412 -   chromium -    Google Talk Crash - Project Hosting on Google Code</title>   1. When I loggin on Gmail I recive the error  2. Se ha producido un error usando el siguiente complemento: Google Talk   Plugin        Yellow bar on the top of web mail      Nothing  I can continue Working    <b>Please provide

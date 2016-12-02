@@ -1,0 +1,1 @@
+<title>Issue 9659 -   chromium -    ScrollView::ScrollContentsRegionToBeVisible contains logic errors - Project Hosting on Google Code</title> <pre> ScrollContentsRegionToBeVisible has some logic errors in it:    1) Not detecting if the region is visible already properly.  2) using x where a y is wanted when calculating the new position to scroll to.     </pre>

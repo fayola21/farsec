@@ -1,0 +1,1 @@
+<title>Issue 27030 -   chromium -    Reenable aliasing in unittests - Project Hosting on Google Code</title> <pre> <a href="http://codereview.chromium.org/346040/show">http://codereview.chromium.org/346040/show</a> added -fno-strict-aliasing for   unittests because of a GCC 4.4 issue. We should really be able to compile   unittests with aliasing analysis enabled. </pre>

@@ -1,0 +1,1 @@
+file consumer - support expression for setting the folder/file to consume    Would be nice to support the file language to set dynamic patterns for the starting folder/file to consume.See nabble:http://www.nabble.com/Mega-mega-%28VFS%29-file-handler-to21346374s22882.html   

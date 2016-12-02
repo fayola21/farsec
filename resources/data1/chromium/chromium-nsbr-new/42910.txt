@@ -1,0 +1,1 @@
+<title>Issue 42910 -   chromium -    We are leaking a preference observer at shutdown - Project Hosting on Google Code</title> <pre> WARNING:chrome/browser/pref_service.cc(89)] pref observer found at shutdown  intl.accept_languages       </pre>

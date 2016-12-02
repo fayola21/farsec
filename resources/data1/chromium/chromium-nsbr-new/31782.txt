@@ -1,0 +1,1 @@
+<title>Issue 31782 -   chromium -    about:foo pages are not RTL'ized - Project Hosting on Google Code</title> <pre> about:plugins and other about:foo pages are not rtlized for Heberw and  Arabic. 'about:plugins' is most important among them and I'm fixing it now     </pre>

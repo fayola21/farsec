@@ -1,0 +1,1 @@
+<title>Issue 18778 -   chromium -    cannot restore hidden pages on the NNTP - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.196.2      1. Hide a page on the NNTP by clicking the X  2. Try to get it back        There should be some way to restore hidden pages        There isn't </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20733 -   chromium -    Internationalize chrome://extensions/ - Project Hosting on Google Code</title> <pre> Internationalize chrome://extensions/ </pre>

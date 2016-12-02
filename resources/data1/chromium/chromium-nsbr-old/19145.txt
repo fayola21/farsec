@@ -1,0 +1,1 @@
+<title>Issue 19145 -   chromium -    Checkboxes can be incorrectly scaled - Project Hosting on Google Code</title>   1. Open page with single checkboxes on the line.          Standard checkbox representation as a square.      Checkbox is distorted by width as shown on picture. Other fields are shown   well.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4268 -   chromium -    alt-f4 when toolbar has focus doesn't work - Project Hosting on Google Code</title> <pre>   1. Press alt-shift-t to give the toolbar focus  2. Press alt-f4.        Window should close  but it doesn't.         </pre>

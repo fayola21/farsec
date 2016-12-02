@@ -1,0 +1,1 @@
+<title>Issue 12031 -   chromium -    Cant set home page to replace new tab page - Project Hosting on Google Code</title> <pre> Chrome Version       : ALL      We should be able to replace the new tab page with our home page upon opening   a new tab      We are unable to do so in any build so far   </pre>

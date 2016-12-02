@@ -1,0 +1,1 @@
+<title>Issue 41058 -   chromium -    incorect ttf font rendring - Project Hosting on Google Code</title>   1.go to <a href="http://gopcodered.org/">http://gopcodered.org/</a>  2.view font &quot;disparador.ttf&quot;        font rendring correctly same as ff/ie/safari      font looks incorrect    <b>Please provide

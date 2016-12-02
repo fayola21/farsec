@@ -1,0 +1,1 @@
+<title>Issue 45512 -   chromium -    Translation bar does not appear (behavior is unpredictable) - Project Hosting on Google Code</title>   1. Go to the indicated URL.      The translation bar should appear to translate the web page into English.      The translation bar does not appear  and it's not blacklisted.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36335 -   chromium -    Duplicate translate info bar pop-ups when posting requests - Project Hosting on Google Code</title>   1. Write a rpogram  2. Try to submit my file to check  3. Then he say that is duplicate and I just go back to prev. page.      I just want to close translate tool bar      It is didn't close. It is multiplies.    <b>Please provide

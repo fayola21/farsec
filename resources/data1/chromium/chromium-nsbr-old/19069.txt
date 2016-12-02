@@ -1,0 +1,1 @@
+<title>Issue 19069 -   chromium -    No thumbnail reset - Project Hosting on Google Code</title>   1. Delete two thumbnails on New Tab page  2. Undo second deletion              First deletion cannot be undone.    <b>Please provide

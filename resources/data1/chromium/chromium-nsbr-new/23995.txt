@@ -1,0 +1,1 @@
+<title>Issue 23995 -   chromium -    [Install/Uninstall] Notify the user whether uninstall succeeded or failed - Project Hosting on Google Code</title> <pre> Right now we don't have any UI showing the progress of uninstall and a   success/failure dialog at the end of uninstall. I think we need to let the user   know what happened. </pre>

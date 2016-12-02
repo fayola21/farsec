@@ -1,0 +1,1 @@
+<title>Issue 5830 -   chromium -    Autocomplete popup lingers when opening a new tab - Project Hosting on Google Code</title> <pre>   1. Go to a page with a form and trigger the autocomplete popup  2. Create a new tab    Expected:  The autocomplete popup is hidden.    Actual:  The autocomplete popup still shows.     </pre>

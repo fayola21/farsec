@@ -1,0 +1,1 @@
+Allow capacity scheduler to be attached to host role configs for CS configurability in the API's.    Allow capacity scheduler to be attached to host role configs for CS configurability in the API's.   

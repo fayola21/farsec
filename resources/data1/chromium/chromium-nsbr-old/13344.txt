@@ -1,0 +1,1 @@
+<title>Issue 13344 -   chromium -    Text highlighted even when find bar is closed - Project Hosting on Google Code</title> <pre>   1. Enter something in the find bar  let say 's'  2. Close the find bar  3. Switch tabs  4. Switch back      The text shouldn't be highlighted.  Instead  all the 's' characters are   highlighted. </pre>

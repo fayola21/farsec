@@ -1,0 +1,1 @@
+<title>Issue 33902 -   chromium -    Page content don't updating - Project Hosting on Google Code</title>   1. Open <a href="http://www.ikea.com/ru/ru/catalog/products/70060057">http://www.ikea.com/ru/ru/catalog/products/70060057</a>  2. Try to change color      Price and picture must be updated      Price and picture don't updating    <b>Please provide

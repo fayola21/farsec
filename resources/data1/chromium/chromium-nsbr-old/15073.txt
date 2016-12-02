@@ -1,0 +1,1 @@
+<title>Issue 15073 -   chromium -    NNTP: Mouse hover over buttons should show tool tips. - Project Hosting on Google Code</title> <pre>   Mouse hover over buttons in NNTP(Show/Hide thumbnails  Show/Hide list and   Action menu) should show tool tips accordingly. </pre>

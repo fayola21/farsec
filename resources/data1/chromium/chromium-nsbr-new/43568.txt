@@ -1,0 +1,1 @@
+<title>Issue 43568 -   chromium -    scribd column spacing wrong - Project Hosting on Google Code</title> <pre> Look at <a href="http://www.scribd.com/documents/5/Paper-5">http://www.scribd.com/documents/5/Paper-5</a> in Chrome (6.0) and FF   (3.6) and you'll see that the column spacing looks very wrong on Chrome:     </pre>

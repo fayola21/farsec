@@ -1,0 +1,1 @@
+<title>Issue 7211 -   chromium -    IPB forum posts disappear - Project Hosting on Google Code</title>   1. Go to some Invision Power Board forum  i.e. <a href="http://forum.idg.pl">http://forum.idg.pl</a>          Shown posts.      The posts disappear and are blank.    Please provide

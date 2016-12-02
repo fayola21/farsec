@@ -1,0 +1,1 @@
+<title>Issue 29598 -   chromium -    Tests that fail under valgrind don't turn the bots red - Project Hosting on Google Code</title> <pre> When we started bringing up valgrind on the buildbots   we took a shortcut  and only flagged valgrind warnings   not tests that fail under valgrind.    Now that the bots have been green for a long time   it's past time to fix that. </pre>

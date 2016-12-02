@@ -1,0 +1,1 @@
+<title>Issue 16296 -   chromium -    Regression: tabs  opened from Google Reader  close automatically - Project Hosting on Google Code</title>   1. Click on the header of any post in Google Reader      Tab opens      Tab opens and closes immediately    <b>Please provide

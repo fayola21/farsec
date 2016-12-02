@@ -1,0 +1,1 @@
+<title>Issue 42531 -   chromium -    REGRESSION: Creating a tab in background closes BrowserAction Popup - Project Hosting on Google Code</title>   1. chrome.tabs.create({url: 'http://google.com' selected: false});      -keep popup open      -popup is closed    <b>Please provide

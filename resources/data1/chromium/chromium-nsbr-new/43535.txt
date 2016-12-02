@@ -1,0 +1,1 @@
+<title>Issue 43535 -   chromium -    &quot;Report a Broken Website&quot; page doesn't support Hebrew titles - Project Hosting on Google Code</title> <pre> using 6.0.398.0 (46661) under windows    1. enter a website with a Hebrew title  for example ynet.co.il  2. Page menu-&gt;Report bug or broken website...    title is displayed in the text box as garbage    see picture </pre>

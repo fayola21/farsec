@@ -1,0 +1,1 @@
+<title>Issue 44076 -   chromium -    hide bookmark bar on app tabs - Project Hosting on Google Code</title> <pre> When the toolbar is hidden  the bookmark bar should also be hidden. </pre>

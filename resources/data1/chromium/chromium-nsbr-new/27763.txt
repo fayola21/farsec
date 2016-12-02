@@ -1,0 +1,1 @@
+<title>Issue 27763 -   chromium -    Un-installing extension typo - Project Hosting on Google Code</title> <pre> Chrome Version  4.0.245.1  OS + version : linux x64      1. install an extension  2. uninstall extension        The button should say uninstall but it says install   </pre>

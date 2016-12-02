@@ -1,0 +1,1 @@
+<title>Issue 36337 -   chromium -    Status Bar Obfuscation Clickjacking - Project Hosting on Google Code</title> <pre> There are few times (3 months) i've find a bug who can be false the status  bar information to do a clickjacking. </pre>

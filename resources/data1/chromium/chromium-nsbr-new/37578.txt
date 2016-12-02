@@ -1,0 +1,1 @@
+<title>Issue 37578 -   chromium -    The link &quot;most recente&quot; appear twice - Project Hosting on Google Code</title>   1. Show history  2. click the link older  3. scroll at the bottom page       The link &quot;most recents&quot; should not appear twice        The link appear twice    <b>Please provide

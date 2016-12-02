@@ -1,0 +1,1 @@
+<title>Issue 30245 -   chromium -    Support hyperlinks in popups - Project Hosting on Google Code</title> <pre> Currently  we don't support hyperlinks in popups -- they don't do anything   when you click them.    What should they do? Navigate the current tab? Navigate the popup view? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39511 -   chromium -    Move Extension Infobars out of experimental - Project Hosting on Google Code</title> <pre> Once we are happy with the infobar API and how it works we should consider   moving it out of experimental. This keeps track of that effort. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 8782 -   chromium -    Refactor SSLPolicy to be unit testable - Project Hosting on Google Code</title> <pre> We need one more layer of virtual functions so we can stub out SSLManager   and unit test SSLPolicy.  I see how to do this and will get to it as time   allows. </pre>

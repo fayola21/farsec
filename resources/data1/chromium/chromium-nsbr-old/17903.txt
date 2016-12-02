@@ -1,0 +1,1 @@
+<title>Issue 17903 -   chromium -    127.0.0.1 is not considered by proxy bypass for local addresses - Project Hosting on Google Code</title> <pre> sourced from buganizer/1996774.    To match IE  chrome should not send 127.0.0.1 to the proxy server when the IE &quot;Bypass proxy   server for local addresses&quot; checkbox is on. </pre>

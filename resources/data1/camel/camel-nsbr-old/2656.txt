@@ -1,0 +1,1 @@
+Aggregator - Add option to specify if completionInterval to have interval based completion    This allows for example the stock quote example to use 5 sec interval to trigger completions to spit out current quotes every 5th seconds.   

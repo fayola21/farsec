@@ -1,0 +1,1 @@
+<title>Issue 23301 -   chromium -    bookmark menus not updated - Project Hosting on Google Code</title> <pre> Open bookmark bar and create folder named &quot;x&quot;.  Open bookmarks menu; see &quot;x&quot;.  Now right click --&gt; Edit this folder on the bar; rename &quot;y&quot;.  Open bookmarks menu --&gt; still called &quot;x&quot;!   </pre>

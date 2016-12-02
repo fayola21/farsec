@@ -1,0 +1,1 @@
+<title>Issue 37266 -   chromium -    Need to check if bookmarks can be dropped when choosing which pointer to display - Project Hosting on Google Code</title> <pre>   1. Use the html bookmark manager extension  2. Drag a bookmark onto the &quot;Recent&quot; button on the left      It should show an icon that you cannot drop here.  Instead it looks as though you can.       </pre>

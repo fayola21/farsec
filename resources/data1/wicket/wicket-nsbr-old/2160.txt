@@ -1,0 +1,1 @@
+application_nl.properties is outdated    The application_nl.properties is a bit outdated. I have attached a patch file that contains the diff betweeen application.properties and application_nl.properties @ wicket 1.3.5.   

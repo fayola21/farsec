@@ -1,0 +1,1 @@
+<title>Issue 44282 -   chromium -    Chrome Loads Pages Extremely Slowly.  Uninstall and Reinstall Makes No Difference. - Project Hosting on Google Code</title>                       <b>Please provide

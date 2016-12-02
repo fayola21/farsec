@@ -1,0 +1,1 @@
+<title>Issue 218 -   chromium -    Synaptics Touchpad Scroll UP Does not work - Project Hosting on Google Code</title>   1. Go to any site with a scroll bar  2. Scroll down with your laptop touchpad scroll sensor  3. Attempt to scroll up      It should scroll up.        Nothing.    Please provide

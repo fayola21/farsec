@@ -1,0 +1,1 @@
+<title>Issue 13371 -   chromium -    text difficult to read when using dark themes - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.184.0~svn20090604r17629  OS + version : Ubuntu / Karmic    Using a dark theme (DarkRoom)  some texts are difficult to read.  Please see the screenshots   </pre>

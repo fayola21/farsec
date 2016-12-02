@@ -1,0 +1,1 @@
+<title>Issue 58 -   chromium -    Full sizing browsesr - Project Hosting on Google Code</title>   1. have a laptop with one screen at 1024:768 and another one at 1680:1050   then make the browser big on the big screen.          It should fill out the whole screen      It only fills out part of the screen seems to be the area of how big the   primary screen is.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36103 -   chromium -    regression in vista dual core intl2 test around r39264 - Project Hosting on Google Code</title> <pre> There's a regression in vista dual core intl2 test around <a href="/p/chromium/source/detail?r=39264">r39264</a>.  Need to   identify and fix. </pre>

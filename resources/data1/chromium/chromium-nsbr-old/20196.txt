@@ -1,0 +1,1 @@
+<title>Issue 20196 -   chromium -    Bug when open www.renren.com - Project Hosting on Google Code</title>   1.open xiaonei  in one/s album and see a photo  2.press next to see next        it can not pass to the next photo but the url changed very quick and eat   CPU!!          <b>Please provide

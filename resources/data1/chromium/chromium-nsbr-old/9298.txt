@@ -1,0 +1,1 @@
+<title>Issue 9298 -   chromium -    show full history link on new tab page broken - Project Hosting on Google Code</title>   1. click &quot;Show full history �_&quot; link on new tab page  2. ???        a list of the full history      it reloads the welcome tab    <b>Please provide

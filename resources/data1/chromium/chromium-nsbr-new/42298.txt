@@ -1,0 +1,1 @@
+<title>Issue 42298 -   chromium -    Valgrind bot on Mac should build only the necessary targets - Project Hosting on Google Code</title> <pre> Building the whole bunch of binaries slows the Valgrind bot down.  It may share the metatarget with the ThreadSanitizer bot. </pre>

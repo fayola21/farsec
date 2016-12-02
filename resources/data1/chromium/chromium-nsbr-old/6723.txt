@@ -1,0 +1,1 @@
+<title>Issue 6723 -   chromium -    Date(document.lastModified) not working in google chrome. - Project Hosting on Google Code</title>   1. When using Date(document.lastModified) in JavaScript          Should give some date value like  &quot;Wed Jan 21:22:57:46 UTC+0530 2009&quot;      but got the value in Google chrome as &quot;Invalid Date&quot;    Please provide

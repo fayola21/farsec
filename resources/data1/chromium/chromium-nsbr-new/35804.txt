@@ -1,0 +1,1 @@
+<title>Issue 35804 -   chromium -    Border Controls Box Misplaced - Project Hosting on Google Code</title>   1. Run Chrome  2. Look at the Control Box (Close buttons etc)      The Border Controls Box must be placed at the same location as the default  Explorer window's location.      Chrome's controls box is placed 3px too far to the right.    <b>Please provide

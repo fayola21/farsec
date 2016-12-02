@@ -1,0 +1,1 @@
+<title>Issue 37883 -   chromium -    Be consistent: page menu��_��_��_s Encoding vs. View menu��_��_��_s Text Encoding - Project Hosting on Google Code</title> <pre> In the page menu  we��_��_��_ve got Encoding.    The same submenu in the View menu is called Text Encoding.    Let��_��_��_s pick one and stick with it. </pre>

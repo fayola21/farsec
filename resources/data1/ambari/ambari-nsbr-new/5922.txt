@@ -1,0 +1,1 @@
+Predicates don't work on fields with float values    API should be able to process filter with predicates(&lt; &gt; =) for fields with float values; For example field: metrics/load/load_one.Currently the Greater than predicate will fail for values in between 0.0 and 1.0   

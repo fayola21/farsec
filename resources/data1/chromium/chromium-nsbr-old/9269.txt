@@ -1,0 +1,1 @@
+<title>Issue 9269 -   chromium -    Remove references to old EULAs from the installer resource file - Project Hosting on Google Code</title> <pre> The installer resource file still contains references to the HTML versions   of the EULA.  Since the HTML EULAs were removed  we should also remove the   references. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14956 -   chromium -    resize up cursor appears when moving mouse near the top of web contents in linux - Project Hosting on Google Code</title> <pre> Turn on the custom frame mode on linux and move the mouse near the border   between the web contents and the toolbar.  You'll get a resize up cursor and   can actually resize the window from there. </pre>

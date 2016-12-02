@@ -1,0 +1,1 @@
+<title>Issue 11292 -   chromium -    REGRESSION: Form controls rendered as classic mode even when uxtheme.dll should be used - Project Hosting on Google Code</title> <pre> REGRESSION: form controls incorrectly rendered using classic mode    2.0.178.0 (Developer Build 15028)    observed on vista with aero theme enabled. </pre>

@@ -1,0 +1,1 @@
+ambari-server should use repo when downloading jdk 7       

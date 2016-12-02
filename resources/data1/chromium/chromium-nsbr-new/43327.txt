@@ -1,0 +1,1 @@
+<title>Issue 43327 -   chromium -    System font hinting settings are not obeyed (again) - Project Hosting on Google Code</title>   1.change fonts on &quot;Options &gt; Under the hood&quot;          Web pages should be rendered using the specified fonts.      Web pages are rendered using hinted fonts.    Please provide

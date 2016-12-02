@@ -1,0 +1,1 @@
+BeanInfo - should consider overridden methods when selecting method from operations list    See nabble:http://www.nabble.com/BeanInfo.chooseMethodWithMatchingBody-throws-an-AmbiguousMethodCallException-when-there%27s-no-ambiguity-td19959124s22882.html   

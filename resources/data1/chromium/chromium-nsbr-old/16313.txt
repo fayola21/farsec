@@ -1,0 +1,1 @@
+<title>Issue 16313 -   chromium -    cursor often disappearing in renderer input boxes - Project Hosting on Google Code</title>   not sure yet on reproducer but it happens to me frequently  so I want to report it now to give attention to this problem      cursor always visible when focus in text input fields      quite often the cursor becomes invisible    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32526 -   chromium -    Cannot scroll open pages while clearing browsing data - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.295.0 (Official Build 35884) dev    Open a webpage  then start browsing data clearing.  You can switch between   tabs while clearing browsing data  so the box/operation is not modal  but   scrolling fails. </pre>

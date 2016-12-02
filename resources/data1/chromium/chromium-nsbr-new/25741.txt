@@ -1,0 +1,1 @@
+<title>Issue 25741 -   chromium -    scrolling jank in gmail - Project Hosting on Google Code</title> <pre> version = 4.0.223.11 (win)  crappy old winxp machine    steps to reproduce:    1. open a long conversation in gmail  2. grab the scrollbar and start pulling it down  3. notice that scrolling pauses for ~0.5 sec from time to time </pre>

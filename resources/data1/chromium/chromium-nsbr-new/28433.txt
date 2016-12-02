@@ -1,0 +1,1 @@
+<title>Issue 28433 -   chromium -    In the extensions promos on the NTP  include the UI language in the gallery url. - Project Hosting on Google Code</title> <pre> Self-explanatory :) </pre>

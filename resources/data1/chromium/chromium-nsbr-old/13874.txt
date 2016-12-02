@@ -1,0 +1,1 @@
+<title>Issue 13874 -   chromium -    3.0.187.0 crashes on choosing Wrench *** VERT CRITICAL FAILURE **** - Project Hosting on Google Code</title>   1. 3.0.187.0 crashes on choosing Wrench menu.                    <b>Please provide

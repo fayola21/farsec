@@ -1,0 +1,1 @@
+<title>Issue 27017 -   chromium -    The icone of chrome in the task bar is bad - Project Hosting on Google Code</title>   1.lunch chrome          see the chrome icone in the task bar (whith maybe the favicon in small) and   animation during the load of the page. Like the tab icone.        1 picture of the animation stay always. never change  never move.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30415 -   chromium -    Inaccessible download path crashes Chrome - Project Hosting on Google Code</title> <pre> 1. Set download path to some path on USB drive  2. Remove the drive.  3. Open download path (Ctrl-J)    Crash </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38499 -   chromium -    Memory error with malformed SVG - Project Hosting on Google Code</title> <pre> Attached is a svg file which crashes the tab in which it's open. From what  I see it's just a null pointer dereference but you might want to double  check that. Safari also crashes.    Tested on Chrome stable 4.1.249.1036 (41514) </pre>

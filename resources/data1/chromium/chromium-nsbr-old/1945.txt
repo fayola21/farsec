@@ -1,0 +1,1 @@
+<title>Issue 1945 -   chromium -    Alt + Down Arrow in Combo box doesnot drop down the option box - Project Hosting on Google Code</title>   1. Open any page which has drop down combo boxes   2. press Alt + &lt;down-arrow&gt;       The combo box must show the expanded list of options      Will select the immediately next option     Please provide

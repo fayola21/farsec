@@ -1,0 +1,1 @@
+Using $ in endpoint uri causes thread name parser to fail    See nabblehttp://camel.465427.n5.nabble.com/How-to-specify-route-to-folder-with-in-actual-name-tp2839895p2839895.html   

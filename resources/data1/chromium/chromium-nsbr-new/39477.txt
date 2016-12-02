@@ -1,0 +1,1 @@
+<title>Issue 39477 -   chromium -    Chrome crashes on start-up - Project Hosting on Google Code</title>   1.Open Google Chrome  2.Crashes          All my pages should be loaded.          Chrome crashes.    <b>Please provide

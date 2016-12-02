@@ -1,0 +1,1 @@
+<title>Issue 2678 -   chromium -    Downloads often not starting (when switching proxy configuration often) - Project Hosting on Google Code</title>   1. Download any file        File download completes      &quot;Download starting...&quot; 0B of XXKB    Please provide

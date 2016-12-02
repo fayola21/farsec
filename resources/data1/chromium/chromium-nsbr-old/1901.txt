@@ -1,0 +1,1 @@
+<title>Issue 1901 -   chromium -    Descargas - Project Hosting on Google Code</title>   1. Al cerrar el navegador  se cancelan las descargas       pasa que no te das cuenta que hay una descarga todav��__a en proceso y al   cerrar el navegador se cancelan y es un poco impractico que suceda eso.          Please provide

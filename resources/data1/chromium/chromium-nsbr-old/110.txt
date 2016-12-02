@@ -1,0 +1,1 @@
+<title>Issue 110 -   chromium -    clicking tab closes tab - Project Hosting on Google Code</title>   1. open several tabs  2. try to activate tab by left-clicking on it (not on 'close' cross)      tab is activated      tab closes = very annoying    Please provide

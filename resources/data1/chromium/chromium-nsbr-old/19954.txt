@@ -1,0 +1,1 @@
+<title>Issue 19954 -   chromium -    ICU triggers ICE when building for ARM on gcc-4.3 - Project Hosting on Google Code</title> <pre> The ICE has been reported.  To work around  build with -Os instead of -O2.    The attached patch makes this change to GYP for when target_arch=arm. </pre>

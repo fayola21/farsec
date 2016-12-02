@@ -1,0 +1,1 @@
+<title>Issue 26608 -   chromium -    Flash uses about 30 percent CPU when it has something scripted to follow the mouse - Project Hosting on Google Code</title>   1. The title is clear enough I think: Flash uses about 30 percent CPU when   it has something scripted to follow the mouse      Lower CPU usage      30% CPU usage    <b>Please provide

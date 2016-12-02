@@ -1,0 +1,1 @@
+<title>Issue 846 -   chromium -    Youtube video starts playing on grey screen with replay button in foreground - Project Hosting on Google Code</title>   1. open url with youtube video  2. click on video to play  3. video plays in background of grey screen  and you must click on replay   to view the video                Please provide

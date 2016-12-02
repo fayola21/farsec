@@ -1,0 +1,1 @@
+<title>Issue 39525 -   chromium -    Pinned Tab doenst Close - Project Hosting on Google Code</title>   1.Open 3 Tabs  2.Pin the first two  3.Right click on the second tab   4.Click &quot;Close Tab&quot;      The tab should close      The opacity changes and when youre left clicking on the second tab  it   reloads.    <b>Please provide

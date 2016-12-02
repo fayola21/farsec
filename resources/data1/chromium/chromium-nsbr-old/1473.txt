@@ -1,0 +1,1 @@
+<title>Issue 1473 -   chromium -    Problem with opening media files with Flash player or windows media player plugins - Project Hosting on Google Code</title>   1. try to speedup caching data so the player might start.             NO IDEA       NO IDEA    Please provide

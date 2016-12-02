@@ -1,0 +1,1 @@
+<title>Issue 26996 -   chromium -    2 BookmarkBarViewTest interactive ui tests failing - Project Hosting on Google Code</title> <pre> The following tests a re failing and have been disabled:  BookmarkBarViewTest1.Basic  BookmarkBarViewTest2.HideOnDesktopClick    They hang since the interactive ui tests are now running out of process. </pre>

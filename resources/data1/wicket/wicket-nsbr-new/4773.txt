@@ -1,0 +1,1 @@
+ComponentFeedbackPanel broken under Wicket 6.0.0 when RenderStrategy.REDIRECT_TO_RENDER    Test case created on github  see https://github.com/danhaywood/wicket-4773browse to http://localhost:8080/wicket-examples/forminput and follow the instructions.   

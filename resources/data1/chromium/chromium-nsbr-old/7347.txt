@@ -1,0 +1,1 @@
+<title>Issue 7347 -   chromium -    pictures missing  refresh brings them back - Project Hosting on Google Code</title>   1. goto www.mobile.de  2. enter some search parameters  3. see search result        page is displayed including pictures        pictures are missing    Please provide

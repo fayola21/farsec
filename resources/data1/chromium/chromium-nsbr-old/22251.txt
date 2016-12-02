@@ -1,0 +1,1 @@
+<title>Issue 22251 -   chromium -    scoped_nsobject::release() could be named better - Project Hosting on Google Code</title> <pre> From pink  in a code review:    i assume release() here doesn't actually call release  it just clears out the  ptr? What a terrible name :-) Can we fix it? </pre>

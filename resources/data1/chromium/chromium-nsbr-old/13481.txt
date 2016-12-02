@@ -1,0 +1,1 @@
+<title>Issue 13481 -   chromium -    ImporterLockDialogGtk ought to be modal - Project Hosting on Google Code</title> <pre> see call in ImporterHost:      ImportLockDialogGtk::Show(NULL  this); </pre>

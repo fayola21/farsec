@@ -1,0 +1,1 @@
+<title>Issue 45628 -   chromium -    Window does not maximize correctly - Project Hosting on Google Code</title>   1. Maximizing google chrome.        Window fills screen fully.      A border is left on the top and right side.    <b>Please provide

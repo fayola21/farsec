@@ -1,0 +1,1 @@
+<title>Issue 9908 -   chromium -    Full Screen? That's so Cool: Oops Where Did the Address Bar Go? - Project Hosting on Google Code</title>   1.Press F11 for Full screen  2.Hold-down Ctrl then press L        Cursor jumps to address bar      Nothing. No address bar for Full screen mode? That is so not cool dude    EOM    <b>Please provide

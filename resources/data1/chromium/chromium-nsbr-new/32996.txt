@@ -1,0 +1,1 @@
+<title>Issue 32996 -   chromium -    Cocoa events are never sent NPCocoaEventMouseDragged - Project Hosting on Google Code</title> <pre> Currently we send NPCocoaEventMouseMoved when a button is down; it   should be NPCocoaEventMouseDragged in that case. </pre>

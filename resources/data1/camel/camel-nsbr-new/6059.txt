@@ -1,0 +1,1 @@
+camel-rss and camel-atom - Not installable in Karaf    karaf@root&gt; features:install camel-rssError executing command: Manifest not present in the first entry of the zip mvn:org.apache.ws.commons.axiom/axiom-impl/1.2.14I think we got a JAR that is flawed 1.2.14   

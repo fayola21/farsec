@@ -1,0 +1,1 @@
+<title>Issue 1653 -   chromium -    Saving the webpage - Project Hosting on Google Code</title>   1. By hitting the Ctrl + S  the user must be able to save the page  rather   than selecting from Menu.          Saving the webpage with shortcut.          Please provide

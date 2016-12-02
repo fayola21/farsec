@@ -1,0 +1,1 @@
+<title>Issue 42179 -   chromium -    HTML 5 input type not supported - Project Hosting on Google Code</title>   1. Go to <a href="http://miketaylr.com/code/html5-forms-ui-support.html">http://miketaylr.com/code/html5-forms-ui-support.html</a>      HTML 5 inputs should show a calendar to select date      You can only select date by typing text    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 5305 -   chromium -    DCHECK hit when typing in omnibox - Project Hosting on Google Code</title> <pre>   1. Create a bookmark with the title &quot;foo bar&quot;  2. Type the text in the omnibox bar foo          No DCHECK!     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12003 -   chromium -    patterned stroked text layout test broken by skia r171 - Project Hosting on Google Code</title> <pre> This layout test was broken by skia <a href="/p/chromium/source/detail?r=171">r171</a>  and seems to be related to patterns   on stroked text:    WIN : LayoutTests/svg/custom/js-late-gradient-and-object-creation.svg = FAIL </pre>

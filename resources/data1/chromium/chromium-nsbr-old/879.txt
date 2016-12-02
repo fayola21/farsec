@@ -1,0 +1,1 @@
+<title>Issue 879 -   chromium -    Chrome doesn't use the selected language - Project Hosting on Google Code</title>   1. Change Chromium language settings.  2. Restart Chromium.        Chromium should use the selected language.      Chromium doesn't the use the language that was selected even though it   shows the selected language in the language options.    Please provide

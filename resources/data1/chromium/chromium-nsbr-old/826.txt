@@ -1,0 +1,1 @@
+<title>Issue 826 -   chromium -    Tabbing between two chat windows inside of gmail doesn't work - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27              Firefox 3: OK           IE 7: OK      1. login to gmail using chrome  2. open two chat windows inside gmail  3. In firefox and IE  tab switches between chats  in chrome it doesn't   </pre>

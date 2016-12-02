@@ -1,0 +1,1 @@
+<title>Issue 13641 -   chromium -    Regression: repositioning of tab causes tab to detach - Project Hosting on Google Code</title>   1. Open two tabs in Chrome  2. Drag the 1st tab to the right of the 2nd tab to re-position        Tabs are re-positioned      tab is detached from the window    <b>Please provide

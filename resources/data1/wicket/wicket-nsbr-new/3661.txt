@@ -1,0 +1,1 @@
+IHeaderResponse.renderJavaScriptReference does not support the 'defer' attribute    It would allow some nice optimization to allow to add script tags with a defer attribute like :&lt;script type='text/javascript' defer='true' src='myScript.js'&gt;&lt;/script&gt;I do not see any way to add the defer attribute right now.   

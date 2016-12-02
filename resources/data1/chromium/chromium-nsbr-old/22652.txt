@@ -1,0 +1,1 @@
+<title>Issue 22652 -   chromium -    Dropdown lists do not close after selecting a value - Project Hosting on Google Code</title>   1. Navigate to a page that has a dropdown list.  2. Select a value.      The dropdown list should close after selecting a value.      The dropdown list stays open.      <b>Please provide

@@ -1,0 +1,1 @@
+need to test getting appropriate error message when os files are read-only    We don't currently have a way to test what happens when a database is on read-only media (e.g. a cd  floppy).Without user involvement (i.e. inserting a disk somewhere etc) it's hard to fully test  but a test that simulates this by making the files on the OS read-only would give some coverage.   

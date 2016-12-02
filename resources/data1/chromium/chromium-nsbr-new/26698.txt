@@ -1,0 +1,1 @@
+<title>Issue 26698 -   chromium -    Pinned thumbnails should not be removed when browsing history is deleted. - Project Hosting on Google Code</title> <pre> A pinned thumbnail functions as a bookmark  and should therefore not be   deleted when browsing history is deleted.  Right now  the pinned titles   remain  but the images are removed.  This should be fixed.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7691 -   chromium -    Res-independent Sad Tab graphic? - Project Hosting on Google Code</title> <pre> Right now the Sad Tab image is a PNG file. Do we want to make a  resolution-independent version?    Pro:  - Will look good.  Con:  - Ruins the homage to the Sad Mac. </pre>

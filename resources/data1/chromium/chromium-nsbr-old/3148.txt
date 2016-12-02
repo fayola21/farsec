@@ -1,0 +1,1 @@
+<title>Issue 3148 -   chromium -    Chrome uses legacy xp save file dialog on vista - Project Hosting on Google Code</title>   1. Click on image  save file as  2. It shows the old dialog    Correct dialog in  ff3 attached first  and chrome dialog attached.                    Please provide

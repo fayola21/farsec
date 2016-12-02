@@ -1,0 +1,1 @@
+<title>Issue 11379 -   chromium -    Black Background in CSS-predefined &lt;select&gt; box - Project Hosting on Google Code</title>   1. If you add a background-image to a normal &lt;select&gt; box in a HTML   document  there will be a black background instead of the picture.      There should be a background-image.      There was just a black background.    <b>Please provide

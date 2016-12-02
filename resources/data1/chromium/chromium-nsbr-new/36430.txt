@@ -1,0 +1,1 @@
+<title>Issue 36430 -   chromium -    cannot update from 3.0.195.38 to newer - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.38  update cannot happen on about menu and show like attacment    can help me?    Thank you    Best regards  Ali Andriana </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45749 -   chromium -    Adjust shadow on active vs. background tabs - Project Hosting on Google Code</title> <pre> Glen made some comment about wanting to reduce the shadow on foreground tabs   vs. background tabs. Affects Windows+Linux. </pre>

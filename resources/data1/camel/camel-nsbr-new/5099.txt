@@ -1,0 +1,1 @@
+Timer component - Should use thread name pattern so the thread name is aligned with the Camel threads    When using the timer component  the thread name will just be the timer name.Before2012-03-16 09:28:42 857 [foo ] INFO route1 - Fired timerAfter2012-03-16 09:28:18 611 [Camel (camel-1) thread #0 - foo ] INFO route1 - Fired timer   

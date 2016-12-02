@@ -1,0 +1,1 @@
+<title>Issue 22663 -   chromium -    Select Listbox Unusable - Project Hosting on Google Code</title>   1. Click on the listbox  2. Do not click on an item  3. Click on the listbox again    Alternatively    1. Double Click the list box        List opens        After clicking on the list twice it will not reopen      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32885 -   chromium -    Uncheck XP Mode box - Project Hosting on Google Code</title>                 What happens instead? When I unchecked the &quot;Run in XP Mode&quot; on the .exe   properties screen all worked well.      <b>Please provide

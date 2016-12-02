@@ -1,0 +1,1 @@
+<title>Issue 41656 -   chromium -    Don't expand the first profile in the AutoFill dialog - Project Hosting on Google Code</title> <pre> Go to Wrench &gt; Options &gt; Personal Stuff &gt; Change AutoFill settings    Say suppose some profiles exists and all of them are in collapsed state.   Reopening the dialog should show show in that state. </pre>

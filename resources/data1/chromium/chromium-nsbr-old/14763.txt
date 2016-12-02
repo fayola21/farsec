@@ -1,0 +1,1 @@
+<title>Issue 14763 -   chromium -    Color status bubble according to theme. - Project Hosting on Google Code</title> <pre> Status bubble now has a hardcoded color; color should reflect current theme. </pre>

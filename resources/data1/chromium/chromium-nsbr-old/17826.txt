@@ -1,0 +1,1 @@
+<title>Issue 17826 -   chromium -    add a InProcessBrowserTest for extensions auto-update - Project Hosting on Google Code</title> <pre>   This should actually cause an update to happen on a running extension  and   then verify that things are working properly afterwards.      </pre>

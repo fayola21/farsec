@@ -1,0 +1,1 @@
+<title>Issue 34606 -   chromium -    Movinmg around extension buttons is reverse! - Project Hosting on Google Code</title>   1. Try to drag left/right some extension buttons while using an RTL locale.      They are supposed to move in the direction you move them.      They move in the opposite direction to which I drag the mouse cursor.    <b>Please provide

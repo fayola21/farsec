@@ -1,0 +1,1 @@
+<title>Issue 12213 -   chromium -    multiple &quot;unable to verify certificate&quot; infobars - Project Hosting on Google Code</title> <pre> On Sundar's computer  it's possible to get dozens of SSL error infobars   stacked up when he navigates quickly within gmail. We should only show one   infobar at a time  especially for the same error.   </pre>

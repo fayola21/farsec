@@ -1,0 +1,1 @@
+<title>Issue 35682 -   chromium -    application extension in windows 7 taskbar two icons appear - Project Hosting on Google Code</title>   1.  Add application extension  2.  Pin to the windows 7 taskbar  3.  Open said application      A square appears around the icon for the application extension      Another icon appears on the windows 7 taskbar    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26659 -   chromium -    Produce a &quot;terse&quot; output mode for run_webkit_tests - Project Hosting on Google Code</title> <pre> It would be nice if run_webkit_tests had a much terser and more  intelligible output mode.     I'm opening this bug to track the idea and post some suggestions. If people  like it  perhaps this can even be the default.   </pre>

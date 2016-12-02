@@ -1,0 +1,1 @@
+<title>Issue 38488 -   chromium -    Update server not available (error: 12) - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 'about:version'&gt;  Mac OS X 10.6.2  Running Google Chrome 5.0.307.11 beta      Click Chrome Menu/ About Google Chrome/ Update Now      Chrome updates      Update server not available (error: 12)   </pre>

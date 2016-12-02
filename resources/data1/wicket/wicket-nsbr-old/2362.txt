@@ -1,0 +1,1 @@
+Update hungarian localization    The hungarian translation has some encoding-problem for a long time and there are missing keys from it (like pagingnavigator). I will attach soon a better  fixed localization file. Please accept it in the next release.   

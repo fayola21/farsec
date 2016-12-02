@@ -1,0 +1,1 @@
+Allow passing custom AjaxChannel in AjaxLazyLoadPanel    Can LAZY_LOAD_COMPONENT_ID be public? Sometimes id is needed beforehand. AjaxLazyLoadPanel uses anonymous AbstractDefaultAjaxBehavior  so AjaxChannel cannot be easily overridden. Is it possible to introduce AjaxLazyLoadPanel#getChannel()?   

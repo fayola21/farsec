@@ -1,0 +1,1 @@
+<title>Issue 29752 -   chromium -    OOM killer kills browser process when renderer eats too much memory - Project Hosting on Google Code</title> <pre> thestig observed this in the wild.  Is this what we expect to normally   happen?  Is there some way we can convince the kernel to kill the renderer?    Can we set ulimits? </pre>

@@ -1,0 +1,1 @@
+link to camel registry in camel-stax is missing       

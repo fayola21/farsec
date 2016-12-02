@@ -1,0 +1,1 @@
+<title>Issue 17157 -   chromium -    onbeforeunload not called at window close + frame or iframe focused - Project Hosting on Google Code</title>   1. open a page with a frameset or an iframe  2. focus the frame  3. close the window      onbeforeunload should be executed.      onbeforeunload is not executed.    <b>Please provide

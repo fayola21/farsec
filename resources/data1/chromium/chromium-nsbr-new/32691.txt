@@ -1,0 +1,1 @@
+<title>Issue 32691 -   chromium -    Flaky svg/batik/text/textEffect.svg - Project Hosting on Google Code</title> <pre> MAC DEBUG : svg/batik/text/textEffect.svg = TEXT PASS </pre>

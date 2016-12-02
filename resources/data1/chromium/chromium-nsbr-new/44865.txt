@@ -1,0 +1,1 @@
+<title>Issue 44865 -   chromium -    Auto-zooming images in a frame - Project Hosting on Google Code</title> <pre> When you look at an image with Chrome  it auto-zooms-out to fit to the window. It would be nice if   that also worked when an image is the only thing in a frame  like in this case:   <a href="http://www.reddit.com/tb/c7692">http://www.reddit.com/tb/c7692</a> </pre>

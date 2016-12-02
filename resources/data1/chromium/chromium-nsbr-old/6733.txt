@@ -1,0 +1,1 @@
+<title>Issue 6733 -   chromium -    V8 should treat infinity as 0 - Project Hosting on Google Code</title> <pre> The layout test LayoutTests/fast/js/numeric-conversion.html  has two cases for parseInt(-Infinity) and parseInt(Infinity) which we parse   as NaN  but the test expects to be 0. </pre>

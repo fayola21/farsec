@@ -1,0 +1,1 @@
+SignInPanel may lead to infinite redirects if there is rememberMe cookie with outdated data    quickstart4.zip from WICKET-3991 shows that having outdated 'RememberMe' data in the cookie may lead to infinite loop: SignInPanel#onBeforeRender() -&gt; signIn(oldCredentials) -&gt; go to SignInPage -&gt; try to load SignInPanel again.   

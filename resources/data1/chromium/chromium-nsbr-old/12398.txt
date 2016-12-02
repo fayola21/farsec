@@ -1,0 +1,1 @@
+<title>Issue 12398 -   chromium -    Gmail Extention - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.181.1    I've installed Gmail extention in last version  in this one  it just crash   chrome.   </pre>

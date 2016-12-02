@@ -1,0 +1,1 @@
+<title>Issue 7027 -   chromium -    bank services wont open after login  - Project Hosting on Google Code</title>   1. login to bank service says browser wont support jackBe          bank services page      login to bank service says browser wont support jackBe and gives a blank   page    Please provide

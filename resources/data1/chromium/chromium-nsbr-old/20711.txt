@@ -1,0 +1,1 @@
+<title>Issue 20711 -   chromium -    tab close box should have more spacing from tab text - Project Hosting on Google Code</title> <pre> - open a tab with a long name  - hover over the close X    expected:  - no overlap of hover circle and text    Actual:  - hover circle almost overlaps text.    We need more spacing there so it doesn't look so cramped. </pre>

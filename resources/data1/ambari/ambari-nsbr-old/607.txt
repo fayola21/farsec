@@ -1,0 +1,1 @@
+Increase puppet timeouts to handle single-node installs timing out       

@@ -1,0 +1,1 @@
+<title>Issue 2190 -   chromium -    How to find issues with stars greater than 1 ? - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (1798)    What search parameters or URL query can I use to find all Chromium issues   that have more than one star?    I know you can do       stars:2 3 4 5 6 7 8 9  but how about the general question &gt;1 ? </pre>

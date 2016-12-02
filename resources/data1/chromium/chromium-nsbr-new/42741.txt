@@ -1,0 +1,1 @@
+<title>Issue 42741 -   chromium -    chrome://net-internals should have better error messages - Project Hosting on Google Code</title> <pre> This is for Linux only      1. Set http_proxy to something bogus  2. Go to chrome://net-internals          EXPECTED: Some error that says &quot;your proxy is bogus&quot;    ACTUAL: No error  silently ignored.   </pre>

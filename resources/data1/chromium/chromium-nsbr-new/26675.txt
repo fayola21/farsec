@@ -1,0 +1,1 @@
+<title>Issue 26675 -   chromium -    Drop down lists not displaying options - Project Hosting on Google Code</title>   1. Select drop down arrow from one of the digit fields        2. Should show options 0 to 9        3. Shows '*' instead for each digit (which it should once selected  but not   before)    <b>Please provide

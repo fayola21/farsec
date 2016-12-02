@@ -1,0 +1,1 @@
+renderCSSReference doesn't work with mountPage('/')    response.renderCSSReference(new PackageResourceReference(BasePage.class  'BasePage.css'));will correctly render the css reference if the page is not mounted or if it is mounted to a location other than '/'. However if I mount the page to '/' using WebApplication.mountPage() then the css reference doesn't work.   

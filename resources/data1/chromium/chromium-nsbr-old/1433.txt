@@ -1,0 +1,1 @@
+<title>Issue 1433 -   chromium -    Get chromium to compile on Visual Studio 2008 Express  - Project Hosting on Google Code</title> <pre> Getting chromium to compile on a free IDE  such as the VS Express editions   or perhaps some form of eclipse would garner more additional developers.    --Robin </pre>

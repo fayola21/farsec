@@ -1,0 +1,1 @@
+<title>Issue 44851 -   chromium -    When I view an image only  it is drastically scaled up. - Project Hosting on Google Code</title>   1. Go to wikipedia  2. Click a raster image  3. View the full size image        The image will be displayed at its actual size  or if it will not fit  then   it will be scaled down.        All raster images are scaled up.    <b>Please provide

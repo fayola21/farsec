@@ -1,0 +1,1 @@
+<title>Issue 1493 -   chromium -    BSOD when using Chome - Project Hosting on Google Code</title>   1. Chrome crashes very often.  2. Thrice it has crashed my system.        Stablility      System Crash    Please provide

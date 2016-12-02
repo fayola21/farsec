@@ -1,0 +1,1 @@
+<title>Issue 9418 -   chromium -    Control-click doesn't show context menu - Project Hosting on Google Code</title> <pre> Right-clicking in the content area will show the context menu  but control-clicking does not. We   need to support both. There's probably some ifdef in WebCore we need to set. </pre>

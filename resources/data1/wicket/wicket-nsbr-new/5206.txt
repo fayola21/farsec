@@ -1,0 +1,1 @@
+Provide default messages for upload exceptions    Error message keys for upload exceptions are prefixed with the form's markup id currently. If we let the Localizer do this  Wicket can provide default messages for different locales.   

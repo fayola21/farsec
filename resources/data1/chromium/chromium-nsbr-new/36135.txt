@@ -1,0 +1,1 @@
+<title>Issue 36135 -   chromium -    Automatic scripts cleanup - Project Hosting on Google Code</title> <pre> When gclient sync fails on &quot;update scripts&quot; step  it should have a   d.addErrback(&quot;gclient cleanup &amp;&amp; gclient sync&quot;) </pre>

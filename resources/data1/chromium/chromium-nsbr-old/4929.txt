@@ -1,0 +1,1 @@
+<title>Issue 4929 -   chromium -    Right-click options missing - Project Hosting on Google Code</title> <pre> Google Chrome (version 0.4.154.25) lacks many right-click options.  Including - 1. Stop. 2. Bookmark This Page. 3. Send Link. 4. Select All.  5. Save as should be changed to Save Page As.  These features are convenient  important and are desperately needed. </pre>

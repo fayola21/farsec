@@ -1,0 +1,1 @@
+<title>Issue 21292 -   chromium -    Bad pixel - Project Hosting on Google Code</title> <pre> Version: 3.0.195.17      0. Install glow theme  1. Open the NNTP  2. See a white pixel on the upper left corner        No pixel </pre>

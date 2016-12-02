@@ -1,0 +1,1 @@
+<title>Issue 26911 -   chromium -    Concatenate JS sources of DevTools in Release mode - Project Hosting on Google Code</title> <pre> Inspector does concatenate all JS source files into one big file in Release build   mode to speed up loading. We should do the same. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44641 -   chromium -    Make bookmarks available in Spotlight for Mac. - Project Hosting on Google Code</title> <pre> I'd love to be able to search my bookmarks using Spotlight and launch sites from there. </pre>

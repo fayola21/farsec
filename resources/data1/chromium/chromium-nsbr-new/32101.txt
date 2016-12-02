@@ -1,0 +1,1 @@
+<title>Issue 32101 -   chromium -    Allow resizing of browser actions container - Project Hosting on Google Code</title> <pre> The Browser actions container needs to be sizable and its content should   support reordering. </pre>

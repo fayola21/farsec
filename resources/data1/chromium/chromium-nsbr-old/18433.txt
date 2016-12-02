@@ -1,0 +1,1 @@
+<title>Issue 18433 -   chromium -    Cannot seek backwards after end of video - Project Hosting on Google Code</title> <pre>   1. Play video until the end (you can seek there if you want)  2. Try to seek backwards  pause + play...nothing will work.      It should seek backwards and play. It doesn't.   </pre>

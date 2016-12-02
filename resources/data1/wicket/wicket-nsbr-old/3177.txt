@@ -1,0 +1,1 @@
+Chunk.slice seq.subList(pos  pos) returns empty list so why bother    In the method Chuck.splice when count &lt;= 0 the following code is exectued:return new ArrayList&lt;T&gt;(seq.subList(pos  pos));Well  seq.subList(pos  pos) returns an empty list so you might want tochange the line to be something like:return new ArrayList&lt;T&gt;();   

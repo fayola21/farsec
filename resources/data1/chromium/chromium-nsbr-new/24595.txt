@@ -1,0 +1,1 @@
+<title>Issue 24595 -   chromium -    Move Autofill related methods into the WebKit API - Project Hosting on Google Code</title> <pre> Move Autofill related methods into the WebKit API    This task includes moving the following:    From WebView:    AutofillSuggestionsForNode    HideAutofillPopup    From WebViewDelegate:    QueryFormFieldAutofill    RemoveStoredAutofillEntry </pre>

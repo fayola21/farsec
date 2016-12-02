@@ -1,0 +1,1 @@
+<title>Issue 22427 -   chromium -    Chromium always creates &quot;Downloads&quot; folder - Project Hosting on Google Code</title>   1. Set downloads folder to your liking  except ~/Downloads  2. Close all Chromium instances.  3. Remove ~/Downloads folder  4. Run Chromium      No existing ~/Downloads directory      ~/Downloads directory is created    <b>Please provide

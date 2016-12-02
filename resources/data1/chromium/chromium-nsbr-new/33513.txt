@@ -1,0 +1,1 @@
+<title>Issue 33513 -   chromium -    Gmail add cc/bcc - Project Hosting on Google Code</title>   1. Open gmail.com  2. Compose a message  3. Attempt to add a cc/bcc recipient        A field to add a cc/bcc recipient should appear.        The &quot;Add cc&quot; or &quot;Add bcc&quot; text disappears    <b>Please provide

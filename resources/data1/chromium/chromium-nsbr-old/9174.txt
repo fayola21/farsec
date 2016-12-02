@@ -1,0 +1,1 @@
+<title>Issue 9174 -   chromium -    Can not display Japanese properly  possibly other languages. - Project Hosting on Google Code</title>   1. just go this site.          Site should display every letters accurately like with other browsers.      This is drupal site. Title and headline do not display Japanese. Contents   are OK.    <b>Please provide

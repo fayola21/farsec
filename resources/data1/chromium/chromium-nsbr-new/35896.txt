@@ -1,0 +1,1 @@
+<title>Issue 35896 -   chromium -    Helvetica italic display problem in Snow Leopard - Project Hosting on Google Code</title>   1.Load a page using Helvetica italic          Readable type        Boxes with the letter A in them.    <b>Please provide

@@ -1,0 +1,1 @@
+Dependencies should be added only during install phase    Host level dependencies are being set in running stage as well  which is redundant. It can be assumed that dependencies were installed at install stage.   

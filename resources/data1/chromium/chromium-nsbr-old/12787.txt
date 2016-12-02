@@ -1,0 +1,1 @@
+<title>Issue 12787 -   chromium -    TEXT ZOOM - Project Hosting on Google Code</title> <pre> Please add TEXT ZOOM to ver 2. I'm still using 1 because of this feature. </pre>

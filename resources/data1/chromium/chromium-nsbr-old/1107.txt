@@ -1,0 +1,1 @@
+<title>Issue 1107 -   chromium -    Chrome is mis-interpreting the javascript window.resizeBy command - Project Hosting on Google Code</title>   1. Use the window.resizeBy javascript method   2. The y-axis of the window is more reduced than expected                  Please provide

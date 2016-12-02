@@ -1,0 +1,1 @@
+HazelcastComponent.doStop bombing out    I am setting up an own hazelcast instance on HazelcastComponent  it is created by Spring the problem is when HazelcastComponent.doStop is called  a NullPointerException is throw  becausecreateOwnInstance is null.   

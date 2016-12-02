@@ -1,0 +1,1 @@
+<title>Issue 3784 -   chromium -    task manager can show black square for favicons - Project Hosting on Google Code</title> <pre> Control-click on a download link and bring up the task manager. Notice the   favicon is shown as a black square. </pre>

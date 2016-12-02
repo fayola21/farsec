@@ -1,0 +1,1 @@
+BaseWicketTester doesn't invoke Application.newAjaxRequestTarget for ajax request target    When the BaseWicketTester creates a new ajax request target  it does not invoke the application but creates one by itself. This makes it impossible to use the tester when application-specific ajax request target subclassing is used.   

@@ -1,0 +1,1 @@
+<title>Issue 28723 -   chromium -    It Freezes! - Project Hosting on Google Code</title>   1. Generally Using Google Chrome          Normal Usage of Google Chrome       Whole Computer freezes    <b>Please provide

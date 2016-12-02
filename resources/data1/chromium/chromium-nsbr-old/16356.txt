@@ -1,0 +1,1 @@
+<title>Issue 16356 -   chromium -    Removed deprecated APIs at launch - Project Hosting on Google Code</title> <pre> Replaced by chrome.extension.onConnect.  Remove the 'self' version before we   release. </pre>

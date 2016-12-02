@@ -1,0 +1,1 @@
+<title>Issue 7710 -   chromium -    -webkit-border-radius does not accept em values greater than 0.7em - Project Hosting on Google Code</title>   1. Set the -webkit-border-radius to a value greater than 0.7em (e.g. 1em)      Maximally rounded corners.      Square corners.    Please provide

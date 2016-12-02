@@ -1,0 +1,1 @@
+<title>Issue 26973 -   chromium -    Implement Gtk ExtensionInstalledBubble - Project Hosting on Google Code</title> <pre> Install an extension. No feedback bubble! </pre>

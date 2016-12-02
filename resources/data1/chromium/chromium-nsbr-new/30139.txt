@@ -1,0 +1,1 @@
+<title>Issue 30139 -   chromium -    Dutch: Minimize menu title should be &quot;Minimaliseer&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Minimize menu item in the menu Venster is localized as &quot;Minimaliseren&quot;.   The correct localization on the Mac is &quot;Minimaliseer&quot;. </pre>

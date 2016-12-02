@@ -1,0 +1,1 @@
+<title>Issue 34234 -   chromium -    Impossible to shut down the browser - Project Hosting on Google Code</title> <pre> In the 32-bit version  of Linux of Google Chrome  after a long  browser work    it stops responding to user actions and can not finish it's work (only if you   kill the process) </pre>

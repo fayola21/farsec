@@ -1,0 +1,1 @@
+FileUpload.writeToTempFile uses field Id as filename - Windows doesn't support some characters    The component FileUpload tries to create a temporary file using the multipart fieldname's id.That id has invalid characters - not supported on Windows environments  for example.   

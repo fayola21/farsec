@@ -1,0 +1,1 @@
+<title>Issue 1615 -   chromium -    Download/Scrolling Bug - Project Hosting on Google Code</title> <pre> Product Version      : Beta              Firefox 3: Working           IE 7: Working    Bug: I  cannot scroll with clicking the mouse wheel and move it up and down   please fix the problem. </pre>

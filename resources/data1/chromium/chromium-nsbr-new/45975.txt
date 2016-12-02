@@ -1,0 +1,1 @@
+<title>Issue 45975 -   chromium -    Theme Gallery has wrong language defined  causing the translate toolbar to appear - Project Hosting on Google Code</title> <pre>   1. Start with a non-en_us locale with a fresh new install  2. Directly go visit the theme gallery  3. wait 5 seconds      The translate toolbar appears even if it shouldn't. See attached screen shot.   </pre>

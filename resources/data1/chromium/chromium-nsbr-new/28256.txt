@@ -1,0 +1,1 @@
+<title>Issue 28256 -   chromium -    crashes computer - Project Hosting on Google Code</title>   1. multiple tabs openned..after 5        What is the expected result? website in each tab should work as they   should.        locks up the computer  cant open or close other programs. must restart    <b>Please provide

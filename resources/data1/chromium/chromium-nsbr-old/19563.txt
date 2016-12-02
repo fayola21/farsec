@@ -1,0 +1,1 @@
+<title>Issue 19563 -   chromium -    Gotfrag.com: misaligned list items - Project Hosting on Google Code</title>   1. Go to <a href="http://www.gotfrag.com/portal/home/">http://www.gotfrag.com/portal/home/</a>  2. look at the links in the top right corner      They should be aligned      There is a 2px overlap and a misalign.    <b>Please provide

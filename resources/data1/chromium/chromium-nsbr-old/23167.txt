@@ -1,0 +1,1 @@
+<title>Issue 23167 -   chromium -    Performance problem - Project Hosting on Google Code</title> <pre> Chrome 4.0.219.3 27181    I have performance problem with this site:  <a href="http://www.thebeautifulmovie.com/">http://www.thebeautifulmovie.com/</a> </pre>

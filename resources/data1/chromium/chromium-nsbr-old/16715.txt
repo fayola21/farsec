@@ -1,0 +1,1 @@
+<title>Issue 16715 -   chromium -    Need to filter unreadable fonts from fontconfig results - Project Hosting on Google Code</title> <pre> Fontconfig will return fonts which are unreadable. </pre>

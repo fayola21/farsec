@@ -1,0 +1,1 @@
+<title>Issue 5962 -   chromium -    margin-bottom: 1em is causing text to overlap with images - Project Hosting on Google Code</title>   1. Load URL  2. Scroll down  3. Observe text overlaps images #6  #8  #16  and #29      text should be beside image      text overlaps image    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 33895 -   chromium -    Picasa mobile show on regular Chrome - Project Hosting on Google Code</title>   1. click on albumy picasa  2. Picasa is reconising this browser like web browser  and show me mobile   wersion of this...              After logging Picasa show me mobile version...      <b>Please provide

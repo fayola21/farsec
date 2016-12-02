@@ -1,0 +1,1 @@
+<title>Issue 29101 -   chromium -    download shelf close button essentially invisible with dark themes - Project Hosting on Google Code</title> <pre> on linux  install mariah carey  you can't see the close button on the   download shelf. On windows  it shows up as a little grey X (not the best of   all possible worlds  but passable). </pre>

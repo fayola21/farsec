@@ -1,0 +1,1 @@
+<title>Issue 20156 -   chromium -    input type=text style 'read/write' - Project Hosting on Google Code</title>   1. wrong values on unstyled input element via window.getComputedStyle  2. width set ignores padding/border/margin          see jpg              <b>Please provide

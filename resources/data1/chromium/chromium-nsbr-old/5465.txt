@@ -1,0 +1,1 @@
+<title>Issue 5465 -   chromium -    Recently closed tabs should show closed windows/tabs from crash - Project Hosting on Google Code</title> <pre> On startup the new tab page shows tabs/windows that were previously closed.   It should also show any tabs/window that were open and chrome crashed. </pre>

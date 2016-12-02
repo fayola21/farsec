@@ -1,0 +1,1 @@
+<title>Issue 20065 -   chromium -    Rounded corners with -webkit-border-radius looks ugly - Project Hosting on Google Code</title>   1. Use &quot;-webkit-border-radius&quot; element  2. Observe that Google Chrome renders border-radius bad.      Smooth rounded corners without any problem      Bad rounded corners     <b>Please provide

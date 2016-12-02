@@ -1,0 +1,1 @@
+<title>Issue 20902 -   chromium -    Can't reorder tabs in Chromium - Project Hosting on Google Code</title>   1. Open a new Chromium window.  2. Open a new tab in the window so that there are multiple tabs.  3. Try to drag the tab to change the order  and it will just pop out into a   new window.                  <b>Please provide

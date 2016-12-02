@@ -1,0 +1,1 @@
+<title>Issue 36972 -   chromium -    Task bar  and Menu bar not visible when chrome browser  is active. - Project Hosting on Google Code</title>   1. On Mac OS X. Open Chrome browser.  2. Open any website   3. You will notice that Menu bar / Task bar is not visible                <b>Please provide

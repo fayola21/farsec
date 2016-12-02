@@ -1,0 +1,1 @@
+<title>Issue 2093 -   chromium -    Need richer history viewing interface - Project Hosting on Google Code</title>   1. View History (Control H)  2. Note that can only delete by day  no ability to delete one off entries  3. Also no ability to set History settings  how long to keep etc?                Please provide

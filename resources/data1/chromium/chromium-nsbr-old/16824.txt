@@ -1,0 +1,1 @@
+<title>Issue 16824 -   chromium -    DevTools: Inspect element action in status does not work - Project Hosting on Google Code</title> <pre> 1. Click on a lens in the status bar of the DevTools window.  2. Click on any element of the inspected page    Expected: element is selected in the DevTools window  Actual: nothing happens.   </pre>

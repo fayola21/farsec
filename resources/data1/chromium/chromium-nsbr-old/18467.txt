@@ -1,0 +1,1 @@
+<title>Issue 18467 -   chromium -    Not starting in Vista 32-bit. - Project Hosting on Google Code</title> <pre> Latest dev channel update immediately crashes upon starting  and asks if I   would like to restart it.  I had played around with the new themes  and then   after closing the browser  it wouldn't restart.  August 4  2009 at 11:06 PM </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41842 -   chromium -    Copy/paste from Chrome into PowerPoint fails on Mac - Project Hosting on Google Code</title>   1. In Chrome  click in the location bar  select all  copy (Cmd-C)  2. In Powerpoint  paste (Cmd-V)          URL gets pasted        Nothing (or empty string gets pasted)    <b>Please provide

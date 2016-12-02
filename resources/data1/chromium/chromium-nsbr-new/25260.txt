@@ -1,0 +1,1 @@
+<title>Issue 25260 -   chromium -    need html dialog view (linux) - Project Hosting on Google Code</title> <pre> we need an equivalent for views/html_dialog_view.* on linux. It is needed   for sync. </pre>

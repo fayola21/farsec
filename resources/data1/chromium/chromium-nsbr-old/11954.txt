@@ -1,0 +1,1 @@
+<title>Issue 11954 -   chromium -    applet legacy_lifecycle parameter not working - Project Hosting on Google Code</title>   1. Run an applet with parameter &quot;legacy_lifecycle&quot; set to true  2. Navigate away from the page and then back to it      The applet should keep running in the background.      The applet restarts    <b>Please provide

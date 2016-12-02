@@ -1,0 +1,1 @@
+<title>Issue 10047 -   chromium -    Command-W closes tab behind about dialog box - Project Hosting on Google Code</title> <pre> If I have it open and hit command-W  the tab behind the about dialog box   closes. On safari  the about dialog box would close (not the tab behind the   dialog).   </pre>

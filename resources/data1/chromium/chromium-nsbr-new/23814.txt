@@ -1,0 +1,1 @@
+<title>Issue 23814 -   chromium -    Most of the shapes in Google Documents Drawings can't be manually created - Project Hosting on Google Code</title>   1. Open a new Google Document (Word type)  2. Insert a drawing  3. Try drawing some basic shapes (rectangle  circle  ...)      Should see the selected shape      nothing is drawn    <b>Please provide

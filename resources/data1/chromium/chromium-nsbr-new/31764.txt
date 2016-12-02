@@ -1,0 +1,1 @@
+<title>Issue 31764 -   chromium -    New application icon is created in the Windows 7 taskbar When Chrome is launched. - Project Hosting on Google Code</title>   1. Launch the browser          The pinned icon in the windows 7 taskbar should highlight.      A new icon is created for chrome and highlighted instead of the pinned   application icon.    <b>Please provide

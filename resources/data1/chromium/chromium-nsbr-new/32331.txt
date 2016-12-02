@@ -1,0 +1,1 @@
+<title>Issue 32331 -   chromium -    cmd-opt-b should dismiss window if it's the main window - Project Hosting on Google Code</title> <pre> cmd-opt-L in safari behaves like that  and the activity viewer in mail too iirc </pre>

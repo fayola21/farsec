@@ -1,0 +1,1 @@
+<title>Issue 27766 -   chromium -    &quot;Bookmark Sync&quot; header shouldn't have colon on Linux - Project Hosting on Google Code</title> <pre> I missed creating a version of the &quot;Bookmark Sync:&quot; header's string without   a colon when I was fixing <a title="menu capitalization" class=closed_ref href="/p/chromium/issues/detail?id=24701"> issue 24701 </a>. </pre>

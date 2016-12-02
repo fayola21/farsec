@@ -1,0 +1,1 @@
+Give StringValue toEnum methods    In 1.4  Resources had a ValueMap as parameters  which had among other methods #getAsEnum. In 1.5  PageParameters are used instead  and the StringValues used here have all kinds of toSomething methods  but nothing for enums. I propose adding these for completeness.   

@@ -1,0 +1,1 @@
+<title>Issue 3080 -   chromium -    remove GetCurrentDirectory and SetCurrentDirectory if possible - Project Hosting on Google Code</title> <pre> From b/1312910 :  These functions are notoriously problematic and are only used in a few   places anyway.     </pre>

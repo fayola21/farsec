@@ -1,0 +1,1 @@
+<title>Issue 11671 -   chromium -    --load-extension creates dupe toolstrips - Project Hosting on Google Code</title> <pre>   1. Start chrome with --load-extension  2. Start chrome again (relaunch the exe)        You now have two toolstrips for the same extension. You'll get another each   time you launch Chrome.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17971 -   chromium -    Media control font size getting changed by font-size CSS - Project Hosting on Google Code</title> <pre> Check out <a href="http://htmlfive.appspot.com/static/video.html">http://htmlfive.appspot.com/static/video.html</a>    Looks like the culprit is:  body {font-size: 200%;}    Screen shot attached.   </pre>

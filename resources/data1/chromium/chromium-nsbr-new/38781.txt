@@ -1,0 +1,1 @@
+<title>Issue 38781 -   chromium -    No sound from web camera playing mpeg-4 - Project Hosting on Google Code</title>   1.Going to web camera site         What is the expected result? In chrome to hear sound as I watch MPEG-4   movie      What happens instead? Good picture  No sound or sound icon  but can hear   and control sound in ie      <b>Please provide

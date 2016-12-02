@@ -1,0 +1,1 @@
+<title>Issue 16898 -   chromium -    Chinese button in gmail is too small - Project Hosting on Google Code</title>   1. Just the button in Chinese was is too difficult to read          The font size of the button should look like IE/Firefox      bigger/suitable font size for buttons in chinese or other character set.    <b>Please provide

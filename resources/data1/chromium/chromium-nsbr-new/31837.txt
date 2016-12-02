@@ -1,0 +1,1 @@
+<title>Issue 31837 -   chromium -    Downloaded files bar hiding half the close X - Project Hosting on Google Code</title>   1.Same on an earlier build from a few days ago.  2.Started @ 1 week ago.                  <b>Please provide

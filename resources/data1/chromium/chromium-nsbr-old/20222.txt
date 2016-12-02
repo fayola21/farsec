@@ -1,0 +1,1 @@
+<title>Issue 20222 -   chromium -    Arrow keys don't work in Street View for Google Maps - Project Hosting on Google Code</title>   1. Go into Street View for Google Maps at <a href="http://maps.google.com">http://maps.google.com</a>  2. Press an arrow or WADS key        The view pans or rotates depending on the key pressed.        Nothing happens.    <b>Please provide

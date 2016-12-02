@@ -1,0 +1,1 @@
+<title>Issue 1583 -   chromium -    Acrobat plug-in missing when Acrobat Pro is used - Project Hosting on Google Code</title>   1. Have a PC with Acrobat Pro (not Reader!) installed   2. Click any link to a pdf file      The link should open in Chrome      An Explorer dialog opens offering to save the file    Please provide

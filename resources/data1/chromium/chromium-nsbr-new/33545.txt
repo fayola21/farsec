@@ -1,0 +1,1 @@
+<title>Issue 33545 -   chromium -    Shibboleth authentication freeze - Project Hosting on Google Code</title>   1.Attempting to log into a website that uses Shibboleth authentication will  not work. The page will say it is trying to verify the authentication but  it never loads the desired page.      The page should load.      The page freezes.    <b>Please provide

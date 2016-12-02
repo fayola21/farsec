@@ -1,0 +1,1 @@
+<title>Issue 7611 -   chromium -    Find out what the last parameter is in NtOpenKeyEx in Windows7 - Project Hosting on Google Code</title> <pre> The sandbox needs to hook the registry calls in ntdll. In windows 7 they   added a new call  NtOpenKeyEx  and it takes a new fourth parameter. We need   to find out what it means. </pre>

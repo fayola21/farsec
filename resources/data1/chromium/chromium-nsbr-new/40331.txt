@@ -1,0 +1,1 @@
+<title>Issue 40331 -   chromium -    --enable-webgl doesn't on 64-bit linux - Project Hosting on Google Code</title> <pre> ./out/Debug/chrome-wrapper --enable-webgl --no-sandbox  (also LD_LIBRARY_PATH=out/Debug/lib.target ./out/Debug/chrome --enable-webgl   --no-sandbox    ... yet webgl doesn't seem to be enabled in the browser.    I'm on 64-bit Arch Linux. </pre>

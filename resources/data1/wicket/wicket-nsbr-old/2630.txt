@@ -1,0 +1,1 @@
+MockHttpServletResponse doesn't delete cookies    From Cookie.setMaxAge javadoc: @param expiry an integer specifying the maximum age of the cookie in seconds; if negative  means the cookie is not stored; if zero  deletes the cookieSo  if maxAge is zero  MockHttpServletResponse should remove cookie.   

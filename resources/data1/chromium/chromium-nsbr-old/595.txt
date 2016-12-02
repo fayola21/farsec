@@ -1,0 +1,1 @@
+<title>Issue 595 -   chromium -    ck4bc6Wt5cH2  - Project Hosting on Google Code</title>                   &quot;The application failed to initialised properly.&quot; this message comes every   single time when i open a google crome.    Please provide

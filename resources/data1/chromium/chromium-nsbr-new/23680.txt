@@ -1,0 +1,1 @@
+<title>Issue 23680 -   chromium -    Save small pinned tabs! - Project Hosting on Google Code</title> <pre> I have certain tabs set to open  when I pin those tabs to only show the icon    and try and save that setting and reopen the browser  it restores the tabs to   full size.  Sorry for the run on sentence. Thanks for the help! </pre>

@@ -1,0 +1,1 @@
+ListenerInterfaceRequestHandler should not assume existence of a page    ListenerInterfaceRequestHandler should not assume a page instance is always available in isPageInstanceCreated. This handler can also be used for links on bookmarkable pages. The attached patch fixes this.   

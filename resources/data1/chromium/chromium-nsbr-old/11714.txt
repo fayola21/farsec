@@ -1,0 +1,1 @@
+<title>Issue 11714 -   chromium -    regression : completely worng location of close button for RTL windows - Project Hosting on Google Code</title>     just open chromium with hebrew as the UI language      the close/min/max are on the left      they are on the right.... how horrific :)    <b>Please provide

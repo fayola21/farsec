@@ -1,0 +1,1 @@
+<title>Issue 26922 -   chromium -    Can't open Settings-page in Google Reader - Project Hosting on Google Code</title>   1. Logged in.  2. Click on Settings in the top right corner.        The settings-page displays.      I just displays &quot;Loading...&quot; on top of the page.    <b>Please provide

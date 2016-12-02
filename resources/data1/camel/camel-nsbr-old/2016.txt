@@ -1,0 +1,1 @@
+camel-jpa exports the org.apache.camel.processor.interceptor which leads to a split package    The package is already exported by camel-core  so the class in this package needs to be moved to another package.   

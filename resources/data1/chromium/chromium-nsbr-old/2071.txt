@@ -1,0 +1,1 @@
+<title>Issue 2071 -   chromium -    alternate text of image does not display when inspector is open - Project Hosting on Google Code</title>   1. Go to www.google.com   2. Bring up the inspector  3. Hover over the doodle       The alternate text for the image should display      The alternate text is not displaying when the inspector is open.    Please provide

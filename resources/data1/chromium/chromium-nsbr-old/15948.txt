@@ -1,0 +1,1 @@
+<title>Issue 15948 -   chromium -    animated gifs don't work - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.190.4  URLs (if applicable) : <a href="http://i41.tinypic.com/197er9.gif">http://i41.tinypic.com/197er9.gif</a>      Firefox 3.x: OK           IE 8: OK      1. Browse to an animated gif        Gif animates        Gif does not animate </pre>

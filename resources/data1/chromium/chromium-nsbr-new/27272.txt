@@ -1,0 +1,1 @@
+<title>Issue 27272 -   chromium -    Mac: bookmark bar text not displayed with correct theme colors - Project Hosting on Google Code</title> <pre> For example     &lt;<a href="https://tools.google.com/chrome/intl/en/themes/theme_at_marliesdekkers.html">https://tools.google.com/chrome/intl/en/themes/theme_at_marliesdekkers.html</a>&gt;    results in black-on-black. </pre>

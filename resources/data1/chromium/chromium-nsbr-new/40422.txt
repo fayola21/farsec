@@ -1,0 +1,1 @@
+<title>Issue 40422 -   chromium -    Selected text in Omnibox isn't vertically centered - Project Hosting on Google Code</title> <pre> Pink and TVL sez the text in the Omnibox isn't centered when you select the text (bottom looks like   it has 1 more px of spacing than the top). See attached screenshot. I've enlarged the image to 200%   to make it easier to see. </pre>

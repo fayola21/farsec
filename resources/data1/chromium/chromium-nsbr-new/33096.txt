@@ -1,0 +1,1 @@
+<title>Issue 33096 -   chromium -    Copyright date in 'About Chrome' still lists 2006-2009  not 2010 - Project Hosting on Google Code</title>   1. Click 'Settings' and then 'About Google Chrome'  2. Observe copyright date                  <b>Please provide

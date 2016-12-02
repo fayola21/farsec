@@ -1,0 +1,1 @@
+<title>Issue 11623 -   chromium -    Resizing content area causes tab contents to flash white - Project Hosting on Google Code</title> <pre> Here is how I repro this... there may be other paths:    1. open gmail in an app window  2. resize from any edge  3. Notice the whole page flashes white repeatedly       </pre>

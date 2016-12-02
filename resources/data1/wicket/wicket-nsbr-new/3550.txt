@@ -1,0 +1,1 @@
+Make Select component generic    Select component should be made generic  so it would be possible to use type safety with this form component.For example: Select&lt;String&gt; select = new Select&lt;String&gt;('select'  new Model&lt;String&gt;());   

@@ -1,0 +1,1 @@
+<title>Issue 36028 -   chromium -    Bookmark import promo invisible in dark themes - Project Hosting on Google Code</title> <pre> Text isn't themed  and is therefore always black -- thus rendering it invisible   against any darkish background (try LateNight  for example).   </pre>

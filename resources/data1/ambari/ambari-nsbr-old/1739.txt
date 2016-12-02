@@ -1,0 +1,1 @@
+HBase and Zk failed to start on secure install    Error during starting hbase and zookeeper during secure install.Incorrectly parsed Files:hbase-env.shzookeeper-env.sh   

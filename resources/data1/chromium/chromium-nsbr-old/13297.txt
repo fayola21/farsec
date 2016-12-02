@@ -1,0 +1,1 @@
+<title>Issue 13297 -   chromium -    compile chrome using thinapp - Project Hosting on Google Code</title> <pre> so it will run using any version of windows and other OS like linux and mac   using wine emulator <a href="http://www.thindownload.com/linux.html">http://www.thindownload.com/linux.html</a> </pre>

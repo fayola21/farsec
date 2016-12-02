@@ -1,0 +1,1 @@
+<title>Issue 27124 -   chromium -    Taskbar icon is broken - Project Hosting on Google Code</title>   1. Open Chrome  2. Inspect chrome in taskbar      The name of the tab opened in chrome is present in taskbar along Chrome   icon      The chrome icon is not present  and a strange icon (similar to the loading   icon on tabs.    <b>Please provide

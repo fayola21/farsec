@@ -1,0 +1,1 @@
+Enrich DSL - Add fluent builder for using default aggregation strategy    The fluent builder is missing the enrich(uri) method that uses the default agg strategy. That is to copy the result from the resource as input.This is also very useable.In Spring DSL this is already possible as you do not have to provide the strategyRef attribute.   

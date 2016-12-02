@@ -1,0 +1,1 @@
+<title>Issue 23255 -   chromium -    Document sniffing behavior for extensions - Project Hosting on Google Code</title> <pre> This question comes up a lot. See:  <a href="http://groups.google.com/group/chromium-">http://groups.google.com/group/chromium-</a>  extensions/browse_thread/thread/c9e889c9d57c69bd </pre>

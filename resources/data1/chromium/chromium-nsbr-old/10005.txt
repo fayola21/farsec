@@ -1,0 +1,1 @@
+<title>Issue 10005 -   chromium -    Remember the window size and maximization state - Project Hosting on Google Code</title> <pre> Regarding the current svn snapshot PPA build on Linux  Chromium should  automatically remember its window size/maximization state. </pre>

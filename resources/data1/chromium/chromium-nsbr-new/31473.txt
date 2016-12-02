@@ -1,0 +1,1 @@
+<title>Issue 31473 -   chromium -    MAC chrome does not show persian fonts correctly - Project Hosting on Google Code</title>   1. Open the page  2. If font &quot;New Times&quot; is used the accents are shown as B                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11865 -   chromium -    Virtual Keyboard not working properly - Project Hosting on Google Code</title>   1. Go to sites which offers virtual keyboard for login  2. the virtual keyboard doesn't work properly  like clicking on capslock   key doesn't change the letters to caps or vice-a-versa.      The keyboard must be working properlu    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2425 -   chromium -    Checking for updates never completes - Project Hosting on Google Code</title>   1. When selecting about Google Chrome the &quot;checking for updates&quot; never   completes. So it is impossible to check for updates.                     Please provide

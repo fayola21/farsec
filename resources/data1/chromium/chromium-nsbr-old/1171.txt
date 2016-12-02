@@ -1,0 +1,1 @@
+<title>Issue 1171 -   chromium -    Request for enhancement: APNG (animated PNG) - Project Hosting on Google Code</title>   1. View an APNG file          All frames of animation are shown.      Only the first frame is shown.    Please provide

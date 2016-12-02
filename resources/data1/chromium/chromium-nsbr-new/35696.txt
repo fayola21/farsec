@@ -1,0 +1,1 @@
+<title>Issue 35696 -   chromium -    Finnish Sampo bank no login - Project Hosting on Google Code</title>   1. Login to personal banking account  2. After entering login and password           It should ask for confirmation password (seccond)        It says that it is tehnical problem    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 25505 -   chromium -    globes.co.il: video player doesn't work - Project Hosting on Google Code</title> <pre> Steps to reproduce:  go to: <a href="http://www.globes.co.il/news/home.aspx?fid=2006">http://www.globes.co.il/news/home.aspx?fid=2006</a>    Video doesn't play on non-IE browsers. </pre>

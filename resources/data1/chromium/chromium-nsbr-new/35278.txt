@@ -1,0 +1,1 @@
+<title>Issue 35278 -   chromium -    Failed downloads are not recognized. - Project Hosting on Google Code</title>   1.Downloading a torrent file  2.Opening the torrent file using a torrent client        Proper download and access to file      Receive message &quot;cannot open torrent file. this is probably not a torrent   file&quot;.     <b>Please provide

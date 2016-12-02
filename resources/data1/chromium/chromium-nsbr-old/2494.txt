@@ -1,0 +1,1 @@
+<title>Issue 2494 -   chromium -    A highlighted emphatic letter &quot;d&quot; is not render correctly - Project Hosting on Google Code</title>   1. Open the attached file  2. Select/highlight all text  3. The last letter &quot;d&quot; of &quot;ordered&quot; is not render correctly                Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24351 -   chromium -    Chromium on Linux returns incorrect Time Zone (UTC) - Project Hosting on Google Code</title>   1. Attempt to use JavaScript Date functions to get time zone      A date object in the local time zone is returned.      A UTC date is returned.    <b>Please provide

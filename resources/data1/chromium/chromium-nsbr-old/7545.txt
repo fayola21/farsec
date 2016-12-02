@@ -1,0 +1,1 @@
+<title>Issue 7545 -   chromium -    Java not supported - Project Hosting on Google Code</title>   1. Log onto a site that requires Java  2. download that java  3. Run that same file      To run the java properly and to be able to use files requiring it      It asks you to download it again    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27747 -   chromium -    Other bookmarks-menu occasionally only shows for a short time - Project Hosting on Google Code</title>   1. Start Chrome  2. Browse for a while  3. Click Other bookmarks in the bookmark bar        The menu flashes open and closes again      The menu should stay open    <b>Please provide

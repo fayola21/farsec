@@ -1,0 +1,1 @@
+<title>Issue 30256 -   chromium -    [Seven][Chrome 4.0.266.0] Another icon appear in the windows taskbar. - Project Hosting on Google Code</title>   1. Start Google Chrome          Icon form the task bar  where Chrome is attached  must be active.      It create another icon on the taskbar.      <b>Please provide

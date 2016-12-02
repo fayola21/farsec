@@ -1,0 +1,1 @@
+<title>Issue 34239 -   chromium -    red Button lost - Project Hosting on Google Code</title>   1.the close-button is failed.  2.see the screenshot...  3.rigth @ top      ---      ---    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34532 -   chromium -    No control of quicktime movie controls in new browser - Project Hosting on Google Code</title>   1. open a quicktime movie in a chrome browser           you should be able to pause the movie/adjust volume  etc.      cannot click the movie control buttons    <b>Please provide

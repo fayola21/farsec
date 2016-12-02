@@ -1,0 +1,1 @@
+<title>Issue 3345 -   chromium -    Test that chromium_strings.grd and google_chrome_strings.grd have the same IDs - Project Hosting on Google Code</title> <pre> We should have an automated test that guarantees that the IDs in chromium   and google_chrome .grd files stay in synch.   </pre>

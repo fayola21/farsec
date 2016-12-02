@@ -1,0 +1,1 @@
+<title>Issue 44743 -   chromium -    URL appears when drag and drop a Web App tab  - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.401.1  OS: WinXP      1. Open some web app  2. Drag and detach web app tab from the window      -new window not showing app url      -new window showing app url      Obs: When page scrolled the url disappears </pre>

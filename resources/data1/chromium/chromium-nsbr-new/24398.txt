@@ -1,0 +1,1 @@
+<title>Issue 24398 -   chromium -    chrome_url_overrides doesn't work with packed extension - Project Hosting on Google Code</title> <pre> Creating an extension that overrides the new tab page works when you load the   unpacked version. When you pack it and install the .crx  it gets the url   wrong.   </pre>

@@ -1,0 +1,1 @@
+WebHCat alert does not nave any description    Steps to reproduce1. Go to Services page2. click on different services. They all have a status and a message for status in 'Alerts and Health Checks' list (as example hive.png)3. WebHCat service has a status but does not have a status message   

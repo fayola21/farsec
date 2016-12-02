@@ -1,0 +1,1 @@
+<title>Issue 42056 -   chromium -    Crash when selecting a suggested answer too quickly - Project Hosting on Google Code</title>   1. enter the first letter of an url i want to enter  2. click with the mouse on the url before all other suggestion load        URL loading      Crash    <b>Please provide

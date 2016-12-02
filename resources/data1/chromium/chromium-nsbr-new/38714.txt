@@ -1,0 +1,1 @@
+<title>Issue 38714 -   chromium -    nacl_ui_tests fail for 64-bit build of Chrome for Linux - Project Hosting on Google Code</title> <pre> 1. Build 64-bit version of Chrome for Linux  2. Build and run nacl_ui_tests  3. The tests fail    The tests fail because they attempt to use x86 nexes with 64-bit build of   Chrome when they should be using x64 nexes. </pre>

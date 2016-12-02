@@ -1,0 +1,1 @@
+Better error message for problematic configuration    Useful when for example build fails to set up configuration.   

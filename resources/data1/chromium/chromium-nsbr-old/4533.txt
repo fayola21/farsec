@@ -1,0 +1,1 @@
+<title>Issue 4533 -   chromium -    Print document gables text on second page - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.3.154.9               IE 7: OK      1. open attached html  2. print  3. look at that paragraph before the box!      readable (albeit dutch) text      letters get printed  but not the right ones.   </pre>

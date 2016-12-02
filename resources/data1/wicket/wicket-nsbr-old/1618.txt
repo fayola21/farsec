@@ -1,0 +1,1 @@
+Localizer API should be enhanced so that the cache implementation can be overwritten    /** Create a new cache  override this method if you want a different map to store the cache keys  for example a map that hold only the last X number of elements..  By default it uses the {@link ConcurrentHashMap}  @return cache */ protected Map newCache() { return new ConcurrentHashMap(); }   

@@ -1,0 +1,1 @@
+<title>Issue 35712 -   chromium -    the words on my address line go up and down - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.328.0  System                   : Ubuntu 9.10  URLs (if applicable) : all websites  Other browsers tested: no this bug     when i'm inputing a URL all the words I typed go up and down  just like my pic   shows.   </pre>

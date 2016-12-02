@@ -1,0 +1,1 @@
+<title>Issue 11084 -   chromium -    Implement FindBarBridge::MoveWindowIfNecessary - Project Hosting on Google Code</title> <pre> We need to impl FindBarBridge::MoveWindowIfNecessary(). It's cluttering up  output with the NOTIMPLEMENTED() right now since that's called every time a  tab is selected with default params. </pre>

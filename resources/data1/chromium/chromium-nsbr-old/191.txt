@@ -1,0 +1,1 @@
+<title>Issue 191 -   chromium -    About memory doesn't show memory consumption from IE 64 bit - Project Hosting on Google Code</title>   1. Launch IE 7 64 bits  2. Go to about:memory  3. See that it is not listed      IE7 64 bit memory consumption should be listed      IE7 64 bit isn't in the list    Please provide

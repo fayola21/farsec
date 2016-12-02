@@ -1,0 +1,1 @@
+<title>Issue 32111 -   chromium -    ExtensionInstalledBubble text runs together on ChromeOS - Project Hosting on Google Code</title> <pre> Install any extension. Note the info bubble that pops up after you click   install. The text fonts seem to be larger than they are on windows and as a   result is running together </pre>

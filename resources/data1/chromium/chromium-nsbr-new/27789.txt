@@ -1,0 +1,1 @@
+<title>Issue 27789 -   chromium -    Remove NativeControl - Project Hosting on Google Code</title> <pre> Now that we have NativeControlWin  everyone should use that instead.    I think the only two holdouts are TableView and TreeView. </pre>

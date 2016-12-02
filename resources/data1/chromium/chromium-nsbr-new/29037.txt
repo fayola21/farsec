@@ -1,0 +1,1 @@
+<title>Issue 29037 -   chromium -    context menus positioned incorrectly - Project Hosting on Google Code</title> <pre> go to gmail  tab until a gmail widget is focused (e.g. the send button)    then press the app key  the context menu pops up in the wrong place   (although the contents seem to be right) </pre>

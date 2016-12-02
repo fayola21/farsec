@@ -1,0 +1,1 @@
+<title>Issue 22375 -   chromium -    Oh Snap error on all tabs when opening many windows - Project Hosting on Google Code</title>   1. open many links via the middle button (around 50+)  2. once reached a certain point all tabs (including the already opened with   be &quot;snapped&quot;        no errors  just slowly load (if many windows)      oh snap    <b>Please provide

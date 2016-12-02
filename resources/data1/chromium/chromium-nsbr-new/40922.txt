@@ -1,0 +1,1 @@
+<title>Issue 40922 -   chromium -    Adapt WebKit2 design - Project Hosting on Google Code</title>   1. Open the above mentioned URL  2. Have a look at the new WebKit2 design  3. Adapt the Chromium/Chrome design to use WebKit2      Let Chromium/Chrome base on WebKit2.      Chromium/Chrome is based on WebKit1.    <b>Please provide

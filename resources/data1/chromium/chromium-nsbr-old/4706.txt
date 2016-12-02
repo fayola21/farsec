@@ -1,0 +1,1 @@
+<title>Issue 4706 -   chromium -    &quot;Bookmark manager&quot; it's not translated to pt_BR - Project Hosting on Google Code</title> <pre> [pt_BR]    [0.4.154.23]    [WinXP SP3]    [On the &quot;Bookmark manager&quot; tool and in the &quot;Tools Menu&quot; options list]         </pre>

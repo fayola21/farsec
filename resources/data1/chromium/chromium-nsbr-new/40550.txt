@@ -1,0 +1,1 @@
+<title>Issue 40550 -   chromium -    Google Chrome will not work with facebook.com - Project Hosting on Google Code</title> <pre> Google Chrome will not work with facebook.com.  I can't use any of the buttons in Facebook.com  </pre>

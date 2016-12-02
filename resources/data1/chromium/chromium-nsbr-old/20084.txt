@@ -1,0 +1,1 @@
+<title>Issue 20084 -   chromium -    &quot;Inspect element&quot; navigates to &lt;body&gt; - Project Hosting on Google Code</title>   1. Right click something on a page  2. Choose &quot;Inspect element&quot;        The inspector should open  and navigate to the correct DOM element.        The inspector opens  but navigates to the &lt;body&gt; element.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 31500 -   chromium -    slow loading &quot;site ontbinden&quot; (dutch) - Project Hosting on Google Code</title>   1. open a website  2. wait... wait....  3. in the bottom you will see &quot;site onbinden&quot;      Fast opening of a website      White page for quite sometime  sometimes you need to use &lt;F5&gt; in order to   load the page.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1540 -   chromium -    Gmail caused sad tab in rich edit mode - Project Hosting on Google Code</title>   1. Write email in rich edit more  2. Paste some html  3. click Indent more (crashed) ... or indent more and undo (ctrl-z) and   crashed after that        Indent.        Sad tab.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38954 -   chromium -    Error at www.starbucks.com(/card) - Project Hosting on Google Code</title>   1. Just go to the site            See a page with scrolling options/panels          Get a big black box on the screen that reads: &quot;Error: Slideshow data not   found. Check XML File path and Type.&quot;      <b>Please provide

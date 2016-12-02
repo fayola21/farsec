@@ -1,0 +1,1 @@
+<title>Issue 27216 -   chromium -    The ExtensionApiTest.Storage browser test fails and has been disabled. - Project Hosting on Google Code</title> <pre> The ExtensionApiTest.Storage test fails and has been disabled.  It should be fixed.     </pre>

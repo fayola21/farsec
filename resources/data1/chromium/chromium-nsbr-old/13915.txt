@@ -1,0 +1,1 @@
+<title>Issue 13915 -   chromium -    Regression: Reader extension doesn't render in toolstrip - Project Hosting on Google Code</title> <pre> 1. Load the reader extension from the sample page  2. It doesn't render </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30136 -   chromium -    Dutch: Home menu title should be &quot;Startpagina&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Home menu item in the menu Geschiedenis is not is localized. The   correct localization on the Mac is &quot;Startpagina&quot;. </pre>

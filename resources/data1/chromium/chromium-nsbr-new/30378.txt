@@ -1,0 +1,1 @@
+<title>Issue 30378 -   chromium -    two tests in FindPasteboardTest fail on valgrind/mac - Project Hosting on Google Code</title> <pre> Following two tests are failing on valgrind/mac and has been excluded in   unit_tests.gtest_mac.txt    FindPasteboardTest.ReadingFromPboardUpdatesFindText  FindPasteboardTest.SendsNotificationWhenTextChanges </pre>

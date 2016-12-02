@@ -1,0 +1,1 @@
+<title>Issue 26932 -   chromium -    XMPP Extensions API - Project Hosting on Google Code</title> <pre> Design and implement an xmpp api for extensions.  It can use an xmpp client code used in bookmark-sync feature. </pre>

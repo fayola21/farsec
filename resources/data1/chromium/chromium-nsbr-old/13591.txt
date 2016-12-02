@@ -1,0 +1,1 @@
+<title>Issue 13591 -   chromium -    Unable to install security from intertet banking - Project Hosting on Google Code</title>   1.enter &quot;agencia&quot;/branch  2.enter &quot;conta&quot;/account  3.hit enter  4.click install      Security add on installed      Hourglass keep showing in infinite loop.  Security software not installed      <b>Please provide

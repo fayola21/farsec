@@ -1,0 +1,1 @@
+<title>Issue 12564 -   chromium -    Some problem with the EA Battlefield website - Project Hosting on Google Code</title>   1. Go to <a href="http://www.battlefield.ea.com/battlefield/bf/">http://www.battlefield.ea.com/battlefield/bf/</a>  2. Notice that the whole page is broken        The page should look like it looks in FF and Opera.        Looks broken    <b>Please provide

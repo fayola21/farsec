@@ -1,0 +1,1 @@
+<title>Issue 4057 -   chromium -    font lengths seem to be computed incorrectly - Project Hosting on Google Code</title> <pre> For example  on <a href="http://cr.yp.to/">http://cr.yp.to/</a>  there's a bunch of white space before the fixed width font cr.yp.to   and at the end of links before the semicolon. </pre>

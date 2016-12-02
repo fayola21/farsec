@@ -1,0 +1,1 @@
+<title>Issue 18436 -   chromium -    Need startup_test bot for complex theme - Project Hosting on Google Code</title> <pre> We need a startup test where the browser runs with the most complex theme   possible so we can track startup time  and benchmark against the default   theme. We need to understand what penalty theme users are paying. </pre>

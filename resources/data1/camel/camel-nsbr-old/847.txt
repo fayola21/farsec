@@ -1,0 +1,1 @@
+mina should be exchange pattern agnostic    Currently the camel-mina component silently ignores exchanges that is not out capable even though its configured for sync=true (InOut)What it does now is setting the sync option itself depending on the exchange type.   

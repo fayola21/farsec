@@ -1,0 +1,1 @@
+<title>Issue 3249 -   chromium -    Constrained window titles are black with the opaque frame - Project Hosting on Google Code</title> <pre> Visit a page that opens a suppressed popup  or a site that uses http basic   auth and note that the title bar font is black instead of white. This is a   regression. </pre>

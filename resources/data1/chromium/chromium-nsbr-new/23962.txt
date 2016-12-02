@@ -1,0 +1,1 @@
+<title>Issue 23962 -   chromium -    Browser actions: limit minimum size of omnibox - Project Hosting on Google Code</title> <pre> The omnibox should be limited to a minimum size of 400px. Browser actions   after that point should not be displayed. </pre>

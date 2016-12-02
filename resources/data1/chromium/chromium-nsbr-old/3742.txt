@@ -1,0 +1,1 @@
+<title>Issue 3742 -   chromium -    Ctrl+F4 does not close a tab as expected  opens a new instead - Project Hosting on Google Code</title>   1. Open a second tab on chrome  2. Hit Ctrl+F4 on the opened tab  3. The tab won't close and a new one will be opened instead                Please provide

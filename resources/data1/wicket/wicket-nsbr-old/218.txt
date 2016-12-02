@@ -1,0 +1,1 @@
+Removing comments from markup can fail    Markup with comments in it sometimes causes Wicket to crash with a nasty StringIndexOutOfBoundsException.   

@@ -1,0 +1,1 @@
+<title>Issue 5711 -   chromium -    about:memory crashes browser - Project Hosting on Google Code</title>   1. Type in about:memory or open about:memory at startup (through options)        Opens the page      browser (chrome.exe) crashes    Please provide

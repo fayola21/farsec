@@ -1,0 +1,1 @@
+<title>Issue 196 -   chromium -    Scrolling Upwards Using Trackpad Not Possible - Project Hosting on Google Code</title>   1. Opening a website using chrome on a HP tx1000 and trying to scroll up.   Scrolling down is not a problem          I should be able to scroll up.      Nothing. Using a normal wheel on a mouse does not create any issues.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 41029 -   chromium -    New Tab Page displays only one thumbnail. - Project Hosting on Google Code</title>             8 thumbnails on new tab page      1 thumbnail and 7 blank boxes even with repeated browsing to other sites.   The one thumbnail is not marked &quot;keep on this page&quot;.    <b>Please provide

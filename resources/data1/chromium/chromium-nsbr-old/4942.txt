@@ -1,0 +1,1 @@
+<title>Issue 4942 -   chromium -    mouse pointer doesn't update when page is scrolled via spacebar or arrow keys - Project Hosting on Google Code</title>   1. Hover pointer over a hyperlink.  2. Scroll page using arrow key so that pointer is no longer atop a link.      'Hand' pointer reverts to 'arrow' pointer.      Pointer retains 'hand' display mode.    Please provide

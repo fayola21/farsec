@@ -1,0 +1,1 @@
+<title>Issue 9273 -   chromium -    Chrome buttons eat mouse click - Project Hosting on Google Code</title>   1.open option manual  2.click on any button except close  3.needs double click in order to open the button      one click should open then button      needs double click    <b>Please provide

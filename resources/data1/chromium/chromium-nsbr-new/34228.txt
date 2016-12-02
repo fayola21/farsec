@@ -1,0 +1,1 @@
+<title>Issue 34228 -   chromium -    problem pdf - Project Hosting on Google Code</title> <pre> Hello everyone using Google Chrome since it came out that the problem has   always reflected the following if you open a pdf file with this google   chrome unable to load the page but nothing shows  so I am forced to open   the file in another browser </pre>

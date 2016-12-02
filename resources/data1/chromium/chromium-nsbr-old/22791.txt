@@ -1,0 +1,1 @@
+<title>Issue 22791 -   chromium -    Tab titles chopped in Thai locale - Project Hosting on Google Code</title> <pre> LANG=th google-chrome    See screenshot. </pre>

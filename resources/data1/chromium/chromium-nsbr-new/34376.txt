@@ -1,0 +1,1 @@
+<title>Issue 34376 -   chromium -    Fix depot_tools licensing - Project Hosting on Google Code</title> <pre> 1) Move third_party scripts into third_party/  2) Fix gclient license. </pre>

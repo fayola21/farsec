@@ -1,0 +1,1 @@
+<title>Issue 12649 -   chromium -    UI font size is too small (unreadable) [Chromium 3.0.182.1 (nightly build 16869)] - Project Hosting on Google Code</title>   1. Run mini_installer.exe for nightly build 16869  2. Run Chromium      The UI font size should be big enough to be readable.      The font is too small  the UI is unreadable.    <b>Please provide

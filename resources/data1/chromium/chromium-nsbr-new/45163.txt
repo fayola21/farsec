@@ -1,0 +1,1 @@
+<title>Issue 45163 -   chromium -    chrome fails after i lost wifi connection - Project Hosting on Google Code</title>   1. load page  2. restart my wifi router  3. wifi connection will be lost  4. and then chrome fails  and ask me if i want to restart browser      no fails? its horible.      fails    <b>Please provide

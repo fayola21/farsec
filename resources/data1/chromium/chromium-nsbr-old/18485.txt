@@ -1,0 +1,1 @@
+<title>Issue 18485 -   chromium -    About Dialog Truncation on Windows Vista - Project Hosting on Google Code</title> <pre>   Japanese      3.0.195.4      Windows Vista SP1      New version notification string is truncated       </pre>

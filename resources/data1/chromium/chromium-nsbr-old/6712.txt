@@ -1,0 +1,1 @@
+<title>Issue 6712 -   chromium -    &quot;Recently closed&quot; tabs menu has some wrong entries - Project Hosting on Google Code</title>   I don't know how to reproduce this problem.    Please provide

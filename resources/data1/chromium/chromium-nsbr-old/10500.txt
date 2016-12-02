@@ -1,0 +1,1 @@
+<title>Issue 10500 -   chromium -    copy paste crashes the borwser - Project Hosting on Google Code</title> <pre> Chrome Version       : chromium-browser-2.0.174.0~svn20090413r13606                    1. Copy an URL from the location bar  2. Paste it into your form  3. Chromium crashes </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1998 -   chromium -    When I type Z  I get Y  and vice versa - Project Hosting on Google Code</title>   1. Just typing the letter y or z will get the opposite letter          I expect to see the letter Y when I type Y. The same thing with Z      I get the opposite letter    Please provide

@@ -1,0 +1,1 @@
+Wicket 6: modal windows in Safari are always in drag or resize mode    In Wicket 6 using Safari  a modal dialog will not allow interactions with form components. The whole dialog always seems to be in 'drag' mode. Click anywhere on the panel and the dialog will drag.Interaction works fine with all other browsers.   

@@ -1,0 +1,1 @@
+<title>Issue 45598 -   chromium -    Delicious Post Bookmark window doesn't close on submit - Project Hosting on Google Code</title>   1. Add Extension Delicious Tools - Version: 1.0.4  Keyboard shortcut Command-D  2. Command-D to add bookmark   3. Hit Save      Post Bookmark Window closes.      Post Bookmark WIndow blanks out but remains open.  (Attached)    <b>Please provide

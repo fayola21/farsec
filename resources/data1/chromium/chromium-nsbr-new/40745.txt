@@ -1,0 +1,1 @@
+<title>Issue 40745 -   chromium -    gtk certificate viewer: support decoding of SEC_OID_X509_CERTIFICATE_POLICIES extension - Project Hosting on Google Code</title> <pre> Remaining work from <a title="Implement certificate viewer UI" class=closed_ref href="/p/chromium/issues/detail?id=18119"> issue 18119 </a>. </pre>

@@ -1,0 +1,1 @@
+special characters in hosts files created on some common windows editors causes issues       

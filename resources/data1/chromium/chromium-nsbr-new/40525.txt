@@ -1,0 +1,1 @@
+<title>Issue 40525 -   chromium -    Font different in Google Chrome  correct in IE  Safari and Firefox - Project Hosting on Google Code</title>   1. Contact form on the contact page is a different font style to text on   other pages in the site.                    <b>Please provide

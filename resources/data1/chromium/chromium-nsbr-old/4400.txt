@@ -1,0 +1,1 @@
+<title>Issue 4400 -   chromium -    Regression: Dialog boxes all too wide - Project Hosting on Google Code</title> <pre> Since the change to DLU from average character widths  all Chrome dialog   boxes are now far too wide. </pre>

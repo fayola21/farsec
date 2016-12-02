@@ -1,0 +1,1 @@
+<title>Issue 26508 -   chromium -    http://www.bancobrasil.com.br/ doesn't load - Project Hosting on Google Code</title> <pre> This site in Chrome (I tested 4.0.227.0 (Developer Build 30231)) just shows   some HTML rather than any content.    <a href="http://www.bancobrasil.com.br/">http://www.bancobrasil.com.br/</a> </pre>

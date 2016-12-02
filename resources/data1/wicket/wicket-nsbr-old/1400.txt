@@ -1,0 +1,1 @@
+FormComponent.error(ivalidationerror) error needs to show tried resource keys    Please see the following discussion from Wicket forum http://www.nabble.com/Having-problems-with-resource-keys-in-a-form-which-has-two-panels-of-the-same-kind-td15881597.html   

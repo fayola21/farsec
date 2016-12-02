@@ -1,0 +1,1 @@
+<title>Issue 4163 -   chromium -    The Incognito Icon in Incognito mode - Project Hosting on Google Code</title> <pre> Windows Vista SP1 32-bit  AMD Athlon 64 X2 Dual-Core processor TK-57 1.90 GHZ    The Incognito Icon [top left corner] in Incognito mode is not aligned   properly in Chromium buildbot 4888 and previous versions (it is aligned too   much to the top). </pre>

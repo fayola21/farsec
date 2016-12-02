@@ -1,0 +1,1 @@
+<title>Issue 12677 -   chromium -    Extensions auto-update should do parsing of update manifest xml in sandboxed process - Project Hosting on Google Code</title> <pre> This should be relatively easy with the UtilityProcessHost stuff that   mpcomplete added recently for extensions. </pre>

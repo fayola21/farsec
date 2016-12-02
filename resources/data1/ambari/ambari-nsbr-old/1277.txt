@@ -1,0 +1,1 @@
+Failing build due to url moved on Suse.    Failing build due to url moved on Suse. Looks like centos5 and 6 handle redirection all fine but doesnt look like the maven plugin handles that on SUSE.   

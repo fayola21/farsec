@@ -1,0 +1,1 @@
+<title>Issue 19874 -   chromium -    Move observers out of automation_provider.cc - Project Hosting on Google Code</title> <pre> They clutter the file  which is already quite big. </pre>

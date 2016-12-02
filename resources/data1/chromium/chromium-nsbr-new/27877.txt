@@ -1,0 +1,1 @@
+<title>Issue 27877 -   chromium -    Remove support for file:// URLs from content scripts - Project Hosting on Google Code</title> <pre> It isn't that useful of a feature and makes people nervous security wise. It   also causes special cases since file URLs don't have hosts. </pre>

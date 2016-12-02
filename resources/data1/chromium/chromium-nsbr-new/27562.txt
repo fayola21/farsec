@@ -1,0 +1,1 @@
+<title>Issue 27562 -   chromium -    Incorrect Icon showing on taskbar - Project Hosting on Google Code</title>   1. Start chrome without app mode      That it shows the chrome icon on the taskbar      Shows a static 'busy' icon    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20731 -   chromium -    Implement external protocol dialog on Linux - Project Hosting on Google Code</title> <pre>   1. Click on a link with an unknown protocol  e.g. apturl:        A dialog should ask whether an external application should be launched. </pre>

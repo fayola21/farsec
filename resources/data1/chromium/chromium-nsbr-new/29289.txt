@@ -1,0 +1,1 @@
+<title>Issue 29289 -   chromium -    Feature request: API to specify the pin state of a new tab - Project Hosting on Google Code</title> <pre> When using the API to create a new tab in an extension  it would be nice to   be able to specify it as being &quot;pinned&quot;  and &quot;immutable&quot; (ie can't move or   close it). Thanks. </pre>

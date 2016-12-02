@@ -1,0 +1,1 @@
+<title>Issue 16266 -   chromium -    PlatformDeviceLinux doesn't take into account the transform and the clipping region - Project Hosting on Google Code</title> <pre> This is the cause of some weird clipping bugs where GTK buttons and text are   drawn outside of the bounds they're supposed to be clipped to. </pre>

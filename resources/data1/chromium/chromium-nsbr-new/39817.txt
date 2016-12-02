@@ -1,0 +1,1 @@
+<title>Issue 39817 -   chromium -    [Windows] geolocation: implement the content settings exception dialog - Project Hosting on Google Code</title> <pre> As per   http://mocks/glen/chrome/spec/89_geo2/4/#04_exceptions.png  http://mocks/glen/chrome/spec/89_geo2/4/#05_exceptionsproperties.png    + Peter's modifications.   </pre>

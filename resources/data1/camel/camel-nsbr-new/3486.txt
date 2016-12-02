@@ -1,0 +1,1 @@
+NotifyBuilder - Should throw exception if it hasn't been created and matches is invoked    This helps use of NotifyBuilder as matches doesn't operate until you have created the notifier.   

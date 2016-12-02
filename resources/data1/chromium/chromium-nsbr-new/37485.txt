@@ -1,0 +1,1 @@
+<title>Issue 37485 -   chromium -    Moving of iframes in DOM reloads the Iframe - Project Hosting on Google Code</title>   1. Put an iframe inside a div (div1)  2. Have onload event handler for the iframe.  3. Append the iframe to another div (div2)  4. The iframe reloads.      The iframe should not reload.      The iframe reloads.    <b>Please provide

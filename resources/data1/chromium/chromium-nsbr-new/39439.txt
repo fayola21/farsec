@@ -1,0 +1,1 @@
+<title>Issue 39439 -   chromium -    View source broken when multiple tabs show same page - Project Hosting on Google Code</title>   1. Open page in 2 tabs/windows  2. Show view source in the first opened page      Should show the same random number as the page shows      Shows the source from the last loaded tab/window     <b>Please provide

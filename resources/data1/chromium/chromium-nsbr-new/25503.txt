@@ -1,0 +1,1 @@
+<title>Issue 25503 -   chromium -    Gmail &quot;#&quot; (delete) shortcut not working - Project Hosting on Google Code</title>   1. Open Gmail with Chrome and make sure shortcuts are enabled.  2. Read any mail.  3. Press &quot;#&quot; on your keyboard.      The mail is moved to Trash.      Nothing :'(    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1188 -   chromium -    It should Ask before closing application about closing all tabs - Project Hosting on Google Code</title>   1. Open 1+ tabs  2. and close application        It should ask message box to close all tabs like Firefox. and then it   should get close.      it is directly closing crome .....      Please provide

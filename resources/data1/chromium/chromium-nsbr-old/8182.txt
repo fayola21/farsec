@@ -1,0 +1,1 @@
+<title>Issue 8182 -   chromium -    Inspect element' on 'New tab' disappearing - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.166.1    1. Open New tab (Control-T).  2. Right click and select 'Inspect element'.   3. Refresh 'Inspect element' window  is empty.  If I was able to open it  why after refreshment it disappeared?   </pre>

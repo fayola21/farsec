@@ -1,0 +1,1 @@
+<title>Issue 13511 -   chromium -    mislabelled history button - Project Hosting on Google Code</title> <pre>   pt-pt    3.0.184.0 (17821)    win 7rc    History page    History search button reads 'Hist��__rico de pesquisas' (History of searches)    when it should be 'Pesquisa do hist��__rico'. </pre>

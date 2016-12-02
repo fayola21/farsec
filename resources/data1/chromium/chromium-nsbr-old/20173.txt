@@ -1,0 +1,1 @@
+<title>Issue 20173 -   chromium -    Chromium: Bookmark Sync seems to do nothing..? - Project Hosting on Google Code</title>   1. Open browser with --enable-sync  2. Click Sync  3. .. nothing happens ..      I'm expecting -something- to happen?      Nothing.    <b>Please provide

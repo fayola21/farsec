@@ -1,0 +1,1 @@
+camel-blueprint - Using namespaces with xpath does not work as the namesapces is not parsed and injected into the camel model    Using xpath predicates in a blueprint xml file does not work if you use custom namespaces  as the camel-blueprint component does not detect the custom namespaces  as camel-spring does.   

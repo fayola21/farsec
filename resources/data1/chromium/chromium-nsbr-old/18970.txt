@@ -1,0 +1,1 @@
+<title>Issue 18970 -   chromium -    Videos without audio tracks should disable volume controls - Project Hosting on Google Code</title> <pre> Play a video without an audio track.  The default UI should display a   disabled volume control and the context menu should disable all volume-  related options. </pre>

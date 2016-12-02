@@ -1,0 +1,1 @@
+<title>Issue 13516 -   chromium -    Mac app icon is too large - Project Hosting on Google Code</title> <pre> The mac icon is too large. See the two attached screenshots: The chrome icon   is much bigger than the other apps in the dock. This is also noticable in the   cmd-tab widget. </pre>

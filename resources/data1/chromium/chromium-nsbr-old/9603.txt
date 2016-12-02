@@ -1,0 +1,1 @@
+<title>Issue 9603 -   chromium -    run_webkit_tests should be faster - Project Hosting on Google Code</title> <pre> It should run tests in parallel. Then  there is room to optimize the python  to not be the bottleneck. It should get to the point where we can run 8  test_shells on an 8-core machine and have python not be the bottleneck. </pre>

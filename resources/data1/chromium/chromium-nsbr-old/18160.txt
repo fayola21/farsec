@@ -1,0 +1,1 @@
+<title>Issue 18160 -   chromium -    Cancel but still downloading !! - Project Hosting on Google Code</title>   1.When I download a file..  2.but I don't Save it..  3.I click Cancel..      ...but Chrome still downloading that file!      To stop downloading I must Save that file and choice Cancel from menu..    <b>Please provide

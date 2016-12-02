@@ -1,0 +1,1 @@
+<title>Issue 5472 -   chromium -    Delete in cookie inspector no longer works - Project Hosting on Google Code</title> <pre>   1. Bring up cookies.  2. Select an item in the list and press delete        No more cookie.       </pre>

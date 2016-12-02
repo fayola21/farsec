@@ -1,0 +1,1 @@
+<title>Issue 36732 -   chromium -    [Accessibility] Chrome's main window is missing an accessible name - Project Hosting on Google Code</title> <pre>   1. Connect AccExplorer32 to Chrome and expand to Chrome's main window      Main window has a name      Main window is shown as NAMELESS. And the TestChromeWindowAccObj is giving a   false positive.    Screenshot below. </pre>

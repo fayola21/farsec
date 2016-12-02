@@ -1,0 +1,1 @@
+<title>Issue 38684 -   chromium -    page freeze - Project Hosting on Google Code</title>   1.highlighted text and tried to drag          nothing  it was a coincidence  and it concerns not only text but also any   allocation      page freeze    <b>Please provide

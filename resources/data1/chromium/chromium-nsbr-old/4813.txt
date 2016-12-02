@@ -1,0 +1,1 @@
+<title>Issue 4813 -   chromium -    javascript - document.addEventListener not support - Project Hosting on Google Code</title>   1. write a simple script and use document.addEventListener for any   onkeydown action.  2. addEventListener do not set my event to the page.        i need to diable TAB-key press event for my page.          Please provide

@@ -1,0 +1,1 @@
+<title>Issue 19325 -   chromium -    Upload file can't select zip file - Project Hosting on Google Code</title>   1. compose a mail  2. add attachment  3. txt file  word file ok  but can't select a zip file            alloway    <b>Please provide

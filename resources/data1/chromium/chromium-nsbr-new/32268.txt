@@ -1,0 +1,1 @@
+<title>Issue 32268 -   chromium -    Tab text clipping code is broken - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.288.1 dev channel      1. Open a ton of tabs when you have pinned tabs (didn't check if it happens   without pinned tabs  but that's probably the cause)        Tab strip should look awesome as usual.        It looks all messed up. </pre>

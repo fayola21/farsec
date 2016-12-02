@@ -1,0 +1,1 @@
+Need to show stale-config indicator on hosts page    We show the restart indicator for stale-configs on services and individual host. Since we already have that information on the client  we need to show that on the Hosts page table. We need a filter to select stale-config hosts  and also show beside each host the stale-config indicator.   

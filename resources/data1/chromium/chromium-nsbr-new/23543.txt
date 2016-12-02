@@ -1,0 +1,1 @@
+<title>Issue 23543 -   chromium -    Show Spelling Panel results in Sad Tab - Project Hosting on Google Code</title>   1. Go to any page with editable text.  2. Type something in that space.  3. Click on &quot;Show Spelling Panel&quot;.  4. Sad Tab.        The Spelling Panel should appear.        Sad Tab.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21473 -   chromium -    Regression: Styles in &quot;Developer Tools&quot; don't work - Project Hosting on Google Code</title>   1. Right-click anywhere on the page  2. Inspect Element  3. Try to open &quot;Styles&quot; in right-hand nav      Styles are shown      Nothing    <b>Please provide

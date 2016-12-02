@@ -1,0 +1,1 @@
+<title>Issue 41052 -   chromium -    Bookmark manager's context menus look windowsy instead of webby - Project Hosting on Google Code</title> <pre>   1. Open bookmark manager  2. Right-click bookmark manager        The menu looks windowsy and out of place on OS X. I think it should more look like e.g. the menus   in gmail instead.    Opinions? </pre>

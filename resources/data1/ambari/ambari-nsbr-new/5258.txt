@@ -1,0 +1,1 @@
+Installer: 'Undo' button for repo BaseURL does not work    STR: during installer phase go to &lt;cluster&gt;:8080 /#/installer/step1 ; Change/delete any of BaseURL of repos ; Click 'Undo' buttonActual Results:Undo button does not work. Moreover  if we click Undo after any update of text in BaseURL  it leads to cleanup of it value atall.   

@@ -1,0 +1,1 @@
+Make Component and IBehavior directly implement IHeaderContributor to make things simpler       

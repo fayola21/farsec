@@ -1,0 +1,1 @@
+<title>Issue 43899 -   chromium -    convert notifications code over to string16 - Project Hosting on Google Code</title> <pre> Some of the notifications code is still on std::wstring  and should be  converted to use string16 except at the interface edges with other modules. </pre>

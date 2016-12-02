@@ -1,0 +1,1 @@
+<title>Issue 2131 -   chromium -    Support for Comodo SSL Certificate Authority - Project Hosting on Google Code</title> <pre> URL : <a href="http://www.enterprisessl.com/">http://www.enterprisessl.com/</a>    Comodo CA for ssl certificate is not included in Chrome. It would be very  useful to have a broad support of well-recognized CAs.   </pre>

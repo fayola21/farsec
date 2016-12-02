@@ -1,0 +1,1 @@
+<title>Issue 16585 -   chromium -    There is no RSS Feed for Chrome!  - Project Hosting on Google Code</title> <pre>   Is there any chance of being able to subscribe to RSS feeds on chrome?    Please. </pre>

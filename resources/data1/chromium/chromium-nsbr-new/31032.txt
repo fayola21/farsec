@@ -1,0 +1,1 @@
+<title>Issue 31032 -   chromium -    Mouse Back Button Doesn't work on Windows - Project Hosting on Google Code</title>   1. browse from one page to another  2. press mouse &quot;back&quot; button (Logitech Laser mouse)  3. same for mouse &quot;forward&quot; button      Should go to next (or previous) page      Nothing    <b>Please provide

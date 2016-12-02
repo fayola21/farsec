@@ -1,0 +1,1 @@
+<title>Issue 18581 -   chromium -    Zen Spring Theme is not completely applied to title bar of Incognito window - Project Hosting on Google Code</title> <pre> OS: XP/SP3  ToT.    As shown in the screenshot  Zen spring theme is not completely applied to  the title bar of the Incognito window.    Glen  Pls feel free to close it  it is expected behavior of the theme.     </pre>

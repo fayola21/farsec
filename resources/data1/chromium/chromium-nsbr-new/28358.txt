@@ -1,0 +1,1 @@
+<title>Issue 28358 -   chromium -    about:memory causes DCHECK() failure - Project Hosting on Google Code</title> <pre> ToT debug build (<a href="/p/chromium/source/detail?r=32603">r32603</a>) on 10.5.8:    [11243:267:33857394913753:FATAL:/&lt;snip&gt;/src/base/ref_counted.cc(67)]   Check failed: !in_dtor_.     Investigating; will let go through triage. </pre>

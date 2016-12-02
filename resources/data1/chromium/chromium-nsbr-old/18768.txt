@@ -1,0 +1,1 @@
+<title>Issue 18768 -   chromium -    Theme Startup time == Non-Theme Startup time - Project Hosting on Google Code</title> <pre> Run Quantify on a startup run with themes and without themes  compare and   optimize so that theme startup time == non-theme startup time. </pre>

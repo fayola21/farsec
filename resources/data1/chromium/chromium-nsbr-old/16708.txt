@@ -1,0 +1,1 @@
+<title>Issue 16708 -   chromium -    Mem leak with quarantine_mac::AddQuarantineMetadataToFile in ui_tests under Valgrind - Project Hosting on Google Code</title> <pre> Leak trace attached.    chrome/common/quarantine_mac.mm  quarantine_mac::AddQuarantineMetadataToFile()    It's weird because it appears like LSCopyItemAttribute leaks. Really? </pre>

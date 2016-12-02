@@ -1,0 +1,1 @@
+<title>Issue 26040 -   chromium -    SVG big shape won't show in small viewBox - Project Hosting on Google Code</title>   1. load the included testcase.svg          you should see the yellow circle and the red rect that make an orange  background and a green rect on the center      you can only see the green rect    <b>Please provide

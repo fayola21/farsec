@@ -1,0 +1,1 @@
+<title>Issue 25166 -   chromium -    Extra space before second line of options dialog - Project Hosting on Google Code</title> <pre> Why is there a space before &quot;open source&quot; in the about dialog?    Pri-8 if we had it.  :) </pre>

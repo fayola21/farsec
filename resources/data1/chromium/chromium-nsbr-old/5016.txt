@@ -1,0 +1,1 @@
+<title>Issue 5016 -   chromium -    Move vectorcanvastest from base/data to skia somewhere - Project Hosting on Google Code</title> <pre> I moved the VectorCanvas files and tests to the skia directory. The test   data should move as well. </pre>

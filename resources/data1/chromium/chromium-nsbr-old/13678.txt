@@ -1,0 +1,1 @@
+<title>Issue 13678 -   chromium -    Include a page speed tab in DevTools - Project Hosting on Google Code</title> <pre> Page Speed just launched (<a href="http://code.google.com/speed/page-speed/">http://code.google.com/speed/page-speed/</a>)    We should help make this available in Chrome DevTools as well </pre>

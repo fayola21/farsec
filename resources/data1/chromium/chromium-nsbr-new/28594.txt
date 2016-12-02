@@ -1,0 +1,1 @@
+<title>Issue 28594 -   chromium -    Mac: text in bookmark bar titles should be elided or faded - Project Hosting on Google Code</title> <pre> Make a bookmark with a long title in the bookmark bar; the title just gets   chopped off (mid-character even).    I'll take a look at this  unless someone else really wants it.    (Letting it go through triage....) </pre>

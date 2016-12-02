@@ -1,0 +1,1 @@
+<title>Issue 27914 -   chromium -    Google URL doesn't handle switching from standard URL to path URL correctly. - Project Hosting on Google Code</title> <pre> This causes LayoutTests/fast/dom/HTMLAnchorElement/set-href-attribute-  protocol.html to   fail.    The test attempts to switch protocol from &quot;https&quot; to &quot;https-foo&quot;. </pre>

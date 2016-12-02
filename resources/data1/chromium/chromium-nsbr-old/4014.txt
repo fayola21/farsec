@@ -1,0 +1,1 @@
+<title>Issue 4014 -   chromium -    Missing Browser component - Project Hosting on Google Code</title>   1. Options  2. Missing of Component        We need a component which will hide/display the images of the openning   page.      The component is missing    Please provide

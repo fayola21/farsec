@@ -1,0 +1,1 @@
+<title>Issue 32662 -   chromium -    submenu does not fire command - Project Hosting on Google Code</title> <pre> Scott  the submenu (compact navbar options in particular) stopped working   after the following CL.  Can you take a look?    <a href="http://codereview.chromium.org/521063">http://codereview.chromium.org/521063</a>   </pre>

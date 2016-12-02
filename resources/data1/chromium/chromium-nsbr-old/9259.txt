@@ -1,0 +1,1 @@
+<title>Issue 9259 -   chromium -    gcl should support a config file - Project Hosting on Google Code</title> <pre> There should be some way to configure gcl to read command line parameters  from a config file rather than having to specify it on the command line.   For example  I'd like to default --no_try. </pre>

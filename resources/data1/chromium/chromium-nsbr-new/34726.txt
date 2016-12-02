@@ -1,0 +1,1 @@
+<title>Issue 34726 -   chromium -    Failure to open HTPS site - Error 2 (net::ERR_FAILED): Unknown erro - Project Hosting on Google Code</title>   1.Open MS Outlook Web Access OWA site with attached SSL certificate        Site is opened correctly      Chrome fails with Error 2 (net::ERR_FAILED): Unknown    <b>Please provide

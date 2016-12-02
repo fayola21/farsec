@@ -1,0 +1,1 @@
+<title>Issue 16520 -   chromium -    Build system needs to be fixed for recent WebCore's ValidityState inclusion - Project Hosting on Google Code</title> <pre> Chromium shall include latest ValidityState changes in WebKit into its gyp build system.    It's being fixed right now.;) </pre>

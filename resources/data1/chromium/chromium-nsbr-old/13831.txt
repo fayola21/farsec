@@ -1,0 +1,1 @@
+<title>Issue 13831 -   chromium -    Crashed when try to open any form (about  option) - Project Hosting on Google Code</title>   1. Open about form  2. open Option form        MessageBox with text: Wha! google Chrome was crashed. Restart now?      After press Ok the browser restarting. if press Cancel only close the   browser (all threads)    <b>Please provide

@@ -1,0 +1,1 @@
+HDFS alert hangs for a long time after enabling Maintenance mode    STR: Stop HDFS with started Nagios service. Turn on Maintenance mode for HDFS.Result: All alerts dissapear  except 'HDFS capacity utilization' - it hangs for a long time (in my case it was smthng about 10-11 minutes)   

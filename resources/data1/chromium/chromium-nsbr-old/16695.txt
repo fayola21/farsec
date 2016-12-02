@@ -1,0 +1,1 @@
+<title>Issue 16695 -   chromium -    Mousecursor doesn't change after scrolling - Project Hosting on Google Code</title>   1. Put your mouse on a link (cursor = hand)  2. Scroll up or down (make sure your mouse isn't on a link again)  3. Notice that the mouse is still 'hand'      To change the cursor if it leaves a link      It doesn't change    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13395 -   chromium -    alt+n should be the keyboard shortcut to the n-th tab  not ctrl+n - Project Hosting on Google Code</title>   1. Open more than one tab  2. Press alt+n        Taken to n-th tab          Nothing.  But ctrl-n works.    <b>Please provide

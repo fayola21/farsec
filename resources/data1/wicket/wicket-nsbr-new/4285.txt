@@ -1,0 +1,1 @@
+PageSavingThread.stop() blocks forever    The PageSavingThread may exit without nulling the stop flag. For example when an OutOfMemoryError or any other runtime exception is thrown in the run method.Properly set the flag in a finally clause.Is this class still present in 1.5?   

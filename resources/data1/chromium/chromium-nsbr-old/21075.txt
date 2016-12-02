@@ -1,0 +1,1 @@
+<title>Issue 21075 -   chromium -    Double separator in Customize menu - Project Hosting on Google Code</title>   1. Display the Customize menu by clicking the Bench icon        Single separator should appear between Downloads and Options      There are two separators together    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20979 -   chromium -    Incognito icon bright blue (Default theme) - Project Hosting on Google Code</title>   1. open incognito window          Entire upper bar is dark blue      Upper-left part is same blue as normal window  extends under first tab.    <b>Please provide

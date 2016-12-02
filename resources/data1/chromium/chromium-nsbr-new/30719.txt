@@ -1,0 +1,1 @@
+<title>Issue 30719 -   chromium -    Can not open gigaom.com - Project Hosting on Google Code</title>   1. Open Chrome on Linux  2. Open url <a href="http://www.gigaom.com">http://www.gigaom.com</a>      Page should open      Page does not open. And Chrome task manager gives me an option to kill the   page or wait.    <b>Please provide

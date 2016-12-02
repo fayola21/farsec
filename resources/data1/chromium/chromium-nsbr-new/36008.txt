@@ -1,0 +1,1 @@
+<title>Issue 36008 -   chromium -    Audio doesn't work on FreeBSD - Project Hosting on Google Code</title> <pre> Excerpt from <a href="http://chromium.jaggeri.com/">http://chromium.jaggeri.com/</a>  Here's a new amd64 build with working HTML 5 video  albeit without streaming   or sound (maybe sound'll work with Ariff's libasound port)    expected  sound should work </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29286 -   chromium -    tv.nana.co.il: VIdeo doesn't play on Mac - Project Hosting on Google Code</title> <pre> <a href="http://10tv.nana10.co.il/">http://10tv.nana10.co.il/</a>    WMP Video player doesn't work on Mac.    Browsers tested:  Firefox 3/Mac: Error message displayed.  Chrome/Mac: No error message  Safari: Missing plugin error dialog </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27565 -   chromium -    not validating tabid parameter of chrome.tabs.connect() - Project Hosting on Google Code</title> <pre> You can do    var port = chrome.tabs.connect(-1);  port.postMessage(&quot;foo&quot;);    and not get any errors. We should either return a null port  or throw an   error on the call to postMessage.  </pre>

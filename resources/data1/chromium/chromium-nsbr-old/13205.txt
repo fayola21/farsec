@@ -1,0 +1,1 @@
+<title>Issue 13205 -   chromium -    Full screen mode is not implemented - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  Full screen mode is not implemented. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 8189 -   chromium -    Image alt-attribute doesn't work - Project Hosting on Google Code</title>   1. Go to a page with pictures that do not work  2. Check if they have an alt attribute  3. If 2 = true then notice the alt isn't displayed      To view the alt text      No alt text    Please provide

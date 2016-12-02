@@ -1,0 +1,1 @@
+<title>Issue 19232 -   chromium -    Same icon for application and html documents - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.39      1. Install Chrome  2. Even restarting  3. The html documents have the Chrome icon.      An html document should have its own Chrome's icon.     </pre>

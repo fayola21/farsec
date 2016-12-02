@@ -1,0 +1,1 @@
+<title>Issue 37982 -   chromium -    Provide a way to search links a la apostrophe in Firefox - Project Hosting on Google Code</title> <pre> In Firefox  if you press ' you can start typing and search within links.    This is very useful  especially for people who have RSI issues using the   mouse.     </pre>

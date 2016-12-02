@@ -1,0 +1,1 @@
+<title>Issue 42002 -   chromium -    BookmarkTreeNode needs to expose direction. - Project Hosting on Google Code</title> <pre> The BookmarkTreeNode in the bookmarks extension API does not expose the   direction of the title of a bookmark. </pre>

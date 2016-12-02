@@ -1,0 +1,1 @@
+<title>Issue 35951 -   chromium -    Java Plugin ????? When is going to fixed ???? - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.249.89 beta (38071)&gt;  URL : N/A          1. I have java 6.18 installed repeatedly.But Chrome is still throwing error   for one of my webmail asking to install the java. Any way to fix this.      </pre>

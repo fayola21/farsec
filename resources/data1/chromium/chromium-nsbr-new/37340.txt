@@ -1,0 +1,1 @@
+<title>Issue 37340 -   chromium -    Implement bookmark manager packaging using recursive copy - Project Hosting on Google Code</title> <pre> In chrome.gyp  the html-based bookmark manager is copied by listing out each   of its files one-by-one. It would be simpler to use a recursive copy  but   gyp doesn't support this yet (see dependent bug). Once it does  fix this. </pre>

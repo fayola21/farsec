@@ -1,0 +1,1 @@
+camel-bean - Classes enhanced by CGLIB should skip cglib methods    See nabblehttp://old.nabble.com/AmbiguousMethodCallException-on-transactional-spring-bean-to26496269.html   

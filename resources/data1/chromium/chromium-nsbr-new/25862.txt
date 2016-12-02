@@ -1,0 +1,1 @@
+<title>Issue 25862 -   chromium -    Product name and version are not boldfaced in the About box - Project Hosting on Google Code</title> <pre> They are on Windows. </pre>

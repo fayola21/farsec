@@ -1,0 +1,1 @@
+<title>Issue 20605 -   chromium -    Code inspector not working - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.203.2    1. Download latest-dev build.  2. Go to any webpage  rightclick  choose &quot;code inspector&quot;      Editable code of the page      It shows white screen </pre>

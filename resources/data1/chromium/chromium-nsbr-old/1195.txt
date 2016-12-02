@@ -1,0 +1,1 @@
+<title>Issue 1195 -   chromium -    [Feature] Proxy settings - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 &lt;see about:version&gt;  URLs (if applicable) : -        I request a feature  if you set the proxy-settings now  it is from windows-  proxy-settings.  I want only the proxy settings voor Google Chrome.    </pre>

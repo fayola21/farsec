@@ -1,0 +1,1 @@
+<title>Issue 29491 -   chromium -    No audio on HP dv3-1075us - Project Hosting on Google Code</title>   1. Go to any web site with audio player (E.g. last.fm)        Hear music      No sound at all    <b>Please provide

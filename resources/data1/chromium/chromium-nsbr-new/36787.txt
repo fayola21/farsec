@@ -1,0 +1,1 @@
+<title>Issue 36787 -   chromium -    Drag&amp;Drop text crash - Project Hosting on Google Code</title>   1. select some text on page  2. hold left mouse button  3. move mouse (drag text)      text moved with mouse      crashed all Chrome Tabs in all Chrome windows.    <b>Please provide

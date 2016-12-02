@@ -1,0 +1,1 @@
+Add option to override XSLT stylesheet used via header    Similar to 'dynamic templates' in velocity component http://camel.apache.org/velocity   

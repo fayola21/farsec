@@ -1,0 +1,1 @@
+<title>Issue 74 -   chromium -    Need to support using file:// URLs to specify PAC files. - Project Hosting on Google Code</title>   1. Browse to any site outside intranet.       site is loaded.       Get &quot;This webpage is not available&quot; screen with the following error:   Error 105 (net::ERR_NAME_NOT_RESOLVED): The server could not be found.    Please provide

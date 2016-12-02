@@ -1,0 +1,1 @@
+Oozie fails for stack 2.0 and 2.1       

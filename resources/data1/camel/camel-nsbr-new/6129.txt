@@ -1,0 +1,1 @@
+Simple language - bean function - issue when parameter value has comma    See nabblehttp://camel.465427.n5.nabble.com/Prolems-with-parametrized-bean-method-call-via-simple-tp5728319.html   

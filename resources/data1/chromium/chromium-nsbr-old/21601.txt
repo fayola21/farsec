@@ -1,0 +1,1 @@
+<title>Issue 21601 -   chromium -    Crashes on closing tab while asking for authentication - Project Hosting on Google Code</title>   1.Open the Browser with proxy settings and authentication reqd.  2.When asked for authenticating  close one of the tabs.  3.Chrome crashes      It shouldn't crash and just close the tab.          <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 29972 -   chromium -    Developer tools window won't load properly - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.268.0 (Developer Build 34242)    Since some time ago  I couldn't get the Developer Tools window to work   properly. I tried running with an empty profile  but it didn't help.     </pre>

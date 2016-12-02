@@ -1,0 +1,1 @@
+<title>Issue 12120 -   chromium -    chrome browser process and flash process memory usage grows over time (memory leak) - Project Hosting on Google Code</title>   1. Run Chrome  2. Browse for several hours  opening and closing tabs         Memory usage stays constant        Memory usage keeps increasing    <b>Please provide

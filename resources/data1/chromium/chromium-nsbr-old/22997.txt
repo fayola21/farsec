@@ -1,0 +1,1 @@
+<title>Issue 22997 -   chromium -    Chrome Frame offers no client-side detectability - Project Hosting on Google Code</title>   1. Hit an url with cf:<a href="http://myurl.com">http://myurl.com</a>  2. alert(navigator.userAgent);        It would be great to be able to detect that this is in fact Chrome Frame.        We get the Chrome UA string.    <b>Please provide

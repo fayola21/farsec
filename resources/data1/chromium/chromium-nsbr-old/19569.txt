@@ -1,0 +1,1 @@
+<title>Issue 19569 -   chromium -    Chrome has crashed when I want open a new link - Project Hosting on Google Code</title>   1. Open many Tabs  2. Try to open a new link from one tab  3. Error Message Box appeared.      The new link has been opened.      Error Message Box appeared.    <b>Please provide

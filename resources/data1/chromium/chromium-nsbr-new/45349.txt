@@ -1,0 +1,1 @@
+<title>Issue 45349 -   chromium -    Small file audio doesn t play used to play in prior version - Project Hosting on Google Code</title>   1.  Add audio tag in browser and source audio file.            File should play        control is disabled.  Same issue with javascript based playing.  <b>Please provide

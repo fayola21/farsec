@@ -1,0 +1,1 @@
+<title>Issue 29670 -   chromium -    Page Rendering Problem - Project Hosting on Google Code</title>   1. The rendering of the browser is not correct.  2. When the page is refreshed  the page becomes mass.        The page should be correctly rendered/appeared          Please provide

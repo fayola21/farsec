@@ -1,0 +1,1 @@
+<title>Issue 21226 -   chromium -    os x: open a html file with chrome (via finder) shown only a blank page - Project Hosting on Google Code</title>   1. create a html file   2. navigate to this file via finder   3. try to open it with chrome      the expected result is that file will be shown (using the file:/// protocol)      chrome shows a blank page    <b>Please provide

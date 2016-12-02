@@ -1,0 +1,1 @@
+<title>Issue 53 -   chromium -    No Master Password Option - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    Needs an option to set a Master Password </pre>

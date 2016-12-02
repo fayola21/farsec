@@ -1,0 +1,1 @@
+<title>Issue 844 -   chromium -    Java plugin - Project Hosting on Google Code</title>   1. The browser don't recognize the java plugin even after the plugin   reinstalation.                    Please provide

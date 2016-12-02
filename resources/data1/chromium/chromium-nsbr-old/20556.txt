@@ -1,0 +1,1 @@
+<title>Issue 20556 -   chromium -    Tab to search bubble is wrong color - Project Hosting on Google Code</title> <pre> The tab to search bubble should be light blue with a slightly darker blue   stroke. This used to be the case. In the latest build I installed it's now dark   gray with no stroke  which is incorrect. </pre>

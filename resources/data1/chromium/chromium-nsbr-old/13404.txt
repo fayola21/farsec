@@ -1,0 +1,1 @@
+<title>Issue 13404 -   chromium -    context menu copy/paste doesn't work in gmail - Project Hosting on Google Code</title>   1. Select text on a page  right click  pick &quot;copy&quot;.  2. Right click on a new message body in gmail and pick &quot;paste&quot;.      Text pasted.      Nothing pasted.    <b>Please provide

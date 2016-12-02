@@ -1,0 +1,1 @@
+Document - File component when its using file or directory names    Yes I think we need to document it much better how Camel handles this file/folder stuff when its consuming files producing filesIt's a bit confusing when Camel uses the unique message id for filename instead of the path from the URI.   

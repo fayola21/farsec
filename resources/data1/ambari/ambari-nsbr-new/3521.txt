@@ -1,0 +1,1 @@
+Incorrect status counters on cluster deploy    In host stauts filter label shows incorrect number of hosts after deploy failed.Wrong progress bar color  on fail color should be red or yellow  instead of blue.   

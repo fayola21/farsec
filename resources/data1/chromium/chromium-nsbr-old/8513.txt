@@ -1,0 +1,1 @@
+<title>Issue 8513 -   chromium -    Installer fails with error 0xc00ce56f - Project Hosting on Google Code</title>   1. Try to install Chrome on my XP computer      I expected the installer to start  or at least give a human-readable error   message.      ChromeSetup.exe fails with error code 0xc00ce56f.    Please provide

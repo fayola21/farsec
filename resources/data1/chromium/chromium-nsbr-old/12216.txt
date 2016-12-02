@@ -1,0 +1,1 @@
+<title>Issue 12216 -   chromium -    Bookmarks bar doesn't match rest of themed UI - Project Hosting on Google Code</title> <pre> It's blue but not the right blue.    (Filing this so we don't forget -- not sure which of y'all should be   responsible for it.) </pre>

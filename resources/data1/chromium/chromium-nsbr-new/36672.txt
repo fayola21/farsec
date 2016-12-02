@@ -1,0 +1,1 @@
+<title>Issue 36672 -   chromium -    Highlighting and dragging text causes a crash - Project Hosting on Google Code</title>   1. Load a web page with text  2. Highlight a block of text with your mouse.  3. Click on the highlighted block and attempt to drag it a short distance.      No result.      Woah! Chromium has crashed!    <b>Please provide

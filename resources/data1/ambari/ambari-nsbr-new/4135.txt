@@ -1,0 +1,1 @@
+Review page doesn't have info about Repositories    Load Repositories info in the same way as for add Host Wizard.   

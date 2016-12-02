@@ -1,0 +1,1 @@
+<title>Issue 7971 -   chromium -    Dangerous Download shelf is broken  !!! - Project Hosting on Google Code</title> <pre> Build: 2.0.167.0 (Developer Build 10179)    Dangerous Download shelf is broken  it no more displays for downloading  exe's (small .exe only :)  I know we have a bug for .EXE (CAPS))     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 24642 -   chromium -    Browser action rendering glitch on first install - Project Hosting on Google Code</title> <pre> There is sometimes a rendering glitch when the first browser actions is first   installed. Some of the toolbar is not painted next to the omnibox  resulting   in a white rectangle directly to the right right of the omnibox. </pre>

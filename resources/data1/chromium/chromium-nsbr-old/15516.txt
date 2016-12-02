@@ -1,0 +1,1 @@
+<title>Issue 15516 -   chromium -    New tabs are untitled or just say New Tab (Mac) - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.190.0           Safari 4: OK      1. First tab has a title ok  but other tabs or called untitled or new tab      Each tab should have page title   </pre>

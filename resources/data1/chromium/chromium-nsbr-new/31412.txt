@@ -1,0 +1,1 @@
+<title>Issue 31412 -   chromium -    Using of Linear gradient in css of extensions may cause random crash - Project Hosting on Google Code</title>   1. extension with content scripts changing css into background:-webkit-  gradient(linear  ...);  2. load the target page  3. sometimes a crash would be encountered.                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44887 -   chromium -    Mini-installer is not working properly - Project Hosting on Google Code</title>   1. download a last version mini_installer 48010 or higher  2. close chromium  3. run mini_installer        new version should be installed        new version is not installed    <b>Please provide

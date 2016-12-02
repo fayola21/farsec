@@ -1,0 +1,1 @@
+<title>Issue 13906 -   chromium -    Crashes when open 'Customize and control Google Chrome' - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.187.0 (Official Build 18043)                    1. Click 'Customize and control Google Chrome'  2. Click 'About Google Chrome'      'About' box is opened.      Google Chrome crashes.     </pre>

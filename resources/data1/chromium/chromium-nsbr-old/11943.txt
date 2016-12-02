@@ -1,0 +1,1 @@
+<title>Issue 11943 -   chromium -    Bank Login with only one tab - Project Hosting on Google Code</title>   1. Login to Netbanking  2. only one tab can be seen and that is LOGOUT  3. In Internet explorer all the tabs can be seen      Good      Uninstall of google chrome    <b>Please provide

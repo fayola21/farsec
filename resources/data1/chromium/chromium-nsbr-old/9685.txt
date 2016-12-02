@@ -1,0 +1,1 @@
+<title>Issue 9685 -   chromium -    chrome/tools/build/linux/version.sh use of git-svn doesn't work for all git repositories - Project Hosting on Google Code</title> <pre> git-svn doesn't work (it hangs for a long time) if you are not using a  direct clone from git.chromium.org. Using git-svn init doesn't work if you  don't have commit access to svn.chromium.org.     </pre>

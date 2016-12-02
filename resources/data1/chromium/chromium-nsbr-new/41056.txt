@@ -1,0 +1,1 @@
+<title>Issue 41056 -   chromium -    sync duplicates Website entries - Project Hosting on Google Code</title>   1. &quot;wrench&quot; -&gt; sync -&gt; setup sync  2. deinstall Chromium complete  3. install one of the snapshots above      to show one entry      every entry is doubled like in my sreenshots      <b>Please provide

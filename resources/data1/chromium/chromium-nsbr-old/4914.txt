@@ -1,0 +1,1 @@
+<title>Issue 4914 -   chromium -    not full-screen when maximized - Project Hosting on Google Code</title>   1. Maximize chrome browser  2. --------  3. --------      Entire screen will be filled by Chrome browser      edges on right and bottom show desktop/ application open behind Chrome   chromes    Please provide

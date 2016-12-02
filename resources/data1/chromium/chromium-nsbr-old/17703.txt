@@ -1,0 +1,1 @@
+<title>Issue 17703 -   chromium -    Proper Multi-channel audio support in Linux. - Project Hosting on Google Code</title> <pre> The alsa implementation currently cannot handle anything other than 2-  channel audio.    Being able to support outputting to a multi-channel capable sound card is a   nice to have by beta. </pre>

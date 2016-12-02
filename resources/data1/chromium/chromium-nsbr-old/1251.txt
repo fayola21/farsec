@@ -1,0 +1,1 @@
+<title>Issue 1251 -   chromium -    0xc0000005 Showstopper in WinMCE 2005 - Failed to initialize - no obvious workaround -  - Project Hosting on Google Code</title>   1. Install (*note: LONG AND SLOW with poor status interface)  2. Import firefox (note: crashes here sometimes)  3. Failed ti initialize 0xc0000005      Google Homepage      0xc0000005    Please provide

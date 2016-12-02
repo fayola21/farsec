@@ -1,0 +1,1 @@
+DeadLetterChannel - Should pre check the endpointUri is valid and report failure on startup    If you misconfigure the DLC endpoint URI it will get created on demand and if case of a problem its logged. We should pre check this on route startup so we know the DLC queue works.   

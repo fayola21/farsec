@@ -1,0 +1,1 @@
+<title>Issue 15531 -   chromium -    regression: shift-space doesn't scroll the page backwards - Project Hosting on Google Code</title> <pre> Shift-space should be the same as page up.    On 190.2: works.  On trunk: doesn't.    I bet it's related to the input refactoring. </pre>

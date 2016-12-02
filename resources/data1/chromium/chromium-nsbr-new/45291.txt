@@ -1,0 +1,1 @@
+<title>Issue 45291 -   chromium -    Flash lost after upgrading to 5.0 - Project Hosting on Google Code</title> <pre> Few internal people are complaining that their flash is lost after upgrading   to 5.0. I saw the same issue on my machine with 375.55. I am pretty sure I   did not upgrade from 4.1. Investigating...   </pre>

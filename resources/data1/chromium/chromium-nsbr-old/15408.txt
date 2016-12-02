@@ -1,0 +1,1 @@
+<title>Issue 15408 -   chromium -    javascript almost 100% cpu usage even after loading - Project Hosting on Google Code</title>   1. go to <a href="http://www.magnet4less.com/">http://www.magnet4less.com/</a>  2. click videos  3. horrific cpu usage      after some time loading  cpu usage must be gone      deadlock cpu usage even loading is complete    <b>Please provide

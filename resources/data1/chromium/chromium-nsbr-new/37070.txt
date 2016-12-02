@@ -1,0 +1,1 @@
+<title>Issue 37070 -   chromium -    Move logic out of login screen views to its controllers - Project Hosting on Google Code</title> <pre> Now that each login screen view has a WizardScreen-derived object as its   owner  non-view logic should be moved out from the views. </pre>

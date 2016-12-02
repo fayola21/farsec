@@ -1,0 +1,1 @@
+<title>Issue 37063 -   chromium -    Review default color choise on Linux - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.11 (Official Build 39572) beta    Please review the default colors in the default theme on Linux. The blue   color is even worse than Gnomes default colors. </pre>

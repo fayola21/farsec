@@ -1,0 +1,1 @@
+Cannot decommission data node (ensure recommission also works)    stderr: $configuration&#91;hdfs-site&#93; is not an hash or array when accessing it with dfs.hosts.exclude at /var/lib/ambari-agent/puppet/modules/hdp-hadoop/manifests/hdfs/decommission.pp:24 on node ip-10-82-213-66.ec2.internal stdout:None   

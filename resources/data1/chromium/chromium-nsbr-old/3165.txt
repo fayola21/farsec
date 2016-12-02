@@ -1,0 +1,1 @@
+<title>Issue 3165 -   chromium -    No way to restart a download - Project Hosting on Google Code</title>   1. download a file          there should be a way to restart the download      there is no way to restart the download    Please provide

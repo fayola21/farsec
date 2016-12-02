@@ -1,0 +1,1 @@
+<title>Issue 23901 -   chromium -    box-shadow not working on win/linux - Project Hosting on Google Code</title> <pre> Looking at the output for fast/box-shadow/inset.html  it appears that on   Win/Linux the box shadow is not being rendered on some of the elements. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21100 -   chromium -    We should warn users when the installed version of Flash is a security risk - Project Hosting on Google Code</title> <pre> We can update Chrome as fast as needed  but we users can still be owned via   Flash  which is unsandboxed. We should warn users when we know that the   installed version of Flash is a security risk. </pre>

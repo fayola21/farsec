@@ -1,0 +1,1 @@
+<title>Issue 37504 -   chromium -    Resolving Host Takes Much more time than the older version - Project Hosting on Google Code</title>   1. Opening any new web-site that is not cached            direct opening of the website page        waiting up to 2-3 secs sometime to open the website page and resolve host    <b>Please provide

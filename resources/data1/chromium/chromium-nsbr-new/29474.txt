@@ -1,0 +1,1 @@
+<title>Issue 29474 -   chromium -    No support for css scrollbar modifications. - Project Hosting on Google Code</title> <pre> This is a very important feature to me. I have a web app where the look and   feel is completely killed by not being able to change the scrollbars colors.   Are you going to introduce them at all? </pre>

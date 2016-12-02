@@ -1,0 +1,1 @@
+<title>Issue 964 -   chromium -    Chrome takes at least 3 minutes to open any webpage - Project Hosting on Google Code</title>   1. opening any url take at least 3 minutes to open          instantaneous opening of the website      it takes at least 3 minutes to open the site    Please provide

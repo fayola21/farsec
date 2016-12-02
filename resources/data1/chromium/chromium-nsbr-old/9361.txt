@@ -1,0 +1,1 @@
+<title>Issue 9361 -   chromium -    Text Copy fail - Project Hosting on Google Code</title>   1.Go to a web page  2.Select some text  3.Right click to get Copy menu        should have given the option menu to copy        the selection get deselected    <b>Please provide

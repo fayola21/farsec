@@ -1,0 +1,1 @@
+<title>Issue 6093 -   chromium -    [settings] bad directionality for gears button - Project Hosting on Google Code</title> <pre> &lt;see b1191046&gt;      1) open chrome  Hebrew UI  2) chrome menu -- settings  3) under the hood-- google gears        the directionality for the gears settings is incorrect &amp; the location of   the colon near the button label         </pre>

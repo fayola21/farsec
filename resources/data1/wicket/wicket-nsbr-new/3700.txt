@@ -1,0 +1,1 @@
+WicketTester.startComponent(Class  Markup) doesn't deliver the contributed response to the headers    There is a regression from RC3 with starting a Panel. The header contribution is not in the 'lastRenderedPageAsString'.See attached test case.   

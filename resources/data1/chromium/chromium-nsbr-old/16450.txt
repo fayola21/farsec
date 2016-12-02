@@ -1,0 +1,1 @@
+<title>Issue 16450 -   chromium -    Cmd-L should select location bar  - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.192.0    OS version               : 10.5.7      1.Start typing in location bar  2.Hit cmd-L      Should select text in location bar  as in Firefox and Safari      Nothing </pre>

@@ -1,0 +1,1 @@
+<title>Issue 32177 -   chromium -    Alignment issues of &quot;add new tab&quot; button - Project Hosting on Google Code</title>   1.Refer to screenshot          The usual placement of said button.          <b>Please provide

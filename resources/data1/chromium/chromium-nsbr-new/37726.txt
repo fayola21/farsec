@@ -1,0 +1,1 @@
+<title>Issue 37726 -   chromium -    Suggestion - Project Hosting on Google Code</title> <pre> Wish you would add a feature that would allow you to select to block sending   referer headers.  </pre>

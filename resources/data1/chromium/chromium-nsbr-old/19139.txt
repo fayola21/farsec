@@ -1,0 +1,1 @@
+<title>Issue 19139 -   chromium -    Dragging and releasing a link opens it in a new tab - Project Hosting on Google Code</title>   1.draggin a link        Open the target window in a new tab.      nothing.    <b>Please provide

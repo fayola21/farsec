@@ -1,0 +1,1 @@
+Remove files from ambari-web that were not meant to be checked in    ambari-web/node_modules  ambari-web/public  ambari-web/ambari.iml were not meant to be checked in. Must remove.   

@@ -1,0 +1,1 @@
+<title>Issue 8773 -   chromium -    Chrome only uses the left half when browsing web sites  other half (right) is just white in http://www.keznews.com - Project Hosting on Google Code</title>                       <b>Please provide

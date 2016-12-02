@@ -1,0 +1,1 @@
+SourcesPage fails on resources with non-ASCII characters    When created with a String input argument  XhtmlRenderer uses the deprecated java.io.StringBufferInputStream  which 'does not properly convert characters into bytes' (javadoc).Thus the rendered output may contain invalid characters for the Ajax response.   

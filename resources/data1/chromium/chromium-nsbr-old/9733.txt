@@ -1,0 +1,1 @@
+<title>Issue 9733 -   chromium -    Improve tab-to-search scraping - Project Hosting on Google Code</title> <pre> Various sites don't get scraped for tab-to-search:    - maps.google.com  - newegg.com    There are no doubt countless others.    Some time should be spent debugging such sites and figuring out why they're   not getting captured and improving the capture system. </pre>

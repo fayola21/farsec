@@ -1,0 +1,1 @@
+<title>Issue 13905 -   chromium -    Remove unused code review account. - Project Hosting on Google Code</title> <pre> I just got provisional commiter access and don't want people sending code   reviews to my @google.com account. I set the nickname to kylep-death to   discourage people from sending reviews there  but it'd be best if it were   removed. </pre>

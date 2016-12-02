@@ -1,0 +1,1 @@
+<title>Issue 26933 -   chromium -    Mediawiki theme is misplacing the side menu. - Project Hosting on Google Code</title>   1. Visit any page.      The side menu should be located under the logo.      The side menu  located on the left is located under the main content on the   right.    <b>Please provide

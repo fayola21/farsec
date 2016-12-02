@@ -1,0 +1,1 @@
+<title>Issue 38535 -   chromium -    Omnibox shouldn't permit losing focus with empty box - Project Hosting on Google Code</title> <pre> If the Omnibox loses focus with no word-characters  then the omnibox should   be reset to the current website.    It is currently a UI bug that you can lose the website your viewing  just by   deleting the Omnibox. </pre>

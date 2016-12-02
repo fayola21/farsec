@@ -1,0 +1,1 @@
+<title>Issue 24756 -   chromium -    WEB_SOCKET is not enabled in chromium  - Project Hosting on Google Code</title> <pre> This is because websockets are not turned on in chromium yet. </pre>

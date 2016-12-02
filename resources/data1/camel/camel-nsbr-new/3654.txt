@@ -1,0 +1,1 @@
+BinaryPredicate - Dont store state to ensure thread safety    We should introduce a new matches method which is used by mock's when they report failure messages. The new method should return the failure message which ensures we dont have to store state on the binary predicate instance.   

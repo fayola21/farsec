@@ -1,0 +1,1 @@
+<title>Issue 16600 -   chromium -    Ctl-shift-left followed by delete deletes interword whitespace - Project Hosting on Google Code</title>   1. Type &quot;a b&quot; in &lt;input&gt;  2. Control-Shift-Left Arrow  3. Delete      Remaining text is &quot;a &quot;      Remaining text is &quot;a&quot;    <b>Please provide

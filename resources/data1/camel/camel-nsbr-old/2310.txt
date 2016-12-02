@@ -1,0 +1,1 @@
+UnitOfWork - Must be done in finally to ensure even when java.lang.Error is thrown fore reliable shutdown    This helps to keep in flight registry up-to-date even when java.lang.Error is thrown  such as when people use JUnit assertions.   

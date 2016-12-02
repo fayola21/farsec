@@ -1,0 +1,1 @@
+AjaxFormChoiceComponentUpdatingBehavior cannot be triggered with BaseWicketTester#executeAjaxEvent()    BaseWicketTester executes AjaxFormComponentUpdatingBehavior only.   

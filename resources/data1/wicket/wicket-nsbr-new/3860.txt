@@ -1,0 +1,1 @@
+StoredResponsesMapTest Random.nextInt takes only positive integer arguments  not 0    In the test StoredResponsesMapTest the line: String key2 = keys.get(rnd.nextInt(keys.size() - 1));has a problem since the integer argument to Random.nextInt can not be 0  but the keysList has size 1.   

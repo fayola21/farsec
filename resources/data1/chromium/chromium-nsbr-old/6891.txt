@@ -1,0 +1,1 @@
+<title>Issue 6891 -   chromium -    Shoud disable view-source for images. - Project Hosting on Google Code</title> <pre> See &lt;b/1230351&gt;    We should disable view-page source for images (eg: jpg etc)    Right now we show the image with view-source:  URL tag.   </pre>

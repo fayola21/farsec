@@ -1,0 +1,1 @@
+Maven archetype - Generates wrong plugin for surefire plugin    The blueprint archetype creates wrong pom.xml. The groupId for the surefire plugin is wrong.   

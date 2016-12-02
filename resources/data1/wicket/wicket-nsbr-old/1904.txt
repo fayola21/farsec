@@ -1,0 +1,1 @@
+CheckBox incorrectly converts its model value when a custom Boolean converter is installed - again    Hi I tried the last version of wicket (built from trunk svn) and there is one old bug again:see https://issues.apache.org/jira/browse/WICKET-330There was removed the default Boolean converter ... and the bug is again active.Thx for fixing H.   

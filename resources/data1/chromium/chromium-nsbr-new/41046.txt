@@ -1,0 +1,1 @@
+<title>Issue 41046 -   chromium -    Defect with download toolbar - Project Hosting on Google Code</title>   1.Saving file with possible threat to a system.      Opening dialog with &quot;save-not to save&quot; this file on download toolbar.      Dialog opened for a while and disappeared from panel. Panel becomes clean.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20502 -   chromium -    Allow Chrome to install with a custom theme or preinstall an extension - Project Hosting on Google Code</title> <pre> Several distribution partners are interested in shipping a version of Chrome   with a custom theme. We'd like the ability to package a CRX with a download   so it's installed with the browser. </pre>

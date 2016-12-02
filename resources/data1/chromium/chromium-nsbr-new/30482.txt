@@ -1,0 +1,1 @@
+<title>Issue 30482 -   chromium -    IMAGE+TEXT --&gt; IMAGE/TEXT should be an unexpected pass  not a failure - Project Hosting on Google Code</title> <pre> As per our discussion  doesn't make sense to turn the bots red in these cases.    CCing all the relevant people in the hopes that someone will volunteer to fix   this. :)   </pre>

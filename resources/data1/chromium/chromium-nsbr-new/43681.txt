@@ -1,0 +1,1 @@
+<title>Issue 43681 -   chromium -    Watch this on Vimeo won't work - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396.0 dev             Safari 4: OK      1.secondary click opens context menu  2.click on 'watch this on vimeo'      A new tab with the video on vimeo.com is supposed to open      nothing </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4345 -   chromium -    Unable to search within browse history - Project Hosting on Google Code</title>   1. Open the browse History page (Ctrl+H)  2. Press Ctrl+F      I hoped for Find in Page edit box to be available to allow me to search my history page      Nothing    <b>Please provide

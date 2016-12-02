@@ -1,0 +1,1 @@
+<title>Issue 28341 -   chromium -    history.forward() does not work in 4.0 - Project Hosting on Google Code</title>                     In a web-based questionnaire I use history.forward(); to 'disable' the   backward button. Does not work in 4.0    <b>Please provide

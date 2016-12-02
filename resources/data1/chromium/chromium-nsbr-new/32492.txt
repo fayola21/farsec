@@ -1,0 +1,1 @@
+<title>Issue 32492 -   chromium -    A suggestion about https://chrome.google.com/extensions - Project Hosting on Google Code</title> <pre> Users can star or mark some extensions thats we can find that quickly when I   want to reinstall.. </pre>

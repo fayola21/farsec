@@ -1,0 +1,1 @@
+<title>Issue 20726 -   chromium -    Page title should be clipped - Project Hosting on Google Code</title> <pre>   -Navigate to a webpage with long title (eg: cnn.com)    Notice the page title is not clipped with (...)  instead it is written into  the tabstrip.  </pre>

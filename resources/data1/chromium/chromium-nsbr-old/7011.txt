@@ -1,0 +1,1 @@
+<title>Issue 7011 -   chromium -    Geocortex maps can't be displayed in Win XP MCE SP3 - Project Hosting on Google Code</title>   1. OS: Microsoft Windows XP Media Center Edition Version 2002 SP3  2. Open the above URL  3. The map area will be blank  with a little icon in the center.                Please provide

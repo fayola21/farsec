@@ -1,0 +1,1 @@
+<title>Issue 21436 -   chromium -    --show-extensions-on-top: detached mode not working - Project Hosting on Google Code</title> <pre> In the new tab page  if the bookmark bar is detached  extensions do not show   up. </pre>

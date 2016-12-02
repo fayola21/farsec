@@ -1,0 +1,1 @@
+<title>Issue 31921 -   chromium -    Gmail and iGoogle simulteanously crash after a couple of minutes - Project Hosting on Google Code</title>   1.Open iGoogle and Gmail.  2.Switch to other tabs and wait for a couple of minutes          Everything remains stable and working        Kaboom! Both tabs crash simulteanously after a while (sad tabs)    <b>Please provide

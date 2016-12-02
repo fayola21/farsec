@@ -1,0 +1,1 @@
+<title>Issue 30040 -   chromium -    Add per-datatype specifics support to local sync storage - Project Hosting on Google Code</title> <pre> Currently SyncNodes are specialized to only handle bookmarks.  We should   extend SyncNodes to handle protocol bugger based playload and migrate the   current bookmarks implementation to use it.   </pre>

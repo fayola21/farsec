@@ -1,0 +1,1 @@
+<title>Issue 17216 -   chromium -    Bookmarks sample extension problems - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.0 (Developer Build 21065)      1. Install bookmarks sample extension  2. Press the &quot;Dump Bookmarks&quot; button  3. A blank tab opens  4. Press the &quot;Test Move&quot; button  5. Extension crashes     </pre>

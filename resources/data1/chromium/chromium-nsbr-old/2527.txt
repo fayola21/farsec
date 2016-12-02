@@ -1,0 +1,1 @@
+<title>Issue 2527 -   chromium -    Chromium not maxmized when startup - Project Hosting on Google Code</title>   1. launch Chromium  2. maximize the browser window  then close  3. launch Chromium again      Chromium should launch with browser window maximized      Chromium launch with browser window at restored state    Please provide

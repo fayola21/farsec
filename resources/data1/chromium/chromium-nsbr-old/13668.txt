@@ -1,0 +1,1 @@
+<title>Issue 13668 -   chromium -    depot_tools assume /bin/sh is really bash - Project Hosting on Google Code</title> <pre> I'm trying to port this to Solaris where /bin/sh is &gt;not&lt; bash and it doesn't work.  Works if you use   bash.  Either rewrite the script in sh  or stop explicitly calling /bin/sh! </pre>

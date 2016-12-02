@@ -1,0 +1,1 @@
+<title>Issue 4351 -   chromium -    Can't create an event from gmail - Project Hosting on Google Code</title> <pre>   1. Login into gmail.  2. Open a message   3. From More Actions drop down  select &quot;Create Event&quot;      Issue:  grrr...popup message is shown.    What is the expected output?   It should not be shown.    Build: 0.4.154.18       </pre>

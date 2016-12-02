@@ -1,0 +1,1 @@
+Make ambari web testMode work for installer wizard with HDP stack-2 selection.    Installer wizard with HDP stack-2 selection in test mode   

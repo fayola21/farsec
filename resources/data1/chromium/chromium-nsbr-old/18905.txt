@@ -1,0 +1,1 @@
+<title>Issue 18905 -   chromium -    Middle-Click causes chromium window to lose focus and become invisible. - Project Hosting on Google Code</title>   1. Open any other window  2. Middle-click anywhere on Chromium      Chromium stays on top and focused      Chromium window becomes invisible (it is still focused but all other   windows appear above it)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 25287 -   chromium -    Inspector window should stay open across extension reload - Project Hosting on Google Code</title> <pre>   1. Run an extension  2. Inspect one of its views  3. In wrench &gt; extensions  click &quot;reload&quot;        The inspector should stay open. Instead it goes away.       </pre>

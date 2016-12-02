@@ -1,0 +1,1 @@
+<title>Issue 2256 -   chromium -    Right-click not working for context menus - Project Hosting on Google Code</title>     1. Open any right-click context menu  2. Right-click on a selected menu item        On Windows  context menu items can usually be activated with the right   mouse button.        The context menu remains open  and no action is invoked.    Please provide

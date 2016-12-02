@@ -1,0 +1,1 @@
+<title>Issue 2109 -   chromium -    UI locks up when dragging files to desktop - Project Hosting on Google Code</title> <pre>   1. Download a file  2. Drag it to the desktop    The UI locks (can't switch tabs or interact with the page) up until the   file is done copying to the desktop. For the 300MB file I just did this   with it took ~15 seconds. </pre>

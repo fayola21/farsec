@@ -1,0 +1,1 @@
+<title>Issue 806 -   chromium -    Scroll Issue - Project Hosting on Google Code</title>   1. Open any web-page (e.g. www.msn.com)  2. scroll down  3. then try to scroll back up      The page should scroll up      The page doesn't scroll up    Please provide

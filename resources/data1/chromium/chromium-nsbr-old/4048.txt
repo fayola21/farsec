@@ -1,0 +1,1 @@
+<title>Issue 4048 -   chromium -    Regression: Painting issue with info bar - Project Hosting on Google Code</title> <pre> Sometimes the session restore info bar doesn't paint correctly as it   animates in.    This is now a 1.0 bug since the gfx changes were merged over. </pre>

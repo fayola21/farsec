@@ -1,0 +1,1 @@
+Allow parementer append for jms bindings with no endpoint    See test failures in https://issues.apache.org/activemq/browse/AMQ-2182   

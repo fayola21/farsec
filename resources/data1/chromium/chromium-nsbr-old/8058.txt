@@ -1,0 +1,1 @@
+<title>Issue 8058 -   chromium -    Chrome 2.0.164.0 keyboard not working correctly - Project Hosting on Google Code</title>   1. <a href="http://mail.google.com/">http://mail.google.com/</a> with keyboard shortcuts on.  2. Try using j/k to scroll between messages.  3. The page starts scrolling down even if you hit k after about the 3rd   keystroke.                Please provide

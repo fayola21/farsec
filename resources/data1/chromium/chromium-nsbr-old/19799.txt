@@ -1,0 +1,1 @@
+<title>Issue 19799 -   chromium -    Crash when try to download deb package - Project Hosting on Google Code</title>   1. goto getdeb.net  2. try to download transmission deb files        Crash of Chromium-browser.If launch it from command line this text   &quot;Segmentation fault&quot; appear.          <b>Please provide

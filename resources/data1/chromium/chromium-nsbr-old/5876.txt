@@ -1,0 +1,1 @@
+<title>Issue 5876 -   chromium -    Height and width defined for svg element are not honored - Project Hosting on Google Code</title>   1. Open SVG stated in URL above.          SVG image dimensions is larger than screen/browser dimensions  vertical &amp;   horizontal scrollbars should appear.      Vertical &amp; horizontal scrollbars are missing.    Please provide

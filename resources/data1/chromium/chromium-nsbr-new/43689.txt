@@ -1,0 +1,1 @@
+<title>Issue 43689 -   chromium -    embedded videos in site don't show; source must be clicked (if available) - Project Hosting on Google Code</title>   1.Opening a page with embedded youyube-video          Video shows up      Video shows up in a flash and then goes blank; no controls are available   nor video.jpg      <b>Please provide

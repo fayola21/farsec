@@ -1,0 +1,1 @@
+<title>Issue 117 -   chromium -    Touchpad Scrolling Sensitivity - Project Hosting on Google Code</title>   1. Open Google Chrome  2. Scroll      Smooth Scrolling      The page scrolls very jumpy  when you scroll it scrolls about half a page   at a time.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39279 -   chromium -    OOBE update should be cancelable in debug non-official builds - Project Hosting on Google Code</title> <pre> Chromium OS update during first boot can take a while. It should be   cancelable by hitting ESCAPE key in debug non-official builds. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33017 -   chromium -    Yahoo mail loses all its content after attaching a file - Project Hosting on Google Code</title> <pre> Dear Sir/Madam     A moment ago  I lost all the text to an email I had typed after I attached a   document in Yahoo Mail.    I hope you are having a good weekend; clearly mine just went down the drain.    Pieter </pre>

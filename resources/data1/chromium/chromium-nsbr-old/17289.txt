@@ -1,0 +1,1 @@
+<title>Issue 17289 -   chromium -    Extension dispatchOnUnload event can be called during GC - Project Hosting on Google Code</title> <pre> This leads to a crash.  We shouldn't call back into javascript during GC.  We   should just do it in a delayed task. </pre>

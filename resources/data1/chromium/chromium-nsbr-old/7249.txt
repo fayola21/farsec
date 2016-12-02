@@ -1,0 +1,1 @@
+<title>Issue 7249 -   chromium -    Request for CTRL-F 'find dialog' to open during new tab session - Project Hosting on Google Code</title>   1. CTRL-F on current page  2. Click on &quot;+&quot; option to open a new tab      I would expect the new tab to open along with a 'find dialog' in it.      The 'find dialog' is gone so one has to CTRL-F again.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 35596 -   chromium -    compact location bar is positioned incorrectly in RTL mode - Project Hosting on Google Code</title> <pre>   procedure to reproduce the issue.  build chromeos build of chrome on linux (GYP_DEFINES=chromeos=1)    $ LANGUAGE=he chrome    switch to compact navigation mode and click tab. the location of tab is  same as in LTR mode. </pre>

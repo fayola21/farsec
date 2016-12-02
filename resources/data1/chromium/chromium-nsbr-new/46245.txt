@@ -1,0 +1,1 @@
+<title>Issue 46245 -   chromium -    Windows 7 Taskbar error - Project Hosting on Google Code</title>   1. Open Google Chrome or Safari 4 or 5 or Browser using Webkit Engine  2. Click on Taskbar        Normally      Cannot use Taskbar  it also get crash !!    <b>Please provide

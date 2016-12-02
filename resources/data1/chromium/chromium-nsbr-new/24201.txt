@@ -1,0 +1,1 @@
+<title>Issue 24201 -   chromium -    chrome.toolstrip.expand does not work on Linux - Project Hosting on Google Code</title>   1. Write an extension which calls chrome.toolstrip.extend({height: 500})   (or whatever other height you want)  2. Run it  3. It doesn't extend the toolstrip        It extends the toolstrip.        It doesn't extend the toolstrip.    <b>Please provide

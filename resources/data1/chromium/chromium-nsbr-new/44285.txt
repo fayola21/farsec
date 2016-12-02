@@ -1,0 +1,1 @@
+<title>Issue 44285 -   chromium -    Chromium crashes when is running with Ubuntu and Macbook 1.1 - Project Hosting on Google Code</title>   1. Setup Sync  2. Restart  3. crash!      Doesn't crashes      The browser turn freezed    <b>Please provide

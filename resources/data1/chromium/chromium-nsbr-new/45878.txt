@@ -1,0 +1,1 @@
+<title>Issue 45878 -   chromium -    Indic font rendering on linux improper - Project Hosting on Google Code</title>   1. Visit any web page which uses Indic fonts  2. Open the same page in Firefox      The Indic fonts should render correctly.      They are rendered horribly bad.    <b>Please provide

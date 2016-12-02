@@ -1,0 +1,1 @@
+<title>Issue 15242 -   chromium -    Implement chrome.extension.manifest - Project Hosting on Google Code</title> <pre> People have expressed interest in introspecting their version from within an   extension. This makes sense next to me next to getURL(). </pre>

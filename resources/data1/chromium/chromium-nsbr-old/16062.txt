@@ -1,0 +1,1 @@
+<title>Issue 16062 -   chromium -    Convert flaky parts of browser_uitest.cc to browser tests framework - Project Hosting on Google Code</title> <pre> I'm thinking about these:    BrowserTest.NoTitle  BrowserTest.Title  BrowserTest.ThirtyFourTabs    If I manage to convert JavascriptAlertActivatesTab  that would be nice too.  But it may not be so easy. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41778 -   chromium -    &quot;Go To&quot; right click context menu option can open arbitary urls like chrome:// file:// etc. - Project Hosting on Google Code</title> <pre>   move mouse on the pic the click left button the press g or click goto  :D </pre>

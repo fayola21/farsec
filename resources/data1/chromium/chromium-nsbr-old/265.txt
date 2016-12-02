@@ -1,0 +1,1 @@
+<title>Issue 265 -   chromium -    Safe-Browsing feature hogs system - Project Hosting on Google Code</title>   1. Start Chrome  2. Wait        Chrome should do nothing (or not much)      Hogs down the system     Please provide

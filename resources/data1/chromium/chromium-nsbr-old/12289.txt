@@ -1,0 +1,1 @@
+<title>Issue 12289 -   chromium -    Status bubble should not hide immediately - Project Hosting on Google Code</title> <pre> The Windows status bubble sticks around for a little bit before hiding.  We   should do the same. </pre>

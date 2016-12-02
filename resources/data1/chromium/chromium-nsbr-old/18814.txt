@@ -1,0 +1,1 @@
+<title>Issue 18814 -   chromium -    Middle-click on Youtube logo doesn't open a new tab - Project Hosting on Google Code</title>   1. Open the link  2. Middle-click on the Youtube logo  in the top left corner      Youtube homepage is opened in a new tab      It is opened in the same tab    <b>Please provide

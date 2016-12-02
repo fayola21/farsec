@@ -1,0 +1,1 @@
+<title>Issue 5683 -   chromium -    Transparency is not applied correctly on LayoutTests/fast/text/shadow-no-blur.html - Project Hosting on Google Code</title> <pre> The test:    LayoutTests/fast/text/shadow-no-blur.html  has some transparency applied to it in Safari. In Chromium on Windows  we   don't get any transparency.    This is not very high priority. </pre>

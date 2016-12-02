@@ -1,0 +1,1 @@
+<title>Issue 41862 -   chromium -    Windows system menu item &quot;Move&quot; and &quot;Size&quot; exec error - Project Hosting on Google Code</title>   1.Restore the Chrome window  2.Right mouse click the window title  then click the menu item &quot;Move&quot;      Should move this window.      Cannot move this window.    <b>Please provide

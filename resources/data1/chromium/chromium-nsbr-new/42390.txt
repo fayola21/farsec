@@ -1,0 +1,1 @@
+<title>Issue 42390 -   chromium -    Looks like CSS property: display:-webkit-box or display:box completly broken not working  - Project Hosting on Google Code</title>   1. Trying running the attached file            footer should stick to the bototm        footer behaves like position:absolute and bottom:0px;    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38162 -   chromium -    Tab won't close after one try  does close the second - Project Hosting on Google Code</title>   1. Press Command-W or click File&gt;Close Tab or click the X on the tab      The tab should close.      The tab only closes if you tell it to close (using any method) again.    <b>Please provide

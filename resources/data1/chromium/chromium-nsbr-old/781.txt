@@ -1,0 +1,1 @@
+<title>Issue 781 -   chromium -    Constant use of hard disk while downloading - Project Hosting on Google Code</title>   1. Start a download          The download system should write the data on the hard disk with a interval  of 5 (more or less) seconds.      The download system writes constantly on the hard disk when it's  downloading something.    Please provide

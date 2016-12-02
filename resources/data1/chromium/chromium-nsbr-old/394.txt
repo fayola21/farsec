@@ -1,0 +1,1 @@
+<title>Issue 394 -   chromium -    Cannot browse Youtube videos - Project Hosting on Google Code</title>   1. log in youtube.com  2. then click an video at random  3. it will tell u that the video is no longer available  but it can be   played by firefox...                  Please provide

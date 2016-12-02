@@ -1,0 +1,1 @@
+<title>Issue 35927 -   chromium -    WAV files played via quicktime plugin have controls that are black - Project Hosting on Google Code</title> <pre> When a wav file is played  it currently uses quicktime if it is installed.    This plays  but the controls are black.   </pre>

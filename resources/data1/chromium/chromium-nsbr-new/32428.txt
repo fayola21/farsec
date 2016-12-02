@@ -1,0 +1,1 @@
+<title>Issue 32428 -   chromium -    Cannot copy/paste using keyboard shortcuts in Adobe Flex applications - Project Hosting on Google Code</title>   1. Open a flex based application  2. Click on a text field  3. Apple-v to paste        The contents of my clipboard should be copied to the text field        Just &quot;v&quot; showed up.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1167 -   chromium -    Dosn't support Oracle BI Answers - Project Hosting on Google Code</title>   1. Open the Oracle BI Web Application  2. Select Any subject Area to Build the Report      On the left hand side all the columns in the selected subject area should   appear.      No column can be viewed when trying to build a report.    Please provide

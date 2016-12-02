@@ -1,0 +1,1 @@
+<title>Issue 19470 -   chromium -    Linux support for OSS 4 or option to build with no sound - Project Hosting on Google Code</title>   1. download latest chromium on an OSSv4 system  2. Complains about missing asound2 libs.                  <b>Please provide

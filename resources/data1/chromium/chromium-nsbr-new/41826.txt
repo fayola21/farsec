@@ -1,0 +1,1 @@
+<title>Issue 41826 -   chromium -    sql.Statement::BindString16() and ::ColumnString16(). - Project Hosting on Google Code</title> <pre> I've noticed places in the code like:       s.BindString(0  UTF16ToUTF8(s));    Seems silly and error-prone.  Having a string16 version would encourage goodthink. </pre>

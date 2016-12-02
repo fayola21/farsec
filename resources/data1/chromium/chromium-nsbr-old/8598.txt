@@ -1,0 +1,1 @@
+<title>Issue 8598 -   chromium -    Print selection is not an option when printing - Project Hosting on Google Code</title>   1. highlight selected test  2. press ctrl-P  3. print window comes up with no way to tic print selection      I would expect it to print my highlighted selection.      Print selection is not an option.    Please provide

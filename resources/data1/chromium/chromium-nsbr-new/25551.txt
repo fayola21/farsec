@@ -1,0 +1,1 @@
+<title>Issue 25551 -   chromium -    Chrome crashes on many actions - Project Hosting on Google Code</title>   1. Open Gmail  2. Click any message      Message loaded.      Chrome crashes with &quot;Whoa! Google Chrome has crashed. Restart now?&quot; dialog.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21490 -   chromium -    Google.com does not look ugly in chrome/mac - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.206.1      1. Go to <a href="http://google.com">http://google.com</a>        The &quot;search&quot; button should look ugly like in Safari and Firefox.        It looks nice instead. </pre>

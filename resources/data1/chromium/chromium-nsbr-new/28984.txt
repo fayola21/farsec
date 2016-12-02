@@ -1,0 +1,1 @@
+<title>Issue 28984 -   chromium -    Use slavebuilddir to enable slave pool across builders - Project Hosting on Google Code</title> <pre> So even if a slave dies  others can take the hit instead of completely   loosing a builder. </pre>

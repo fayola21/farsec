@@ -1,0 +1,1 @@
+<title>Issue 4703 -   chromium -    Google Chrome display problems - Serious! - Project Hosting on Google Code</title> <pre> This is how all Chromium versions (including the latest one - 5893) look   when maximized on my laptop. See attached images. </pre>

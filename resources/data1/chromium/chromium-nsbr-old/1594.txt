@@ -1,0 +1,1 @@
+<title>Issue 1594 -   chromium -    No restart button available after update - Project Hosting on Google Code</title>   1. Open the about Google Chrome window  2. Click on update  3. Wait for the update to finish      An &quot;update&quot; button would appear      Nothing    Please provide

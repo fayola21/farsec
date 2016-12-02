@@ -1,0 +1,1 @@
+<title>Issue 17268 -   chromium -    Needless ie7_logins Web Data table - Project Hosting on Google Code</title> <pre> We don't need this table on Mac or Linux. </pre>

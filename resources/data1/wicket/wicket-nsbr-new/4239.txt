@@ -1,0 +1,1 @@
+add wicket-jar_es.properties for spanish localization    add wicket-jar_es.properties for spanish localization   

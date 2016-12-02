@@ -1,0 +1,1 @@
+Replace all String.split(char) with Wicket's Strings.split(String  char) for better performance    java.lang.String#split() method uses not-compiled java.lang.regex.Pattern objects to do its job. For splitting on a single character it is much better to use wicket-util's Strings#split(String  char)   

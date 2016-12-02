@@ -1,0 +1,1 @@
+<title>Issue 40023 -   chromium -    Make tab/toolbar gray - Project Hosting on Google Code</title> <pre> Glen proclaimeth &quot;The web  tis no longer blue!&quot;    tab/toolbar -&gt; gray </pre>

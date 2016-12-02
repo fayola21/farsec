@@ -1,0 +1,1 @@
+Camel builds should not use platform specific encoding    The builds on my Mac use the platform specific encoding thus leading to the following warngin:[WARNING] Using platform encoding (MacRoman actually) to copy filtered resources  i.e. build is platform dependent!We should use the &lt;project.build.sourceEncoding&gt; property to specify a project specific encoding (UTF-8).   

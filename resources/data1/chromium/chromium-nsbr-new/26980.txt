@@ -1,0 +1,1 @@
+<title>Issue 26980 -   chromium -    we should log NOTREACHED - Project Hosting on Google Code</title> <pre> We should log whenever a user hits a NOTREACHED in a release build. We can   use UMA for this.    The same goes for lightweight DCHECKs maybe. (for example  DCHECK(value)) </pre>

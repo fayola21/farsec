@@ -1,0 +1,1 @@
+splitter() should support batch for processing large files    See nabble:http://www.nabble.com/Splitter-for-big-files-td19272583s22882.htmlSomekind of batch(size) parameter to the splitter() DSL so we can process the exchanges in batches instead of all in one go.   

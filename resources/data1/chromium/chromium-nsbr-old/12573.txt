@@ -1,0 +1,1 @@
+<title>Issue 12573 -   chromium -    Get rid of &quot; &quot; labels in browser_toolbar_gtk.cc - Project Hosting on Google Code</title> <pre> Since we are hard-coding the pixel size of everything for now  we should  get rid of these things and instead specify padding when we insert the  buttons into the hbox.    filing this so we don't forget. </pre>

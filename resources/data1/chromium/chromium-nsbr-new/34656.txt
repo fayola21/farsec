@@ -1,0 +1,1 @@
+<title>Issue 34656 -   chromium -    Remove cookie behavior UI - Project Hosting on Google Code</title> <pre> Darin put in a TODO and removed the code to set the cookie behavior pref   from the UI  so we should remove the UI.    Assigning to thakis as part of the privacy work for M5. Since the pref is dead    we really should get rid of it asap. </pre>

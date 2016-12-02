@@ -1,0 +1,1 @@
+<title>Issue 18462 -   chromium -    Chrome should combine the refresh button with the stop and go button - Project Hosting on Google Code</title> <pre> When loading a page  the button would stop it. When a page is loaded  the   button would refresh it. When typing in the Omnibox  the button would execute   it. This would save space and declutter the interface. </pre>

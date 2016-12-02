@@ -1,0 +1,1 @@
+<title>Issue 38799 -   chromium -    Flash have problem and cannot detect mouse position - Project Hosting on Google Code</title>   1.Open a page that have video on facebook or google reader  2.Make some zoom in or zoom out(Ctrl+'+')  3.Right click on that flash contents  flash contents cannot detect your   click position well      <b>Please provide

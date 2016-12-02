@@ -1,0 +1,1 @@
+<title>Issue 15109 -   chromium -    Support UI transition animations in &gt;= Vista - Project Hosting on Google Code</title> <pre>   1. Load a page on Vista that produces a scrollbar.  2. Mouse over a scrollbar.  3. Mouse out.      The scrollbar buttons should fade out  but they disappear immediately in   Chrome.   </pre>

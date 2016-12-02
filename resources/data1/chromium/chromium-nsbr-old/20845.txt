@@ -1,0 +1,1 @@
+<title>Issue 20845 -   chromium -    Implement &quot;Change Font and Language Settings&quot; - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.203.4    Enable &quot;Change Font and Language Settings&quot; in Mac Preferences to enable  changing the default font size (for accessibility reasons). </pre>

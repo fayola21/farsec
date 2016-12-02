@@ -1,0 +1,1 @@
+<title>Issue 1929 -   chromium -    Failed to show website at startup - Project Hosting on Google Code</title> <pre> I install programm normaly but browser is not showing any single website   please see what error browser is showing when I try to see www.google.com </pre>

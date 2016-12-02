@@ -1,0 +1,1 @@
+<title>Issue 19449 -   chromium -    Chrome is printing gmail messages with large 2&quot; margins and FF/IE do not - Project Hosting on Google Code</title>   1. Attempting to print an email from gmail using chrome prints 2&quot; margins.  2. Using FF/IE does not  they print normal 1&quot; margins        normal margins      huge wide margins    <b>Please provide

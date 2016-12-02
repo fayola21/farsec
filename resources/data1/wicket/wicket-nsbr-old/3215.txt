@@ -1,0 +1,1 @@
+AutoCompleteTextField does not work in an iframe under IE 6  7 or 8    The code that has been integrated in version 1.4.11 to fix issue WICKET-2279 forces the cursor of an AutoCompleteTextField to do a 'carriage return' after each typed in char when the application runs in an iframe and IE 6  7 or 8 is used.   

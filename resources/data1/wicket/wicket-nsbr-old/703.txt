@@ -1,0 +1,1 @@
+AjaxEditableChoiceLabel doesn't work    AjaxEditableChoiceLabel doesn't init properly - it always creates DropDownChoice with null in the choices field. The newEditor() method is called from the AjaxEditableLabel constructor and at that time AjaxEditableChoiceLabel.choices is not initialized yet.   

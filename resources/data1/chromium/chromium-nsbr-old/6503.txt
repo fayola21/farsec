@@ -1,0 +1,1 @@
+<title>Issue 6503 -   chromium -    Facebook error - Project Hosting on Google Code</title>   1. Open anything in facebook  2. The Browser stood still for awhile.        Fast browsing  normal functioning of the browser      the browsing just stop  the tabs gets freeze until the browser open the new   link in facebook    Please provide

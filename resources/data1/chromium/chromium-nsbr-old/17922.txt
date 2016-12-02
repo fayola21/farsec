@@ -1,0 +1,1 @@
+<title>Issue 17922 -   chromium -    user-data-dir does not resolve &quot;~&quot; - Project Hosting on Google Code</title> <pre> Starting chrome with --user-data-dir=~/foo/bar will create a &quot;~&quot; directory   in the working directory. </pre>

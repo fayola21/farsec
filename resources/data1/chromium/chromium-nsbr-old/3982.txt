@@ -1,0 +1,1 @@
+<title>Issue 3982 -   chromium -    crashing of browser on exiting full screen - Project Hosting on Google Code</title>   1. open a video in full screen  2. press esc  3. the browser will hang and shutdown the tab                Please provide

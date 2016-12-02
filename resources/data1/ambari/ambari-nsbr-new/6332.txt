@@ -1,0 +1,1 @@
+Bulk Decommission: Background Operation Popup content looks broken    header in task details popup looks broken when we run decommission for many Datanodes.   

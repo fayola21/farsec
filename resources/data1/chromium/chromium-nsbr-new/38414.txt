@@ -1,0 +1,1 @@
+<title>Issue 38414 -   chromium -    Can't drag anything (text or images) in content area - Project Hosting on Google Code</title> <pre> - load any webpage  - select content  - try to drag it somewhere    page locks up and becomes unresponsive to user input from that point on. I suspect this is related   to the mouse capture work.    This is with ToT (41837).   </pre>

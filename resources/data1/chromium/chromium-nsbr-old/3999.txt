@@ -1,0 +1,1 @@
+<title>Issue 3999 -   chromium -    can't work in another window while one is open - Project Hosting on Google Code</title>   1. If there's in a window an error message  you can't open another window   to search for a solution.                    Please provide

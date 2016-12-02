@@ -1,0 +1,1 @@
+<title>Issue 16689 -   chromium -    Race condition hitting cmd-w while closing sheet causes entire window to close. - Project Hosting on Google Code</title> <pre>   1.open a window  2.open a second tab  3.hit cmd-w        the window closes instead of just the tab.   </pre>

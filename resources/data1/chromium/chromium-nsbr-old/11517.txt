@@ -1,0 +1,1 @@
+<title>Issue 11517 -   chromium -    rename ChromeCanvas and ChromeFont to gfx::Canvas and gfx::Font - Project Hosting on Google Code</title> <pre> Now that they no longer live under chrome/  ChromeCanvas and ChromeFont   should be renamed gfx::Canvas and gfx::Font </pre>

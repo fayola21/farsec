@@ -1,0 +1,1 @@
+<title>Issue 10952 -   chromium -    Port the default plugin to Linux - Project Hosting on Google Code</title> <pre> The default plugin is the &quot;no plugin is installed  click here to install one&quot;   handler.  webkit/default_plugin  and it needs a Linux port. </pre>

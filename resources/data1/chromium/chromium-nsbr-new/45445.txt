@@ -1,0 +1,1 @@
+<title>Issue 45445 -   chromium -    about:memory application name is Chromium  should be Google Chrome - Project Hosting on Google Code</title>   1. Go to the about:memory page.  2. Move the mouse pointer to the lowest right question mark icon (see the   attached screenshot).      Application name should be Google Chrome.      Application name is Chromium.    <b>Please provide

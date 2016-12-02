@@ -1,0 +1,1 @@
+<title>Issue 183 -   chromium -    Double clicking in Omnibox selects word+punctuation but subsequent edits don't always affect that punctuation - Project Hosting on Google Code</title>   1. If you mark &quot;code&quot; in code.google.com      just &quot;code&quot; is marked      &quot;code.&quot; is marked but you can only change &quot;code&quot;    Please provide

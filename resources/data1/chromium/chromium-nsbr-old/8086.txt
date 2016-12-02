@@ -1,0 +1,1 @@
+<title>Issue 8086 -   chromium -    n-hits of [Ctrl-h/Ctrl-j] opens [History/Downloads] tabs for n-times - Project Hosting on Google Code</title> <pre> Build:2.0.167.0 (Developer Build 10380)    Hitting Ctrl+h n times on browser window opens History page for n times.    Expected:  Should reopen the existing page.    Same case with Downloads page too. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45883 -   chromium -    TypedURL ChangeProcessor doesn't handle deleted nodes properly - Project Hosting on Google Code</title> <pre> It always tries to look up the node  even for a deleted ID.  This would lead to OnUnrecoverableError()   being called. </pre>

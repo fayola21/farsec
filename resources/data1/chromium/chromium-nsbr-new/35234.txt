@@ -1,0 +1,1 @@
+<title>Issue 35234 -   chromium -    Closing incognito window crashes the whole browser - Project Hosting on Google Code</title>   1. Open something in incognito  2. Close it  3. Bam  the whole browser crashes (usually)      The incognito tab/window closes      The whole browser closes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24451 -   chromium -    we're creating zombies which could choke the machine - Project Hosting on Google Code</title> <pre>   1. launch chrome and run for a while (lot of tabs  etc)  2. ps | grep Google Chrome H        You'll find a bunch of zombies got left around.  This would be bad. </pre>

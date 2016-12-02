@@ -1,0 +1,1 @@
+<title>Issue 13076 -   chromium -    Plug-in unresponsive @ NSE website nseindia.com  - Project Hosting on Google Code</title>   1. Goto www.nseindia.com          Opens the page.      Crashes the browser.    <b>Please provide

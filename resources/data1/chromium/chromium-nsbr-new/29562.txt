@@ -1,0 +1,1 @@
+<title>Issue 29562 -   chromium -    display flickers upon scrolling on Linux - Project Hosting on Google Code</title>   1. Go to the above referred URL  2. scroll with the mouse wheel up'n'down        You just see the page appearing normally.        Upon scrolling  display flickers or blackouts  sometimes remains garbled.  See attached screenshot.    <b>Please provide

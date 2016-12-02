@@ -1,0 +1,1 @@
+<title>Issue 21738 -   chromium -    Scrollbar is shown as inactive if findbar or omnibox has focus - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.207.1  OS version               : 10.5.8      1. Open a web page long enough so that there's a scrollbar  2. Hit cmd-f        Scrollbar should stay blue.        It becomes gray instead. </pre>

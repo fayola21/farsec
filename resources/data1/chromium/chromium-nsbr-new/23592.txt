@@ -1,0 +1,1 @@
+<title>Issue 23592 -   chromium -    Regression: Create application shortcut in Open SuSe doesn't work - Project Hosting on Google Code</title>   1. Go to www.google.com  2. create an application shortcut        app shortcut is created in desktop or applications      nothing    <b>Please provide

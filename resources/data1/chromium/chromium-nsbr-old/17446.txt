@@ -1,0 +1,1 @@
+<title>Issue 17446 -   chromium -    Problem when clicking download now - Project Hosting on Google Code</title>   1.when trying to click download now from dell support website or others it   will not dowload  2.user must instead right click on link and save as  3.the save as does not always work                <b>Please provide

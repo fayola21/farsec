@@ -1,0 +1,1 @@
+<title>Issue 12583 -   chromium -    Javascript not running  so site displays incorrectly - Project Hosting on Google Code</title>              the accordion slides upon the users button request       the site loads vertically with all content displaying at once    <b>Please provide

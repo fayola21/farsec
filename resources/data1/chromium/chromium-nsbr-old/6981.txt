@@ -1,0 +1,1 @@
+<title>Issue 6981 -   chromium -    REGRESSION: Wrong autocomplete edit overdraw color on secure sites - Project Hosting on Google Code</title> <pre> (Tested on Vista Aero  2.0.158.0)    Go to a secure site and notice that the area of the autocomplete edit   that's overdrawn to make the selection not be too tall is overdrawn in   white instead of yellow. </pre>

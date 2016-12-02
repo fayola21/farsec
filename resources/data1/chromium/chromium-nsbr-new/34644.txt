@@ -1,0 +1,1 @@
+<title>Issue 34644 -   chromium -    Save/restore prefs window position - Project Hosting on Google Code</title> <pre> We should save and restore the preferences window position rather than   always centering it.    A good first bug for someone. </pre>

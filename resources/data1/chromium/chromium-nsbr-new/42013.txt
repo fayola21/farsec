@@ -1,0 +1,1 @@
+<title>Issue 42013 -   chromium -    verify xp interactive perf starts as a slave automatically after reboot - Project Hosting on Google Code</title> <pre> Verify that XP Interactive Perf starts as a slave automatically after a   reboot.  Today it went offline for some reason and when it came back   run_slave.bat needed to be run by hand. </pre>

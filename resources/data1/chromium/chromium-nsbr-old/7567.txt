@@ -1,0 +1,1 @@
+<title>Issue 7567 -   chromium -    Cursor doesn't appear when editing a search engine - Project Hosting on Google Code</title> <pre> If I go to &quot;Edit Search Engines&quot;  pick one  and edit it  I can't really   interact with the 3 text fields. The cursor doesn't appear  although focus   does seem to be moved. </pre>

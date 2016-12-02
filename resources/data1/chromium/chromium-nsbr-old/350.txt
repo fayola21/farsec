@@ -1,0 +1,1 @@
+<title>Issue 350 -   chromium -    company home page of samsung(south korea) can not be logged in - Project Hosting on Google Code</title>   1. input login id  2. input password  3. push login button   Pushing login button does not do anything!                Please provide

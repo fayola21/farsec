@@ -1,0 +1,1 @@
+<title>Issue 36010 -   chromium -    BrowserThemeProvider-&gt;HasCustomImage doing strange things - Project Hosting on Google Code</title> <pre> HCI plays very different roles in Mac and in Windows theme creation.  It seems   to be called in superfluous places on the Mac side  and it may be that it can   be dispensed with altogether.  Look into this. </pre>

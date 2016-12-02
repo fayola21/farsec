@@ -1,0 +1,1 @@
+Add WicketTester assertion methods for component's markup style  variation and locale    From the users@ mailing list: http://markmail.org/message/r4q5h566novcwakgAdd methods to WicketTester to be able to assert that a given component in the last rendered page (or even the page itself) has been rendered with a markup with a given variation (or style  or locale).   

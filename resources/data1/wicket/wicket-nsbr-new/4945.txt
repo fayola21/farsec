@@ -1,0 +1,1 @@
+Wicket-atmosphere filters should be functions on AtmosphereResource    With a function on AtmosphereResource  rather than a predicate  it is possible to filter on attributes in the AtmosphereRequest. This would allow you to create filters that differentiate on the receiver  without relying on the heavy-weight contextAwareFilter().   

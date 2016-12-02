@@ -1,0 +1,1 @@
+<title>Issue 575 -   chromium -    Smooth scrolling - Project Hosting on Google Code</title>   1. scroll using the scroller          should scroll smoothly      scrolls in steps.not smooth    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13800 -   chromium -    make build should tell you when to re-gyp - Project Hosting on Google Code</title> <pre> It seems like we could have the generated Makefile know that it is older   than a .gyp file and tell you to re-run gyp.  Maybe it could even re-run gyp   on its own and restart the build?  That sounds more complicated. </pre>

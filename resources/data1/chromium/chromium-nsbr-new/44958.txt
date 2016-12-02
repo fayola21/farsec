@@ -1,0 +1,1 @@
+<title>Issue 44958 -   chromium -    SelfDeletePluginInvokeAlert needs re-enabling - Project Hosting on Google Code</title> <pre> SelfDeletePluginInvokeAlert has been disabled for a year and a half; svn logs suggest it never   actually worked on the bots. It needs to be fixed and re-enabled (or if that's never going to happen    the code should be removed). </pre>

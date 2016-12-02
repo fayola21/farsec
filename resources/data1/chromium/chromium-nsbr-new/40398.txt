@@ -1,0 +1,1 @@
+<title>Issue 40398 -   chromium -    Memory Leak - Project Hosting on Google Code</title>   1. Basically just regular usage of the site  opening and closing tabs  and   changing pages.      Low memory usage      Leaks going over 300Mb... Usage of the site starts to slow down quite a lot    <b>Please provide

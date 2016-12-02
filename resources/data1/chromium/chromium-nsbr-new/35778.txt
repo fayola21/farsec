@@ -1,0 +1,1 @@
+<title>Issue 35778 -   chromium -    Right click context menu not available (snow leopard) - Project Hosting on Google Code</title>   1.right click web page link opens new tab in background.          should open context menu       as above in 1    <b>Please provide

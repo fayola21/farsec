@@ -1,0 +1,1 @@
+<title>Issue 30130 -   chromium -    Dutch: Copy URL menu title should be &quot;Kopieer koppeling&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Copy URL menu item in the menu Bewerken (sic) is localized as &quot;URL   kopi��_��_ren&quot;. The correct localization on the Mac is &quot;Kopieer koppeling&quot;.   </pre>

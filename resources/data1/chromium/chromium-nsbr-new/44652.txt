@@ -1,0 +1,1 @@
+<title>Issue 44652 -   chromium -    'unpin tab' is not translated - Project Hosting on Google Code</title> <pre> Italian    6.0.401.1 dev    Win7 32-bit      Pin a tab. (blocca scheda)  Unpin button is not translated. (should be sblocca scheda)         </pre>

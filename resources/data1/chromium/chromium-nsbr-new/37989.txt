@@ -1,0 +1,1 @@
+<title>Issue 37989 -   chromium -    Mac: menu bar hidden in fullscreen mode even when on secondary monitor - Project Hosting on Google Code</title> <pre> rohitrao has a patch here:    <a href="http://codereview.chromium.org/872003">http://codereview.chromium.org/872003</a> </pre>

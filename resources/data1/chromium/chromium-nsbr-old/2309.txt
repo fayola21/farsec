@@ -1,0 +1,1 @@
+<title>Issue 2309 -   chromium -    Cropped text in buttons (UI) - Project Hosting on Google Code</title>   1. Any button who's text is longer than its horiz. size          Hard-to-read buttons          Please provide

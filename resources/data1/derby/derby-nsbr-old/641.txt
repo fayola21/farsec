@@ -1,0 +1,1 @@
+Remove need for db2jcc.jar for executing ij or upload it on ibiblio    I'm trying to automate loading DDL files with Maven/Maven2 and all the derby are available on ibiblio except db2jcc.jar...Thanks!   

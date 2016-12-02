@@ -1,0 +1,1 @@
+<title>Issue 1811 -   chromium -    Google groups pages won't edit with chrome - Project Hosting on Google Code</title>   1. Open your google group  2. open a defined page  3. msg: (translated form dutch) editing this page is nog supported by your   browser  download firefox or IE.                Please provide

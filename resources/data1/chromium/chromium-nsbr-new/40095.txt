@@ -1,0 +1,1 @@
+<title>Issue 40095 -   chromium -    When database.open access is blocked for workers  we don't display the blocked content icon - Project Hosting on Google Code</title> <pre>   1. block all cookies  2. have a worker open a web database      blocked content icon should appear       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11698 -   chromium -    RTL: moving tab outide a window - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.17.1&gt;      When I try to move a tab outside a window (to be at a new window)  there is a   UI problem.    See in the attachment image where is the cursor and where is the title of the   transparent tab. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22347 -   chromium -    New tab page sometimes too large for netbooks - Project Hosting on Google Code</title>   1. Open a new tab page.          The full page should appear on the screen.      Requires scrolling.  I'm talking about netbooks with low resolutions. I   think it should shrink depending upon screen size available.    <b>Please provide

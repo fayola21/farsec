@@ -1,0 +1,1 @@
+<title>Issue 26276 -   chromium -    Reload inspector using the window menu option leads to blank inspector every other time - Project Hosting on Google Code</title> <pre>   1. Open inspector  2. In window menu choose Reload (top left corner)  3. See inspector blank every other reload.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43524 -   chromium -    http:// is removed from 5.0.396 - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396 dev      the UI for URI should show the whole URI      http:// part is cut off. </pre>

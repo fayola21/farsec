@@ -1,0 +1,1 @@
+<title>Issue 18902 -   chromium -    Download shelf could look nicer - Project Hosting on Google Code</title> <pre> Should look more like on windows. The progress circle is missing  the click   areas should not appear only on hover for starters. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13969 -   chromium -    tab_switching_test seems to have zero for it's stats - Project Hosting on Google Code</title> <pre> tab_switching_test on the bots seem to always have zero for it's times  this could be a problem on   one platform  or something that just doesn't work right on the bots.  it looks for a histogram of MPArch.RWHH_WhiteoutDuration </pre>

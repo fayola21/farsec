@@ -1,0 +1,1 @@
+<title>Issue 27019 -   chromium -    Page hangs before loading. - Project Hosting on Google Code</title>   1. Open Google Chrome.  2. Attempt to open a webpage  ie. youtube.com  google.com.      Page to attempt to load instantly.      Page holds for approx 5 seconds before attempting to load.    <b>Please provide

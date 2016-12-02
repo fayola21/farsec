@@ -1,0 +1,1 @@
+<title>Issue 41436 -   chromium -    Apple &quot;jobs&quot; site reliably causes Chromium to crash - Project Hosting on Google Code</title>   1. Just open <a href="http://www.apple.com/jobs">http://www.apple.com/jobs</a> in Chromium causes &quot;snap&quot; during page   load.            A web page is shown.          Snap!      <b>Please provide

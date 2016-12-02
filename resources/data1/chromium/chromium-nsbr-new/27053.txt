@@ -1,0 +1,1 @@
+<title>Issue 27053 -   chromium -    Data/Preference Sync - Project Hosting on Google Code</title> <pre> Feature Request:  Syncing of all user preferences including search keywords  extensions  and   perhaps even the most visited websites. </pre>

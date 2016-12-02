@@ -1,0 +1,1 @@
+<title>Issue 20796 -   chromium -    POST variables in PHP are empty when submitted on Chrome browser - Project Hosting on Google Code</title>   1. Submit a form from the Chrome browser      all POST variables should be set in PHP.      Sometimes they are  sometimes they are not. It could be because the action   file has more than 1 variable passed?    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24478 -   chromium -    Track memory allocated through wtf::fastMalloc and friends - Project Hosting on Google Code</title> <pre> We should be tracking the amount of memory allocated through the   wtf::fastMalloc family of allocator paths.  This will be helpful in   diagnosing general memory bloat and might serve as a useful signal for V8's   GC. </pre>

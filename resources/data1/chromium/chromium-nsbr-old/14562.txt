@@ -1,0 +1,1 @@
+<title>Issue 14562 -   chromium -    Support the mac find pasteboard (cmd-f should write to it  so should cmd-e. cmd-g should search for what's in there) - Project Hosting on Google Code</title> <pre> We should support cmd-e for finding the current selection.    (also should share the find pastboard if we don't already) </pre>

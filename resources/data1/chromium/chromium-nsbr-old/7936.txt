@@ -1,0 +1,1 @@
+<title>Issue 7936 -   chromium -    Unordered list menu (ul / li) on tweakers.net is broken - Project Hosting on Google Code</title>   1. Open website www.tweakers.net          A nicely rendered top menu      Menu displays the legend text content and wrong sizes for the ul or li   elements which make up the top menu.      Please provide

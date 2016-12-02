@@ -1,0 +1,1 @@
+<title>Issue 35669 -   chromium -    Expired certificate warning with https://bitbucket.org  but not when using Safari - Project Hosting on Google Code</title>   1. Visit <a href="https://bitbucket.org">https://bitbucket.org</a>      Access to the site without scary red screens.      Presented with a certificate expired warning page    <b>Please provide

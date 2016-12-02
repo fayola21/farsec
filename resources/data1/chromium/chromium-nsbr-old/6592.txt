@@ -1,0 +1,1 @@
+<title>Issue 6592 -   chromium -    The advertisement picture is missing - Project Hosting on Google Code</title>   1. Go to www.aim.com  2. Notice the right part of page        The picture advertisement should be displayed.      The picture advertisement is not displayed. See attached screen-shot.    Please provide

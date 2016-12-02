@@ -1,0 +1,1 @@
+<title>Issue 32224 -   chromium -    FileSystemPolicy::GenerateRules() name resolution is incomplete. - Project Hosting on Google Code</title> <pre> There is a TODO in FileSystemPolicy::GenerateRules() to cleanup the way that   we match policies with actual fs paths.    This may be problematic if somehow we end up with policies that have reparse   points in them.   </pre>

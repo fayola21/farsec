@@ -1,0 +1,1 @@
+BaseWicketTester#isInvisible(String path)    BaseWicketTester#isInvisible(String path) does not fail if Component does not exist.Similar methods like isVisible  isEnabled  isDisabled and isRequired  they all fail if component does not exist.   

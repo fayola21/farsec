@@ -1,0 +1,1 @@
+StringQuoteHelper - Should ignore whitespace between quoted parameters    Need to merge to 2.11 branch when created.   

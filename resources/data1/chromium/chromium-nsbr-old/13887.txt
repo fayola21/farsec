@@ -1,0 +1,1 @@
+<title>Issue 13887 -   chromium -    Google crashes when try to update / report a bug - Project Hosting on Google Code</title>   1.Update to this version  2.Try reporting a bug / updating      Google chrome should show version.      Google chrome crashes.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 677 -   chromium -    memory Usage - Project Hosting on Google Code</title>   1. open as few tabs  2. open different windows        only one process running or multiple process with a small memory footprint      multiple processes  a process for each tab opened each using a anything   between 5-30 MB    Please provide

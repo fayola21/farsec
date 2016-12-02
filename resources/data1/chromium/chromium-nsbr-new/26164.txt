@@ -1,0 +1,1 @@
+<title>Issue 26164 -   chromium -    Extension doc diagrams need to be updated - Project Hosting on Google Code</title> <pre> These diagrams:  <a href="http://code.google.com/chrome/extensions/overview.html#arch">http://code.google.com/chrome/extensions/overview.html#arch</a>    Need to be updated to reflect the new world order post-browser-actions. </pre>

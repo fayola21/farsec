@@ -1,0 +1,1 @@
+<title>Issue 4241 -   chromium -    Context menu option to navigate to static text that is a URL - Project Hosting on Google Code</title> <pre> We should have a context menu item visible for a right click on a &quot;word&quot;   that is a un-linkified URL  allowing the URL to be navigated to without   having to select it then paste it into the omnibox </pre>

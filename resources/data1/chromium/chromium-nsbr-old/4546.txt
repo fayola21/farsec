@@ -1,0 +1,1 @@
+<title>Issue 4546 -   chromium -    Clicking on History whilst in History is an endless I-O loop - Project Hosting on Google Code</title>   1. Select History from the tools bucket  2. When in the history panel - Click on History (upper right corner)      What is the expected result? No Idea      What happens instead? Endless I-O loop      Please provide

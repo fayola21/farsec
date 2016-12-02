@@ -1,0 +1,1 @@
+<title>Issue 7704 -   chromium -    Perf graph colors should be invariant across graphs - Project Hosting on Google Code</title> <pre> It would be nice if the colors for various lines (&quot;t&quot;  &quot;t_ref&quot;) were the   same in every graph.  Right now they're alphabetical so on the three-color   graphs they're all rotated around. </pre>

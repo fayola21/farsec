@@ -1,0 +1,1 @@
+<title>Issue 27887 -   chromium -    Buggy folder icon - Project Hosting on Google Code</title> <pre>   1. Apply a dark theme  2. add a folder to the bookmarks bar    The folder icon has ugly white lines on the bottom and right side. </pre>

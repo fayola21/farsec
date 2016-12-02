@@ -1,0 +1,1 @@
+<title>Issue 5755 -   chromium -    Launching inspector opens console by default - Project Hosting on Google Code</title> <pre> Go to any webpage  do a right click and select inspect element    Issue: Inspector opens up with console also opened    Chromium 1.0.155.0 (Developer Build 7266) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44021 -   chromium -    Fix objc_zombie.mm for 64-bit. - Project Hosting on Google Code</title> <pre> It uses nlist() to look stuff up  AFAICT using struct nlist_64 instead of struct nlist does the job just   fine  but since we don't support 64-bit right now anyhow  it hardly seems worth spending time   figuring it out. </pre>

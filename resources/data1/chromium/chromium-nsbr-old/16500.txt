@@ -1,0 +1,1 @@
+<title>Issue 16500 -   chromium -    Changing audio/video volume affects whole browser - Project Hosting on Google Code</title> <pre> Load a page with multiple &lt;audio&gt; or &lt;video&gt; elements.    Start playing them and then change the volume on one of them.  The change   effects all elements.    Confirmed on Windows. </pre>

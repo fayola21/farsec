@@ -1,0 +1,1 @@
+<title>Issue 19712 -   chromium -    Plugin sized wrong on apple quicktime video page - Project Hosting on Google Code</title>   1. open chromium  2. go to www.apple.com/uk/iphone  3. try to watch the iphone guide tour        video should play          small video doesnt play. medium sized one plays for 15 secs (no sound)  the   large one doesnt play    <b>Please provide

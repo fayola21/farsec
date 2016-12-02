@@ -1,0 +1,1 @@
+<title>Issue 13851 -   chromium -    console.dir dumps &quot;[object Object]&quot; instead of a live object in Dev Tools window. - Project Hosting on Google Code</title> <pre> 1. Open Dev Tools window  show console  2. Enter console.dir(document) there.    Expected: live expandable object  Actual: [object Object] caption.   </pre>

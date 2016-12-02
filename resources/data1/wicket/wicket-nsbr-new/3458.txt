@@ -1,0 +1,1 @@
+PackagedTextTemplate -> PackageTextTemplate    It's PackageResource but PackagedTextTemplate. Maybe remove the 'd' for sake of consistency.   

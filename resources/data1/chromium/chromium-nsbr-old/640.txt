@@ -1,0 +1,1 @@
+<title>Issue 640 -   chromium -    LogMeIn doesn't work with chrome. - Project Hosting on Google Code</title>   1. Log into your log me in account  2. try to connect to one of the distant computer.      Logmein use a java component to render the distant computer screen      Logmein cant find a file and raise an error.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27046 -   chromium -    Clicking bookmarks bar causes Chrome to crash - Project Hosting on Google Code</title>   1. Clicking bookmarks bar.  2. Clicking a bookmark in bookmarks bar.        Bookmarks will open.      Browser crashes.    <b>Please provide

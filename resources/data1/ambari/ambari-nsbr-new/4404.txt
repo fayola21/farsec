@@ -1,0 +1,1 @@
+mapreduce.task.io.sort.mb max value should not exceed 1024mb    https://issues.apache.org/jira/browse/MAPREDUCE-5028https://issues.apache.org/jira/browse/MAPREDUCE-2308   

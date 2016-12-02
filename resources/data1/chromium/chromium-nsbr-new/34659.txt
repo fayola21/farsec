@@ -1,0 +1,1 @@
+<title>Issue 34659 -   chromium -    Document tab layout/placeholders/tab dragging/tab closing on dev.cr.org - Project Hosting on Google Code</title> <pre> Title sez it all. I need to write a doc for all these things with pretty pictures. </pre>

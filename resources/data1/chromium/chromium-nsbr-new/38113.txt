@@ -1,0 +1,1 @@
+<title>Issue 38113 -   chromium -    the url jumps when typing - Project Hosting on Google Code</title>   1. open chromium  2. type address in the url area        The natural way it should be      During the typing process  the url jumps up and down frequently.     <b>Please provide

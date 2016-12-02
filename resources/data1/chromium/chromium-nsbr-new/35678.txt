@@ -1,0 +1,1 @@
+<title>Issue 35678 -   chromium -    Highlighted URL doesn't end up in Primary X Selection - Project Hosting on Google Code</title>   1. highlight a URL in Chromium's address bar  2. middle-click in another window to paste the URL      All highlighted text should be copied to Primary X Selection buffer      URL is not copied.    <b>Please provide

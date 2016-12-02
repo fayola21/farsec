@@ -1,0 +1,1 @@
+<title>Issue 18717 -   chromium -    need a unittest for validating extension_api.json - Project Hosting on Google Code</title> <pre> currently content or json formatting errors yield cryptic errors. </pre>

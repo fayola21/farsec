@@ -1,0 +1,1 @@
+<title>Issue 12083 -   chromium -    chrome doesn't ask to save password at http://www.youreon.nl/page/login - Project Hosting on Google Code</title>   1. Go to that page  2. Log in (first create an account)  3. Note that chrome doesn't ask you to save your password      To be able to save your login name and password      can't save password    <b>Please provide

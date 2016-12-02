@@ -1,0 +1,1 @@
+<title>Issue 25072 -   chromium -    All search providers removed each time chrome auto updates - Project Hosting on Google Code</title>   1. Add search provider.  2. Wait for auto update.  3. Restart browser.  4. Notice that all search providers have been removed.  5. goto 1                  <b>Please provide

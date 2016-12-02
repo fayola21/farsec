@@ -1,0 +1,1 @@
+<title>Issue 11224 -   chromium -    No sound in movies - Project Hosting on Google Code</title>   1. Go to a site with a flash movie or an .mpg (or other) movie or sounds   (for example: youtube)  2. put your speakers as hard as plausible and start the film  3. listen to the silence... no sound at all!      To hear sound      I hear nothing...    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 41787 -   chromium -    Mac: remove &quot;Create Application Shortcut(s)...&quot; menu items for M5 - Project Hosting on Google Code</title> <pre> It's not implemented yet. (Note there are two items  one in the main menu under File and one in the   Page menu). </pre>

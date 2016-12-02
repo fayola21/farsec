@@ -1,0 +1,1 @@
+<title>Issue 6184 -   chromium -    Window Maximise Issue with dual monitors - Project Hosting on Google Code</title>   1. Maximise the chrome window on dual monitor display setups      window maximises      the window maximises but it leaks over onto the second monitor by   approximately 4 pixels    Please provide

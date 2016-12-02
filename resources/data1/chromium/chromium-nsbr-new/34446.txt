@@ -1,0 +1,1 @@
+<title>Issue 34446 -   chromium -    Debugger  Intellisense Functionality Lost in  - Project Hosting on Google Code</title>   1. Open Debugger on any page  2. create a javascript object var f = {a:1 be:'d'};  3. type f.      intellisense should offer a if it is working      no offer of next piece    <b>Please provide

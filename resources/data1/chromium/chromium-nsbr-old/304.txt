@@ -1,0 +1,1 @@
+<title>Issue 304 -   chromium -    bar of vertical snowballing - Project Hosting on Google Code</title> <pre> Product Version      : &lt;Google chrome 0.2.149.27&gt;            Firefox 3:ok      1. bar of vertical snowballing only works for bass in the touchpad of my   notebook     </pre>

@@ -1,0 +1,1 @@
+Impossibility to scroll metric window after browser width changing    Open detailed view of any metric diagram on Services page  for example 'Total Space Utilization'. After that change width of browser less than width of detailed view of metric diagram. Right arrow for graph time paging is invisible and we can't to resolve this problem using horizontal scrollbar.   

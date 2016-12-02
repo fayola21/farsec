@@ -1,0 +1,1 @@
+File component - exclusive read lock strategy using renaming    See CAMEL-760But an end user has problem with this  the read lock can not be granted and a IOException is thrown.We should support the same strategy as the FTP consumer does with a try to rename the file.Also we should allow some nice URI options to select the strategy nio locks renaming   

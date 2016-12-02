@@ -1,0 +1,1 @@
+<title>Issue 27971 -   chromium -    No master password to protect stored passwords - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.32    Firefox 3.x: OK    Anyone can open browser and see stored logins and passwords.    That is stupid   </pre>

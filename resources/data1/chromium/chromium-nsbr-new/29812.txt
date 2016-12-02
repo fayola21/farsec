@@ -1,0 +1,1 @@
+<title>Issue 29812 -   chromium -    Can't Upload to Extensions Gallery from Mac OS X - Project Hosting on Google Code</title>   1. Try to upload an extension to the gallery.      It uploads the file.      Errors: &quot;(Unable to read file)&quot; and &quot;An error occurred: please try again   later.&quot;    <b>Please provide

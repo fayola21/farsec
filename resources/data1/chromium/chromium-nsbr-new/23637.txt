@@ -1,0 +1,1 @@
+<title>Issue 23637 -   chromium -    infobar_plugin_crash.png isn't used? - Project Hosting on Google Code</title> <pre> When you kill the flash player  the info bar that shows up doesn't have an   icon  should we be using the infobar_plugin_*.png that go into the grd files? </pre>

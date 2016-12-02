@@ -1,0 +1,1 @@
+<title>Issue 20240 -   chromium -    Linux build does not obey window manager titlebar double click preference - Project Hosting on Google Code</title>   1. Double click in the window's titlebar (above tab bar; there is no actual   title in Chrome)      Window rolls up      Window maximizes to full screen    <b>Please provide

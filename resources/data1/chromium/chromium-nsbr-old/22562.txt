@@ -1,0 +1,1 @@
+<title>Issue 22562 -   chromium -    Dutch 'clear browsing data' screen is messy - Project Hosting on Google Code</title>   1. Make your language dutch  2. Go to the clear browsing screen  3. Notice that the buttons and the dropdown overlap    <b>Please provide

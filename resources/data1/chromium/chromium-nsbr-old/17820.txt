@@ -1,0 +1,1 @@
+<title>Issue 17820 -   chromium -    Ctrl+Z in address bar pastes text on Fedora 8 with XFCE - Project Hosting on Google Code</title> <pre> Chrome Version       : 21636      1. Ctrl+C text.  2. Select address bar.  3. Ctrl+Z.        Either undo if the address bar was changed previously  or ignore input.        Text is pasted into the address bar.   </pre>

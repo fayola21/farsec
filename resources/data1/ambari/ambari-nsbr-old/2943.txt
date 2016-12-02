@@ -1,0 +1,1 @@
+Oozie smoke tests fail on Ambari with NPE in Oozie Server.    Oozie smoke tests fail on Ambari with NPE in Oozie Server.   

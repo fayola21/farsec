@@ -1,0 +1,1 @@
+<title>Issue 702 -   chromium -    Continuos Writing and Reading from Disk - Project Hosting on Google Code</title>   1. Opening Chrome          Low or none disk writing when there is no activity      Continuous disk writing and reading  which in case where there is a low  speed disk (like in laptops computers) slows down the overall computer  performance.     Please provide

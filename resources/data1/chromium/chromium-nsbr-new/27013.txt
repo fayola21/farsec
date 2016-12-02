@@ -1,0 +1,1 @@
+<title>Issue 27013 -   chromium -    pull down menu text is unreadable on light colored theme - Project Hosting on Google Code</title>   1. Most un-styled pulled down menu.      Be able to read the text.      Not.    Please provide

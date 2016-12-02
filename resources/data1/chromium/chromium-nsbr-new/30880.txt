@@ -1,0 +1,1 @@
+<title>Issue 30880 -   chromium -    CUPS &quot;add printer&quot; crashes tab - Project Hosting on Google Code</title>   1.With cups installed  go to the above URL and click 'add printer'.           Get to the admin page to add a printer.      I get the &quot;Ah  snap&quot; error page consistently.     <b>Please provide

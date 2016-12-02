@@ -1,0 +1,1 @@
+<title>Issue 27130 -   chromium -    embedded bitmap strikes in remote fonts (@font-face) are not supported - Project Hosting on Google Code</title> <pre> Current version of OTS library (code.google.com/p/ots) does not support   EBDT/EBLC/EBSC tables of OpenType.   </pre>

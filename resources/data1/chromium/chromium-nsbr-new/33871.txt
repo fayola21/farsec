@@ -1,0 +1,1 @@
+<title>Issue 33871 -   chromium -    Send from Gmail - Project Hosting on Google Code</title> <pre> &quot;Send from Gmail&quot;  Doesn't work correctly with not fast internet (256/256 kb/s) (use win 7) </pre>

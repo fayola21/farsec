@@ -1,0 +1,1 @@
+<title>Issue 9858 -   chromium -    choose file button doesn't work - Project Hosting on Google Code</title>   1.open <a href="http://analysis.avira.com/samples/">http://analysis.avira.com/samples/</a>  2.click on choose file button        explorer window should open and able to choose file      nothing happened  button doesn't work    <b>Please provide

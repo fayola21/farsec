@@ -1,0 +1,1 @@
+<title>Issue 11081 -   chromium -    No &quot;sad tab&quot; animation in tab on tab crash - Project Hosting on Google Code</title> <pre> When a tab crashes  we should display the sad tab graphic.    Try about:crash to repro. </pre>

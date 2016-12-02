@@ -1,0 +1,1 @@
+<title>Issue 194 -   chromium -    None of the plugins work - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27      For flash  shockwave etc. to work      crashes  noresponsive for long peroids of time  then crashes the tab in the   browser.    </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33721 -   chromium -    Image rendering bug - Project Hosting on Google Code</title>   1. Image here: <a href="http://pda.opennet.ru/opennews/art.shtml?num=25209">http://pda.opennet.ru/opennews/art.shtml?num=25209</a>          Normal JPG image      JPG image with artefacts    <b>Please provide

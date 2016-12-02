@@ -1,0 +1,1 @@
+<title>Issue 23609 -   chromium -    Statically link sync into chrome.dll - Project Hosting on Google Code</title> <pre> Eliminate syncapi.dll; just make the sync library a full fledged part of   chrome.dll </pre>

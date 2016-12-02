@@ -1,0 +1,1 @@
+<title>Issue 25602 -   chromium -    Download shelf disappearance should animate. - Project Hosting on Google Code</title> <pre> When the download shelf opens/closes it should animate (slide).    Note it shouldn't size... rather it should size and clip its contents.    Refer to windows.   </pre>

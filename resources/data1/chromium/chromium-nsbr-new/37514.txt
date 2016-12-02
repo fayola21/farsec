@@ -1,0 +1,1 @@
+<title>Issue 37514 -   chromium -    Print &quot;selection&quot; - Project Hosting on Google Code</title>   1.highlight selection  2.right click print  3.try to choose &quot;selection&quot;      Selection choice SHOULD be usable      Only Print ALL is usable    <b>Please provide

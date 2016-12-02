@@ -1,0 +1,1 @@
+<title>Issue 13386 -   chromium -    Downloads Page is not showing the speed. - Project Hosting on Google Code</title>   1. Downloading any file.          Download speed and time remaining is shown on download's page.      Now that the new patch shows how much time is remaining..it doesn't show my   download speed anymore..    <b>Please provide

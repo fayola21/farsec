@@ -1,0 +1,1 @@
+<title>Issue 27785 -   chromium -    Broken links in extension docs - Project Hosting on Google Code</title> <pre> Links to samples in extensions docs <a href="http://code.google.com/chrome/extensions/">http://code.google.com/chrome/extensions/</a>   were broken since extensions samples were moved into another folder in the   sources tree. </pre>

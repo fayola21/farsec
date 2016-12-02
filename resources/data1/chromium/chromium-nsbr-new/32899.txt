@@ -1,0 +1,1 @@
+<title>Issue 32899 -   chromium -    chrome.tabs.sendRequest should call callback if can't connect to other tab - Project Hosting on Google Code</title> <pre> Currently chrome.tabs.sendRequest silently fails if it can't connect to the   other tab. It should call the callback setting the lastError appropriately. </pre>

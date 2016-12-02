@@ -1,0 +1,1 @@
+<title>Issue 17002 -   chromium -    Mem leak with addInfoBar: in unit_tests under Valgrind on Mac - Project Hosting on Google Code</title> <pre> chrome/browser/cocoa/infobar_container_controller.mm    InfoBarContainerController(PrivateMethods) addInfoBar:    Leak trace attached </pre>

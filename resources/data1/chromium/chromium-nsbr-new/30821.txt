@@ -1,0 +1,1 @@
+<title>Issue 30821 -   chromium -    Chrome crashes when adding a bookmark with enabled sync - Project Hosting on Google Code</title> <pre>   [Environment]  chrome-master.mtvshared4.0.275.1win    [steps]  1. Sign in to sync  2. Enter URL example:www.google.com in the address bar.  3. Click the star icon    [Actual Result]  Chrome crashes </pre>

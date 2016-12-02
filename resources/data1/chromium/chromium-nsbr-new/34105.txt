@@ -1,0 +1,1 @@
+<title>Issue 34105 -   chromium -    [www.transitcenter.com] Does not support Chrome - Project Hosting on Google Code</title> <pre>   1. Navigate to www.transitcenter.com  2. Click on the &quot;Premium log in&quot; link on the right  3. Browser block based on UA string.    Spoofing the user-agent as Safari 4 makes it work fine. </pre>

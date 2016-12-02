@@ -1,0 +1,1 @@
+<title>Issue 3775 -   chromium -    touchpad scroll up does not work - Project Hosting on Google Code</title>   1. load any page which produces a scroll bar on left  2. scroll down with a touchpad using synaptic drivers  3. after scrolling down scrolling up does not work.                Please provide

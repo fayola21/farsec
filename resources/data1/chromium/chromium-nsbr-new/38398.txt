@@ -1,0 +1,1 @@
+<title>Issue 38398 -   chromium -    Implement extension cookies API - Project Hosting on Google Code</title> <pre> <a href="http://dev.chromium.org/developers/design-documents/extensions/proposal-">http://dev.chromium.org/developers/design-documents/extensions/proposal-</a>  chrome-extensions-cookies-api </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5901 -   chromium -    HTTP-form-object works not well - Project Hosting on Google Code</title>   1. click: SUBMIT QUERY  2. =&gt; result-list        Normally you will get a result-list. The problem is  that the GET-request  was not built at google-chrome.             Please provide

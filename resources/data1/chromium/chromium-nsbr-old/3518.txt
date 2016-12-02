@@ -1,0 +1,1 @@
+<title>Issue 3518 -   chromium -    minimize/maximize/close buttons too high - Project Hosting on Google Code</title>   Just open with Win XP Home and compare with Chrome. I noticed this with the   Oct 15 release.      The minimize/maximize/close buttons should be fully visible      They look like they go off screen. Same with the tabs    Please provide

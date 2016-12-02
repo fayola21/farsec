@@ -1,0 +1,1 @@
+<title>Issue 12756 -   chromium -    implement clear browsing history  - Project Hosting on Google Code</title> <pre> Needs to be implemented on linux.    Corresponding mac bug: <a href="http://code.google.com/p/chromium/issues/detail?">http://code.google.com/p/chromium/issues/detail?</a>  id=12235 </pre>

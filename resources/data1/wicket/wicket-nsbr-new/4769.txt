@@ -1,0 +1,1 @@
+Clicking on Label of Radio doesn't update component with Ajax update    We just upgraded a application from wicket 1.4 to wicket 6.We discovered that when clicking on the label of a radio button that has a AjaxFormChoiceComponentUpdatingBehavior attached the radio is not selected.I'll attach 2 testcases (one for wicket 1.4 and one for wicket 6)   

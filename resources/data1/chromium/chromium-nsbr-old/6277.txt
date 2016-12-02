@@ -1,0 +1,1 @@
+<title>Issue 6277 -   chromium -    Shift + click on url opens new window but doesn't gain focus. - Project Hosting on Google Code</title> <pre> Chrome Version       : Google Chrome 2.0.156.1      1. Shift + click on a url.      Url opens in new window and gains focus.        Url opens in new window and doesn't gain focus. </pre>

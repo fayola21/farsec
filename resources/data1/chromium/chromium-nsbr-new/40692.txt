@@ -1,0 +1,1 @@
+<title>Issue 40692 -   chromium -    Page-up and page-down in contentEditable do not move the cursor - Project Hosting on Google Code</title>   1. Add a bunch of text to a div having contenteditable=&quot;true&quot;  2. Hit page up repeatedly      It is expected that the cursor be moved to stay visible as the document   scrolls.      The cursor does not move.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1541 -   chromium -    Image map coords does not interpret floats in scientific notation - Project Hosting on Google Code</title>   1. any image map polygon area with coords using scientific notation                    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30820 -   chromium -    Tamil Fonts not visible in Chrome Mac Version - Project Hosting on Google Code</title>   1. Open www.vikatan.com in Mac OS X 10.6.2          The tamil fonts should be visible      Seeing all boxes    <b>Please provide

@@ -1,0 +1,1 @@
+Inconsistency in recipient list documentation?    The mail thread at http://tinyurl.com/47bqre seems to contradict the documentation at http://activemq.apache.org/camel/recipient-list.html &#8211; not sure if this is a doc issue  or a camel behavioural issue.   

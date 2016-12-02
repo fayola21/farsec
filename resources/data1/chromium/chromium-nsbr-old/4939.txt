@@ -1,0 +1,1 @@
+<title>Issue 4939 -   chromium -    cannot log into netware netstorage - Project Hosting on Google Code</title>   1. navigate to <a href="http://users.sbuniv.edu/netstorage/">http://users.sbuniv.edu/netstorage/</a>  2. enter a valid username and password      you are logged into your netstorage account      you are prompted again for your username and password.    Please provide

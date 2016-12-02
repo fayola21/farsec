@@ -1,0 +1,1 @@
+<title>Issue 26384 -   chromium -    Inactive tabs don't highlight when mouse is hovered on them - Project Hosting on Google Code</title>   1.Open multiple tabs  2.Hover your mouse over the inactive tabs        Respective tabs should highlight when you move the mouse over them      Nothing    <b>Please provide

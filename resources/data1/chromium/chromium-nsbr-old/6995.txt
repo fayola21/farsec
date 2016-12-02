@@ -1,0 +1,1 @@
+<title>Issue 6995 -   chromium -    Facebook - Page wont load - Chrome Error Message - Project Hosting on Google Code</title>   1. I went to visit this users profile       Users Profile loads      Chrome pops up the 'Report Bug or Broken Website' Window with Bug Type:   'page won't load' and Send Report or Cancel dont work!       Please provide

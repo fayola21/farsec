@@ -1,0 +1,1 @@
+<title>Issue 11770 -   chromium -    print is really small. does not use the whole page. - Project Hosting on Google Code</title>   1.use a network printer to print.          small print          <b>Please provide

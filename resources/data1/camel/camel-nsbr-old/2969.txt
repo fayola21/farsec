@@ -1,0 +1,1 @@
+When polling consumers is shutdown  do less verbose logging for rollback strategies    To avoid logs having stacktraces or the likes which was caused by shutting down the application.See nabblehttp://camel.465427.n5.nabble.com/Camel-2-4-Shutdown-Exception-tp1479154p1479154.html   

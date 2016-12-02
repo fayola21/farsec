@@ -1,0 +1,1 @@
+<title>Issue 31898 -   chromium -    &quot;About Google Chrome&quot; crashes Chrome @ installer::Version::IsHigherThan - Project Hosting on Google Code</title>   1. Click on wrench  select &quot;About Google Chrome&quot;        Chrome doesn't crash          Chrome crashes  pop-up comes up saying &quot;Whoa! Google Chrome has crashed.    Restart now?&quot;      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38189 -   chromium -    No way to turn off auto-complete drop-down - Project Hosting on Google Code</title>   1. Clear web form data  2. Go to form  3. Enter data  4. Revisit form  5. Begin retyping data  6. Drop-down appears                <b>Please provide

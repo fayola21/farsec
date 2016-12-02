@@ -1,0 +1,1 @@
+IDataProvider-Overflow with size()    Hi I get an Integer-overflow with my Dataprovider (yeah  there are a couple of entries in the database). Is there a reason why size() and iterator( first  count ) are limited to Integer?Regards  &#8212; Jan.   

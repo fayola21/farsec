@@ -1,0 +1,1 @@
+<title>Issue 27388 -   chromium -    Zoom button hover state not cleared on click - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.237.0      1. Click Zoom button        The hover state (the &quot;+&quot; overlay) should disappear.        It stays around until I move the mouse over the new location of the zoom   button. </pre>

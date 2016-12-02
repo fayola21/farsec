@@ -1,0 +1,1 @@
+<title>Issue 14834 -   chromium -    can't sign in to YouTube - Project Hosting on Google Code</title>   1. go to www.youtube.com  2. click &quot;Sign in&quot;.  Enter username and password.        I'm signed in.        I'm back on the www.youtube.com page  but I'm not signed in.  (Username   doesn't appear  &quot;Sign in&quot; link is still there.    <b>Please provide

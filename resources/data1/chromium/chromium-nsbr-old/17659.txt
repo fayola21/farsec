@@ -1,0 +1,1 @@
+<title>Issue 17659 -   chromium -    titletip does not appear on xkcd comic - Project Hosting on Google Code</title>   1. Go to <a href="http://xkcd.com/">http://xkcd.com/</a>  2. Position mouse cursor over comic.      The titletip for the image is displayed (title attribute of img tag).      No titletip is displayed.    <b>Please provide

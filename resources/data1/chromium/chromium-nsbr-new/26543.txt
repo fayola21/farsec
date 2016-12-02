@@ -1,0 +1,1 @@
+<title>Issue 26543 -   chromium -    Restoring a tab whith Ctrl+Shift+T doesn't restore slrollbar position in tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.1      Firefox 3.x: OK    Opera 10: OK    Summary. Chrome restores a tab but scrollbar position is not restored. </pre>

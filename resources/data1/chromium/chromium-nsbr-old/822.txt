@@ -1,0 +1,1 @@
+<title>Issue 822 -   chromium -    Google Chromium no abre archivos pdf on line - Project Hosting on Google Code</title>   1. Google chromium no abre on line los archivos pdf  los descarga al PC.       Poder leer archivos pdf directamente en el explorador web sin tener que   guardarlo en la PC          Please provide

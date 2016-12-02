@@ -1,0 +1,1 @@
+<title>Issue 22688 -   chromium -    Make MiniInstallTest faster - Project Hosting on Google Code</title> <pre> MiniInstallTest.InstallLatestMiniInstallerAtSystemLevel is one of the  slowest tests right now  averaging 13.3 seconds per run. Please try to make  it faster. </pre>

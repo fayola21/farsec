@@ -1,0 +1,1 @@
+<title>Issue 30421 -   chromium -    Add sync support for clear browsing history - Project Hosting on Google Code</title> <pre> Design and implement a solution for clear browsing history. It may be  acceptable simply to just do what we currently do for normal history  deletes and adds  but we should manage this carefully. </pre>

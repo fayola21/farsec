@@ -1,0 +1,1 @@
+open Modal Window without AjaxRequestTarget    Wicket 1.2.2 included a new Modal Window component. However  this component can only be used with a valid AjaxRequestTarget. It would be useful if Modal Windows could be opened programmatically at any time without an AjaxRequestTarget.   

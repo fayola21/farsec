@@ -1,0 +1,1 @@
+<title>Issue 11387 -   chromium -    Extract views/ from chrome/ - Project Hosting on Google Code</title> <pre> We would like to be able to use views/ in places aside from Chrome. We   should extract views/ from chrome/ and break its dependencies on chrome/. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18968 -   chromium -    Disable click-to-pause and double-click to play for audio/video elements - Project Hosting on Google Code</title> <pre> Behaviour picked up from WebKit.  This only happens in &quot;embedded player&quot; mode   (i.e.  enter URL into the omnibox).    It should be disabled for the Chromium port. </pre>

@@ -1,0 +1,1 @@
+Installer's host list doesn't show masters at top    Installer's host list should show masters at top   

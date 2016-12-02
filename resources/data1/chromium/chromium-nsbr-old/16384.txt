@@ -1,0 +1,1 @@
+<title>Issue 16384 -   chromium -    Bookmark crashes switching back and forth! - Project Hosting on Google Code</title>   1. I have about 6 main bookmarks at the top of google chrome.  2. Simple click one bookmark  then next  then back again.  3. Boom crashes if you go fast enough.      The browser crashes instantly.          <b>Please provide

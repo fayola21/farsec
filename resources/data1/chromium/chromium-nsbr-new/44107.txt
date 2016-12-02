@@ -1,0 +1,1 @@
+<title>Issue 44107 -   chromium -    popups are too small - Project Hosting on Google Code</title> <pre> this used to work; it must have regressed. When a site specifies a size for   a popup  we seem to be setting the whole window to that size (?)  rather   than just the render view. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19282 -   chromium -    &quot;Report bug or broken website...&quot; from page menu isn't implemented - Project Hosting on Google Code</title>   1. Show the page and tools menus on the window.  2. Choose Page menu -&gt; Report bug or broken website...      Bug report page opens.      Nothing.    <b>Please provide

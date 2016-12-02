@@ -1,0 +1,1 @@
+<title>Issue 15875 -   chromium -    Gtk: Find in page doesn't slide out of the way of a result it covers - Project Hosting on Google Code</title> <pre> title    this might actually be involved with refactoring the positioning code. </pre>

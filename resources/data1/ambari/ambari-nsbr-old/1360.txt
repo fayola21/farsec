@@ -1,0 +1,1 @@
+Mouse cursor hover behavior is strange on Job Browser    When hovering the mouse cursor around Show All  Filtered  the mouse cursor changes to the 'hand' icon as expected. To the right  the cursor turns into a hand even when hovering over areas where there's no link. Hovering over 'Clear filters'  the cursor does not turn into the 'hand'.   

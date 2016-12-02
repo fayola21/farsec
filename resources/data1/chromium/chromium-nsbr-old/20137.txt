@@ -1,0 +1,1 @@
+<title>Issue 20137 -   chromium -    Remove clear browsing data and import from menus - Project Hosting on Google Code</title> <pre> These already exist in the options dialog  so we can remove them from our   now-huge tools menu.   </pre>

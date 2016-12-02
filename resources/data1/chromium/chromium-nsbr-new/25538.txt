@@ -1,0 +1,1 @@
+<title>Issue 25538 -   chromium -    Update wifi icon animation - Project Hosting on Google Code</title> <pre> The wifi menu button needs to be updated with new animation icons. </pre>

@@ -1,0 +1,1 @@
+package will log WARN that you should use packageScan instead. We should keep both options so remove the WARN    &#91;2010-01-06 11:32:35.494&#93; server-dm-7 org.apache.camel.spring.CamelContextFactoryBean.unknown W Using a packages element to specify packages to search has been deprecated. Please use a packageScan element instead.   

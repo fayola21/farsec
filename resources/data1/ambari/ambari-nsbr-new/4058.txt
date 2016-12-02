@@ -1,0 +1,1 @@
+ambari-agent/server should start automatically upon reboot    ambari-agent and server are not set to start automatically  so if a machine reboots it becomes inaccessible.   

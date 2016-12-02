@@ -1,0 +1,1 @@
+<title>Issue 12667 -   chromium -    Flickering alert/prompt/confirm when go to other window - Project Hosting on Google Code</title>   1. Have a javascript alert  prompt or confirm box open  2. Go to another chrome window or open a new one       To go to the other chrome window.       The alert/prompt/confirm box starts flickering.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 16194 -   chromium -    Regression: Can't modify styles in Developer Tools - Project Hosting on Google Code</title>   1. Right-click  Inspect element  2. Open any element  3. In right side bar  try to click on any value to modify it      The edit-box opens to modify the value      Nothing    <b>Please provide

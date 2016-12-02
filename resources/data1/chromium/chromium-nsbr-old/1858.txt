@@ -1,0 +1,1 @@
+<title>Issue 1858 -   chromium -    template_url_prepopulate_data.cc causes 102 unneccesary static initializers. - Project Hosting on Google Code</title> <pre> There are 102 static initializers from all of the engines_XX arrays.  I   think they were meant to be arrays of pointers  the initializers now are   doing a lot of unneeded copying.  Have a CL coming up. </pre>

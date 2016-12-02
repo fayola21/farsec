@@ -1,0 +1,1 @@
+<title>Issue 25712 -   chromium -    Multiple chromium open after exit Crash Down - Project Hosting on Google Code</title>   1. Open Chromium.  2. Open Chromium again  and exit.  3. First chromium exit too. (Segmentation fault)      ...      ...    <b>Please provide

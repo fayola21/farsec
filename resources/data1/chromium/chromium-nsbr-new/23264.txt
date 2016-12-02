@@ -1,0 +1,1 @@
+<title>Issue 23264 -   chromium -    Audio clicking on Linux - Project Hosting on Google Code</title> <pre> Some hardware configurations appear to be causing audio clicking.  Slow   machines  fast machines... we're thinking we need to tune some parameters. </pre>

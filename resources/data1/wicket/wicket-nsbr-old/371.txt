@@ -1,0 +1,1 @@
+@SpringBean support of non-singleton beans    Two fixes:In wicket-spring: SpringBeanLocator got a new property called singletonBean  which is true if the bean is a singleton(the property is set in the constructor)In wicket-spring-annot:AnnotProxyFieldValueFactory is modified that if the bean is a non-singleton  then bypass the cache   

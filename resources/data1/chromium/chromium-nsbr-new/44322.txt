@@ -1,0 +1,1 @@
+<title>Issue 44322 -   chromium -    Installing new version from &quot;About Google Chrome&quot; runs forever without result - Project Hosting on Google Code</title>   1.Click update now.  2.Watch wheel spin forever with no way to stop it besides quitting Chrome.        Newer version downloaded      Only the spinning wheel with Installing new version    <b>Please provide

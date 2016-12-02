@@ -1,0 +1,1 @@
+<title>Issue 19379 -   chromium -    Plugins are not always found by default - Project Hosting on Google Code</title> <pre> When running with --enable-plugins  Chrome on Linux/x86-32 finds fewer   plugins than Firefox.    For details  talk to me. This is just a placeholder to remind us to look   into this. </pre>

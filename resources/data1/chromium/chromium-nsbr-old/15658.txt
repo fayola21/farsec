@@ -1,0 +1,1 @@
+<title>Issue 15658 -   chromium -    Dvorak Keyboard layout ignored when using ctrl (sometimes.) - Project Hosting on Google Code</title>   1. Open any page.  2. Select some text.  3. Hit ctrl-c.  4. Hit ctrl-v in another app (or a text input form).      The selected text is pasted.      Nothing.    <b>Please provide

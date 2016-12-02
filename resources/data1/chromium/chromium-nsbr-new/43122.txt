@@ -1,0 +1,1 @@
+<title>Issue 43122 -   chromium -    Hung page string(s) suck - Project Hosting on Google Code</title> <pre> IDS_BROWSER_HANGMONITOR_RENDERER_TITLE and IDS_BROWSER_HANGMONITOR_RENDERER  have that &quot;plural(s)&quot; thing going on with them. It's awkward and we can do  better. </pre>

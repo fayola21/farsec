@@ -1,0 +1,1 @@
+<title>Issue 28561 -   chromium -    I CANT LOGIN IN CHROMIUM OS - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;from cf:about:version&gt;    WHEN I TRY TO TYPE MY PASSWORD Y CANT PUT @! OR ANOTHER SYMBOL.    I HAVE CHROMIUM OS IN VMWARE 6.      I HOPE ANY ANSWER.     THANKS AND GOOD     -Brian Montesdeoca  -Microsoft Certified Systems Engineer </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38391 -   chromium -    Image not displayed  - Project Hosting on Google Code</title>   1.go to yahoo.co.in  2.Click the image to start the slide slow of photos.  3.we cant see the images .      should see the images and should be able to navigate between them        not able to see the images and navigate between them    <b>Please provide

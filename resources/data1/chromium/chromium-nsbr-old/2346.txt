@@ -1,0 +1,1 @@
+<title>Issue 2346 -   chromium -    Does not popup basic auth window when using &quot;--new-http&quot; - Project Hosting on Google Code</title>   1. open URL           popup window           does not popup window    Please provide

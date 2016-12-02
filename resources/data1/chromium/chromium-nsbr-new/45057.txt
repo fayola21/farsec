@@ -1,0 +1,1 @@
+<title>Issue 45057 -   chromium -    ctrl+f searching doesn't work with sproutcore - Project Hosting on Google Code</title>   1. visit the website  2. press ctrl+f  and search for &quot;Things&quot;  chromium displays &quot;1 of 0&quot;        The word &quot;Things&quot; would be highlighted.        Nothing is found.    <b>Please provide

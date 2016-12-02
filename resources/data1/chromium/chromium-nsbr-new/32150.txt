@@ -1,0 +1,1 @@
+<title>Issue 32150 -   chromium -    Add support for both decimal and binary sizes - Project Hosting on Google Code</title> <pre> Pending UI approval  the task manager should show &quot;MiB&quot; etc if it shows   values based on 2^10 and &quot;MB&quot; etc if the values are based on 10^3. </pre>

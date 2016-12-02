@@ -1,0 +1,1 @@
+Add requestBufferSize and requestHeaderSize options for jetty    Add requestBufferSize and requestHeaderSize options for jetty server to allow configuration of allowable request header limitThis option is exposed by standalone jetty server but not exposed by camel-jetty.   

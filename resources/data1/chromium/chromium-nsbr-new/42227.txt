@@ -1,0 +1,1 @@
+<title>Issue 42227 -   chromium -    Client side certificate no longer work after 04-20-2010 update.  - Project Hosting on Google Code</title>   1. visit a site that requires a client side certificate installed on   browser.          the web page to load      Error 107 (net::ERR_SSL_PROTOCOL_ERROR): Unknown error.    <b>Please provide

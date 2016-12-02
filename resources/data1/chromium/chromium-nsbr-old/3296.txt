@@ -1,0 +1,1 @@
+<title>Issue 3296 -   chromium -    Vista glass frame throbber not working for app windows and popups - Project Hosting on Google Code</title> <pre> Throbber does not show up on app windows and popups with the Vista glass   frame. The code needs to load the frame .ico files and use those. </pre>

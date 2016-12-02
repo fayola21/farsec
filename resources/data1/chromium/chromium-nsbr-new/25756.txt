@@ -1,0 +1,1 @@
+<title>Issue 25756 -   chromium -    Some Keyboard Shortcuts (Cmd-L) don't work when a plugin eats them - Project Hosting on Google Code</title> <pre>   1. Browse to <a href="http://www.mbusa.com">http://www.mbusa.com</a>  2. Try Cmd-T  Cmd-N  Cmd-L        Keyboard shortcuts do not work          Google Chrome 4.0.223.11    Works fine with Safari and FF on Mac </pre>

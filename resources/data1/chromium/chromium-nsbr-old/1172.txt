@@ -1,0 +1,1 @@
+<title>Issue 1172 -   chromium -    chromesetup.exe fails to download with error code = 0X80040508 - Project Hosting on Google Code</title>   1. Open ChromeSetup.exe  2. Process gets as far as &quot;Downloading Chrome&quot;  the displays following   error message: Download error: the downloaded file failed verification.    Error code = 0X80040508                  Please provide

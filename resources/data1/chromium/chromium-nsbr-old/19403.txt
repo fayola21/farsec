@@ -1,0 +1,1 @@
+<title>Issue 19403 -   chromium -    Need tests for an extension update being improperly signed - Project Hosting on Google Code</title> <pre>   We need a unit test (and maybe a browser test as well?) for installing an   extension update being signed with a different key than the currently   installed version. This should fail.      </pre>

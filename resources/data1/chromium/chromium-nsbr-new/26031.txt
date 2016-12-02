@@ -1,0 +1,1 @@
+<title>Issue 26031 -   chromium -    URLRequestJobTracker should notify for upload - Project Hosting on Google Code</title> <pre> RequestJobTracker should notify when there's new uploaded bytes similar to how it notifies when   there's new downloaded bytes. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5661 -   chromium -    close w/o control - Project Hosting on Google Code</title>                   The &quot;close&quot; button (X) is too large  when want to minimize all windows by   multi click on all the &quot;minimize&quot; (_)  the chrome closed because the (X)   button is in the same place as (_) in the normal MS windows    Please provide

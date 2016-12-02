@@ -1,0 +1,1 @@
+<title>Issue 15914 -   chromium -    event.shiftKey == false when pressed + - ( and so on... with shift - Project Hosting on Google Code</title>             When pressed keys with shift on symbols like &lt;shift&gt; &lt;+&gt; or &lt;$&gt; or &lt;*&gt; and  other on event.shiftKey must == true      event.shiftKey == false    <b>Please provide

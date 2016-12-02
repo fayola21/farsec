@@ -1,0 +1,1 @@
+<title>Issue 254 -   chromium -    Autoscrolling on middle mouse button doesn't work - Project Hosting on Google Code</title>   1. Press middle mouse button  2. Hold it  3. Move mouse        Page should scroll        Nothing    Please provide

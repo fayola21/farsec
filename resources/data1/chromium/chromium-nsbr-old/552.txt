@@ -1,0 +1,1 @@
+<title>Issue 552 -   chromium -    Chrome doesn't send user-agent header with CONNECT request - Project Hosting on Google Code</title>   1. access a https:// URL through a proxy that requires a user-agent header          Page should be retrieved.      Page is not retrieved; it's either blocked or authentication demanded   depending on proxy configuration.    Please provide

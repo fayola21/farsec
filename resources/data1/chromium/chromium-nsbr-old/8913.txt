@@ -1,0 +1,1 @@
+<title>Issue 8913 -   chromium -    Middle-clicking a link doesn't change color to red (to mark it as visited) - Project Hosting on Google Code</title>   1. Search something in Google.  2. Middle-click a search result.        Should make the link color red  and open the link in a new tab.      Opens a link in a new tab.    <b>Please provide

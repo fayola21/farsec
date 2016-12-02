@@ -1,0 +1,1 @@
+<title>Issue 9400 -   chromium -    Gtk accelerators still fire even when menu item is disabled - Project Hosting on Google Code</title> <pre>   1. run chromium  2. press ctrl-s    What is the expected result?  nothing happens    What happens instead?  chromium chokes on DCHECK() </pre>

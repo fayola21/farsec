@@ -1,0 +1,1 @@
+<title>Issue 37669 -   chromium -    Chrome freezing when using Chrome for Mac while attaching files - Project Hosting on Google Code</title>   1. I go to add an attachment to an email in Chrome  2. The window completely freezes  3. I have to force close Chrome       I should be able to attach files      I force close chrome    <b>Please provide

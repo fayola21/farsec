@@ -1,0 +1,1 @@
+<title>Issue 5915 -   chromium -    CTRL+F opens the Find box  but CTRL+F doesn't close it - Project Hosting on Google Code</title>   1. Press CTRL+F to get the find box to open  2. Press CTRL+F again and the find box doesn't close      Pressing CTRL+F should close the find box.      Pressing CTRL+F has no effect.    Please provide

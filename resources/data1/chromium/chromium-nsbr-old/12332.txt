@@ -1,0 +1,1 @@
+<title>Issue 12332 -   chromium -    Cursor is Crawling(not movving smoothly) while connected to VNC - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;1.0.154.65&gt;    Cursor is Crawling(not movving smoothly) while connected to VNC. In IE  I   don't see any issues.  </pre>

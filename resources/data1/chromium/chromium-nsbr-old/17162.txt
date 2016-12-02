@@ -1,0 +1,1 @@
+<title>Issue 17162 -   chromium -    Don't switch focus to new tab - Project Hosting on Google Code</title>   1. open a link from the context/rightclick menu          new tab opens in background      new tab steals focus    <b>Please provide

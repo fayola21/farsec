@@ -1,0 +1,1 @@
+<title>Issue 22599 -   chromium -    Errors in worker http layout tests - Project Hosting on Google Code</title> <pre> close.html in WorkerXhrHttpLayoutTests produces an error on the mac    as does worker-importScripts.html from WorkerHttpLayoutTests.    Assigning to Dave as I believe he's looking at these already. </pre>

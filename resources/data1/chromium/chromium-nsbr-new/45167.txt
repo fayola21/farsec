@@ -1,0 +1,1 @@
+<title>Issue 45167 -   chromium -    Default popup window size should not depend on the current zoom level - Project Hosting on Google Code</title>   1. Load the test file  2. Click on the link  the popup opens correctly. Close it.  3. Zoom in three times.  4. Click on the link.      The same size popup opens.      Much smaller popup opens.    <b>Please provide

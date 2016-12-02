@@ -1,0 +1,1 @@
+<title>Issue 20165 -   chromium -    Extensions bar is inaccessible from keyboard - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.202.0 (Offizieller Build 23673)    Page actions can't be tabbed to nor be activated otherwise (e.g. through   Alt+Shift+T)  so the functionality so exposed remains out of reach for mouse-  less users. </pre>

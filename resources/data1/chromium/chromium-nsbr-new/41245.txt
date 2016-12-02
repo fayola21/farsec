@@ -1,0 +1,1 @@
+<title>Issue 41245 -   chromium -    Mac: closing last browser window (e.g.  by sending IDC_CLOSE_WINDOW) with automation causes browser to quit - Project Hosting on Google Code</title> <pre> Which is wrong  but probably makes many tests (kind of) work. </pre>

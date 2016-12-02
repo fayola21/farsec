@@ -1,0 +1,1 @@
+<title>Issue 12811 -   chromium -    Pressing Ctrl+F zooms in to the max - Project Hosting on Google Code</title>   1. Open any web page  2. Press Ctrl+F to search  3. Almost every other time  the page will zoom to the max amount.      The search box should open.        The page zooms in.    <b>Please provide

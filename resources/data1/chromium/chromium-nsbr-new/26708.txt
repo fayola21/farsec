@@ -1,0 +1,1 @@
+<title>Issue 26708 -   chromium -    Content served as application/json is downloaded instead of displayed - Project Hosting on Google Code</title>   1. Serve something as application/json  2. Visit that URI      Should display the JSON content (ideally  pretty and syntax highlighted)      JSON content is downloaded to disk    <b>Please provide

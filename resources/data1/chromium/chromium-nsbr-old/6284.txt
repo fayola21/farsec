@@ -1,0 +1,1 @@
+<title>Issue 6284 -   chromium -    Pressing &quot;Space&quot; key should scroll down a page - Project Hosting on Google Code</title>   1. open any page that is longer than your visible screen real estate  2. press Space      3. Chrome should scroll down        4. It does not scroll      Please provide

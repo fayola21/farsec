@@ -1,0 +1,1 @@
+Aggregator - Completion by batch consumer should trigger completion for the batch group if multiple correlation keys was used    Yeah its really an odd use case if you use multiple correlation keys for the same batch consumer  but its still possible to do.   

@@ -1,0 +1,1 @@
+RememberMe doesn't remember me    When remember me is checked a cookie with crypted username and password should be set I think. But no cookie was set. So when the browser is closed and opened again I was asked again for username and password.   

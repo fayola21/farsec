@@ -1,0 +1,1 @@
+<title>Issue 22523 -   chromium -    make full gclient checkouts on the bots faster? - Project Hosting on Google Code</title> <pre> This is a brainstorming bug.    Can we make the hit we take when doing a full checkout on the bots less dramatic? One idea would be to   grab the daily zip file  extract it and then do a gclient sync. Would that be much faster? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 647 -   chromium -    Oracle Jinitiator not working with Chorme - Project Hosting on Google Code</title>   1. Install Oracle Jinitiator (no matter what version)  start url which   needs Jinitiator  message 'No plugin available' appears.       Webpage should show up but doesn't       Message 'No plugin available' appears    Please provide

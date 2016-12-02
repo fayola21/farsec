@@ -1,0 +1,1 @@
+Improve the BeanInfo performance    See http://camel.465427.n5.nabble.com/BeanInfo-performance-issues-td5726912.html for details.   

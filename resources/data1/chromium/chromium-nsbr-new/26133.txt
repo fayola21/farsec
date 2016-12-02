@@ -1,0 +1,1 @@
+<title>Issue 26133 -   chromium -    Get BrowserWithTestWindowTest inheriting from CocoaTest - Project Hosting on Google Code</title> <pre> Need to get BrowserWithTestWindowTest inheriting from CocoaTest on the Mac so that we set up   our application correctly and can keep track of windows being created. </pre>

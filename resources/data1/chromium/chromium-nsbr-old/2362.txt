@@ -1,0 +1,1 @@
+<title>Issue 2362 -   chromium -    &quot;Checking for updates...&quot; stays forever - Project Hosting on Google Code</title>   1. go to &quot;About&quot;      &quot;No updates found&quot;      &quot;Checking for updates...&quot; is taking forever.    Please provide

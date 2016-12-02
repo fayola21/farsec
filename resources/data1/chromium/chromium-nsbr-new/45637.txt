@@ -1,0 +1,1 @@
+<title>Issue 45637 -   chromium -    Escaping characters conflicts with Skype - Project Hosting on Google Code</title>   1. Type &quot;callto:+46081234567&quot; in the address bar.  2. Press ENTER.      Skype calling +46081234567.      Skype tries to call %2b46081234567.    <b>Please provide

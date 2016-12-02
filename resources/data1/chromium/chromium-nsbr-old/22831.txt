@@ -1,0 +1,1 @@
+<title>Issue 22831 -   chromium -    Ugly rendering - Project Hosting on Google Code</title>   1. Open a webpage like www.lifehacker.com          Webpage should be rendered correctly      Sometimes webpages not rendered correctly    <b>Please provide

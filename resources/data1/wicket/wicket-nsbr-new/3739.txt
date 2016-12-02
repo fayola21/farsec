@@ -1,0 +1,1 @@
+wicket-datetime datepicker fails to display calendar with js error in calendar.js:3225 in IE8       

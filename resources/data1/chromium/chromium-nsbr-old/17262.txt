@@ -1,0 +1,1 @@
+<title>Issue 17262 -   chromium -    Option to sandbox NPAPI plugins for extensions - Project Hosting on Google Code</title> <pre> It'd be nice to provide an option to sandbox NPAPI plugins used by   extensions.  This would prevent access to OS-level features while providing a   safer way to run native code. </pre>

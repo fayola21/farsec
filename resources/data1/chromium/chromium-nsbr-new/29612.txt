@@ -1,0 +1,1 @@
+<title>Issue 29612 -   chromium -    Extensions - Project Hosting on Google Code</title>   1.Open Chrome  2.Look for toolbar      See a toolbar that is installed      No toolbar appears    <b>Please provide

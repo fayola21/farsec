@@ -1,0 +1,1 @@
+<title>Issue 36758 -   chromium -    Selection of &quot;State&quot; from drop down on forms is lost when page is sent - Project Hosting on Google Code</title>   1. Fill out address and select any state  2. Continue to next page  3. Receive error message that state has not been selected      State will remain selected      State is not selected      <b>Please provide

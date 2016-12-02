@@ -1,0 +1,1 @@
+<title>Issue 39543 -   chromium -    'About' popup window enlarged - Project Hosting on Google Code</title>   1. Click on 'About Google Chrome'           A normal size 'About' window popup should appear      An enlarged version of that window appears    <b>Please provide

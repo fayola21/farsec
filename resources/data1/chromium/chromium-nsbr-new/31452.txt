@@ -1,0 +1,1 @@
+<title>Issue 31452 -   chromium -    Spell checker suggest corrections but they are not visible. - Project Hosting on Google Code</title>   1.Misspell a word  2.Right click to bring up the menu.         Suggested corrections are supposed to be displayed      Nothing is displayed  however  if you click at the very top of the menu    the correction is made.    <b>Please provide

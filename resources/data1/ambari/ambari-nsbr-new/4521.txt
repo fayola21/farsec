@@ -1,0 +1,1 @@
+Bulk Ops: Restart on Slaves should popup rolling restart dialog    When performing Restart on Slaves via Bulk Ops menu on the Hosts page  Restart should popup the rolling restart dialog  just like it does when Restarting Slaves under Service Actions.   

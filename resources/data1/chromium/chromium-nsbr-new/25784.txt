@@ -1,0 +1,1 @@
+<title>Issue 25784 -   chromium -    REGRESSION: App frames missing title bar. - Project Hosting on Google Code</title> <pre> Start an app frame. note it lacks title bar. I did this. </pre>

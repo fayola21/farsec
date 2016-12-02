@@ -1,0 +1,1 @@
+<title>Issue 33939 -   chromium -    You can not close a pinned tab in the Chrome Beta for Windows - Project Hosting on Google Code</title>   1. Pin a tab.  2. Middle click to close it.      The tab will close.      The tab's background will dissappear  but the favicon will remain  and the   tab will still be open.    <b>Please provide

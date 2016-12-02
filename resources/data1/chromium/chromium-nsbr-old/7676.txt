@@ -1,0 +1,1 @@
+<title>Issue 7676 -   chromium -    Find bar positioning always subtracts 1 px for client edge even when it shouldn't - Project Hosting on Google Code</title> <pre> The bottom of find_bar_win.cc:GetDialogBounds() subtracts 1 for the app   window case.  It should be subtracting kClientEdgeThickness  and only when   there's actually a client edge. </pre>

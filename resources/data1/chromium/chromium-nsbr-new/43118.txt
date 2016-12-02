@@ -1,0 +1,1 @@
+<title>Issue 43118 -   chromium -    Each chrome_installer log entry should be written in a new line - Project Hosting on Google Code</title> <pre> Each entry in chrome_installer log should be placed in a separate line. Right   now all of them are appended to the end of the first line. </pre>

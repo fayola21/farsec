@@ -1,0 +1,1 @@
+<title>Issue 1158 -   chromium -    will not open full screen on second monitor - Project Hosting on Google Code</title>   1. open google browser on a wide screen monitor  it does not fill the   screen          open in full screen mode      the browser does not fill the screen    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 41131 -   chromium -    Chrome UI Bug(Vista) - Project Hosting on Google Code</title> <pre> Chrome Version  : 5.0.366.2    OS:Vista 32bit      as shown in the figure </pre>

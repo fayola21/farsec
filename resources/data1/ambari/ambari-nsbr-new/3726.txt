@@ -1,0 +1,1 @@
+Restart indicators for services and hosts disappear after some time.    Goto Service (that have stale configs) -&gt; configs   no restart indicators are shown. Refresh page  for 10-15 seconds you see indicators then they disappear. The same for host detail page   

@@ -1,0 +1,1 @@
+<title>Issue 30169 -   chromium -    Broadcast notifications when multiple autofill items are removed - Project Hosting on Google Code</title> <pre> Broadcast notifications when multiple autofill items are removed.  This   happens when WebDataService::RemoveFormElementsAddedBetween() is called.   </pre>

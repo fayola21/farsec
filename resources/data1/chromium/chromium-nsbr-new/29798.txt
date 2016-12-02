@@ -1,0 +1,1 @@
+<title>Issue 29798 -   chromium -    passwords save/form autofill should share a heading in options dialog - Project Hosting on Google Code</title> <pre> I'm not clear what the section would look like since just stuffing them   together would be confusing (4 radio buttons spread over 2 choices)  but I   think the overall idea makes sense </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23 -   chromium -    Mouse wheel drag doesn't work - Project Hosting on Google Code</title>   1. Open any web page that requires a vertical scroll bar.  2. While the mouse cursor is inside the page  press and hold the mouse   wheel.  3. Move the mouse up or down.       The web page should scroll.      Nothing.    Please provide

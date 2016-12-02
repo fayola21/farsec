@@ -1,0 +1,1 @@
+<title>Issue 18530 -   chromium -    Firefox import imports stock &quot;Getting Started&quot; bookmark - Project Hosting on Google Code</title> <pre> I think we had a similar bug on Windows.  We should fix it on Linux too. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31478 -   chromium -    Workers started by extensions show up with weird name in task manager - Project Hosting on Google Code</title> <pre> When an extension starts a worker [such as Speed Tracer] that worker shows up   in the task manager showing the extension GUID  not the name of the   extension. </pre>

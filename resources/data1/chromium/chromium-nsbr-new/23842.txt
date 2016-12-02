@@ -1,0 +1,1 @@
+<title>Issue 23842 -   chromium -    browser actions: show pulldown menu icon in button - Project Hosting on Google Code</title> <pre> Since they're pulldowns  and not action buttons  they should show the   pulldown arrow. </pre>

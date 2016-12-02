@@ -1,0 +1,1 @@
+<title>Issue 44209 -   chromium -    Printed black boxes on paper for certain html boxes. - Project Hosting on Google Code</title>   1. goto/codelab  2. pick &quot;Callback and closure&quot; class  3. Print      Prints the code snippets in boxes well        Printed black boxes instead.    <b>Please provide

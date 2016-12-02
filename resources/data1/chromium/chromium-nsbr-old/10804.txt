@@ -1,0 +1,1 @@
+<title>Issue 10804 -   chromium -    Regression: Facebook gives error when searching for people - Project Hosting on Google Code</title>   1.go to and login to facebook  2.search for someone on the search engine        It should give a list of the names you requested      It gives an error script  (But if you refresh the page it loads correctly)      <b>Please provide

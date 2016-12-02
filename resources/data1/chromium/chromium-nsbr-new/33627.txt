@@ -1,0 +1,1 @@
+<title>Issue 33627 -   chromium -    move mouse cursor automatically to default box - Project Hosting on Google Code</title>   1.Go to any page with a pop up box that says ok cancel (any password   screen)          Cursor should move to ok button      Cursor remains where it is    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22239 -   chromium -    adsweep extension causes sad tabs - Project Hosting on Google Code</title>   1.Try to go to <a href="http://code.google.com/intl/ru/chromium/">http://code.google.com/intl/ru/chromium/</a>          Show the web-page      Show notification &quot;Something went wrong...&quot;    <b>Please provide

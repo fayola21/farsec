@@ -1,0 +1,1 @@
+<title>Issue 27711 -   chromium -    After closing the bookmark bubble  the browser window doesn't get focus - Project Hosting on Google Code</title> <pre>   1. Create a new window  2. Click on the start  3. Hit Esc      Browser window should be focused  but it is not. Look at the close  minimize and zoom buttons   and note that they are not highlighted.       </pre>

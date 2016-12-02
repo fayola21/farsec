@@ -1,0 +1,1 @@
+<title>Issue 42977 -   chromium -    Chrome icon is changed in 5.0.393.0 - Project Hosting on Google Code</title>   1. install 5.0.393.0 build on Windows XP  2. after lunching Chrome  check the Chrome icon on Desktop or Quick launch   bar      What is the expected result? What happens instead?  The icon image is changed in this build.      <b>Please provide

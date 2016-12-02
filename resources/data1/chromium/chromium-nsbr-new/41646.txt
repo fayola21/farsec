@@ -1,0 +1,1 @@
+<title>Issue 41646 -   chromium -    Sync bookmarks not deleting - Project Hosting on Google Code</title>   1. Deleting the bookmark  2. It will reappear when Chrome syncs bookmarks (through gmail account)        I expect the Bookmark to be deleted.      It reappears    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11678 -   chromium -    Validate extensions resources exist - Project Hosting on Google Code</title> <pre> The last minute theme resource validation I added broke the unittests. I'm   removing it for now. This bug forces me to re-add it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19530 -   chromium -    &quot;Show in folder&quot; can cause explorer crash - Project Hosting on Google Code</title>   1. Download a file  2. Click the arrow and select &quot;Show in folder&quot;  3. On Windows Explorer  move the file to another folder      The file is moved      Explorer crashes before moving    <b>Please provide

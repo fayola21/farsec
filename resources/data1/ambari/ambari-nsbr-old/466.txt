@@ -1,0 +1,1 @@
+Add nodes page alerts removed in case of adding duplicate nodes    Alerts that are being shown needs to be changed to be compatible with current implementation of showing errors. A link now appears to 'Show the duplicate nodes' which shows the duplicate nodes.   

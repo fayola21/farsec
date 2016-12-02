@@ -1,0 +1,1 @@
+XsltBuilder synchronizes on process method making performance bad on XSLTs    In heavy load environment XSLT transformations have very bad performance.I propose to use javax.xml.transform.Templates object to produce separate Transformers for every execution.   

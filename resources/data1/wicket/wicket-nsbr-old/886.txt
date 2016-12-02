@@ -1,0 +1,1 @@
+InlineFrame with null PageMap raises exception    This constructor public InlineFrame(final String id  final Page page) { this(id  null  new IPageLink()is calling this other public InlineFrame(final String id  final IPageMap pageMap  IPageLink pageLink) { super(id); this.pageMapName = pageMap.getName();which of course raises a null pointer exception at 'pageMap.getName();'   

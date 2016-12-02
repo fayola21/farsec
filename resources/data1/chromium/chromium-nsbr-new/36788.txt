@@ -1,0 +1,1 @@
+<title>Issue 36788 -   chromium -    crash when moving selected text to address bar - Project Hosting on Google Code</title>   1. select any text  2. move the text to address bar to perform search  3. once moving  Chrome crashed      the text can move to address bar and open Google to search      Google crashed    <b>Please provide

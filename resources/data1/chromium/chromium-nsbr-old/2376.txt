@@ -1,0 +1,1 @@
+<title>Issue 2376 -   chromium -    Gears native to Chromium - Project Hosting on Google Code</title> <pre> Gears should not be a plug-in  but rather integrated as part of the browser   itself.       </pre>

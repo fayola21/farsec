@@ -1,0 +1,1 @@
+<title>Issue 28727 -   chromium -    remove msvs_guid from all gyp files - Project Hosting on Google Code</title> <pre> Currently we need msvs_guid due to <a title="Fix release scripts so msvs_guid can be removed from all gyp files."  href="/p/chromium/issues/detail?id=28726">issue 28726</a>. Once that is solved  we should drop them from   the gyp files. </pre>

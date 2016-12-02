@@ -1,0 +1,1 @@
+<title>Issue 39316 -   chromium -    syfy.com broken - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.11 (39572)(linux)  URL : <a href="http://syfy.com">http://syfy.com</a>  Behavior in Firefox 3.x: page doesn't crash..   </pre>

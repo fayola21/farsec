@@ -1,0 +1,1 @@
+<title>Issue 16651 -   chromium -    Crashes on opening a new tab - Project Hosting on Google Code</title>   1. Open Chrome  2. Tab  3. Crash        It should open a new tab          The browser crashed completely    <b>Please provide

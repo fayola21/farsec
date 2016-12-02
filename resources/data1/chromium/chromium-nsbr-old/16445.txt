@@ -1,0 +1,1 @@
+<title>Issue 16445 -   chromium -    Failure in FindBarCocoaControllerTest.SetFindText - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=20377">r20377</a> caused the failure of FindBarCocoaControllerTest.SetFindText on Mac release + debug   builders.   </pre>

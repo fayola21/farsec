@@ -1,0 +1,1 @@
+<title>Issue 40790 -   chromium -    Strange shadow over omnibox - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.366.2 dev  URLs (if applicable) : &lt;any&gt;  Other browsers tested: N/A      1. See attached image. Weird shadow over omnibox always present. Only started   seeing in the past few dev builds.    OS: Win 7 </pre>

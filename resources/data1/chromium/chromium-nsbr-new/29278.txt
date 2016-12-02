@@ -1,0 +1,1 @@
+<title>Issue 29278 -   chromium -    Chinese input methods do not work in Google Wave - Project Hosting on Google Code</title>   1. Open and login to Google Wave.  2. Input Chinese characters in the wave session to perform real-time   communication.       Input Chinese correctly.      Every keystroke seem to be doubled.    <b>Please provide

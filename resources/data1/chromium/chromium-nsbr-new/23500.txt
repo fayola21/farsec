@@ -1,0 +1,1 @@
+<title>Issue 23500 -   chromium -    Download animation arrow doesn't work on Snow Leopard - Project Hosting on Google Code</title> <pre> When downloading something on Snow Leopard  the download animation   does not appear most of the time. It occasionally flashes briefly then   disappears. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2790 -   chromium -    TableView should support sorting - Project Hosting on Google Code</title> <pre> Clicking on a column of a TableView should trigger a sort. This is the   basis for fixing <a title="Cannot sort columns in Task Manager" class=closed_ref href="/p/chromium/issues/detail?id=95"> bug 95 </a>. </pre>

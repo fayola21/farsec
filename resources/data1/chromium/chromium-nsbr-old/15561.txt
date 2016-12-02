@@ -1,0 +1,1 @@
+<title>Issue 15561 -   chromium -    Merging 2 windows causes chrome to crash - Project Hosting on Google Code</title>   1. Open up at least 2 tabs in chrome.  2. Drag one tab off  so it creates a new window  3. Drag tab back to initial window      The tab rejoins the list of tabs in the original tab window      it crashes    <b>Please provide

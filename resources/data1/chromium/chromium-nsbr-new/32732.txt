@@ -1,0 +1,1 @@
+<title>Issue 32732 -   chromium -    Clicking the bookmark manager &quot;+&quot; button while a fake node is focused in the left pane crashes chrome - Project Hosting on Google Code</title> <pre> Fake nodes are &quot;recent&quot; and &quot;search results. </pre>

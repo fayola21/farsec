@@ -1,0 +1,1 @@
+<title>Issue 16070 -   chromium -    Extension crash recovery doesn't work for background pages - Project Hosting on Google Code</title> <pre> ExtensionHost::RecoverCrashedExtension just delegates to its view_  which   doesn't exist for background pages. </pre>

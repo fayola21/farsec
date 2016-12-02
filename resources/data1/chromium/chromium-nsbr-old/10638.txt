@@ -1,0 +1,1 @@
+<title>Issue 10638 -   chromium -    Remove JSCRE from about:credits - Project Hosting on Google Code</title> <pre> I think JSCRE is no longer relevant now that we use V8's regex engine.  If so   we should remove it from about:licenses.   </pre>

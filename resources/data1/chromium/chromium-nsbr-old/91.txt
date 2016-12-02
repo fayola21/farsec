@@ -1,0 +1,1 @@
+<title>Issue 91 -   chromium -    Alt+D shortcut (focus location bar) beeps - Project Hosting on Google Code</title>   1. Press Alt+D to focus the location bar          The location bar is focused  that's all.        The location bar is focused  but the browser beeps as if some error had   occurred.    Please provide

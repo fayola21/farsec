@@ -1,0 +1,1 @@
+<title>Issue 30268 -   chromium -    Detect and ignore double clicks on DL'd items in DL bar - Project Hosting on Google Code</title> <pre> so I don't keep accidentally opening all my downloaded files twice.  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6147 -   chromium -    Right-click Reload not available in frame - Project Hosting on Google Code</title>   1. Navigate to a page with a frame  2. Right click inside the frame        The context menu should have an option to reload the page/frame.      The reload option does not exist.    Please provide

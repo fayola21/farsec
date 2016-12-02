@@ -1,0 +1,1 @@
+DataTable.html does not validate (HTML 4.01/XHTML-Strict)    According to http://www.w3.org/TR/html401/struct/tables.html#h-11.2.3  &lt;tfoot&gt;..&lt;/tfoot&gt; must come before the start of &lt;tbody&gt;. The has not changed for XHTML.Proposed fix: just move &lt;tfoot&gt; up after &lt;thead&gt; and before &lt;tbody&gt;.   

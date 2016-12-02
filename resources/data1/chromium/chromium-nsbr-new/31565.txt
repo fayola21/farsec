@@ -1,0 +1,1 @@
+<title>Issue 31565 -   chromium -    For locales that don't include the extensions promo  just show the sync promo - Project Hosting on Google Code</title> <pre> From Miranda:    &quot;Digging through the available translated messages  we could just  use the message &quot;Synchronize my bookmarks...&quot; instead of the combined  promo in non-EN locales. &quot; </pre>

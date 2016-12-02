@@ -1,0 +1,1 @@
+<title>Issue 403 -   chromium -    error in building linux chrome - Project Hosting on Google Code</title>   1.Get the code as perinstructions  2.$ cd $CHROMIUM_ROOT/src/chrome   3.$ ../third_party/scons/scons.py Hammer      Executables created during the build process will be placed in  $CHROMIUM_ROOT/src/chrome/Hammer.      Getting the error mentioned above.    Please provide

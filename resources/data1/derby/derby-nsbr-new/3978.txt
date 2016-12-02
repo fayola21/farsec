@@ -1,0 +1,1 @@
+Clob.truncate(long) in the client driver doesn't update the cached Clob length    The client driver caches the Clob length  but doesn't update it when Clob.truncate is called.I will attach a few regression tests  where one of them demonstrates the issue. The fix is also very simple; update the cached length.   

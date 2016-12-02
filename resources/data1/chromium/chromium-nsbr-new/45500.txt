@@ -1,0 +1,1 @@
+<title>Issue 45500 -   chromium -    Status Bar - Project Hosting on Google Code</title> <pre> Not sure if this is the right place  I apologize if not.    I would really like a status bar on Chrome. I like to move the window around by dragging it from the   top or bottom. Add a status bar to chrome  even if it's optional! </pre>

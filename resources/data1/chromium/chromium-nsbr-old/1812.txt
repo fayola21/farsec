@@ -1,0 +1,1 @@
+<title>Issue 1812 -   chromium -    No middle click scrolling - Project Hosting on Google Code</title>   1. Middle click  2. Middle click again  3. Punch screen      Scrolling is slaved to mouse movement until disabled with left click.      Nothing.    Please provide

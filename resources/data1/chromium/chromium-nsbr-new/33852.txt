@@ -1,0 +1,1 @@
+<title>Issue 33852 -   chromium -    Close tab keyboard shortcut - Project Hosting on Google Code</title>   1. Command button + W           Should close tab instead of closing the window (with all the tabs within).  If there's only one tab open should close windows      It closes the windows with all tabs within.    <b>Please provide

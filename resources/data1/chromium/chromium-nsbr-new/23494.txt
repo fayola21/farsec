@@ -1,0 +1,1 @@
+<title>Issue 23494 -   chromium -    Mac pixel tests: Text declared as &quot;monospace&quot; with no size is bigger in Chromium - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/css1/font_properties/font_family.html  LayoutTests/css2.1/t1503-c522-font-family-00-b.html  LayoutTests/fast/text/monospace-width-cache.html   </pre>

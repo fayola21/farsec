@@ -1,0 +1,1 @@
+<title>Issue 1871 -   chromium -    spiceworks inventory list - Project Hosting on Google Code</title>   1. install spiceworks  2. open the inventory   3. view inventory by list-view      to see a nice organized list of inventory items      see nothing!    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 43912 -   chromium -    Crash of Chromium upon close - Project Hosting on Google Code</title>   1. Open Chromium  2. run for instance this link <a href="http://jsbenchmark.celtickane.com/Run.aspx">http://jsbenchmark.celtickane.com/Run.aspx</a>  3. run Benchmark  4. Close Chromium        Chromium should close        Chromium closes with a crash  <b>Please provide

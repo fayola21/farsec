@@ -1,0 +1,1 @@
+<title>Issue 35474 -   chromium -    Use the translate element for the translate feature rather than our own implementation - Project Hosting on Google Code</title> <pre> Per the request of the translate team  we should use their translate element   for parsing the page rather than our own implementation   </pre>

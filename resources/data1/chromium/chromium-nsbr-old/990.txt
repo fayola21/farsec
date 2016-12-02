@@ -1,0 +1,1 @@
+<title>Issue 990 -   chromium -    Throbber makes it appear that Meebo never completely loads - Project Hosting on Google Code</title>   1. Open meebo.com  2. Login using credentials  3. Click Sign On      Page should load completely and tab throbber should stop spinning.      Page appears to load completely but tab throbber continues to spin.    Please provide

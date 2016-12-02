@@ -1,0 +1,1 @@
+<title>Issue 38199 -   chromium -    Cookie dialogs should not be application modal - Project Hosting on Google Code</title> <pre> - enable cookie privacy settings to ask for each cookie  - go to cnn.com    expected:  - tab or window modal sheet    actual:  - application modal window that blocks the entire UI asking about the cookie    Fail.  </pre>

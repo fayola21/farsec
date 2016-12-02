@@ -1,0 +1,1 @@
+<title>Issue 37256 -   chromium -    ffmpeg-tests error message not informative - Project Hosting on Google Code</title> <pre> run ffmpeg-tests on an mp4 with chromium  it says could not open &lt;file&gt;  should say  codec not supported   </pre>

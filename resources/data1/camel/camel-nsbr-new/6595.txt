@@ -1,0 +1,1 @@
+camel-cmis component: test packages have the wrong name    Unit tests for camel-cmis are under package org.apache.camel.componenet instead of org.apache.camel.componentActions:1) Rename folder src/test/java/org/apache/camel/componenet to src/test/java/org/apache/camel/component/2) Fix the package name in each unit testAffected version: 2.12-SNAPSHOT and before   

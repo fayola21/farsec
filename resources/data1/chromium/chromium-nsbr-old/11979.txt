@@ -1,0 +1,1 @@
+<title>Issue 11979 -   chromium -    Implement find_bar_gtk.cc:StopAnimation - Project Hosting on Google Code</title> <pre> The find bar animates when searching.    See find_bar_gtk.cc:StopAnimation  etc. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30553 -   chromium -    Provide support for extensions API for a sidebar container - Project Hosting on Google Code</title> <pre> Sidebars would be nice to have in Chrome extensions API. </pre>

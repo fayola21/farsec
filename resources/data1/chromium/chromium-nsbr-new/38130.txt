@@ -1,0 +1,1 @@
+<title>Issue 38130 -   chromium -    depot_tools &quot;README&quot; incorrectly refers to &quot;bootstrap/update.sh&quot;. - Project Hosting on Google Code</title> <pre> I just checked out the depot_tools via svn on my fedora linux box  and the  top-level README file refers to an apparently non-existent  &quot;bootstrap/update.sh&quot; file for updating. </pre>

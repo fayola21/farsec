@@ -1,0 +1,1 @@
+<title>Issue 25573 -   chromium -    Add RTSP support to Chrome - Project Hosting on Google Code</title> <pre> It would be interesting to see if Chrome could support rtsp:// for HTML5   audio/video tags. </pre>

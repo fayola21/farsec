@@ -1,0 +1,1 @@
+<title>Issue 27818 -   chromium -    'Inspect Element' menu item opens empty DevTools window - Project Hosting on Google Code</title>   1. Right click  select 'Inspect Element'          DevTools window should not be blank      Blank DevTools window opens    <b>Please provide

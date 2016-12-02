@@ -1,0 +1,1 @@
+<title>Issue 23039 -   chromium -    Cleanup warning generation during build to only real warnings - Project Hosting on Google Code</title> <pre> Since GYP conversion  there is a lot of warnings that aren't disabled anymore   on VS build  especially in third party code. This slows down the build. </pre>

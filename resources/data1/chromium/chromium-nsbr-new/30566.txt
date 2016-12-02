@@ -1,0 +1,1 @@
+<title>Issue 30566 -   chromium -    The onreadystatechange event does not fire in userscripts - Project Hosting on Google Code</title>   1. Install the attached userscript  2. Load a web page  3. Look at console      The onreadystatechange event should fire  executing the callback and  logging information to the console.      The callback is not executed.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 41952 -   chromium -    Images disappear when a page is loaded. - Project Hosting on Google Code</title>   1. Loading any website with JPG's GIF's or PNG's  2. Especially Avatars on forum based websites        The Image to STAY on the webpage viewed.      Image dissapears  and a small image-icon(the standard chrome one) remains    <b>Please provide

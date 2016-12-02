@@ -1,0 +1,1 @@
+<title>Issue 25696 -   chromium -    report bug function not working - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.11    OS version               : 10.5.8            1. control the current page  2. report bug or broken website        open a new window or a form to report the bug to google.        Nothing! </pre>

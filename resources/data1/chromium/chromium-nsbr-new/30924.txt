@@ -1,0 +1,1 @@
+<title>Issue 30924 -   chromium -    Developer Rank on Extensions Gallery - Project Hosting on Google Code</title> <pre> Maybe there should also be a ranking of developers based on ratings and   usage  as a way to discover quality extensions... </pre>

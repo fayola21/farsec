@@ -1,0 +1,1 @@
+<title>Issue 37267 -   chromium -    Bookmark manager needs to scroll as the user drags - Project Hosting on Google Code</title> <pre> When the user drags an item near the end or the top of the tree or list we   need to scroll the tree or list so that they can drop on items outside the   viewport. </pre>

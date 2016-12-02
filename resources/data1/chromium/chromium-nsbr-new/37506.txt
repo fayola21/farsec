@@ -1,0 +1,1 @@
+<title>Issue 37506 -   chromium -    controls for embedded video on bbc webpages - Project Hosting on Google Code</title> <pre> u probably know but once video launched no control of video possible with   buttons   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28712 -   chromium -    square box is dispayed in Thai web site - Project Hosting on Google Code</title>   1. go to <a href="http://www.voanews.com/thai/2009-11-21-voa1.cfm">http://www.voanews.com/thai/2009-11-21-voa1.cfm</a>            Square boxes are observed from the site        <b>Please provide

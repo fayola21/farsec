@@ -1,0 +1,1 @@
+<title>Issue 11 -   chromium -    Scrolling with middle-mouse button does not work (autoscroll) - Project Hosting on Google Code</title>             Clicking the middle-button on the mouse should show a &quot;fast scroll&quot;   feature.      Nothing.    Please provide

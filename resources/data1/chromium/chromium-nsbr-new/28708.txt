@@ -1,0 +1,1 @@
+<title>Issue 28708 -   chromium -    Report list of extensions in crash report - Project Hosting on Google Code</title> <pre> As extensions become more popular  getting the list of extensions used during   crash would be helpful to reproduce the issues. It is probably most helpful   if the crash is in renderer.   </pre>

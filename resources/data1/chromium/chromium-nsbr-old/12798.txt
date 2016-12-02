@@ -1,0 +1,1 @@
+<title>Issue 12798 -   chromium -    Chrome UI font is way too small - Project Hosting on Google Code</title>   1. Chrome updated to latest Dev build  2. All text on Chrome UI (windows  tabs  bookmarks  buttons in UI) is way   too small      A font size that suits the operating system      Everything is too small    <b>Please provide

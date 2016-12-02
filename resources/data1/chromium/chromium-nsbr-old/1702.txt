@@ -1,0 +1,1 @@
+<title>Issue 1702 -   chromium -    Boxes don't remember inputs - Project Hosting on Google Code</title>   1. Open any page with a box   2. Input some text in the box  3. Re-open the page and start inputting the same text      The previously input text should appear      No text appears    Please provide

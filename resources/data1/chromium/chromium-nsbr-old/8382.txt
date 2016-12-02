@@ -1,0 +1,1 @@
+<title>Issue 8382 -   chromium -    Tab dragging infrastructure - Project Hosting on Google Code</title> <pre> While we don't yet need the full-blown tab dragging  we should probably  investigate taking as much of Cole's prototype view hierarchy as we can and  checking it in. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43670 -   chromium -    Download Hesitation - Project Hosting on Google Code</title>   1.try to download any file.          In previous versions  including the stable build  the downloads would start immediately.      Instead the download has a few second hesitation  then shows the download   in the bottom bar.    <b>Please provide

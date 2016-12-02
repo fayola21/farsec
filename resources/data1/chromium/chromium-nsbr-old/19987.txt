@@ -1,0 +1,1 @@
+<title>Issue 19987 -   chromium -    &quot;Show in folder&quot; on downloads does nothing on non-GNOME/KDE Ubuntu systems  due to bug in Ubuntu - Project Hosting on Google Code</title> <pre> As in summary.  Using non-Gnome setup  if that matters any.  We should   probably just yank it for beta. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21450 -   chromium -    windows media player plugin won't load up correctly - Project Hosting on Google Code</title>   1.open url  2.wmp plugin won't load up on the webpage        wmp plugin should load automatically      keep on poping up missing wmp plugin although it is available    <b>Please provide

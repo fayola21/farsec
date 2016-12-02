@@ -1,0 +1,1 @@
+<title>Issue 44832 -   chromium -    Chrome crashes on reconnect to internet - Project Hosting on Google Code</title>   1. Waking Windows from sleep  2. Restarting/reconnecting/repairing internet connection  3. Reconnect of lost internet connection      None      Full crash of Chrome (all tabs)    <b>Please provide

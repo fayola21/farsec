@@ -1,0 +1,1 @@
+<title>Issue 39293 -   chromium -    google chrome 5.0.342.7 beta crashes chromium - Project Hosting on Google Code</title>   1. Update google chrome          Chromium open normally.      Chromium can't access to my profle. I can't see my recent tabs or another   configurations.    <b>Please provide

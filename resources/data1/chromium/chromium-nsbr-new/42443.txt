@@ -1,0 +1,1 @@
+<title>Issue 42443 -   chromium -    Reduce the number of scenarios where we skip the install dialog for extension apps - Project Hosting on Google Code</title> <pre> We need to do what the subject says before releasing...    Search for this bug number in extension_install_ui.cc for location.   </pre>

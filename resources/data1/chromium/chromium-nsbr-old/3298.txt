@@ -1,0 +1,1 @@
+<title>Issue 3298 -   chromium -    Site rendering differences between HTTP and HTTPS - Project Hosting on Google Code</title>   1. open <a href="http://www.newcastlepermanent.com.au/">http://www.newcastlepermanent.com.au/</a> in chrome  2. Compare to <a href="https://www.newcastlepermanent.com.au/">https://www.newcastlepermanent.com.au/</a>                  Please provide

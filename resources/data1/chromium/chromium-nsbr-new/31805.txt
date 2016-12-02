@@ -1,0 +1,1 @@
+<title>Issue 31805 -   chromium -    HTTP Accept header is non appropriate - Project Hosting on Google Code</title>   1. open URL using content negotiation to distinguish e.g. image/png from  text/html      HTML should be displayed      PNG is displayed    <b>Please provide

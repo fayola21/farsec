@@ -1,0 +1,1 @@
+<title>Issue 2379 -   chromium -    Unable to download message attachments in gmail - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.152.1           Safari 3: NA      Firefox 3: PASS           IE 7: PASS      1. Try to download an email attachment in GMail.      A dialog box asking to where to download the attachment.      Nothing    </pre>

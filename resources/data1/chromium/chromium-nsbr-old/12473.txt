@@ -1,0 +1,1 @@
+<title>Issue 12473 -   chromium -    Linux tab dragging crash (debug mode) - Project Hosting on Google Code</title> <pre> chrome: /usr/local/google/google3/src/base/scoped_ptr.h:93: C*  scoped_ptr&lt;C&gt;::operator-&gt;() const [with C = DraggedTabGtk]: Assertion `ptr_  != __null' failed.    This is <a href="/p/chromium/source/detail?r=16625">r16625</a>. </pre>

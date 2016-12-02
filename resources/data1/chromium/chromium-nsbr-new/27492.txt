@@ -1,0 +1,1 @@
+<title>Issue 27492 -   chromium -    Tab freezes when copying text. - Project Hosting on Google Code</title>   1.Open any website  2.Select (highlight) text (input text boxes work fine).  3.Right click - copy      Normal behavior after copying text. Not tab-freezing.      Tab freezes.    <b>Please provide

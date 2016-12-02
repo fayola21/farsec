@@ -1,0 +1,1 @@
+Routing slip EIP - Does not send ExchangeSentEvent notifications    When using routing slip eip  then we only get the ExchangeSendingEvent  what we miss is the ExchangSentEvent.   

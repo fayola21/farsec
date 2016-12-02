@@ -1,0 +1,1 @@
+<title>Issue 6445 -   chromium -    Automatically re-opens when I close chromium - Project Hosting on Google Code</title>   1. Close the window       The window should close       The window closes  and a new chromium window opens    Please provide

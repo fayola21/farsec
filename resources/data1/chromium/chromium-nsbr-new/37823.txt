@@ -1,0 +1,1 @@
+<title>Issue 37823 -   chromium -    Chrome Hangs When Attempting to Publish Wordpress.com Post - Project Hosting on Google Code</title>   1.  Create new post in wordpress.com blog.  2.  Click the &quot;publish&quot; button on right side of screen.  3.  Publishing ring icon will spin indefinitely  never posts.                <b>Please provide

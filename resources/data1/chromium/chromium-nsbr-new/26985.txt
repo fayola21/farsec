@@ -1,0 +1,1 @@
+<title>Issue 26985 -   chromium -    Graphics remain static and don't move - Project Hosting on Google Code</title>           What is the expected result? Animated graphics should move.      What happens instead? Animated graphics do not move - they are static.      <b>Please provide

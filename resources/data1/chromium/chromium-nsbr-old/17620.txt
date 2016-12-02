@@ -1,0 +1,1 @@
+<title>Issue 17620 -   chromium -    Bookmark bar overlaps omnibox blue outline - Project Hosting on Google Code</title> <pre> The bookmark bar overlaps the blue &quot;focus&quot; outline of the omnibox.  Fix.   </pre>

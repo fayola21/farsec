@@ -1,0 +1,1 @@
+<title>Issue 26239 -   chromium -    toolbar border missing on linux - Project Hosting on Google Code</title> <pre> border below the toolbar (above the page) is missing  almost certainly due   to <a href="http://codereview.chromium.org/334019/show">http://codereview.chromium.org/334019/show</a> </pre>

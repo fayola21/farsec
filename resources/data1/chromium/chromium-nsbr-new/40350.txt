@@ -1,0 +1,1 @@
+<title>Issue 40350 -   chromium -    PC Astuce problem of display - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.11 (39572) Ubuntu  URLs (if applicable) : <a href="http://www.pcastuces.com/">http://www.pcastuces.com/</a>           Safari 4: N/A    Firefox 3.6: Ok           IE 7: N/A           IE 8: N/A </pre>

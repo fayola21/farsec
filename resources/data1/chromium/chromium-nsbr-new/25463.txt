@@ -1,0 +1,1 @@
+<title>Issue 25463 -   chromium -    CRASH -[TabView mouseDown:] versus JavaScript close. - Project Hosting on Google Code</title> <pre>   1. Arrange to be on the attached test.html in Chrome.  2. W/in 5 seconds  click and drag the tab and do not let go.  3. Release when the window closes.        This crashes in -[TabView mouseDown:]. </pre>

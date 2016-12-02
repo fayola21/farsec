@@ -1,0 +1,1 @@
+CheckGroupSelector should implement ILabelProvider    The CheckGroupSelector component (used to check all Checks within a Checkgroup) should implement ILabelProvider (or extend LabeledWebMarkupContainer) as currently no &lt;label&gt; can be bound to a CheckGroupSelector.   

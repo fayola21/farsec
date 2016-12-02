@@ -1,0 +1,1 @@
+<title>Issue 28940 -   chromium -    Mac: Home page not loading when reopening Chrome from dock - Project Hosting on Google Code</title>   1. Open Chrome  2. Close window  but leave Chrome running in dock  3. Reopen Chrome      Home page should be loaded as it is when Chrome is first launched      New tab page is loaded    <b>Please provide

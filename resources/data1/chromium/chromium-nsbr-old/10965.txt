@@ -1,0 +1,1 @@
+<title>Issue 10965 -   chromium -    Finish LocationBarView implementation. - Project Hosting on Google Code</title> <pre> A bunch of things still need implemented:    - SSL lock icon    - Infobubble on lock icon hover    - Slash through bad https (will probably do this in the edit).    - Keyword indication    - Tab to search indication </pre>

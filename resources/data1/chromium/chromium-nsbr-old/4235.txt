@@ -1,0 +1,1 @@
+<title>Issue 4235 -   chromium -    Mouse cursor doesn't update on wheel button scroll - Project Hosting on Google Code</title> <pre> Maybe I didn't install the nightly builds correctly  but when I middle  click on a page to scroll it  the mouse cursor disappears (and shows up  when I release it).   </pre>

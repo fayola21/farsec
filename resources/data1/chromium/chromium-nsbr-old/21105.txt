@@ -1,0 +1,1 @@
+<title>Issue 21105 -   chromium -    Regression: theme install doesn't automatically update NTP image - Project Hosting on Google Code</title> <pre>   1. Open some NTP's  install theme      Note that refresh is required to update NTP image to new theme on already-  opened pages.   </pre>

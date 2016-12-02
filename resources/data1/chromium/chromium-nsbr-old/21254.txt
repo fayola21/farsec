@@ -1,0 +1,1 @@
+<title>Issue 21254 -   chromium -    transparent tabstrip when window is maximized on vista - Project Hosting on Google Code</title>   1.Maximize Google Chrome  2.Lock computer  3.Then unlock (log in)      Google Chromes skin looks normal      Google Chrome's skin looks transparent when maximized  and looks black when   not maximized    <b>Please provide

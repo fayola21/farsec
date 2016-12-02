@@ -1,0 +1,1 @@
+<title>Issue 2870 -   chromium -    Tab glitch - Project Hosting on Google Code</title>   1. Just moving tabs around.          Nothing      A tab closes and the space where the tab closes becomes blank and other   tabs cannot move to that area.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26139 -   chromium -    Pressing spacebar when address bar is blank (Hebrew Version) - Project Hosting on Google Code</title> <pre> [Hebrew]    [4.0.223.11��_��_��_]    [Windows 7 Ultimate &amp; Windows XP PRO SP3]    [When Pressing Spacebar in the Address Bar when it's blank  the text selector   goes right instead of going left (only the hebrew version!!)]   </pre>

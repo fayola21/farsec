@@ -1,0 +1,1 @@
+http polling consumer does not support timeout    When using the consumer template to receive from a remote http service using camel-http the method receive(5000) that uses a 5 sec timeout does not work as expected.Camel does not use the 5000 value.   

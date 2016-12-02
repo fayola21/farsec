@@ -1,0 +1,1 @@
+<title>Issue 21125 -   chromium -    Deleting from Bookmark Bar crashes Chrome 4.0.206.1 - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.206.1    OS version               : 10.6            1.Save a bookmark to the bookmark bar  2.Display bookmark bar  3.Delete a bookmark from the bookmark bar.      Bookmark is removed.      Browser Crashes. </pre>

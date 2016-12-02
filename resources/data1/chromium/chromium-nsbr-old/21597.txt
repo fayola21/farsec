@@ -1,0 +1,1 @@
+<title>Issue 21597 -   chromium -    double separators in tools menu - Project Hosting on Google Code</title> <pre> Open the tools (wrench menu). There are two adjacent separators after   Downloads. Yuck.  v4.0.206.1  </pre>

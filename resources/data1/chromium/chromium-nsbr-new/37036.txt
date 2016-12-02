@@ -1,0 +1,1 @@
+<title>Issue 37036 -   chromium -    Flash interactivity is broken - Project Hosting on Google Code</title>   1. Go to the specified URL  2. Try and click on the interactive buttons/text    It should direct you to another page/something should happen      Nothing happens at all    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 46027 -   chromium -    Google Chrome Frame Installer dialog title has an extra space - Project Hosting on Google Code</title> <pre> Go to www.google.com/chromeframe and install CF  See the installer dialog    Issue: There's double space in between 'Google Chrome Frame' and 'Installer' </pre>

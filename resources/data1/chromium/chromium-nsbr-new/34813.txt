@@ -1,0 +1,1 @@
+<title>Issue 34813 -   chromium -    Can't paste from wterm to chrome - Project Hosting on Google Code</title>   1.Highlight text in wterm  2.Click button 3 to paste into chrome      What is the expected result? Text will be pasted      What happens instead? Nothing      <b>Please provide

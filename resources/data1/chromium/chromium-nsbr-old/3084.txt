@@ -1,0 +1,1 @@
+<title>Issue 3084 -   chromium -    [Klocwork] shadow variable error xp_frame.cc line 170 - Project Hosting on Google Code</title> <pre> int status is redefined in the internal scope. external scope (line 158) is   the right one.   </pre>

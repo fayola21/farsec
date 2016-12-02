@@ -1,0 +1,1 @@
+<title>Issue 8557 -   chromium -    Google logo layout problem on Vista - Project Hosting on Google Code</title> <pre>   1. Launch latest Dev channel release (2.0.168) on Vista   2. Notice that the Google logo near the minimize button overlaps the   minimize button.    Oddly  if you resize the window  the layout becomes fine. </pre>

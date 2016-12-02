@@ -1,0 +1,1 @@
+<title>Issue 6408 -   chromium -    Interstitial crasher - Project Hosting on Google Code</title> <pre>   1. From the new page  enter the URL to a malware site (ex:   <a href="http://ianfette.org">http://ianfette.org</a>)  2. Press Back (or close the tab).    Expected:  No crash.    Actual:  Crash.   </pre>

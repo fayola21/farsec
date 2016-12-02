@@ -1,0 +1,1 @@
+<title>Issue 32418 -   chromium -    Chrome unable to display tamil fonts - Linux - Project Hosting on Google Code</title>   1. Open this URL <a href="http://tamil.webdunia.com/">http://tamil.webdunia.com/</a>  2. Look at the page      Should display the tamil fonts properly      Fonts aren't proper    <b>Please provide

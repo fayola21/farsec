@@ -1,0 +1,1 @@
+Create a script that allows users to easily update their Derby jars with the JDBC4 classes.    Since the resolution of the JDBC 4 licensing issue was to not ship a build that includes Derby's JDBC 4 code  but continue to ship the Derby source files for them  a script which automatically compiles and updates the Derby jars with the JDBC 4 classes would be useful.   

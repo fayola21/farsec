@@ -1,0 +1,1 @@
+<title>Issue 13466 -   chromium -    Crash on shutdown after extension uninstall - Project Hosting on Google Code</title> <pre>   1. Uninstall an extension  2. Shut down Chrome  3. Boom    I'm not sure if this happens everytime  but I see it frequently. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 923 -   chromium -    Uses huge amount of CPU - Project Hosting on Google Code</title>   1. Open a 2 or 3 tabs with pages displaying flash          CPU around 1%      CPU keeps rising up as high as 30%    Please provide

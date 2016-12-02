@@ -1,0 +1,1 @@
+<title>Issue 36459 -   chromium -    Changing folders fast hangs the bookmark manager - Project Hosting on Google Code</title> <pre> The bookmark manager uses onhashchange to trigger navigation changes. These   are dispatched async which can lead to issues in the bookmark manager.    Steps to reproduce:    1. Focus the tree  2. Hold down up or down arrow.  3. Hang     </pre>

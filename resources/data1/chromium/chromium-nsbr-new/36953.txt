@@ -1,0 +1,1 @@
+<title>Issue 36953 -   chromium -    OS X Chromium Dock Icon changes to active app's icon when download is in progress. - Project Hosting on Google Code</title>   1. Start a download  2. Change to a different app  3. Observe the Chromium icon in the dock - it changes to the icon of the active app                <b>Please provide

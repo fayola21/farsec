@@ -1,0 +1,1 @@
+TextTemplate in RenderHead() on component doesn't Re-Render for every page    I have a project that uses a menu thats repeated on every page. If I first view it on a mounted page /PageName and then look at it on a BookMarkable page/wicket/bookmarkable/page.class.name?foo the images referenced in my template do not appear.(the javascript template image strings do not change)   

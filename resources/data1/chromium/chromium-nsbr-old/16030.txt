@@ -1,0 +1,1 @@
+<title>Issue 16030 -   chromium -    Media filter Initialize() should be void - Project Hosting on Google Code</title> <pre> Currently we return true/false which leads to unclear error handling in our   media pipeline.    The Initialize() method should be void such that we force the filters to   report specific errors via the SetError() method. </pre>

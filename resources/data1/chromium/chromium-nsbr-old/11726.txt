@@ -1,0 +1,1 @@
+<title>Issue 11726 -   chromium -    browser always crashes when opening new tab for Google 2.0.180.0 (15747) - Project Hosting on Google Code</title>   1. New Tab        What is the expected result? Opens new tab      What happens instead? Crashed the browser      <b>Please provide

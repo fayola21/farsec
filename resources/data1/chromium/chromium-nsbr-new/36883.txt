@@ -1,0 +1,1 @@
+<title>Issue 36883 -   chromium -    Broket extensions page - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.338.0 (40103)    URLs (if applicable) : chrome://extensions/      Just open chrome://extensions/ in Russian local      Extensions page      White page   </pre>

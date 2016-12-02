@@ -1,0 +1,1 @@
+<title>Issue 24732 -   chromium -    Fix up window widget unit tests - Project Hosting on Google Code</title> <pre>   1. Currently I have disabled unittests WindowWidgetLocation and WindowWidgetTrackingArea in   chrome_browser_window_unittest.mm. I need to fix and reenable.   </pre>

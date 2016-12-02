@@ -1,0 +1,1 @@
+<title>Issue 7228 -   chromium -    If they are no passwords in Password Manager  then &quot;Remove all&quot; should be disabled. - Project Hosting on Google Code</title> <pre> See &lt;b/1004259&gt;  Still reproduces in 2.0.160.0 (Developer Build 8889)    If they are no passwords in Password Manager  then &quot;Remove all&quot; should be  disabled. </pre>

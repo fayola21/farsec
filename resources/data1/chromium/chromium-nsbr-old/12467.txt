@@ -1,0 +1,1 @@
+<title>Issue 12467 -   chromium -    Bookmark bar text is not themed - Project Hosting on Google Code</title> <pre> The bookmark bar buttons use hard-coded colors. </pre>

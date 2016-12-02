@@ -1,0 +1,1 @@
+<title>Issue 11980 -   chromium -    Abnormal floating - Project Hosting on Google Code</title>   1. Open the URL in chrome  2. Scroll to &quot;Dithering algorithms&quot;      The images display normally.      The image labeled &quot;(Original) Threshold Random Halftone Bayer (ordered)&quot;   covers the 6th figure of the cat. It may be a problem of CSS.    <b>Please provide

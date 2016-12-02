@@ -1,0 +1,1 @@
+<title>Issue 26162 -   chromium -    enforce min/max size for extension popups on linux - Project Hosting on Google Code</title> <pre> See <a title="enforce min/max size for extension popups" class=closed_ref href="/p/chromium/issues/detail?id=25214"> issue 25214 </a>.  Implement this feature for Linux. </pre>

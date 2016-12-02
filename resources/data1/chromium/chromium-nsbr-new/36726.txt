@@ -1,0 +1,1 @@
+<title>Issue 36726 -   chromium -    Area over tabs generates tooltips as well? - Project Hosting on Google Code</title> <pre>   1. Have lots of tabs  2. Go fullscreen  3. Move mouse to top of screen  over menu bar        No tooltip.        A tooltip with some tab title is displayed. </pre>

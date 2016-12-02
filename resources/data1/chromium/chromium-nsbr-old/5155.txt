@@ -1,0 +1,1 @@
+<title>Issue 5155 -   chromium -    Request: Send page to email address - Project Hosting on Google Code</title> <pre> Please provide a way on the menu to send the current viewed URL to an e-  mail (provided by the user).  I find this functionality lacking  as I usually need to share random links   between workmates. A behaviour similar to IE7 would be fine.  Thank you </pre>

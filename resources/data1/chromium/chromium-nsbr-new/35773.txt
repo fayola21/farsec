@@ -1,0 +1,1 @@
+<title>Issue 35773 -   chromium -    inspector/console-dir.html produces incorrect text output - Project Hosting on Google Code</title> <pre> The test started failing since <a href="http://trac.webkit.org/changeset/54769">http://trac.webkit.org/changeset/54769</a> </pre>

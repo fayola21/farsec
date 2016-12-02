@@ -1,0 +1,1 @@
+<title>Issue 7360 -   chromium -    Webkit engine prevents Javascript from being able to write to a new window after opening it - Project Hosting on Google Code</title>   1. We have an intranet application which provides a window to take input  from the user.           New window should open with editing option.       Blank page opens.     Please provide

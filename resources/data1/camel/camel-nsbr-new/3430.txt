@@ -1,0 +1,1 @@
+InterceptSendToEndpoint has issues with interception http endpoints which has multiple parameters    See nabblehttp://camel.465427.n5.nabble.com/interceptSendToEndpoint-with-dynamic-endpoint-tp3301978p3301978.htmlThe issue is when any endpoints have parameters which may be re-ordered when the endpoint is normalized.   

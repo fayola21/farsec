@@ -1,0 +1,1 @@
+<title>Issue 25633 -   chromium -    Drag url to tab behaviour differs from drag to address + right click - Project Hosting on Google Code</title>   1. Select a non-hyperlinked domain name such as 'google.com'  2. Drag it to the tab bar  3. Err.. drop it?      The url should be opened.      Nothing happens.    <b>Please provide

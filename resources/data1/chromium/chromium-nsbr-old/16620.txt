@@ -1,0 +1,1 @@
+<title>Issue 16620 -   chromium -    Unpinned sites get pinned after dragging - Project Hosting on Google Code</title>   1. Pin one site on the new NTP  2. Drag another (unpinned) site on the pinned site in order to reorder the   sites.  3. look at the &quot;not pinned&quot; site.      Site A is pinned  Site B is not pinned      both are pinned    <b>Please provide

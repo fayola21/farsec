@@ -1,0 +1,1 @@
+<title>Issue 41790 -   chromium -    Mac: &quot;Reset to defaults&quot; button in prefs -&gt; Under the Hood appears to be permanently greyed out - Project Hosting on Google Code</title> <pre> Is it not hooked up? Is it not implemented yet? Should it be removed for M5? </pre>

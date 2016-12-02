@@ -1,0 +1,1 @@
+<title>Issue 18303 -   chromium -    No up/down buttons on the scrollbar - Project Hosting on Google Code</title>   1. Open up Chromium.      Scroll bars with up/down buttons.      Weird scroll bars without 'em. Not sure if it's a bug or a feature; never   used those buttons anyway. But it looks really weird anyway.    <b>Please provide

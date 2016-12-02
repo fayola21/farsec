@@ -1,0 +1,1 @@
+<title>Issue 44838 -   chromium -    Issue with Yahoo! Mail Classic - Project Hosting on Google Code</title>   1. Log in to Yahoo! Mail Classic  2. While in Inbox  open any mail      What is the expected result? Mail will open      What happens instead? Nothing. Mail will not open.      <b>Please provide

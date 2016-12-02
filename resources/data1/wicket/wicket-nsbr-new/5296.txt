@@ -1,0 +1,1 @@
+OnEventHeaderItem should remove 'on' prefix for the event name    OnEventHeaderItem uses JavaScript event registration  instead of inline DOM attributes  so it should remove 'on' prefixes when it is provided by the user application.For example: onclick =&gt; click.   

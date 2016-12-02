@@ -1,0 +1,1 @@
+<title>Issue 16315 -   chromium -    Shift-Delete occasionally works as Shift-Insert - Project Hosting on Google Code</title>   1. Sometimes when I press Shift-Delete  it will paste a text from buffer   instead of cutting it.                <b>Please provide

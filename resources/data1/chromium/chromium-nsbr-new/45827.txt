@@ -1,0 +1,1 @@
+<title>Issue 45827 -   chromium -    Dragging a file to Chrome (GMail) crashes explorer.exe - Project Hosting on Google Code</title>   1. Load GMail  start composing a new email  2. Drag a file from Windows Explorer      The file should be uploaded to GMail      explorer.exe  i.e. the whole Windows shell crashes. Not Chrome  but Windows  shell!    <b>Please provide

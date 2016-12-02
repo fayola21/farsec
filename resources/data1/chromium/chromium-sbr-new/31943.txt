@@ -1,0 +1,1 @@
+<title>Issue 31943 -   chromium -    Bypass of HTML5 iframe sandbox attribute (can set window.top.location) - Project Hosting on Google Code</title> <pre> Filing a Chromium tracking bug for the upstream WebKit bug I reported:    <a href="https://bugs.webkit.org/show_bug.cgi?id=33277">https://bugs.webkit.org/show_bug.cgi?id=33277</a> </pre>

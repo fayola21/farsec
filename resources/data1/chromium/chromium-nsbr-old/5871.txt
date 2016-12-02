@@ -1,0 +1,1 @@
+<title>Issue 5871 -   chromium -    Cant Access mail in HotMail - Project Hosting on Google Code</title>   1.Go into Hotmail  2.Open your Inbox  3.Try and open an email        The email opens so you can read it        Nothing happens. No Email will open at all      Please provide

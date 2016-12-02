@@ -1,0 +1,1 @@
+<title>Issue 39644 -   chromium -    Bookmarks Sync does not work in latest Chrome Beta - Project Hosting on Google Code</title> <pre> 5.0.342.8 beta for Windows.    Bookmarks do not synch.     </pre>

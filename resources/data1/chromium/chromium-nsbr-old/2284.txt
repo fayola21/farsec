@@ -1,0 +1,1 @@
+<title>Issue 2284 -   chromium -    Chrome does not become default browser - Project Hosting on Google Code</title>             Chrome becomes default browser      Chromium is still default browser and Chrome is not in the browser list    Please provide

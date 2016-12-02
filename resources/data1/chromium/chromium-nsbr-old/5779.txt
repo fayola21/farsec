@@ -1,0 +1,1 @@
+<title>Issue 5779 -   chromium -    JavaScrit errors &quot;href&quot; console goes nowhere - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.155.0 build 7350      1. Bring on JavaScript console  2. If page contains some javascript errors try to click on it.      Show corresponding javascript error line in source.      Nothing.   </pre>

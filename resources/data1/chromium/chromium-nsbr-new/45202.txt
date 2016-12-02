@@ -1,0 +1,1 @@
+<title>Issue 45202 -   chromium -    Google Chrome: 6.0.408.1 crashes. - Project Hosting on Google Code</title>   1. Open 2 - 3 websites in google chrome 6.0.408.1  2. Remove the network cable / disconnect from network  3. Google chrome crashes.      Should not Crash.      It crashes.    <b>Please provide

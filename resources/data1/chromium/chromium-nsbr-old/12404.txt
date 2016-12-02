@@ -1,0 +1,1 @@
+<title>Issue 12404 -   chromium -    Do debugger clean up when MessageHandler is removed - Project Hosting on Google Code</title> <pre> v8::internal::Debugger::SetEventListener will call v8::internal::Debugger::UnloadDebugger(); if NULL is set as listener. v8::internal::Debugger::SetMessageHandler2 should do the same thing. </pre>

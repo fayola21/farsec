@@ -1,0 +1,1 @@
+<title>Issue 11819 -   chromium -    Chromium chrases  if exited with Task manager. - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=15857">r15857</a>)    -Launch Chromium and bring Chromium Task manager.  -Exit Chromium.    Browser window crashes.    Trying to get the crash analysis. </pre>

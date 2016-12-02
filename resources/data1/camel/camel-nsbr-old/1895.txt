@@ -1,0 +1,1 @@
+camel-file - Consume and pollEnrich another file should work transparent    See nabblehttp://www.nabble.com/Problem-with-FileConsumer-and-pollEnrich-td24795192.html   

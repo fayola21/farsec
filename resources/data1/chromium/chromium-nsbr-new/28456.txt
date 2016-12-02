@@ -1,0 +1,1 @@
+<title>Issue 28456 -   chromium -    Re-allow file:// access to content scripts - Project Hosting on Google Code</title> <pre> We recently disallowed access to file:// URLs for content scripts because of   bugs in our install UI that we didn't want to have to fix for beta.    However  it turns out teams are relying on this so we should roll it back and   fix the UI bugs. </pre>

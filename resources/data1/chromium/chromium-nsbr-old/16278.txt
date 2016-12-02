@@ -1,0 +1,1 @@
+<title>Issue 16278 -   chromium -    Tabs opened through google reader close as soon as they are opened - Project Hosting on Google Code</title>   1. Open Google Reader  2. Select a story and click to read story in original site  3. Opened tab immediately closes      The opened tab should stay open      The tab immediately closes    <b>Please provide

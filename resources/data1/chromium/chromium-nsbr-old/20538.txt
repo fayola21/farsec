@@ -1,0 +1,1 @@
+<title>Issue 20538 -   chromium -    L10N: Preferences.xib - Project Hosting on Google Code</title> <pre> Is this changing into something more mac like?  I know there is stuff in under   the hood that pink doesn't think should be there  so we need to sort out what   is happening change wise before we take on l10n of this. </pre>

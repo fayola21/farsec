@@ -1,0 +1,1 @@
+<title>Issue 12205 -   chromium -    Make it possible to enable themes without extensions - Project Hosting on Google Code</title> <pre> Add an --enable-themes flag that allows installation of themes but no other   types of extensions. --enable-extensions would be a superset (?) of --enable-  themes? </pre>

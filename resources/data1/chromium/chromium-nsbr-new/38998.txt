@@ -1,0 +1,1 @@
+<title>Issue 38998 -   chromium -    Download will be starts faster but slow down soon. But able to download faster using a download manger - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.1.249.1036  URLs (if applicable) :<a href="http://dlcdnas.asus.com/pub/ASUS/misc/usb20/usb2-">http://dlcdnas.asus.com/pub/ASUS/misc/usb20/usb2-</a>  wxp.zip     </pre>

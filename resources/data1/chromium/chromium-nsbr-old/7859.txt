@@ -1,0 +1,1 @@
+<title>Issue 7859 -   chromium -    Issue with dojo (dijit widget) - Project Hosting on Google Code</title>   1. Just open the page www.wysiwygband.com      A menu should appear on the left  containing initially 8 items.      The menu shows only the first item on google chrome    Please provide

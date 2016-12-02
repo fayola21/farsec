@@ -1,0 +1,1 @@
+<title>Issue 1475 -   chromium -    Chrome crashes on every page load - Project Hosting on Google Code</title>   1. open chrome  2. load any page        Page to load      Error: &quot;Whoa! Google Chrome has crashed. Restart now?&quot;    Please provide

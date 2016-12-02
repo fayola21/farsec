@@ -1,0 +1,1 @@
+<title>Issue 22127 -   chromium -    Keyboard short-cut in dropdown menus does not function properly - Project Hosting on Google Code</title>   1. Click currency  press keyboard shortcut to make selection (ie U for USD  2. Click dropdown once to close it  3. Click Go        USD should remain selected        Selection reverts back to previous selection    <b>Please provide

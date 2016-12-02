@@ -1,0 +1,1 @@
+<title>Issue 4146 -   chromium -    Page Refresh Auto Scroll problem - Project Hosting on Google Code</title>   1. Go to a page at www.gamefaqs.com that you can scroll on.  2. Scroll to the end of the page  3. Push Reload/Refresh on Chrome      Page should be quickly refreshed then it will go to where you were on the   page very fast.      Chrome is much slower.    Please provide

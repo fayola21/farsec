@@ -1,0 +1,1 @@
+Use Log4j 2.x for the archetype    Apache Log4j 2 is out since a while.It is similar in functionality to SLF4J + Logback now.Let's upgrade the quickstart from Log4j 1.2.17 to latest 2.x.   

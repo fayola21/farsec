@@ -1,0 +1,1 @@
+<title>Issue 2735 -   chromium -    Make URLRequestFileJob and UploadDataStream portable - Project Hosting on Google Code</title> <pre> Make URLRequestFileJob and UploadDataStream portable    I suspect that what we should do is create a FileInputStream class that can   be used to satisfy the needs of these two consumers.  We may also need to   add some stuff to file_util. </pre>

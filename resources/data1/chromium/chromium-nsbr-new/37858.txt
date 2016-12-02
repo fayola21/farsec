@@ -1,0 +1,1 @@
+<title>Issue 37858 -   chromium -    double translate lines - Project Hosting on Google Code</title>   1.Open ANY page with different language  2.Open new tab   3.Open a page       One issue of tranlate this page.      Double line of translator  one you can close  another u can't    <b>Please provide

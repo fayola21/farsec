@@ -1,0 +1,1 @@
+<title>Issue 8703 -   chromium -    The options &quot;Full Screen&quot; and &quot;Clear browsing Data&quot; are not translated (regression)  - Project Hosting on Google Code</title> <pre>     French        2.0.169.0      Windows Vista      In the Tools Menu         </pre>

@@ -1,0 +1,1 @@
+File consumer - NPE if configured to consume from root directory    See nabblehttp://camel.465427.n5.nabble.com/Setting-root-folder-as-endpoint-Could-not-poll-endpoint-NPE-tp5717845.html   

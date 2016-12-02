@@ -1,0 +1,1 @@
+<title>Issue 43665 -   chromium -    The google homepage is not shown correctly - Project Hosting on Google Code</title>   1. Opening Chrome for the first time (I mean just after booting the   computer)  2. Low speed connection                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15514 -   chromium -    igoogle gadget for IL :&quot;Netivey Ayalon&quot; gives a warning to use IE before it allows showing its cameras. - Project Hosting on Google Code</title> <pre> Chrome 2.0 on PC..    Although the gadget works fine  it still gives a warning when running on   chrome. </pre>

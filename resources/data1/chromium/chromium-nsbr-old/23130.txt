@@ -1,0 +1,1 @@
+<title>Issue 23130 -   chromium -    Make Chrom input box like Firefox for linux - Project Hosting on Google Code</title>   1. open firefox: pass  2. open chrome look at input box: fail        Chrome uses a input box that is easy to look at and in-line with Ubuntu   9.04 UI      Chrome shows me an ugly input box with jagged corners.    <b>Please provide

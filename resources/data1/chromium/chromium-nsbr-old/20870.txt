@@ -1,0 +1,1 @@
+<title>Issue 20870 -   chromium -    Segmentation Fault if Chrome is started with --enable-extensions  - Project Hosting on Google Code</title>   Start chrome from command line like so:  /opt/google/chrome/chrome --enable-extensions      Chrome should start and enable extensions.      Segmentation fault.    <b>Please provide

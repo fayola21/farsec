@@ -1,0 +1,1 @@
+<title>Issue 20713 -   chromium -    Sometimes fullscreen doesn't work when flash video is playing. - Project Hosting on Google Code</title>   1. Open youtube.com  2. Go to some video  3. Try a few times to press F11      Chromium goes to fullscreen mode.      Nothing happens.    <b>Please provide

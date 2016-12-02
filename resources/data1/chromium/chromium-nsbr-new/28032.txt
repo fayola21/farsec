@@ -1,0 +1,1 @@
+<title>Issue 28032 -   chromium -    new Chrome crashes - Project Hosting on Google Code</title>   1.  after I have created a shipment  Chrome crashes when UPS.com tries to   create the shipping label which would normally open in a new window.                    <b>Please provide

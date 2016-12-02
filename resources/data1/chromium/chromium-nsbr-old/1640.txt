@@ -1,0 +1,1 @@
+<title>Issue 1640 -   chromium -    Non-working FTP URL. - Project Hosting on Google Code</title>   1. Open URL in the Google Chrome.  2. See the issue with possible DNS resolving or smth.      Download from ftp servers.      Page not found.    Please provide

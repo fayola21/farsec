@@ -1,0 +1,1 @@
+<title>Issue 38570 -   chromium -    Highlighting Text in GMail Freezes Tab - Project Hosting on Google Code</title>   1. Open gmail  2. Open a message  3. Highlight some text        Text highlights  can copy  etc.        Tab freezes.    <b>Please provide

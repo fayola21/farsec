@@ -1,0 +1,1 @@
+<title>Issue 25014 -   chromium -    Wrench menu crashes in incognito mode - Project Hosting on Google Code</title> <pre>   1. Start Chrome.  2. Hit Ctrl-Shift-N to open a new incognito window.  3. Click the wrench menu.  4. The browser crashes.    The crash is a null pointer dereference inside of SyncStatusUIHelper::GetLabels because |service| is   NULL.   </pre>

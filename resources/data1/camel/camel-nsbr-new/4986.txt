@@ -1,0 +1,1 @@
+ManagedPerformanceCounterMBean should extend ManagedCounterMBean    ManagedPerformanceCounterMBean does not extend ManagedCounterMBean  while ManagedPerformanceCounter does extend ManagedCounter.   

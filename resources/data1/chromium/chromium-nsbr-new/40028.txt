@@ -1,0 +1,1 @@
+<title>Issue 40028 -   chromium -    orkut.com crash entering friends' profiles - Project Hosting on Google Code</title> <pre> Chrome Version : 5.0.360.4  URL : www.orkut.com  Behavior in IE 8: NO ISSUE  Behavior in Firefox 3.x: NO ISSUE      1. Enter your profile  2. Try to enter the profile from one of your friends.     </pre>

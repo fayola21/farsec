@@ -1,0 +1,1 @@
+<title>Issue 17721 -   chromium -    White pixel line at bottom of browser window - Project Hosting on Google Code</title> <pre> There's a white pixel line at the bottom edge of the browser window. It   looks bad. </pre>

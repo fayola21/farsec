@@ -1,0 +1,1 @@
+<title>Issue 44240 -   chromium -    Extension options are not saved [regression] - Project Hosting on Google Code</title>   1. I compile the trunk every morning  2. Open Chromium and Google quick scroll and fastest chrome show first time   page        Extension options would be saved      They are not    <b>Please provide

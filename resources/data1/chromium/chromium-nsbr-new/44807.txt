@@ -1,0 +1,1 @@
+<title>Issue 44807 -   chromium -    Bookmark Manager doesn't show any bookmark - Project Hosting on Google Code</title> <pre> Chrome Version : 6.0.408.1 (Official Build 47574) dev    When I open Bookmark Manager I get an empty page (see the screenshot).  And the error console shows this error:  &quot;Bookmarks extension API is not avaiable. main.html:51&quot; </pre>

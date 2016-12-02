@@ -1,0 +1,1 @@
+<title>Issue 9658 -   chromium -    Add open download folder link to download manager - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.171.0 (Official Build 12323)    I discussed this with Glen and he said he wanted a &quot;Open Downloads Folder&quot; link i the   download manager. </pre>

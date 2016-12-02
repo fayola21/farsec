@@ -1,0 +1,1 @@
+<title>Issue 20692 -   chromium -    chrome.tabs.detectLanguage broken on linux - Project Hosting on Google Code</title> <pre> If you have an extension running on linux  calling the   chrome.tabs.detectLanguage API function never calls the passed in callback   function (either with a successful result  or setting   chrome.extension.lastError).      </pre>

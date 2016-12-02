@@ -1,0 +1,1 @@
+request to make RadioChoice getPrefix() and getSuffix() non-final    I'm working on a project where we have subclassed RadioChoice  and would like to override the methods getPrefix() and getSuffix(). However these methods are declared as final. Please change them to be non-final  unless there is some particular reason for them to remain final.Thanks!   

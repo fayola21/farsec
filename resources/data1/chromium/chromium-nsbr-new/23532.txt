@@ -1,0 +1,1 @@
+<title>Issue 23532 -   chromium -    DevTools: Update CSS to match Chrome looks - Project Hosting on Google Code</title> <pre> Otherwise it looks like Web Inspector. </pre>

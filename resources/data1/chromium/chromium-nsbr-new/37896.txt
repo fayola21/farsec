@@ -1,0 +1,1 @@
+<title>Issue 37896 -   chromium -    layout test failures that went unreported due to bug 37828 - Project Hosting on Google Code</title> <pre> We stopped reporting layout test failures into the waterfall when we moved the run_webkit_tests   code upstream for a couple day.     So a bunch of failures built up. This is a catch-all bug to triage them. </pre>

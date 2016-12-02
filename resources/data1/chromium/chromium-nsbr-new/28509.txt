@@ -1,0 +1,1 @@
+<title>Issue 28509 -   chromium -    Rename button while un-installing  extensions. - Project Hosting on Google Code</title>   1. Try to uninstall any extension    What is the expected result? What happens instead?  -&gt;The button should say &quot;uninstall&quot; instead of &quot;install&quot;    <b>Please provide

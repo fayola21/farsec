@@ -1,0 +1,1 @@
+<title>Issue 41047 -   chromium -    show or hide bookmark bar's shortcut (Ctrl+B) doesn't work. - Project Hosting on Google Code</title>   1.using the &quot;Ctrl+B&quot; shortcut to show the bookmark bar.          to show or to hide the bookmark bar.      bookmark bar is not responding.    <b>Please provide

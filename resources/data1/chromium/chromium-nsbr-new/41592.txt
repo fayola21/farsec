@@ -1,0 +1,1 @@
+<title>Issue 41592 -   chromium -    chrome crashes when the network is disconnected - Project Hosting on Google Code</title>   1. Open some websites (including GMail)  2. Disconnect the internet connection  3. Reconnect the internet connection      Chrome sits there and keeps running.      &quot;Whoa! Chrome has crashed...&quot;    <b>Please provide

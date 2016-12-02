@@ -1,0 +1,1 @@
+<title>Issue 34539 -   chromium -    Search(CTRL+F) doesn't work in Japanese - Project Hosting on Google Code</title>   1.CTRL+F  2.Serach words in Japanese but not changed to Kanji        henkan works.          <b>Please provide

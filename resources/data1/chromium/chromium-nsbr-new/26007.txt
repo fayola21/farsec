@@ -1,0 +1,1 @@
+<title>Issue 26007 -   chromium -    [GPU] Reset device &amp; notify on lost context [15] - Project Hosting on Google Code</title> <pre> Reset device on lost context in GPU plugin. Notify client of lost context. </pre>

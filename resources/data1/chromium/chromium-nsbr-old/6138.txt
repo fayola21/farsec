@@ -1,0 +1,1 @@
+<title>Issue 6138 -   chromium -    Google logo in app titlebars - Project Hosting on Google Code</title> <pre> version: 2.0.156.1    The Google logo appears in the title bar of installed apps. I don't think   we should put our logo there. That space belongs to the app. </pre>

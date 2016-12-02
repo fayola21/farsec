@@ -1,0 +1,1 @@
+<title>Issue 28503 -   chromium -    Access to chrome://theme from extrenal sites - Project Hosting on Google Code</title> <pre> It would be nice if site will have access to theme resources. It'll allow   webmasters to make sites with similar design to browser. </pre>

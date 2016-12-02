@@ -1,0 +1,1 @@
+<title>Issue 30097 -   chromium -    Awkward translation in pop-up menu - Project Hosting on Google Code</title> <pre>   Estonian      3.0.195.33      XP Pro SP3      Right click in an HTML page. There is a menu item &quot;Vaata lehek��__lje allikat&quot;   (&quot;View page source&quot; in English).    &quot;Vaata lehek��__lje l��__htekoodi&quot; would be better.       </pre>

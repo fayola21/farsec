@@ -1,0 +1,1 @@
+<title>Issue 38068 -   chromium -    Running chrome with --load-extension ends up with multiple copies of same unpacked extension installed - Project Hosting on Google Code</title> <pre> Run chrome multiple times with --load-extension pointing at the same   directory. Notice that on the chrome-extensions:// page you have 2 copies of   the extension installed.   </pre>

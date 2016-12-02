@@ -1,0 +1,1 @@
+<title>Issue 12959 -   chromium -    Disable Copy URL for inspector - Project Hosting on Google Code</title> <pre> I'm not sure if this is useful. May be we should disable this one too just   like Show as tab  Save page as...  </pre>

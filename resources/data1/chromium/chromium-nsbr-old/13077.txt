@@ -1,0 +1,1 @@
+<title>Issue 13077 -   chromium -    txt-files are recognised as media files - Project Hosting on Google Code</title>   1. Go to the url  2. Notice that you can't see the text  but you see some kind of a   mediaplayer      To see the text in an txt file      no text    <b>Please provide

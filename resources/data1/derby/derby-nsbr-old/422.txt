@@ -1,0 +1,1 @@
+Create a new sample database for use in examples in the manuals    The Derby manuals still refer to Cloudscape example databases that were unable to be contributed to Derby. A new sample database should be created which is complex enough to serve as the basis for examples in the various manuals.   

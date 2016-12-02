@@ -1,0 +1,1 @@
+<title>Issue 26143 -   chromium -    -webkit-border-radius poor performance - Project Hosting on Google Code</title>   1. Open reader.google.com  2. Browse through a feed in the expanded view      Smooth scrolling.      Poor scrolling speed and smoothness due to unoptimized -webkit-border-  radius.    <b>Please provide

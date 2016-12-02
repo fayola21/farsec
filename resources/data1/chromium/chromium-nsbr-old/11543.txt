@@ -1,0 +1,1 @@
+<title>Issue 11543 -   chromium -    Courgette: Improve client-side memory use by change bsdiff encoding - Project Hosting on Google Code</title> <pre> The diff_bytes stream is mostly zeros.  Avoid storing the zeros by using   some kind of run-length encoding.  Should reduce footprint by ~30MB  </pre>

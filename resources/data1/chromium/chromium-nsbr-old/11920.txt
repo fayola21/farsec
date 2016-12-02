@@ -1,0 +1,1 @@
+<title>Issue 11920 -   chromium -    Mac: Omnibox grabbing focus away from intended party. - Project Hosting on Google Code</title> <pre> On tab switch  AutocompleteEditViewMac::UpdateAndStyleText() is grabbing focus  but that should   be controlled by LocationBar. </pre>

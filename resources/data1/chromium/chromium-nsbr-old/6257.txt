@@ -1,0 +1,1 @@
+<title>Issue 6257 -   chromium -    Bajo la barra de marcadores los bordes se muestran en negro al estar la ventana maximizada (Windows Vista) - Project Hosting on Google Code</title>                       Please provide

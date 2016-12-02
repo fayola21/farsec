@@ -1,0 +1,1 @@
+<title>Issue 13483 -   chromium -    Chrome's logo isn't clear on increasing the DPI  - Project Hosting on Google Code</title> <pre> Go to Control PanelAppearance and PersonalizationDisplay  Select larger = 150%  Log off and log in    Observe that FF logo is fine but Chrome's logo is not.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27018 -   chromium -    Taskbar icon still missing. - Project Hosting on Google Code</title>   1. Open Google Chrome.  2. See that there is no Google Chrome icon on taskbar.      To see the logo.      Blank area where it should be.    <b>Please provide

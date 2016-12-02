@@ -1,0 +1,1 @@
+<title>Issue 24057 -   chromium -    GetFreshnessLifetime should consider 206 - Project Hosting on Google Code</title> <pre> HttpResponseHeaders::GetFreshnessLifetime ignores 206 (Partial Content) when   performing its estimate of the time to validate a cache entry. </pre>

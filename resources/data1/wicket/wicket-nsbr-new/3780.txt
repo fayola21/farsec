@@ -1,0 +1,1 @@
+Warning text outdated in InheritedMarkupMarkupLoader    ' Enable debug messages for org.apache.wicket.util.resource.Resource to get a list of all filenames tried.');--&gt; org.apache.wicket.util.resource.Resource no longer exists. Looks like it has been renamed to org.apache.wicket.util.resource.locator.ResourceStreamLocator.   

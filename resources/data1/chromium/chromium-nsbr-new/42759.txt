@@ -1,0 +1,1 @@
+<title>Issue 42759 -   chromium -    Chrome loses favicons on tabs and windows - Project Hosting on Google Code</title>   1. Have a tab or Chrome &quot;Application&quot; open for awhile        The correct favicon appears next to the Window title        A white &quot;document&quot; icon appears instead of the correct favicon    <b>Please provide

@@ -1,0 +1,1 @@
+make default maximum upload size an application setting    Current  the default maximum upload size is defined in Form as: /** Maximum size of an upload in bytes */ private Bytes maxSize = Bytes.MAX;It would be better to make this an application setting.   

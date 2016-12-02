@@ -1,0 +1,1 @@
+<title>Issue 42560 -   chromium -    This is not a bug but a feature request. - Project Hosting on Google Code</title> <pre> You know how the chrome home page has all these book mark images for easy   access it will really nice to have a Google search on top of the same page. I   know you can just put search term on top but not a lot of users know that. </pre>

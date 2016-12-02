@@ -1,0 +1,1 @@
+<title>Issue 3976 -   chromium -    HTML DOM innerHTML Property doesn't work on style element - Project Hosting on Google Code</title>   1. Give a style element an id  2. With javascript change document.getElementById('theId').innerHTML       It changes the innerHTML of the style-element       It doesn't    Please provide

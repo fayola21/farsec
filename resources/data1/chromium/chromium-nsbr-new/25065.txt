@@ -1,0 +1,1 @@
+<title>Issue 25065 -   chromium -    Google Wave doesn't work with newest Chrome revision - Project Hosting on Google Code</title>   1. Navigate to Google Wave        Works        Doesn't work.    <b>Please provide

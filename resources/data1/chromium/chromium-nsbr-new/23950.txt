@@ -1,0 +1,1 @@
+<title>Issue 23950 -   chromium -    [Regression] Broken offline support in Google Reader - Project Hosting on Google Code</title>   1. Open Google Reader.          Offline settings visible in the top bar.      No offline settings.    <b>Please provide

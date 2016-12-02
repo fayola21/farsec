@@ -1,0 +1,1 @@
+file producer - NIO transferTo 2gb bug in jdk    It appears that the JDK have a limitation that transferTo with large files.http://72.5.124.102/thread.jspa?threadID=5205184&amp;messageID=9822064See nabblehttp://old.nabble.com/camel-casts-exception-when-there-is-nothing-to-fetch-from-the-ftp-endpoint-to26541447.htmlThe code should be in a loop and transfer in chunks.   

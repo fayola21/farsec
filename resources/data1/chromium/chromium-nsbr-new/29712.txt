@@ -1,0 +1,1 @@
+<title>Issue 29712 -   chromium -    Accessing embedded WMP's uiMode property fails. - Project Hosting on Google Code</title>   1. Embed the WMP plugin  2. Change the uiMode property via Javascript      The uiMode should change to reflect the new value      It stays with the initial value which is set when plugin is attached to the  browsers' DOM.    <b>Please provide

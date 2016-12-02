@@ -1,0 +1,1 @@
+<title>Issue 35080 -   chromium -    Better blue on the translate infobar - Project Hosting on Google Code</title> <pre> The blue on the translate infobar clashes with the blue of the default Chrome   theme.     Ben suggested making it darker (or choosing another color altogether).   </pre>

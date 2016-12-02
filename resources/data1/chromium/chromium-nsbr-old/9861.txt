@@ -1,0 +1,1 @@
+<title>Issue 9861 -   chromium -    It forgets newly set start page(s) - Project Hosting on Google Code</title>   1.Preferences  2.Start page  3.Change existing pages      Open the newly set pages on the next startup of the browser      Opens the pages before the last setting    <b>Please provide

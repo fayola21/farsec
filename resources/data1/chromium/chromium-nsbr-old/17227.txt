@@ -1,0 +1,1 @@
+<title>Issue 17227 -   chromium -    Google Services unloadable - Error 400 Bad Request - Project Hosting on Google Code</title>   1. Attempt to load google.com/reader or google.com/calendar.        Either the reader or calendar page will be displayed.        Bad Request Error 400 message.  Persistant. Restart/reload/clear cache not remedial.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32990 -   chromium -    Duplicate [parent directory] in ftp directory listings for some sites - Project Hosting on Google Code</title>   1. Navigate to <a href="ftp://ftp.esker.fr/tun_plus/">ftp://ftp.esker.fr/tun_plus/</a>      There should only be a single link to navigate to the parent directory.      There are two.    <b>Please provide

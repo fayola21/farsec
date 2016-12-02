@@ -1,0 +1,1 @@
+<title>Issue 6720 -   chromium -    Hotmail site opens  but messages don't. - Project Hosting on Google Code</title>   1. Open hotmail page  and your inbox.  2. The tables appear good.  3. No message opens when you try to click / open it.                Please provide

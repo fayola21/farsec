@@ -1,0 +1,1 @@
+<title>Issue 33913 -   chromium -    zoom tekst in new tab  thumbnails layout broken - Project Hosting on Google Code</title>   1.New tab  2.Page menu -&gt; zoom -&gt; try smaller and larger option several times.      Thumbnails should look good like in the screen3.png       Sometimes it's look like in the screen1 and screen2 until refresh.    <b>Please provide

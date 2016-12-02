@@ -1,0 +1,1 @@
+<title>Issue 38874 -   chromium -    Aww Snapp on http://www.flexerasoftware.com/products/installshield/editions.htm - Project Hosting on Google Code</title>   1. Open the URL as given  2. Click &quot;Express&quot; edition heading in the black area  3. Aww Snap!      Same behavior as Safari/FF/IE      Chrome Aww Snaps!    <b>Please provide

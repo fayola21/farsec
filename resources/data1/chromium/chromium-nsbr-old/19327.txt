@@ -1,0 +1,1 @@
+<title>Issue 19327 -   chromium -    f11 not working - won't revert to windowed view - Project Hosting on Google Code</title> <pre> Chrome Version from Ubuntu update manager August 14 2009.    Not sure if triggered by pressing f11 initially  or entered windowless mode   on launch automagically   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17337 -   chromium -    omnibox audio file uses UI that is 1 pixel tall - Project Hosting on Google Code</title> <pre> entering the name of a media file plays the file using default html page.  for videos this has a working video with controls  for audio  the audio plays but the controls are not displayed properly.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11900 -   chromium -    REGRESSION: Show password button disappeared - Project Hosting on Google Code</title> <pre> Options -&gt; Minor tweaks -&gt; Show saved passwords  Where the heck did my show password button go?    Random side note: resizing the bottom of this dialog downwards makes the   &quot;Remove All&quot; button creep down weirdly. </pre>

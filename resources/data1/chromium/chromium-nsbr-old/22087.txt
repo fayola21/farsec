@@ -1,0 +1,1 @@
+<title>Issue 22087 -   chromium -    Tab dragging animations broken/janky - Project Hosting on Google Code</title> <pre> Start dragging a tab horizontally within the tabstrip. The other tabs seem to   &quot;snap&quot; out of the way rather than animating smoothly. This is a regression   since it used to work afaict. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7858 -   chromium -    Cursor becomes invisible when over scrollbars (or scrollbar area) in Windows 7 - Project Hosting on Google Code</title> <pre> Open latest Chromium developer build  like 2.0.164.0 (Developer Build   9902).    Move your cursor over scrollbars or where the scrollbar would be if there   is no scrollbar. The cursor becomes invisible. </pre>

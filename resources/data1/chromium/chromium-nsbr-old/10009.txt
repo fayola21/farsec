@@ -1,0 +1,1 @@
+<title>Issue 10009 -   chromium -    No vertical scrollbars in Gmail - Project Hosting on Google Code</title> <pre>   0. Maximize Chrome  1. Open up a long e-mail thread in Gmail (Expand all notes) so you have a   long scroll bar.  2. Restore Chrome    What is the expected output?     Scrollbar remains on the screen.    What do you see instead?    Scrollbar disappears.   </pre>

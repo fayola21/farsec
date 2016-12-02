@@ -1,0 +1,1 @@
+<title>Issue 32695 -   chromium -    transition/shorthand-border-transitions.html failure - Project Hosting on Google Code</title> <pre> WIN transition/shorthand-border-transitions.html = TEXT    It started by WebKit roll 53352:53511.   </pre>

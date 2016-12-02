@@ -1,0 +1,1 @@
+Javadoc of Component#setOutputMarkupPlaceholderTag is wrong    The javadoc of Component#setOutputMarkupPlaceholderTag uses the term 'componentid' where it should use 'markupid'.Please update the javadoc from: The tag is of form: &lt;componenttag style='display:none;' id='componentid'/&gt;.to The tag is of form: &lt;componenttag style='display:none;' id='markupid'/&gt;.   

@@ -1,0 +1,1 @@
+<title>Issue 45863 -   chromium -    6.0.424.0 (48800) Ubuntu crashes Google Wave - Project Hosting on Google Code</title>   1.open the browser  2.go to <a href="http://wave.google.com">http://wave.google.com</a> and log in  3.wave crashes                <b>Please provide

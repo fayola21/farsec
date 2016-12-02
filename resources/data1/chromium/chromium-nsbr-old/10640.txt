@@ -1,0 +1,1 @@
+<title>Issue 10640 -   chromium -    extended bookmark bar won't open - Project Hosting on Google Code</title>   1. Start Chrome  2. Click '&gt;&gt;' at right of bookmark bar          Hidden bookmarks of bookmark bar will become visible        Nothing. Also  the 'other bookmarks' folder at the far right of the   bookmark bar does not open.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 23377 -   chromium -    Browser actions: Image should be slightly bigger - Project Hosting on Google Code</title> <pre> In the mocks  the icons are about 24px. The current implementation uses 16px   icons. I think 24 would be better so that they can be a bit softer icons  and   so that there's a bit more room for the badge. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12168 -   chromium -    Shockwave plugin crash - Project Hosting on Google Code</title>   1.From my Gmail account if I try to attach an image and in the file browser   I change the view to thumbnails  the shockwave plugin crashes.          To see a thumbnail view of my directories.      Chrome tells me that the shockwave plugin has crashed    <b>Please provide

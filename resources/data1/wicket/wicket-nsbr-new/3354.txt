@@ -1,0 +1,1 @@
+Improve SerializableChecker message    Currently if the object has an problematic implementation of equals method  the serializable checker will stop its work with an runtime exception. The best would be just log an warn explaining the the problem on console and continue the checks until the non serializable source of the problem.   

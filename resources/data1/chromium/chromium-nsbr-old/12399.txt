@@ -1,0 +1,1 @@
+<title>Issue 12399 -   chromium -    Installing the same extension twice (even different versions) winds up loading it twice - Project Hosting on Google Code</title>   1. Updated to the version 2.0.181.1  2. Installed the Gmail Extention again (I already had it)        Don't allow me to install it again       Now i have two gmail on my bar.      <b>Please provide

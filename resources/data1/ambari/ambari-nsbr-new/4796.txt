@@ -1,0 +1,1 @@
+Do not automatically put host component in Maintenance Mode upon decommissioning (and out of Maintenance Mode when recommissioning)    We originally wanted to couple decom/recom with putting the host component in / out of maintenance mode.After experimenting  we decided to undo that. This is the JIRA for the Ambari BE changes.   

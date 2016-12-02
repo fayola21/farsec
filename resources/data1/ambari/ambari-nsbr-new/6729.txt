@@ -1,0 +1,1 @@
+RM HA wizard is experimental but shouldn't be    Installed 1.7.0 build and RM HA is not available unless I go enable #experimental.Should not be experimental. RM HA is available with HDP 2.1+ Stack (but not with HDP 2.0.* stack).   

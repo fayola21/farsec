@@ -1,0 +1,1 @@
+<title>Issue 14944 -   chromium -    Clearing all browsing data is way too slow - Project Hosting on Google Code</title> <pre> I bumped some keys and managed to delete all my browsing data :(.  The   dialog that came up took tens of seconds to run.    We should just delete the Cookies  Full Text Index  etc. files when we want   to do a full delete.  One shot  done. </pre>

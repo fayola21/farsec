@@ -1,0 +1,1 @@
+<title>Issue 866 -   chromium -    Create Application Shortcut Form visibility bug - Project Hosting on Google Code</title>   1. Try to create an application shortcut          A prompt window asking where to create the shortcut with checkboxes      the checkboxes are invisible.    Please provide

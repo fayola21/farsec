@@ -1,0 +1,1 @@
+<title>Issue 37964 -   chromium -    Create histogram for extension install dialog - Project Hosting on Google Code</title> <pre> In particular it would be nice to know what effect the variants of the   warning text has on how likely someone is to complete the install. </pre>

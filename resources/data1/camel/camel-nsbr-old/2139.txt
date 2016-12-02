@@ -1,0 +1,1 @@
+Some methods of SftpOperations create streams that are never closed    Where SftpOperations creates streams for storing or retrieving files via ChannelSftp  these streams are not always closed. For example  the retrieveFileToStreamInBody method creates an OutputStream object  but never closes it.   

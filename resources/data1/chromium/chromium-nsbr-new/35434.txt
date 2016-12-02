@@ -1,0 +1,1 @@
+<title>Issue 35434 -   chromium -    webkitNotifications Bug - Project Hosting on Google Code</title> <pre> Chrome Version       : CHROMIUM 5.0.322.0	38464    Notifica��__��_��_es perdem a visibilidade ao mudar de aba ou ao entrar nova   notifica��__��_��_o. </pre>

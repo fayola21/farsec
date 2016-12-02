@@ -1,0 +1,1 @@
+<title>Issue 38334 -   chromium -    Fix about google chrome text in SxS build - Project Hosting on Google Code</title> <pre>   1. Install Google Chrome SxS build (I am using build 5.0.342.2)  2. Open About Google Chrome    The version is reported as 5.0.342.2 unknown. We should change it to   something like 5.0.342.2 DevSxS.   </pre>

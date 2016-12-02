@@ -1,0 +1,1 @@
+<title>Issue 15076 -   chromium -    WebKit patch for Bug 14062 requires rebaseline. - Project Hosting on Google Code</title> <pre> The patch for <a href="https://bugs.webkit.org/show_bug.cgi?id=14062">https://bugs.webkit.org/show_bug.cgi?id=14062</a> would replace the   several expected results in the layout tests. </pre>

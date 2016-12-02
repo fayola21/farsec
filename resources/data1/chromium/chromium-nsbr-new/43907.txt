@@ -1,0 +1,1 @@
+<title>Issue 43907 -   chromium -    Chrome Frame renders page when not requested to do so - Project Hosting on Google Code</title>   1. run a page in IE8 that should work in IE8 quirks mode.  2. rendering is incorrect  3. disable google chrome frame  4. restart IE8  5. reload page  which now loads correctly.                <b>Please provide

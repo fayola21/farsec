@@ -1,0 +1,1 @@
+<title>Issue 740 -   chromium -    Remote Code causes browser to crash - Project Hosting on Google Code</title>   1. Create a new html file  2. Insert &lt;a href='about:%'/&gt;Ikke&lt;/a&gt;  3. Open it using Google Chrome  4. Put the mouse over the link      Expected to see about:% in the status bar      Browser crashes    Please provide

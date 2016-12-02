@@ -1,0 +1,1 @@
+<title>Issue 35439 -   chromium -    Educational web software Infinite Campus fails when loaded in Chrome  - Project Hosting on Google Code</title>   1.Sign into infinite campus si.greeleyschools.org  2.Open grade book from left panel  3.Fails to load java appelet                <b>Please provide

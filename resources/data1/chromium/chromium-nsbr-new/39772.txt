@@ -1,0 +1,1 @@
+<title>Issue 39772 -   chromium -    crash with console.log - Project Hosting on Google Code</title> <pre> &lt;script&gt;  function test()  {a = &quot;AAAA&quot;  for(i=24;i &gt;0 ;--i){a+=a;}console.log(a);}  &lt;/script&gt;  &lt;body onLoad=&quot;test()&quot;&gt;&lt;/body&gt; </pre>

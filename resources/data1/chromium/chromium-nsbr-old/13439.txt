@@ -1,0 +1,1 @@
+<title>Issue 13439 -   chromium -    Toolstrip-bar of extensions should not be visible in fullscreen-mode - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.183.1 (17570)      1. Install an extension which creates a toolstrip  2. Press F11      The toolstrip-bar should not be shown      It is shown   </pre>

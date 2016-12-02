@@ -1,0 +1,1 @@
+Spring security example does not work    When you try to run the spring security example and access it from a browser you get 404. I debugged into it and the reason is that the camel context does not attach to the camel http servlet.   

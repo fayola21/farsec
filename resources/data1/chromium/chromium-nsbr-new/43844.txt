@@ -1,0 +1,1 @@
+<title>Issue 43844 -   chromium -    security information window cuts off text - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.29 beta for OSX    sometimes  chrome cuts off text in the security info box.  the information under the Connection   section ends mid-sentence with no obvious way to scroll to see the rest in the attached screenshot. </pre>

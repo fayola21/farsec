@@ -1,0 +1,1 @@
+<title>Issue 33241 -   chromium -    About dialog displays 'unknown' release channel - Project Hosting on Google Code</title>   1. Type about:version  2. Look at version          To see 'dev' channel.        See 'unknown' channel.    <b>Please provide

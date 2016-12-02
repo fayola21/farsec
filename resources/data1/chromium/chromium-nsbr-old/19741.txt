@@ -1,0 +1,1 @@
+<title>Issue 19741 -   chromium -    tab text should disappear when tabs are really small - Project Hosting on Google Code</title> <pre> As the tabs get smaller  we should turn off the close button  tab text  and   favicon (incrementally  in that order) so it's easier to switch tabs.  See   Windows Chrome for how this happens. </pre>

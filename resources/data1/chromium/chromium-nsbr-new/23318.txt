@@ -1,0 +1,1 @@
+<title>Issue 23318 -   chromium -    Chrome window doesn't raise when titlebar clicked - Project Hosting on Google Code</title>   1. Raise a window to partially cover Chrome  2. Click on blue area above the tabs.        Chrome window raises.        No action.      <b>Please provide

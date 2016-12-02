@@ -1,0 +1,1 @@
+<title>Issue 28146 -   chromium -    Make SetFilteredInet automation message reasonable. - Project Hosting on Google Code</title> <pre> SetFilteredInet enables mock network requests inside chrome. This seems wrong   from design point of view.  URL requests should be sent back to the automation client.   </pre>

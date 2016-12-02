@@ -1,0 +1,1 @@
+<title>Issue 18466 -   chromium -    DLL's are large - reduce in size - Project Hosting on Google Code</title> <pre> ffmpeg dll's are large  taking long to download  and impacting runtime   performance.  Can they be reduced in size?  Look for unused code/data?   </pre>

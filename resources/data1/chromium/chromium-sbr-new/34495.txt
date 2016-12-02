@@ -1,0 +1,1 @@
+<title>Issue 34495 -   chromium -    Crash in XMLTokenizer::popCurrentNode if window.close() is called during parsing [CVE-2010-0048] - Project Hosting on Google Code</title> <pre> Need to merge WebKit <a href="/p/chromium/source/detail?r=51962">r51962</a>  Apple disclosing ~Feb 22nd  Taking care of it now. </pre>

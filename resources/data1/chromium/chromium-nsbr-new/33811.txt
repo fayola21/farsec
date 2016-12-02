@@ -1,0 +1,1 @@
+<title>Issue 33811 -   chromium -    windows such as bookmarks manager and options open a new icon on windows 7 task bar - Project Hosting on Google Code</title>   1. Open Options  or Bookmarks Manager using Chrome in Windows 7      The icon for Chrome should show that it has multiple windows open      The new window creates a new icon on the task bar    <b>Please provide

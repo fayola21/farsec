@@ -1,0 +1,1 @@
+<title>Issue 24164 -   chromium -    Indicator Missing from Data Slider component. - Project Hosting on Google Code</title>   1. Browse to URL  2. Data input slider will be missing a position indicator  3. Clicking will set value to NAN      Should be able to move indicator from side to side      indicator is missing      <b>Please provide

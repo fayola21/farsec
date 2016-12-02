@@ -1,0 +1,1 @@
+<title>Issue 36179 -   chromium -    Add automation support to Save/Delete Passwords - Project Hosting on Google Code</title> <pre> Automation Proxy should expose the following methods:  -  Save/Do not Save password.  -  Remove/Remove All password.  -  Get/Show Password.  -  Remove/Add site to password exception. </pre>

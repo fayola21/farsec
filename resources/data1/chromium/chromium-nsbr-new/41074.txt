@@ -1,0 +1,1 @@
+<title>Issue 41074 -   chromium -    Html5 videos have no sound. - Project Hosting on Google Code</title>   Watch any video with the html5 video tag.      Videos should be viewed and heard without any problem.      Videos have no sound.    <b>Please provide

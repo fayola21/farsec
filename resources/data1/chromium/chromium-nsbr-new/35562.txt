@@ -1,0 +1,1 @@
+<title>Issue 35562 -   chromium -    New YouTube layout doesn't show videos - Project Hosting on Google Code</title>   1. Go to YouTube  2. Use the new YouTube video page layout  3. Try to watch any video      Show video      Shows a black box where the video should be    <b>Please provide

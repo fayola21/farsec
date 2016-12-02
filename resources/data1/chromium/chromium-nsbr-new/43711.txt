@@ -1,0 +1,1 @@
+<title>Issue 43711 -   chromium -    Extensions doesn't remember it's settings - Project Hosting on Google Code</title>   1. Install an extension  2. Change some settings  3. Restart Chromium and the settings are resetted.      Just remember the settings from the extensions.      It doesn't.    <b>Please provide

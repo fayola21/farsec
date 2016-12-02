@@ -1,0 +1,1 @@
+<title>Issue 30800 -   chromium -    Links clicked within pinned tabs should open in a new tab - Project Hosting on Google Code</title> <pre>   1. Pin a tab  2. Click a link      New tab pops up       Whatever the default behavior for the link is executed (potentially   including navigating away from the pinned site). </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9546 -   chromium -    App installation doesn't work when using --user-data-dir - Project Hosting on Google Code</title> <pre> The computator for the shortcut command line doesn't put a space after --  user-data-dir and doesn't enclose the path in quotes </pre>

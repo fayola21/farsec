@@ -1,0 +1,1 @@
+Duplicate html ID for generated divs in modal.js    using wicket's ModalWindow creates invalid markup since it creates two divs with id='_wicket_window_11'   

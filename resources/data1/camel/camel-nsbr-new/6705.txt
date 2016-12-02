@@ -1,0 +1,1 @@
+DefaultStreamCachingStrategy - Check for enabled in shouldSpoolCache method    If stream caching is disabled then we should not spool to disk. This allows components and whatnot to safely use CachedOutputStream and not cause spool to disk  even if stream caching is disabled.   

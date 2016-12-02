@@ -1,0 +1,1 @@
+<title>Issue 13677 -   chromium -    Color code extensions JavaScript in the debugger - Project Hosting on Google Code</title> <pre> When both JavaScript from an extension and a webpage is shown in the   debugger  we should make them visually distinct by  e.g.  color coding the   source code. </pre>

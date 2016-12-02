@@ -1,0 +1,1 @@
+<title>Issue 24989 -   chromium -    Enable byte-range-support by default - Project Hosting on Google Code</title> <pre> Change the default behavior of the http cache to support byte-ranges. </pre>

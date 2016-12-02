@@ -1,0 +1,1 @@
+<title>Issue 44874 -   chromium -    Chrome does not properly identify host OS. - Project Hosting on Google Code</title> <pre> Chrome should determine its useragent using uname on non-Windows platforms   when it is first run. </pre>

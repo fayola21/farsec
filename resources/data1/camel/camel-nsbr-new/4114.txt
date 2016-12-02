@@ -1,0 +1,1 @@
+Refactorings in camel-cxf    There are some dependency cycles between packages in camel-cxf. Also some classes could need a bit internal cleanup. I open this ticket so my different commits around this can be seen in context.   

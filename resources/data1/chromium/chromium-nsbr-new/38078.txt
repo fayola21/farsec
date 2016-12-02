@@ -1,0 +1,1 @@
+<title>Issue 38078 -   chromium -    Flash player plug-in crash on Chrome-OS - Project Hosting on Google Code</title> <pre> OS Build:0.6.37.0  Chrome: 5.0.349.0      -Navigate to money.cnn.com webpage    Issue:  The plug-in flashplayer crashes.    Expected:  Page should be rendered. </pre>

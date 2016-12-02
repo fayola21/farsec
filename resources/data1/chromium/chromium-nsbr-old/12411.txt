@@ -1,0 +1,1 @@
+<title>Issue 12411 -   chromium -    OpaqueBrowserFrameView no longer honors paint_as_active when painting edge - Project Hosting on Google Code</title>   1. Click on &quot;star&quot; in the URL bar to bookmark a site. Notice the frame  paints inactive.                  <b>Please provide

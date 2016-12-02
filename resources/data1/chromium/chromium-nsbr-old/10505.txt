@@ -1,0 +1,1 @@
+<title>Issue 10505 -   chromium -    Baseline of message heading misaligned in Gmail - Project Hosting on Google Code</title> <pre> The heading of messages are misaligned in Gmail.  The baseline is off by a   pixel.  CC'ing Brett  the font master. </pre>

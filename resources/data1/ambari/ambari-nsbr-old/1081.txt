@@ -1,0 +1,1 @@
+HDFS disk capacity on dashboard is seen as negative number    Sometimes disk capacity calculations end up in negative numbers.   

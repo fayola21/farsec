@@ -1,0 +1,1 @@
+<title>Issue 43492 -   chromium -    Google Docs equation editor does not work correctly - Project Hosting on Google Code</title>   1.Open a new text document in GDocs.  2.Click on Insert -&gt; Equation  3.Try making any symbols.        Mathematical symbols (forall  exsits  etc.) should appear.        Regular Roman characters appear instead.     <b>Please provide

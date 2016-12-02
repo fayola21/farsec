@@ -1,0 +1,1 @@
+<title>Issue 30620 -   chromium -    Support history.pushState()/replaceState() in V8 bindings - Project Hosting on Google Code</title> <pre> Current SerializedScriptValue in V8 bindings is a stub. We need to implement   it and make the history binding use it. After the bindings part is done we'll   need a BackForwardList implementation to actually enable the history API. </pre>

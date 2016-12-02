@@ -1,0 +1,1 @@
+<title>Issue 10678 -   chromium -    Can't copy or cut with right click; only Ctrl+C or X - Project Hosting on Google Code</title>   1.highlight text  2.right-click      to able to have correct right click menu based on context      displays back forward  reload menu - this won't happen inside a text box    <b>Please provide

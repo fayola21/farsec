@@ -1,0 +1,1 @@
+<title>Issue 45871 -   chromium -    Find-in-page ignores Indic anuswara - Project Hosting on Google Code</title>   1. Control-F and search for '��_��_�_��_�_��_' (U+0D38 U+0D3F U+0D2C)          Match the word: ��_��_�_��_�_��_��_��_��_ (U+0D38 U+0D3F U+0D2C U+0D42)      Matches the word: ��_��_�_��_�_�_��_��_��__ (U+0D38 U+0D3F U+0D02 U+0D2C U+0D7D)    <b>Please provide

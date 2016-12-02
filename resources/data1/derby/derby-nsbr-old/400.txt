@@ -1,0 +1,1 @@
+Network client message strings not internationalized    In investigating DERBY-254  I discovered that all SQLExceptions are thrown with hardcoded English error messages. This needs to be modified to use message string resource bundles similar to the embedded code.   

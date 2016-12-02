@@ -1,0 +1,1 @@
+<title>Issue 24082 -   chromium -    Normal/default zoom on new tab page - Project Hosting on Google Code</title>   1. Open a new tab  chrome will display most visited sites...  2. Zoom at maximum by holding Ctrl++  3. Restore normal zoom size by pressing Ctrl+0      Normal zoom view.      Bug zoom view    <b>Please provide

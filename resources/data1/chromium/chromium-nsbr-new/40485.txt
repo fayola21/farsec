@@ -1,0 +1,1 @@
+<title>Issue 40485 -   chromium -    &quot;Offer to translate pages...&quot; checkbox does not live sync - Project Hosting on Google Code</title> <pre> Options -&gt; Under the Hood -&gt; Offer to translate pages that aren't...   (kEnableTranslate).    This pref syncs but does not live update.  All the other prefs on the page   do  so this should probably be fixed.   </pre>

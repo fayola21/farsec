@@ -1,0 +1,1 @@
+<title>Issue 16171 -   chromium -    Yahoo Search Pad not working on Chrome  3.0.191.3 - Project Hosting on Google Code</title>   1. Go to Yahoo Search  2. Search for anything  3. Try to open Search Pad        Search pad should open        Clicking does not do anything    <b>Please provide

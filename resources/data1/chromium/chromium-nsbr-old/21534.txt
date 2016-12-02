@@ -1,0 +1,1 @@
+<title>Issue 21534 -   chromium -    moles: overflow at the edge of the browser window - Project Hosting on Google Code</title> <pre> If you open a mole near the edge of the browser window  it will hang off of   the edge of the window.  This looks a bit strange.  Clipping will be tricky   to do since these are top level windows. </pre>

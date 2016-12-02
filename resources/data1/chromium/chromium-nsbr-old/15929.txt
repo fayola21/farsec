@@ -1,0 +1,1 @@
+<title>Issue 15929 -   chromium -    feature request - it should be possible to specify window width/height when launching via --app - Project Hosting on Google Code</title> <pre> when launching from an application shortcut  aka --app=http://foo it would  be nice to be able to specify the window width/height.  as a bonus  window  position would be the icing on the cake. </pre>

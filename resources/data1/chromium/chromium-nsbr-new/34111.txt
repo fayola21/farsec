@@ -1,0 +1,1 @@
+<title>Issue 34111 -   chromium -    Sticked tabs wont dissapear - Project Hosting on Google Code</title>             If I stick card and then close it by clicking right on it and choose close   option it should dissapear.      Tab just lost background  but favicon is still there. You must unstick this   tab and then close it.    <b>Please provide

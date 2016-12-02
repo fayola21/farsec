@@ -1,0 +1,1 @@
+<title>Issue 26897 -   chromium -    Hung Renderer dialog has title ��_��_��_Google Chrome��_��_��_ - Project Hosting on Google Code</title> <pre> Maybe not the best title.    Maybe doesn't need a title at all. </pre>

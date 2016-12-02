@@ -1,0 +1,1 @@
+<title>Issue 3363 -   chromium -    TabIconView shouldn't talk to TabContents directly to determine loading state - Project Hosting on Google Code</title> <pre> Rather  loading state should be passed through its Update method. </pre>

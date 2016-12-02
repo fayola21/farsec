@@ -1,0 +1,1 @@
+<title>Issue 20760 -   chromium -    Random Crashes - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.205.0 (25013)    OS version               : 10.6 (build 10A432)            1. browse around in chromium          that the browser doesn't crash        Randomly crashes while browsing around. The mac problem report is attached.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16452 -   chromium -    change HostResolver to an interface - Project Hosting on Google Code</title> <pre> Current implementation of HostResolver does not allow us to make a Mock  object to replicate its usage.    Converting it to an interface would let us do that. </pre>

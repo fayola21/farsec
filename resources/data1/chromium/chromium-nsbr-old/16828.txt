@@ -1,0 +1,1 @@
+<title>Issue 16828 -   chromium -    need glass frame for linux - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.194.0  OS + version : Debian Squeeze  CPU architecture (32-bit / 64-bit): 64-bit  window manager : Gnome/Openbox          I would like to suggest an option to be possible to have transparency effect   on custom frame.    </pre>

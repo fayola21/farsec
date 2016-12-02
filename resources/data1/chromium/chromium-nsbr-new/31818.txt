@@ -1,0 +1,1 @@
+<title>Issue 31818 -   chromium -    Crash when use keyboard input &quot;Enter&quot; to any &lt;select&gt; tag - Project Hosting on Google Code</title>   1. use keyboard input &quot;Enter&quot; to any &lt;select&gt; tag.  2. press submit button / already crashed  3. crash      go to another page      crash    <b>Please provide

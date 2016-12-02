@@ -1,0 +1,1 @@
+<title>Issue 13362 -   chromium -    New New Tab Page (NTP  NNTP) - Project Hosting on Google Code</title> <pre> We should allow pinning and reordering of the thumbnails in the most visited   section of the new tab page. </pre>

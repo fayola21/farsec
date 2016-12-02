@@ -1,0 +1,1 @@
+Component queuing breaks with html tags that don't require close tag.    Component queuing try to skip to close tag also for those tags that don't have one. This leads to a EmptyStackException (see ArrayListStack#peek).   

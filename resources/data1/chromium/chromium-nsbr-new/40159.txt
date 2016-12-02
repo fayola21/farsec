@@ -1,0 +1,1 @@
+<title>Issue 40159 -   chromium -    Chromium CRASH with SPDY and proxy - Project Hosting on Google Code</title> <pre>   1. enable &quot;automatically detect settings&quot; for your proxy.  (And use a proxy)  2. chrome.exe --use_spdy=npn http://foo    This crashes chrome. </pre>

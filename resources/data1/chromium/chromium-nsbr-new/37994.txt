@@ -1,0 +1,1 @@
+<title>Issue 37994 -   chromium -    Command+W closes window instead of just a single tab - Project Hosting on Google Code</title>   1. Having a window w/multiple tabs open  2. Hit Command+w to close the current TAB  3. The entire window closes w/o warning        Only the current TAB should close        The entire window closes    <b>Please provide

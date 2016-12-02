@@ -1,0 +1,1 @@
+Invalid jar in binary distribution    The apache-camel jar in the binary distribution misses a lot of files  including class and schema files (12k in size compared to the 1.9M released jar).   

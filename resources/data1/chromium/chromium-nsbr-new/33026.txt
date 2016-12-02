@@ -1,0 +1,1 @@
+<title>Issue 33026 -   chromium -    Implement the new AutoFill section of the Options dialog on Windows - Project Hosting on Google Code</title> <pre> The text of the AutoFill options should be updated according to the mocks    and a button should be added that opens the AutoFill options dialog. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 42089 -   chromium -    Leaving dropdown menu has strange effect - Project Hosting on Google Code</title>   1. go to above URL  2. click on dropdown list labelled template  3. click on the summary textbox  4. press the tab key      Chrome should set the focus to the description textbox but it does not.       nothing    <b>Please provide

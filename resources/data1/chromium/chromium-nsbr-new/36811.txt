@@ -1,0 +1,1 @@
+<title>Issue 36811 -   chromium -    Dragging selected text causes hard crash. - Project Hosting on Google Code</title>   1. Highlight anything on a webpage.  2. Release mouse click  3. Click and drag text      Nothing happens.      Chrome hard crashes and restarts.       <b>Please provide

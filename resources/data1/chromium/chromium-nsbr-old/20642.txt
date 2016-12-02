@@ -1,0 +1,1 @@
+<title>Issue 20642 -   chromium -    Missing bookmarks bar - Project Hosting on Google Code</title>   1. Changing from the New Tab page.          The bookmark bar should stay on.      The bookmark bar is gone.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22512 -   chromium -    Omnibox context menu should have an &quot;Edit Search Engines&quot; item - Project Hosting on Google Code</title> <pre> Tracking bug for adding the edit search engines item to the omnibox context menu. </pre>

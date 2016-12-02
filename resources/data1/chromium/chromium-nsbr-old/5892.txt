@@ -1,0 +1,1 @@
+<title>Issue 5892 -   chromium -    Chrome does not generate thumbnails for Flash-based websites (Most visited area) - Project Hosting on Google Code</title>   1. Enter a flash based website (like www.calot.net)  2. Close it  3. Open a new tab. Walla  an empty thumbnail...                Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1255 -   chromium -    Can't open Amazon Account page - Project Hosting on Google Code</title>   1. Goto <a href="http://amazon.com">http://amazon.com</a>  2. Click Your Account       Browser opens up the Account Login Page      Blank browser (you can click Back to return to previous page)    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21643 -   chromium -    automated_ui_test_interactive_test.cc is not compiled at all - Project Hosting on Google Code</title> <pre> We should find a new home for this file   (chrome/test/automated_ui_tests/automated_ui_test_interactive_test.cc)    interactive_ui_tests may not be optimal  because there are already browser   tests there. Jay  what do you think? </pre>

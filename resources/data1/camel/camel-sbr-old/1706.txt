@@ -1,0 +1,1 @@
+DefaultErrorHandler - add support for redelivery    The new default error handler does currently not support redelivery. The error handling codebase has stabilized and we should allow this error handler to leverage the redelivery features we have in DeadLetterChannel.   

@@ -1,0 +1,1 @@
+<title>Issue 38595 -   chromium -    Sync notifications do not seem to become enabled after startup - Project Hosting on Google Code</title> <pre>   1. Windows Vista + top of tree debug chrome.exe build  2. Enable sync using a google account.  3. Navigate to &quot;about:sync&quot;    Very consistently on my machine  &quot;notifications enabled&quot; is pegged to false. </pre>

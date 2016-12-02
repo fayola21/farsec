@@ -1,0 +1,1 @@
+<title>Issue 9136 -   chromium -    OpaqueBrowserFrameViewGtk - Project Hosting on Google Code</title> <pre> Some kind of Gtk frame view for the browser window. I'm not yet sure how this   should work. Talk to me for more details. </pre>

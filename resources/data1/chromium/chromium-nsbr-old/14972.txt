@@ -1,0 +1,1 @@
+<title>Issue 14972 -   chromium -    gmail not working in latest dev update - Project Hosting on Google Code</title>   1. gmail stalls right before progress bar finishes while loading.  HTML version still works              <b>Please provide

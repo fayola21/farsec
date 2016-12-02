@@ -1,0 +1,1 @@
+<title>Issue 19383 -   chromium -    Implement an uninstall hook for extensions - Project Hosting on Google Code</title> <pre> This is useful for extensions that need to do some clean-up on uninstall   in particular for ones that include NPAPI plugins. </pre>

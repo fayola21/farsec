@@ -1,0 +1,1 @@
+<title>Issue 15485 -   chromium -    errors during download/initial loading of script should be fired on the Worker object - Project Hosting on Google Code</title> <pre> This has to be fixed on WebKit side:  <a href="https://bugs.webkit.org/show_bug.cgi?id=25151">https://bugs.webkit.org/show_bug.cgi?id=25151</a> </pre>

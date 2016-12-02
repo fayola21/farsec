@@ -1,0 +1,1 @@
+<title>Issue 34088 -   chromium -    Chrome Options/Personal Stuff tab is trucated  - Project Hosting on Google Code</title> <pre> ToT(r 37712)    Chrome Options/Personal Stuff tab is trucated for themes.    Screenshot attached. </pre>

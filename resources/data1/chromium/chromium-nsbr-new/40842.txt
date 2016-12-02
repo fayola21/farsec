@@ -1,0 +1,1 @@
+<title>Issue 40842 -   chromium -    Redraw issues with border-collapse and hover border effects - Project Hosting on Google Code</title> <pre> Chrome Version       : Mozilla/5.0 (X11; U; Linux x86_64; en-US)   AppleWebKit/533.3 (KHTML  like Gecko) Chrome/5.0.360.5 Safari/533.3  Other browsers tested: N/A      Hover rows in attached reduction.   </pre>

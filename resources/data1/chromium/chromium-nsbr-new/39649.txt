@@ -1,0 +1,1 @@
+<title>Issue 39649 -   chromium -    Print scaling cannot be changed from 100% - Project Hosting on Google Code</title>   1. Bring up the print menu  2. Click on &quot;Page Setup&quot;  3. Try to change the &quot;Scale&quot; setting.                <b>Please provide

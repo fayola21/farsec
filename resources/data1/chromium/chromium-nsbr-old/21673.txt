@@ -1,0 +1,1 @@
+<title>Issue 21673 -   chromium -    Options dialog goes to background after opening get themes - Project Hosting on Google Code</title> <pre>   1. Open the options menu  2. Click on the &quot;get themes&quot; button  3. Website opens    What is the expected output?    Options dialog is dismissed.    What do you see instead?    Options dialog goes to the background. </pre>

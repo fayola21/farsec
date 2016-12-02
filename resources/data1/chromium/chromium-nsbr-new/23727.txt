@@ -1,0 +1,1 @@
+<title>Issue 23727 -   chromium -    Can not get file full path from upload control - Project Hosting on Google Code</title>   1.Click on choose file  2.Select file and click open or upload  3.Nothing       get file name and read it    nothing    <b>Please provide

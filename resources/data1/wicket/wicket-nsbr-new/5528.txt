@@ -1,0 +1,1 @@
+Allow models of subtypes of Select type parameter in SelectOption constructor    SelectOption's use of the model is read only  so no risk problem if we use an IModel&lt;? extends T&gt; instead of IModel&lt;T&gt;   

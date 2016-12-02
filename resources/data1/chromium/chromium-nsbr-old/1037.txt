@@ -1,0 +1,1 @@
+<title>Issue 1037 -   chromium -    Some strings in Omnibox can crash Chrome - Project Hosting on Google Code</title>   1. Type &quot;EVIL:%&quot; in the Omnibox without quotes.      Nothing  omnibox default behavior.      Chrome crashes.    Please provide

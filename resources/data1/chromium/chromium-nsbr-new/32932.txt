@@ -1,0 +1,1 @@
+<title>Issue 32932 -   chromium -    chrome.windows.onFocusChanged doesn't fire when user switches away from chrome to another process - Project Hosting on Google Code</title> <pre> Developer report: <a href="http://groups.google.com/group/chromium-">http://groups.google.com/group/chromium-</a>  extensions/browse_thread/thread/4da1f51e774ae8fb?hl=en# </pre>

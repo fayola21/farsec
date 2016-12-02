@@ -1,0 +1,1 @@
+<title>Issue 11340 -   chromium -    Give the latest plugin versions to users when requested through Chrome - Project Hosting on Google Code</title> <pre> Right now we give Quicktime7.5 if installed through Chrome but the latest   version being served is 7.6     </pre>

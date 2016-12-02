@@ -1,0 +1,1 @@
+<title>Issue 3324 -   chromium -    getMember() on a null JSObject does not generate a JSException - Project Hosting on Google Code</title>   1. Launch Chrome and navigate to http://go/plugins/JAVA_tests/JavaJS/JavaJSTest.html  2. Open the Java console       All tests should pass      One of the tests fails.     Please provide

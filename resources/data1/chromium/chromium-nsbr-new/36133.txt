@@ -1,0 +1,1 @@
+<title>Issue 36133 -   chromium -    Turn on seccomp sandbox by default - Project Hosting on Google Code</title> <pre> We need to eliminate the setuid sandbox. </pre>

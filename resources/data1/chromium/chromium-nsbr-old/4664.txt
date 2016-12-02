@@ -1,0 +1,1 @@
+<title>Issue 4664 -   chromium -    safe-browsing - remove deprecated handling of reset command - Project Hosting on Google Code</title> <pre> jam says:  &quot;we should take out this reset path since I've been told by the SB  team that reset isn't used and is deprecated.&quot;     </pre>

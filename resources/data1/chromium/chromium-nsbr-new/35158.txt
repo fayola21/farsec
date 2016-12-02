@@ -1,0 +1,1 @@
+<title>Issue 35158 -   chromium -    ClearAuthenticationData doesn't clear TalkMediator cookies - Project Hosting on Google Code</title> <pre> In AuthWatcher::ClearAuthenticationData  we don't clear the talk_mediator's   cookies. We probably should. </pre>

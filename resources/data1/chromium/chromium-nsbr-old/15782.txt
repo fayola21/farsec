@@ -1,0 +1,1 @@
+<title>Issue 15782 -   chromium -    REGRESSION: Throbber window icon in app frames is broken - shows default favicon instead. - Project Hosting on Google Code</title> <pre> When using an app frame (e.g. installed gmail)  the throbber no longer   appears in the window icon  instead the default favicon appears. </pre>

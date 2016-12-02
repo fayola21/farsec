@@ -1,0 +1,1 @@
+<title>Issue 8960 -   chromium -    Facebook freezes  making links not clickable - Project Hosting on Google Code</title>   1. Going to facebook.  2. Going to other sites  sometimes the links fail and the page freezes.        The page to continue to function as usual.      It freezes and the links don't work.    <b>Please provide

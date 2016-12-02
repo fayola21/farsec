@@ -1,0 +1,1 @@
+<title>Issue 31807 -   chromium -    Chrome does not support WYSIWYG rich text editing. - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 3.0.198&gt;                       IE 8:OK.    Basically Chrome doesn't seem to support WYSIWYG rich text editing feature?  It works fine in IE8.0 </pre>

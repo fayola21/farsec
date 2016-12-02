@@ -1,0 +1,1 @@
+<title>Issue 10499 -   chromium -    Support server-side images in ResourceBundle - Project Hosting on Google Code</title> <pre> Would be nice to load a server side pixmap for some images.  Need to figure  out how to handle alpha / background color  etc. </pre>

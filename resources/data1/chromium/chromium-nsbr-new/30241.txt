@@ -1,0 +1,1 @@
+<title>Issue 30241 -   chromium -    Middle-click on new tab page thumbnails do not work - Project Hosting on Google Code</title>   1. Open the New Tab page.  2. Middle-click any thumbnail.      Middle-clicked thumbnail opens in a new tab.        Middle-clicked thumbnail does not open in a new tab.    <b>Please provide

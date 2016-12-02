@@ -1,0 +1,1 @@
+<title>Issue 43103 -   chromium -    IDS_BROWSER_HANGMONITOR_RENDERER_TITLE not used - Project Hosting on Google Code</title> <pre> There is a title for the &quot;hung renderer&quot; dialog  but it's not actually  used. It's better than the current choice of naming the dialog after the app. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23930 -   chromium -    Control-W doesn't close tab when bookmark dialog open - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.220.1 (Official Build 27713)      1. Click the star  2. Press control-w      The tab is closed.  (And the little bookmark-editing dialog window disappears   too.)      Nothing. </pre>

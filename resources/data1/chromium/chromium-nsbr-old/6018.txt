@@ -1,0 +1,1 @@
+<title>Issue 6018 -   chromium -    Webpage compelety freezes all instances of chrome  - Project Hosting on Google Code</title>   1. Go to that url  create an account if you dont have one   2. Click on RadControls for ASP.NET AJAX   3. BOOM CHROME is frozen       To start downloading the required file       chrome freezes     Please provide

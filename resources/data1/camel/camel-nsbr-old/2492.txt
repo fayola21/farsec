@@ -1,0 +1,1 @@
+PollingConsumerPollStrategy - Should support boolean on begin to support skipping polling    See nabblehttp://old.nabble.com/File-Consumer-with-dynamic-list-of-files-to-poll-ts27683938.htmlAnd wiki pagehttp://camel.apache.org/polling-consumer.html   

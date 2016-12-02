@@ -1,0 +1,1 @@
+<title>Issue 10570 -   chromium -    Make viewsource/saveas work better after POST - Project Hosting on Google Code</title> <pre> This is required  for example  to fix bugs like <a title="Show source after POST command isn't what you expected"  href="/p/chromium/issues/detail?id=523">issue 523</a>  &quot;Show source after   POST command isn't what you expected&quot;.     </pre>

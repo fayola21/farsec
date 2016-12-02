@@ -1,0 +1,1 @@
+<title>Issue 24895 -   chromium -    constructor value cannot be expanded - Project Hosting on Google Code</title> <pre>   Try to expand constructor function of an object.    What is the expected output?  Function properties should be shown.    What do you see instead?  No properties.   </pre>

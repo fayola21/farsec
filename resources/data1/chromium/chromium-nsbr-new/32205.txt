@@ -1,0 +1,1 @@
+<title>Issue 32205 -   chromium -    Mouse over URL's in Bookmarks folders not working - Project Hosting on Google Code</title>             Mouse over bookmark on hover should give a popup of URL destination    What happens instead? nothing if in a bookmark folder - ok if not in   subfolder      <b>Please provide

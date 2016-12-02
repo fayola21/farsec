@@ -1,0 +1,1 @@
+<title>Issue 7887 -   chromium -    Unformatted paragraph - Project Hosting on Google Code</title>   1. Go to <a href="http://devexpress.com/Support/Center/p/Q37777.aspx">http://devexpress.com/Support/Center/p/Q37777.aspx</a>          The Description text example should be indented      No formatting and no line breaks    Please provide

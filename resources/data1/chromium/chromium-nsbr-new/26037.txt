@@ -1,0 +1,1 @@
+<title>Issue 26037 -   chromium -    Bad font rendering with greater than 100% DPI fonts  under windows7 - Project Hosting on Google Code</title> <pre> You can see the difference in the attached screenshots. Chrome render seems blurry.  Also  Cleartype is enabled (if this is somehow related)..    Regards   Dragan       </pre>

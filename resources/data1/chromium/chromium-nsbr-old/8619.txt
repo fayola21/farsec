@@ -1,0 +1,1 @@
+<title>Issue 8619 -   chromium -    Right Clicking on single Tab - Project Hosting on Google Code</title>   1. Ensure that there is one tab only  2. Right Click on the tab        Should open menu listing option to open new tab  duplicate tab        Opens Menu to Restore  Maximize  Task Manager    Please provide

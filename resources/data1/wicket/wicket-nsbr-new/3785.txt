@@ -1,0 +1,1 @@
+CheckGroup's model update should be aligned with ListMultipleChoice    Please improve CheckGroup to handle its model updates as ListMultipleChoice does  allowing a model to be notified of changes. See attached patch.   

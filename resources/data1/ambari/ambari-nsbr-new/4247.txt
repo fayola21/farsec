@@ -1,0 +1,1 @@
+Restart marker does not show up sometimes in the Hosts page    After reconfiguring  restart indicators do not show up on the Host pages sometimes.Clicking on an individual host shows the restart indicator in the Host Details page.   

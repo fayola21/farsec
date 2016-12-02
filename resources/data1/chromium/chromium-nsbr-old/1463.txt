@@ -1,0 +1,1 @@
+<title>Issue 1463 -   chromium -    Odd text box behavior - Project Hosting on Google Code</title>   1. Edit the text in a multi-line edit box...as the text wraps the words on subsequent lines tend to be getting odd highlighting  or not appearing   right away until some kind of refresh is done.                      Please provide

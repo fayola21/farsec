@@ -1,0 +1,1 @@
+<title>Issue 45542 -   chromium -    Add light client-side auth to download of apps - Project Hosting on Google Code</title> <pre> If the app's autoupdate URL is from the Google gallery  only allow install from the Google   gallery. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14666 -   chromium -    [Mac download shelf] We need a &quot;More than one download from this domain; proceed?&quot; carpet bombing protection dialog - Project Hosting on Google Code</title> <pre> Not strictly shelf related  but��_��__    Look at DownloadRequestDialogDelegate::Create() in   temp_scaffolding_stubs.cc to get started. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4261 -   chromium -    canceling the download when close chrome - Project Hosting on Google Code</title>   1. DOWNLOAD FILE  2. CLOSE CHROME      CHROME PAUSE THE DOWNLOAD UNTIL OPEN IT AGAIN  or IT PROMPET THAT THERE IS DOWN LOAD STILL OPEN    CHROME CANCEL THE DOWNLOAD    Please provide

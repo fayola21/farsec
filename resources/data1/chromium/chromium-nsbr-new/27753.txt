@@ -1,0 +1,1 @@
+<title>Issue 27753 -   chromium -    Single click as double click on vBullentin forum - Project Hosting on Google Code</title>   1. go to a VBB forum  2. type in reply box  3. click on post quick reply      a single post.      forum detects double post.    <b>Please provide

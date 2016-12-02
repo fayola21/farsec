@@ -1,0 +1,1 @@
+<title>Issue 16866 -   chromium -    Avoid redundant ParamTraits for serializing enums - Project Hosting on Google Code</title> <pre> Avoid redundant ParamTraits for serializing enums    We have a number of IPC::ParamTraits instantiations that only differ in enum   type.  We should find a way to either share code or at least avoid   duplication of written code. </pre>

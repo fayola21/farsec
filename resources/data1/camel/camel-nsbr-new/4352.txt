@@ -1,0 +1,1 @@
+Ftp consumer using done file should cater for if stepwise has been enabled  and thus the done file path is to be calculated differently    The workaround is to use ${file:onlyname} or not using stepwise.   

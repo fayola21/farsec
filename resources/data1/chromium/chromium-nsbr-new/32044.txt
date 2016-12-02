@@ -1,0 +1,1 @@
+<title>Issue 32044 -   chromium -    Freeze system - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.296.0 (Developer Build 35891) Ubuntu 9.10      1. Try download any file  2. Some times after few seconds all system not responded (Gnome freeze) ...       maybe while animate &quot;download&quot; status?  </pre>

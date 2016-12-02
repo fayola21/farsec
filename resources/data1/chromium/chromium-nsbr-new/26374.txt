@@ -1,0 +1,1 @@
+<title>Issue 26374 -   chromium -    CRASH: cmd + w with one tab open  any page - Project Hosting on Google Code</title>   1.Open new chrome window  just one tab and go to any non chrome page  2.Press cmd+w to close the window      close the window while keeping Chromium up and running.      it crashes pretty instantly    <b>Please provide

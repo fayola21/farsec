@@ -1,0 +1,1 @@
+<title>Issue 39582 -   chromium -    (Shift + numbers) result in (Alt Gr + numbers) - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.1.249.1042 (42199) on Windows 7 x64      1. Press Shift + 2 (Using a portuguese keyboard)      A &quot; character appears.      A @ character appears.    This happens in the url bar  in input boxes  etc. </pre>

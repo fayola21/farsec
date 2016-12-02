@@ -1,0 +1,1 @@
+<title>Issue 12650 -   chromium -    Unable to add divider to Bookmarks toolbar - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.181.1                    Try to add divider to Bookmarks toolbar.      I expected to see &quot;Add divider&quot; in popup menu of Bookmarks toolbar.      No such item in menu.   </pre>

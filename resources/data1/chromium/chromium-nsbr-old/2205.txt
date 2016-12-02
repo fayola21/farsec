@@ -1,0 +1,1 @@
+<title>Issue 2205 -   chromium -    Clean up browser/ directory - Project Hosting on Google Code</title> <pre> browser/ needs a cleanup:    - views subclasses should move to browser/views  - unused files should be deleted     </pre>

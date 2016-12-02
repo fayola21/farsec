@@ -1,0 +1,1 @@
+<title>Issue 15236 -   chromium -    rebaseline lines should be lint warnings in run_webkit_tests.py - Project Hosting on Google Code</title> <pre> rebaseline modifiers should never get checked in  so they should be lint   warnings. </pre>

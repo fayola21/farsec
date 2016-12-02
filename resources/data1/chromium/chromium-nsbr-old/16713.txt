@@ -1,0 +1,1 @@
+<title>Issue 16713 -   chromium -    Tune compiler options for release builds - Project Hosting on Google Code</title> <pre> At some point we need to revisit the gcc flags for our release builds to see if   what of what linux uses we can also use for speed/size (rtti  exceptions  etc.) </pre>

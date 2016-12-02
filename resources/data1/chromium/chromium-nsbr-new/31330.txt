@@ -1,0 +1,1 @@
+<title>Issue 31330 -   chromium -    Browser crash when idle - Project Hosting on Google Code</title>   1.using or letting sit idle will cause crash error.  2.i haven't changed my system at all except windows update did an update   last night? not sure if that has anything to do with it.                  <b>Please provide

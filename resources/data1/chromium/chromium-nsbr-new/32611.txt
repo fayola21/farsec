@@ -1,0 +1,1 @@
+<title>Issue 32611 -   chromium -    Mac Plain Text Paste [Command-Shift-V] - Project Hosting on Google Code</title>   1. Copy rich formated text  like a header or colored text  2. Press 'Command-Shift-V' in a form field (like gmail or this description box)      The plain text version of the copied text will be pasted into the field      Nothing    <b>Please provide

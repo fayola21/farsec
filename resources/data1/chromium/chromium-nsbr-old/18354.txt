@@ -1,0 +1,1 @@
+<title>Issue 18354 -   chromium -    net.lib depends on gtest - Project Hosting on Google Code</title> <pre> When building the net library &quot;UNIT_TEST&quot; is defined  and that should only be   defined when building unit tests.    There is a dependency from testing/gtest.gyp:gtest that I believe to be   wrong. </pre>

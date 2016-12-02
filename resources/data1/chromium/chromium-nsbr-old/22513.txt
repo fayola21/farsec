@@ -1,0 +1,1 @@
+<title>Issue 22513 -   chromium -    Fat horizontal bar appears at bottom of window - Project Hosting on Google Code</title>   1. Open Chrome  2. There is a fat horizontal bar on the bottom of the window that takes up   real estate  is ugly  and wasn't there before.        There shouldn't be a fat horizontal bar.        There is a fat horizontal bar.    <b>Please provide

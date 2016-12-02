@@ -1,0 +1,1 @@
+wicket-ajax-jquery.js fails with 'member not found' on IE for delayed ajax requests    Channel#done() uses setTimeout() to execute delayed Ajax calls.On IE when the delayed call is executed  jquery's #preventDefault() fails with 'member not found' because the original event object's properties (here e.returnValue) can no longer be accessed.   

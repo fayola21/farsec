@@ -1,0 +1,1 @@
+<title>Issue 5980 -   chromium -    Cannot open email in Hotmail - Project Hosting on Google Code</title>   1. Using Chrome 1.0.154.36 can open email in Hotmail.  2. Upgrading to Chrome 1.0.154.42.  3. Cannot open email in Hotmail.      Can open email in Hotmail.      Cannot open email in Hotmail.    Please provide

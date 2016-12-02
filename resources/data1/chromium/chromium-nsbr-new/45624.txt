@@ -1,0 +1,1 @@
+<title>Issue 45624 -   chromium -    Hindi Language display issue - Project Hosting on Google Code</title> <pre>   Hindi Language      5.0.342.9 (43360) Ubuntu      Ubuntu 10.04      <a href="http://in.jagran.yahoo.com/epaper/index.php?location=35">http://in.jagran.yahoo.com/epaper/index.php?location=35</a>      PFA </pre>

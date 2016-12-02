@@ -1,0 +1,1 @@
+<title>Issue 1791 -   chromium -    Touch Pad Side Scroll Doesnt Scroll Up. - Project Hosting on Google Code</title>   1. Surfing the web on a laptop the scroll that is built into the touch pad   only scrolls down.      Being able to scroll in the upwards direction with the touch pad side   scroll.      The page only scrolls down not up.    Please provide

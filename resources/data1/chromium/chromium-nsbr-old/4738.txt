@@ -1,0 +1,1 @@
+<title>Issue 4738 -   chromium -    GTK test shell's scrollbar looks broken - Project Hosting on Google Code</title> <pre> Chrome Version       : trunk    In recent revisions ofthe gtk test_shell  the scrollbar is not properly  themed. The background of the [^] button is drawn black for example and the  lower end line of the drag handle is missing. </pre>

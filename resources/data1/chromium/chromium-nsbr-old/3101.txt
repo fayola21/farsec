@@ -1,0 +1,1 @@
+<title>Issue 3101 -   chromium -    Chrome browser mouseevents don't work in fullscreen   - Project Hosting on Google Code</title>   1. go www.flashosophy.com  2. click on the top middle blue icon to go full screen  3. try to click on the any buttons in full screen      buttons to work on rollover  rollout  and click      buttons do not respond    Please provide

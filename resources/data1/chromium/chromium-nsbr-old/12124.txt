@@ -1,0 +1,1 @@
+<title>Issue 12124 -   chromium -    Implement bookmark bar as a drag target for toolstrips - Project Hosting on Google Code</title> <pre> It would be cool if you could drag your extension toolstrips to the bookmark   bar.    This requires issue 12123. </pre>

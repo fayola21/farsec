@@ -1,0 +1,1 @@
+<title>Issue 17378 -   chromium -    Tab close button hard to see with themes - Project Hosting on Google Code</title> <pre> The tab close button is currently an unthemeable image  making it hard to see   on some backgrounds. Rather than add yet another image for theme authors to   provide  keys its color off the theme's tab text color. </pre>

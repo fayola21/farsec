@@ -1,0 +1,1 @@
+<title>Issue 425 -   chromium -    Bad rendering perfomance Google Maps - Project Hosting on Google Code</title>   1. go to Google Maps (www.google.com/maps)  2. Choose sattelite view  3. Move (drag) map left and right with mouse      Expected good rendering perfomance  like Gecko 1.9      Bad rendering perfomance    Please provide

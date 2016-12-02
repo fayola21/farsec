@@ -1,0 +1,1 @@
+<title>Issue 23353 -   chromium -    application shortcuts ought to use some (all?) of launching process's command line - Project Hosting on Google Code</title>   1. Open google apps mail in a tab  2. click on page icon  3. Select &quot;Create application shortcuts...&quot;  4. leave &quot;Desktop&quot; checked and click on &quot;Create&quot;                <b>Please provide

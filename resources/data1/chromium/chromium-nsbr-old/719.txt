@@ -1,0 +1,1 @@
+<title>Issue 719 -   chromium -    Bookmark feature not synced with Google Account/Google Toolbar bookmarks - Project Hosting on Google Code</title>   1. Open Chrome  2. Look at bookmarks pull down        My bookmarks from the Google Toolbar / Google Account should show up.        A list of bookmarks not synced with my Google Account Bookmarks.    Please provide

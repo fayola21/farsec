@@ -1,0 +1,1 @@
+<title>Issue 13161 -   chromium -    Gears is not supported - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  Gears is not supported. </pre>

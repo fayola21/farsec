@@ -1,0 +1,1 @@
+<title>Issue 9130 -   chromium -    Custom-cursor support for views - Project Hosting on Google Code</title> <pre> View exposes a virtual method:    virtual HCURSOR GetCursorForPoint(..)    We need a Gtk version so that views::Link can show a hand cursor. Perhaps   make a gfx::NativeCursor ? Not sure how the Gtk API works. </pre>

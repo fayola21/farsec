@@ -1,0 +1,1 @@
+<title>Issue 3797 -   chromium -    java installation internal error - Project Hosting on Google Code</title>   1. Download latest Java for chrome  run installation  2. immediately you will get error message: Java internal error 2229  3. installation terminated.                Please provide

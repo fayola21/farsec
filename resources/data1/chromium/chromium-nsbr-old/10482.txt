@@ -1,0 +1,1 @@
+<title>Issue 10482 -   chromium -    Opening &quot;Edit thumbnails&quot; in a new tab opens blank NTP - Project Hosting on Google Code</title>   1. Go to NTP  2. Right click &quot;Edit thumbnails&quot; and select &quot;Open link in new tab&quot;      Should open &quot;Edit thumbnails&quot; UI in a new tab.      Opens a blank NTP    <b>Please provide

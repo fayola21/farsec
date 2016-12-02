@@ -1,0 +1,1 @@
+<title>Issue 20267 -   chromium -    Alternate first run bubble text being cut off - Project Hosting on Google Code</title> <pre>   1. Run Chrome with the alternate first run bubble  2. View the alternate first run bubble      The bubble should not be cut off on the right side.  Instead  the &quot;r&quot; and the   close &quot;X&quot; overlap.     </pre>

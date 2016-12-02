@@ -1,0 +1,1 @@
+CxfExchange does not copy unit of work and thus its null and thus NPE is thrown    William could you check this error reported by end userSee nabble:http://www.nabble.com/UnitOfWork-td20829434s22882.html   

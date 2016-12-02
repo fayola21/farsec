@@ -1,0 +1,1 @@
+<title>Issue 584 -   chromium -    bug with js dropdown menu - Project Hosting on Google Code</title>   1. go to url <a href="http://blacksun.com.ua/">http://blacksun.com.ua/</a>  2. and try to click item in top menu list      dropdown menu and click on link in this menu      menu is dropdown but you can't click on any links in it.    Please provide

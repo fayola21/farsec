@@ -1,0 +1,1 @@
+<title>Issue 31193 -   chromium -    HTML tags inside innerHTML of created/appended &quot;script&quot; elements. - Project Hosting on Google Code</title>   1. Just go to the link.      1. In Firefox  it correctly alerts true.      1. Chrome does nothing. &quot;Uncaught SyntaxError: Unexpected token ILLEGAL&quot;   logs in the console.    <b>Please provide

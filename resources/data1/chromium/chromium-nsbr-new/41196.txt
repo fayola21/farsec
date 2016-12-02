@@ -1,0 +1,1 @@
+<title>Issue 41196 -   chromium -    AutoFill profiles dialog should have only close button - Project Hosting on Google Code</title> <pre> Go to wrench &gt; options &gt; personal stuff &gt; change autofill setting    Issue: The dialog has all the three buttons(Maximize  Minimize  Close). This   is not consistent with all the other dialogs related to options. </pre>

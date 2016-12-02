@@ -1,0 +1,1 @@
+<title>Issue 45386 -   chromium -    Pb Allods World Map Linker - Project Hosting on Google Code</title>   1.Select a map  2.Try placing a marker        point appears where you click      The poiints displayed much higher    <b>Please provide

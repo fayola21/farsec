@@ -1,0 +1,1 @@
+<title>Issue 2287 -   chromium -    Autoscrolling via middle-button click does not work in Google Chrome - Project Hosting on Google Code</title>   1. Click the middle button on your scrolling wheel mouse (i.e. the wheel)          Page autoscrolls and scrolling widget appears        No op    Please provide

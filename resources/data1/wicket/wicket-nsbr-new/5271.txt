@@ -1,0 +1,1 @@
+Wicket Tree rendering broken in 7.x    While testing WICKET-5267 (EventDelegationBehavior) I've noticed that the Tree component renders with broken layout in Wicket 7.x.It looks like a CSS related issue.   

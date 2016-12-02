@@ -1,0 +1,1 @@
+<title>Issue 45278 -   chromium -    Pressing Home/End no longer jumps browsing to top/bottom of page respectively - Project Hosting on Google Code</title>   1. Download Chrome for linux  2. Use it for a bit  3. Profit!      To jump me up and down      Nothing  buttons are unresponsive. Number lock _is not on_    <b>Please provide

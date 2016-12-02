@@ -1,0 +1,1 @@
+<title>Issue 34141 -   chromium -    cannot drag and drop Bookmark from FF  to a Tab  - Project Hosting on Google Code</title>   1. bookmark google.com on FireFox  2. darg google.com from FireFox to a Tab in Chrome          The site should be displayed on Chrome.      Nothing happens on Chrome    <b>Please provide

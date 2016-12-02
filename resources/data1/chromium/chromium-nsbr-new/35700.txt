@@ -1,0 +1,1 @@
+<title>Issue 35700 -   chromium -    Feature: New tab button should be draggable - Project Hosting on Google Code</title> <pre> The new tab button should be draggable. Dragging it should drag a new tab. So   you would be able to easily create a new window next to the current etc. </pre>

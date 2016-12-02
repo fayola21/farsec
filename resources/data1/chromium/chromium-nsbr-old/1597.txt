@@ -1,0 +1,1 @@
+<title>Issue 1597 -   chromium -    Yahoo! Mail Classic does not use rich text - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27  URLs (if applicable) : www.yahoo.com           Safari 3: -      Firefox 3: OK           IE 7: OK      1. Write a new mail      The layout toolbar appear with many icons      No toolbar appears        </pre>

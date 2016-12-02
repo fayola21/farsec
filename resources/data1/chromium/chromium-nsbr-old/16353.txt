@@ -1,0 +1,1 @@
+<title>Issue 16353 -   chromium -    New rows are not added in an employer webpage  - Project Hosting on Google Code</title>   1. As per screenshot  I add the no of new rows to be added.       The specified number of the rows should be added.           I Chrome Dev 3.0.191.1  new rows are not added and data entry fields are   not visible.    <b>Please provide

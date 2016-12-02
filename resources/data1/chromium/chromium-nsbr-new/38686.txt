@@ -1,0 +1,1 @@
+<title>Issue 38686 -   chromium -    Fade to and from fullscreen mode is too slow and jarring - Project Hosting on Google Code</title>   1. Activate fullscreen mode  2. Wait 3 seconds  3. Deactivate fullscreen mode      A smooth and quick transition.      A slow and jarring transition.    <b>Please provide

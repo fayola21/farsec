@@ -1,0 +1,1 @@
+<title>Issue 3957 -   chromium -    Chromium doesn't saves window sizes - Project Hosting on Google Code</title>   1. Resize chrome  2. Close chrome  3. Open chrome again      Chrome saves my last settings. After reopening chrome the width and height   would be reproduced.      The settings from after installing are loaded.    Please provide

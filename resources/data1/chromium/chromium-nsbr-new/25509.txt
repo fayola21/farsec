@@ -1,0 +1,1 @@
+<title>Issue 25509 -   chromium -    Extensions Page should have a favicon - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.12  URLs (if applicable) : chrome://extensions/        1. Open chrome://extensions/      The page should have a favicon.      It hasn't.     </pre>

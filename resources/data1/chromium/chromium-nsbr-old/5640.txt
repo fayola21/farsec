@@ -1,0 +1,1 @@
+<title>Issue 5640 -   chromium -    Google Chrome's UI doesn't recover - Project Hosting on Google Code</title> <pre> User report 377520610    Chrome Version       : 1.0.154.36  OperatingSystem: winvista    Google Chrome's UI doesn't recover in the event that another (legacy)  application in Vista forces the Windows interface to drop back from Vista  Aero to Vista Basic. </pre>

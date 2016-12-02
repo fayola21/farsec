@@ -1,0 +1,1 @@
+<title>Issue 27563 -   chromium -    When you disable an extension  the options button stays active - Project Hosting on Google Code</title> <pre> Install an extension that has an options page  Go to chrome://extensions  Disable an extension  Notice that the options button stays active. </pre>

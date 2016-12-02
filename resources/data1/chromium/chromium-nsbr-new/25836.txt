@@ -1,0 +1,1 @@
+<title>Issue 25836 -   chromium -    Change Read/Write lock to Write lock on downloading files - Project Hosting on Google Code</title>   1. Begin download of a large file  2. While file is downloading  try to copy file to another location      Downloaded portion of file should be copied to new location.      A Read lock error occurs.    <b>Please provide

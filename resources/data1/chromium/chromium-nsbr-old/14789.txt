@@ -1,0 +1,1 @@
+<title>Issue 14789 -   chromium -    resizeTo is not working. - Project Hosting on Google Code</title>   1.Open the attached default.htm file in a new window.          Just browse the attached default.htm  file it will automatically resize into screen height and width.        It remains in the default size.      <b>Please provide

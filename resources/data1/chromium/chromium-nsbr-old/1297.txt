@@ -1,0 +1,1 @@
+<title>Issue 1297 -   chromium -    No Java Plugin - Project Hosting on Google Code</title>   1. go to runescape  2. click play game  3. after registering or clicking on existing user  click any world  4. Observe.                Please provide

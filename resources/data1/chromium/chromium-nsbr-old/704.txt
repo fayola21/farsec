@@ -1,0 +1,1 @@
+<title>Issue 704 -   chromium -    Titlebar doesn't look native - Project Hosting on Google Code</title> <pre> I don't want the titlebar to look like Vista (except with totally different  colors) when I'm on Windows XP. Please keep the native look of the window  borders. </pre>

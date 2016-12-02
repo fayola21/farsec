@@ -1,0 +1,1 @@
+html file are not encoding to utf-8    The file SignOutPage_fr.html (all html file) is not properly encoding to utf-8  the accent 'D�_�_�connexion' is not display correctly on browser.   

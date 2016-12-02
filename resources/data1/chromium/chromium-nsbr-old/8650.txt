@@ -1,0 +1,1 @@
+<title>Issue 8650 -   chromium -    Download shelf menu is displayed several pixels too low - Project Hosting on Google Code</title> <pre> 1. Download a file so that the download shelf is showing  2. Click the arrow on the shelf to display the download's context menu  3. Notice that the menu is not drawn flush against button that activated it   </pre>

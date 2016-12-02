@@ -1,0 +1,1 @@
+<title>Issue 217 -   chromium -    Some Facebook links not working - Project Hosting on Google Code</title>   1. Log in to Facebook  2. Click any link under the &quot;People you may know&quot; heading on the home page.          Either a small profile box appears or the box clicked fades away        The page reloads itself    Please provide

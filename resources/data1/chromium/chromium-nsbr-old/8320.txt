@@ -1,0 +1,1 @@
+<title>Issue 8320 -   chromium -    Impossible logging into mail account - Project Hosting on Google Code</title>   1. Go to www.virgilio.it  2. Click on &quot;Controlla la tua mail&quot;  3. Fill in login fields  4. Click on &quot;Entra&quot;        Accessing to webmail        Nothing      Please provide

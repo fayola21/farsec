@@ -1,0 +1,1 @@
+<title>Issue 20859 -   chromium -    'Bookmark this page' star should show dialog only on second click - Project Hosting on Google Code</title>   1. Open a new webpage that isn't bookmarked  2. Press the 'bookmark this page' star      The star to change colour to confirm it has been pressed.      A confirmation popup is shown in addition to the star.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21111 -   chromium -    Crash on quit after closing tab with empty http auth sheet - Project Hosting on Google Code</title> <pre> From a user report:    1. Access any page that has basic auth  2. Close that tab without entering anything into the basic auth page  3. Try to quit Chrome  4. It goes busy and then crashes. </pre>

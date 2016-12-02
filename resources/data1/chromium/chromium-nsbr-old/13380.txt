@@ -1,0 +1,1 @@
+<title>Issue 13380 -   chromium -    Chrome crashes each time I try to print anything from any website. - Project Hosting on Google Code</title>   1. Go to any URL  2. Click the &quot;Control the page&quot; icon  3. Click &quot;Print&quot;    What is the expected result? To print the page.      What happens instead? Chrome crashes      <b>Please provide

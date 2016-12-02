@@ -1,0 +1,1 @@
+<title>Issue 25169 -   chromium -    Chrome doesn't support Windows XP SP1 - Project Hosting on Google Code</title>   1. Execute Chrome setup in Windows XP SP1          Install Google Chrome      A dialog box appears saying Google Chrome doesn't support SP1 or older   versions of Windows    <b>Please provide

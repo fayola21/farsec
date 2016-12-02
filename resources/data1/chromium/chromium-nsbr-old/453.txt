@@ -1,0 +1,1 @@
+<title>Issue 453 -   chromium -    Status bar is not visible when a link has keyboard focus - Project Hosting on Google Code</title>   1. Visit a page with links (e.g. Google.com)  2. Tab through the links  3. Try to find where the links will take you      Status bar is shown  as with mouse hover.      No status bar.    Please provide

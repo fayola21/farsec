@@ -1,0 +1,1 @@
+<title>Issue 33122 -   chromium -    Complex text has extra letters at end - Project Hosting on Google Code</title> <pre> 1. LANG=ar_IQ.UTF-8 chrome  2. ctl-shift-n to see incognito page    Note extra junk letters at the end of the first paragraph.   </pre>

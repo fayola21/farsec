@@ -1,0 +1,1 @@
+<title>Issue 27594 -   chromium -    Alt key doesn't focus Page Menu - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.32      1. Install Chrome  2. Open any web page  3. Press Alt key       File menu opens up or Focus moves to Menu      Nothing happens      </pre>

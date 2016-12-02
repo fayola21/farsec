@@ -1,0 +1,1 @@
+<title>Issue 37341 -   chromium -    AX: Mac: Buttons in toolbar need to have AXDescriptions - Project Hosting on Google Code</title> <pre> Right now all those buttons have AXHelp. They really need short  concise   AXDescriptions.    ie)    &quot;Back&quot;  &quot;Forward&quot;  &quot;Reload&quot;  &quot;Home&quot;  &quot;Bookmark page&quot;  &quot;Go&quot; </pre>

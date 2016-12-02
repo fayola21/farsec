@@ -1,0 +1,1 @@
+<title>Issue 29762 -   chromium -    Bookmark Sync under options is showing a rectangle - Project Hosting on Google Code</title>   1. Go to options &gt; Personal Stuff                On top of the &quot;Synchroniz my Bookmarks&quot; button is an small rectangle.  Please see attached screenshot.      <b>Please provide

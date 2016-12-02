@@ -1,0 +1,1 @@
+<title>Issue 34882 -   chromium -    Annoying translate bar - Project Hosting on Google Code</title>   1. Install the french version of chrome 5  2. On every non-french page there will be the translate bar  I can't   deactivate it ..      A button to deactivate.      There is the translate bar.    <b>Please provide

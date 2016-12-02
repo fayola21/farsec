@@ -1,0 +1,1 @@
+AjaxFallbackLink and log a warning when there are several ajax event behaviors on the same event    When I was using an AjaxFallbackLink I got the warning about multiple Behaviours changing the 'onclick' attribute.I changed it to AjaxLink and the warning disappeared.   

@@ -1,0 +1,1 @@
+Add umask checks for host checks - we should alert if umask is not 022.    Add umask checks for host checks - we should alert if umask is not 022.   

@@ -1,0 +1,1 @@
+<title>Issue 34299 -   chromium -    Can't access SABnzbd+ in Google Chrome 4 - Project Hosting on Google Code</title>   1. Start SABnzbd (open a terminal  type sabnzbdplus)  2. Type in Chrome:  http://localhost:8080/sabnzbd/  3. Chrome says Page not found - connection failed      To open sabnzbd+      Chrome says Page not found - connection failed      <b>Please provide

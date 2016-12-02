@@ -1,0 +1,1 @@
+Allow for users to customize Ganglia gmetad + gmond user accounts    Allow customization of ganglia gmetad and gmond users.For reference: looks like this is available in gsInstaller so the pattern exists to follow for Ambari impl. Defaults to nobody/nobody   

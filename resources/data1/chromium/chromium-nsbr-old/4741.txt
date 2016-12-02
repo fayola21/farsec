@@ -1,0 +1,1 @@
+<title>Issue 4741 -   chromium -    Chrome doesn't support irc:// - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;REPLACE this with your version. Ex: 0.3.154.3&gt;             Safari 3: fail      Firefox 3: ok  with addon           IE 7: not tested  Please add irc:// support to google chrome.  </pre>

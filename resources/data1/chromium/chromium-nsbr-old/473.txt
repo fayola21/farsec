@@ -1,0 +1,1 @@
+<title>Issue 473 -   chromium -    Fix Zooming with CTRL + Mouse Scroll - Project Hosting on Google Code</title>   1. CTRL + Scroll Up and Down            Picture zooming good and text structured fixed        Picture can't zoom  text wrong's position    Please provide

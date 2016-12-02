@@ -1,0 +1,1 @@
+<title>Issue 22785 -   chromium -    Unable to change options - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.211.7&gt;  Windows Vista SP2    The options On Startup  Homepage  Passwords  and Form Autofill do not work nor   exhibit properly.  (see attached screenshots) </pre>

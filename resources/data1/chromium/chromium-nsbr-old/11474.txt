@@ -1,0 +1,1 @@
+<title>Issue 11474 -   chromium -    gcl change is broken on svn ren - Project Hosting on Google Code</title> <pre>   1. svn ren a b  2. gcl change      D    A  A+   B    but instead we get  M    A  M    B    The issue is coming from svn status --xml </pre>

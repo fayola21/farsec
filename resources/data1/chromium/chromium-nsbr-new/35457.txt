@@ -1,0 +1,1 @@
+<title>Issue 35457 -   chromium -    RTL issues - Project Hosting on Google Code</title>   1. <a href="https://chrome.google.com/extensions/detail/jcgkleojbppmgkmkdoofjkkphhnmpbhm">https://chrome.google.com/extensions/detail/jcgkleojbppmgkmkdoofjkkphhnmpbhm</a>    What is the expected result?      What happens instead?      Please provide

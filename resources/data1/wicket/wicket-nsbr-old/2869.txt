@@ -1,0 +1,1 @@
+RangeValidator should use getMinimum and getMaximum    Currently  the RangeValidator uses the fields directly  making it impossible to define a dynamic range by overriding getMinimum and getMaximum. Instead of using the fields directly  the validator should call these methods.   

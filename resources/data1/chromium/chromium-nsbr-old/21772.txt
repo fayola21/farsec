@@ -1,0 +1,1 @@
+<title>Issue 21772 -   chromium -    REGRESSION: buttons too close to toolbar edge - Project Hosting on Google Code</title> <pre> See red sections of screenshot. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26691 -   chromium -    Notifications should be variable sized based on content - Project Hosting on Google Code</title> <pre> Currently all notifications are the same size.  We should adjust the size  based on the amount of content. </pre>

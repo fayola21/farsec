@@ -1,0 +1,1 @@
+<title>Issue 30844 -   chromium -    scrollbars stay visible for 'overflow:auto' in divs when content would fit without them - Project Hosting on Google Code</title>   1. Open the attached html file.  2. Click 'Reduce'  scrollbars will appear.  3. Click 'Restore'  scrollbars won't disappear.      Scrollbars should disappear.      Scrollbars stay visible.    <b>Please provide

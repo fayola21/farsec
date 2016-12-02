@@ -1,0 +1,1 @@
+<title>Issue 26586 -   chromium -    some pref content extends off the side of the view - Project Hosting on Google Code</title> <pre> In some languages the pref content extends off the side of the view. </pre>

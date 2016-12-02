@@ -1,0 +1,1 @@
+<title>Issue 7029 -   chromium -    tab width is not correctly resize - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.158.0      1. Dragged-out tab  2. Dragged-in tab  3. 1 and 2 repeat        tab width is not correctly resized. please see screenshot.     </pre>

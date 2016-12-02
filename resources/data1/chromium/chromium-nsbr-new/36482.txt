@@ -1,0 +1,1 @@
+<title>Issue 36482 -   chromium -    chromium crashes while dragging words occasionally - Project Hosting on Google Code</title>   1.open a website  2.select some words and drag around        browser should not crash      crash    <b>Please provide

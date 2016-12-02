@@ -1,0 +1,1 @@
+<title>Issue 20232 -   chromium -    FTP directory listing wrongly concatenates paths - Project Hosting on Google Code</title> <pre> If your url is ftp://host/some/path and the file is named foo  it will   display the path to ftp://host/some/foo instead of gtp://host/some/path/foo    It works correctly with ftp://host/some/path/ (note the &quot;/&quot; at end). </pre>

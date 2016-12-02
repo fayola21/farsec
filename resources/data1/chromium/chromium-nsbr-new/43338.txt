@@ -1,0 +1,1 @@
+<title>Issue 43338 -   chromium -    DOM/Javascript regression in Chromium around v46356 (or earlier) - Project Hosting on Google Code</title>   1. Load the attached HTML      The expected output is 'foobar' followed by 1 and 1      On the latest Chromium  the output is 'foobar' followed by 1 and 0    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38533 -   chromium -    New libpng seems to have broken a layout test - Project Hosting on Google Code</title> <pre> New libpng seems to have broken a layout test    <a title="NNTP: Broken Thumbnail should not get automatically pinned"  href="/p/chromium/issues/detail?id=20804">bug20804</a>.html </pre>

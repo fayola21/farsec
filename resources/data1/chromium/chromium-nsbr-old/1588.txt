@@ -1,0 +1,1 @@
+<title>Issue 1588 -   chromium -    scrolling problem - Project Hosting on Google Code</title>             smooth scrolling both up and down      scrolls down well but doesn't scroll up    Please provide

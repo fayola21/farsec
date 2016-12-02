@@ -1,0 +1,1 @@
+<title>Issue 4361 -   chromium -    Enable HTML5 web workers - Project Hosting on Google Code</title> <pre> Enable HTML5 web workers    <a href="http://www.whatwg.org/specs/web-workers/current-work/">http://www.whatwg.org/specs/web-workers/current-work/</a>    (i'm not sure if that is the correct spec reference) </pre>

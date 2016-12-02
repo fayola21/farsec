@@ -1,0 +1,1 @@
+<title>Issue 22088 -   chromium -    Memory leak when rendering image contineously - Project Hosting on Google Code</title>   1. Run the attached web project.  2. Open the task manager.  3. Chrome eating too much memory and reach around 1.3GB in several minutes  then crash.                  <b>Please provide

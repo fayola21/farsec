@@ -1,0 +1,1 @@
+<title>Issue 12828 -   chromium -    Text rendering problem - Project Hosting on Google Code</title>   1. Use the 3.0.182.2 version of google chrome      Normal text size      Very small text size    <b>Please provide

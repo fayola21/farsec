@@ -1,0 +1,1 @@
+<title>Issue 28826 -   chromium -    Upgrade python_24 to fully hermetic version - Project Hosting on Google Code</title> <pre> The version of python checked in currently is not as hermetic as it should be   on vista-64. We should check in a newer version of the one we have setup in   perforce.   </pre>

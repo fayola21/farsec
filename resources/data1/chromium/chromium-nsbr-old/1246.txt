@@ -1,0 +1,1 @@
+<title>Issue 1246 -   chromium -    Printing individual frames - Project Hosting on Google Code</title>   1. Try to print an individual frame on a frames-enabled page          Be able to print individual frames on a frames-enabled page (probably   applies to iframes as well).      Not supported    Please provide

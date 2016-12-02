@@ -1,0 +1,1 @@
+<title>Issue 45397 -   chromium -    No password-saving option on BoerseBZ - Project Hosting on Google Code</title>   1. Open the Website.  2. On the left side try to log in with your data.      There should be an option (the password-bar) to save the password.      No password-bar appears.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 8936 -   chromium -    REGRESSION: JAVA applet gives error - Project Hosting on Google Code</title>   1. Go to <a href="http://assistenza.libero.it/angolo_pc/speedtest.phtml">http://assistenza.libero.it/angolo_pc/speedtest.phtml</a>        JAVA applet should be loaded without errors          JAVA applet does not start      <b>Please provide

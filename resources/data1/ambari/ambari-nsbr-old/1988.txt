@@ -1,0 +1,1 @@
+Hostname pattern expression is broken    dev[01-03].domain.com expanded to:dev1.domain.comdev2.domain.comdev3.domain.comShould be:dev01.domain.comdev02.domain.comdev03.domain.com   

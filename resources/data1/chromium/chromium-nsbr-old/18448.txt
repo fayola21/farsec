@@ -1,0 +1,1 @@
+<title>Issue 18448 -   chromium -    accepted dangerous download items wrong size - Project Hosting on Google Code</title> <pre> after you press ok on a dangerous download item  it resizes just large   enough to fit its label rather than a fixed size  as it should. I swear this   used to work. </pre>

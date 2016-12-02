@@ -1,0 +1,1 @@
+Remove sample caches from Camel Cache component    Camel Cache has sample caches created by the component via its ehCache settings.These should not be created in order to avoid unnecessary taking up of ports by the sample caches.   

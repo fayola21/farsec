@@ -1,0 +1,1 @@
+<title>Issue 2465 -   chromium -    Feature request: Integration with Gmail and Google Reader - Project Hosting on Google Code</title>   1. Look around the screen for amount of unread emails/news items  2. If failed  wait for notification of unread emails/news items  3. Fails.                Please provide

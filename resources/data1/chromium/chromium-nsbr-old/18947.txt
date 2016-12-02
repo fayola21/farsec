@@ -1,0 +1,1 @@
+<title>Issue 18947 -   chromium -    Regression: Loading pages causes Mac Chrome to lose focus - Project Hosting on Google Code</title> <pre>   1. Load a web page  click links  2. The window in which the page is loading will lose focus   </pre>

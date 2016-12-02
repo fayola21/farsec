@@ -1,0 +1,1 @@
+<title>Issue 9468 -   chromium -    Chrome crashes on search - Project Hosting on Google Code</title>   1. Type any thing in the search box (e.g. for wikipedia) in the new tab  2. Chrome crashes.      Chrome should display the search result from that site.      chrome crashes.    <b>Please provide

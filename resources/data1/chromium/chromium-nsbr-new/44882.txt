@@ -1,0 +1,1 @@
+<title>Issue 44882 -   chromium -    In the first tab you have a little frame with scrolling bars after start! - Project Hosting on Google Code</title>   1.After Windows has started you run Google Chrome  2.When Startpage is loading open a 2nd tab   3.stay on second tab      In the first tab you have a little frame with scrolling bars!          <b>Please provide

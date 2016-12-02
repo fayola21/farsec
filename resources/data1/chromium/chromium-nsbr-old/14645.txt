@@ -1,0 +1,1 @@
+<title>Issue 14645 -   chromium -    unable to resize using custom frame - Project Hosting on Google Code</title> <pre> If the custom frame is enabled  there's no easy way to resize the window.    We need to add resize events to the edge of the frame. </pre>

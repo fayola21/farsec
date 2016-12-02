@@ -1,0 +1,1 @@
+<title>Issue 34432 -   chromium -    Need page information - Project Hosting on Google Code</title> <pre> It would be good to implement a dialog with page information  like Firefox   has when pressing ctrl+i </pre>

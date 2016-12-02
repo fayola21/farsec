@@ -1,0 +1,1 @@
+<title>Issue 18269 -   chromium -    Feature Request:  - Project Hosting on Google Code</title> <pre> it will be nice to provide the total download speed of the active downloads   in the download tab.  there should be an integrated download manager(like the specialized softwares   available). </pre>

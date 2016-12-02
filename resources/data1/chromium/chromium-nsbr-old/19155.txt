@@ -1,0 +1,1 @@
+<title>Issue 19155 -   chromium -    Page render is not the same as Safari... - Project Hosting on Google Code</title>             Clean page loading without the white square under and around the contact   button    A white square appears under the contact button at the bottom of the page.   On the contact page it appears to cover the button area completely.    <b>Please provide

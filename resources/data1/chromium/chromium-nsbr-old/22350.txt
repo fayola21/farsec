@@ -1,0 +1,1 @@
+<title>Issue 22350 -   chromium -    Error 3 when I have double GoogleCrashHandler.exe process - Project Hosting on Google Code</title>   1. Open &quot;About Google Chrome&quot; dialog.      &quot;Google Chrome is up to date&quot; statement.      I get &quot;Error 3 is shown&quot;    <b>Please provide

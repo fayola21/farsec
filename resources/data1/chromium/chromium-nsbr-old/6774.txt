@@ -1,0 +1,1 @@
+<title>Issue 6774 -   chromium -    Search Engine dialog columns should fit text  not be percentage-based - Project Hosting on Google Code</title> <pre> In a lot of our locales we cut off text in one of both columns because   they're percentage-based.  Instead they should be sized to fit the text   within them. </pre>

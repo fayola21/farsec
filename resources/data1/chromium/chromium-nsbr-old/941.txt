@@ -1,0 +1,1 @@
+<title>Issue 941 -   chromium -    Youtube Stops playing - Project Hosting on Google Code</title>   1. Pentium M 1.2 GHz  WinXP Pro. 768M RAM  40GB HDD  2. While Youtube is playing  3. scroll down and browser hangs for 4 sec  this does not happen in others      seemless play      browser hangs for 4 sec    Please provide

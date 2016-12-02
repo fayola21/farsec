@@ -1,0 +1,1 @@
+<title>Issue 4196 -   chromium -    chrome doesn't open windows - Project Hosting on Google Code</title>   1. open a link from a windows sidebar application          I expect that the chrome windows opens with content from the webside.      Short time showing of chrome informations &quot;waiting ...&quot;  Chrome processes but no windows    Please provide

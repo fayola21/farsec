@@ -1,0 +1,1 @@
+<title>Issue 38424 -   chromium -    Make sure the theme resource name matches the UI. - Project Hosting on Google Code</title> <pre> We may rename &quot;language menu&quot; button and should rename the resource   name as well if we do. I'm filing this bug and assigned to yusukes  who added   language menu for the tracking purpose. </pre>

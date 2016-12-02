@@ -1,0 +1,1 @@
+Dashboard Widgets: 'hover to show details' experience is jarring       

@@ -1,0 +1,1 @@
+<title>Issue 5571 -   chromium -    windows - Project Hosting on Google Code</title>   1. I have 2 tab in windows chrome why if I move down my mouse cursor  the   second tab become a new window  so it splits become two                     Please provide

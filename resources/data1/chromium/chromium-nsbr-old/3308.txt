@@ -1,0 +1,1 @@
+<title>Issue 3308 -   chromium -    Mouse wheel scrolling  excessive delta. - Project Hosting on Google Code</title> <pre> Product Version      : 0.3.154.0            Firefox 3: OK           IE 7: OK      1. On a long page  roll the mouse wheel  in Chrome movement delta is   excessive.      About the half of the actual value.      The page scroll too much.     </pre>

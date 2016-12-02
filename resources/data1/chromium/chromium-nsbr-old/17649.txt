@@ -1,0 +1,1 @@
+<title>Issue 17649 -   chromium -    Problem downloading newspaper - Project Hosting on Google Code</title> <pre> After installing Google Chrome 2.0.172.37 I cannot now download and read the   UK newspaper the Daily Telegraph. Everything else is OK.    Have used Chrome since launch in September and think it is excellent     </pre>

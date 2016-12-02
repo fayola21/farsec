@@ -1,0 +1,1 @@
+<title>Issue 20575 -   chromium -    no &quot;unpin tab&quot; text - Project Hosting on Google Code</title> <pre> the menu item for unpinning the tab says &quot;Pin tab&quot; instead of &quot;Unpin tab&quot; </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39702 -   chromium -    Theora video halts after a few seconds - Project Hosting on Google Code</title>   1.  Press the &quot;play&quot; button.      Plays normally.      Video halts after a few seconds but sound continues.      <b>Please provide

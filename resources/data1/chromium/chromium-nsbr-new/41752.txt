@@ -1,0 +1,1 @@
+<title>Issue 41752 -   chromium -    Select with no options crashes the tab - Project Hosting on Google Code</title>   1. Create a new HTML file with this content: '&lt;select&gt;&lt;/select&gt;'.  2. Open the page  3. Click the select      An empty dropdown is shown or nothing happens      &quot;Aw Snap&quot;  the tab crashes.    <b>Please provide

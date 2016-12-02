@@ -1,0 +1,1 @@
+<title>Issue 45047 -   chromium -    Mouse over last menu buttons   - Project Hosting on Google Code</title>   1. Click and move mouse over two last menu buttons            Open by auto.      Menu only opens if click separately.      <b>Please provide

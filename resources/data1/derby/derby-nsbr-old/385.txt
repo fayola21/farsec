@@ -1,0 +1,1 @@
+servlet Back to Main Page link points to csnet instead of derbynet    The link at the top of the servlet java/drda/org/apache/derby/drda/NetServlet.java links to csnet (because of the static String SERVLET_ADDRESS). However  the servlet address is now derbynet.   

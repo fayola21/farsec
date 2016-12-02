@@ -1,0 +1,1 @@
+<title>Issue 5186 -   chromium -    results html for layout tests should be more user-friendly - Project Hosting on Google Code</title> <pre> Some ideas:  -Collapse result diffs so you can view more of them at once  -Allow showing the diffs/results inline  -Decrease margin between tests (e.g. just use a 1px black line to separate  them) </pre>

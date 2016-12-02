@@ -1,0 +1,1 @@
+<title>Issue 276 -   chromium -    Won't resize to fill monitor turned vertical - Project Hosting on Google Code</title>   1.move browser to 2nd monitor turned horizontal (i'm a programmer)  2. hit maximize button  3. notice it still tries to fill horizontally      It will fill vertical :)      horizontal!    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 35546 -   chromium -    Support POST-ing into CF - Project Hosting on Google Code</title> <pre>     1. Create a page that links to a GCF via HTTP POST  e.g. by using a form.        When you submit the form and go to the GCF page  the target URL will be   fetched twice by the browser  first via POST then via GET. </pre>

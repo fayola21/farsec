@@ -1,0 +1,1 @@
+<title>Issue 35142 -   chromium -    Aw  snap at calendar.google.com when Editing an event. - Project Hosting on Google Code</title>   1. calendar.google.com  2. create an event  3. then edit it        Can edit the event :)        Aw  snap! (it crash)    <b>Please provide

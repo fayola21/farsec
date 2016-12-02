@@ -1,0 +1,1 @@
+<title>Issue 33240 -   chromium -    Open SuSe :  Cannot display CJK/th/hi characters  - Project Hosting on Google Code</title>   1. launch Chrome  2. go to CJK or Th website ( ex: <a href="http://daum.net">http://daum.net</a>)      What is the expected result?What happens instead?  Notice that CJK/Th/Hi chracters appears in square boxes.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 16545 -   chromium -    restore button has no pressed graphic - Project Hosting on Google Code</title> <pre> The restore button has no hot state (the one where the button is supposed  to look depressed). The maximize button does have one  as do the other 2  titlebar buttons.    I don't have access to a windows box right now to test there. </pre>

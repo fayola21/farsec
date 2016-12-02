@@ -1,0 +1,1 @@
+<title>Issue 42353 -   chromium -    debug mode from flex builder 3 won't work when http:// is removed from url - Project Hosting on Google Code</title>   1.Try to debug from flex          debug mode      does not enter debug mode  which means I can't debug and can't therefore   use chrome as my debugging browser.    <b>Please provide

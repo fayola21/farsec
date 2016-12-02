@@ -1,0 +1,1 @@
+<title>Issue 15028 -   chromium -    stackoverflow.com reputation selection not working - Project Hosting on Google Code</title>   1. Navigate to provided URL  2. Click and drag a time block with the mouse      The dates will be set in the entry fields below the graph and a list of   events appears to the right of the graph.      Nothing.    <b>Please provide

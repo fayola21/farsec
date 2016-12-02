@@ -1,0 +1,1 @@
+<title>Issue 24364 -   chromium -    Implement bookmark all tabs on linux - Project Hosting on Google Code</title> <pre> Support was added to windows as part of <a href="http://code.google.com/p/chromium/issues/detail?id=2935">http://code.google.com/p/chromium/issues/detail?id=2935</a>   it needs to be   implemented on linux too. </pre>

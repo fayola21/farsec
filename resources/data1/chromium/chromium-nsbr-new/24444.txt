@@ -1,0 +1,1 @@
+<title>Issue 24444 -   chromium -    use filepath instead of wstring for paths in diskcache - Project Hosting on Google Code</title> <pre> 1) Start chrome using a filesystem other than utf8:    a) LANG=en_US.ISO8859-1 xterm    b) chrome --user-data-dir=��_��_ber  2) Chrome crashes while creating the disk cache because of file name   encodings. </pre>

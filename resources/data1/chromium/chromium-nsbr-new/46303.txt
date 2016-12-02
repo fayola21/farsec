@@ -1,0 +1,1 @@
+<title>Issue 46303 -   chromium -    Add FR and DE to locales for search engine experiment - Project Hosting on Google Code</title> <pre> Discuss with gwilson to make sure that this is done on the server side as well. </pre>

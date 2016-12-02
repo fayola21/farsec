@@ -1,0 +1,1 @@
+Better logging at startup if Camel uses camel-osgi or not    We should at least once at INFO level log whether OSGi was detected or not.And in the camel-osgi we should have more DEBUG / TRACE logging as well.   

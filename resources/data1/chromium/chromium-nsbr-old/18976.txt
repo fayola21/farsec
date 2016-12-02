@@ -1,0 +1,1 @@
+<title>Issue 18976 -   chromium -    Using a vertical scrollbar on bitmaps causes the scrollbar goes to the right or left - Project Hosting on Google Code</title> <pre> Due to a bug in bitmap_scroll_bar.cc   </pre>

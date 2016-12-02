@@ -1,0 +1,1 @@
+<title>Issue 38960 -   chromium -    Crash in tcmalloc's GetStackTrace - Project Hosting on Google Code</title> <pre> In third_party/tcmalloc/chromium/src/stacktrace_x86-inl.h  we hit: # error   Using stacktrace_x86-inl.h on a non x86 architecture!    Sample reports: http://crash/reportdetail?reportid=81e4702a39097881  http://crash/reportdetail?reportid=81e4702a39097ac9 </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16547 -   chromium -    Closing the last open tab terminates the browser. - Project Hosting on Google Code</title>   1. Close the last (single) open tab.      The browser should still show an open tab with the homepage being   displayed  just as if a new tab was opened.      The browser exits and shuts down.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 775 -   chromium -    problem with rendering - styles ? - Project Hosting on Google Code</title>   1. go to <a href="http://januszkiewicz.blog.pl/">http://januszkiewicz.blog.pl/</a> url            Proper rendering like in IE or FF.         Looks like some issue with styles  content of page moved to the left   instead being centred.    Please provide

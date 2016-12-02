@@ -1,0 +1,1 @@
+<title>Issue 4961 -   chromium -    Space bar no longer scrolls on tip-of-tree - Project Hosting on Google Code</title> <pre>   1. Go to a page that is tall enough such that you get a vertical scroll   bar.  2. Press the space bar.        Should scroll  but don't.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7554 -   chromium -    REGRESSION: History and Downloads tabs are completely black - Project Hosting on Google Code</title> <pre> REGRESSION: History and Downloads tabs are completely black    Noticed on Vista running under Aero with 2.0.162.0 (Developer Build 9465) </pre>

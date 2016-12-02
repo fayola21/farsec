@@ -1,0 +1,1 @@
+<title>Issue 36111 -   chromium -    can`t copy tracking script - Project Hosting on Google Code</title>   1. ctrl + c - nothing happens  2. right click not working        can`t copy tracking code.      nothing happens - thats the problem    <b>Please provide

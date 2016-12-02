@@ -1,0 +1,1 @@
+<title>Issue 22969 -   chromium -    About box and first run dialog graphics' backgrounds should be transparent  not white - Project Hosting on Google Code</title> <pre> The About box and the first-run dialog both display background images of the   logo against a white background.  These should instead be transparent  so   these dialogs can use system colors. </pre>

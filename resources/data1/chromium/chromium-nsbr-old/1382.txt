@@ -1,0 +1,1 @@
+<title>Issue 1382 -   chromium -    Gmail on Chrome : when moving to inbox from middle of unsaved new mail it doesnt alert for warning  - Project Hosting on Google Code</title>   1. Enter to google mail - Gmail.com  2. compose new message  3. click on INBOX again and oooppps   changes gone.                Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40870 -   chromium -    Window.open can not be positioned with negatives coordinates - Project Hosting on Google Code</title> <pre> In multiple screens scenarios window.open() needs to open widows on a  different screen. This requires the ability to handle negatives coordinates. </pre>

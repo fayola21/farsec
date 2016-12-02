@@ -1,0 +1,1 @@
+<title>Issue 38184 -   chromium -    Translation doesn't work - Project Hosting on Google Code</title>   1. The translation doesn't work for many Japanese web sites after upgrade   to v.5.0.342.3. The translation bar also not shown.                    <b>Please provide

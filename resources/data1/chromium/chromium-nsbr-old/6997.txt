@@ -1,0 +1,1 @@
+<title>Issue 6997 -   chromium -    [hu]New windows in profile -&gt; untranslated - Project Hosting on Google Code</title> <pre>   hungarian    2.0.158.0    win xp sp3 (hungarian)    see the screeenshots     </pre>

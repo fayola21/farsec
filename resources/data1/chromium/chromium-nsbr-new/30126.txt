@@ -1,0 +1,1 @@
+<title>Issue 30126 -   chromium -    Dutch: Edit menu title should be &quot;Wijzig&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Edit menu is localized as &quot;Bewerken&quot;. The correct localization on the Mac   is &quot;Wijzig&quot;.     </pre>

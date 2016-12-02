@@ -1,0 +1,1 @@
+<title>Issue 6909 -   chromium -    Add pmock to our depot_tools Python - Project Hosting on Google Code</title> <pre> The buildbot script unittests (and others?) use pmock  but it's not in the Python we have in   depot_tools.  <a href="http://pmock.sourceforge.net/">http://pmock.sourceforge.net/</a>     </pre>

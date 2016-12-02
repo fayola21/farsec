@@ -1,0 +1,1 @@
+<title>Issue 7684 -   chromium -    Find-In-Page and History search fields unselectable - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.162.0      1. Ctrl F OR Ctrl H  2. Enter some text  3. try to select the text using the mouse      text selected      nothing...   </pre>

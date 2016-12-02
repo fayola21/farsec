@@ -1,0 +1,1 @@
+<title>Issue 41250 -   chromium -    Can't search on lifehacker search box - Project Hosting on Google Code</title>   1. Go to <a href="http://lifehacker.com/">http://lifehacker.com/</a>  2. put something on the search box on the top right.  3. hit enter.      search results.      crash.    <b>Please provide

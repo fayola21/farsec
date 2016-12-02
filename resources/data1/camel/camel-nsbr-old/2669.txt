@@ -1,0 +1,1 @@
+XPath - Add type converters from the pesky XPath types to String  InputStream etc.    See nabblehttp://old.nabble.com/XPath-Splitter-Problem-ts28325959.htmlThen its easier for Camel end users as they wont have as many problems with the bad XPath result types for NODESET and whatnot.   

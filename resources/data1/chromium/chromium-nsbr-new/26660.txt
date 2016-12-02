@@ -1,0 +1,1 @@
+<title>Issue 26660 -   chromium -    SetVolume should take one value instead of two. - Project Hosting on Google Code</title> <pre> Just a cleanup thing  but all implementations only use one value  so the  internal IPC calls should be one value as well.   </pre>

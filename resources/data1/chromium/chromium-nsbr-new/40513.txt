@@ -1,0 +1,1 @@
+<title>Issue 40513 -   chromium -    Chromium crashes when trying to pin a tab on a particular URL - Project Hosting on Google Code</title>   1. Open the aforementioned URL.  2. Try to pin it =&gt; crash (seg fault)      * a nice pinned tab      * an ugly crash    <b>Please provide

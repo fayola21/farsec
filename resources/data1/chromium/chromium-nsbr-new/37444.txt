@@ -1,0 +1,1 @@
+<title>Issue 37444 -   chromium -    Chrome crashes when synchronizing Gmail Offline - Project Hosting on Google Code</title>   1.Activate Offline Gmail  2. Go to your Gmail              Chrome is crashed    <b>Please provide

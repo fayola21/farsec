@@ -1,0 +1,1 @@
+Updated Hazelcast to version 1.9.3    Updated Hazelcast to version 1.9.3. This offers some major bugfixes in Hazelcast and new functionality in the camel camponent (e.g. list inserting by index).   

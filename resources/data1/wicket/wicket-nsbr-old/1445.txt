@@ -1,0 +1,1 @@
+StreamCorruptedException/PageStore/Serialization broken because ObjectOutputStream was not flushed    The Objects.objectToByteArray() method incorrectly forgets to flush/close the ObjectOutputStream it uses. This can create corrupt object streams.   

@@ -1,0 +1,1 @@
+<title>Issue 22962 -   chromium -    Bring back the funny warnings in the install UI - Project Hosting on Google Code</title> <pre> Legal said we could remove this now. </pre>

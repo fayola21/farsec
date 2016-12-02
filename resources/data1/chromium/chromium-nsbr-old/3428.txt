@@ -1,0 +1,1 @@
+<title>Issue 3428 -   chromium -    Site's search box not rendering in Chrome (also Safari) - Project Hosting on Google Code</title>   1. Visit www.nei.com  2. View top-right of page      You should see a small search box      No search box visible    Please provide

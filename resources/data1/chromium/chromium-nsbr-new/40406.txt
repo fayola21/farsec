@@ -1,0 +1,1 @@
+<title>Issue 40406 -   chromium -    bookmark bubble doesn't point at star - Project Hosting on Google Code</title> <pre> Chrome Version       : <a href="/p/chromium/source/detail?r=43578">r43578</a>      1. Click star icon in omnibox        Bookmark bubble should point at star        It points too far to the right; see screenshot </pre>

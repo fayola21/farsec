@@ -1,0 +1,1 @@
+<title>Issue 1120 -   chromium -    Not able to View Hotmail  - Project Hosting on Google Code</title>   1. When I try to login to hotmail acount  it display the warning that some   of the features of hotmail will not work with this version of browser. See   attached document for the exact error message                    Please provide

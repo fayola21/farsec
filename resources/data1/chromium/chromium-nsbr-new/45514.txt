@@ -1,0 +1,1 @@
+<title>Issue 45514 -   chromium -    Google Chrome Crash when disconnecting Windows PPPoE - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.408.1             Safari 4:OK     Firefox 3.x:OK            IE 7:OK            IE 8:OK       1.hand up PPPoE connection in Windows  2.disconnect this PPPoE connection        Google Chrome Crash </pre>

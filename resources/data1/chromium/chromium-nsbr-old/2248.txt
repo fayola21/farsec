@@ -1,0 +1,1 @@
+<title>Issue 2248 -   chromium -    Shockwave Flash Issue - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (1798)                  1. When running pages with shockwave flash plugin.          Run normally.      The browser frequently hang.     </pre>

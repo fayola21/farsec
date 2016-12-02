@@ -1,0 +1,1 @@
+<title>Issue 45793 -   chromium -    Crash on long data:text URI - Project Hosting on Google Code</title>   1. go to <a href="http://supergenpass.com/mobile/">http://supergenpass.com/mobile/</a>   2. click the &quot;This page encoded in a Data URI&quot; link          Data URI is handled normally.          Application completely crashes after a few seconds      <b>Please provide

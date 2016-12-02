@@ -1,0 +1,1 @@
+CsvDataFromat delimiter should also be configurable in the XML/Spring DSL    The org.apache.camel.model.dataformat.CsvDataFormat doesn't support any attributes or nested elements in the XML DSL. So  currently it is not possible for the XML/Spring DSL to change the token delimiter as it is possible in the Java DSL.See Nabble   

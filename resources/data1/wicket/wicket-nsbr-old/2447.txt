@@ -1,0 +1,1 @@
+AjaxEditableLabel: newPanel - use Component instead of WebComponent for easier subclassing    With the current implementation  subclasses are artifically limited to simple WebComponents.   

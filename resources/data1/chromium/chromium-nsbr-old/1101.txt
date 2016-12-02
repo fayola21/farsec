@@ -1,0 +1,1 @@
+<title>Issue 1101 -   chromium -    Spanish translations are inaccurate or boring - Project Hosting on Google Code</title>   1. Switch to English language  2. Observe amusing strings  3. Switch to Spanish language  4. Some amusing strings are gone      Translations should be equally amusing      Translations are boring    Please provide

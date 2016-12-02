@@ -1,0 +1,1 @@
+<title>Issue 1516 -   chromium -    chrome crash on vista after closing option window - crash id - 691121a042055cf0 - Project Hosting on Google Code</title> <pre>   1. VMware Image Vista - Added Open this page - www.google.com  2. After closing the Option window - Chrome Crashed  3. Crash Id=691121a042055cf0      It should not crash after closing the options window        </pre>

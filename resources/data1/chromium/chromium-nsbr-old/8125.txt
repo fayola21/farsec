@@ -1,0 +1,1 @@
+<title>Issue 8125 -   chromium -    Handle locales other than en-US properly - Project Hosting on Google Code</title> <pre> ResourceBundle::LoadResources in resource_bundle_linux.cc currently   hardcodes in en-US.pak. </pre>

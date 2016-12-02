@@ -1,0 +1,1 @@
+<title>Issue 80 -   chromium -    Facebook chat issue. - Project Hosting on Google Code</title>   1. Log in to facebook  2. Try turning on off/on the facebook chat (The little person with the   red/green button next to it in the bottom right)        A little window will popup giving you the option to turn it on or off.      Nothing.    Please provide

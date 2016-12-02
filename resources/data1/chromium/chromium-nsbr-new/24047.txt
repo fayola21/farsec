@@ -1,0 +1,1 @@
+<title>Issue 24047 -   chromium -    Multiple download dialog ought to be an infobar - Project Hosting on Google Code</title> <pre> as per mailing list discussion. See DownloadRequestDialogDelegate.    I am assigning to myself but if someone wants to steal it before I get   around to it  be my guest. </pre>

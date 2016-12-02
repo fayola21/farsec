@@ -1,0 +1,1 @@
+<title>Issue 13418 -   chromium -    capital letters with accents doesn't work - Project Hosting on Google Code</title>   1. select Czech or other slavian keyboard  2. press acute or caron  3. press C key      ��_      C    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 43938 -   chromium -    uncolored popup window custom frame - Project Hosting on Google Code</title> <pre> see attachment    it's a popup window with the custom frame enabled on linux ToT. The theme is   the default chrome theme. Should be blue  not white (?) </pre>

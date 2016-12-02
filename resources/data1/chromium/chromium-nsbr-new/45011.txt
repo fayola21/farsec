@@ -1,0 +1,1 @@
+<title>Issue 45011 -   chromium -    Feature Request: javascript blocking exceptions idea - Project Hosting on Google Code</title> <pre> The Javascript blocking is very nice.    But it would be cool if you could automatically import your favorites into   the exceptions.   </pre>

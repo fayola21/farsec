@@ -1,0 +1,1 @@
+<title>Issue 25469 -   chromium -    Dragging tabs versus JavaScript close. - Project Hosting on Google Code</title> <pre>   1. Bring up two Chrome windows.  2. Convince one to display the attached test.html  3. Drag the OTHER tab into the window showing test.html.  4. Drop after the test.html window disappears.        The dropped tab dissappears. </pre>

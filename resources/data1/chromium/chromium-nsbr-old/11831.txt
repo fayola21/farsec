@@ -1,0 +1,1 @@
+<title>Issue 11831 -   chromium -    Mac Chromium ignores system keybindings - Project Hosting on Google Code</title> <pre> Unlike Safari  and like FireFox (boooo!)  Mac Chromium ignores the keybindings set in ~/Library/KeyBindings/DefaultKeyBinding.dict </pre>

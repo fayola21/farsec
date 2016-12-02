@@ -1,0 +1,1 @@
+<title>Issue 25149 -   chromium -    UAC triggers with EVERY Chrome launch - Project Hosting on Google Code</title> <pre> 4.0.222.12 and 3.xxxx versions    UAB triggers every time I start chrome. Win7 Pro final release.  It did not always do this.. just started with 3.nnn version a few days ago    so I tried the beta version and issue still exixts.      </pre>

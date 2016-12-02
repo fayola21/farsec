@@ -1,0 +1,1 @@
+<title>Issue 42693 -   chromium -    Cooliris extension should throw right info msg - Project Hosting on Google Code</title> <pre> OS: Win7 x64    -Installed cooliris extension. When I try to launch it  it says 'cooliris was   unable to launch...'    ghochmuth  pls feel to free to close it  if we don't support it in win7 !! </pre>

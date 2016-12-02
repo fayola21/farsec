@@ -1,0 +1,1 @@
+<title>Issue 23996 -   chromium -    Make touchpad speed sensitivity setting use MaxSpeed - Project Hosting on Google Code</title> <pre> Right now  we are setting MinSpeed. Instead  we should be setting MaxSpeed based on user setting   and keep MinSpeed at 0.2. </pre>

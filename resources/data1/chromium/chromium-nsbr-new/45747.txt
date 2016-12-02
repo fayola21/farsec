@@ -1,0 +1,1 @@
+<title>Issue 45747 -   chromium -    SVG fill-opacity doesn't work on Chrome Linux - Project Hosting on Google Code</title>   1. Open the attached svg file      The second line of text should be partly transparent (appear grey)      It appears fully opaque (black)      <b>Please provide

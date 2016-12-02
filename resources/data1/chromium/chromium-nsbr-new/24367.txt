@@ -1,0 +1,1 @@
+<title>Issue 24367 -   chromium -    Canceling &quot;bookmark all tabs&quot; still creates the folder - Project Hosting on Google Code</title> <pre> &quot;Bookmark all tabs&quot; and then hit Cancel in the resulting dialog.  It creates   your folder anyway :( </pre>

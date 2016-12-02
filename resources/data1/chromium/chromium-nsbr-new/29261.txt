@@ -1,0 +1,1 @@
+<title>Issue 29261 -   chromium -    Mac: title changes on unselected pinned tabs should trigger a glow animation - Project Hosting on Google Code</title> <pre> See also <a title="Mac: interaction of pinned tabs and dragging needs work" class=closed_ref href="/p/chromium/issues/detail?id=28154"> issue 28154 </a>. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37877 -   chromium -    Page/wrench menu items seem to be the wrong size on the Mac - Project Hosting on Google Code</title> <pre> Enable the page and wrench icons and then click on them to drop down their menus.  The menu   items use the wrong size text.  Looks like Lucida Grande 12.  It should be 13.  13 is what drop-  down and pop-up menus use on the Mac. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16008 -   chromium -    Refactor media::Pipeline to support injected message loops - Project Hosting on Google Code</title> <pre> We can eliminate an extra thread and improve our unit test quality if   media::Pipeline supported injected message loops. </pre>

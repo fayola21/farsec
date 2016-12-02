@@ -1,0 +1,1 @@
+Rename config-group dialog should allow only description change also    We wanted to change just the config-group description  but were unable to change without changing the name. The rename config-group dialog should allow changing description only also.   

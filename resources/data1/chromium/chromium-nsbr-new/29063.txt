@@ -1,0 +1,1 @@
+<title>Issue 29063 -   chromium -    Add a shortcut to the Cookies dialog? - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.260.0    It would be very nice for web developers to be able to quickly open the   &quot;Cookies&quot; dialog box...   </pre>

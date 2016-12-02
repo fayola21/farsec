@@ -1,0 +1,1 @@
+<title>Issue 37943 -   chromium -    Random  - Project Hosting on Google Code</title>   1. Go to <a href="http://www.frype.com/">http://www.frype.com/</a>  2. Log in  3. Refresh  4. Repeat step 3      Page finishes loading.      Chrome hangs  main process CPU load to maximum.    <b>Please provide

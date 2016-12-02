@@ -1,0 +1,1 @@
+<title>Issue 43973 -   chromium -    Javascript setDate uncaught illegal access - Project Hosting on Google Code</title>   1. attached script and test file  2. click the year change to go back/forth about 4 years        should should correct calendar      whole screen is highlighted and calendar goes blank    <b>Please provide

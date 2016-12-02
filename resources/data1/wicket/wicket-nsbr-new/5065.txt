@@ -1,0 +1,1 @@
+Improve UrlRenderer to be able to render urls without scheme and/or host    UrlRenderer can be improved to support rendering urls like: //hostname:1234/a/b //hostname/a/b /a/b   

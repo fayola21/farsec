@@ -1,0 +1,1 @@
+<title>Issue 2885 -   chromium -    xmlhttprequest custom bindings are not implemented - Project Hosting on Google Code</title> <pre> There are a bunch of xmlhttprequest bindings that are not implemented like  onerror  onabort  etc.  This is causing a lot of the failures in  LayoutTests/http/tests/xmlhttprequest. </pre>

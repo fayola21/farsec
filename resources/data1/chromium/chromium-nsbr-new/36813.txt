@@ -1,0 +1,1 @@
+<title>Issue 36813 -   chromium -    First time association is failing for prefs - Project Hosting on Google Code</title> <pre> First time association is failing for prefs. Looks like it could be an ID   association bug. Symptoms are NOT_ATTEMPTED on first sync and updates not   causing association. </pre>

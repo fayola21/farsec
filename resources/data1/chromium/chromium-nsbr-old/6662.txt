@@ -1,0 +1,1 @@
+<title>Issue 6662 -   chromium -    video anomoly in scroll bar when resizing window - Project Hosting on Google Code</title>   1. Go to URL provided.  2. Resize window.      Scroll bar goes away and background it tiled properly in scroll area.      A part of the window is replicated inside the scroll area out of sync with   the rest of the site.    Please provide

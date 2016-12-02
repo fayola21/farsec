@@ -1,0 +1,1 @@
+<title>Issue 649 -   chromium -    Building the Chromium browser in Linux does not ends properly - Project Hosting on Google Code</title>   1. Follow the instructions on &quot;Build instructions (Linux)&quot; page      To compile      Ends with an error    Please provide

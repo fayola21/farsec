@@ -1,0 +1,1 @@
+<title>Issue 44691 -   chromium -    Defect when using hotmail - Project Hosting on Google Code</title>   1. Login to Hotmail  2.Try and check multiple lines of email  like trying to delete multiple   messages  3. A few will check  then all of a sudden uncheck everything...                <b>Please provide

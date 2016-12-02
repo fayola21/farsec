@@ -1,0 +1,1 @@
+<title>Issue 37690 -   chromium -    Fix theming for popup windows - Project Hosting on Google Code</title> <pre> Some windows  such as popups  should have window titles. When a window is  themed  the theme painting overpaints the title. </pre>

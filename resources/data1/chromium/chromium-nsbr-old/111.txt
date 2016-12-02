@@ -1,0 +1,1 @@
+<title>Issue 111 -   chromium -    &quot;Create application&quot; closes the tab which hosted the 'app' - Project Hosting on Google Code</title>   1. Click &quot;create application shortcut&quot; and use it  2. Whatever you did pops up as an application        Chrome closes      I'm not sure whether it was intended but having Chrome just exit is quite  annoying.    Please provide

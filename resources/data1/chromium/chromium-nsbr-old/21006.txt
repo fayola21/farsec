@@ -1,0 +1,1 @@
+<title>Issue 21006 -   chromium -    REGRESSION: New FTP: symlinks are not listed - Project Hosting on Google Code</title>   1. Go to <a href="ftp://ftp.linux.ee/pub/">ftp://ftp.linux.ee/pub/</a>  2. Note that symlinks are not listed (compare to <a href="http://ftp.linux.ee/pub/">http://ftp.linux.ee/pub/</a>    or the same FTP URL in Firefox)    <b>Please provide

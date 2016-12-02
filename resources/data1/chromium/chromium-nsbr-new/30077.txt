@@ -1,0 +1,1 @@
+<title>Issue 30077 -   chromium -    about:memory doesn't list extension names - Project Hosting on Google Code</title> <pre> URLs (if applicable) : about:memory      1. open about:memory page      list of opened tabs  including extension names like on shift-esc window      all extensions listed as &quot;Tab&quot; entries     </pre>

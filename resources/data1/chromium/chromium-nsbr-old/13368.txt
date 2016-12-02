@@ -1,0 +1,1 @@
+<title>Issue 13368 -   chromium -    Auto Spell Correct makes cursor jump arbitrarily in text boxes already having text - Project Hosting on Google Code</title> <pre>   1. Click on a reply email in Gmail  2. Type in a mispelled word      The cursor stays to the position typing has been done.  Instead  the curson jumps to an arbitrary position     </pre>

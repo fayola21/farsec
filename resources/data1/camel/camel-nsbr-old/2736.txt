@@ -1,0 +1,1 @@
+SendProcessor - When a route is started it should be able to warmup the Producer    In case you want to have Camel etc. to fail on startup in case a Producer cannot start  for example it needs a remote connection which fails.The producer would normally be created on-the-fly  eg a message needs to be send to it.   

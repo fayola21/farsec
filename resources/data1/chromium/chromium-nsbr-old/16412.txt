@@ -1,0 +1,1 @@
+<title>Issue 16412 -   chromium -    unpainted strip beneath infobar - Project Hosting on Google Code</title> <pre> 1. cause an infobar to appear  2. switch tabs  3. switch back to the infobar'd tab    There will be a strip of grey beneath the bar. </pre>

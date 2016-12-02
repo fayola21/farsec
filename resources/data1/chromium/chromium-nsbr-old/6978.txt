@@ -1,0 +1,1 @@
+<title>Issue 6978 -   chromium -    Google earth plug-in not supported - Project Hosting on Google Code</title>   1. View a page with Google earth embedded             View something....          A warning that say Google (Earth) don't work on Google (Chrome)    Please provide

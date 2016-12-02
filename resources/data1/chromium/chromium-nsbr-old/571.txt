@@ -1,0 +1,1 @@
+<title>Issue 571 -   chromium -    Alt+D works but beeps - Project Hosting on Google Code</title> <pre> Product Version      : first version    Other browsers tested: FF3  IE7         Safari 3: N/A      Firefox 3: OK           IE 7: OK      1. Press Alt+D      * Focus goes to address bar  no beep sound      * Focus goes to address bar  a loud beep noise is heard </pre>

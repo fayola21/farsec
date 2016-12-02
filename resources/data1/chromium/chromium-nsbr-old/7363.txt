@@ -1,0 +1,1 @@
+<title>Issue 7363 -   chromium -    Rendering Error Introduced In Build 6925 - Project Hosting on Google Code</title>   1. Go to <a href="http://blog.neocamera.com">http://blog.neocamera.com</a>        Each post is contained within an box which has an orange titlebar  and two thin grey sides.        The right side of the boxes around each post is missing.    Please provide

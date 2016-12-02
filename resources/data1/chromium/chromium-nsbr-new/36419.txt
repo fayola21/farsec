@@ -1,0 +1,1 @@
+<title>Issue 36419 -   chromium -    google chrome crashed and wouldn't load any sites or links when i restarted the browser it worked fine - Project Hosting on Google Code</title>                       <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4438 -   chromium -    Regression: Launching Chrome from command line results in hidden window - Project Hosting on Google Code</title> <pre>   1. Launch chrome from the command line.        Chrome should appear  but it doesn't. If you alt-tab you can see the Chrome   icon  but selecting it doesn't show the window.         </pre>

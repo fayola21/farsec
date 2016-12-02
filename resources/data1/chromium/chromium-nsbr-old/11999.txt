@@ -1,0 +1,1 @@
+<title>Issue 11999 -   chromium -    libevent/epoll.c allocates far too much - Project Hosting on Google Code</title> <pre> epoll_init function is allocating &gt;150K of arrays. I need to cut this down. </pre>

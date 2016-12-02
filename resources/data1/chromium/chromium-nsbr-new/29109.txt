@@ -1,0 +1,1 @@
+<title>Issue 29109 -   chromium -    Problem with polish characters - Project Hosting on Google Code</title>   1.  Special characters do not work - in Polish we have a few signs  that we use with Alt key  like alt+A    alt+s  alt+e. All of those does not work.      National characters working.      empty place.    <b>Please provide

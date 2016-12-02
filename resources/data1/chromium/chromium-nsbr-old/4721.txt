@@ -1,0 +1,1 @@
+<title>Issue 4721 -   chromium -    Not remember font size for each site - Project Hosting on Google Code</title>   1. Open any URL  2. Increase font size  3. Close Tab  4. Open same URL again        Last font size        Default font size    Please provide

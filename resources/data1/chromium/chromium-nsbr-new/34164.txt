@@ -1,0 +1,1 @@
+<title>Issue 34164 -   chromium -    When in Youtube.com  if you go in full-screen mode with any video  the cursor will not disappear; the user then must hide the cursor somehow to avoid interuption - Project Hosting on Google Code</title>   1. Watching any video in YouTube in full-screen mode                  <b>Please provide

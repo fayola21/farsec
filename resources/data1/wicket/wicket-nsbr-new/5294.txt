@@ -1,0 +1,1 @@
+MarkupCache ignores enforceReload flag    MarkupCache ignores the enforceReload flag in the loadMarkupAndWatchForChanges() method. v6.9.1 lines 498 to 511 should be wrapped in an 'if (!enforceReload){ }'.   

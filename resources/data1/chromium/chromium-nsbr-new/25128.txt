@@ -1,0 +1,1 @@
+<title>Issue 25128 -   chromium -    Touchpadscroll in bookmarks - Project Hosting on Google Code</title>   1.Touchpadscroll in bookmarkfolders          For the bookmarks to scroll      The bookmarkfolder collapses/disappers.     <b>Please provide

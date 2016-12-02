@@ -1,0 +1,1 @@
+<title>Issue 45147 -   chromium -    Update available notification (Mac) - Project Hosting on Google Code</title> <pre> From <a title="Update available notification" class=closed_ref href="/p/chromium/issues/detail?id=27941"> bug 27941 </a>.    I��_��_��_m interested in the backend work here  but not so much in the UI. </pre>

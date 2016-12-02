@@ -1,0 +1,1 @@
+<title>Issue 28683 -   chromium -    Chrome 4 Kiosk mode Stability - Project Hosting on Google Code</title>   1. Start Chrome in Kiosk mode (...chrome.exe --kiosk  2. This issue Happens sometimes not always          The Results are ok! Problem lies in Going back to normal mode :S        EVERYTIME I start chrome it starts in kiosk! I'm stuck :S    <b>Please provide

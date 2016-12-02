@@ -1,0 +1,1 @@
+<title>Issue 23905 -   chromium -    Task Manager fails to kill tabs - Project Hosting on Google Code</title>   1. open up a tab; any tab  2. open up the task manager  3. select the tab and click &quot;end process&quot;      The tab is killed.      It stays active.    <b>Please provide

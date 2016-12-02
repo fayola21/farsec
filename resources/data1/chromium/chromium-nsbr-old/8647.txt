@@ -1,0 +1,1 @@
+<title>Issue 8647 -   chromium -    use ASCII (byte string) rather than wide string for locale names and encoding names - Project Hosting on Google Code</title> <pre>   I made an incomplete patch a while ago without filing a bug  but didn't   upload it anywhere. To prevent duplication of works  I'm filing bug here. </pre>

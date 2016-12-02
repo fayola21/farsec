@@ -1,0 +1,1 @@
+<title>Issue 156 -   chromium -    Synaptics Virtual Scrolling Not Working Correctly - Project Hosting on Google Code</title>   1. trying to scroll up after scrolling down  2. trying to scroll left after scrolling right          window should scroll up (1) or left (2)        nothing    Please provide

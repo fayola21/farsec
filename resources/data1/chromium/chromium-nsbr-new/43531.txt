@@ -1,0 +1,1 @@
+<title>Issue 43531 -   chromium -    Can't hide Tips - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396.0 (Official Build 46416) dev      1. Go to new-tab page  2. Click &quot;Change page layout&quot; dropdown button  3. Click &quot;Tips&quot; button      Tips should be invisible.      Nothing. Also Tips button needs double-click. </pre>

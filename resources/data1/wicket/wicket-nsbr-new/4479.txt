@@ -1,0 +1,1 @@
+�_�_��_��_��__�_��_� ModificationWatcher easier for extending    org.apache.wicket.util.watch.ModificationWatcher is very well encapsulated and if someone wants to extend it then he will have to copy/paste its code in the new class.The purpose of this task is to make ModificationWatcher more friendly for sub-classing.   

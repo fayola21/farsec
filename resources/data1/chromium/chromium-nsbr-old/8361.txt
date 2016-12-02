@@ -1,0 +1,1 @@
+<title>Issue 8361 -   chromium -    Address bar not in focus on new tab - Project Hosting on Google Code</title>   1. Open new tab          Address bar should be in focus      Address bar not in focus    Please provide

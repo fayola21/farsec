@@ -1,0 +1,1 @@
+<title>Issue 15479 -   chromium -    Perform A/B testing of DNS preresolution to study impact on page layout time. - Project Hosting on Google Code</title> <pre> I need to tune the paramaters of the DNS prefetch system.  To do so  I need   plumbing to vary the parameters  and I need to hook this up to our renderer   histograms for page layout times. </pre>

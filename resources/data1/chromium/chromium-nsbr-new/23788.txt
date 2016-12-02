@@ -1,0 +1,1 @@
+<title>Issue 23788 -   chromium -    Textarea scrolling laggy with lots of contents - Project Hosting on Google Code</title> <pre> Have not personally tried to repro this report:    &quot;With larger textarea content [I believe &gt; 100 KB?]  Chrome's up and   downwards scrolling can show minimal lags. Firefox handles this smoothly.&quot; </pre>

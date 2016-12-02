@@ -1,0 +1,1 @@
+<title>Issue 28142 -   chromium -    NaCl runtime does not compile on 64-bit Windows - Project Hosting on Google Code</title> <pre>   1. Launch native_client/build/all.sln  2. Switch &quot;platform&quot; to &quot;x64&quot;  3. Compile      Successful compilation      Compilation fails due to warnings treated as errors    Assigned to ilewis@google.com   </pre>

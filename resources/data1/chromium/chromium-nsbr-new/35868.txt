@@ -1,0 +1,1 @@
+<title>Issue 35868 -   chromium -    Fix OptionalBrowserTests(CHROME) - Project Hosting on Google Code</title> <pre> We have a few tests that start chrome.exe but use the OptionalBrowserTest   function.  This function is meant to start registered (as in  fully   installed) browsers such as IE and Firefox but not the newly built   chrome.exe. </pre>

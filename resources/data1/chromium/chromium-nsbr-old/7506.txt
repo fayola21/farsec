@@ -1,0 +1,1 @@
+<title>Issue 7506 -   chromium -    Custom font with  CSS font-family - Project Hosting on Google Code</title>   .newsTitle {  	color: #fff;  	font-family:MicrogrammaDBolExt;  	font-size:small;  	text-transform: uppercase;  }    this css class that use custom font.      I expect that it works      The text don't appears  nor with one default font.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9117 -   chromium -    Focus Manager needs to not depend directly on HWNDs - Project Hosting on Google Code</title> <pre> Focus Manager right now has some dependencies on HWNDs. This should be   separated out into Windows specific code leaving the Focus Manager usable in   other environments. </pre>

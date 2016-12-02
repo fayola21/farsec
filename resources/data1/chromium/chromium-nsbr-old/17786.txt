@@ -1,0 +1,1 @@
+<title>Issue 17786 -   chromium -    Ignoring htaccess authentication rules  prompting for username and password whne not required - Project Hosting on Google Code</title>   1.browse to allowed folder and you'll be prompted for login  2.htaccess attached                  <b>Please provide

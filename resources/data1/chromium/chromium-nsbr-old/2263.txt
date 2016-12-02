@@ -1,0 +1,1 @@
+<title>Issue 2263 -   chromium -    Sans Serif text italicised - Project Hosting on Google Code</title>   1. Viewing sans serif text          Non italic sans serif text      All sans serif text is shown as italic    Please provide

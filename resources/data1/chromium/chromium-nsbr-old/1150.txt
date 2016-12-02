@@ -1,0 +1,1 @@
+<title>Issue 1150 -   chromium -    WWW-Authenticate: OAuth gives basic authentication dialog - Project Hosting on Google Code</title>   1. Store PHP file on server  2. Request PHP file in chrome web browser      A notify box with &quot;401 123&quot;      A dialog requesting username/password for the site    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 31040 -   chromium -    Google Chrome Browser Crash - Project Hosting on Google Code</title> <pre> Stable build 3.0.195.38  Was browsing with 3 tabs open and...Crash :(  Crash dump attached. </pre>

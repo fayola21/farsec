@@ -1,0 +1,1 @@
+<title>Issue 26611 -   chromium -    Extra window focus/blur when clicking in iframe - Project Hosting on Google Code</title>   1. Click on the outer page  2. Click on the www.google.com iframe          No toplevel focus/blur events fired.        The window gets a blur and focus event fired back-to-back.  <b>Please provide

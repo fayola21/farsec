@@ -1,0 +1,1 @@
+<title>Issue 1764 -   chromium -    About: box truncation when update available - Project Hosting on Google Code</title> <pre> When an update is available  the bottom of the about chrome dialog is   truncated (in English). Screenshot attached. </pre>

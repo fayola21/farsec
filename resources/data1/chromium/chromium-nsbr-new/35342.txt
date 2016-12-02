@@ -1,0 +1,1 @@
+<title>Issue 35342 -   chromium -    combine_libs.py doesn't work under Cygwin - Project Hosting on Google Code</title> <pre> Try building Chrome Frame under cygwin.  You get &quot;combine_libs.py: error:   this script only works on Windows for now&quot;.    Then a whole bunch of other dependent projects fail. </pre>

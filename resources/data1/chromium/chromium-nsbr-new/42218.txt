@@ -1,0 +1,1 @@
+<title>Issue 42218 -   chromium -    Plugin install prompts do not show up on Win7 SP1 - Project Hosting on Google Code</title> <pre> Precondition: No Adobe Reader plugin    Navigate to go/pdftest.html    Issue: Plugin install prompts are not seen    This is happening with Chrome 4.1.249.1060 on Win7 SP1 </pre>

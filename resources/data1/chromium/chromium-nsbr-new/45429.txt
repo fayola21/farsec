@@ -1,0 +1,1 @@
+<title>Issue 45429 -   chromium -    Chrome crashes when internet connection is lost - Project Hosting on Google Code</title>   1. Use Chrome  2. Wait until internet connection is lost (I'm using USB Wi-fi  so this   happens quite often)        Chrome should stay open.      Chrome crashes.    <b>Please provide

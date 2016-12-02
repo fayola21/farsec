@@ -1,0 +1,1 @@
+<title>Issue 44860 -   chromium -    8 chrome instances for 1 tab on 1 window. - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.55  XP pro sp3    chrome not closing used instances on memory. watch proccess while this is the   only one window and tab (also detected much more gnail accumulation on   memory  like 1gb for large sessions:   </pre>

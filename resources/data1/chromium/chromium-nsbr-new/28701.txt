@@ -1,0 +1,1 @@
+<title>Issue 28701 -   chromium -    Time left to download file not visible in download bar - Project Hosting on Google Code</title> <pre>   Polish    4.0.249.11    Windows - all versions  probably other systems too.    Download bar. Time left to download file is not visible.     </pre>

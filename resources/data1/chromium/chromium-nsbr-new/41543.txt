@@ -1,0 +1,1 @@
+<title>Issue 41543 -   chromium -    Linux printing should respect settings - Project Hosting on Google Code</title> <pre> similar to <a title="Printer Setup missing"  href="/p/chromium/issues/detail?id=947">bug 947</a> for windows. </pre>

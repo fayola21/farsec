@@ -1,0 +1,1 @@
+<title>Issue 12847 -   chromium -    Back/forward menu no longer have favicons - Project Hosting on Google Code</title> <pre>   1. Navigate to a handful of sites  2. Press and hold the back button until the menu comes up. Notice the   favicons are missing.     </pre>

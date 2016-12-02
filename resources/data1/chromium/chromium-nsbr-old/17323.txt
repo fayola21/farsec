@@ -1,0 +1,1 @@
+<title>Issue 17323 -   chromium -    omnibox for chromium should not try to open mp4 files.... just ogg. - Project Hosting on Google Code</title> <pre> chrome should open mp4  but chromium should not.  ideally the dll's would be detected and adapt on the fly to the capabilities   of the plugin.  But for now  an ifdef would suffice. </pre>

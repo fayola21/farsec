@@ -1,0 +1,1 @@
+Improve length caching in TemporaryClob    TemporaryClob doesn't save the known length of the Clob in all situations.The following places in the code should be improved (some easier than others): a) TemporaryClob(String ConChild) b) copyClobContent(InternalClob long) (non-static) c) copyClobContent(InternalClob) (non-static)There might be additional places to fix too.   

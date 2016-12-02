@@ -1,0 +1,1 @@
+<title>Issue 6971 -   chromium -    Tab resize too small when open link - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.158.0      1. When open a new tab from a link the tabs get too small.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21233 -   chromium -    Webpage displays wrong sized  after closing tab - Project Hosting on Google Code</title>   1. Open webpage  2. open another page in a new tab   3. close the last tab      normal display of the webpage in the first tab      sometimes  the webpage is displayed in a wrong size (screenshot)    <b>Please provide

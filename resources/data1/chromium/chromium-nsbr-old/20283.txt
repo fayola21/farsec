@@ -1,0 +1,1 @@
+<title>Issue 20283 -   chromium -    OSX Omnibox popup needs a drop shadow. - Project Hosting on Google Code</title> <pre> beng mentions that the Omnibox needs a drop shadow.  Suggests looking at the   bookmark bubble's drop shadow  and/or talking to Cole  because it's not   quite the regular window drop shadow. </pre>

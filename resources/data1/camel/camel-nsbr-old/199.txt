@@ -1,0 +1,1 @@
+New converter : Node -> Source    Currently  there is no converter from Node -&gt; Source.It is required when using Camel's splitter() functionality inside ServiceMix:from('jbi:service:urn:eu:java:smx:fleetintegrator:camel') .splitter(xpath('/traces/trace')) .to('jbi:endpoint:urn:eu:java:smx:fleetintegrator:jms:mq');   

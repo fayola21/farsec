@@ -1,0 +1,1 @@
+<title>Issue 4292 -   chromium -    Bookmark Manager can't export individual folders. - Project Hosting on Google Code</title> <pre> Feature request: enable selection of 1 or more Bookmark folders for export.    IE can select individual folders for export. </pre>

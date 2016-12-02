@@ -1,0 +1,1 @@
+<title>Issue 30148 -   chromium -    Dutch: Manage button title should be &quot;Beheer&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Manage button title in the preferences tab Basisinstellingen is   localized as &quot;Beheren&quot;.  The correct localization on the Mac is &quot;Beheer&quot;. </pre>

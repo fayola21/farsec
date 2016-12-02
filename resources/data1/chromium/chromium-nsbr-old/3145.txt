@@ -1,0 +1,1 @@
+<title>Issue 3145 -   chromium -    Open New Window through flash doesn't work - Project Hosting on Google Code</title>   1. Goto wwe.com  2. Let its picture headlines (in Flash) open  3. Even news has a link (in red/ see screenshot)  4. Right click it  5. Click Open In New Window  6. Nothing Happens      New Window/ Tab should open      Nothing    Please provide

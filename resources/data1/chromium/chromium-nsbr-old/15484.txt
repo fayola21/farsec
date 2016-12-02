@@ -1,0 +1,1 @@
+<title>Issue 15484 -   chromium -    'kill a worker' algorithm from worker spec should be implemented - Project Hosting on Google Code</title> <pre> This has to be fixed on WebKit side:  <a href="https://bugs.webkit.org/show_bug.cgi?id=22727">https://bugs.webkit.org/show_bug.cgi?id=22727</a> </pre>

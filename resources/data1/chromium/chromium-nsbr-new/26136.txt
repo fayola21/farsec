@@ -1,0 +1,1 @@
+<title>Issue 26136 -   chromium -    CRASH back/forward history versus JavaScript close - Project Hosting on Google Code</title> <pre>   1. Browse to www.google.com.  2. Browse to attached test.html.  3. w/in 5 seconds  click and hold on the back button.  4. After close  select something.        Crash.    Can also repro using forward button  just takes more work. </pre>

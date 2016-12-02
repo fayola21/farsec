@@ -1,0 +1,1 @@
+<title>Issue 15492 -   chromium -    On Aero Glass  when theme is installed  top half of url is cut off when window is maximized - Project Hosting on Google Code</title> <pre>   1. open chromium  2. install theme  3. maximize window    What is the expected output?   url text should  be visible in omnibox    What do you see instead?  the top half of url is cut off       </pre>

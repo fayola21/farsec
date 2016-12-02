@@ -1,0 +1,1 @@
+<title>Issue 45551 -   chromium -    Add &quot;HasBookmarks()&quot; method to BookmarkModel - Project Hosting on Google Code</title> <pre> The importer currently goes through the entire GetBookmarks loading process    when it only needs to see whether any bookmarks exist or not.  Fix by adding   a &quot;HasBookmarks()&quot; method that we can call instead.   </pre>

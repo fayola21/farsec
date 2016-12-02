@@ -1,0 +1,1 @@
+<title>Issue 34372 -   chromium -    Create wizard for OOBE/login - Project Hosting on Google Code</title> <pre> Wizard that will be used for OOBE/boo screen.  It will use Chrome login screen as a default step.    Copy of <a href="http://crosbug.com/1426">http://crosbug.com/1426</a> since it requires changes in Chromium  not   Chromium OS. </pre>

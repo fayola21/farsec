@@ -1,0 +1,1 @@
+<title>Issue 13870 -   chromium -    no andan los menu - Project Hosting on Google Code</title> <pre> Chrome Version       :  3.0.187.0   cuando hago click en algun menu por ejemplo acerca de el chrome se reinicia </pre>

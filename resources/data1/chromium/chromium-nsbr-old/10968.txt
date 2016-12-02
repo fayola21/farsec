@@ -1,0 +1,1 @@
+<title>Issue 10968 -   chromium -    Chromium doesn't show revision - Project Hosting on Google Code</title> <pre> I installed the latest Chromium and the build number is gone from about   Chromium and about: </pre>

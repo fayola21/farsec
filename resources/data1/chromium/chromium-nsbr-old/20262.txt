@@ -1,0 +1,1 @@
+<title>Issue 20262 -   chromium -    NTP attribution text not themed - Project Hosting on Google Code</title> <pre> Simple fix. Tracking bug for mstone:3 </pre>

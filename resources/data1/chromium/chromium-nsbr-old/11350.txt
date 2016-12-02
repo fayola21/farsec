@@ -1,0 +1,1 @@
+<title>Issue 11350 -   chromium -    Regression Chromium doesn't use OS button Design - Project Hosting on Google Code</title> <pre> Chromium 2.0.178.0 (<a href="/p/chromium/source/detail?r=15137">r15137</a>) doesn't use vista design of buttons. </pre>

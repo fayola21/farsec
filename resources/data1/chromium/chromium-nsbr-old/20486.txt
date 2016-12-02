@@ -1,0 +1,1 @@
+<title>Issue 20486 -   chromium -    distance too long for chrome to recognize a link dragging event - Project Hosting on Google Code</title>   1.drag a link and see      dragging link should be recognize in the same distance with picture and   text      need to drag longer to active the dragging icon    <b>Please provide

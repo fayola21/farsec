@@ -1,0 +1,1 @@
+Enhance processing of ojdbc.jar before starting ambari server    Enhancements: Read RESOURCE_DIR from the ambari.properties Ask user twice to place drivers to /usr/share/java   

@@ -1,0 +1,1 @@
+<title>Issue 20147 -   chromium -    &quot;Open Link in new tab&quot; opens new tab with empty content - Project Hosting on Google Code</title>   1. Open any web page containing other urls  2. cmd-click to open a random url      A new tab gets opened that loads the requested web page      A new tab is opened  with correct url / title / favicon and an empty page.    Please provide

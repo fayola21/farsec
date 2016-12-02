@@ -1,0 +1,1 @@
+<title>Issue 5098 -   chromium -    Opening text files in Chrome wraps text rather than scrolling horizontally - Project Hosting on Google Code</title>   1. Open attached text file in Chrome  or any text file with a long line      Chrome should show it as one line with a horizontal scroll bar.      Chrome wraps the text.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38945 -   chromium -    Mac accelerated plugin textures given to EnqueueTextureForDeletion are never deleted - Project Hosting on Google Code</title> <pre> EnqueueTextureForDeletion collects textures to delete  but nothing ever actually deletes them. </pre>

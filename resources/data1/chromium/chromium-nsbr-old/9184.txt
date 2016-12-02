@@ -1,0 +1,1 @@
+<title>Issue 9184 -   chromium -    Close/Maximize/Minimize buttons misplaced on Windows running Aero - Project Hosting on Google Code</title>   1. Open Chromium  2. View misplaced control buttons    <b>Please provide

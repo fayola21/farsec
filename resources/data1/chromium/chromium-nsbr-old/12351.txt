@@ -1,0 +1,1 @@
+<title>Issue 12351 -   chromium -    Password management -- enable kwallet code - Project Hosting on Google Code</title> <pre> We got a great patch for password management  but it pulls in dependencies on   gnome-password and dbus.  Is that acceptable?  I've disabled the code for   now; we should re-enable it or remove it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37573 -   chromium -    Support installing extensions at first run - Project Hosting on Google Code</title> <pre> So that bundle partners can bundle extensions as well.    &lt;is there a bug for this already?&gt;     </pre>

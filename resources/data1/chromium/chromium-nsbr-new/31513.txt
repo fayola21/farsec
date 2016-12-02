@@ -1,0 +1,1 @@
+<title>Issue 31513 -   chromium -    console.trace just prints &quot;[object Object]&quot; to console - Project Hosting on Google Code</title>   1. Use console.trace in a webpage        A tree which displays the trace at that point.        The text &quot;[object Object]&quot; is printed to the console.    <b>Please provide

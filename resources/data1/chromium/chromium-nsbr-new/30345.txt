@@ -1,0 +1,1 @@
+<title>Issue 30345 -   chromium -    Re-enable the X509CertificateTest.UnoSoftCertParsing unit test in net_unittests - Project Hosting on Google Code</title> <pre> I disabled the X509CertificateTest.UnoSoftCertParsing unit test  in net_unittests on 2009-12-04 because the test certificate  expired.  We should get a new test certificate and re-enable the  test. </pre>

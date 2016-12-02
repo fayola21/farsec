@@ -1,0 +1,1 @@
+<title>Issue 12878 -   chromium -    Interfase fonts error - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.182.2    All fonts in interfase are extremely small. Changing fonts takes no effect.   They don't changing at all. Also  there aren't some texts.  It comes with last 3.0.182.2 version...    Screenshot related. </pre>

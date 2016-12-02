@@ -1,0 +1,1 @@
+<title>Issue 19254 -   chromium -    Javascript localeCompare is not locale-dependent - Project Hosting on Google Code</title>   1. Compare strings &quot;honza&quot; and &quot;��_enda&quot; (test script can be seen in the   link.      The string ��_enda should go BEFORE honza as it does in other browsers.      String ��_enda goes AFTER honza      <b>Please provide

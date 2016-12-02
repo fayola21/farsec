@@ -1,0 +1,1 @@
+<title>Issue 2046 -   chromium -    MSExcel problem with xls files downloaded and opened by Chromium - Project Hosting on Google Code</title>   1. download a xls file  2. open this xls file from Chromium        the MSExcel works fine      the MSExcel works slow when I do some actions  like show ocult columns or   save the file.     Please provide

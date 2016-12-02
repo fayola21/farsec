@@ -1,0 +1,1 @@
+<title>Issue 37937 -   chromium -    Mac: NTP bookmark bar menus broken in fullscreen mode - Project Hosting on Google Code</title> <pre> D'oh. The floating bar shouldn't be locked open in that case. </pre>

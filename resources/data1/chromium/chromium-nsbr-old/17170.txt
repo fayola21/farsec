@@ -1,0 +1,1 @@
+<title>Issue 17170 -   chromium -    LayoutTests/fast/dom/prototype-inheritance.html fails - Project Hosting on Google Code</title> <pre> LayoutTests/fast/dom/prototype-inheritance.html    is a new layout test added in    <a href="http://trac.webkit.org/changeset/46068">http://trac.webkit.org/changeset/46068</a>    It fails in chromium. </pre>

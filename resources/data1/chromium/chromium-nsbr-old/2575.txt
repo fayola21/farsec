@@ -1,0 +1,1 @@
+<title>Issue 2575 -   chromium -    WoW Web Stats Site Renders incorrectly - Project Hosting on Google Code</title>   1. Visit the site      Able to read the stats for the fight      The rendering of the tables is horribly wrong  and makes it impossible to   read the stats.    Please provide

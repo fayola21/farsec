@@ -1,0 +1,1 @@
+<title>Issue 9929 -   chromium -    Linux: cursors not using system theme (on forge build) - Project Hosting on Google Code</title> <pre> Some time recently our cursors stopped using the system theme. The correct  cursors are still displayed  they just aren't themed (I believe they are  using the default X theme). Lei has volunteered to do regression testing. </pre>

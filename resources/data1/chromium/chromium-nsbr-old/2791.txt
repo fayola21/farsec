@@ -1,0 +1,1 @@
+<title>Issue 2791 -   chromium -    semitransparent .png files is not shown correctly - Project Hosting on Google Code</title>   1. create an account on startforce.com  2. change to &quot;evolution&quot; theme    Expected result:  the &quot;window&quot; frame should look ok        The window frames shadow is white      Please provide

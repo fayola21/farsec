@@ -1,0 +1,1 @@
+Incorrect restart required tooltip view    When components and hosts required to restart we show refresh icon near the service name. On icon hover event we show tooltip with count of components and hosts.   

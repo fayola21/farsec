@@ -1,0 +1,1 @@
+<title>Issue 8780 -   chromium -    Royal Bank of Scotland doesn't support Chrome - Project Hosting on Google Code</title>   1. Try to use Chrome to login to RBS website            Should be able to use Chrome as browser  but not supported        See attached screenshots  two for Chrome and one from Firefox for comparison.  <b>Please provide

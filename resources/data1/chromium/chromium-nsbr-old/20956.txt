@@ -1,0 +1,1 @@
+<title>Issue 20956 -   chromium -    Remove blur from theme install - Project Hosting on Google Code</title> <pre> Blurring of tab background images is slowing down theme install with no   visible advantages.  Remove this step.   </pre>

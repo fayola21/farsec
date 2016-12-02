@@ -1,0 +1,1 @@
+<title>Issue 4092 -   chromium -    Support Icons for multiple files - Project Hosting on Google Code</title> <pre> WebKit added a new method  WebCore::Icon::createIconForFiles. The default   implementation uses some Windows specific calls.    Currently I added a placeholder there  and returns the icon for the first   file. </pre>

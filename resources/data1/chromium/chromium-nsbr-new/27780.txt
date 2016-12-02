@@ -1,0 +1,1 @@
+<title>Issue 27780 -   chromium -    cant log into logmein.com in IE 8 with ChromeFrame - Project Hosting on Google Code</title>   1. load cf:<a href="http://www.logmein.com">http://www.logmein.com</a>  2. insert username/password  3. click login      logs in      nothing. browser hangs    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40180 -   chromium -    Media time bar disappears on mouse over - Project Hosting on Google Code</title> <pre>   1. Go to this page: <a href="http://commons.wikimedia.org/wiki/File:Montreal2.ogg">http://commons.wikimedia.org/wiki/File:Montreal2.ogg</a>  2. Click on play and then pause  3. Hover the timebase and volume control    The controls turn on and off   </pre>

@@ -1,0 +1,1 @@
+Using Borders with Markup Inheritance causes component resolution failures    If a Border is used by the BasePage in a markup inheritance implementation  Wicket is unable to resolve any of the components in the child page.I will attach a simple testcase for this.   

@@ -1,0 +1,1 @@
+<title>Issue 29640 -   chromium -    Gfx gliches when using mouse wheel. - Project Hosting on Google Code</title>   1. On Ubuntu 9.10 /w chromium using the mouse wheel causes graphical   gliches - notably when scrolling up            Scrolling up and down      Black graphical gliches appear on the page (see below)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6998 -   chromium -    Italics text gets cutoff. - Project Hosting on Google Code</title>   1. Open a page with italic text  2. Highlight the italic text      The full letters should be visible.      The letters on the right of the selection will be cut off at the top 1/4 if   they are lower-case and the top half if they are upper-case    Please provide

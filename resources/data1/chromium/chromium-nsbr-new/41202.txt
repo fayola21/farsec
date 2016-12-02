@@ -1,0 +1,1 @@
+<title>Issue 41202 -   chromium -    Add an incremental coverage bot to the waterfall  eventually fail on builds &lt; 50% IC - Project Hosting on Google Code</title> <pre> TC Level 2 criterion:    Incremental coverage by all tests &gt;= 50%.    We can track this with a bot or new tests on the waterfall and fail if a   certain build falls below the 50% threshold. </pre>

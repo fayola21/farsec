@@ -1,0 +1,1 @@
+Alerts block shows spinner if Nagios not installed    When Nagios not installed Alerts block should show message that it's not installed instead of spinner.   

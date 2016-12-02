@@ -1,0 +1,1 @@
+<title>Issue 19313 -   chromium -    Google Voice -&gt; sad tab - Project Hosting on Google Code</title> <pre>   1. Navigate to <a href="http://www.google.com/voice">http://www.google.com/voice</a>  2. Login  3. Sad tab      Expect to see the Google Voice page.    Apparently this was introduced recently because it started appearing with   3.0.198.1. </pre>

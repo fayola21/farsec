@@ -1,0 +1,1 @@
+<title>Issue 1369 -   chromium -    Installer should detect if the chrome is already installed - Project Hosting on Google Code</title>   1. Ensure chrome is already installed  2. Try installing again.          An message saying Chrome is already installed.        Throws message syaing &quot;Installer encountered error r&quot;     Please provide

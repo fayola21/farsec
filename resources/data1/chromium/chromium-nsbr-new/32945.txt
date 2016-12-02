@@ -1,0 +1,1 @@
+<title>Issue 32945 -   chromium -    ftp://ftp.netbsd.org/ doesn't work in 4.0.302.2 - Project Hosting on Google Code</title> <pre> Someone mentioned this on the comments to the release notes on   <a href="http://googlechromereleases.blogspot.com/">http://googlechromereleases.blogspot.com/</a>    Confirmed here on Linux. ftp site works fine in ncftp. </pre>

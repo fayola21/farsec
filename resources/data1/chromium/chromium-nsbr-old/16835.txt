@@ -1,0 +1,1 @@
+<title>Issue 16835 -   chromium -    NNTP: Merge recent activities - Project Hosting on Google Code</title> <pre> As discussed in the meeting on Monday we'll try to merge the recent   activities into one list with different items interleaved. </pre>

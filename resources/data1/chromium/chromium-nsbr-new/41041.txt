@@ -1,0 +1,1 @@
+<title>Issue 41041 -   chromium -    add a separator between star button and page actions - Project Hosting on Google Code</title> <pre> should be a simple vertical separator  very thin and short  just to make   clear that the star button is not a page action </pre>

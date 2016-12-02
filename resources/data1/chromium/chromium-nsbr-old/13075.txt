@@ -1,0 +1,1 @@
+<title>Issue 13075 -   chromium -    Chromium: Crash @ DWMAPI.dll missing. - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=17313">r17313</a>)    -Click on 'Reset to default theme' button under Options/User data tab.  The browser window crashes saying that 'dwmapi.dll is missing...'    Screenshot attached.   </pre>

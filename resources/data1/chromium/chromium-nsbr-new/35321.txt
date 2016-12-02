@@ -1,0 +1,1 @@
+<title>Issue 35321 -   chromium -    Implement ability to renew auth token - Project Hosting on Google Code</title> <pre> Auth tokens expire from time to time  and we want to be able to renew our   auth token. Implement the ability to do this on the client without needing to   re enter passwords. </pre>

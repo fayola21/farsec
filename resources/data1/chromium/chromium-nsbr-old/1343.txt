@@ -1,0 +1,1 @@
+<title>Issue 1343 -   chromium -    Huge CPU Load on some javascript - Project Hosting on Google Code</title>   1. Visiting a website       What is the expected result? Not to cause a huge cpu Load        Visiting a website with javascript to load an image will cause a huge load  on the PC more than 50%      Please provide

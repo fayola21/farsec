@@ -1,0 +1,1 @@
+<title>Issue 25416 -   chromium -    Pdf file opening is taking longer time !! - Project Hosting on Google Code</title> <pre> Build: 4.0.223.5    While opening a sample PDF document (just 1 page long) is taking more than  3 to 4 mins. I've been experiencing this issue for last few days.  </pre>

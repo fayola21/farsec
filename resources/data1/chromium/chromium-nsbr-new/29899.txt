@@ -1,0 +1,1 @@
+<title>Issue 29899 -   chromium -    Add mime type to SyncNode interface - Project Hosting on Google Code</title> <pre> Plumb the new mime type property from the proto buffer into the SyncNode and   expose it via a getter.  Also allow browser code to create new SyncNodes   with a specified mime type.   </pre>

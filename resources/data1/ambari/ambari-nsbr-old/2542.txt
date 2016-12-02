@@ -1,0 +1,1 @@
+Custom Repo URL cannot be set when non-root    The first iteration for creating custom repo URL persisted the new URL to disk. This poses a problem when running Ambari as non-root because the file system is owned by root. Change the implementation to save the override in the metainfo table.   

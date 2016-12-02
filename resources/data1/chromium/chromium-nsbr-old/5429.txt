@@ -1,0 +1,1 @@
+<title>Issue 5429 -   chromium -    Can't copy text in Google calendar agenda view with chrome 0.4.154.31 - Project Hosting on Google Code</title>   1. open agenda view in google calendar  2. can't select text to copy                  Please provide

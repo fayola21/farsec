@@ -1,0 +1,1 @@
+<title>Issue 32626 -   chromium -    Extension uninstall bubble has &quot;install&quot; and &quot;cancel&quot; option buttons. - Project Hosting on Google Code</title> <pre> Bubble option one should be &quot;uninstall&quot;.   </pre>

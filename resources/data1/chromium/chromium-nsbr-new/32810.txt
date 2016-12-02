@@ -1,0 +1,1 @@
+<title>Issue 32810 -   chromium -    Regression: Ctrl+Plus and Ctrl+Minus don't work - Project Hosting on Google Code</title>   1. Try Ctrl+Plus (on the numpad).  2. Try Ctrl+Minus (on the numpad).      Zoom      Nothing    <b>Please provide

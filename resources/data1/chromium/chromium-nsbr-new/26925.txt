@@ -1,0 +1,1 @@
+<title>Issue 26925 -   chromium -    Ubuntu / Chromium 4.0 - restoring full screen flash does not show video in embedded element - Project Hosting on Google Code</title>   1. Start the video  2. Full screen it  3. Restore  by pressing escape        Video should continue to display within embedded element        Sound continues. Video doesn't display.     <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30179 -   chromium -    can't install 4.0.268.0-r34222 on Open SuSe because of missing bzip2-libs dependency - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.268.0 (Official 34222)  OS + version : Open SuSe              Error installing this version because of missing dependency - bzip2-libs. </pre>

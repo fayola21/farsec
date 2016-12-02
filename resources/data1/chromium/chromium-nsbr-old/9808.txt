@@ -1,0 +1,1 @@
+<title>Issue 9808 -   chromium -    Use gold on the linux build slave - Project Hosting on Google Code</title> <pre> I heard it helps speed up linking a lot. Anything that can help linux slave   build speed will be appreciated. Don't know about possibility to use it the   macs. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34198 -   chromium -    Chrome Not Recognizing Javascript Context Menu Activation on Right Click - Project Hosting on Google Code</title>   1. Right Click on Avatar (javascript makes context menu open but wont with  Chrome)                  <b>Please provide

@@ -1,0 +1,1 @@
+JavaScriptStripper fails with single line comments    The valid inputx++ //x++gets transformed tox++ x++which is syntactically invalid. This breaks the unminified version of bootstrap 2.1.1.The problem doesn't occur with multiline comments because the linebreaks are preserved there.   

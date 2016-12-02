@@ -1,0 +1,1 @@
+<title>Issue 21030 -   chromium -    Add blurring back to theme - Project Hosting on Google Code</title> <pre> Blurring was removed from theming to speed theme install.  When theme install   caching is placed on a backend thread  put blurring back in.   </pre>

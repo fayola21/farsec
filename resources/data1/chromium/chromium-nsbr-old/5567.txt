@@ -1,0 +1,1 @@
+<title>Issue 5567 -   chromium -    Sort bookmarks - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.36             Safari 3: OK      Firefox 3: OK           IE 7: OK        it is not possible to sort bookmarks alphabetically  only with drag and   drop. </pre>

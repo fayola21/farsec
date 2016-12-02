@@ -1,0 +1,1 @@
+<title>Issue 37306 -   chromium -    Garmin downloads not possible using Chrome - Project Hosting on Google Code</title>   1. any download on Garmin       What is the expected result? successful download      What happens instead? Garmin downloads are not enabled on Chrome      <b>Please provide

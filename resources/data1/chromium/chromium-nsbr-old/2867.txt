@@ -1,0 +1,1 @@
+<title>Issue 2867 -   chromium -    does not copy and paste - Project Hosting on Google Code</title>   1. copy url and try to paste in a email   2. copy txt in a word .doc and paste anywhere in chrome   3. crashes with PDF copy and paste                Please provide

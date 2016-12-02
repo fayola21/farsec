@@ -1,0 +1,1 @@
+<title>Issue 36898 -   chromium -    No properties/nicknames/shortcuts for bookmarks - Project Hosting on Google Code</title>   1. Open Bookmark Manager  2. Select Bookmark  3. Right Click  properties (doesn't exist)      Ability to assign a shortcut name/nickname      Nothing    <b>Please provide

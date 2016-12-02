@@ -1,0 +1,1 @@
+<title>Issue 41302 -   chromium -    WebGL pixel stretching issue - Project Hosting on Google Code</title>   1. Visit any site using WebGL      To have the images render without pixel stretching      See picture    <b>Please provide

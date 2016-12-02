@@ -1,0 +1,1 @@
+<title>Issue 44932 -   chromium -    Chrome crash - change network - Project Hosting on Google Code</title>   1. Connected to network A  then i connect to network (wifi) B  instantly   chrome crashes and error message pops up. (restore works)          Nothing      Chrome crashed    <b>Please provide

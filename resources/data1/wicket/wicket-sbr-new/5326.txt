@@ -1,0 +1,1 @@
+Wicket doesn't encrypt links and Ajax URLs for mounted pages when CryptoMapper is used    URL encryption does not work in Wicket links and Ajax URLs.For links the URL appears unencrypted in the href attribute value and is only later forwarded to the encrypted URL using a 302 response.I am uploading a quickstart.   

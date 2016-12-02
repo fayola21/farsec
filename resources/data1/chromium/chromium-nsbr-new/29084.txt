@@ -1,0 +1,1 @@
+<title>Issue 29084 -   chromium -    allow &quot;target='_blank'&quot; in tips html subset - Project Hosting on Google Code</title> <pre>   1. some tips are written to open in a new tab  but because our html subset   doesn't allow for &quot;target='_blank'&quot;  these tips are never shown.   </pre>

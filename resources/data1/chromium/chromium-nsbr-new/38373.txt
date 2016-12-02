@@ -1,0 +1,1 @@
+<title>Issue 38373 -   chromium -    Side by side installer should support differential update - Project Hosting on Google Code</title> <pre> Our differential updater does not support &quot;--chrome-sxs&quot; right now. We need   to fix that and then enable differential update in Google update   configuration. </pre>

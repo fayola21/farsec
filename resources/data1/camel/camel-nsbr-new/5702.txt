@@ -1,0 +1,1 @@
+camel-netty - The ordered thread pool should be shared    Related to CAMEL-5689The ordered memory thread pool from Netty is intended to be shared per application. And not per consumer.   

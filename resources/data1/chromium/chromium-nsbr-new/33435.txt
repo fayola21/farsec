@@ -1,0 +1,1 @@
+<title>Issue 33435 -   chromium -    DevTools: No way to suppress XHR info in console - Project Hosting on Google Code</title>   1. Open console.  2. Wait for web site to do an XHR request.          XHR requests should not show up in log console  or if they do there should   be a way to disable it.          XHR request shows up and cannot be suppressed.    <b>Please provide

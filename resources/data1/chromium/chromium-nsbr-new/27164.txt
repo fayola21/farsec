@@ -1,0 +1,1 @@
+<title>Issue 27164 -   chromium -    plugins open layout tests are failing. - Project Hosting on Google Code</title> <pre> <a href="http://trac.webkit.org/changeset/50607">http://trac.webkit.org/changeset/50607</a> broke both:   LayoutTests/plugins/document-open.html   LayoutTests/plugins/window-open.html </pre>

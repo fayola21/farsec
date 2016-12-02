@@ -1,0 +1,1 @@
+<title>Issue 29433 -   chromium -    Theme issues - Project Hosting on Google Code</title>   1.Clicking on Theme does nothing. Only newest theme works.          I want the theme to change but nothing happens at all.        The browser theme remains the same  regardless of what I do.      <b>Please provide

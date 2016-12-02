@@ -1,0 +1,1 @@
+<title>Issue 39165 -   chromium -    wpad.dat settings not detected in Google Chrome - Project Hosting on Google Code</title>   1. wpad.dat file placed on local web server  2. DHCP option 252 configured on DHCP server  3. Automatically detect settings checked in LAN settings in IE options      Web page should load      Web page does not load  error 102    <b>Please provide

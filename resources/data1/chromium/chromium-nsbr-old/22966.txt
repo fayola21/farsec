@@ -1,0 +1,1 @@
+<title>Issue 22966 -   chromium -    Create application shortcut doesn't work in Fedora 11 - Project Hosting on Google Code</title>   1. Go to some site  2. Click on the page button   3. Choose create application shortcut      Application shortcut is created      Nothing    <b>Please provide

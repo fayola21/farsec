@@ -1,0 +1,1 @@
+Fix start up option for ambari-server where there is a missing space.    Fix start up option for ambari-server where there is a missing space.   

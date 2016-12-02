@@ -1,0 +1,1 @@
+<title>Issue 32178 -   chromium -    Difficult to access extension images in CSS - Project Hosting on Google Code</title>   1. Create an extension that contains an image.  2. Try to use the packaged image in CSS.      Such a thing would be easy.      It is possible to access the image  but only using a fully-qualified   chrome-extension:// URL.    <b>Please provide

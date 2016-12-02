@@ -1,0 +1,1 @@
+<title>Issue 4222 -   chromium -    Alignment issues with Clear Browsing Data dialog. - Project Hosting on Google Code</title> <pre> Build: 154.12 (Official)  OS: XP_Pro_Finnish(FI)      1. Bring up Clear Browsing Data.  2. Notice the alignment issues with the dialog.      See the attached screenshot.    Works fine in V-154.9.   </pre>

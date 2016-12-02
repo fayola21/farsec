@@ -1,0 +1,1 @@
+<title>Issue 39142 -   chromium -    can't see translationbar any more - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.361.0 (Developer Build 42433)  WinXP    i can't see the translationbar  is it turned off  or is it a bug?    i used a complete new profile and visited the google.jp page </pre>

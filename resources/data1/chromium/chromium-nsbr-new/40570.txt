@@ -1,0 +1,1 @@
+<title>Issue 40570 -   chromium -    different fonts in address windows - Project Hosting on Google Code</title>   1.clean the address window  2.type several letters      all the font should be same      First one (sometimes two) letter has different font    <b>Please provide

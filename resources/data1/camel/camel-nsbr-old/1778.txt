@@ -1,0 +1,1 @@
+camel-file - consumer  starting directory should validate that its configured properly eg not containing dynamic expressions etc    You cannot use ${ } in the start path of file/ftp consumers. Use the fileName option for that. We should validate and thrown an exception about this so end users notices this immediately and can fix it.   

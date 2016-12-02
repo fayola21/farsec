@@ -1,0 +1,1 @@
+<title>Issue 22713 -   chromium -    Videos only play for the first 22 seconds - Project Hosting on Google Code</title>   1. Go to youtube  2. Play any video  3. Wait for 23 seconds        The video continues playing      The video freezes up at exactly 22 seconds    <b>Please provide

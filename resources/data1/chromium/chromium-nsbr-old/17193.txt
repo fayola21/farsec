@@ -1,0 +1,1 @@
+<title>Issue 17193 -   chromium -    OSX: Tab title overlaps close button - Project Hosting on Google Code</title> <pre>   1. Navigate to <a href="http://slamxhype.com/art-design/banksy-in-africa/">http://slamxhype.com/art-design/banksy-in-africa/</a>    Note that the &quot;E&quot; at the end of the tab title overlaps the tab close button. </pre>

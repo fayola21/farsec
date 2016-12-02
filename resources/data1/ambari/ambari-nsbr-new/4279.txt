@@ -1,0 +1,1 @@
+Status commands are not executed for new services    For new services (those  that are not hardcoded at LiveStatus.py)  status commands are not executed.   

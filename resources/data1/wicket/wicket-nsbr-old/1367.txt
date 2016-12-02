@@ -1,0 +1,1 @@
+Not all of SignInPanel is properly localized    When logging in without typing a password on the SignInPanel I get the message: veld 'password' is verplicht.instead of veld 'wachtwoord' is verplicht.Furthermore  when logging in fails  I get the message: Sign in failedinstead of 'Inloggen mislukt' or something like that. Maybe there should be properties files included?   

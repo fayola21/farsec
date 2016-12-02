@@ -1,0 +1,1 @@
+<title>Issue 35552 -   chromium -    google chrome consumes excessive cpu in gmail page. - Project Hosting on Google Code</title>   1. Enter gmail account.  2. Go to the task manager of chrome.  3. Take a look to CPU uses of gmail tab.      More less CPU use.      More than 90% CPU use.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 42192 -   chromium -    Replace &quot;http&quot;-globe with site favicon - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.9 dev    Now that http is replaced with a globe icon  why doesn't Chrome use the site's favicon instead of the   globe? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17698 -   chromium -    NNTP - thumbnail border should be instant for both on/off hover - Project Hosting on Google Code</title>   1. mouse over thumbnails        on-hover: instant border  no fade-in  off-hover: no fade-out    border is fading out off-hover; makes the whole thing feel very slow.      <b>Please provide

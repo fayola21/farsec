@@ -1,0 +1,1 @@
+<title>Issue 16262 -   chromium -    Non-bold search suggestions - Project Hosting on Google Code</title>   1. Searching in address bar.          Bold suggested search results.      Search results do not bold.    <b>Please provide

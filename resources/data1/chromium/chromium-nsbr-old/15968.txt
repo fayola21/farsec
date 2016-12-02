@@ -1,0 +1,1 @@
+<title>Issue 15968 -   chromium -    Chrome have a bug in resize Window - Project Hosting on Google Code</title>   1.If you resize the window horizontally Google Chrome the best she bugar  with the close buttons  maximize and minimize.        Very bad.       Happens in Windows Vista and Windows 7 (With Aero enabled)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36468 -   chromium -    Crash Chrome in web jquery with api hide() - Project Hosting on Google Code</title> <pre> In the web <a href="http://api.jquery.com/hide/">http://api.jquery.com/hide/</a> click in example demo 1 It causes a   crash    I'm using the version 5.0.322.2dev </pre>

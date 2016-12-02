@@ -1,0 +1,1 @@
+<title>Issue 2769 -   chromium -    ImageBufferSkia missing image() method - Project Hosting on Google Code</title> <pre> ImageBufferSkia missing image() method    This is causing many of the remaining crashes.  Pretty much anything related to Patterns. </pre>

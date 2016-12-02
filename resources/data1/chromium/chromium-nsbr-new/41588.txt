@@ -1,0 +1,1 @@
+<title>Issue 41588 -   chromium -    Korean mistranslation at download bar's options  - Project Hosting on Google Code</title> <pre>   Korean      5.0.342.9 beta      Windows XP      Download bar &gt; file options list  'Open Folder' is translated as 'ꏕ�_��ӕ�_��_ ꥕�_��_'   which means 'mark in folder'.  Other browsers use the term 'ꏕ�_��� ��_�␕�_��_'.       </pre>

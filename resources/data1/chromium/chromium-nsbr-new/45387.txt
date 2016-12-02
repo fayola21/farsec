@@ -1,0 +1,1 @@
+<title>Issue 45387 -   chromium -    Chrome crashes when resuming after hibernate - Project Hosting on Google Code</title>   1. Open Chrome  2. Hibernate computer  3. Start computer      Everything is same as before hibernating      Chrome Crashes (Google Chrome has stopped working)    <b>Please provide

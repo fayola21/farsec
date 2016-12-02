@@ -1,0 +1,1 @@
+<title>Issue 12873 -   chromium -    After Installation  Google Chrome does not start maximized - Project Hosting on Google Code</title>   1. Install Chrome  2. Double click the icon      The browser should open maximized      Chrome does not open maximized    <b>Please provide

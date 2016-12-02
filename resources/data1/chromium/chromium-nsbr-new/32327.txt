@@ -1,0 +1,1 @@
+<title>Issue 32327 -   chromium -    compact location bar need to have page extension icons. - Project Hosting on Google Code</title> <pre> page/browse extensions are not visible in compact navigation bar mode.  Compact location bar needs to show and host have page/browser extensions. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38419 -   chromium -    Latest build crashes on freeforums.org post editor - Project Hosting on Google Code</title>   1. Go to a freeforums.org forum (in my case tomonokai.freeforums.org)  2. Click either &quot;Post Reply&quot; or use the quick reply form        Getting into the post editor      &quot;Aw  Snap&quot; page appears    <b>Please provide

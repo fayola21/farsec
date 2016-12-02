@@ -1,0 +1,1 @@
+<title>Issue 8498 -   chromium -    Cut off text in About Dialog - Project Hosting on Google Code</title>   1. Open &quot;About Google Chrome&quot; dialog          Te be able to read &quot;Google Chrome Terms of Service&quot;      Text is cut off.    Please provide

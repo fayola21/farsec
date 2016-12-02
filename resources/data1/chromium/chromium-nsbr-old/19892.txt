@@ -1,0 +1,1 @@
+<title>Issue 19892 -   chromium -    Middle-click on page background with URL in Primary clipboard on Linux should load URL - Project Hosting on Google Code</title>   1. Highlight URL (populating the Primary clipboard with                    <b>Please provide

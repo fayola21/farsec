@@ -1,0 +1,1 @@
+<title>Issue 30038 -   chromium -    Handle failed model associations more gracefully - Project Hosting on Google Code</title> <pre> Once we start syncing additional data types  figure out what do to when just   a few of them fail to associate. Should we blow everything away and start   over or should we handle this at the data type level? </pre>

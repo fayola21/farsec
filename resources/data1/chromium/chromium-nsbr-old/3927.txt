@@ -1,0 +1,1 @@
+<title>Issue 3927 -   chromium -    Add size column to the Downloads page - Project Hosting on Google Code</title> <pre> UI Request:    Next to the date  file name  icon and address  the downloads page should   also offer a file size column IMO.    A pretty basic piece of info which the download bar doesn't show either for   some reason... </pre>

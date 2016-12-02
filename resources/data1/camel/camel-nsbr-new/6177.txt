@@ -1,0 +1,1 @@
+Camel-AWS should support any implementation of AmazonXXX (not only AmazonXXXClient)    See http://camel.465427.n5.nabble.com/camel-pull-request-making-change-so-that-we-can-use-camel-aws-integration-td5729038.html   

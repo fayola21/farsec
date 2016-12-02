@@ -1,0 +1,1 @@
+<title>Issue 13652 -   chromium -    style object is null for new created elements - Project Hosting on Google Code</title>   1.var d= document.createElement( &quot;div&quot;)  2.d.style==null is true        d.style contains current(default) style ready to be customized.      d.style is null    <b>Please provide

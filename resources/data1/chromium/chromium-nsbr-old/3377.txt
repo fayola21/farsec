@@ -1,0 +1,1 @@
+<title>Issue 3377 -   chromium -    Chrome 0.3.154.2 signed installers doesn't work on Vista NonAdmin account - Project Hosting on Google Code</title> <pre> Run the installers on vista non-admin   - 154.2_from_154.0_chrome_updater.exe  - 154.2_chrome_installer.exe    Issue: Chrome doesn't get installed </pre>

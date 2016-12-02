@@ -1,0 +1,1 @@
+<title>Issue 11940 -   chromium -    Element Inspector Causes Crash - Project Hosting on Google Code</title>   1. Visit a webpage (any)  2. right click (ctrl-click) and select 'Inspect Element'  3. Watch it crash...      Launch the webkit element inspector either in-window or as a new window.      Browser crashes    Please provide

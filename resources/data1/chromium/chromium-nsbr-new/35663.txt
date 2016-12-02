@@ -1,0 +1,1 @@
+<title>Issue 35663 -   chromium -    Opening many cards from one file by Chromium  - Project Hosting on Google Code</title>   1. Open a file with multiple words name (This is a test.html)          One card opened.      Chromium will open as many cards  as the file words have.      <b>Please provide

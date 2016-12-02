@@ -1,0 +1,1 @@
+<title>Issue 6080 -   chromium -    DirectoryWatcher can hit disk on UI thread - Project Hosting on Google Code</title> <pre> DirectoryWatcher::Impl::Watch() calls FirstFindChangeNotification  which   returns INVALID_HANDLE_VALUE if a directory doesn't exist. Therefore it   must be hitting the disk? </pre>

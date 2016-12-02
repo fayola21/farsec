@@ -1,0 +1,1 @@
+<title>Issue 20415 -   chromium -    Allow Extension Toolstrip to detach - Project Hosting on Google Code</title> <pre> We want to experiment with allowing the Extension Toolstrip at the bottom of   the Chrome window to appear only on the New Tab page  similar to the Bookmark   bar when detached. In progress. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19022 -   chromium -    need to codesign helper/renderer app also - Project Hosting on Google Code</title> <pre> Now that we use a different app bundle for the renders/helpers  we should be   codesigning those also. </pre>

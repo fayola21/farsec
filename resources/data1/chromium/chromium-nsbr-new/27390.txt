@@ -1,0 +1,1 @@
+<title>Issue 27390 -   chromium -    Please focus 'Delete' button on Ctrl+Shift+Del (Clean navegation info) - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.237.0 </pre>

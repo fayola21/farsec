@@ -1,0 +1,1 @@
+<title>Issue 2270 -   chromium -    Hit-test zone for new tab button should follow button shape - Project Hosting on Google Code</title> <pre> You can click on the non-button parts of the new tab button to trigger   creation of a new tab. The clickable and hover-highlightable area should   follow the visible shape of the button. </pre>

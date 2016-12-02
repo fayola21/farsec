@@ -1,0 +1,1 @@
+<title>Issue 42563 -   chromium -    Locking the entire page - Project Hosting on Google Code</title> <pre> When you select any text in the browser and move the hypertext page in the   current tab is locked and can not select anything else and do not move the   scroll bar. Not refreshing the page works. Only if I duplicate the tab. </pre>

@@ -1,0 +1,1 @@
+MR jobs are hanging on a 2-node cluster with default configuration    This is a 2-node cluster with 2GB of RAM each. Cluster deployment goes fine but MR jobs do not complete resulting in service check failures for MR  OOZIE  Pig  etc.   

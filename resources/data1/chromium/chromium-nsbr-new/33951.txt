@@ -1,0 +1,1 @@
+<title>Issue 33951 -   chromium -    Linux: No longer pin tab when updating to 5.0 - Project Hosting on Google Code</title>   1.right click a tab          can see a &quot;Pin tab&quot; on the menu.      can't pin a tab. some tabs which were pinned before are no long pinned   after my linux version was updated to 5.0.    <b>Please provide

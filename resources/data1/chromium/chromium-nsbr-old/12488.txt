@@ -1,0 +1,1 @@
+<title>Issue 12488 -   chromium -    intermittent: right clicking menus needs twice or ridiculously more clicks like open in a new tab - Project Hosting on Google Code</title>   1. right click a link then click open in a new tab          one click will open a new tab      right clicking menus needs twice or ridiculously more clicks like open in a   new tab    <b>Please provide

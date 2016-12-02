@@ -1,0 +1,1 @@
+<title>Issue 29103 -   chromium -    Mac: Developer Tools window shouldn't display a location bar - Project Hosting on Google Code</title> <pre>   1. Navigate to some normal page.  2. Cmd-Opt-I to open the Developer Tools window.  3. Open your eyes.      No location bar should be displayed. I see a location bar (which is selectable    but not editable). </pre>

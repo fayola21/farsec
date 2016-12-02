@@ -1,0 +1,1 @@
+Expose names of top-level test suites for easier scripting    I sometimes run each of the top-level JUnit test suites individually so that they can be run in parallel and complete faster. It would be useful if AllPackages could expose the list of suites to allow scripting of such tasks without needing to change the script when a new suite is added.   

@@ -1,0 +1,1 @@
+<title>Issue 34190 -   chromium -    HTML select tag - Project Hosting on Google Code</title> <pre> Google chrom have problem with HTML tag &lt;select&gt;. CSS tag &quot;background:none&quot;   All browsers sets transperant color  but in Chrome did not work.   My E-mail is ainstein222@abv.bg </pre>

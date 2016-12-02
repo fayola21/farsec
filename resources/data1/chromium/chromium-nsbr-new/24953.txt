@@ -1,0 +1,1 @@
+<title>Issue 24953 -   chromium -    Set ENABLE_SHARED_WORKERS=1 - Project Hosting on Google Code</title> <pre> We need to turn on shared workers for chromium  to help prevent further bit   rot.   </pre>

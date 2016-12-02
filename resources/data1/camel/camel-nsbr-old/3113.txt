@@ -1,0 +1,1 @@
+@QueryParam doesn't work for CxfBeans    Charle report an issue&#91;1&#93;  after tracing the code I found the DefaultCxfBeanBinding doesn't put the http query string into the cxf message.So the @QueryParam will not take effect on the resource beans.&#91;1&#93;http://camel.465427.n5.nabble.com/camel-cxfbean-JAX-Rs-QueryParam-td2827252.html#a2827252   

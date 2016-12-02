@@ -1,0 +1,1 @@
+<title>Issue 27420 -   chromium -    various drop-down menu will appear a white box - Project Hosting on Google Code</title>   1. Go to site as a user    2. there are several drop-down menues that doesn't work  3. Click on the menu and a white box appears and the text is not visible.    I'm using Linux - Ubuntu 9.04                <b>Please provide

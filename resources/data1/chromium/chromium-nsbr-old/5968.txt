@@ -1,0 +1,1 @@
+<title>Issue 5968 -   chromium -    Netflix - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.36  URLs (if applicable) : www.netflix.com           Safari 3: Unknown      Firefox 3: OK           IE 7: OK    Not compatible w/netflix which is too bad since I really like using chrome.   </pre>

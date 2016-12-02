@@ -1,0 +1,1 @@
+<title>Issue 1770 -   chromium -    Ability to give Nicknames to folders containing bookmarks - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (Google Chrome)    Basically  there should be the ability to assign a word to a folder   containing bookmarks that when typed into the address bar  will open all of   the bookmarks inside that folder. </pre>

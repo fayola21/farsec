@@ -1,0 +1,1 @@
+<title>Issue 45270 -   chromium -    Backtrace when dragging lock icon to page - Project Hosting on Google Code</title> <pre> Navigate to paypal.com  then grab the EV bubble and drag it onto the content   area.  When you drop  you get a backtrace.    (I don't have the trace myself because I observed this happening on erg's   machine over his shoulder.) </pre>

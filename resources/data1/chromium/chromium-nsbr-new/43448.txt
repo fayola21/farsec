@@ -1,0 +1,1 @@
+<title>Issue 43448 -   chromium -    Clicking Bookmark Manager results in problem tab - Project Hosting on Google Code</title>   1. Click wrench  2. Click Bookmark Manager        The bookmark manager should open.      A tab appears that flickers rapidly in repeated attempts to load.    <b>Please provide

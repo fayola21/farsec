@@ -1,0 +1,1 @@
+<title>Issue 38959 -   chromium -    Explicit extension API for web content to query whether an extension is installed - Project Hosting on Google Code</title> <pre> The extension gallery would like to be able to query whether a given   extension is installed. This might be useful to sites in the general case. We   should add an explicit API to enable this. </pre>

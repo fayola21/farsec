@@ -1,0 +1,1 @@
+<title>Issue 23834 -   chromium -    browser actions: popup actions shouldn't show up in the wrench menu - Project Hosting on Google Code</title> <pre> It probably doesn't make sense for browser actions that have associated   popups to show up in the wrench menu since there probably isn't a good   logical expected behavior.   </pre>

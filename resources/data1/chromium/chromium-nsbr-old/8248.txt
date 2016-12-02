@@ -1,0 +1,1 @@
+<title>Issue 8248 -   chromium -    Problem with Gmail in Chrome - Project Hosting on Google Code</title>   1. Open Gmail  2. images inside an e-mails doesn��t appear (not attached)                  Please provide

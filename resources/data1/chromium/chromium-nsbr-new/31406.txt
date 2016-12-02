@@ -1,0 +1,1 @@
+<title>Issue 31406 -   chromium -    window auto resizing - linux -fedora 12 - KDE - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.277.0      1. Maximize chromium window  2. Open any website containig any link  3. Rightclick on the link       New tab open  but main chromium window untouched      New tab opened  chromium window size changed  .   </pre>

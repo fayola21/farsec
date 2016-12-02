@@ -1,0 +1,1 @@
+<title>Issue 27605 -   chromium -    inspect element -&gt; storage should be editable - Project Hosting on Google Code</title>   1. right click  2. click inspect element -&gt; storage  3. double click tables there      should be edited      cannot be edited    <b>Please provide

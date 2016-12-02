@@ -1,0 +1,1 @@
+<title>Issue 25482 -   chromium -    page and browser action default_title should not be required - Project Hosting on Google Code</title> <pre> The docs say they are not  but the code is requiring them. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5565 -   chromium -    Space bar does not scroll page - Project Hosting on Google Code</title> <pre>   1. Navigate to a page with a vertical scroll bar (I recommend your Gmail   inbox)  2. Press the space bar        The window should scroll down.  Instead  nothing happens.  This makes the   browser nigh-unto-unusable for getting work done. </pre>

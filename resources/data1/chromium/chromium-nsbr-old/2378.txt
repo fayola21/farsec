@@ -1,0 +1,1 @@
+<title>Issue 2378 -   chromium -    Update user-agent string based on feedback from Apple - Project Hosting on Google Code</title> <pre>   Proposed process to change:  1. Do testing to measure impact of change  2. Roll change out internally / to dev channel     </pre>

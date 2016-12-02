@@ -1,0 +1,1 @@
+XmppMessages don't get converted to strings    This has been bugging me for awhile  when you have a route using XMPP you get instances of XmppMessage in your route rather than just a string containing the body of the XmppMessage. Tracked that down and took out the work arounds I had previously put in my contributed xmpp tests.   

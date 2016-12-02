@@ -1,0 +1,1 @@
+<title>Issue 44324 -   chromium -    Update Now doesn - Project Hosting on Google Code</title>   1.See &quot;New version available&quot;  2.Click on &quot;Update now&quot;      What is the expected result? New GoogleChrome.dmg file appears in Downloads directory      What happens instead? Installing new version ... with spinning wheel runs forever      <b>Please provide

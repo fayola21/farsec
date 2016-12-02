@@ -1,0 +1,1 @@
+<title>Issue 40672 -   chromium -    moving tabs back and forth over one another repeatedly causes  browser crash - Project Hosting on Google Code</title>   1.open two tabs  2.move one tab back and forth over the other repeatedly staying in tab bar  3.browser will freeze/crash                <b>Please provide

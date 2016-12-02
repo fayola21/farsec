@@ -1,0 +1,1 @@
+Ambari heatmaps and host information shows infinity for disk space used    When cluster is started after install  it has disk_total of null which results in Infinity.   

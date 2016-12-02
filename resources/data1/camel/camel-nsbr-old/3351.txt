@@ -1,0 +1,1 @@
+camel-irc component silently fails on nick collision    When the camel-irc component connects to an irc server and there's a nick collision it silently fails. Also note there is no camel-irc component in Jira.   

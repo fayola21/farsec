@@ -1,0 +1,1 @@
+<title>Issue 6200 -   chromium -    form tag autocomplete  - Project Hosting on Google Code</title>   1. Create a webpage with form tag that has autocomplete = off or false as   attribute.  2. then visit the page with all three browsers and remember passwords.  3. Chrome remembers the next time you visit the page while the others dont.                    Please provide

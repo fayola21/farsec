@@ -1,0 +1,1 @@
+<title>Issue 817 -   chromium -    MSDN Text layout problems - Project Hosting on Google Code</title>   1. Open links in MSDN using (right-click/Open in New Tab)  2. When you later look at the page  text flow layout is broken  3. See attached screenshot                Please provide

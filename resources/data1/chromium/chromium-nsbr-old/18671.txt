@@ -1,0 +1,1 @@
+<title>Issue 18671 -   chromium -    Failing transitions layout tests - Project Hosting on Google Code</title> <pre> WIN : LayoutTests/transitions/cancel-transition.html = PASS FAIL   </pre>

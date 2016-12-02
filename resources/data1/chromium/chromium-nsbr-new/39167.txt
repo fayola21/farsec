@@ -1,0 +1,1 @@
+<title>Issue 39167 -   chromium -    REGRESSION: Confirm Form Resubmission dialog is improperly sized - Project Hosting on Google Code</title> <pre> REGRESSION: Confirm Form Resubmission dialog is improperly sized    Observed in 5.0.362.0 (Developer Build 42455) on Windows 7 </pre>

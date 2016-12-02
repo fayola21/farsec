@@ -1,0 +1,1 @@
+<title>Issue 5843 -   chromium -    When clicking on the X icon it should warn the user it is closing - Project Hosting on Google Code</title> <pre> Chrome should ask to close all tab (warn) when the x icon is hit.    Currently it closes the entire program without warning.    I am using 1.0.154.42 </pre>

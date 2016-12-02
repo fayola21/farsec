@@ -1,0 +1,1 @@
+Allow validators to detach by mixing in IDetachable       

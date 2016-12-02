@@ -1,0 +1,1 @@
+<title>Issue 31840 -   chromium -    Radio buttons reversed functions on Personal Stuff -&gt; Appearance - Project Hosting on Google Code</title>   1. Go to options -&gt; Personal Stuff  2. Under Appearance  the radio buttons for &quot;Use system title bar and   borders&quot; and the &quot;Hide...&quot; button have reversed functionality                  <b>Please provide

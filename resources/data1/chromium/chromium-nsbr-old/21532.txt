@@ -1,0 +1,1 @@
+<title>Issue 21532 -   chromium -    hide handle by default with moles - Project Hosting on Google Code</title> <pre> When expanded  we currently always show the handle for moles.  Let's try to   show them only when hovering. </pre>

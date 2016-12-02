@@ -1,0 +1,1 @@
+<title>Issue 8787 -   chromium -    Rendering issue on Microsoft Security Portal (beta) - Project Hosting on Google Code</title>   1. Visit the site.  2. Try to use the drop-down menus.  3. See for yourself.      To have drop-down menus.      Chrome will try to execute a script which in the reload will vanish the   menu bar.    <b>Please provide

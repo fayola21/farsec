@@ -1,0 +1,1 @@
+<title>Issue 26575 -   chromium -    Self hosted MediaWiki site displays incorrectly - Project Hosting on Google Code</title>   1. Open self hosted Mediawiki Site        The left hand side should show the standard Wiki features e.g. search        Intermittently doesn't show the bar at all and sometimes in the incorrect   position. Removed Chrome 4.     <b>Please provide

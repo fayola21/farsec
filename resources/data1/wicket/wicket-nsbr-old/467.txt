@@ -1,0 +1,1 @@
+Feedback is not cleaned up upon AJAX-requests    When doing validation with AjaxFormComponentUpdatingBehavior once an error message is attached to a component it gets sticky and is not refreshed upon new ajax requests. It seems as if feedback is not cleaned up so onEvent always takes the hasError branch  independently of validation results.   

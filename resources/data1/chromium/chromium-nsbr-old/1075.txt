@@ -1,0 +1,1 @@
+<title>Issue 1075 -   chromium -    Error 320 (net::ERR_INVALID_RESPONSE): Unknown error. Connecting to Plone 3.1 via Apache 2.2 - Project Hosting on Google Code</title>   1. Navigate to our knowledge base homepage supplied by Apache works.  2. Navigating to any page within the knowledge base supplied by Plone fails        Be able to navigate.      Error 320      Please provide

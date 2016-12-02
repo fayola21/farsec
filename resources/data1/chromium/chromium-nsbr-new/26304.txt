@@ -1,0 +1,1 @@
+<title>Issue 26304 -   chromium -    drop-down list element crash - Project Hosting on Google Code</title>   1. Go into Google Webmastewr Tools  2. Go to verify a site  3. Select an option in the drop down list under 'Verification method:'      The 'Verification method' will be set and appropriate instructions appear      Chromium crashes    <b>Please provide

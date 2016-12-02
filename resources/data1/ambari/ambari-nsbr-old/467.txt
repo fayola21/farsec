@@ -1,0 +1,1 @@
+Fix hive stop to escape $.       

@@ -1,0 +1,1 @@
+<title>Issue 37172 -   chromium -    &quot;Aw  snap&quot; error when loading a page just after starting Chromium - Project Hosting on Google Code</title>   1. Start Chromium and load a random page  2. The current tab will show a &quot;Aw  Snap&quot; error.      Loading the page normally in the tab.      &quot;Aw  Snap&quot; error.    <b>Please provide

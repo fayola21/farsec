@@ -1,0 +1,1 @@
+<title>Issue 22551 -   chromium -    Views Gtk should not redefine windows VKEY_ constants to be their GDK equivalents - Project Hosting on Google Code</title> <pre> ...and wont't as soon as I submit the change which fixes Linux to not do so   to fix a different bug. This bug it to track changing the gtk-views Event   behaviour. </pre>

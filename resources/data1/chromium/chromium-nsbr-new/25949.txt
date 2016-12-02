@@ -1,0 +1,1 @@
+<title>Issue 25949 -   chromium -    Fix flaky new_tab_ui_uitest - Project Hosting on Google Code</title> <pre> Increase test time to decrease flakiness:    NewTabUITest.NTPHasThumbnails:  C:bslavechromium-dbg-  builderbuildsrcchromebrowserdom_uinew_tab_ui_uitest.cc(47): error:   Value of: filler_thumbnails_count    Actual: 8  Expected: 0   </pre>

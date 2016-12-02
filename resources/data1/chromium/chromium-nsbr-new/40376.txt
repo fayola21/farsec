@@ -1,0 +1,1 @@
+<title>Issue 40376 -   chromium -    [Aero Peek]change order of tabs does not change the order on the taskbar for aero peek preview - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.370.0 (43578)     open several tabs.  drag a tab in the tabstrip changing is position.   go to the taskbar.  the order of previews in not changed. </pre>

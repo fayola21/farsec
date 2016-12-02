@@ -1,0 +1,1 @@
+<title>Issue 39111 -   chromium -    Memory.PluginProcessCount histogram not working on Linux - Project Hosting on Google Code</title> <pre> Memory.PluginProcessCount is always 0 on Linux. We're probably doing it   wrong. Is the SUID sandbox in the way?    Ditto for Memory.WorkerProcessCount. </pre>

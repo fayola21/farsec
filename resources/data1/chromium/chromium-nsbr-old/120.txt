@@ -1,0 +1,1 @@
+<title>Issue 120 -   chromium -    Add option to disable spell check - Project Hosting on Google Code</title>   1. type something in a textbox  in a language other then the one specified   home language.          displays text normally.      obviously will mark anything not in &quot;home-language&quot; as wrong.    Please provide

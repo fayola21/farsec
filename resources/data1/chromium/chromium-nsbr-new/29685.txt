@@ -1,0 +1,1 @@
+<title>Issue 29685 -   chromium -    distorted images on every webpage - Project Hosting on Google Code</title>   1. Browsing on all websites cause this problem. see picture below.    What is the expected result? i see distorted images       <b>Please provide

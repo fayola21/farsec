@@ -1,0 +1,1 @@
+<title>Issue 7279 -   chromium -    REGRESSION: Wrong UA string sent in Incognito mode - Project Hosting on Google Code</title>   1. Go to facebook.com in incognito mode.  2. Go to docs.google.com in incognito mode        Should be able to use the sites      Was told the browser was not compatible.    Please provide

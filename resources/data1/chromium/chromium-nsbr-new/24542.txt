@@ -1,0 +1,1 @@
+<title>Issue 24542 -   chromium -    --show-extensions-on-top is broken on NNTP - Project Hosting on Google Code</title>   1. Start chrome with --show-extensions-on-top flag  2. Press Ctrl + b to always show bookmark bar  3. Open any site and open a new tab page      The extension should be seen properly on NNTP      The extension bar is broken on NNTP    <b>Please provide

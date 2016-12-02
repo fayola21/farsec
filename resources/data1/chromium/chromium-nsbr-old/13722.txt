@@ -1,0 +1,1 @@
+<title>Issue 13722 -   chromium -    'Recent bookmarks' fails to update the list. - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=17972">r17972</a>)    -Make sure you have 9 bookmarks in 'Recent bookmarks' section of NTP.  -Bookmark a URL    The newly added bookmark should be visible in 'Recent bookmarks' section.  BUT it does not. </pre>

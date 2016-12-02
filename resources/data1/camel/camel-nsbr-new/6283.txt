@@ -1,0 +1,1 @@
+Restarting routes using sql aggregation repository may lead to Class loading issues    Its the code in ClassLoadingAwareObjectInputStream in camel-sql that has the bug.   

@@ -1,0 +1,1 @@
+<title>Issue 27075 -   chromium -    &quot;Show all downloads��_��__&quot; should use BrowserThemeProvider::COLOR_BOOKMARK_TEXT - Project Hosting on Google Code</title> <pre> See DownloadShelfView::Layout(). Without this  &quot;Show all downloads&quot; is not   readable with some themes. </pre>

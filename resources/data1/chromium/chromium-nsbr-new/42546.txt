@@ -1,0 +1,1 @@
+<title>Issue 42546 -   chromium -    Tab history may get messed - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.388.0 (Build 45553)    Didn't find the exact reproduction pattern but if you start actively going   back and forward  tab history may get messed up (history items get swapped) </pre>

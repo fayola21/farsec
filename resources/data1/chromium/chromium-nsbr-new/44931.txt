@@ -1,0 +1,1 @@
+<title>Issue 44931 -   chromium -    Intranet Links like ServerNameSharedFolderFile.pdf doesn't show it. I have to Drag it in a new tab and/or Select All link description to right click and open it. - Project Hosting on Google Code</title>   1.just click the ServerNameSharedFolderFile.pdf link                    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26737 -   chromium -    Implement ES5 getPrototypeOf - Project Hosting on Google Code</title> <pre> Added in <a href="http://trac.webkit.org/changeset/46963">http://trac.webkit.org/changeset/46963</a>    Test: LayoutTests/fast/js/prototypes.html </pre>

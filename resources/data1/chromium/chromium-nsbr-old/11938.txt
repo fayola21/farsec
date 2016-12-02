@@ -1,0 +1,1 @@
+<title>Issue 11938 -   chromium -    Could not use middle key to open bookmark in the bookmark manager - Project Hosting on Google Code</title>   1.Open bookmark manager  2.Press middle key of the mouse      The selected URL is opened in a new tab      Nothing happens    <b>Please provide

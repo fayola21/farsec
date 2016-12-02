@@ -1,0 +1,1 @@
+<title>Issue 30978 -   chromium -    Chromium not start - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.277.0          1. Not start chromium-browser (also google-chrome) in Ubuntu Server (64bit)          running application      Do not show window   </pre>

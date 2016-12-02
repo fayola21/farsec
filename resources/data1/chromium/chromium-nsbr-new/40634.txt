@@ -1,0 +1,1 @@
+<title>Issue 40634 -   chromium -    White spaces preceding &lt;br&gt; should be ignored - Project Hosting on Google Code</title>   1. Open the attached file      All the three segments of text should be displayed the same.      The first two segments of text have the first lines shifted to the left by   half width of a space character.    <b>Please provide

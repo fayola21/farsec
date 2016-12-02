@@ -1,0 +1,1 @@
+<title>Issue 39585 -   chromium -    Flash plugin crashes on any page with flash elements - Project Hosting on Google Code</title>   1.  load any page with flash on it        The flash object does not load and a yellow bar appears with the message:  The following plugin has crashed:   /home/username/.mozilla/plugins/libflashplayer.so      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1928 -   chromium -    PHPMyAdmin ERR_FAILED when running query  works in Firefox and IE - Project Hosting on Google Code</title>   1. In PHPMyAdmin version 2.11.6  click the SQL tab and try to run a query.        Query results.        Error 2 (net::ERR_FAILED): Unknown error.    Please provide

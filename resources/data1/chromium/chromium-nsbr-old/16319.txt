@@ -1,0 +1,1 @@
+<title>Issue 16319 -   chromium -    Feedburner URLs not working - Project Hosting on Google Code</title> <pre> Opening URLs like <a href="http://feedproxy.google.com/~r/Techcrunch/~3/CCuqmgLuacU/">http://feedproxy.google.com/~r/Techcrunch/~3/CCuqmgLuacU/</a>   from Google Reader in Chrome 3.0.192.1 on vista doesn't work. Opening   directly works fine. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 875 -   chromium -    Chromium doesn't remember last tabs - Project Hosting on Google Code</title>   1. Select to open the pages that were used last.  2. Close Chromium.  3. Open Chromium.      The tabs that were open last should be opened.      Chrome starts with a new empty tab but does show which tabs were recently   closed.    Please provide

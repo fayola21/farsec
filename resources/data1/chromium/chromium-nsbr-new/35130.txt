@@ -1,0 +1,1 @@
+<title>Issue 35130 -   chromium -    Google calendar has stopped working with latest Chromium build - Project Hosting on Google Code</title>   1. Try to open an event created in your calendar          You should be presented with the event editing screen      You get the &quot;Snap screen&quot;     <b>Please provide

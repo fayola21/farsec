@@ -1,0 +1,1 @@
+<title>Issue 20922 -   chromium -    Chrome's logo has a black background in remote desktop - Project Hosting on Google Code</title> <pre>   1. Connect to a Windows machine via remote desktop  2. Run Google Chrome  3. Press Alt + Tab        The Chrome icon has a black background instead of a transparent background.  See screenshot. Tested on Vista. </pre>

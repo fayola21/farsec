@@ -1,0 +1,1 @@
+ContainerFeedbackMessageFilter should use Objects.equal for equality checking    In its accept() method ContainerFeedbackMessageFilter currenlty uses 'container == message.getReporter();' but a sibling class ComponentFeedbackMessageFilter uses 'Objects.equal(component  message.getReporter());'.Probably both should behave the same way in this.   

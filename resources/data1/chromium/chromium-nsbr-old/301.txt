@@ -1,0 +1,1 @@
+<title>Issue 301 -   chromium -    Silverlight Applet is loaded but useless. - Project Hosting on Google Code</title>   1. Install Silverlight.  2. Open <a href="http://msdn.microsoft.com">http://msdn.microsoft.com</a>  3. Scroll to a center of page.      Silverlight applet is shown and clickable.      Silverlight applet is shown but not clickable.    Please provide

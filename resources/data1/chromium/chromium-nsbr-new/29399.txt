@@ -1,0 +1,1 @@
+<title>Issue 29399 -   chromium -    Google Desktop Links Open in IE - Not Chromium - Project Hosting on Google Code</title>   1. Chromium installed and set as default browser  2. All URL's/links other than Google Desktop/Sidebar open in Chromium  3. Google Desktop links all open in IE    <b>Please provide

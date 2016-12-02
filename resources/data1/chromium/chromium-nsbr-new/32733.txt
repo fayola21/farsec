@@ -1,0 +1,1 @@
+<title>Issue 32733 -   chromium -    Bookmark manager: &quot;+&quot; button doesn't work if Bookmark Bar is selected - Project Hosting on Google Code</title> <pre> It should. </pre>

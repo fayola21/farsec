@@ -1,0 +1,1 @@
+<title>Issue 29390 -   chromium -    fullscreen mode disallows ctrl+l shortcut - Project Hosting on Google Code</title>   1. go to fullscreen via F11  2. click ctrl+l to enter web address to go to  3. nothing happens        3. user should be able to enter web address to go to as it is the case in   non-fulscreen mode        <b>Please provide

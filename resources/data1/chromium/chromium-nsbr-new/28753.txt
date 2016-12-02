@@ -1,0 +1,1 @@
+<title>Issue 28753 -   chromium -    Bookmark import promo [mac] - Project Hosting on Google Code</title> <pre> Implement the bookmark bar import promo as described in <a title="Bookmark import promo" class=closed_ref href="/p/chromium/issues/detail?id=4374"> bug 4374 </a> comment 12. </pre>

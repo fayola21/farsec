@@ -1,0 +1,1 @@
+<title>Issue 41584 -   chromium -    Search doesn't work in the Audits panel - Project Hosting on Google Code</title> <pre> For the Audits panel  search isn't implemented.   </pre>

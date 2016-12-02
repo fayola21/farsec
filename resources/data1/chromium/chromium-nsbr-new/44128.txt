@@ -1,0 +1,1 @@
+<title>Issue 44128 -   chromium -    QHD content does not play smoothly - Project Hosting on Google Code</title> <pre>   1. get a very fast PC  2. play a video that is 3840x2160. ie crowd2.mp4    What is the expected output?  Play smoothly.    What do you see instead?  Does not play smoothly.    If you look at CPU performance  most cores are sitting idle.     </pre>

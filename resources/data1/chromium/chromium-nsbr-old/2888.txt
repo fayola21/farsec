@@ -1,0 +1,1 @@
+<title>Issue 2888 -   chromium -    WMP plugin fails to play content - Project Hosting on Google Code</title>   1. go the the website and let the flash player launch  then it stops          The player starts up and plays       Player opens more or less but fails to show any content    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20032 -   chromium -    The Mac bookmark menu needs favicons - Project Hosting on Google Code</title> <pre>   1. Open the bookmark menu  2. See no favicons  like in Safari or Firefox      Favicons next to bookmark items    <a href="http://codereview.chromium.org/172084/show">http://codereview.chromium.org/172084/show</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31615 -   chromium -    Expose whether a page was loaded via SPDY to javascript - Project Hosting on Google Code</title> <pre> This will allow applications to measure page load times and compare SPDY to   non SPDY. </pre>

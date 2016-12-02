@@ -1,0 +1,1 @@
+<title>Issue 30552 -   chromium -    Provide a way to resolve/retrieve the IP address of a domain name for extensions - Project Hosting on Google Code</title> <pre> This would be useful for those extensions that are not supposed to run inside   an intranet/local networks. </pre>

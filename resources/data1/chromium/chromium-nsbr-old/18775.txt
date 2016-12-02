@@ -1,0 +1,1 @@
+<title>Issue 18775 -   chromium -    OS X: Firefox password import Doesn't work. - Project Hosting on Google Code</title> <pre> like the summary says.    We need to load the NSS dylibs and get import running OOP for this to work. </pre>

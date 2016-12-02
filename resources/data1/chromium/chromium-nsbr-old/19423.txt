@@ -1,0 +1,1 @@
+<title>Issue 19423 -   chromium -    No sound after calling play (after calling pause) - Project Hosting on Google Code</title>   1. Create a new audio object  add a src  2. Play the audio  3. Pause the audio  4. Play the audio again      The audio should play      The audio doesn't play but the time changes    <b>Please provide

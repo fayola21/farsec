@@ -1,0 +1,1 @@
+<title>Issue 1298 -   chromium -    Cannot delete some entries in omnibox - Project Hosting on Google Code</title>   In omnibox  press shift + enter to delete one address or search from the   list. Some can be deleted  some can't.      All entries got from history should be deletable.            Please provide

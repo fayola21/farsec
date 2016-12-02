@@ -1,0 +1,1 @@
+<title>Issue 11834 -   chromium -    Remove permissions hack - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=15893">r15893</a> does some migration code to work around an old bug.  Remove it once we   think most people have been autoupdated past it. </pre>

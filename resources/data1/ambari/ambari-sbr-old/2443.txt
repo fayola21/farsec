@@ -1,0 +1,1 @@
+Security wizard: smoke test for services fails with customized service user names.       

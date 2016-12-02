@@ -1,0 +1,1 @@
+<title>Issue 33262 -   chromium -    Add logging for sync XMPP stanzas - Project Hosting on Google Code</title> <pre> It would be useful when debugging if it were possible to dump XMPP stanzas   being sent/received.  Perhaps behind a debug only command line flag. </pre>

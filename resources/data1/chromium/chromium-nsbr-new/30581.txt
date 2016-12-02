@@ -1,0 +1,1 @@
+<title>Issue 30581 -   chromium -    First run dialog -- Cancel button is confusing - Project Hosting on Google Code</title> <pre> I mean  WTF does &quot;cancel&quot; mean here?    Well  it means quit (and don't start)  so it should just say so.    What it does *not* mean is cancel the import. For that  you have to uncheck a   box and continue. </pre>

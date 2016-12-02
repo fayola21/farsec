@@ -1,0 +1,1 @@
+<title>Issue 29314 -   chromium -    API to access the HTTP stack from an Extension  - Project Hosting on Google Code</title> <pre> Feature request: Be able to sniff network traffic from an extension (either   outgoing or incoming) in order to get info from response's header for   example. Or be able to have something like Live HTTP Header extension in   Firefox. </pre>

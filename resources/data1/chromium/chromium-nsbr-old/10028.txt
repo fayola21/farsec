@@ -1,0 +1,1 @@
+<title>Issue 10028 -   chromium -    unwanted tab reorder - Project Hosting on Google Code</title>   1.a tab slows down a bit (hdd activity)  2.click on other tab without holding        only to change the active tab      the tab changes place with the clicked like if the mousebutton was hold   during the slowdown    <b>Please provide

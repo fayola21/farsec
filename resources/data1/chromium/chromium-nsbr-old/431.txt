@@ -1,0 +1,1 @@
+<title>Issue 431 -   chromium -    QuickTime plugin crash - Project Hosting on Google Code</title> <pre> Product Version      : www.google.com/maps              Firefox 3: OK           IE 7: OK      1. go to www.google.com/maps  2. choose Size 640x480 on the web page  3. QuickTime crash    I use Windows XPSP3 1GB RAM </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20917 -   chromium -    EV info should disappear when typing in Omnibox - Project Hosting on Google Code</title> <pre> Visit paypal.com.  start typing in Omnibox.  Note that all security   indicators disappear _except_ the green EV cert info label  which sticks   around. </pre>

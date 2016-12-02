@@ -1,0 +1,1 @@
+<title>Issue 30691 -   chromium -    SPDY Server Push Throttling - Project Hosting on Google Code</title> <pre> The current server push logic has no throttling - the client will continue to   buffer in the flip_session all data being pushed.  This should be bounded and   flow-controlled.   </pre>

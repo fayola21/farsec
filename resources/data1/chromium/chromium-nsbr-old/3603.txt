@@ -1,0 +1,1 @@
+<title>Issue 3603 -   chromium -    REGRESSION: on Vista (non-aero) chrome frame has non-zero width border when maximized - Project Hosting on Google Code</title> <pre> REGRESSION: on Vista (non-aero) chrome frame has non-zero width border when   maximized </pre>

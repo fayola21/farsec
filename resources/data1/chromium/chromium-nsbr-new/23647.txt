@@ -1,0 +1,1 @@
+<title>Issue 23647 -   chromium -    Should be possible to inspect __proto__ property of objects - Project Hosting on Google Code</title> <pre> The property is currently missing in the object properties list.   </pre>

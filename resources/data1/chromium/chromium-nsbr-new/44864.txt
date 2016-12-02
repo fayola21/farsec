@@ -1,0 +1,1 @@
+<title>Issue 44864 -   chromium -    Google Chrome Frame installation installs Google Earth instead - Project Hosting on Google Code</title>   1. Click 'Accept and Install' on the page above  2. Follow installation dialogs  3. Realize that Google Earth was installed instead.    <b>Please provide

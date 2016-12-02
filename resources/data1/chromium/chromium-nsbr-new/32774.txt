@@ -1,0 +1,1 @@
+<title>Issue 32774 -   chromium -    HTML5 Audio tag won't play cachefly mp3 files - Project Hosting on Google Code</title>   1. Go to URL Above  2. Mac Chrome Dev should try to play in html5 audio player  3. Or in an extension  will try to play via audio tag      Should play file.      Doesn't start playing. Other mp3 from other sources are fine.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2250 -   chromium -    Context menu in Google spreadsheets doesn't show in Chrome - Project Hosting on Google Code</title>   1. Go to a google spreadsheet  2. Right click on a column/Row header        The context menu should show up      Nothing happens. The context menu is not shown    Please provide

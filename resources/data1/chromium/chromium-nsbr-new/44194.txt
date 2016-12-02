@@ -1,0 +1,1 @@
+<title>Issue 44194 -   chromium -    Malayalam font issue - Project Hosting on Google Code</title> <pre> [Language] malayalam        [OS details] XP    [Where is the poor translation?] malayalam    [attach any screenshots below]  <a href="http://www.manoramaonline.com">http://www.manoramaonline.com</a>   </pre>

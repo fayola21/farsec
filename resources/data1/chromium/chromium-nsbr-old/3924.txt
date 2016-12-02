@@ -1,0 +1,1 @@
+<title>Issue 3924 -   chromium -    gmail does not show and no attachments - Project Hosting on Google Code</title>   1. i just opened gmail  and it does not show up  2. i tried with https  and its working  but i can't attach files  3. no 3rd parti things applied (only gmail labs)      Please provide

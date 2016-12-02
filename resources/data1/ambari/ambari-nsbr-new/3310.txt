@@ -1,0 +1,1 @@
+HDFS service check should not be disabled when NN HA is enabled and one NN is down    HDFS service check should not be disabled when NN HA is enabled and one NN is down. In fact  service check passing is an indication that NN is available with one NN down.   

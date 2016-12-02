@@ -1,0 +1,1 @@
+<title>Issue 13342 -   chromium -    Toggling the home button on and off causes paint issue in toolbar - Project Hosting on Google Code</title> <pre> Open options and toggle the home button on and off.  You'll notice there's a   repaint bug in the toolbar.  Maybe one of our custom expose methods is not   painting the right area? </pre>

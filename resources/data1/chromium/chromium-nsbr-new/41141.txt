@@ -1,0 +1,1 @@
+<title>Issue 41141 -   chromium -    Excessive disk usage - Project Hosting on Google Code</title>   1. Use Chrome for a while  2. Check the size of c:users&lt;user&gt;AppDatalocalGoogleChrome        The size is reasonable; maximum I'd say about 100MB        The size is excessive: over 3 GB.    <b>Please provide

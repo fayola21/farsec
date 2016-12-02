@@ -1,0 +1,1 @@
+<title>Issue 39850 -   chromium -    languages are not sorted in the source/target language drop-down list in the translation infobar - Project Hosting on Google Code</title> <pre> Run Chrome in French and go to a Chinese web page.     The source and the target languages are not sorted in French sorting order.     Hmm  I wonder why this was not caught before.            </pre>

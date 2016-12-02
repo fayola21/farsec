@@ -1,0 +1,1 @@
+<title>Issue 44903 -   chromium -    The choice - Don't Show The DownloadBar - Project Hosting on Google Code</title>   1. an &quot;x&quot; to fill in - not showning the downloadbar          When you download the downloadbar is gone        Downloading without the downloadbar    <b>Please provide

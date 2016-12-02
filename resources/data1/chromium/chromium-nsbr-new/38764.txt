@@ -1,0 +1,1 @@
+<title>Issue 38764 -   chromium -    Processor load highly increases while loading sports.ru - Project Hosting on Google Code</title>   Just open <a href="http://www.sports.ru">http://www.sports.ru</a> in Chrome for Linux.      No change in processor usage.      Processor load jumps high and processor temperature rids 60+ degrees C for   a few seconds.    <b>Please provide

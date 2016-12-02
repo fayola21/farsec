@@ -1,0 +1,1 @@
+<title>Issue 20783 -   chromium -    cannot scroll selection in fullscreen mode - Project Hosting on Google Code</title>   1. change to fullscreen mode in a webpage with a scrollbar  2. select text which scrolls off page      Page to scroll down and select text originally off-screen      unable to scrolldown    Please provide

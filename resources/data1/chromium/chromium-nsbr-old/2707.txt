@@ -1,0 +1,1 @@
+<title>Issue 2707 -   chromium -    layout test failures due to querySelector and querySelectorAll not being plugged in - Project Hosting on Google Code</title> <pre> We had to unplug them during the merge:    LayoutTests/fast/dom/SelectorAPI/dumpNodeList.html  LayoutTests/fast/dom/SelectorAPI/elementRoot.html     </pre>

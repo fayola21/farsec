@@ -1,0 +1,1 @@
+<title>Issue 28695 -   chromium -    problems with theme : Chromium 4.0.257.0 (32919) - Project Hosting on Google Code</title> <pre> problems with themes    of the problems with the appearance of the themes on the page &quot;New tab&quot;; the   installation makes itself correctly.    This problem doesn't exist under Chrome 4.0.249.11 Dev channel. </pre>

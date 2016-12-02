@@ -1,0 +1,1 @@
+Timer endpoint getState does not work in JMX    The getState attribute does not work.   

@@ -1,0 +1,1 @@
+<title>Issue 885 -   chromium -    oku.korea.ac.kr does not set wmode to 'transparent' for NPAPI flash plugin.  - Project Hosting on Google Code</title>   1. Simply go to oku.korea.ac.kr  2. Right side content is simply blocked by blank square        The web page should display in its entirety.      Only partial page is displayed.    Please provide

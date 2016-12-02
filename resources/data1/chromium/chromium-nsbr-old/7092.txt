@@ -1,0 +1,1 @@
+<title>Issue 7092 -   chromium -    duplicate bookmarks - Project Hosting on Google Code</title>   1. import bookmarks from firefox on a install  if you have had chrome   installed already it will reimport again and make duplicates. Kinda of a   pain if you have a lotta bookmarks.                    Please provide

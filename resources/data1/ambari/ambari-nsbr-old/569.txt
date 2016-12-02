@@ -1,0 +1,1 @@
+Nagios install fails on RHEL6    Puppet layer  when trying to install nagios  tries to install php-pecl-json when it is not needed and fails when trying to do so. On RHEL6  php-5.3 is default which has the json module built into it.   

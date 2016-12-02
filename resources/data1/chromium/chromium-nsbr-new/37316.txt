@@ -1,0 +1,1 @@
+<title>Issue 37316 -   chromium -    developer tool / javascript console crashes on chrome-os build - Project Hosting on Google Code</title> <pre>   open developer tools or javascript cosole.    What is the expected output?  should open new window    What do you see instead?  crash       </pre>

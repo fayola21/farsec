@@ -1,0 +1,1 @@
+<title>Issue 14917 -   chromium -    Fix tab appearance - Project Hosting on Google Code</title> <pre> - background tabs look too similar (brightness) to foreground tabs  - shadow around active tab contents seems too light (probably because of  the decreased contrast between frame and tab). </pre>

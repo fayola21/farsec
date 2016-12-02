@@ -1,0 +1,1 @@
+<title>Issue 36308 -   chromium -    context menu of hidden extension buttons doesn't work - Project Hosting on Google Code</title>   1. hide extension button by dragging grip left of &quot;omni-bar&quot;  2. click &gt;&gt;  3. right click any &quot;hidden&quot; extension and choose any action      selected action executed      nothing    Reproducible  always    <b>Please provide

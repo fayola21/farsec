@@ -1,0 +1,1 @@
+Turn Off Maintenance Mode for HDFS does not work (problems with ambari-agent)    STR:Turn On Maintenance Mode for HDFSTurn Off Maintenance Mode for HDFSExpected result:Have not problems with ambari-agent.Actual result:Have problems with ambari-agent.   

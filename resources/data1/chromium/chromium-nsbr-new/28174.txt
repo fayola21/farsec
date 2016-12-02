@@ -1,0 +1,1 @@
+<title>Issue 28174 -   chromium -    remove urls from locale_settings.grd - Project Hosting on Google Code</title> <pre> We shouldn't put urls in grd files.  It results in us copying the url into   each localized dll/pak file.  We should just put the url in code. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2452 -   chromium -    100% cpu usage on the new builds 2228 throught 2320 - Project Hosting on Google Code</title>   1. just scroll down          smooth scrolling      page hangs a bit then the down arrow of the scroll bar starts blinking like   infinite clicking is going on    Please provide

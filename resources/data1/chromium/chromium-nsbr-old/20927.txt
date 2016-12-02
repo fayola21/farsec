@@ -1,0 +1,1 @@
+<title>Issue 20927 -   chromium -    Extension on top - Bookmark bar animation janky - Project Hosting on Google Code</title> <pre> If bookmarks is enabled on top  the bookmark bar animation is janky for   hide/show. </pre>

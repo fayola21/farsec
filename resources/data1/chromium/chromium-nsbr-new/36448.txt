@@ -1,0 +1,1 @@
+<title>Issue 36448 -   chromium -    about google chrome pop-up is too large in italian language respect english - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.322.2    set interface language to italian.  press 'informazioni su google chrome' button.    see the attached file for more info </pre>

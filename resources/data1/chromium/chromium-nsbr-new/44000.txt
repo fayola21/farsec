@@ -1,0 +1,1 @@
+<title>Issue 44000 -   chromium -    F1 help open only one help window - Project Hosting on Google Code</title>   1. Hold the F1 (help) key down  2. browser opens multiple help tabs        opens 1 help window      opens multiple help tabs    <b>Please provide

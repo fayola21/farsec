@@ -1,0 +1,1 @@
+<title>Issue 14192 -   chromium -    Chromium/Chrome icon does not display on task switch menu on first run - Project Hosting on Google Code</title> <pre>   1. Startup chromium w/ --try-chrome-again  2. Click through to open up the browser  3. Alt+Tab to other open windows      The icon from chromium is in the task switch menu.      A blank icon is there. </pre>

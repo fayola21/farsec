@@ -1,0 +1,1 @@
+<title>Issue 30047 -   chromium -    Per-datatype sync scheduling - Project Hosting on Google Code</title> <pre> Now that the sync system supports multiple datatypes  we need to define some   kind of system to manage the sync schedule of each data type.    </pre>

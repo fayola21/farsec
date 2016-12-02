@@ -1,0 +1,1 @@
+<title>Issue 33750 -   chromium -    Dont work &quot;load unpack plugin&quot; - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.1 dev  Dont work &quot;load unpack plugin&quot;    if i load unpack plugins in chrome 5 chrome think that they load them  but it   is does not work :(  </pre>

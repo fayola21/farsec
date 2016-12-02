@@ -1,0 +1,1 @@
+<title>Issue 33647 -   chromium -    I can't resise images in blogspot in compose mode - Project Hosting on Google Code</title>   1.New post in blogspot  2.Add image      I usually can re size images by dragging one corner of the image      I cant select it  it wont allow me to click on the image select it and drag  it to either make it large or small    <b>Please provide

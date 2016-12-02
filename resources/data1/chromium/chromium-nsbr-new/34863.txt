@@ -1,0 +1,1 @@
+<title>Issue 34863 -   chromium -    unable to access facebook - Project Hosting on Google Code</title>   1.accessing www.facebook.com          should go to facebook homepage      goes to service provider homepage asking to activate account    <b>Please provide

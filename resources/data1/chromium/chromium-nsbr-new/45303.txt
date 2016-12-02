@@ -1,0 +1,1 @@
+<title>Issue 45303 -   chromium -    closing tabs with mouse resizes other tabs - Project Hosting on Google Code</title>   1. open enough websites in tabs to make the tabs shrink to fit them all  2. close any tab on the left side        The tabs stay the same size until I move my mouse away from the tab bar      The tabs resize after every closed tab    <b>Please provide

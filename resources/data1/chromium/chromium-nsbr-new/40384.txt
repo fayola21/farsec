@@ -1,0 +1,1 @@
+<title>Issue 40384 -   chromium -    Hold CTRL to Copy + Paste Bookmarks - Not A Feature... - Project Hosting on Google Code</title>   1. Hold CTRL  2. Drag a bookmark  3. The Bookmark just moves      It would be good if the bookmark duplicated and copied to the place to   dragged it as well as staying in the original place      The bookmark just moves    <b>Please provide

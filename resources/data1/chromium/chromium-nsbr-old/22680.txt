@@ -1,0 +1,1 @@
+<title>Issue 22680 -   chromium -    Opening volume slider sets volume to 0.5f - Project Hosting on Google Code</title> <pre>   1. Mouse over the volume controls on a &lt;video controls&gt;      The volume gets set to 0.5f -- it should remain at 1.0f or whatever the   initial video was.   </pre>

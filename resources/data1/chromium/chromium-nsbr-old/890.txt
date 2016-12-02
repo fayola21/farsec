@@ -1,0 +1,1 @@
+<title>Issue 890 -   chromium -    GWT 1.5 issue - Project Hosting on Google Code</title>   1. Visiting the given URL produces different result in Chrome  but works in  all other browsers.  2. The left panel menus are not loaded  3. The main panel does not load      The GWT code is not executed properly.      Weird layout and behaviour  as seen on that URL.    Please provide

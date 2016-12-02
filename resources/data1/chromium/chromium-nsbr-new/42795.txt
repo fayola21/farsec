@@ -1,0 +1,1 @@
+<title>Issue 42795 -   chromium -    Write ProxyClientSocketPool - Project Hosting on Google Code</title> <pre> This will extract the proxy-tunnel-establishment code out from   HttpNetworkTransaction.    See also <a title="Write SSLClientSocketPool"  href="/p/chromium/issues/detail?id=30357">bug 30357</a>: Write SSLClientSocketPool. </pre>

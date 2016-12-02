@@ -1,0 +1,1 @@
+<title>Issue 3575 -   chromium -    Change the New Tab Page! - Project Hosting on Google Code</title>             Be able to change the new tab page!      Users can't change the new tab page.  Not everyone wants the Google page to   appear.  This is a huge issue I have with using the Google Chrome browser.    I want my homepage to open up in a new tab instead.    Please provide

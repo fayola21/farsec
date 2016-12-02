@@ -1,0 +1,1 @@
+<title>Issue 27978 -   chromium -    Can't open certain types of Google Docs documents with chrome - Project Hosting on Google Code</title>   1.Login into Google Docs using my userid  2.Try to open any Writely doc : does not work  3.Works with Presently and Trix                <b>Please provide

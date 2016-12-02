@@ -1,0 +1,1 @@
+<title>Issue 4952 -   chromium -    net error: cannot load ftp://ftp.esker.com - Project Hosting on Google Code</title>   1. open (any) FTP site  2. login  3. error message pops up      should pop up a message &quot;Open FTP site in Windows Explorer&quot;      null value error message  there is no &quot;page&quot; button  like in IE7  where there is this option.    Please provide

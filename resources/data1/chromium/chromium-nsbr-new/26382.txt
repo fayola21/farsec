@@ -1,0 +1,1 @@
+<title>Issue 26382 -   chromium -    Crash when closing window - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.230.0 (30573)    OS version               : 10.6.1    I closed a window and Chromium crashed. I can't seem to reproduce this   though.   </pre>

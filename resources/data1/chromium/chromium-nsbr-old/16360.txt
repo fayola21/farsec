@@ -1,0 +1,1 @@
+<title>Issue 16360 -   chromium -    non-admin auto-update - Project Hosting on Google Code</title> <pre> The DPO case:  - admin drag-installs Chrome  - non-admin user runs it and needs to auto-update  --&gt; won't work; privs escalation needed    InstallerHelper can help here.   </pre>

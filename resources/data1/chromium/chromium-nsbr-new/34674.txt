@@ -1,0 +1,1 @@
+<title>Issue 34674 -   chromium -    logging.h needs some beefing up - Project Hosting on Google Code</title> <pre> - CHECK_* macros (DCHECK_* macros already exist)  - LOG(DEBUG)  - VLOG(*)  - vmodule    I'm not sure if there's a good reason for these being missing  or if they were   just added after logging.h was forked. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43578 -   chromium -    app list needs to respect theme font color - Project Hosting on Google Code</title> <pre> Pick a font with a dark new tab page background color.  Note that the app   names aren't readable.   </pre>

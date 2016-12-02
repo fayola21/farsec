@@ -1,0 +1,1 @@
+<title>Issue 28030 -   chromium -    Chrome crashes when entering to a gmail account - Project Hosting on Google Code</title>   1. Chrome crashes when entering to a gmail account. A window is displayed   informing that the gmail account has been closed by the browser          To work correctly      Continuosly Chrome get you back to the gmail entrance page    <b>Please provide

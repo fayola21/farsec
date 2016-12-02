@@ -1,0 +1,1 @@
+<title>Issue 21845 -   chromium -    port CHECK_EQ over - Project Hosting on Google Code</title> <pre> base/logging.h has all the DCHECK_* functions  but not the CHECK_*   functions. We should add those    (and then I can remove my #define in test_shell_webthemeengine.cc) </pre>

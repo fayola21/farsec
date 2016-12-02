@@ -1,0 +1,1 @@
+<title>Issue 20630 -   chromium -    In the tools option &quot;Clear Browsing Data&quot; is missing ! - Project Hosting on Google Code</title>   1.Open Google Chrome  2.In the options drop down list of &quot;Customize and Control&quot; you   should be able to see &quot;Clear Browsing Data&quot;  3. It is missing !                <b>Please provide

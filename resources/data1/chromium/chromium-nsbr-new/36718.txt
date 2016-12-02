@@ -1,0 +1,1 @@
+<title>Issue 36718 -   chromium -    broken #top - Project Hosting on Google Code</title>   1. first click on #top link : is ok go to the top of page  2. 2nd click bad  not jump to the top of page        the achor does not funcional          <b>Please provide

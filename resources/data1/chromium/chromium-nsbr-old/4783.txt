@@ -1,0 +1,1 @@
+<title>Issue 4783 -   chromium -    Sorting in Bookmark Manager - Project Hosting on Google Code</title>   1. Wrench -&gt; Bookmarks manager  2. Do nothing  or search something  3. Click on one of the column names      The list on the right  sorted by the column clicked.      Nothing.    Please provide

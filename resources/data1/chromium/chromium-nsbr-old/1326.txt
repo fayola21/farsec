@@ -1,0 +1,1 @@
+<title>Issue 1326 -   chromium -    Not verified Windows Vista - Project Hosting on Google Code</title>   1. Open Chrome        What is the expected result? Chrome opens      What happens instead? UAC asks for verification before launch. Then   launches successfully.      Please provide

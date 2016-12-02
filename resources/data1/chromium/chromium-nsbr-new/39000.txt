@@ -1,0 +1,1 @@
+<title>Issue 39000 -   chromium -    5.0.360 pages fail to render - Project Hosting on Google Code</title>   1. navigate to any url with chromium 5.0.360  2. note page render failure rate &gt;90%        Pages render in HTML 4.1/CSS2.0+ compliant manner      &quot;Kill page&quot; dialog in browser window    <b>Please provide

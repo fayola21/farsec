@@ -1,0 +1,1 @@
+<title>Issue 10937 -   chromium -    Paste-and-Go for Mac Omnibox - Project Hosting on Google Code</title> <pre> Feature placeholder.  Right-click menu for omnibox should let you paste an URL and browse there   as one operation. </pre>

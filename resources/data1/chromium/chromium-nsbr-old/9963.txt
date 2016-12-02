@@ -1,0 +1,1 @@
+<title>Issue 9963 -   chromium -    REGRESSION: WebKit merge 42324:42364 slows DHTML page-cycler ~4% - Project Hosting on Google Code</title> <pre> WebKit merge 42324:42364  landed in <a href="/p/chromium/source/detail?r=13493">r13493</a>  slowed DHTML page-cycler by   roughly 4% on XP and Vista  dual- and single-core.   </pre>

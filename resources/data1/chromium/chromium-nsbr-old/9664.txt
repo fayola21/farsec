@@ -1,0 +1,1 @@
+<title>Issue 9664 -   chromium -    Red artifact in tabstrip on Vista SP1 - Project Hosting on Google Code</title> <pre> My system config.  Windows Vista SP1         </pre>

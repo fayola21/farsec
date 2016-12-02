@@ -1,0 +1,1 @@
+<title>Issue 305 -   chromium -    Can't scroll through large SVG documents - Project Hosting on Google Code</title>   1. Open the URL above to see an example of a large SVG document      The browser can scroll over the whole document.      No scrollbars appear so parts of the document remain obscured.    Please provide

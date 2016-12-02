@@ -1,0 +1,1 @@
+<title>Issue 508 -   chromium -    Browser Task Manager should have minimize/maximize controls. - Project Hosting on Google Code</title>             The memory usuage is incorrect  and the minimize  maximize  and close   buttons do not appear correctly  when you move to click them a drop down   close button covers them up.          Please provide

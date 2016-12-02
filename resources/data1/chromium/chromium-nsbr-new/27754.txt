@@ -1,0 +1,1 @@
+<title>Issue 27754 -   chromium -    http://it.playstation.com/ has the upper parte not clickable - Project Hosting on Google Code</title> <pre> it works fine on firefox. you can't click on the main part of the site!!   </pre>

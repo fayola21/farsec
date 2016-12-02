@@ -1,0 +1,1 @@
+<title>Issue 42623 -   chromium -    WineHQ Editing Application Note the editor dose not work  comes in HTML. - Project Hosting on Google Code</title>   1. Log into WineHQ  2. Go into an application  and edit/make a note.  3. You will notice HTML instead of a WYSIWYG-style editor      A WYSIWYG Styled Editor      HTML Appears    <b>Please provide

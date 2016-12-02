@@ -1,0 +1,1 @@
+<title>Issue 12117 -   chromium -    Implement extension auto-update - Project Hosting on Google Code</title> <pre> This tasks includes:  - permissions UI (if the permissions the extension is asking for change)  - restart handling (gracefully restarting extensions  either by waiting until   next browser start or giving the user some UI to restart them). </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16687 -   chromium -    HSL Shifting is not suitable for inactive windows - Project Hosting on Google Code</title> <pre> HSL shift cannot accurately reproduce the inactive color windows requires   (which is a 50% blend with white)  so for inactive frame images  we need to   use a custom algorithm. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 10571 -   chromium -    Windows layout test regressions form webkit merge 42244:42287 - Project Hosting on Google Code</title> <pre> Reminder to investigate Windows failures on:    LayoutTests/http/tests/navigation/anchor-basic.html  LayoutTests/http/tests/navigation/anchor-frames.html   </pre>

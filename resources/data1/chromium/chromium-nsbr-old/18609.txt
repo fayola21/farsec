@@ -1,0 +1,1 @@
+<title>Issue 18609 -   chromium -    Does not support Bengali font  even when required font installed. - Project Hosting on Google Code</title>             Should support Bengali font.       Does not support Bengali font.     <b>Please provide

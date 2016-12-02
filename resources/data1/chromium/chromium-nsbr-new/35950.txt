@@ -1,0 +1,1 @@
+<title>Issue 35950 -   chromium -    Incorrect ED2K link treatment - Project Hosting on Google Code</title>   1. Open any ED2K link (with english or russian letters).      Any ED2K link must sends to e-mule program.       Nothing! But other browsers process ed2K link very well.     <b>Please provide

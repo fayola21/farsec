@@ -1,0 +1,1 @@
+<title>Issue 5439 -   chromium -    Importing search settings hangs - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.36      1. Install Chrome  2. Try to import settings from FireFox (with custom search engine installed)      Import succeeds      Importer hangs and keeps reading the custom search engine xml file (see  screenshot)   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17622 -   chromium -    Add limits (e.g. graceful failure if you have 2 billion bookmarks) - Project Hosting on Google Code</title> <pre> See summary.  Don't try to make a million levels deep if bookmark folders nest like crazy.  Don't crash if given bad data.   </pre>

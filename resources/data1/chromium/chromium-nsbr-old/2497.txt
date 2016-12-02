@@ -1,0 +1,1 @@
+<title>Issue 2497 -   chromium -    REGRESSION: Performance Drop in Sunspider since 2255 - Project Hosting on Google Code</title>   1. go to Sunspider Javascript Benchmark in the above URL  2. Run the benchmark  3. Wait to see result      performance should be the same or faster than build 2250      performance drops a lot compared to build 2250    Please provide

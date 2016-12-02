@@ -1,0 +1,1 @@
+<title>Issue 30651 -   chromium -    Indenting a table in Google Docs crashes Chrome - Project Hosting on Google Code</title>   1. Create a new 'document' in Google Docs  2. Insert a table (2x2 is fine)  3. Now try to indent the table - Chrome crashes!                <b>Please provide

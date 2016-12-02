@@ -1,0 +1,1 @@
+Add hcat.bin to pig.properties for hcat integration    Add hcat.bin to pig.properties for hcat integration.hcat.bin=/usr/bin/hcat   

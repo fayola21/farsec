@@ -1,0 +1,1 @@
+<title>Issue 40129 -   chromium -    Do not sync preferences with default values - Project Hosting on Google Code</title> <pre> We should not need to sync preferences that have default values.  However   this can be tricky since we would want to delete any existing preferences  that are set back to their default values.   </pre>

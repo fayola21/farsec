@@ -1,0 +1,1 @@
+<title>Issue 41309 -   chromium -    Taking too much time to load this url http://contests.cricbuzz.com/capgemini/2010/ - Project Hosting on Google Code</title>   1.Open Four or five tabs  2.The Open this url  <a href="http://contests.cricbuzz.com/capgemini/2010/">http://contests.cricbuzz.com/capgemini/2010/</a>  3.It is not loading at all.                <b>Please provide

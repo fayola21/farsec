@@ -1,0 +1,1 @@
+<title>Issue 1380 -   chromium -    Wishlist: make Ctrl+Z reopen closed tabs - Project Hosting on Google Code</title>   1. Open some tabs.  2. Close some tabs.  3. Press Ctrl+Z and nothing happens.      It is an undo option similar to Opera  which is reopen last closed tabs.      Nothinng happens :)    Please provide

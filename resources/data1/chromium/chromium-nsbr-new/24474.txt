@@ -1,0 +1,1 @@
+<title>Issue 24474 -   chromium -    CANVAS globalAlpha does not work with fillText or strokeText - Project Hosting on Google Code</title>   1. set a CANVAS  2. ctx.globalAlpha = 0.5;  3. ctx.fillText('test'  100  100);      Get alpha transparency like with other drawing      No transparency    <b>Please provide

@@ -1,0 +1,1 @@
+SpringIntegrationConsumer should honor the 'inOut' instance variable by setting the MEP and sending back message headers    See http://camel.465427.n5.nabble.com/how-to-obtain-camel-smpp-submit-message-id-td5723868.html for details   

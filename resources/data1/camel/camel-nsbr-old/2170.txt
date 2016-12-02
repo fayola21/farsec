@@ -1,0 +1,1 @@
+UnitOfWorkProcessor - Should wrap more EIPs such as Aggregator  Splitter  RecipientList on their child routes    This ensures these exchanges have an UoW when they are routed  which allows for synchronization tasks to run on completion   

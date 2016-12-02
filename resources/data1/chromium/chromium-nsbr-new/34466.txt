@@ -1,0 +1,1 @@
+<title>Issue 34466 -   chromium -    Translate infobars on OS X - Project Hosting on Google Code</title> <pre> This bug is for tracking implementation of the translate infobars on OS X. </pre>

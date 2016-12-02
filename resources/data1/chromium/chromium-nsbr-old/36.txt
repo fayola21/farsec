@@ -1,0 +1,1 @@
+<title>Issue 36 -   chromium -    Error on startup - Project Hosting on Google Code</title>   1. When I open the program I get an error          Error box  and I can not open any url          Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4827 -   chromium -    Cursor - Project Hosting on Google Code</title>   1. Go to any page where you can type.  2. Click and hold.      Cursor continues to blink as in Firefox.      Cursor stops blinking.    Please provide

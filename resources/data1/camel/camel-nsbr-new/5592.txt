@@ -1,0 +1,1 @@
+Logger Level is always at default level('ERROR') when error handler is LoggingErrorHandler    when logger level is set to other level (WARN  DEBUG or INFO) except for ERROR  but actually the log is always at ERROR level (it's the default level).   

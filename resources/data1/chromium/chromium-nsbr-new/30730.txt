@@ -1,0 +1,1 @@
+<title>Issue 30730 -   chromium -    KeystoneRegistration 1.0.7.1306 tag path and tag key - Project Hosting on Google Code</title> <pre> I need to make some minor code changes to take advantage of the tag path  and tag key support that Keystone 1.0.7.1306 adds. </pre>

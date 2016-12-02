@@ -1,0 +1,1 @@
+<title>Issue 2744 -   chromium -    Won't load Symbaloo.com - Project Hosting on Google Code</title>   1. just visit www.symbaloo.com (It wont dislay the content blocks)        Display the blocks from symbaloo        It will only display top menu    Please provide

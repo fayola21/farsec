@@ -1,0 +1,1 @@
+<title>Issue 17362 -   chromium -    history menu shows &quot;history item&quot; item when history is empty - Project Hosting on Google Code</title> <pre>   1. launch with a new profile  2. open history menu        Last item is a grey &quot;history item&quot; entry  should probably be something like &quot;no   history&quot; or such  instead. </pre>

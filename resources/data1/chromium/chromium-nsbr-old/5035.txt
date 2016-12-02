@@ -1,0 +1,1 @@
+<title>Issue 5035 -   chromium -    Not Blogger friendly compared to Mozilla Firefox - Project Hosting on Google Code</title>   Attempt to modify images uploaded in an entry.      Images can be modified (eg. Move  Resize  Cut and Paste)      After clicking the image  nothing is available to modify image.    Please provide

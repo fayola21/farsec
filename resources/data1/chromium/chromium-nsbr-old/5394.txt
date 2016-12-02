@@ -1,0 +1,1 @@
+<title>Issue 5394 -   chromium -    Feature request: import bookmarks from flock browser - Project Hosting on Google Code</title> <pre> chrome does not add the favorites from the FLOCK browser </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40945 -   chromium -    Tab always crashes on an Apple URL - Project Hosting on Google Code</title>   1.  Open Chromium.  2.  Navigate to the URL in any tab.      The page should load without the tab crashing.      The tab visibly renders the page for a split second before the &quot;Aw  snap!&quot; crashed tab screen   appears.    <b>Please provide

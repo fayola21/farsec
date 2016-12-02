@@ -1,0 +1,1 @@
+<title>Issue 13568 -   chromium -    Offsets in rounded corners - Project Hosting on Google Code</title>   1. GoTo URL  2. Offsets in rounded corners areas        Other browsers and Stable Chrome version shows no offsets in corner areas.        Offsets displayed.      <b>Please provide

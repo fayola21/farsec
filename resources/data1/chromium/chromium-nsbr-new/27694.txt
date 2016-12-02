@@ -1,0 +1,1 @@
+<title>Issue 27694 -   chromium -    misplaced text inside pack extension dialog - Project Hosting on Google Code</title>   1. Go to Wrench &gt; Extensions  2. Click on &quot;pack extension&quot; under developer mode              Some of the text is displayed on the border of the dialog box.  See screenshot.    <b>Please provide

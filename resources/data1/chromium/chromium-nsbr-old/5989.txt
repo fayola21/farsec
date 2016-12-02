@@ -1,0 +1,1 @@
+<title>Issue 5989 -   chromium -    Creating A download folder upon starting The Chrome - Project Hosting on Google Code</title>   1. Change the default download folder of the chrome.  2. Delete the folder named &quot;Downloads&quot; from My Documents.  3. Starting The chrome again!    It creates an empty folder named Downloads in My Documents.                Please provide

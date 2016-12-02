@@ -1,0 +1,1 @@
+<title>Issue 13543 -   chromium -    Flash game &quot;Stick Arena Ballistick&quot; and other games have messed controls - Project Hosting on Google Code</title>   1. Load the game  2. Enter any sewer or office based map  3. Wait to load      To have normal controls.      The player walks to the right uncontrollably  it is impossible to move   left.      <b>Please provide

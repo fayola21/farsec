@@ -1,0 +1,1 @@
+<title>Issue 44986 -   chromium -    Google Chrome hangs Ubuntu 10.04 - Project Hosting on Google Code</title>   1. Just surfing...              Ubuntu 10.04 OS hangs when using Google Chrome. It's impossible to   reproduce all steps  because sites are different all the time.  It doesn't happen when using another browser (Opera or Firefox).    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44396 -   chromium -    Add policy for disabling built-in error pages - Project Hosting on Google Code</title> <pre> One the policy abstraction is complete  we need to implement a policy to   enable or disable specialized built-in error pages (especially linkdoctor-  ized 404 error pages) in the omnibox. </pre>

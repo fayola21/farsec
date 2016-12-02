@@ -1,0 +1,1 @@
+<title>Issue 21946 -   chromium -    Files in download shelf remain flat on mouse-over  unlike tabs. - Project Hosting on Google Code</title>   1. Download any file  mouse over it in the download shelf.      File should change hue  like the tabs  to show that a single-click will open   it.      Nothing.    <b>Please provide

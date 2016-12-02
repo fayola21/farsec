@@ -1,0 +1,1 @@
+<title>Issue 2344 -   chromium -    Minimize/Unmaximize/Close buttons do not work in maximized window - Project Hosting on Google Code</title>   1. Maximize chromium window  2. Click minimize/an-maximize/close button  3. Nothing happens      When I click minimize button  chromium window should be minimized.      Nothing happens.    Please provide

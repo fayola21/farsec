@@ -1,0 +1,1 @@
+<title>Issue 852 -   chromium -    Show unread count on thumbnails in New Tab page - Project Hosting on Google Code</title> <pre> This is a feature request for showing &quot;unread counts&quot; for sites like Gmail   and Reader.  I'm not sure if we want to support it.  I'm just filing for   tracking purposes.  This may fall under the larger category of RSS feed   support. </pre>

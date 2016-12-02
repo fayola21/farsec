@@ -1,0 +1,1 @@
+Ambari Core-Site.xml Missing Property for LZO (enabled) - io.compression.codecs       

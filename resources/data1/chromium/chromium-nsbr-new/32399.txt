@@ -1,0 +1,1 @@
+<title>Issue 32399 -   chromium -    Draw visual attention to tab modal dialogs - Project Hosting on Google Code</title> <pre> We should find methods of drawing visual attention to tab modal dialogs in   GTK. Windows counterpart would flash the title+border of a modal dialog if   something else on the screen would be selected instead.  </pre>

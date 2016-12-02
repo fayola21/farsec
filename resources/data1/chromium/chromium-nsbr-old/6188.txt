@@ -1,0 +1,1 @@
+<title>Issue 6188 -   chromium -    Download Chrome from official site: all the non-English installer show text garbled.  - Project Hosting on Google Code</title>   Installing Chrome on Vista SP1 Rus        Unreadable text during the installation on Vista      Please provide

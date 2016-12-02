@@ -1,0 +1,1 @@
+<title>Issue 46129 -   chromium -    Show extension icons on address bar in popup windows - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0 (Official Build 48573) dev      1.Open a popup page      There should be extension icons on address bar      There's no extension icons on address bar </pre>

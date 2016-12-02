@@ -1,0 +1,1 @@
+<title>Issue 12328 -   chromium -    Copy task in gyp does not deploy files on Linux - Project Hosting on Google Code</title> <pre> In gyp-based build on Linux  generated inspector_resources.scons does not  deploy files unless something is explicitly mentioned in 'target_files'. </pre>

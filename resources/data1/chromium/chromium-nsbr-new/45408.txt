@@ -1,0 +1,1 @@
+<title>Issue 45408 -   chromium -    Extensions not installing - Project Hosting on Google Code</title>   1. Go to extensions website  2. click install icon for any extension        The extension asks to install itself      The extension instead downloads itself into the default download location   as a CRX file    <b>Please provide

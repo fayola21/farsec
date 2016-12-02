@@ -1,0 +1,1 @@
+<title>Issue 29605 -   chromium -    4.0.249.27 extension problem - Project Hosting on Google Code</title> <pre> Mac has 249.27 (newer than Windows which has 249.25). My extensions are not   loaded  and installing new extensions (e.g. gmail checker) results in:  &quot;Extensions are not enabled.&quot; </pre>

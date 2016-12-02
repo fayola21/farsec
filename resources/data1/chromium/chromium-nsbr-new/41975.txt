@@ -1,0 +1,1 @@
+<title>Issue 41975 -   chromium -    &quot;Paste&quot; action not works in input[type=text] in some circumstances - Project Hosting on Google Code</title>   1. Open attached file  2. Try to paste from clipboard to editor area - nothing happens        &quot;Paste&quot; action should work        &quot;Paste&quot; do not insert text    <b>Please provide

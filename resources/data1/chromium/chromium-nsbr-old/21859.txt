@@ -1,0 +1,1 @@
+<title>Issue 21859 -   chromium -    miscellaneous vista-related layout test regressions - Project Hosting on Google Code</title> <pre> For some reason we're getting odd diffs with the generic theme for the following tests:    LayoutTests/fast/css/css2-system-fonts.html  LayoutTests/fast/forms/search-styled.html  LayoutTests/fast/text/whitespace/026.html </pre>

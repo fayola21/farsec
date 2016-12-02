@@ -1,0 +1,1 @@
+<title>Issue 12687 -   chromium -    REGRESSION: Missing Chrome icon on top left corner of inspector - Project Hosting on Google Code</title> <pre> Go to any web page and bring up inspector. A page icon is seen on top left   instead of Chrome icon.   </pre>

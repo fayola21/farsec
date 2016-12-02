@@ -1,0 +1,1 @@
+<title>Issue 26245 -   chromium -    Chrome does not open any page - Project Hosting on Google Code</title>   1. Simply open Google Chrome          Chrome open my previous open pages.      Chrome opens but the page is not loaded. In addition  extensions does not load.    <b>Please provide

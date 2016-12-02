@@ -1,0 +1,1 @@
+<title>Issue 30132 -   chromium -    Dutch: Delete menu title should be &quot;Verwijder&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Delete menu item in the menu Bewerken (sic) is localized as   &quot;Verwijderen&quot;. The correct localization on the Mac is &quot;Verwijder&quot;.   </pre>

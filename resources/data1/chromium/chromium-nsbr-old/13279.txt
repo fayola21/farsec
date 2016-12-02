@@ -1,0 +1,1 @@
+<title>Issue 13279 -   chromium -    REGRESSION: Omnibox dropdown hover problems - Project Hosting on Google Code</title> <pre> Move the mouse to where the dropdown will appear and type something in the   omnibox.  Whether the line is hovered  not hovered  or flickers briefly seems   somewhat random. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 173 -   chromium -    Missing a Print Preview option - Project Hosting on Google Code</title> <pre> There is no option for a print preview. I think that this is needed so that  you can see what the page will look like before wasting paper and toner. </pre>

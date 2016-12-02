@@ -1,0 +1,1 @@
+<title>Issue 7962 -   chromium -    israelweather.co.il: country map isn't shown - Project Hosting on Google Code</title> <pre> The map of Israel on the left isn't displayed (see screenshots)  although the markers indicating the   weather are displayed correctly.    Other Browsers:  IE7: OK  Chrome: FAIL  Webkit Nightly: FAIL  FF3: FAIL   </pre>

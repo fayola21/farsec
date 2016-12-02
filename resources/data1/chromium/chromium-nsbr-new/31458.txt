@@ -1,0 +1,1 @@
+<title>Issue 31458 -   chromium -    Extension icons not showing in toolbar - Project Hosting on Google Code</title>   1.Install more than ten extensions          Extension icons from 11 --&gt; do not appear in toolbar        See above    <b>Please provide

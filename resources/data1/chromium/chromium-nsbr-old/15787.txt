@@ -1,0 +1,1 @@
+<title>Issue 15787 -   chromium -    Bookmark popup doesn't accept CTRL-W any more - Project Hosting on Google Code</title> <pre> Chrome Version       : 19763 (Windows)      1. Open a page  2. Press CTRL-D (or click the star)  3. Press CTRL-W      Page is bookmarked and closed.      Page is bookmarked but remains open. </pre>

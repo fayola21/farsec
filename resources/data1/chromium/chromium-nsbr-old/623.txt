@@ -1,0 +1,1 @@
+<title>Issue 623 -   chromium -    Ability to open various types of links in new tab by default. - Project Hosting on Google Code</title> <pre> We'd love these Maxthon 1.6.3 features :     open new tab from :  - new adress  - local files  - history  - favorites  - etc..    And the &quot;Activate new tab&quot; checkbox !!!    Thanks a lot        </pre>

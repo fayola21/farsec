@@ -1,0 +1,1 @@
+<title>Issue 17212 -   chromium -    Back button goes way too far - Project Hosting on Google Code</title>   1. Enter Facebook  2. Click on Friends  3. Click on one of the friends  4. Click on browser's back button      See friends list again      Goes back to page that was viewed before entering facebook    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17945 -   chromium -    REGRESSION: crtl+r or F5 doesn't reload inspector - Project Hosting on Google Code</title> <pre>   1. Go to some page  2. Launch inspector  3. Reload the inspector using ctrl+r or f5    What is the expected output?   inspector should reload    What do you see instead?  nothing      Chrome 3.0.195.3 </pre>

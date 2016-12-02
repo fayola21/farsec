@@ -1,0 +1,1 @@
+<title>Issue 996 -   chromium -    Default monospace text size is too small - Project Hosting on Google Code</title>   1. Go to a page that uses a monospace font.      Monospace font is approximately the same size as proportional width fonts.      Monospace font is much smaller than proportional width.    Please provide

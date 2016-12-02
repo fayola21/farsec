@@ -1,0 +1,1 @@
+Multicast default excecutor do not create the enough thread for parallel processing    When I added the loan broker example CAMEL-556  I found there is no performance improvement when using the parallelly mulitcast.After digging into to code  I found we should create the enough thread for the parallel processing.   

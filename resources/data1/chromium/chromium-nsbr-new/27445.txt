@@ -1,0 +1,1 @@
+<title>Issue 27445 -   chromium -    Navigating through bookmark folders makes Chrome hang - Project Hosting on Google Code</title>   1. I have quite a few bookmark folders in the bookmark bar. If I open one   down  and moving the pointer over the folders  I get a repeatable hang.    <b>Please provide

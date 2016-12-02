@@ -1,0 +1,1 @@
+<title>Issue 22974 -   chromium -    CTRL+S doesn't work in Open SuSe 11.1 - Project Hosting on Google Code</title>   1. Open some webpage  2. Do a CTRL+S to save the file        Dialog to save the page should show up      nothing    <b>Please provide

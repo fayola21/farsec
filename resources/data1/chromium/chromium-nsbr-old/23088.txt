@@ -1,0 +1,1 @@
+<title>Issue 23088 -   chromium -    Find dialog searches backwards - Project Hosting on Google Code</title>   1. Go to any webpage with repeats of words  2. Ctrl+F to bring up find dialog  3. Search for a word      Upon hitting enter  the find dialog should move to the next occurrence   (down further in the page)      It moves to the previous occurrence.    <b>Please provide

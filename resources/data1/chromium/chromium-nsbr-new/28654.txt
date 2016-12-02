@@ -1,0 +1,1 @@
+<title>Issue 28654 -   chromium -    Consolidate the various buffer implementations - Project Hosting on Google Code</title> <pre> We now have the following:    /media/base/buffers.h  /media/base/data_buffer.h  /media/omx/input_buffer.h  /media/base/seekable_buffer.h  /media/audio/linux/alsa_output.h (struct Packet)    ...and they accomplish nearly the same task. </pre>

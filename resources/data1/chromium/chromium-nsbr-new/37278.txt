@@ -1,0 +1,1 @@
+<title>Issue 37278 -   chromium -    crashed when input box is focused in shift+ctrl+n mode - Project Hosting on Google Code</title>   1.open chromium   gmail user/password saved  2.shift+ctrl+n new windows open gmail  3.crashed when input box is focused      not crashed before      crashed when input box is focused    <b>Please provide

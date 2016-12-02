@@ -1,0 +1,1 @@
+<title>Issue 28556 -   chromium -    Users might want to know when extensions have updated. - Project Hosting on Google Code</title> <pre> Is there a plan to implement update notifications? The user should be able to   choose not to install updates  at least they should know what extensions are   going to be updated.   </pre>

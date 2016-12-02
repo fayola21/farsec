@@ -1,0 +1,1 @@
+<title>Issue 20666 -   chromium -    Advanced Language detection Extensions API - Project Hosting on Google Code</title> <pre> Need an advanced language detection extensions API which returns the top   three languages as well their percentages. This is required for extension   dictionary feature. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40303 -   chromium -    Fonts hard to read on Linux - Project Hosting on Google Code</title>   1. Browse to any web site  e.g. <a href="http://kegel.com">http://kegel.com</a>   2. Note that text is smaller and harder to read in Chrome than in Firefox      Legible text      I get a headache      Please provide

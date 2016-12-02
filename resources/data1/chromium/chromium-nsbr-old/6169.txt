@@ -1,0 +1,1 @@
+<title>Issue 6169 -   chromium -    Minimize Issue - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.156.1&gt;           1. Double-clicking on the + icon.      A new tab is created.      The browser window is minimized.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1775 -   chromium -    Add way to disable history completely - Not just Incognito - Project Hosting on Google Code</title>             There should be a way to completely disable history  as well as the &quot;Most   Visited&quot; page.      You have no choice in the matter.    Please provide

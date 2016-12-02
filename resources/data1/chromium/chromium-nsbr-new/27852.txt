@@ -1,0 +1,1 @@
+<title>Issue 27852 -   chromium -    Undo Close Tab doesn't work right with view-source: - Project Hosting on Google Code</title> <pre> * Visit view-source:<a href="http://www.google.com/">http://www.google.com/</a>  * Close the tab  * Hit ctrl-shift-t    Now your restored tab is the real page  not the source. </pre>

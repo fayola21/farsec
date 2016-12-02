@@ -1,0 +1,1 @@
+<title>Issue 45603 -   chromium -    Chrome cancels logout / shutdown / restart no matter what page its on - Project Hosting on Google Code</title>   1. Launch Chrome for Mac  2. Choose Logout shutdown or restart form the Apple menu      Chrome will quit      Chrome cancels logout / shutdown / restart    <b>Please provide

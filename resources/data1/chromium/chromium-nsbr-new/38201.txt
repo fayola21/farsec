@@ -1,0 +1,1 @@
+<title>Issue 38201 -   chromium -    Exceptions dialogs should be a sheet - Project Hosting on Google Code</title> <pre> There's no reason for the many exceptions dialogs to be a standalone window. All it serves to do is   clutter up the user's screen. It should be a sheet. </pre>

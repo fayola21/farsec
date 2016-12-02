@@ -1,0 +1,1 @@
+<title>Issue 27795 -   chromium -    Bookmarks menu has double separator when there are no bookmarks - Project Hosting on Google Code</title> <pre> If you have no bookmarks  there's a double separator in the bookmarks   menu.    Some code somewhere needs an &quot;if&quot;. </pre>

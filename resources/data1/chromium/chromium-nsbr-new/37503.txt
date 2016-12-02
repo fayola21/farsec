@@ -1,0 +1,1 @@
+<title>Issue 37503 -   chromium -    Displaying some inputs really strange - Project Hosting on Google Code</title>   1. Just view the page          Well the border it looks like it's going in stealth mode  you can see in the screenshot what I   mean.          <b>Please provide

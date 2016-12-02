@@ -1,0 +1,1 @@
+Multithreaded HTTP invocations doesn't work    Description of the bug:http://www.nabble.com/Multithreaded-http-endpoint-to13646722s22882.html#a13646722   

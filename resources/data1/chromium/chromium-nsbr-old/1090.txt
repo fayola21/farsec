@@ -1,0 +1,1 @@
+<title>Issue 1090 -   chromium -    Be able to scroll the page by pressing the scroll button on the mouse - Project Hosting on Google Code</title>   1. Start Google Chrome  2. Go to a large page  3. Press the mouse scroll button(don't scroll just press it)      I would be glad if I could  in this way scroll the page up or down.      Nothing.    Please provide

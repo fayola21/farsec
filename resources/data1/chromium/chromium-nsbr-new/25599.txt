@@ -1,0 +1,1 @@
+<title>Issue 25599 -   chromium -    Infobar presentation should be animated - Project Hosting on Google Code</title> <pre> When infobars open and close  they should animate. </pre>

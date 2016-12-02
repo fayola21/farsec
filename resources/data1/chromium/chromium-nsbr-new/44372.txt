@@ -1,0 +1,1 @@
+<title>Issue 44372 -   chromium -    Ctrl + B does not work - Project Hosting on Google Code</title>   1. Hit Ctrl + B  2. Hit Ctrl + Shift + B        Ctrl + B should toggle the bookmarks bar.  Ctrl + Shift + B should open the bookmark manager.      Ctrl + B -&gt; Nothing happens  Ctrl + Shift + B -&gt; Toggles bookmarks bar    <b>Please provide

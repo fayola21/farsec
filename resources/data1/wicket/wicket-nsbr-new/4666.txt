@@ -1,0 +1,1 @@
+ResourceModel once assigned should not re-assign    ResourceModel's AssignmentWrapper is itself a ResourceModel.But sometimes you want to assign a ResourceModel to a component explicitely via #wrapOnAssignment() before passing the wrapper elsewhere.This is not possible currently  because the passed AssignmentWrapper will re-assign to the component it is passed to.   

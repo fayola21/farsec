@@ -1,0 +1,1 @@
+<title>Issue 35241 -   chromium -    chromium will download cryptic files - Project Hosting on Google Code</title>   1.open url  2.download any mini_installer.exe u haven't downloaded before  3.download file cant open on x64 system  md5 check won't fit the correct   file      download correct file      file is crypted    <b>Please provide

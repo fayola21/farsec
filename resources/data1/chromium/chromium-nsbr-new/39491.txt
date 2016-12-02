@@ -1,0 +1,1 @@
+<title>Issue 39491 -   chromium -    Implement filling the default AutoFill profile - Project Hosting on Google Code</title> <pre> When the user is on a page containing a form  the keyboard shortcut   &quot;ctrl/cmd + shift + a&quot; should fill the default profile data into the form. </pre>

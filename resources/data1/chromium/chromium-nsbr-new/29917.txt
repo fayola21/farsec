@@ -1,0 +1,1 @@
+<title>Issue 29917 -   chromium -    show channel in about box (Mac) - Project Hosting on Google Code</title> <pre> Open about box.  Channel name (dev beta stable) should be appended to end of version. </pre>

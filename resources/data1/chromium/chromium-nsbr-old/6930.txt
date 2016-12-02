@@ -1,0 +1,1 @@
+<title>Issue 6930 -   chromium -    Browser UI - narrow tabs after middle click url open - Project Hosting on Google Code</title>   1. Opening url in tabs by middle click      normally opened tabs      tabs open as usual but they magically shrink    Please provide

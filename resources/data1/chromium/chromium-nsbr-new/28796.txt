@@ -1,0 +1,1 @@
+<title>Issue 28796 -   chromium -    Learn more link on Aw snap page hard to read - Project Hosting on Google Code</title> <pre>   1. Crash a renderer  2. Try to read the aw snap page          Expected: easy to read &quot;learn more&quot; link  Actual: &quot;learn more&quot; link that hurts my eyes. </pre>

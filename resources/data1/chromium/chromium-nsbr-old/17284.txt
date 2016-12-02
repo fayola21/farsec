@@ -1,0 +1,1 @@
+<title>Issue 17284 -   chromium -    Soak test for video/audio tag - Project Hosting on Google Code</title> <pre> Used to gauge resource and stability.    Metric for success is 24hrs of playback without crash or significant memory  growth.    This is a Mstone-3 bug because it would be nice to have for QAing our  Mstone-3 release. </pre>

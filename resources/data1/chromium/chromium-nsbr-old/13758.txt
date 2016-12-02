@@ -1,0 +1,1 @@
+<title>Issue 13758 -   chromium -    cmd+shift+n doesn't bring up incognito window - Project Hosting on Google Code</title> <pre> ctrl+shift+n does on Windows. </pre>

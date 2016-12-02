@@ -1,0 +1,1 @@
+<title>Issue 42091 -   chromium -    localstorage is null - Project Hosting on Google Code</title>     any attempt to use localstorage  eg.  localStorage.setItem(&quot;test&quot;  1);          Uncaught TypeError: Cannot call method 'setItem' of null    <b>Please provide

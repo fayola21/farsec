@@ -1,0 +1,1 @@
+<title>Issue 1020 -   chromium -    Yahoo mail UI - Project Hosting on Google Code</title> <pre> The new yahoo mail is not rendering completely well on google chrome </pre>

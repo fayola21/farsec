@@ -1,0 +1,1 @@
+<title>Issue 20157 -   chromium -    tab draws wrong while dragging - Project Hosting on Google Code</title>   1.Open chromium.  2.Try to drag a tab.        Tab looks like before dragging.      Wrong tab's bitmap/graphic display.    <b>Please provide

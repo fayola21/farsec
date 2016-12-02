@@ -1,0 +1,1 @@
+<title>Issue 34325 -   chromium -    Xml-file (url) opening - Project Hosting on Google Code</title> <pre> Chrome Version       : 1/2/3/4      Firefox 3.x: FAIL           IE 7: FAIL      1. Chrome can't o     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 717 -   chromium -    Firefox not recognised by Bookmark Import Feature - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    When trying to import my bookmarks  Chrome only gives me the option   &quot;Microsoft Internet Explorer&quot;. I've got Firefox v3.0.1 installed and   working without any problems.   </pre>

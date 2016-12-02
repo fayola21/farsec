@@ -1,0 +1,1 @@
+<title>Issue 36011 -   chromium -    &quot;Add to dictionary&quot; should display the word to be added - Project Hosting on Google Code</title>   1. Misspell a word.  2. Right-click the misspelled word.      &quot;Add [word] to dictionary&quot; in the menu.      &quot;Add to dictionary&quot; in the menu.    <b>Please provide

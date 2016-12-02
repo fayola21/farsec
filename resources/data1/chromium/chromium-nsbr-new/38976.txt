@@ -1,0 +1,1 @@
+<title>Issue 38976 -   chromium -    PipelineImpleTest.* all hangs after rolling gMock - Project Hosting on Google Code</title> <pre> PipelineImplTest.* in media_unittests hangs after this roll:   <a href="http://codereview.chromium.org/1151006">http://codereview.chromium.org/1151006</a>   </pre>

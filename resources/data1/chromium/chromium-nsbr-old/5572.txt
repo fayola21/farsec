@@ -1,0 +1,1 @@
+<title>Issue 5572 -   chromium -    Stop button does not work in latest builds - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.155.0 build 7052      1. Press &quot;ESC&quot; or push &quot;Stop button&quot;      Cancel/Stop page loading.      Page continues to load.   </pre>

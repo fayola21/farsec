@@ -1,0 +1,1 @@
+Make it possible to turn off encryption on an already encrypted database.    Currently  you can encrypt an unencrypted database and you can change the encryption key on an already encrypted database. However  Derby does not expose a way to turn off (unencrypt) an already encrypted database.   

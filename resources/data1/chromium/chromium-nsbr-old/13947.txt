@@ -1,0 +1,1 @@
+<title>Issue 13947 -   chromium -    Chrome crashes if the user-data-dir points to an invalid drive - Project Hosting on Google Code</title> <pre>     1. edit the chrome shortcut  2. add --user-data-dir=Q:bleh  [assuming you don't have a Q drive]  3. start chrome        It should display an error message  or fallback to the default profile.    But it crashes.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27016 -   chromium -    Ugly borders appear in full screen mode - Project Hosting on Google Code</title>   1. Open a page with non-white background (<a href="http://twitter.com/">http://twitter.com/</a> is a good   example)  2. Press F11.      The page appears without borders.      The page appears with ugly borders on the left  right and bottom.    <b>Please provide

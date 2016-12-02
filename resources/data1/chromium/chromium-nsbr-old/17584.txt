@@ -1,0 +1,1 @@
+<title>Issue 17584 -   chromium -    Tabstrip should resize immediately after closing an inactive tab by clicking middle mouse button - Project Hosting on Google Code</title>   1. Add checking code to make it resize properly after closing a tab          Tabs should resize as it does when closing a tab with the close button.      Tabs did not resize.    <b>Please provide

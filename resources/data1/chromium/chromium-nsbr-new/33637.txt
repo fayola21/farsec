@@ -1,0 +1,1 @@
+<title>Issue 33637 -   chromium -    [www.oliverpeoples.com]: cannot click on menu items - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.30  URL :www.oliverpeoples.com  Behavior in Safari 3.x/4.x :works  Behavior in Firefox 3.x:works      1.go to webpage  2.try to click on any menu items     </pre>

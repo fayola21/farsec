@@ -1,0 +1,1 @@
+<title>Issue 45809 -   chromium -    Resuming Windows 7 crashes chrome each time - Project Hosting on Google Code</title>   1.Have Chrome open with several different tabs open  2.Minimize Chrome  3.Make Windows 7 go into Hibernate   4.Resume Windows 7 Chrome will open message that states Chrome has crashed      Chrome will resume normally      Chrome crahses    <b>Please provide

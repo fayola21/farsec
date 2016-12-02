@@ -1,0 +1,1 @@
+After adding hosts  the host count shown in the Dashboard is incorrect       

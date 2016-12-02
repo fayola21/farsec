@@ -1,0 +1,1 @@
+AMQP Tests are disabled    The AMQP tests are currently disabled. Adding an older version of MINA (than Camel uses) &amp; commons lang to the classpath got the tests passing except for ObjectMessage type test.Sending a TextMessage and BytesMessage work fine so I'm opening up a separate JIRA for the ObjectMessage issue.   

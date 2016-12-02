@@ -1,0 +1,1 @@
+HA cluster: some dashboard's widgets contain 'Null'  'NaN' values after services stop    Steps:Stop YARN service.Go to 'Dashboard'.Result:'NodeManagers Live' widget contains 'null' values.Similar problem is present for 'HBase Ave Load' widget - 'NaN' value.   

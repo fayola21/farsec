@@ -1,0 +1,1 @@
+<title>Issue 41587 -   chromium -    Search doesn't work in the Storage panel - Project Hosting on Google Code</title> <pre> For the Storage panel  search isn't implemented. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28088 -   chromium -    64 bit version of Adobe 10.1 alpha does not work. - Project Hosting on Google Code</title>   1. Copy the plugin file into the plugins folder.  2. Restart Chromium.  3. Open flash site.      Plays video/program.      Adobe flash plugin requested.    <b>Please provide

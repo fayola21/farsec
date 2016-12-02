@@ -1,0 +1,1 @@
+<title>Issue 28196 -   chromium -    NTP tips should be intelligent about showing/hiding home page tip - Project Hosting on Google Code</title> <pre> We'd like to make the &quot;Make this your home page&quot; promo on the NTP just   another tip rather than a separate promo. To do that  the tips system needs   to know whether the NTP is set as the home page. </pre>

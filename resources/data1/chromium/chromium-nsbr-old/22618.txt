@@ -1,0 +1,1 @@
+<title>Issue 22618 -   chromium -    Remove from List option crashes chrome. - Project Hosting on Google Code</title>   1.Save anything with save as on right click.  2.After the completion just use remove from List option in the bottom   downloads bar.  3.The browser crashes.      Just the download in the list should disappear.      Browser crashes.    <b>Please provide

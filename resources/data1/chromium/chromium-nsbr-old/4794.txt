@@ -1,0 +1,1 @@
+<title>Issue 4794 -   chromium -    gcl fails in non-english locales - Project Hosting on Google Code</title> <pre> gcl fails with &quot;gcl run outside of repository&quot; when run in a non-english  locale.  Adding LANG=C would be a quick fix to reduce annoyance   among non-english developers.    I tried committing this but got a 500 error from the svn server. </pre>

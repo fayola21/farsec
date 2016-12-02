@@ -1,0 +1,1 @@
+<title>Issue 17874 -   chromium -    Chrome consumes 100% on images.google.com - Project Hosting on Google Code</title>   1. Go to google.com  2. Search for anything  3. Right click on &quot;images&quot;  open images search results in new tab  4. Observe that chrome freezes.        Browser should proceed to load images.          Browser consumes 100% CPU.      <b>Please provide

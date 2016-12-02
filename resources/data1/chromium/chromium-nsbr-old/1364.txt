@@ -1,0 +1,1 @@
+<title>Issue 1364 -   chromium -    Need Status bar like IE and Firefox - Project Hosting on Google Code</title>   1. The window status bar at the bottom of the browser is missing in Chrome.        Provide one.            Please provide

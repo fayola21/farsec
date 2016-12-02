@@ -1,0 +1,1 @@
+<title>Issue 39624 -   chromium -    New Tab Page Can't Display BookMark - Project Hosting on Google Code</title>   1. In the Old version  if option &quot;Always show bookmarks bar&quot;  has not   choose. The bookmarks could display in the new tab page  but it is not   display now.                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 986 -   chromium -    Not able to view dropdown list completely - Project Hosting on Google Code</title>   1. Open site <a href="http://www.xe.com/">http://www.xe.com/</a>  2. Set page scroll down at a particular position  3. Try to view the currency list        should be able to view list completely      Not able to view currency list completely    Please provide

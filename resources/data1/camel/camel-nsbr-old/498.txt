@@ -1,0 +1,1 @@
+file endpoint with noop=true does not detect old files moved into a directory       

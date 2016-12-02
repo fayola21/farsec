@@ -1,0 +1,1 @@
+<title>Issue 32862 -   chromium -    Closing a notification after the parent tab has reloaded will crash the tab - Project Hosting on Google Code</title> <pre> Create text+icon notification.  Add onclose handler to it.  Display notification.  Reload parent window.  Dismiss notification.    Result: sad tab. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2459 -   chromium -    Search Page not rendered on website - Project Hosting on Google Code</title>   1. Go to gamestop.com  2. Type a search query  3. Search      Webpage showing search results        Page is not rendered at all  or sometimes partially rendered      Please provide

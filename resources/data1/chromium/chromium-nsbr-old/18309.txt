@@ -1,0 +1,1 @@
+<title>Issue 18309 -   chromium -    Linux status bubble needs rounded corners. - Project Hosting on Google Code</title> <pre> The status bubble in Chrome on Linux needs a rounded corner at the top right   edge. </pre>

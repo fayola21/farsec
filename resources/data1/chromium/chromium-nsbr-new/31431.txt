@@ -1,0 +1,1 @@
+<title>Issue 31431 -   chromium -    Multiple icons on dev build of Chromium - Project Hosting on Google Code</title>   1.get windows 7  2.get chromium newest build.  3.open it up      opening with one icon      a second icon appears    Note: doesn't have anything to do with a custom Icon for chrome  other   versions of chrome don't do this.    <b>Please provide

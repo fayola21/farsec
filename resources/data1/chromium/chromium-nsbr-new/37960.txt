@@ -1,0 +1,1 @@
+<title>Issue 37960 -   chromium -    Implement progress bar control in views - Project Hosting on Google Code</title> <pre> To implement the Update screen in OOBE we need a progress bar control to   exist in the views library. </pre>

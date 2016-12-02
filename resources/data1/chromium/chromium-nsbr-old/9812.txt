@@ -1,0 +1,1 @@
+<title>Issue 9812 -   chromium -    Remove RSS feed code - Project Hosting on Google Code</title> <pre> We have decided to take a difference path with RSS feeds than originally   planned. That means most  if not all  of the code I checked in (1st part of   the RSS feed detection) should be removed - to be replaced with the new   scheme. </pre>

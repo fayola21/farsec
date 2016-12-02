@@ -1,0 +1,1 @@
+<title>Issue 13363 -   chromium -    Back end for fetching tips for NTP - Project Hosting on Google Code</title> <pre> There needs to be a service for fetching tips and recommendations that can  be used to deliver content to the NTP.   </pre>

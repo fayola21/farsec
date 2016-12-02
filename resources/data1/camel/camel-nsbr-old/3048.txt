@@ -1,0 +1,1 @@
+Archetype for creating component should have better sample component    The current sample is based on Direct component which is a bad sample as its a very special component.We should do a HelloWorldComponent the producer will just print the message body to system out the consumer is scheduled and triggers every 5th second with a dummy exchange   

@@ -1,0 +1,1 @@
+<title>Issue 7654 -   chromium -    bundled pdfs take up too much disk space  need a step to reduce them - Project Hosting on Google Code</title> <pre> src/chrome/app/theme/starred.pdf is 250k  which is about 5x bigger than it  needs to be.    It really should be reduced in size. </pre>

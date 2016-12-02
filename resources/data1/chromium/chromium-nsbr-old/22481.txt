@@ -1,0 +1,1 @@
+<title>Issue 22481 -   chromium -    Chrome crashes when opening authentication site in a backgrount tab! - Project Hosting on Google Code</title>   1. Bookmark the address  2. open a blank tab  3. click middel button on the bookmark      The tab opens in the background.      Chrome crashes  and Windows menues acts strange until system restart.    <b>Please provide

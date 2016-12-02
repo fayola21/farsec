@@ -1,0 +1,1 @@
+<title>Issue 33985 -   chromium -    Recuit website accessibility - Project Hosting on Google Code</title>   1.Cannot choose &quot;position&quot;or &quot;company&quot;options after I logged in.          as the other brwosers.          <b>Please provide

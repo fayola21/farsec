@@ -1,0 +1,1 @@
+<title>Issue 7945 -   chromium -    Headers getting corrupted in cache. - Project Hosting on Google Code</title>   1. Browse the web  2. Go back a page      The previous page is shown.      (Sometimes) instead of the previous page  a black-on-white page is shown   with random characters (see screenshots)    Please provide

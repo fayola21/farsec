@@ -1,0 +1,1 @@
+<title>Issue 27828 -   chromium -    Theme install infobar gives cryptic message - Project Hosting on Google Code</title> <pre> Upon installing a theme  the infobar says something like: 'Installed theme   &quot;AT_Oscar&quot;'  rather than the human-readable name of the theme (&quot;Oscar de la   Renta&quot; in this case). </pre>

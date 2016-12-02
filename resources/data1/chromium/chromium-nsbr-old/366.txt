@@ -1,0 +1,1 @@
+<title>Issue 366 -   chromium -    Crashes continuously - Project Hosting on Google Code</title> <pre> I am unable to open any website on Chrome. It just crashes everytime i   open it. I am on Windows XP 32-bit with SP2. I have attached the screen   shot.    -Jyoit    </pre>

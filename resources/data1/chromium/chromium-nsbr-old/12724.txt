@@ -1,0 +1,1 @@
+<title>Issue 12724 -   chromium -    Enable sys-ctl-read in OSX Sandbox - Project Hosting on Google Code</title> <pre> Like the summary says...    Also  remove a bunch of code that warms up APIs that read from sysctl </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27059 -   chromium -    Flesh out unit tests in sys_string_conversions_mac_unittest.mm - Project Hosting on Google Code</title> <pre> Unit test now only makes sure that string conversions from NSString accept   NULL as an empty string value without crashing.  Add more tests to give these   conversions a real workout. </pre>

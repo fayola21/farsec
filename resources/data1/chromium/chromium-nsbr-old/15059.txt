@@ -1,0 +1,1 @@
+<title>Issue 15059 -   chromium -    document extension crx format - Project Hosting on Google Code</title> <pre> We should provide more detailed documentation for the crx file format than   just the C++ code. </pre>

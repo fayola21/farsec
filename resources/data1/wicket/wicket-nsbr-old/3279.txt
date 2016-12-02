@@ -1,0 +1,1 @@
+ModalWindow title not visible    The title of a Modal window is not shown.   

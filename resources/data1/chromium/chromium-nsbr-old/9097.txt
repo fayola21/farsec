@@ -1,0 +1,1 @@
+<title>Issue 9097 -   chromium -    Does not ask if I want to save password on YouTube.com - Project Hosting on Google Code</title>   1. Make sure Chrome is set to ask if you want to save passwords  2. Browse to youtube.com  3. Sign in      Chrome asks if you want to save your password      Signs in without asking    <b>Please provide

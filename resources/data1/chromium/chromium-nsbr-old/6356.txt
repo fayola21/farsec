@@ -1,0 +1,1 @@
+<title>Issue 6356 -   chromium -    Vista TCP receive/send windows are too small (32KB) causing slower transfers - Project Hosting on Google Code</title>   1. Visit any page or download any file.      Transfers are fast.      Transfers are slow because 32768/networkRTT is smaller than the network bandwidth.    <b>Please provide

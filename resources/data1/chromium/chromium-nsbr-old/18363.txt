@@ -1,0 +1,1 @@
+<title>Issue 18363 -   chromium -    Omnixbox always does search - Project Hosting on Google Code</title>   1. Type in www.cnn.com in the address bar      Go to cnn home page      Searches google (my default search engine) for www.cnn.com. Same happens   even if I type in <a href="http://www.cnn.com">http://www.cnn.com</a>    <b>Please provide

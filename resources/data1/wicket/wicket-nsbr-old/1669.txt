@@ -1,0 +1,1 @@
+TimeFrame.equals(Object)  does not work as expected    the equals() method should be implemented for the TimeFrame class   

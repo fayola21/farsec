@@ -1,0 +1,1 @@
+<title>Issue 4052 -   chromium -    Meebo buddy list pop out is blocked - Project Hosting on Google Code</title> <pre> When logged into www.meebo.com if the pop out buddy list button is pressed    the pop-up is blocked.    This does not happen in Internet Explorer or Firefox. </pre>

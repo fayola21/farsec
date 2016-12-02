@@ -1,0 +1,1 @@
+<title>Issue 44880 -   chromium -    Button size is too small (regression?) - Project Hosting on Google Code</title>   1. View any page that has an HTML button.      The button should be normally sized.      It's small (w/ little-to-no-padding)    <b>Please provide

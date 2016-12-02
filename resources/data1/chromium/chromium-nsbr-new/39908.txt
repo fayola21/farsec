@@ -1,0 +1,1 @@
+<title>Issue 39908 -   chromium -    Pinned tabs do not close - Project Hosting on Google Code</title> <pre> Latest Chrome Windows Beta    Pin a tab  it works fine.  Right click to close  it won't.  Just goes from   hi-lighted to muted looking.     </pre>

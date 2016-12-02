@@ -1,0 +1,1 @@
+<title>Issue 20628 -   chromium -    Can't copy URL from location bar - Project Hosting on Google Code</title>   1. Highlight text in location bar  2. ctrl + c or right-click &gt; copy  3. paste text into gmail or something      text from location bar appears in email      previous item from clipboard is pasted instead    <b>Please provide

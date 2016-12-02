@@ -1,0 +1,1 @@
+<title>Issue 19884 -   chromium -    Implement eventSender.beginDragWithFiles() - Project Hosting on Google Code</title> <pre> The Chromium test shell's implementation of eventSender doesn't include   support for beginDragWithFiles()  so any layout tests that require it fail. </pre>

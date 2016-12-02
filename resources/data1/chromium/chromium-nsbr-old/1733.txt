@@ -1,0 +1,1 @@
+<title>Issue 1733 -   chromium -    Make chrome close on double clicking top left corner - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (1798)    It's a standard on Windows to be able to close your windows by double-  clicking on the top-left corner. Even office  which lost the icon in the   corner allows it to work still. </pre>

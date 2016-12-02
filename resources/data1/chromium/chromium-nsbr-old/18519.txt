@@ -1,0 +1,1 @@
+<title>Issue 18519 -   chromium -    Inconsistent double-click-on-frame behavior - Project Hosting on Google Code</title> <pre> &quot;When custom-window-frame is on  I double-click the bar (to the right of the   [+] icon) and it maximizes.  Great.    But when I double-click again in the same spot  it doesn't un-maximize.&quot; </pre>

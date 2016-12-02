@@ -1,0 +1,1 @@
+<title>Issue 24500 -   chromium -    Upper corners in windows look bad on Mac - Project Hosting on Google Code</title> <pre>   1. Launch Chrome (<a href="/p/chromium/source/detail?r=28613">r28613</a>)  2. Set theme to default  3. Look at upper corners      See attached photo    The corners shouldn't be white.   </pre>

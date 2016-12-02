@@ -1,0 +1,1 @@
+Upgrade Geronimo specs to 1.1.1 when available    We should upgrade to the 1.1.1 version of the different Geronimo specs jar &#8211; they include the necessary OSGi metadata.   

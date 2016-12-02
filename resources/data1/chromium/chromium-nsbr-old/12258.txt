@@ -1,0 +1,1 @@
+<title>Issue 12258 -   chromium -    Implement byte-range support in the http cache. - Project Hosting on Google Code</title> <pre> Right now we bypass the cache for byte range requests.    We need this feature to support jumping to arbitrary positions of media   content (audio/video). </pre>

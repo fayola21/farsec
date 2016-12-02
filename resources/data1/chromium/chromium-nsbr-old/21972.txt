@@ -1,0 +1,1 @@
+<title>Issue 21972 -   chromium -    Broken site - Project Hosting on Google Code</title>   1. Go to Yahoo mail          Enter my mail account.      Yahoo complain that the browser does not support features for mail.  Says can only use their old classic mail.  Good news is that classic mail mode does work.    <b>Please provide

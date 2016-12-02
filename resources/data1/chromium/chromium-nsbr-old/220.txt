@@ -1,0 +1,1 @@
+<title>Issue 220 -   chromium -    Time incorrect using Data Time app on google homepage - Project Hosting on Google Code</title>   1. Log into google homepage (iGoogle)  2. Set timezone to Arizona (GMT-7:00 / no DST)  3. Add Date &amp; Time applet      Display correct time      Displays time with DST (1 hour advanced)    Please provide

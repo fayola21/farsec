@@ -1,0 +1,1 @@
+NullPointerException during recovery of database with territory-based collation    When logical undo is performed on a database with territory-based collation  you may get a NullPointerException in SQLChar.getCollationKey() because SQLChar.getLocaleFinder() returns null.This bug was reported on derby-user: http://thread.gmane.org/gmane.comp.apache.db.derby.user/8253   

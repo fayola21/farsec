@@ -1,0 +1,1 @@
+<title>Issue 14724 -   chromium -    new windows should not animate the bookmark bar in - Project Hosting on Google Code</title> <pre> the bookmark bar seems to animate in all the time.  for new windows  it   should already be visible without any animation.  it make the eye pay more   attention to the browser chrome then the content. </pre>

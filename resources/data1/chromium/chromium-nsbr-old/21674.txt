@@ -1,0 +1,1 @@
+<title>Issue 21674 -   chromium -    Mouse must be in window to type in URL bar - Project Hosting on Google Code</title>   1. Open up Chromium  2. Click in URL bar and move mouse out of the window  3. Try to type      Typed characters appear in URL bar      Nothing.    <b>Please provide

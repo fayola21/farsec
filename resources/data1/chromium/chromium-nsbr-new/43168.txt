@@ -1,0 +1,1 @@
+<title>Issue 43168 -   chromium -    Infobar creation via the extensions API on the Mac - Project Hosting on Google Code</title> <pre> The extension API chrome.experimental.infobars triggers a NOTIMPLEMENTED in   ExtensionInfoBarDelegate::CreateInfoBar() on the mac currently. </pre>

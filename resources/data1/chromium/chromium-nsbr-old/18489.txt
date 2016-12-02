@@ -1,0 +1,1 @@
+<title>Issue 18489 -   chromium -    Pop-up options not present - Project Hosting on Google Code</title>   1. Click options  2. Click Under the Hood  3. Search for check box 'Notify me when a pop-up is blocked' -&gt; Not there!      Being able to adjust the pop-up setting      Option is not appearing in the menu    <b>Please provide

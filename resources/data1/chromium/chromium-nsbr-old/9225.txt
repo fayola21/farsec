@@ -1,0 +1,1 @@
+<title>Issue 9225 -   chromium -    Linux Omnibox should maintain state across tab switches - Project Hosting on Google Code</title> <pre> Now that we have tabs up  I need to implement the tab switching code for   Omnibox.  This works on Windows by having a PropertyBag on the tab   contents  and serializing some state there.  Will probably do something   similar for Linux. </pre>

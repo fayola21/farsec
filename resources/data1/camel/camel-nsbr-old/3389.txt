@@ -1,0 +1,1 @@
+PackageHelper - issue with version numbers which contains non decimal    See more herehttp://fusesource.com/forums/thread.jspa?threadID=2447&amp;tstart=0   

@@ -1,0 +1,1 @@
+<title>Issue 24073 -   chromium -    bug with facebook - Project Hosting on Google Code</title>   1.want to write a mail or a comment on facebook  2.but nothing is written in the text zone;  3.it can only be written in the title zone.      texte should appear in the text zone      nothing happens    <b>Please provide

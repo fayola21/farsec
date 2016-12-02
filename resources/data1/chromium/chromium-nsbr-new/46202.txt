@@ -1,0 +1,1 @@
+<title>Issue 46202 -   chromium -    Middle-click should open in new tab on toolbar buttons. - Project Hosting on Google Code</title> <pre> Just like middle-click on a link  middle-click on Reload  Home  Forward  and Back should all load the relevant item in a new tab. </pre>

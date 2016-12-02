@@ -1,0 +1,1 @@
+<title>Issue 32430 -   chromium -    Need OS X implementation of AddressWatchTask() in syncapi.cc  - Project Hosting on Google Code</title> <pre> Without this a network disconnection would cause sync to stop sending   events. </pre>

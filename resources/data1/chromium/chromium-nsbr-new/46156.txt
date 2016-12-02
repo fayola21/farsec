@@ -1,0 +1,1 @@
+<title>Issue 46156 -   chromium -    Regression in SVG breaks Drawings - Project Hosting on Google Code</title> <pre> Caused by <a href="http://trac.webkit.org/changeset/59263">http://trac.webkit.org/changeset/59263</a>  which made into this week's stable.    See internal bug 2730774 for history.  </pre>

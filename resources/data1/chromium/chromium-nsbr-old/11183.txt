@@ -1,0 +1,1 @@
+<title>Issue 11183 -   chromium -    Restore tab menu item should read restore window when appropriate - Project Hosting on Google Code</title> <pre>   1. Closing a window.  2. Right-clicking on tab strip.      Seeing Undo close tab  instead of window       </pre>

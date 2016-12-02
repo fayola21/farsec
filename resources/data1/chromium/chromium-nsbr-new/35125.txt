@@ -1,0 +1,1 @@
+<title>Issue 35125 -   chromium -    Unstable folders/labels hierarchy in Google Docs. - Project Hosting on Google Code</title>   1. refresh docs.google.com many times  2. try to open different document  and go back to folders  3. exploring between folders                <b>Please provide

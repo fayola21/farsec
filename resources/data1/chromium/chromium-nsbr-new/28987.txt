@@ -1,0 +1,1 @@
+<title>Issue 28987 -   chromium -    Help menu in different languages doesn't get the auto added search option - Project Hosting on Google Code</title> <pre> Help menu in french  etc. doesn't get the Cocoa added search menu item. </pre>

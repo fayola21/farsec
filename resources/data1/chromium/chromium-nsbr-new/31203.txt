@@ -1,0 +1,1 @@
+<title>Issue 31203 -   chromium -    Height glitch - Project Hosting on Google Code</title>   1. Close browser  2. Reopen browser        Starting screen is @ 4x screen height rather than using actual Xorg   settings      Unable to rectify..    <b>Please provide

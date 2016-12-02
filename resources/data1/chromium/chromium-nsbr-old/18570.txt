@@ -1,0 +1,1 @@
+<title>Issue 18570 -   chromium -    Linux bookmark bar is too tall - Project Hosting on Google Code</title> <pre> The height of the bookmark toolbar in the linux build is too tall. Compare to   windows or a build with TOOLKIT_VIEWS=1. </pre>

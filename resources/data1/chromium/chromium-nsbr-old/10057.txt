@@ -1,0 +1,1 @@
+<title>Issue 10057 -   chromium -    Download progress indicator on the download page is not centered - Project Hosting on Google Code</title> <pre>   1. Open the download page  2. Download a file  3. Notice that the progress indicator is not centered properly on the file   icon (see attached screenshot).   </pre>

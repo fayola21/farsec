@@ -1,0 +1,1 @@
+<title>Issue 36982 -   chromium -    chrome doesn't setup the apt update mechanism on install - Project Hosting on Google Code</title>   1.Install google-chrome-beta_current_amd64.deb on ubuntu  2.Run apt-get update        The update checks for updates at the google server.        No updates are done    <b>Please provide

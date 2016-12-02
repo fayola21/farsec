@@ -1,0 +1,1 @@
+<title>Issue 42833 -   chromium -    Google chrome was shut down and restart while i was accessing website - Project Hosting on Google Code</title>   1.auto turn off and restart                     <b>Please provide

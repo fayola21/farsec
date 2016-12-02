@@ -1,0 +1,1 @@
+<title>Issue 13566 -   chromium -    nss.pc does not exist  use nss-config - Project Hosting on Google Code</title> <pre> While using gclient sync --force:    gyp_dogfood.py failes while trying to access pkg-config --libs nss  my  version of nss does _not_ provide a nss.pc - but a nss-config for this purpose.    nss version: 3.12    attached diff makes gclient run fine.   </pre>

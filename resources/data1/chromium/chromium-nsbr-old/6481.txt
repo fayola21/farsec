@@ -1,0 +1,1 @@
+<title>Issue 6481 -   chromium -    image saved as &quot;.jpg&quot; when dragging to desktop - Project Hosting on Google Code</title>   1. right-click on an image  2. select open image in new tab  3. drag image to destkop      image is saved to desktop with its original filename      image is saved to destop with de filename &quot;.jpg&quot;    Please provide

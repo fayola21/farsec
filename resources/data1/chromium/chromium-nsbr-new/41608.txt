@@ -1,0 +1,1 @@
+<title>Issue 41608 -   chromium -    FaceBook Games Full screen Hangs - Project Hosting on Google Code</title>   1.Go to full screen ia in any of the Facebook games.        What is the expected result? open task manager or reboot.      What happens instead? hangs      <b>Please provide

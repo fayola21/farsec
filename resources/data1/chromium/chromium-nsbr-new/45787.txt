@@ -1,0 +1,1 @@
+<title>Issue 45787 -   chromium -    Problem on Acer Aspire 5738DG - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.408.1 dev    I am using Acer Aspire 5738DG. Once the laptop wakes from sleep or   hibernation brazuer falls with the fault message and asks you to restart. So   every time. Used OS: Windows Seven Home Premium   </pre>

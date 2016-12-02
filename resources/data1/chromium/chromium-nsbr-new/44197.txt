@@ -1,0 +1,1 @@
+<title>Issue 44197 -   chromium -    Scroll Bar Sticking - Project Hosting on Google Code</title>   1. Occasionally trying to scroll up or down          It scrolls up or down and stops scrolling when mouse is released      It sticks the scroll bar attached to the mouse so when you move the mouse   point the scrollbar continues to move      <b>Please provide

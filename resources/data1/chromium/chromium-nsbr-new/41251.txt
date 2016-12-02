@@ -1,0 +1,1 @@
+<title>Issue 41251 -   chromium -    content blocked by X-Frame-Options should show an error page - Project Hosting on Google Code</title> <pre> If an iframe fails to load because of X-Frame-Options  we should show a content error page.  I think   IE does this?   </pre>

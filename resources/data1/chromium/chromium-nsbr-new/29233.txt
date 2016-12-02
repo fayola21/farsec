@@ -1,0 +1,1 @@
+<title>Issue 29233 -   chromium -    Ctrl+Shift+T - Project Hosting on Google Code</title>   1. Open a lot of tabs  2. Exit Chromium and open it again  3. Press Ctrl+Shift+t      Nothing (or reopen the last closed tab)      Its open all the tabs which where open (and still are) when closing   chromium    <b>Please provide

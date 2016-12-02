@@ -1,0 +1,1 @@
+<title>Issue 4058 -   chromium -    Retire Container::MoveToFront - Project Hosting on Google Code</title> <pre> Container::MoveToFront is used in a lot of places where Window::Activate   would be a better choice. We should retire Container::MoveToFront. </pre>

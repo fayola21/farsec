@@ -1,0 +1,1 @@
+<title>Issue 306 -   chromium -    incompatibility with website - Project Hosting on Google Code</title> <pre> Product Version      : &lt;google chrome 0.2.149.27&gt;  URLs (if applicable) : www.siga.ufrpe.br        Firefox 3: ok           IE 7: ok      1. this navigator is incompatibility with site www.siga.ufrpe.br.   </pre>

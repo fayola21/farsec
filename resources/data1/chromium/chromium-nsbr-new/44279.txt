@@ -1,0 +1,1 @@
+<title>Issue 44279 -   chromium -    cant close the 4th tab - Project Hosting on Google Code</title>   1.closing the 4th tab          4th tab will be closed      the X is unclickable in the 4th tab    <b>Please provide

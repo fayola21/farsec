@@ -1,0 +1,1 @@
+<title>Issue 3993 -   chromium -    Visted links not working - Project Hosting on Google Code</title>   1. Click on a link  2. Go back to the page with the link you clicked on  3. The link does not show as visited (different color)      Links should change color once they have been clicked on.      Links do not show as visited (different color)    Please provide

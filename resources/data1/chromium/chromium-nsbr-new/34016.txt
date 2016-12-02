@@ -1,0 +1,1 @@
+<title>Issue 34016 -   chromium -    V5 losses theme - Project Hosting on Google Code</title>   1. apply a theme  2. open a few tabs      to keep the theme coherent as in v4      tabs reset to default theme  tab background loose color    <b>Please provide

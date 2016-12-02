@@ -1,0 +1,1 @@
+<title>Issue 15993 -   chromium -    Clear breakpoints when devtools window closes - Project Hosting on Google Code</title> <pre> All breakpoints should be cleared when devtools window detaches from the   inspected tab  otherwise page may freeze on a breakpoint. </pre>

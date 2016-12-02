@@ -1,0 +1,1 @@
+<title>Issue 597 -   chromium -    Reopen Closed Tab - Project Hosting on Google Code</title>   1. Open the new tab  2. Open any site in new tab opened  3. Close the Tab  4. Click with mouse right button in open tab      showing a option for reopen last closed tab      nothing    Please provide

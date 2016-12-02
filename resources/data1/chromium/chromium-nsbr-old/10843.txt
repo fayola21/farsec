@@ -1,0 +1,1 @@
+<title>Issue 10843 -   chromium -    Switching to tcmalloc revealed a few existing allocation issues - Project Hosting on Google Code</title> <pre> As it commonly happens  switching to a different allocator has revealed   memory bugs. Wee. This bug is to track these issues. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27744 -   chromium -    Middle clicking to open a window on another tab  sometimes opens two of the same window - Project Hosting on Google Code</title>   1. Fixing how the middle click works on chrome                    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 18443 -   chromium -    Polish dragging for toolstrips - Project Hosting on Google Code</title> <pre> We need to take some time to polish up the UI for this. </pre>

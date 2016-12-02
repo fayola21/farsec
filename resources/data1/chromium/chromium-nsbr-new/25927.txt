@@ -1,0 +1,1 @@
+<title>Issue 25927 -   chromium -    Heap snapshot summary bar is black - Project Hosting on Google Code</title> <pre>   1. Open DevTools  go to Profiles tab  take a heap snapshot  2. Click the snapshot to open a view for it  3. Observe that summary bar (below the grid) has all colors black   </pre>

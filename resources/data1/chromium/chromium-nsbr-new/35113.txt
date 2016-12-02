@@ -1,0 +1,1 @@
+<title>Issue 35113 -   chromium -    Chrome hangs on deeply nested JS function calls - Project Hosting on Google Code</title> <pre> Attached please see bad.htm file  When opening it with Chrome 4.0.249.78 (36714)  it start working and after a couple of minutes  becomes irresponsible </pre>

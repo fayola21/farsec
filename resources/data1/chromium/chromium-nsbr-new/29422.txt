@@ -1,0 +1,1 @@
+<title>Issue 29422 -   chromium -    chrome://history/ throws javascript exception related to accessing cssRules - Project Hosting on Google Code</title>   1. go to chrome://history/  2. open the javascript console      no error displayed      Uncaught TypeError: Cannot read property 'length' of null      <b>Please provide

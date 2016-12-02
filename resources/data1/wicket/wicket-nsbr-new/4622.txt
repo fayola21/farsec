@@ -1,0 +1,1 @@
+Optimize PageExpiredException to not load its stacktrace    The stacktrace of PageExpiredException is useless. It is being thrown at only one place - PageProvider  so it is always the same. But it is really useless for the end user.Overriding its #fillInStackTrace() to return null will be a minor performance improvement.   

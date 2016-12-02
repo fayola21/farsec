@@ -1,0 +1,1 @@
+Improve File component wiki    I have added two missings options and then I discovered a few more missing so I am created this ticket so we get this done.The File Component has several options we haven't documented on the wiki yet.Also its javadoc should be improved.And we should provide some better java samples on the wiki.   

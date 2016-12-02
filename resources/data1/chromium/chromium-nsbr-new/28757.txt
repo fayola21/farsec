@@ -1,0 +1,1 @@
+<title>Issue 28757 -   chromium -    Confirm resubmission bug - Project Hosting on Google Code</title>   1. Open www.itsvet.com  2. In the upper right box &quot;Brza pretraga&quot; type: Samsung  3. Click on any item  4. Click on browser BACK button  5. Confirm resubmission      List of items which are result of the previous serach.      Empty search list.    <b>Please provide

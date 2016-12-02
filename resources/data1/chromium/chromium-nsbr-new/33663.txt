@@ -1,0 +1,1 @@
+<title>Issue 33663 -   chromium -    text zoom in - Project Hosting on Google Code</title> <pre>         The Zoom function does not work for text as expected on some websites such   as www.neowin.net    Firefox and IE does not seem to have this issue </pre>

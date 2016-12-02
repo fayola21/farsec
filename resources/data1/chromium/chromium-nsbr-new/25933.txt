@@ -1,0 +1,1 @@
+<title>Issue 25933 -   chromium -    When maximized  back button does not extend to left-most pixel - Project Hosting on Google Code</title> <pre> On windows  we extend the interactive already for the back button to the   left-most pixel of the screen when the window is maximized to make the back   button easier to target.  This optimization is missing in Linux. </pre>

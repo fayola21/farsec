@@ -1,0 +1,1 @@
+Flume service should be in STARTED state when no agents configured    When installing Flume service by default if we dont configure any agents  we end up with Flume being the only service shown in a red STOPPED state. For the case where there are no agents  this should be set to STARTED.   

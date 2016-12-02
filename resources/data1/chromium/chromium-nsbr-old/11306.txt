@@ -1,0 +1,1 @@
+<title>Issue 11306 -   chromium -    Make a try server irc bot. - Project Hosting on Google Code</title> <pre> Requires reenabling the IRC code.    Features:  - Inform when it is enabled/disabled.  - Its presence to be used as a signal if the server is started or not.  - Potentially querying information. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4113 -   chromium -    Can't send Gmail Attachment - Project Hosting on Google Code</title>   1. Attach a file (in my case a .png file) to a gmail message  2. send it to yourself (for testing purposes)  3. Notice  there is no attachment.      File should be attached      File is not attached    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39328 -   chromium -    Old link on http://code.google.com/chromium/ - Project Hosting on Google Code</title> <pre> 'Getting Started guide' link points to   <a href="http://dev.chromium.org/developers/how-tos/getting-started">http://dev.chromium.org/developers/how-tos/getting-started</a> which claims the   page has moved. </pre>

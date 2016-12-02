@@ -1,0 +1,1 @@
+<title>Issue 17610 -   chromium -    Bookmark menus (and bar menus) need a UI-dude determined max width - Project Hosting on Google Code</title> <pre> Current max width in pixels is 300.  Need UI dude feedback. </pre>

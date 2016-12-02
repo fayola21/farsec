@@ -1,0 +1,1 @@
+<title>Issue 12 -   chromium -    Can't get Zimbra web mail into Advanced state when using Chrome - Project Hosting on Google Code</title>   1. Log into Zimbra web mail interface  2. Click on the Advanced version link in the top right hand corner        Should go to Advanced mode      Instead you get a message saying you are now in Standard Mode.      Please provide

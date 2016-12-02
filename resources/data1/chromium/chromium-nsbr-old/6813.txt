@@ -1,0 +1,1 @@
+<title>Issue 6813 -   chromium -    OnDemand updates in About box not active for Vista SP0 with UAC off - Project Hosting on Google Code</title> <pre>   1. Turn off UAC in Vista (with no service pack installed)  2. Open About box    Notice there is no option to update manually. Updating in the background   still works as before. </pre>

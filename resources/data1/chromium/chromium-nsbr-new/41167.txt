@@ -1,0 +1,1 @@
+<title>Issue 41167 -   chromium -    Search bubble magnifying glass is drawn flipped - Project Hosting on Google Code</title> <pre>   1. Type google&lt;tab&gt;  2. See flipped magnifying glass icon      Drawn right-side up.       </pre>

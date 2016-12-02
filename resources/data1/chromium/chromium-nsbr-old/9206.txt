@@ -1,0 +1,1 @@
+<title>Issue 9206 -   chromium -    Tabs flicker on move - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.0 (Developer Build 12314)    Moving a tab button sometimes results in it flickering for a few times.    Might be a regression or duplicate.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36444 -   chromium -    content settings stuff should share some code on win/linux/osx - Project Hosting on Google Code</title> <pre> Some of the content blocked bubble code could live in a model object. Also    the code that opens the flash settings page is currently in 2 places each. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1485 -   chromium -    SVN Repositories that use SVNIndexXSLT don't render at all? - Project Hosting on Google Code</title>   1. Browse to the URL above.  No display on Chrome  display on FF3 IE7  etc      Be able to browse the Subversion repository.        Nothing is rendered.  I think it's missing the processing instructions.    Please provide

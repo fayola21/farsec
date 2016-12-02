@@ -1,0 +1,1 @@
+setup ldap does not validate secondary url    setup ldap does not validate secondary url. It should validate the input (when entered) the same way as the primary.   

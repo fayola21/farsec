@@ -1,0 +1,1 @@
+<title>Issue 7956 -   chromium -    Javascript Console displaying an empty screen - Project Hosting on Google Code</title>   1. Open any website;  2. Right click any part of the page;  3. Click on 'Inspect Element';      Expected to see Google's Dom element inspector for the elements in the   page;      The inspector screen is displayed but the screen is empty    Please provide

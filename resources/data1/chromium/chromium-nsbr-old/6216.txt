@@ -1,0 +1,1 @@
+<title>Issue 6216 -   chromium -    Add possibility to allow page to produce any form of popups - Project Hosting on Google Code</title>   1. opening a webapp window using window.open method          To Open an requested Window       A information about a block is being issued. No option of overriding that.     Please provide

@@ -1,0 +1,1 @@
+<title>Issue 848 -   chromium -    Change appearance of download items when coresponding file does not exist - Project Hosting on Google Code</title>   1. Simple download any file  2. Show in folder  3. Delete this file      Link in downloads panel have to disappear      Link is showing for not existing file      Please provide

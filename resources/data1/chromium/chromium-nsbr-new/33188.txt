@@ -1,0 +1,1 @@
+<title>Issue 33188 -   chromium -    ServerAndLocalEntriesMatch is unnecessary in release - Project Hosting on Google Code</title> <pre> The ServerAndLocalEntriesMatch check in the syncer  while very occasionally   useful  is expensive.  This bug is to consider making it debug-only  or else   to eliminate it entirely. </pre>

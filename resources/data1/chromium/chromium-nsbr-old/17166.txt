@@ -1,0 +1,1 @@
+<title>Issue 17166 -   chromium -    Files are not opened automatically after download with 'open always files of this type' ticked - Project Hosting on Google Code</title>   1. tick 'open always files of this type'  2. wait files to finish downloading  3. files do not open automatically      open the files automatically after download finished      nothing:)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17813 -   chromium -    Memory leak in &lt;video&gt;/&lt;audio&gt; when playing on a machine without audio device - Project Hosting on Google Code</title> <pre> Since audio packets are not used at all  we should drop the packets in the  demuxer otherwise there will be a memory leak </pre>

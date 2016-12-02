@@ -1,0 +1,1 @@
+<title>Issue 8098 -   chromium -    Can't close tab after download file - Project Hosting on Google Code</title>   1. Let the downloaded files finish  2. Close the tab        The tab can't be closed      The tab should close properly    Please provide

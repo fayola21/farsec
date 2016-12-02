@@ -1,0 +1,1 @@
+<title>Issue 5272 -   chromium -    bookmark manager search field should have a label to the left - Project Hosting on Google Code</title> <pre> The search field should have a &quot;Search:&quot; label to its left. </pre>

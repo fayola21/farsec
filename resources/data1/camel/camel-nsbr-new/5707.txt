@@ -1,0 +1,1 @@
+NotifyBuilder should be thread safe    In high concurrent tests the NotifyBuilder may miss a counter.   

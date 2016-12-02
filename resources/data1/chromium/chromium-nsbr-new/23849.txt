@@ -1,0 +1,1 @@
+<title>Issue 23849 -   chromium -    we need to use a pdf form of app/theme/chevron.png - Project Hosting on Google Code</title> <pre> we need to switch to using a pdf form of app/theme/chevron.png (and maybe   make it a template image for theme drawing).   </pre>

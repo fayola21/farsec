@@ -1,0 +1,1 @@
+<title>Issue 16626 -   chromium -    Weird layout bug when READING clientHeight - Project Hosting on Google Code</title>   1. Open the attached html.      No horizontal scrollbar.      Document is twice as wide as the window.    <b>Please provide

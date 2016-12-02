@@ -1,0 +1,1 @@
+<title>Issue 36627 -   chromium -    Wrench and Page menus display outside the Chrome browser - RTL - Project Hosting on Google Code</title>   1. launch Chrome with AR or HE UI  2. click Wrench or &quot;Control the current page&quot;      What is the expected result?What happens instead?  Part of the menu pages are displayed outside the Chrome browser.    <b>Please provide

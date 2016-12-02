@@ -1,0 +1,1 @@
+<title>Issue 41426 -   chromium -    video bilinear has error on last pixels' chroma - Project Hosting on Google Code</title> <pre> filtered 4x scaling shows the last pixel with correct luma  but wrong chroma.  recent regression.  Does not happen in C version of code or linux... only   windows.   </pre>

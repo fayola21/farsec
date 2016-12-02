@@ -1,0 +1,1 @@
+<title>Issue 14518 -   chromium -    need disposition from click event for browser chrome - Project Hosting on Google Code</title> <pre> any click that triggers a navigation should go through a function that   determines a navigation disposition  so that  for example  a middle click on   the back button will open that url in a new page. </pre>

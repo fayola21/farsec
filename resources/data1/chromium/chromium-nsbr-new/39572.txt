@@ -1,0 +1,1 @@
+<title>Issue 39572 -   chromium -    chrome://plugins/ doesn't stop running plugins  nor does it inform users of this - Project Hosting on Google Code</title> <pre> Stopping plugins would be ideal  but if we can't do that we should inform users of which plugins are   running (and require a browser restart). </pre>

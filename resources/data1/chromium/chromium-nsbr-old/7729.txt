@@ -1,0 +1,1 @@
+<title>Issue 7729 -   chromium -    No cursor sign in Find text box - Project Hosting on Google Code</title>   1. Bring-up Find text box (Ctrl-F)  2. Type some text        Cursor should be visible to indicate where characters are being typed        Cursor not visible      Please provide

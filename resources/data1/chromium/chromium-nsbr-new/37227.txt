@@ -1,0 +1,1 @@
+<title>Issue 37227 -   chromium -    sharethis icon not working - Project Hosting on Google Code</title>   1.go to a blog site with the &quot;sharethis&quot; icon below the post  2.when clicking on the &quot;sharethis&quot; icon  nothin happens           a window is supposed to open to allow shares to other sites          nothing    <b>Please provide

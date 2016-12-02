@@ -1,0 +1,1 @@
+bean component should thrown NoTypeConverterException when bean parameter binding cannot convert to method signature type    See nabble:http://www.nabble.com/Error-not-raised-by-Camel-if-the-%40Header-type-define-in-a-bean-is-not--correct-td24051086s22882.html   

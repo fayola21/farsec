@@ -1,0 +1,1 @@
+<title>Issue 17975 -   chromium -    Tab focus is lost when opening a link into a new tab - Project Hosting on Google Code</title>             Focus to stay on the page I am currently reading  all links that I open   into new tabs should not steal focus.      Each link I open gains focus.  This did not happen in previous versions of   Chrome.    <b>Please provide

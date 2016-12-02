@@ -1,0 +1,1 @@
+HDFS/ZKFC relations in EmberData    After enabling HA go to hosts page.Open host's page for host that has ZKFC.ZKFC doesn't have service.Expect:ZKFC should have HDFS as service.   

@@ -1,0 +1,1 @@
+Post cluster install/deploy the URL hmc/html/initializeCluster.php should be disabled    Install a cluster. Then go to http://&lt;host&gt;/hmc/html/initializeCluster.php URL. You get a page enter cluster name. If you enter a cluster name  existing install is wiped out. We need to disable this URL on an installed cluster.Only way to enable this should be uninstall.   

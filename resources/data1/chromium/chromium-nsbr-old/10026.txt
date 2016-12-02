@@ -1,0 +1,1 @@
+<title>Issue 10026 -   chromium -    Auto-complete data has overlap at Google finance - Project Hosting on Google Code</title>   1. Navigate to Google finance  2. Search for Satyam/Infosys         The auto-complete data should not overlap.        Data overlaps.    <b>Please provide

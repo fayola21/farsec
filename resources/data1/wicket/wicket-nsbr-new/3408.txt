@@ -1,0 +1,1 @@
+Add wicket version to initial page in wicket-examples    The wicket-examples show the wicket version when you click on a sub page but not on the initial page.I didn't notice the version showing in the DebugBar until after I created this patch.I added in a new HomePageApplication that receives the initial request instead of the static index.html file.   

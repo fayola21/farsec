@@ -1,0 +1,1 @@
+<title>Issue 12962 -   chromium -    Ctrl + mouse wheel scroll doesn't zoom on Linux - Project Hosting on Google Code</title> <pre>   1. open a web page with text  2. hold down ctrl  3. scroll the mouse wheel like mad        Expected: huge/tiny text  Actual: font size stays the same.   </pre>

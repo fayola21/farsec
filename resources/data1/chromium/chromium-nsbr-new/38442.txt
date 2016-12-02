@@ -1,0 +1,1 @@
+<title>Issue 38442 -   chromium -    Drag and drop of Netflix queue very slow in Chrome - Project Hosting on Google Code</title>   1. log into Netflix account with ~500 movies in DVD queue  2. reorder queue via drag and drop          reordering is smooth and quick        Very slow  2s delay  100% CPU usage    <b>Please provide

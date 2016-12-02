@@ -1,0 +1,1 @@
+<title>Issue 13264 -   chromium -    google search button in opera - Project Hosting on Google Code</title> <pre> Google search button in Opera 9.5 browser on ms vista pro is not acting on   pressing &quot;Enter&quot; anymore  instead i have to use tab button and space   button to commit search.     This is really new - a non usable google search problem </pre>

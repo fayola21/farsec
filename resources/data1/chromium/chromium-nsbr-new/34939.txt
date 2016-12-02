@@ -1,0 +1,1 @@
+<title>Issue 34939 -   chromium -    start-up like a frame - Project Hosting on Google Code</title>   1.when chrome is opened sometimes the first tab looks like a little frame          to be as big as navigator windows      it look smaller    <b>Please provide

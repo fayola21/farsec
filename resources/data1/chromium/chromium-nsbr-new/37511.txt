@@ -1,0 +1,1 @@
+<title>Issue 37511 -   chromium -    flash will not install - Project Hosting on Google Code</title>   1.install flash           chrome doesn't want to get the bugs associated with flash      chrome will find a work around    <b>Please provide

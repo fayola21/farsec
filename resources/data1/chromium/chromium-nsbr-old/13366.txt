@@ -1,0 +1,1 @@
+<title>Issue 13366 -   chromium -    Some controls in Options dialog run off - Project Hosting on Google Code</title>   1. Opens Options dialog  and observe each tab.      All the controls should be packed in the dialog.      Some controls run off the dialog.    <b>Please provide

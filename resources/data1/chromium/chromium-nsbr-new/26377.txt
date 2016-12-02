@@ -1,0 +1,1 @@
+<title>Issue 26377 -   chromium -    Implement ShowProfileErrorDialog - Project Hosting on Google Code</title> <pre> This was called ShowHistoryTooNewDialog() earlier and is a method of BrowserWindowCocoa. It's used to show the user a warning when there's a   problem with their profile. </pre>

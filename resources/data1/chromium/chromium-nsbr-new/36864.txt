@@ -1,0 +1,1 @@
+<title>Issue 36864 -   chromium -    &quot;Profile could not be opened correctly&quot; - Project Hosting on Google Code</title>   1. Starting Chrome  2. Opening a tab  sometimes        Normal operation      Error message on startup  Bookmark bar icons are blank  The &quot;Most Visited&quot; shortcuts on the new tab are not showing    <b>Please provide

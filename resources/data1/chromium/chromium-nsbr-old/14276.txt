@@ -1,0 +1,1 @@
+<title>Issue 14276 -   chromium -    Add a Not or Exclude parameter for @match in User Scripts - Project Hosting on Google Code</title>   1. add @exclude with a pattern in a user script          user script does not execute in any url that matches the exclude pattern      user script executes    <b>Please provide

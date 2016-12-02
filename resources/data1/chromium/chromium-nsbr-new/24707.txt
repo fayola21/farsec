@@ -1,0 +1,1 @@
+<title>Issue 24707 -   chromium -    When re-opening DevTools  profiles should be populated upon Profiles tab opening - Project Hosting on Google Code</title> <pre> In Safari after Inspector has been re-opened  opening Profiles tab shows all   previously collected profiles. In DevTools  existing profiles are shown only   after starting a new profile. </pre>

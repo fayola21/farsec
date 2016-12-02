@@ -1,0 +1,1 @@
+<title>Issue 26277 -   chromium -    window.close() from script within an HTML notification should close the toast - Project Hosting on Google Code</title> <pre>   1. Open an HTML notification that has script that calls window.close()  2. The notification stays open.      The notification should close and the normal close event listeners should fire.     </pre>

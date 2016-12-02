@@ -1,0 +1,1 @@
+<title>Issue 19306 -   chromium -    Rogers SMS site does not prompt to save password - Project Hosting on Google Code</title>   1. Create an account.  2. Login with &quot;Remember me on this computer&quot; checked or unchecked: it   doesn't matter.        Chrome should prompt to save password.        Chrome logs in but does not prompt to save password.    <b>Please provide

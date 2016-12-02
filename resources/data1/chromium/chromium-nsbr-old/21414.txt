@@ -1,0 +1,1 @@
+<title>Issue 21414 -   chromium -    Get themes button in the options dialog should be a link - Project Hosting on Google Code</title> <pre> Since &quot;Get themes&quot; opens a web page  maybe it should be a link? </pre>

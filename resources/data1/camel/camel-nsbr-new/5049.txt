@@ -1,0 +1,1 @@
+Memory leak in TimerListener if JMX enabled    If adding and removing a lot of routes  and you have JMX enabled with load statistics  then it may leak memory  as the route listener is not properly removed when the route is removed  due invalid equals/hashCode.   

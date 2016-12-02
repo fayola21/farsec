@@ -1,0 +1,1 @@
+<title>Issue 31647 -   chromium -    Use the renegotiation info extension when NSS 3.12.6 comes out - Project Hosting on Google Code</title> <pre> In net/socket/ssl_client_socket_nss.cc  the SSL_ENABLE_RENEGOTIATION option   needs to be set to use the new extension when we have support for it in NSS. </pre>

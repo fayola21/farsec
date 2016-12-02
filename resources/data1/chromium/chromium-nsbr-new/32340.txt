@@ -1,0 +1,1 @@
+<title>Issue 32340 -   chromium -    When right clicking on word there is no &quot;add to dictionary option&quot; Ubuntu 9.10 - Project Hosting on Google Code</title>   1. Right clicking on any red misspelled word.                     <b>Please provide

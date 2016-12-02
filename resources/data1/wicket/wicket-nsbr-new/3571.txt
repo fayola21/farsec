@@ -1,0 +1,1 @@
+Popup close link not working in wicket examples linkomatic page    To reproduce:visit http://localhost:8080/linkomatic/homeclick 'Click this button for a popup'click 'close' link   

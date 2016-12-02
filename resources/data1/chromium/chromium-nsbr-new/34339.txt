@@ -1,0 +1,1 @@
+<title>Issue 34339 -   chromium -    NotificationType::EXTENSION_PAGE_ACTION_VISIBILITY_CHANGED is never really used... - Project Hosting on Google Code</title> <pre> except for on the Mac as a trigger to redraw the Page Action icon and in a   single unit test.    I propose we rename it to be synonymous with BROWSER_ACTION_UPDATED   to properly reflect it's actual usage. </pre>

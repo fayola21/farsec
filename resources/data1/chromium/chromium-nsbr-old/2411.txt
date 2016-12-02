@@ -1,0 +1,1 @@
+<title>Issue 2411 -   chromium -    Multiline address bar - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (1798)    Feature suggestion: an address bar that can be expanded to show more than   one line by dragging its bottom edge down.    Viewing and editing long URLs would be much easier.    Almost zero UI complexity cost. </pre>

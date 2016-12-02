@@ -1,0 +1,1 @@
+<title>Issue 3839 -   chromium -    Build 4151 Does not ask for Proxy Creds - Project Hosting on Google Code</title>   1. No longer asking for Proxy Cred - unable to get past proxy auth          Request Proxy Auth and pass proxy      Proxy does not let connection though as I'm not authenticated.      Please provide

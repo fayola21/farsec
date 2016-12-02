@@ -1,0 +1,1 @@
+<title>Issue 3381 -   chromium -    Cannot toggle between tabs in my browser window - Project Hosting on Google Code</title>   1. not sure          should be able to click on tabs but i can only access the tab on the   farthest right.           Please provide

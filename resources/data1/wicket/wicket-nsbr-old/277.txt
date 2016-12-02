@@ -1,0 +1,1 @@
+EmailAddressPatternValidator does not correctly identify TLDs with more than 3 letters    The following is already fixed in wicket-1.2  but doesn't seem to have made it into 2.0 yet. The following looks like a valid regex for this:^&#91;_A-Za-z0-9-&#93;(//.&#91;_A-Za-z0-9-&#93;)@&#91;A-Za-z0-9-&#93;(//.&#91;A-Za-z0-9-&#93;)((.&#91;A-Za-z&#93;{2 }){1}$)   

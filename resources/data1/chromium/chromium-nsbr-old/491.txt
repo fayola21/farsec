@@ -1,0 +1,1 @@
+<title>Issue 491 -   chromium -    nokia.com sites are badly rendered - Project Hosting on Google Code</title>   1. just open the page          - to render the page as in other browsers      - bad layout of page elements  some elements are shown and they should be   hidden    Please provide

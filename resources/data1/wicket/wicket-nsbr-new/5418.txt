@@ -1,0 +1,1 @@
+PropertyValidator ignoring groups with the @NotNull annotation only    When using groups in your JSR303 compliant classes  Wicket does not honor the groups for the @NotNull annotation.   

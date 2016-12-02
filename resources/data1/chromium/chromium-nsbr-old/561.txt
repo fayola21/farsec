@@ -1,0 +1,1 @@
+<title>Issue 561 -   chromium -    sirius radio wont play music - Project Hosting on Google Code</title>   1. Open sirius radio  2. put in password  3. select station and play                Please provide

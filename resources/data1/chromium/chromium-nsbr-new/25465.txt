@@ -1,0 +1,1 @@
+<title>Issue 25465 -   chromium -    CRASH tab context menu versus JavaScript close. - Project Hosting on Google Code</title> <pre>   1. Download and browse to the attached test.html.  2. w/in 5 second right-click to the tab context menu.  3. After the window dissappears  select Reload.        Crashes in Cocoa menu code. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 451 -   chromium -    Submit button does not visually show focus - Project Hosting on Google Code</title>   1. Go to Google.com  2. Press tab to get to &quot;Google Search&quot; submit button  3. Check submit button is focused      Submit button is focused      Submit button is not focused    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 18692 -   chromium -    gtk download item eliding hack - Project Hosting on Google Code</title> <pre>  we use chrome font to elide  and the width we pass it doesn't perfectly to   the actual render width. The extra 50 is fudge factor to get looking right.   Get rid of it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23378 -   chromium -    Video with no source displays enabled play button - Project Hosting on Google Code</title> <pre>   1. &lt;video controls&gt;&lt;/video&gt;      Mute button is disabled  but play button appears enabled.  Both should be   disabled. </pre>

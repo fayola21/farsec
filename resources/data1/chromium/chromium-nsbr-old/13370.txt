@@ -1,0 +1,1 @@
+<title>Issue 13370 -   chromium -    Task Manager contents have vanished - Project Hosting on Google Code</title> <pre> In 3.0.183.1:    Hit shift-esc or use a menu shortcut to open the Task Manager.    No contents!    Not sure who broke this... </pre>

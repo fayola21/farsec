@@ -1,0 +1,1 @@
+<title>Issue 13490 -   chromium -    Browser crash @ `anonymous namespace'::PureCall - Project Hosting on Google Code</title> <pre>   1. Open a new tab  2. Launch task manager    Crash. If it doesn't crash  close task manager and launch it again    Chromium 3.0.184.0 (Developer Build 17771) </pre>

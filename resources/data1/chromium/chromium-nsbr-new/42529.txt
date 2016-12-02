@@ -1,0 +1,1 @@
+<title>Issue 42529 -   chromium -    Graphic error in clearing browsing data. - Project Hosting on Google Code</title>   1. Open Options  2. Go to under the hood  3. Click clear browsing data      Normal window        Is very flashy.    <b>Please provide

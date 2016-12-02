@@ -1,0 +1,1 @@
+<title>Issue 41023 -   chromium -    supress install dialog from zip from nightly builds - Project Hosting on Google Code</title> <pre> nightly zip build prompts the install dialog  zip archive must open chromium   browser directly and doesnt prompt anything </pre>

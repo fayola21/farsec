@@ -1,0 +1,1 @@
+<title>Issue 23199 -   chromium -    Need to type in Sinhalese in gmail - Project Hosting on Google Code</title> <pre> Sinhalese        Windows XP professional SP2    No option to type into Sinhalese    one screenshot attached below   </pre>

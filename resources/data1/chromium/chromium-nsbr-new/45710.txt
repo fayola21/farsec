@@ -1,0 +1,1 @@
+<title>Issue 45710 -   chromium -    Bookmark syncing - Project Hosting on Google Code</title>   Change a bookmark at a computer (windows xp)      After syncing the book mark should be available on an other computer      The bookmarks are not synced      <b>Please provide

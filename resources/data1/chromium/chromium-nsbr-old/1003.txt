@@ -1,0 +1,1 @@
+<title>Issue 1003 -   chromium -    It is not starting and is not getting uninstalled - Project Hosting on Google Code</title>   1. Start Chrome from the start menu it appears for a while and goes away.  2. Try uninstall from Control panel  it appears for a while and goes away.        The application should start      It failed to start.    Please provide

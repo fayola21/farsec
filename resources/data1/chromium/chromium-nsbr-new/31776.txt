@@ -1,0 +1,1 @@
+<title>Issue 31776 -   chromium -    Copied bookmarks should be able to be pasted as URLs in text fields - Project Hosting on Google Code</title> <pre>   1. Copy a URL from the Bookmark Manager  2. Attempt to paste that URL in any text field      The URL is pasted.      The paste is not permitted. </pre>

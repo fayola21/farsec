@@ -1,0 +1,1 @@
+<title>Issue 43181 -   chromium -    Chrome crashes while translating this url - Project Hosting on Google Code</title>   1. Visit the URL  2. Chrome offers to translate the page from German to English  3. Clicking OK crashes the browser      English translation of a German page.      The browser crashes.    <b>Please provide

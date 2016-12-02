@@ -1,0 +1,1 @@
+Logger logs INFO level messages at DEBUG level    The Camel logger logs INFO level messages at the DEBUG level. CAMEL-1048 fixed the problem in one of two cases (logging without an exception)  but it is still broken for logging with an exception. Patch to fix this is attached.   

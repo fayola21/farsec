@@ -1,0 +1,1 @@
+<title>Issue 42527 -   chromium -    Close session in Ubuntu when I restart the browser - Project Hosting on Google Code</title>   1. Open Chromium browser.  2. Close it.  3. Open it again immediately.      I expect that the browser is open properly.      The Ubuntu session is closed.    <b>Please provide

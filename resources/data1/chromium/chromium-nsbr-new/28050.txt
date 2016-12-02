@@ -1,0 +1,1 @@
+<title>Issue 28050 -   chromium -    Remove the duplicate sync promo on the NTP - Project Hosting on Google Code</title> <pre> We now have two sync promos on the NTP  we should only keep the new one.    Related: do we change the promo text when sync is enabled? how about when an extension has   been installed? </pre>

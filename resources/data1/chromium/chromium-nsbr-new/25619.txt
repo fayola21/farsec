@@ -1,0 +1,1 @@
+<title>Issue 25619 -   chromium -    Chromium segmentation faul after updrage in ubuntu - Project Hosting on Google Code</title> <pre> Chrome Version       : I' can't check  but the latest chromium update in  ubuntu 9-04          admin@puff:~$ chromium-browser  Segmentation fault         </pre>

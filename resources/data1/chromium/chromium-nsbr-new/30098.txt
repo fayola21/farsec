@@ -1,0 +1,1 @@
+<title>Issue 30098 -   chromium -    ExtJS calendar works bad in Chrome 4 but good in Chrome 3 - Project Hosting on Google Code</title>   1.Open the URL with Chrome 4.  2.Click the Calendar icon near the Date input field under Datepicker   section.        A calendar with proper width will occur.      A calendar with same width as full screen will occur.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36727 -   chromium -    No way to tell that popups have been blocked in fullscreen mode. - Project Hosting on Google Code</title> <pre>   1. Go fullscreen  2. Navigate to a page that opens popups        Since the popup notification is now displayed in the omnibox instead of in the popup bubble  it's no   longer visible in fullscreen. </pre>

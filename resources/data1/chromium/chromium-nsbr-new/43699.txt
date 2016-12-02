@@ -1,0 +1,1 @@
+<title>Issue 43699 -   chromium -    Slow initial load - Project Hosting on Google Code</title> <pre> v4 became my default browser on the strength of its quick (2-3 seconds)   initial load. v5 is not much better than Opera  even IE8 or Firefox.     </pre>

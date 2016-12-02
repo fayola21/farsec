@@ -1,0 +1,1 @@
+upgrade to YUI 2.4.0    YUI should be updated to version 2.4.0along with this release  there have been significant changes to YUI Calendar (CalendarNavigator) and YUI Loader.CalendarNavigator will replace the current customized  self-maintained month/year selection.   

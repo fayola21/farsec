@@ -1,0 +1,1 @@
+Puppet agent install script should use correct epel repo    hmc/ShellScripts/puppet_agent_install.sh hardcodes to epel-release rpm for CentOS-5.4. Should be more intelligent to handle different OS types.   

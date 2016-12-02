@@ -1,0 +1,1 @@
+<title>Issue 19889 -   chromium -    google-chrome script  'exec' fails on Ubuntu using /bin/sh symlinked to /bin/dash - Project Hosting on Google Code</title>   1. Launch Chrome via /opt/google/chrome/google-chrome  2. Exits with 'exec: 37: -a: not found'        Chrome wrapper script should launch with exit 0 status.        Error: 'exec: 37: -a: not found'    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 25791 -   chromium -    x86_64 rpm requires lsb-core-ia32 - Project Hosting on Google Code</title>   1. install google-chrome-unstable.x86_64 on fedora      (Preferably no lsb;) but hopefully at least 64bit only)      redhat-lsb.i686 gets pulled    <b>Please provide

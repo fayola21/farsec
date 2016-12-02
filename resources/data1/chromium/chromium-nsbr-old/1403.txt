@@ -1,0 +1,1 @@
+<title>Issue 1403 -   chromium -    Page-Up/Page-Down in drop down boxes - Project Hosting on Google Code</title>   1. Select a drop down box  2. Try pressing Page-Up or Page Down        The drop down box cycles down or up so many options      The whole page moves up or down    <b>Please provide

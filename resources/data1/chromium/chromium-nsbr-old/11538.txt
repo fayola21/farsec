@@ -1,0 +1,1 @@
+<title>Issue 11538 -   chromium -    Ctrl +Tab fails  if focus is in Omnibox. - Project Hosting on Google Code</title> <pre> Trunk (<a href="/p/chromium/source/detail?r=15408">r15408</a>)    -Have two or more tabs opened.  -Keep focus on address bar.  -Ctrl+tab to go to next tab.    Result: You can't.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6933 -   chromium -    The top of any opened tabs are squished - Project Hosting on Google Code</title>   1. All I did was open Chrome and any tabs you have opened you will see that   the tops of them are cut off          I want to know when an update/fix will come out to fix this problem          Please provide

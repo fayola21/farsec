@@ -1,0 +1,1 @@
+<title>Issue 10777 -   chromium -    Save crash dumps of UI tests - Project Hosting on Google Code</title> <pre> When UI tests crashes on buildbot we have no good way to investigate   currently. We should save the crash dumps if symbols are available for the   corresponding build. This is mainly for xp release  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13825 -   chromium -    Click on Setting menu is crashing the chrome.  - Project Hosting on Google Code</title>   1.Click on the setting menu and it is crashing the chrome.                     <b>Please provide

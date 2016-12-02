@@ -1,0 +1,1 @@
+<title>Issue 25444 -   chromium -    Browser actions buttons are too close together - Project Hosting on Google Code</title> <pre> If you have two browser action buttons that both have badges that are maximum   width  they almost touch. There should be a few more pixels of padding in   there. </pre>

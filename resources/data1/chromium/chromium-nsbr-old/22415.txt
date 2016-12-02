@@ -1,0 +1,1 @@
+<title>Issue 22415 -   chromium -    Back Button on search for Gmail - Project Hosting on Google Code</title>   1. go to gmail and search for emails  2. click on one of the results  3. click the back button      you go back to the search result page      nothing!!!    <b>Please provide

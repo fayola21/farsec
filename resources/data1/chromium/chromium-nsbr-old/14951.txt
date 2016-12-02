@@ -1,0 +1,1 @@
+<title>Issue 14951 -   chromium -    Layout test failure: background-generated.html - Project Hosting on Google Code</title> <pre> New test failure from WebKit merge 44928:44943.    090622 16:30:30 test_shell_thread.py:290 ERROR   LayoutTests/fast/repaint/background-generated.html failed:    Image mismatch   </pre>

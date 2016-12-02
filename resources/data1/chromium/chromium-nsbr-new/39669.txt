@@ -1,0 +1,1 @@
+<title>Issue 39669 -   chromium -    Tabs doubled as minimized windows in a bottom of the desktop. Win7 32 - Project Hosting on Google Code</title>   1.open multitabbed chrome fullscreen  2.open other apps fullscreen  3.press Win-D      no windows should be opened      minimized window(s) appeared in the bottom of desktop    <b>Please provide

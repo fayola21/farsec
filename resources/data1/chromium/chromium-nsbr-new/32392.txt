@@ -1,0 +1,1 @@
+<title>Issue 32392 -   chromium -    svg/batik/text/smallFonts.svg is missing a baseline and skipped upstream - Project Hosting on Google Code</title> <pre> We should determine whether to:    1) remove the test  2) fix the test  3) and/or add baselines </pre>

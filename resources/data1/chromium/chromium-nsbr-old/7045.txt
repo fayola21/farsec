@@ -1,0 +1,1 @@
+<title>Issue 7045 -   chromium -    Port automated_ui_tests to FilePath - Project Hosting on Google Code</title> <pre> automated_ui_tests/automated_ui_tests.cc uses wstring to store file paths.    Change this to use FilePath to help make these tests more platform   independent. </pre>

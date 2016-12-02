@@ -1,0 +1,1 @@
+<title>Issue 9732 -   chromium -    Fallback to site-search for URLs without Tab-to-search - Project Hosting on Google Code</title> <pre> When a URL in the omnibox doesn't have a tab-to-search mapping  pressing tab   should activate site-search for that URL's host. We probably shouldn't show a   tip in the omnibox for this case. </pre>

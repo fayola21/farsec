@@ -1,0 +1,1 @@
+<title>Issue 28127 -   chromium -    Chrome behaving strange when pressing cmd and an arrow  - Project Hosting on Google Code</title>   1. Focus a text input tag  2. Press cmd + left or right arrow        The cursor should go to the beginning or end of the line       A square appears and deletes the text that already has been typed before.    <b>Please provide

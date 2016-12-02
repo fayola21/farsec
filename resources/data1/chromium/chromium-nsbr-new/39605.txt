@@ -1,0 +1,1 @@
+<title>Issue 39605 -   chromium -    Can't access all bookmarks it stops scrolling? - Project Hosting on Google Code</title> <pre> I cant see all my bookmarks anymore or scroll down on any lists.  Using 5.0.342.7.  Help </pre>

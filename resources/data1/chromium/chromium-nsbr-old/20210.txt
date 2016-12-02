@@ -1,0 +1,1 @@
+<title>Issue 20210 -   chromium -    Enter login proxy a lot of times - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.202.0             Opera 10: OK    Firefox 3.x: OK           IE 8: OK        Just input one time the user and password of the proxy server.      It asks a lot of times to introduce the login for the proxy.  Really annoying. </pre>

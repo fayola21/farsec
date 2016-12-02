@@ -1,0 +1,1 @@
+<title>Issue 3527 -   chromium -    Chrome/Safari selects the region outside the element - Project Hosting on Google Code</title>   1. Open <a href="http://bash.org.ru/">http://bash.org.ru/</a>  2. Select the quote        See attach...          Please provide

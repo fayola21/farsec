@@ -1,0 +1,1 @@
+<title>Issue 39148 -   chromium -    Chrome does not support malayalam font - Project Hosting on Google Code</title> <pre> Chrome does not support MALAYALAM FONT    I am using windows xp so i request your team to add that font to ur browser   which will help lot of users around the world   </pre>

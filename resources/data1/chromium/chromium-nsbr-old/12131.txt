@@ -1,0 +1,1 @@
+<title>Issue 12131 -   chromium -    Implement I18N support for extensions - Project Hosting on Google Code</title> <pre> Implement APIs to support I18N of extensions. This includes:    - Strings in HTML  - Strings in the manifest  - APIs to get strings dynamically from JavaScript (eg for use in alerts)   </pre>

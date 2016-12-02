@@ -1,0 +1,1 @@
+<title>Issue 16999 -   chromium -    can't input into address bar with ibus - Project Hosting on Google Code</title>   1.focus on address bar  2.activate ibus         input anything      can't input anything    <b>Please provide

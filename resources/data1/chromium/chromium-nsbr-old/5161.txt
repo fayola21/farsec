@@ -1,0 +1,1 @@
+<title>Issue 5161 -   chromium -    Middle-clicking on a bookmark in the &quot;other bookmarks&quot; menu closes the menu - Project Hosting on Google Code</title>   1. Open the &quot;Other Bookmarks&quot; menu  2. Middle-click on a bookmark      The bookmarks menu remains open so that other bookmarks may be opened as   well.      The bookmarks menu closes.    Please provide

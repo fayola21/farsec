@@ -1,0 +1,1 @@
+DatabaseMetaData.getTypeInfo returns incorrect MAXIMUM_SCALE value for DECIMAL and NUMERIC types    Maximum scale is returned as 32767 but maximum scale for numerics is 31.   

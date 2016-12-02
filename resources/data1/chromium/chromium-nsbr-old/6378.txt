@@ -1,0 +1,1 @@
+<title>Issue 6378 -   chromium -    Minimize  maximize and close buttons off by a few pixels - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.43      1. Open Chrome with --magic_browzR flag.  2. Maximize the window.      The top of the three buttons are visible.      They are partially off the screen.     </pre>

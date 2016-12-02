@@ -1,0 +1,1 @@
+<title>Issue 35869 -   chromium -    ARM linux builds broken - Project Hosting on Google Code</title> <pre> 1. configure for arm  2. gclient runhooks --force    expected  works    unexpected  fails to find pkg-config-wrapper   </pre>

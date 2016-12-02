@@ -1,0 +1,1 @@
+<title>Issue 23283 -   chromium -    Extension files inaccessible - Project Hosting on Google Code</title>   1. Open in incognito mode  2. open an chrome-extension:// URI either by injecting into a page or   opening directly        File should open  be seen        Unable to open  Error 2 (net::ERR_FAILED): Unknown error.      <b>Please provide

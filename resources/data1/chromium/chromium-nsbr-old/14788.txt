@@ -1,0 +1,1 @@
+<title>Issue 14788 -   chromium -    Payal fails to load from Ebays Buy it now - Project Hosting on Google Code</title>   1. make purchase in Ebay  2. make payment via Paypal      What is the expected result? Transferred to Paypal fro payment      What happens instead? Paypal fails to load      <b>Please provide

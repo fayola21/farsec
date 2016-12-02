@@ -1,0 +1,1 @@
+<title>Issue 2477 -   chromium -    App windows come up de-activated - Project Hosting on Google Code</title> <pre>   1. Have a browser window open (new frames)  2. Start an app window from a shortcut    The app window isn't activated  it should be.     </pre>

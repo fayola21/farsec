@@ -1,0 +1,1 @@
+Http4 component does not support PATCH    If I try to use PATCH  it gives me an error about it not being in an enum. However  the HttpClient does support it.http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/org/apache/http/client/methods/HttpPatch.html   

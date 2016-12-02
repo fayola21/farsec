@@ -1,0 +1,1 @@
+<title>Issue 27215 -   chromium -    Script should only be able to request permission for desktop notifications from user gesture - Project Hosting on Google Code</title> <pre> Per discussions with darin/ifette  we only want to allow a script to request   permissions to show desktop notifications in response to a user gesture.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37216 -   chromium -    FATAL:login_prompt.cc(119) - Project Hosting on Google Code</title>   1. Launch chrome (I have a proxy registered in internet options)  2. Wait  3. Messagebox pops up      www.google.ca loads        Error messagebox with backtrace      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2163 -   chromium -    Questing - Project Hosting on Google Code</title> <pre> Hi   how can i add a yahoo toolbar in chrome. Also i want to add the new toolbar  it looks like mozilla firefoz  is it possible right now or the feature is  added later part in the chrome browser.        Thanks &amp; Regards   Rajeev kumar </pre>

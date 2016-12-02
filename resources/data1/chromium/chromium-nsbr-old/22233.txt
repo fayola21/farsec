@@ -1,0 +1,1 @@
+<title>Issue 22233 -   chromium -    When reverting back from flash full screen nothing is visible in flash. - Project Hosting on Google Code</title>   1.Start any flash movie sight.  2.Make the flash full screen.  3.Revert back with Esc key.      Flash movie is supposed to continue.      Nothing visible in flash area.    <b>Please provide

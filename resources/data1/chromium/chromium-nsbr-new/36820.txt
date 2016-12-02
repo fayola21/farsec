@@ -1,0 +1,1 @@
+<title>Issue 36820 -   chromium -    Two ways to clear cookies but only one works - Project Hosting on Google Code</title>   1. wrench -&gt; options -&gt; personal stuff -&gt; clear browsing data -&gt; check   &quot;Delete cookies&quot;        Cookies are cleared        Cookies are not cleared    <b>Please provide

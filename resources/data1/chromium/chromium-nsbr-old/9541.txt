@@ -1,0 +1,1 @@
+<title>Issue 9541 -   chromium -    Crash when close incognito - Project Hosting on Google Code</title>    1. Open a link in incognito   2. Close the incognito window       The incognito closes and the normal window stays.       Chrome crashes.    <b>Please provide

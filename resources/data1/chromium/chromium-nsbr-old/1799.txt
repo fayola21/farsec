@@ -1,0 +1,1 @@
+<title>Issue 1799 -   chromium -    Facebook main picture - Project Hosting on Google Code</title>   1. when you go to your main picture  2. Press any of the options below  such as &quot;Make Profile Picture&quot;        It is supposed to make it your profile picture      It does nothing.  Unresponsive after click    Please provide

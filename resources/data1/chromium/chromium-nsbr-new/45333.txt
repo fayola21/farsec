@@ -1,0 +1,1 @@
+<title>Issue 45333 -   chromium -    Erratic zoom behavior - Project Hosting on Google Code</title>   1. Not exactly sure          Zoom in one tab not affecting others.      Zooms pages you haven't touched...    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36029 -   chromium -    lot of tabs break a panel - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.89 (38071)      1. Open a lot of tabs      Tabs should become narrow or scroll  or to set up the second row of tabs      It is impossible to open new tabs. This can be seen on the screenshot.     </pre>

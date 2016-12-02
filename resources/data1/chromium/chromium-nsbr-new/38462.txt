@@ -1,0 +1,1 @@
+<title>Issue 38462 -   chromium -    Extension manifest tests should be moved to extension_manifests_unittest.cc - Project Hosting on Google Code</title> <pre> The tests in extension_unittest.cc are too verbose because they manipulate   DictionaryValues directly. The style in extension_manifests_unittest.cc uses   files on disk so it's more data driven and easier to read. </pre>

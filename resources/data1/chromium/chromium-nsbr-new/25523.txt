@@ -1,0 +1,1 @@
+<title>Issue 25523 -   chromium -    Tab based navigation not working in browser action's popup - Project Hosting on Google Code</title>   1. Create a browser action popup with two input boxes   2. Focus on the first input box.  3. Press the tab key.      Focus moves to second input box      Focus remains in the first input box    <b>Please provide

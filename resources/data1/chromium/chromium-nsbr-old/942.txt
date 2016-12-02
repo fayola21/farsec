@@ -1,0 +1,1 @@
+<title>Issue 942 -   chromium -    My Computer slowed down - Project Hosting on Google Code</title>   1. Pentium M 1.2 GHz  WinXP Pro. 768M RAM  40GB HDD  2. Computer has become excessive slow while booting and loading other   programs        performance of other apps should not be affected      pc slowed down    Please provide

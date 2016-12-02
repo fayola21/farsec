@@ -1,0 +1,1 @@
+<title>Issue 22284 -   chromium -    Regression: hidden div expander not functioning - Project Hosting on Google Code</title>   1. Open iGoogle  2. Add Super Digg Widget  3. Right-click on item for more information      A hidden div should be shown  displaying various information.      The Chromium right-click menu appears  and the div is still hidden.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37391 -   chromium -    Duplicate tab on open - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.335.1 (Official Build 39691) dev  OS: Win 7      1. Close all tabs so that application closes  2. Open Chrome  3. Second tab is opened with the current New Tab      Just the original New Tab      Two New Tab tabs are open instead of one     </pre>

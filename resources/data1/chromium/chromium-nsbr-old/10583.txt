@@ -1,0 +1,1 @@
+<title>Issue 10583 -   chromium -    Two finger panning not working in Win 7 - Project Hosting on Google Code</title> <pre> On Win 7     1.  Open a site in Chrome that has enough content to scroll  2.  Try two-finger vertical panning (or other multi-touch actions)  3.  Nothing happens!    Chrome should support multi-touch input like two-finger panning. </pre>

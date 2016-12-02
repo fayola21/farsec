@@ -1,0 +1,1 @@
+<title>Issue 13586 -   chromium -    Feature Request: Compression Technology to improve browsing speeds over limited-bandwidth  - Project Hosting on Google Code</title> <pre> Opera has this feature in Opera 10 (beta) and my testing shows that it   works..and works well.   </pre>

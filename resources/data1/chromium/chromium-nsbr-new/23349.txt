@@ -1,0 +1,1 @@
+<title>Issue 23349 -   chromium -    Chrome does not recognize change in dns servers - Project Hosting on Google Code</title>             Expect to recognize change in DNS servers and use the new ones.      Uses the old cached dns servers.    <b>Please provide

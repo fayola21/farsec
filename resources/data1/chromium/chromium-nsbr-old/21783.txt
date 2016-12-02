@@ -1,0 +1,1 @@
+<title>Issue 21783 -   chromium -    Require complete pass for trybot success - Project Hosting on Google Code</title> <pre> All tests  not just unit tests  should have to pass for the tryserver to call   a job a success. </pre>

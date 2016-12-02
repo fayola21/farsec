@@ -1,0 +1,1 @@
+<title>Issue 34022 -   chromium -    Need to reinstall theme after upgrading to 5.0 - Project Hosting on Google Code</title>   1. Have custom theme applied w/ 4.x  2. Let an auto-update to 5.x occur  3. Theme colors messed up      Custom theme functioning the same after upgrade.      Theme corrupted.    <b>Please provide

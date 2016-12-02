@@ -1,0 +1,1 @@
+<title>Issue 39344 -   chromium -    about the chrome for win 7 - Project Hosting on Google Code</title>   1.increase the support for dictionary of king-software.          the chromium can be stable and support more plug-in.      the chrome was broken down when computer runs the king-software at the same   time.     <b>Please provide

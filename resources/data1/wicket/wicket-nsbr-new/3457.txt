@@ -1,0 +1,1 @@
+Add methods to IBehavior to listen for configuration events    I would like for behaviors to be able to contribute to the configuration of a component (i.e. calling setVisible / setEnabled). Now that we have onConfigure  it would be nice to have components notify their behaviors during the configuration process.   

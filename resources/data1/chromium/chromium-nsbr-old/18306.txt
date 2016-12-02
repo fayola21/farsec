@@ -1,0 +1,1 @@
+<title>Issue 18306 -   chromium -    Download SVG: fail! - Project Hosting on Google Code</title>   1. go to the above url  2. try to download the image (click download  at left)        prompts to download or open file      opens without prompting    <b>Please provide

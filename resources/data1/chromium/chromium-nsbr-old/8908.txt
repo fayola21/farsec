@@ -1,0 +1,1 @@
+<title>Issue 8908 -   chromium -    HTML special characters display even without the ending ;  - Project Hosting on Google Code</title>   1.create a web page with &quot;&amp;lt&quot;  2.look at the page        you should see &amp;lt because there is no ending &quot;;&quot;      you see &quot;&lt;&quot;    <b>Please provide

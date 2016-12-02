@@ -1,0 +1,1 @@
+<title>Issue 35030 -   chromium -    blocking images affectig new tab  extensions - Project Hosting on Google Code</title> <pre> blocking images shouldn't affect chrome:/extensions  about:    chrome://newtab/..    Google Chrome	5.0.317.2 (Official Build 38193) dev </pre>

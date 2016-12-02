@@ -1,0 +1,1 @@
+<title>Issue 38679 -   chromium -    Regression: Focus rects sometimes have wrong size - Project Hosting on Google Code</title> <pre> Due to my removal of the hack in label.cc to always calculate text bounds as   multi-line  the radio buttons in the blocked content bubbles get focus rects   that are the wrong height. </pre>

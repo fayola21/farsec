@@ -1,0 +1,1 @@
+<title>Issue 8701 -   chromium -    &quot;Add Cc&quot; and &quot;Add Bcc&quot; broken in Gmail - Project Hosting on Google Code</title>   1. Goto your gmail account  2. Click compose new message  3. Click Add Cc or Add Bcc      A Cc or Bcc text box should open      Text box doesn't show up    <b>Please provide

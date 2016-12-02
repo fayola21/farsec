@@ -1,0 +1,1 @@
+<title>Issue 11604 -   chromium -    New Layout test failures for WebKit merge 42932:42994 - Project Hosting on Google Code</title> <pre> Remaining layout test failure regressions from the merge:    DEBUG WIN : LayoutTests/transitions/repeated-firing-background-color.html   = FAIL PASS  MAC : LayoutTests/fast/dom/Document/open-with-pending-load.html =   CRASH   </pre>

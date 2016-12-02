@@ -1,0 +1,1 @@
+Use ServiceMix guice bundle    In order to avoid to go on the googlecode maven repository  I provided a ServiceMix OSGi bundle for guice.This bundle could be used by Camel in the Karaf features descriptor.   

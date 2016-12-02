@@ -1,0 +1,1 @@
+<title>Issue 1686 -   chromium -    Tabs opened from bookmarks should not overwrite/replace current tabs - Project Hosting on Google Code</title>   1. Open a few pages.  2. Open a folder of bookmarks.        My original tabs remain and the tabs created from the bookmarks are added  on to those.        My current set of tabs are replaced by the bookmarked tabs.    Please provide

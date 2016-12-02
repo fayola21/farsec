@@ -1,0 +1,1 @@
+<title>Issue 1924 -   chromium -    cannot minimize chrome on vista os - Project Hosting on Google Code</title>   1. open chrome for browsing  2. then try to use minimize button on the right hand corner         it should minimize the browser      does nothing    Please provide

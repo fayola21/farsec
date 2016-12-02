@@ -1,0 +1,1 @@
+<title>Issue 21426 -   chromium -    Regression: refresh/paint issues with windowless transparent flash - Project Hosting on Google Code</title>   1. Open espn.com (SportsNation poll at the bottom) or cnbbankdirect.com      flash renders correctly      Flash having paint issues making text unreadable.    <b>Please provide

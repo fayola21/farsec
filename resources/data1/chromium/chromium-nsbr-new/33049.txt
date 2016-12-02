@@ -1,0 +1,1 @@
+<title>Issue 33049 -   chromium -    The extension API should not throw an error when optional parameters are left out. - Project Hosting on Google Code</title>   1. Use an extension API that has optional parameters.  2. Do not supply the optional parameters.      The function should run properly.      It throws an error.    <b>Please provide

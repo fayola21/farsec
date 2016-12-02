@@ -1,0 +1,1 @@
+<title>Issue 30713 -   chromium -    WebWorkers from extensions have odd names in the Task manager - Project Hosting on Google Code</title> <pre> Fire up an extension that starts a WebWorker (like SpeedTracer)  Bring up the task manager  See that the WebWorker in the task manager shows the guid of the extension instead of the name   of the extension.   </pre>

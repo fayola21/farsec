@@ -1,0 +1,1 @@
+<title>Issue 44055 -   chromium -    WebInspector: Docked-Mode minimization/maximization. - Project Hosting on Google Code</title> <pre> Chrome Version       : all    Docked-Mode minimization/maximization: Having to resize the window is annoying  very   annoying. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38011 -   chromium -    Listening for xhr.upload &quot;progress&quot; events causes hard crash - Project Hosting on Google Code</title>   1. Create a new XMLHttpRequest()  2. call xhr.upload.addEventListener(&quot;progress&quot; ...);  3. call xhr.send(File)      File uploads and progress events are disptached      Hard browser crash.    <b>Please provide

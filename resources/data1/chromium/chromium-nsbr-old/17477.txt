@@ -1,0 +1,1 @@
+<title>Issue 17477 -   chromium -    Show &quot;Tips and Suggestions&quot; on NNTP based on different locales and languages - Project Hosting on Google Code</title> <pre> Are we going to show different &quot;Tips and Suggestions&quot; on NNTP based on   different locales and languages?   </pre>

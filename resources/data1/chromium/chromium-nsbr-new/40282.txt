@@ -1,0 +1,1 @@
+<title>Issue 40282 -   chromium -    Edit/Delete links(buttons) should be present beside each profile - Project Hosting on Google Code</title> <pre> It would be nice to have edit and delete buttons beside each profile.    If user wants to delete some profiles  they need to first open up each   profile to delete.   </pre>

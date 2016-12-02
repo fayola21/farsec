@@ -1,0 +1,1 @@
+<title>Issue 2734 -   chromium -    MessageLoop leaks some tasks - Project Hosting on Google Code</title> <pre> MessageLoop leaks some tasks    See MessageLoop's destructor to see the commented out code that attempts to   delete tasks  which have not run yet. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 24874 -   chromium -    ChromeFrame uses deprecated wstring functions - Project Hosting on Google Code</title> <pre> chrome frame should use FilePath instead of wstring when representing file   paths. I don't know why new code was committed to the tree that uses   functions which were deprecated over a year ago. </pre>

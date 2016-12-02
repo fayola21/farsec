@@ -1,0 +1,1 @@
+Allow using child selector for JS event bindings    http://api.jquery.com/on/ has an optional 'selector' parameter that is used to to filter the descendants of the selected elements that trigger the event.It would be nice if Wicket's Wicket.Event.add() API provides a way to use it.Additionally it should be possible the selector to be set via AjaxRequestAttributes   

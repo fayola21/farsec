@@ -1,0 +1,1 @@
+<title>Issue 6973 -   chromium -    Tabs wrong in 2.0.158.0 - Project Hosting on Google Code</title>   1. open chrome  2. open multiple tabs  3. maximize window  4. tabs are displayed strange  even when again minimized      normal tab behaviour      strange tab behaviour    Please provide

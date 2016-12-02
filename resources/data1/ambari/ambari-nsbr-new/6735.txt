@@ -1,0 +1,1 @@
+Once RM HA is config'd  none of the RM summary info or RM dashboard widgets show data    Configure RM HA. None of the summary info shows in Services &gt; YARN &gt; Summary All of the RM Dashboard widgets show N/A   

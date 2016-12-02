@@ -1,0 +1,1 @@
+<title>Issue 21535 -   chromium -    toolstrips: make handles look better - Project Hosting on Google Code</title> <pre> Currently toolstrip drag handles are just a big rectangle.  There should   probably be some rounding / shading  etc.  Need mocks from Glen here. </pre>

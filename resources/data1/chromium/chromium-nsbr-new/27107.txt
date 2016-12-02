@@ -1,0 +1,1 @@
+<title>Issue 27107 -   chromium -    Word Press Blog - Bulk actions on Comments - Project Hosting on Google Code</title>   1.Login to Wordpress blog  2.Go to comments  3.Mark All  4.Bulk Actions drop down list  5.No options appear      Drop down list for bulk actions on comments      Nothing appears in the list    <b>Please provide

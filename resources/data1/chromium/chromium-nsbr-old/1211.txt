@@ -1,0 +1,1 @@
+<title>Issue 1211 -   chromium -    word &quot;about:%&quot; close de browser - Project Hosting on Google Code</title>   1. in adress bar insert the word about:%      search  or nothing      Crash    Please provide

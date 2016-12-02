@@ -1,0 +1,1 @@
+NullPointerException in JsonRequestLogger when logging resource requests    The use of NopAnnotationIntrospector causes NullPointerExceptions when trying to log enum values. The attached patch fixes this by changing to JacksonAnnotationIntrospector  which is the default introspector.   

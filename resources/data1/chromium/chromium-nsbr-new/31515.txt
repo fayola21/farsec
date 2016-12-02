@@ -1,0 +1,1 @@
+<title>Issue 31515 -   chromium -    Text drawing on top of other text. - Project Hosting on Google Code</title>   1. Open this issue.  2. Scroll horizontally.        Text in left column doesn't get drawn atop other text.      Text in left column gets drawn atop this text.    <b>Please provide

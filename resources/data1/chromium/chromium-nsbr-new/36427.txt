@@ -1,0 +1,1 @@
+<title>Issue 36427 -   chromium -    Chrome crashed when trying to move selected text - Project Hosting on Google Code</title>   1. Select text with mouse  2. Move selected text anywhere  3. Chrome crashed      Nothing special      Chrome crashed    <b>Please provide

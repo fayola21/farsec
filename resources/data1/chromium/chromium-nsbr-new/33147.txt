@@ -1,0 +1,1 @@
+<title>Issue 33147 -   chromium -    Cannot type 2nd word in phrase  shift key cause exiting IME editing mode in Quick IME -Windows7 only - Project Hosting on Google Code</title>   1.Launch Chrome  2.Type chinese with Quick in URL bar      I can type chinese correctly      I cannot correctly type it because the input method(quick) always lost its   focus.    <b>Please provide

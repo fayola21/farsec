@@ -1,0 +1,1 @@
+<title>Issue 1935 -   chromium -    referer-header is not set when opening link in new tab via context menu - Project Hosting on Google Code</title>   1. rightclick a link and choose 'open in new tab' or middle-click the link  2. The http-request on the new tab doesn't send the referer header to the   server.                  Please provide

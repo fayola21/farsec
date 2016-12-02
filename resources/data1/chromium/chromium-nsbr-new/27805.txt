@@ -1,0 +1,1 @@
+<title>Issue 27805 -   chromium -    &quot;alternate&quot; attribute doesn't work on the &quot;marquee&quot; HTML element - Project Hosting on Google Code</title>   1. &lt;marquee behavior=alternate doesn't  alternate the text          The alternate option should make the text alternate back and forth   repeatedly.      The text doesn't move at all.    <b>Please provide

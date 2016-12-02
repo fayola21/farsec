@@ -1,0 +1,1 @@
+<title>Issue 912 -   chromium -    problema con el scroll del mouse - Project Hosting on Google Code</title>   1. abro google chrome  2. busco cualquier pagina  3. le doy el scroll del mouse hacia abajo  4. doy el scrool del mouse hacia arriba y no lo hace.      no funciona a la totalidad el scroll del mouse          Please provide

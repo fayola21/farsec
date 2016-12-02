@@ -1,0 +1,1 @@
+Context-sensitive setting of default UuidGenerator    Use JavaUuidGenerator in GAE environment  otherwise use ActiveMQUuidGenerator as default UuidGenerator.   

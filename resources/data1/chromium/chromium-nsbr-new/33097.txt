@@ -1,0 +1,1 @@
+<title>Issue 33097 -   chromium -    User data directory restricted unreasonably in path length - Project Hosting on Google Code</title>   1. google-chrome --user_data_dir=/some/140/character/path      Chrome starts using that directory        Check failed: path.length() &lt; arraysize(addr-&gt;sun_path). Socket path too   long: .../SingletonSocket    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 820 -   chromium -    Editing Squidoo page puts side bar at the bottom of the page - Project Hosting on Google Code</title>   1. Create a lens  2. Edit a subsection      The sidebar is at the bottom of the page during the edit session.              Please provide

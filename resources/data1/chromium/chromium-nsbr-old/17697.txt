@@ -1,0 +1,1 @@
+<title>Issue 17697 -   chromium -    REGRESSION: Omnibox search results come back escaped - Project Hosting on Google Code</title> <pre> Search for &quot;C++ POD&quot; in the omnibox.  Now type &quot;C&quot;.  Look at the match for   &quot;C%2B%2B POD&quot;.  ?! </pre>

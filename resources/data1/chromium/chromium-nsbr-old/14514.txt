@@ -1,0 +1,1 @@
+<title>Issue 14514 -   chromium -    Null pointer dereference in document wrapper caching code - Project Hosting on Google Code</title> <pre> If instantiation of the document wrapper fails we get an empty handle.  Using   an empty handle in ForceSet will lead to a null pointer dereference.    We just need to bail out in that case and clear the cache. </pre>

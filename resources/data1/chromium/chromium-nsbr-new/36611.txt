@@ -1,0 +1,1 @@
+<title>Issue 36611 -   chromium -    Indian lang version chrome menu slightly cut off in Mac - Project Hosting on Google Code</title> <pre> Chrome: 5.0.322.2      1.change system prefer language to Hindi  2.launch Chrome        the Hindi chrome menu are slightly cut off at the top. this issue also   happen in other Indian language like marathi.         </pre>

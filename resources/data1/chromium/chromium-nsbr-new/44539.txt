@@ -1,0 +1,1 @@
+<title>Issue 44539 -   chromium -    'Unpin tab' is not translated - Project Hosting on Google Code</title> <pre> [Language]French    [Version number]4.x 5.x 6.x    [OS details]XP    [Where is the poor translation?]Right click on a tab after pinned. See   &quot;Unpin tab&quot;.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13914 -   chromium -    :: sigh :: Regression: We always pop up the extension dialog behind the browser window now - Project Hosting on Google Code</title> <pre> Not sure when this regressed. I suspect it is because the dialog code got   moved to a background thread in ExtensionsServiceBackend. </pre>

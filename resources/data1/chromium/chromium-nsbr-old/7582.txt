@@ -1,0 +1,1 @@
+<title>Issue 7582 -   chromium -    I click on an inactive tab  the chrome frozes a while along with my mouse - Project Hosting on Google Code</title>                       Please provide

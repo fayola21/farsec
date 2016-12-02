@@ -1,0 +1,1 @@
+<title>Issue 41948 -   chromium -    Cannot drag subfolder to another root folder in bookmark manager - Project Hosting on Google Code</title>   1. Open bookmark manager  2. Create folder with subfolder  3. Try to to drag subfolder to another folder or root folder        Folder is moved to another root        Nothing.      <b>Please provide

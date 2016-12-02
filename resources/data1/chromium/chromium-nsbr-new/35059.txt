@@ -1,0 +1,1 @@
+<title>Issue 35059 -   chromium -    Can No longer Pin Tabs - Project Hosting on Google Code</title>   1. Attempt to pin tabs through right click context menu  no option exists  2. attempt to pin tabs via dragging  nothing happens          tabs become pinned        nothing      <b>Please provide

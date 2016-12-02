@@ -1,0 +1,1 @@
+<title>Issue 4062 -   chromium -    DCHECK is triggered in SSLCleintSocketWin::DoPayLoadEncrypt - Project Hosting on Google Code</title> <pre> In a fresh ToT build  DCHECK was fired in ssl_client_socket_win.cc   (SSLCleintSocketWin::DoPayLoadEncrypt : user_buf_len is 0)..    It happened when I tried to go to webkit bugzilla (that uses https)        </pre>

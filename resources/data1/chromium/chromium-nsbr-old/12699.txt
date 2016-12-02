@@ -1,0 +1,1 @@
+<title>Issue 12699 -   chromium -    throbber is stuck and not animating  - Project Hosting on Google Code</title> <pre> Chrome 3.0.182.1    1. Go to a site that takes some time to load (i.e. www.naver.com and click on an article)      The throbber should be spinning while loading. Now it is  stuck with only a quarter of the circle   displayed        </pre>

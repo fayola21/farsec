@@ -1,0 +1,1 @@
+<title>Issue 23086 -   chromium -    Extension code has hard coded  user visible  messages  - Project Hosting on Google Code</title> <pre>   1. Trigger a bug in extension loading  2. Dialog should pop-up with message in english (no matter the browser   locale)    We should move all hard coded strings into resource file and have them   translated. </pre>

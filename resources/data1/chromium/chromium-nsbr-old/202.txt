@@ -1,0 +1,1 @@
+<title>Issue 202 -   chromium -    chrome multiple tabs rearrange - Project Hosting on Google Code</title>   1. Opened 4 tabs in chrome  2. click particular tab and pull to the place wherever you want  3. When i try to rearrange tab order gets lost or sometimes its not re   arranging...                Please provide

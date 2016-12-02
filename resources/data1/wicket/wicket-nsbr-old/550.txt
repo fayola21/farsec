@@ -1,0 +1,1 @@
+Use WebRequestEncoder everywhere a query string is constructed       

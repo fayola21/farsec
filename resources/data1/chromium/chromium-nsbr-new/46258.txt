@@ -1,0 +1,1 @@
+<title>Issue 46258 -   chromium -    No save password prompt for shadowmere.de - Project Hosting on Google Code</title> <pre>   1. go to shadowmere.de  2. type a username and password  3. click login      expect a save password prompt  but get none </pre>

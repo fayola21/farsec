@@ -1,0 +1,1 @@
+<title>Issue 37445 -   chromium -    Status bubble draws incorrectly in fullscreen mode - Project Hosting on Google Code</title> <pre> I suspect Avi's theming changes.    Since this is pretty visible (bubble is black instead of white  which makes the text unreadable)  I   suspect this should be fixed for the next beta. </pre>

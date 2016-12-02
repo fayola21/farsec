@@ -1,0 +1,1 @@
+<title>Issue 11093 -   chromium -    Enable -Werror on valgrind bots - Project Hosting on Google Code</title> <pre> The valgrind bots compile with -O1 via an override in ~/.gyp/include.gypi.   The -O1 build has some compiler warnings so I turned -Werror off on those  bots (via the same file).  It would be nice to eventually turn this back on. </pre>

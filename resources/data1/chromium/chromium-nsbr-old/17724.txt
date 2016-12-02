@@ -1,0 +1,1 @@
+<title>Issue 17724 -   chromium -    Browser won't close tabs/window - Project Hosting on Google Code</title>             click X button and tab closes       impossible to close tabs  using taskman on a separated tab produces the   result below and all chrome instances are closed    <b>Please provide

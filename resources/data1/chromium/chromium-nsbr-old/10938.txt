@@ -1,0 +1,1 @@
+<title>Issue 10938 -   chromium -    Popup styling in Mac Omnibox is non-existent. - Project Hosting on Google Code</title> <pre> Type anything that will pull up the pop-up.  &quot;word&quot;.  The popup shows a bunch of plain text    occurances of &quot;word&quot; should be highlighted  URLs should be styled  etc. </pre>

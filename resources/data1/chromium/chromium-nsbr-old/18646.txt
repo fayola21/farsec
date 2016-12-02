@@ -1,0 +1,1 @@
+<title>Issue 18646 -   chromium -    Enable incremental linking for 64-bit systems - Project Hosting on Google Code</title> <pre> Gyp supports this now (cf. <a href="http://code.google.com/p/gyp/issues/detail?">http://code.google.com/p/gyp/issues/detail?</a>  id=11).  Enabling incremental linking on 64-bit systems should speed up   builds. </pre>

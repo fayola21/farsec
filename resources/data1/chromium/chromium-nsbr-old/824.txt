@@ -1,0 +1,1 @@
+<title>Issue 824 -   chromium -    the google talk chat window inside gmail is way too small and there is no way to resize it - Project Hosting on Google Code</title>   1. login to gmail using chrome  2. open a chat window inside gmail  3. The chat window is tiny and you can't resize it                Please provide

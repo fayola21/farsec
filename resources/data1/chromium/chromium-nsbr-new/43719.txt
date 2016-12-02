@@ -1,0 +1,1 @@
+<title>Issue 43719 -   chromium -    Monitor the HTML5 compliance test: http://beta.html5test.com/ - Project Hosting on Google Code</title>   1. Open the above mentioned URL  2. Have a look at the result      See a result of 250/250.      A result of 188/250 (Chromium) 178/250 (Chrome).    Please provide

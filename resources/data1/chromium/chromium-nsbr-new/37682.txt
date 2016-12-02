@@ -1,0 +1,1 @@
+<title>Issue 37682 -   chromium -    Can't Use Facebook Chat - Project Hosting on Google Code</title>   1. Open faceebook.com  2. Login  3. Try to chat on facebook      Can Chat on faceebok      I Can't click the chat button on the bottom right of the browser    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21931 -   chromium -    Investigate sending keep-alives to renderer process for the foreground tab to keep it from being swapped out - Project Hosting on Google Code</title> <pre> Does this improve the issue that people have when taking a laptop out of   sleep?  Need to write tests that reproduce this  and measure effects of   pinging the process. </pre>

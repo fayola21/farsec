@@ -1,0 +1,1 @@
+InstrumentationProcessor should catch Throwable    The InstrumentationProcessor currently only catches exception and sets it in the exception. Runtime errors and throwables can be thrown all the way out of the DeadLetterChannel's process method  out of the reach of exception policy.   

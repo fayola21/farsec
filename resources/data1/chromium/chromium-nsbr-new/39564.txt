@@ -1,0 +1,1 @@
+<title>Issue 39564 -   chromium -    GIF pictures don't show - Project Hosting on Google Code</title>   1. Open page.        Button &quot;Continue&quot; in Russian :)      There is no &lt;input type=image&gt; button in the end of the form    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32792 -   chromium -    Faster compilation of top-level JS code - Project Hosting on Google Code</title> <pre> Make top-level JavaScript code compile faster. </pre>

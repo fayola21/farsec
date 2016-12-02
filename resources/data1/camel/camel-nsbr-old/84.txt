@@ -1,0 +1,1 @@
+Throw Useful Exception on No TypeConverter Available    When there is no type converter available an NPE is thrown that requires tracing through sources to find root of problem   

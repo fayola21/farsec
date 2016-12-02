@@ -1,0 +1,1 @@
+<title>Issue 29816 -   chromium -    Full screen hides toolbars - Project Hosting on Google Code</title>   1. Use gnome's full screen function.    What is the expected result?  The panel should disappear  but the tab bar   and address bar should stay.    What happens instead?  Everything disappears except for the page.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36989 -   chromium -    Chromium crashes with lots of tabs open. Windows Vista Home Premium - Project Hosting on Google Code</title>   1. Many tabs open  2. Chrome crashes  3. Repeats when restore tabs on restart  4. Don't know the specific web site that causes. Maybe downloading pdf?                    <b>Please provide

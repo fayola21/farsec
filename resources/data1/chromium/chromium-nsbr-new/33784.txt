@@ -1,0 +1,1 @@
+<title>Issue 33784 -   chromium -    Chrome 5.0.307.1 DEV Bug - Project Hosting on Google Code</title> <pre> Chrome 5.0.307.1 DEV  The function of the loading unpacked plugins does NOT work! </pre>

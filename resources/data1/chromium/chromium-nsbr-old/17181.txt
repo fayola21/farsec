@@ -1,0 +1,1 @@
+<title>Issue 17181 -   chromium -    autorecovery of opened pages didn't work - Project Hosting on Google Code</title>   1. Go to any page  2. Get a BSoD (stop error)  3. Reboot  4. Open chrome  5. Note that it won't ask you to recover the pages that were opened when   chrome didn't shut down correctly      To be able to recover these pages      no recovery    <b>Please provide

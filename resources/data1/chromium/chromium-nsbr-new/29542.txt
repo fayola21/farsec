@@ -1,0 +1,1 @@
+<title>Issue 29542 -   chromium -    Peacekeeper bench stuck at 2/6 - Project Hosting on Google Code</title> <pre> Ubuntu 9.10/Chrome 4.0.265    When running Peacekeeper bench it's stuck at 2/6 test.         </pre>

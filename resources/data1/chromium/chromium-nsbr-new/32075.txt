@@ -1,0 +1,1 @@
+<title>Issue 32075 -   chromium -    SVG path disappears if it extends to 32768 - Project Hosting on Google Code</title>   1. Open test case HTML file.  2. The blue box has 4 paths which extend to +/- 32767 and is OK.  3. The red box has 4 paths which extend to +/- 32768 and fails.      Both boxes should look the same.      Red box is empty.    <b>Please provide

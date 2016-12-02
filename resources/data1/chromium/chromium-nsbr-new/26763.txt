@@ -1,0 +1,1 @@
+<title>Issue 26763 -   chromium -    Chrome isn't supported by 1Password - Project Hosting on Google Code</title> <pre> 1Password is a really handy tool and claims to support &quot;most modern   browsers&quot;    Chrome Mac might be a little &quot;too modern&quot; and hence isn't supported :) </pre>

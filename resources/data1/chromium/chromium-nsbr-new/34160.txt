@@ -1,0 +1,1 @@
+<title>Issue 34160 -   chromium -    Enable stricter warnings to match NaCL - Project Hosting on Google Code</title> <pre> NaCl builds with the following on Linux:    '-pedantic'     '-Wextra'     '-Wno-long-long'     '-Wswitch-enum'     '-Wsign-compare'     Without these  NaCL-in-Chrome development frequently breaks the NaCL build.    We should consider turning them on. </pre>

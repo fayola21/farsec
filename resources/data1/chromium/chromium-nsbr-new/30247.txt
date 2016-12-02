@@ -1,0 +1,1 @@
+<title>Issue 30247 -   chromium -    Infinite layout loop in popup - Project Hosting on Google Code</title> <pre> The attached extension caused a weird layout loop on a developer's mac ad   addon-con. </pre>

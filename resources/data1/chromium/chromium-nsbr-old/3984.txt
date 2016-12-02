@@ -1,0 +1,1 @@
+<title>Issue 3984 -   chromium -    Youtube uploading problem - Project Hosting on Google Code</title>   1. Upload video to youtube          Video should upload first try.      Video uploading to YouTube on Chromium build 4309 appears to be broken.   I've tried 5 times now. Then I tried in Chrome Dev build 0.3.154.9 and it   worked fine the first try.    Please provide

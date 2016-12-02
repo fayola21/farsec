@@ -1,0 +1,1 @@
+<title>Issue 1445 -   chromium -    Gmail on chrome doesnt refreshes automaticly - Project Hosting on Google Code</title>   1. Go to Gmail main page  2. When you recieve a new mail   Gmail doesnt refreshes the new arrived   mail automaticly                   Please provide

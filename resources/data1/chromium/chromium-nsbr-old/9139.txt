@@ -1,0 +1,1 @@
+<title>Issue 9139 -   chromium -    Tab Dragging and views-gtk - Project Hosting on Google Code</title> <pre> Figure out how to drag detached tabs with views-gtk.    This may be similar to the new tab dragging scheme I have in mind for   windows. Let me know if you're looking at this. </pre>

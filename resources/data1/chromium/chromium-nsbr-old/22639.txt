@@ -1,0 +1,1 @@
+<title>Issue 22639 -   chromium -    encoding menu in the page menu isn't hooked up - Project Hosting on Google Code</title> <pre> the encoding menu in the page menu isn't hooked up (but the menubar one   is wired) </pre>

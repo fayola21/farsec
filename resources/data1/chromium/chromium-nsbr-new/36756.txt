@@ -1,0 +1,1 @@
+<title>Issue 36756 -   chromium -    Chrome crashes when dragging highlighted text - Project Hosting on Google Code</title>   1. Highlight some text.  2. Left Click on text and attempt to drag it (anywhere)  3. Instant browser bomb - whole browser  not just tab.                <b>Please provide

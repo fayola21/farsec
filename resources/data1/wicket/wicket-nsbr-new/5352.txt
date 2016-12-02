@@ -1,0 +1,1 @@
+Make Palette a FormComponentPanel    Having Palette extend FormComponentPanel would allow it to be used as any other FormComponent  e.g. controlling required and validation.   

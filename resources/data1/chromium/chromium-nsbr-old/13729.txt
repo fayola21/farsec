@@ -1,0 +1,1 @@
+<title>Issue 13729 -   chromium -    Back button paints hot after navigating to a new page - Project Hosting on Google Code</title> <pre> whenever I navigate to a new page  the back button paints as if I am   hovering over it. If I hover over it then mouse off it  it goes back to   normal. </pre>

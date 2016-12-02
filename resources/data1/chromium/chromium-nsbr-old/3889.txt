@@ -1,0 +1,1 @@
+<title>Issue 3889 -   chromium -    MiniInstallerCleanInstallTest failing - Project Hosting on Google Code</title> <pre> Looks like <a href="/p/chromium/source/detail?r=4219">r4219</a>  the fix in <a href="http://codereview.chromium.org/7944">http://codereview.chromium.org/7944</a>   is to   blame. </pre>

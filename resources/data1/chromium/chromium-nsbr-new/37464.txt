@@ -1,0 +1,1 @@
+<title>Issue 37464 -   chromium -    Chrome crashes consistently when loading iGoogle page - Project Hosting on Google Code</title>   1. Launch chrome  2. Go navigate to my iGoogle page      iGoogle page renders correctly      Chrome crashes and prompt to restart.      <b>Please provide

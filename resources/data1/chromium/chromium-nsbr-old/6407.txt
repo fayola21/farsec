@@ -1,0 +1,1 @@
+<title>Issue 6407 -   chromium -    Wishlist: Google Chrome for iPhone - Project Hosting on Google Code</title> <pre> Apple allows new browsers for iPhone. It would be cool if Google Chrome   would be available for it  too </pre>

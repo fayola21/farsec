@@ -1,0 +1,1 @@
+camel-cache - Missing some classes in .jar    See nabblehttp://old.nabble.com/Camel-Cache%3A-Processors-not-released--ts26908653.html   

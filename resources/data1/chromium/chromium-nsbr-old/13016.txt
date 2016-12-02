@@ -1,0 +1,1 @@
+<title>Issue 13016 -   chromium -    Autocomplete dropdown uses the wrong font - Project Hosting on Google Code</title> <pre> The font used in the autocomplete dropdown in a text box (e.g. the search   box above -- click on it then hit the down key) doesn't match the font used in   the dropdown itself. </pre>

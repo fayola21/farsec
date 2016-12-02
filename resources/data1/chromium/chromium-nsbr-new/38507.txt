@@ -1,0 +1,1 @@
+<title>Issue 38507 -   chromium -    Swahili Build&gt;History: Cannot un-bookmark pages from History page - Project Hosting on Google Code</title>   1.Ctrl+H&gt;Try to un-bookmark previously bookmarked page          Can un-bookmark pages in History page.      The bookmark star is not clickable      <b>Please provide

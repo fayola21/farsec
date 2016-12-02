@@ -1,0 +1,1 @@
+<title>Issue 13597 -   chromium -    Inspector doesn't work - Project Hosting on Google Code</title>   1. right click on any page  2. click on &quot;Inspect element&quot;      a working inspector window appears  with the element that was right clicked   on highlighted.      a non-working inspector window appears. a screenshot is attached.    <b>Please provide

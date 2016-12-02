@@ -1,0 +1,1 @@
+<title>Issue 31989 -   chromium -    &quot;Extension installed&quot; message should end with a period. - Project Hosting on Google Code</title> <pre>   1. Install an extension.  2. Note that &quot;Installed message&quot; does not end with a period.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13716 -   chromium -    No support for inline PDF on the Mac - Project Hosting on Google Code</title> <pre> If you view a PDF  e.g.:     <a href="http://www.whatwg.org/specs/web-apps/current-work/html5-letter.pdf">http://www.whatwg.org/specs/web-apps/current-work/html5-letter.pdf</a>  ...the PDF should show inline. </pre>

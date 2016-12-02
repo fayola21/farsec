@@ -1,0 +1,1 @@
+<title>Issue 17179 -   chromium -    Freeze for 15s when opening option dialog box - Project Hosting on Google Code</title>   1. Open google-chrome  2. Open option dialog box from the menu  3. Everything freeze for about 15 seconds before the dialog box appears                <b>Please provide

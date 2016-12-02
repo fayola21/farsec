@@ -1,0 +1,1 @@
+<title>Issue 18300 -   chromium -    When entering an address chrome freezes and then reboots - Project Hosting on Google Code</title>   1. Enter an address in the address field  from time to time (about 25% of  the time leads to freeze of the whole system and after some time it reboots      Reboot    <b>Please provide

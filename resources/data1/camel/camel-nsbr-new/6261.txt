@@ -1,0 +1,1 @@
+Simple ognl expression - Possible NPE when using String replaceFirst and replacing with an empty string    See nabblehttp://camel.465427.n5.nabble.com/2-11-NPE-with-replaceFirst-tp5730321.html   

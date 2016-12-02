@@ -1,0 +1,1 @@
+<title>Issue 12304 -   chromium -    Linux: tab dragging crash - Project Hosting on Google Code</title> <pre> Drag a tab downwards. It causes a seg fault. It's not easy to get the stack  trace because if you use GDB  the crashed program stays alive and grabs all  input.    using <a href="/p/chromium/source/detail?r=16458">r16458</a> </pre>

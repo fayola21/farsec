@@ -1,0 +1,1 @@
+<title>Issue 11284 -   chromium -    Chrome's control style is Windows default  bug? - Project Hosting on Google Code</title>   1. Load any page  2. See Windows default styled controls  instead of Vista/Windows 7      Correctly styled controls (buttons  text fields  etc)      Control styles are rendered as the Windows default (2k)    <b>Please provide

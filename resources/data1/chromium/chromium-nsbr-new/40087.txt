@@ -1,0 +1,1 @@
+<title>Issue 40087 -   chromium -    Yahoo mail fail in 5.0.356.0/5.0.360.0/5.0.360.4 - Project Hosting on Google Code</title>   1. Open mail  2. Open 2-3 letters in different folders  3. Hit - forward or replay on any letter.  4. Site crush.      Open tab for forward or replay      Site crush.    <b>Please provide

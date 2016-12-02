@@ -1,0 +1,1 @@
+<title>Issue 38376 -   chromium -    Layout Test editing/deleting/5390681-2.html fails on WIN - Project Hosting on Google Code</title> <pre> The following layout tests is failing on WIN:    editing/deleting/5390681-2.html = IMAGE+TEXT    Caused by WebKit roll 55940 -&gt; 56004.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13711 -   chromium -    Alt-D does not work when in editbox - Project Hosting on Google Code</title>   1. Open a page with an edit box (say  http://go  2. Click on an edit box and type something  3. Press alt-d      Cursor goes to Omnibox and highlights entire entry for editing        &quot;d&quot; appears in the current edit box.      <b>Please provide

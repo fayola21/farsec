@@ -1,0 +1,1 @@
+<title>Issue 43655 -   chromium -    High CPU usage (www.hirkereso.hu  persist.js: this.store.setItem; QUOTA_EXCEEDED_ERR: DOM Exception 22) - Project Hosting on Google Code</title>   1. go to the address          CPU = 0%-5%        CPU = 35%-50%      <b>Please provide

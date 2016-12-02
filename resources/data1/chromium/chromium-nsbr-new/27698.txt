@@ -1,0 +1,1 @@
+<title>Issue 27698 -   chromium -    Pasting some text into the URL bar crashes Chrome - Project Hosting on Google Code</title>   1. Load data:text/plain;charset=utf-  8 %F0%9D%92%9C%F0%9D%92%9C%20a%20a  2. Command-A  Command-C  Command-L  Command-V      Some odd text in the URL bar      Boom!    <b>Please provide

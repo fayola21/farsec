@@ -1,0 +1,1 @@
+<title>Issue 12949 -   chromium -    UI: Google Chrome settings window: Checkboxes are flickering while scrolling - Project Hosting on Google Code</title>   1. Open Setting window  2. Switch to &quot;_��__�܁��___�ܕ�__��_____��_��__��_&quot; tab      Smooth scrolling with all the elements available is expected      Checkboxes are flickering when scrolling    <b>Please provide

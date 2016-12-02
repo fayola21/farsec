@@ -1,0 +1,1 @@
+<title>Issue 33277 -   chromium -    bug with theme - Project Hosting on Google Code</title>   1. Update version from 3.0.4 ( or some ) to 4.0.249.78        I had a theme of &quot;Brushed&quot; (by Google)  and after the upgrade is not fully   established.    <b>Please provide

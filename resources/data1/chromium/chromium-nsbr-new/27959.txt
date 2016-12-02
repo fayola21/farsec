@@ -1,0 +1,1 @@
+<title>Issue 27959 -   chromium -    can't input chinese while browsing google wave on chromium - Project Hosting on Google Code</title>   1.open wave  2.type chinese        should be able to input chinese      random letters output    <b>Please provide

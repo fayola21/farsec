@@ -1,0 +1,1 @@
+<title>Issue 23230 -   chromium -    Rendering issue on top of a page - Project Hosting on Google Code</title>   1.visit <a href="http://www.nylottery.org/index.php">http://www.nylottery.org/index.php</a>  2.top nav broken with dots        top nav in working      LI bullets visible    <b>Please provide

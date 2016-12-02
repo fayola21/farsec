@@ -1,0 +1,1 @@
+<title>Issue 2103 -   chromium -    Can not minimize/close chrome on Vista - Project Hosting on Google Code</title>   1. Vista on Dell laptop  2. Open Chrome   3. hit minimize or close button      Minimize or close Chrome      Nothing    Please provide

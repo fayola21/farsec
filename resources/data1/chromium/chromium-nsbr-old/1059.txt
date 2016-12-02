@@ -1,0 +1,1 @@
+<title>Issue 1059 -   chromium -    chorme can't open ssh throught http proxy  - Project Hosting on Google Code</title>   1. set http proxy  2. open <a href="https://mail.google.com">https://mail.google.com</a>        gmaile login page      a bank page    Please provide

@@ -1,0 +1,1 @@
+On Single Node install when install all the components the recommended num for Map/Reduce Tasks is too high    Use lower count of maps/reduce slots for a single node install.   

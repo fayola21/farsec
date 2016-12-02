@@ -1,0 +1,1 @@
+<title>Issue 38544 -   chromium -    Core Animation plugins vanish permanently on tab switch - Project Hosting on Google Code</title> <pre> In a build with Core Animation turned on:  1) Open a page with a Core Animation plugin  2) Open another tab  3) Switch back to the plugin tab    The plugin is no longer visible. </pre>

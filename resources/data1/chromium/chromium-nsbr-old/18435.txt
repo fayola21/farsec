@@ -1,0 +1,1 @@
+<title>Issue 18435 -   chromium -    Memory leaking massively after video stops playing - Project Hosting on Google Code</title> <pre>   1. Play a video to the end.  2. Open up the chrome task manager.  3. Watch the memory go up.  In linux  about 10M/s.  In windows  also leaks.      It's leaking.  Stop leaking :).     </pre>

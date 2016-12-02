@@ -1,0 +1,1 @@
+<title>Issue 19274 -   chromium -    chrome.tabs.getVisibleTabCapture can fail - Project Hosting on Google Code</title> <pre> it's not calling GetBackingStore(false) because this caused crashes if called   too early.   </pre>

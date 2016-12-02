@@ -1,0 +1,1 @@
+<title>Issue 3521 -   chromium -    fetching a text/xml resource which has no '&lt;' in the first 512 bytes causes response truncation - Project Hosting on Google Code</title> <pre> Problem is net::SniffMimeType() returns false  so then the resource   dispatcher buffers too long.    The symptom is partial content for text/xml showing up in the renderer. </pre>

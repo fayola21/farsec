@@ -1,0 +1,1 @@
+<title>Issue 7770 -   chromium -    Animation stops upon tab-change. - Project Hosting on Google Code</title>   1. Visit a site with an animated GIF image  2. Open a new tab  perhaps www.google.com?  3. Go back to the original tab with the animated GIF image.      The animated GIF should stay animated.      The animation stops.    Please provide

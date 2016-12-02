@@ -1,0 +1,1 @@
+<title>Issue 26676 -   chromium -    Anyone has change translated spanish version - Project Hosting on Google Code</title> <pre> Anyone has change all strings for spanish version on the latest Chromium   version. Menus are showing incorrect sentences for any entry. </pre>

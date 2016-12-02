@@ -1,0 +1,1 @@
+<title>Issue 39720 -   chromium -    Autofill leaks views/controllers - Project Hosting on Google Code</title> <pre> AutoFillCreditCardViewControllers and AutoFillAddressViewControllers are  alloced but never dealloced. Drop breakpoints on their -dealloc methods;  they're never called. </pre>

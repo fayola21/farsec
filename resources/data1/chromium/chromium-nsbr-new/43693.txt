@@ -1,0 +1,1 @@
+<title>Issue 43693 -   chromium -    Clearing the Browsing Cache Erases extension preferences - Project Hosting on Google Code</title>   1. Set preferences for extensions  2. Erase cache  3. Check Extension settings      The settings of the extensions are shown as modified by the user      All settings revert to defaults    <b>Please provide

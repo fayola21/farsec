@@ -1,0 +1,1 @@
+<title>Issue 18512 -   chromium -    Can't attach file with non ASCII symbols - Project Hosting on Google Code</title>   1. Turn on 'Choose file' button on html form  2. Select file with Cyrillic symbols in name        Html field (File) must contain value  such as it happened with ASCII   symbols        HTML field (File) is empty    <b>Please provide

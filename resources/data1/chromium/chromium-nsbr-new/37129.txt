@@ -1,0 +1,1 @@
+<title>Issue 37129 -   chromium -    About:chrome version info for side by side channel - Project Hosting on Google Code</title> <pre> The text in About Google Chrome message box need to be changed accordingly   for side by side channel.  </pre>

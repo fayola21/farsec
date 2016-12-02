@@ -1,0 +1,1 @@
+<title>Issue 5486 -   chromium -    BUG: PDF files fail to open inline - Project Hosting on Google Code</title>   1. Go to the URL.      Acrobat Reader will show the file inline or in a new Acrobat Reader window.      Acrobat says it cannot find the file.    Please provide

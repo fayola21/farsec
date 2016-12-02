@@ -1,0 +1,1 @@
+<title>Issue 11165 -   chromium -    Linux accelerator regression - Project Hosting on Google Code</title> <pre> Go to google.com  put the cursor in the search box.  Try ctrl-b or ctrl-l    or ctrl-t.  b  l  or t is inserted instead of the accelerator being   activated.    This is a regression. </pre>

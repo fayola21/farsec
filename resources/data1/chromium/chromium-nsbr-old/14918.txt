@@ -1,0 +1,1 @@
+<title>Issue 14918 -   chromium -    Printer alerts should not be synchronous - Project Hosting on Google Code</title> <pre>   1. Remove all printers and print (or print to a printer that fails to print).  2. An error message is displayed  3. While displayed all javascript is halted on the page.      A popup that is not stopping javascript running (async popup).       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29923 -   chromium -    New feature: Extension synchronization - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.30  URLs (if applicable) : NA  Other browsers tested: NA    I would like to suggest a feature by which extensions can be synchronized   across Chrome browsers on different computers.    Thanks! </pre>

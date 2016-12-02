@@ -1,0 +1,1 @@
+<title>Issue 16800 -   chromium -    Date.getTimezoneOffset always returns 0 - Project Hosting on Google Code</title>   1. Open a new tab  2. Type javascript:alert(new Date().getTimezoneOffset()) in the address bar      UTC offset of the local time zone is shown in a message box.  (-330 for my   local time zone  Indian Standard Time.)      Alert box shows 0.    <b>Please provide

@@ -1,0 +1,1 @@
+spring-integration - Should have better configuration validation    See nabblehttp://camel.465427.n5.nabble.com/Integration-camel-and-spring-integration-tp3284105p3284105.html   

@@ -1,0 +1,1 @@
+<title>Issue 16064 -   chromium -    Tab strip favicons have garbled edges - Project Hosting on Google Code</title> <pre> (Could swear we had a bug on this  but I can't find it.)    The favicons shown in the tab strip have weird pixels on the edges.  It's especially noticeable on sites like yelp.com. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30235 -   chromium -    scroll bar hightlight on top right - Project Hosting on Google Code</title>   1. select any drop down menu to drop and select  2. notice on the top right in the chromium  something highlights. This   happens only with         no highlighting on the top right      highlighting    <b>Please provide

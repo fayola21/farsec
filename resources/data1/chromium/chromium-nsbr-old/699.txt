@@ -1,0 +1,1 @@
+<title>Issue 699 -   chromium -    Cannot drag mail items from one folder to another in Windows Live Hotmail - Project Hosting on Google Code</title>   1. Go to Junk Folder  2. Drag mail item from Junk to Inbox.  3. No error appears  just a round circle with a diagonal line and mail item   does NOT move from one folder to the other.                Please provide

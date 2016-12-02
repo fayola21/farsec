@@ -1,0 +1,1 @@
+<title>Issue 27853 -   chromium -    Sync promo should point at sync install flow - Project Hosting on Google Code</title> <pre> From Brian: &quot;I think we should launch the feature from the promo  just like we do when you choose   the &quot;Synchronize my bookmarks...&quot; menu option.&quot;' </pre>

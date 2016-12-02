@@ -1,0 +1,1 @@
+<title>Issue 23015 -   chromium -    Remove download from list crashes Google Chrome - Project Hosting on Google Code</title>   1.Open any page for downloading a file (for ex. themes)  2.Click download  3.Try to remove from download list in the bottom panel      Download should be removed from list      Chrome crashes    <b>Please provide

@@ -1,0 +1,1 @@
+Scheduled thread pools is not removed from JMX when shutting down    For example if a route use the aggragate eip with a completion timeout  then the scheduled thread pool is enlisted in JMX. But not removed when the route is removed. Though as fail-safe we always remove the JMX when camel is stopping.But for people doing dynamic add/remove routes this can become a problem.   

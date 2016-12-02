@@ -1,0 +1,1 @@
+<title>Issue 27170 -   chromium -    crashes when  changing chromium language - Project Hosting on Google Code</title>   1.changing the ui lenguage from hebrew to english makes chromium crashes          chromium UI will be in english      chromium crashes and stays in hebrew    <b>Please provide

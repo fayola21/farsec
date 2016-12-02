@@ -1,0 +1,1 @@
+<title>Issue 14897 -   chromium -    Omnibox focus ring is ugly  get rid of it - Project Hosting on Google Code</title> <pre> Ben sez: &quot;focus ring is ugly  get rid of it&quot;.    Not sure what treatment we want here  we *must* have something when the  user has a11y enabled. I think the current focus ring is ok  personally </pre>

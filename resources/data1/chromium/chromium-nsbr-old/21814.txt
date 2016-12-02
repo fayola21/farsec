@@ -1,0 +1,1 @@
+<title>Issue 21814 -   chromium -    Add IDN support in LayoutTestController - Project Hosting on Google Code</title> <pre> fastencodingidn-security.html requires support for methods like   LayoutTestController.encodeHostName().    It is commented out in original webkit also.  We need to implement this to pass a layout test. </pre>

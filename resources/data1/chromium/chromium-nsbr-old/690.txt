@@ -1,0 +1,1 @@
+<title>Issue 690 -   chromium -    Implement full page zoom - Project Hosting on Google Code</title>   1. &quot;ctrl + +&quot; &quot;ctrl + -&quot;             To zoom in (zoom out) whole layout of the page        Text only zoom in zoom out    Please provide

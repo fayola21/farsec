@@ -1,0 +1,1 @@
+<title>Issue 34947 -   chromium -    Chromium Issue tracker: Feature request template? - Project Hosting on Google Code</title> <pre> None of the current templates really seem to fit filing a feature request    and as such it feels a bit confusing picking one of these seemingly unrelated   templates if one wants to request a feature.  </pre>

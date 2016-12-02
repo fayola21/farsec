@@ -1,0 +1,1 @@
+<title>Issue 11030 -   chromium -    Wrong extensions at saving a page with title: something.wtf - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.173.1        Firefox 3.x: OK           IE 8: OK      1. Create a page with title: something.wtf  2. Open it in Chrome  3. Ctrl+S      Page with a name something.html      Page with a name something.wtf   </pre>

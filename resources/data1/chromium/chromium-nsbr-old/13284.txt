@@ -1,0 +1,1 @@
+<title>Issue 13284 -   chromium -    Delay loading extension background page until the main browser window is initialized - Project Hosting on Google Code</title> <pre> A background page which calls an api function during onload may catch app in   a state when there is not yet a valid browser. This will cause certain api   functions to fail and return an error </pre>

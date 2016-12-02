@@ -1,0 +1,1 @@
+<title>Issue 29538 -   chromium -    should be able to uninstall extensions by right-clicking on them - Project Hosting on Google Code</title> <pre> Not all extensions have UI  but for the ones that do I should be able to   uninstall them by right-clicking on them and selecting Uninstall. </pre>

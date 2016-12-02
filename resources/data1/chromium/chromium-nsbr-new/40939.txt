@@ -1,0 +1,1 @@
+<title>Issue 40939 -   chromium -    Bookmarks bar cannot be opened with the short-cut key Ctrl-B. - Project Hosting on Google Code</title>   1. The latest development release introduced this problem.          The bookmarks bar returns.      Nothing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24907 -   chromium -    [Linux] Inactive tab has blue background even with GTK theme - Project Hosting on Google Code</title> <pre> See screenshot. Happened after the dev channel update. </pre>

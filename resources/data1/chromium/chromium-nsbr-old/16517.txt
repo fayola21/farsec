@@ -1,0 +1,1 @@
+<title>Issue 16517 -   chromium -    Cannot change the Home Page. - Project Hosting on Google Code</title> <pre> On the latest version  it's not still possible to change the home page.  Thank you </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41568 -   chromium -    Flash Fullscreen causes hang - or lag .... - Project Hosting on Google Code</title>   1. Start Zyngas Farmville flash  - enter fullscreen mode          Movie / app should move as smooth as in windowed mode      Either freezes completely  non responsive - or long delays for up to 30   seconds for keypresses    <b>Please provide

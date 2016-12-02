@@ -1,0 +1,1 @@
+Popover with config name goes beyond the container    See attachecd screenshot.   

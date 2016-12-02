@@ -1,0 +1,1 @@
+<title>Issue 6727 -   chromium -    a crash while browsing to a google-earth like site - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.43             Safari 3: OK      Firefox 3: OK           IE 7: OK      1. browse www.norc.ro  after 10 minutes of wandering  it crashed         </pre>

@@ -1,0 +1,1 @@
+<title>Issue 32276 -   chromium -    Implement image thumbnailing - Project Hosting on Google Code</title> <pre> A number of apps  e.g. wave  are using image thumbnailing support in Gears.   We need to implement this natively. </pre>

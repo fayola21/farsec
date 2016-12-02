@@ -1,0 +1,1 @@
+<title>Issue 20503 -   chromium -    codesign the framework - Project Hosting on Google Code</title> <pre> first attempt to code sign the framework failed.  the current theory is   codesign is picky and wants an info.plist even though frameworks don't have   to have one.  need to do some tests and get the framework signed for official   builds. </pre>

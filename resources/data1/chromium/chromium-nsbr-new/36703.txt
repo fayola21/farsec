@@ -1,0 +1,1 @@
+<title>Issue 36703 -   chromium -    Blocking Cookies breaks Facebook chat - Project Hosting on Google Code</title>     - Log into Facebook  - Open chat  - Try sending someone a message        - Message will be received.        - Sending process times out.    <b>Please provide

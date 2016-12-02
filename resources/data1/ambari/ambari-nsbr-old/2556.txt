@@ -1,0 +1,1 @@
+Ctrl+C during ambari-server setup prints out a python stack trace    We should be able to catch KeyBoardInterrupt in ambari-server main and print a useful message like:'Aborting ... Keyboard Interrupt.' and avoid the stack trace for the user.   

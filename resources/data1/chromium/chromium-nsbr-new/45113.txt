@@ -1,0 +1,1 @@
+<title>Issue 45113 -   chromium -    Google's cache of a page doesnt get rendered - Project Hosting on Google Code</title>   1.Search something on Google  2.Click on Cached link of any result      Cache version of the page should be displayed      Find that the there's some plain text being rendered    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22882 -   chromium -    Alt-enter support for Mac - Project Hosting on Google Code</title> <pre> Alt-enter doesn't do anything in the Mac omnibox.  It should open a new foreground tab.  This is a critical   pain point for my Mac Chrome usage. </pre>

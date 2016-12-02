@@ -1,0 +1,1 @@
+make getConvertedInput final again and remove final from convert  which should be renamed to convertInput    See http://www.nabble.com/Re%3A-Use-getConverterInput-rather-than-updateModel-in-FormComponentPanel-p11399356.html   

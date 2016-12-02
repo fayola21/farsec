@@ -1,0 +1,1 @@
+<title>Issue 42343 -   chromium -    Remembered data doesn't work on Salesforce - Project Hosting on Google Code</title>     1. Type in a dialog box  previously entered data is shown as normal.  2. Select data you want to use  3. click!        Previously input data should be filled in.        Nothing - as if I didn't click.    <b>Please provide

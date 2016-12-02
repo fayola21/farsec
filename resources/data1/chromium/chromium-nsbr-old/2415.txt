@@ -1,0 +1,1 @@
+<title>Issue 2415 -   chromium -    Add Alt-A shortcut - Project Hosting on Google Code</title>   1. Install Chrome   2. Launch Chrome  3. Press Alt-A key; here you suppose that the favorites menu will open;   but nothing happens. Quite irritating for me. I stopped using Chrome and   immediately switched to my default browser (IE7)                Please provide

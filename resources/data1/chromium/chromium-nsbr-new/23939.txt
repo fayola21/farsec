@@ -1,0 +1,1 @@
+<title>Issue 23939 -   chromium -    Omnibox should use pdf images - Project Hosting on Google Code</title> <pre> Selected rows should use darker versions of the icons.  See linux for inspiration. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25043 -   chromium -    Print Window should give options to print headers / footers and to print background images / colors - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.1 (29166)    OS version               : 10.6.1     </pre>

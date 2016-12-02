@@ -1,0 +1,1 @@
+<title>Issue 24466 -   chromium -    Esc after opening the bookmark bubble should remove bookmark - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.221.0      1. Accidentally hit cmd-d  2. Curse  hit esc        Bookmark should be removed again  like on linux and probably windows.          Page stays bookmarked </pre>

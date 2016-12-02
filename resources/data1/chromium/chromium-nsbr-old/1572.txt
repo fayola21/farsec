@@ -1,0 +1,1 @@
+<title>Issue 1572 -   chromium -    scroll - Project Hosting on Google Code</title>   1. al utilizar el scroll de una laptop no funciona al hacerle hacia arriba   hacia bajo corre perfecto  pero al hacer una pagina hacia arriba para   mostrar la informacion pasada no agarra  y con otros navegadores si.                    Please provide

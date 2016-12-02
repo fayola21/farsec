@@ -1,0 +1,1 @@
+<title>Issue 8463 -   chromium -    Remove stats_viewer - Project Hosting on Google Code</title> <pre> The stats_viewer will no longer work now that we are naming the shared   memory with a name that contains the pid. It's been broken for 3 months and   nobody complained. We should remove it. </pre>

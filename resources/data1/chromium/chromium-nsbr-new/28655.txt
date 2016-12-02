@@ -1,0 +1,1 @@
+<title>Issue 28655 -   chromium -    4.0.249.11 disables bookmark sync - Project Hosting on Google Code</title>   1. Upgrade to 4.0.249.11  2. Verify 'Sync My Bookmarks' is again greyed-out (with or without --  enable-sync)                  <b>Please provide

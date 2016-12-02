@@ -1,0 +1,1 @@
+<title>Issue 27467 -   chromium -    History menu should have favicons - Project Hosting on Google Code</title> <pre> History menu should have favicons like the bookmarks menu </pre>

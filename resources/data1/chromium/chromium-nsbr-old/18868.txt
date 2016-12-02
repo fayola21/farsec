@@ -1,0 +1,1 @@
+<title>Issue 18868 -   chromium -    Changing encoding clears all forms - Project Hosting on Google Code</title>   1. Start typing comment to this bug below  2. Go to the &quot;page&quot; menu -&gt; Encoding  3. Choose any encoding or &quot;Auto-detect&quot;      The page changes encoding but your comment stays      Page reloads and comment disappears    <b>Please provide

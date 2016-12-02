@@ -1,0 +1,1 @@
+<title>Issue 16211 -   chromium -    Right Justification of Amount Fields not working  - Project Hosting on Google Code</title>   1. I opened an intranet page for reports and found that the Amount fields   are not justified.                <b>Please provide

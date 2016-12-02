@@ -1,0 +1,1 @@
+<title>Issue 1509 -   chromium -    Browser still shows deleted downloaded files - Project Hosting on Google Code</title>   1. open the browser and download a file from a known site  2. delete the downloaded file  3. browser will still show the nonworking small icon on the left corner  (down)for the downloaded file                Please provide

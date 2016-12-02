@@ -1,0 +1,1 @@
+<title>Issue 45753 -   chromium -    Get FindInPageControllerTest.FindMovesOnTabClose_Issue1343052 working on Mac and Linux - Project Hosting on Google Code</title> <pre> find_bar_host_uitest.cc was is currently not being built on Mac or Linux. Making it build is trivial  but   on the Mac at least it fails a bunch of the expectations. </pre>

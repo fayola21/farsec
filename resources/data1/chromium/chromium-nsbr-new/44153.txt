@@ -1,0 +1,1 @@
+<title>Issue 44153 -   chromium -    control of  - Project Hosting on Google Code</title>   1.open chrome  2.try to go to control drop down menu  3.or try to got to control current page drop down menu    What is the expected result? drop down opens up      What happens instead? nothing      <b>Please provide

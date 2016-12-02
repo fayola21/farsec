@@ -1,0 +1,1 @@
+<title>Issue 39559 -   chromium -    No bookmark bar in &quot;new tab&quot; page - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.365.0 (Developer Build 42904)    In a new tab i can't see the bookmark bar any more.  I can only see it if i use &quot;always show bookmarks bar&quot;.   </pre>

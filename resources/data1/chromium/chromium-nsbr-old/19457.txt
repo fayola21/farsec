@@ -1,0 +1,1 @@
+<title>Issue 19457 -   chromium -    SVG rendered without fonts - Project Hosting on Google Code</title>   1. open the attached svg file  2. see that all &quot;text&quot; is either hidden or drawn in the top-left corner      The &quot;text&quot; is drawn at different positions on the svg graph      all &quot;text&quot; is drawn in the left side    <b>Please provide

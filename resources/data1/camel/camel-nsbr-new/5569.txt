@@ -1,0 +1,1 @@
+Make Spring Optional Bundle Import for CXF Transport    The camel-cxf-transport component should define the Spring import packages as optional given they are only required if using the Spring DSL namespaces. If you are using Java DSL Spring is not required.Best Regards Scott ES   

@@ -1,0 +1,1 @@
+Cleanup UI restart calculations using actual_configs    As documented in AMBARI-3531  the restart flags will be provided in host_components itself and services will have an API to get restart host_components easily. Due to this  there is no need for actual_configs on the client  and the code to calculate diffs with global properties.   

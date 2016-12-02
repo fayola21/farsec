@@ -1,0 +1,1 @@
+<title>Issue 36105 -   chromium -    Pin tab no implemented on Ubuntu 8.10 - Project Hosting on Google Code</title>   1. Open chromium browser  2. Mouse right button click on the tap  3. No pin tab option on context menu      The pin tab option on tab context menu      No option    <b>Please provide

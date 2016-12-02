@@ -1,0 +1,1 @@
+<title>Issue 21930 -   chromium -    Add histogram measurements for Jank metrics vs different parts of system configuration - Project Hosting on Google Code</title> <pre> How do jank related histograms vary depending on system configuration like   memory/cpu or other data that's in UMA? </pre>

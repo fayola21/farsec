@@ -1,0 +1,1 @@
+<title>Issue 12174 -   chromium -    alert bomb suppression - Project Hosting on Google Code</title> <pre> Windows has code to add a checkbox to alerts that say &quot;Prevent this page   from creating additional dialogs.&quot;.  We just need to add the checkbox in   app_modal_dialog_gtk.cc (see the windows code for what to do). </pre>

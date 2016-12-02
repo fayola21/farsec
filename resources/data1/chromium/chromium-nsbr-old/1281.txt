@@ -1,0 +1,1 @@
+<title>Issue 1281 -   chromium -    64bit XP Installation - Project Hosting on Google Code</title>   1. Install Chrome  2. Go to Customize and control Google Chrome  3. Select Options        The options box should be displayed      Google Chrome Crashes    Please provide

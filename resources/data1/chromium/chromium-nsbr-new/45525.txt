@@ -1,0 +1,1 @@
+<title>Issue 45525 -   chromium -    Doubled cellspacing between thead and tbody - Project Hosting on Google Code</title>   1. Create a table with cellspacing 2px  2. Create thead and tbody  3. Add background to cells      Single cellspacing between thead and tbody      Doubled cellspacing    <b>Please provide

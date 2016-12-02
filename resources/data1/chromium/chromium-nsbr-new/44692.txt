@@ -1,0 +1,1 @@
+<title>Issue 44692 -   chromium -    need ViewIds on mac - Project Hosting on Google Code</title> <pre> ViewIDs are a system that indexes important views in the browser window by a   ViewID identifier (integer). This is a useful compatibility for finding a   view object in cross-platform tests. See BrowserFocusTest.* for an example   of how ViewIDs are used on linux/win. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25343 -   chromium -    Regression: Shift-Escape in GMail mole shouldn't open the task manager - Project Hosting on Google Code</title>   1. Go to GMail.  2. Open a chat mole (or tasks)  3. Press shift-escape      The focus should go to the content      The task manager opens    <b>Please provide

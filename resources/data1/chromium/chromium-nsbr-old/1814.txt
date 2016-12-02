@@ -1,0 +1,1 @@
+<title>Issue 1814 -   chromium -    Error Loading Gmail on slow internet connection - Project Hosting on Google Code</title>   1. due to slow internet connection  2. i am from India i connect internet via mobile so i am having this   problem               Insted i have to view my mail only on Basic HTML format    Please provide

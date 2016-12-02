@@ -1,0 +1,1 @@
+<title>Issue 40283 -   chromium -    Need an option to reset all autofill profiles - Project Hosting on Google Code</title> <pre> If a user has &gt;10 autofill profiles and wants to delete all of them  user has   to delete one by one.    We need an easier way to reset all the existing profiles.       </pre>

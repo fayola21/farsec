@@ -1,0 +1,1 @@
+<title>Issue 41441 -   chromium -    History: find and delete - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.3 dev      I wish Advanced History. Ctrl+H -&gt; type smth like &quot;porno&quot;  see results  clear   all found items (or selectively! :-)    Is it really? </pre>

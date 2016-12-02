@@ -1,0 +1,1 @@
+<title>Issue 11288 -   chromium -    Browser crash on www.phobosonline.com - Project Hosting on Google Code</title>   1. Visit www.phobosonline.com  2. Observe crash      The page should load      The browser almost instantaneously crashes..    <b>Please provide

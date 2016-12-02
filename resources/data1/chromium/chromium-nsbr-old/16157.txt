@@ -1,0 +1,1 @@
+<title>Issue 16157 -   chromium -    Clicking Apple-W to close windo with one tab does nothing - Project Hosting on Google Code</title>   1. Open a new Chrome window  2. Hit Apple-W      Since Apple-W is used to close the current tab  closing the _only_ tab   should(?) close the window too      Nothing.    Please provide

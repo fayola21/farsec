@@ -1,0 +1,1 @@
+<title>Issue 44172 -   chromium -    &quot;har uppdaterats&quot; =have been updated. Throws me off balance. - Project Hosting on Google Code</title> <pre>   sv      Google Chrome	5.0.375.38 (Officiell version 46659) beta      vista      The about dialog    &quot;Google Chrome har uppdaterats (5.0.375.38)&quot;       </pre>

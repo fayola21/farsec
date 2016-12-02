@@ -1,0 +1,1 @@
+<title>Issue 45388 -   chromium -    RTL UI: Tab icon over the tab's X button - Project Hosting on Google Code</title> <pre> using ToT build 6.0.420.0 (48551)     Tab icon  spinner is over the x button using the RTL UI </pre>

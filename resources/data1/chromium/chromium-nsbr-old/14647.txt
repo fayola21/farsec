@@ -1,0 +1,1 @@
+<title>Issue 14647 -   chromium -    Horizontal scrollbar on gmail page load - Project Hosting on Google Code</title>   1. Login on gmail          See the screenshot uploaded to see a screenshot of gmail on Opera. I think   this is the correct way.  Obs: Firefox show the page like Opera      See the screenshot upload to see how gmail appear on Chrome      <b>Please provide

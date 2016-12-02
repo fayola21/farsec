@@ -1,0 +1,1 @@
+File component - file rename pattern to support patterns such as date time etc.    A very common use case is to copy received messages into files stored in a backup folder with sub folders named with the date pattern etc.   

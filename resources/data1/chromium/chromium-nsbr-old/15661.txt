@@ -1,0 +1,1 @@
+<title>Issue 15661 -   chromium -    Opening a download from the Mac shelf doesn't work - Project Hosting on Google Code</title> <pre>   1. Download something  2. Select &quot;Open&quot; from the shelf menu  3. Notice that the download is not opened   </pre>

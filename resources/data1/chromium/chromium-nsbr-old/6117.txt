@@ -1,0 +1,1 @@
+<title>Issue 6117 -   chromium -    merge script should ensure line endings are LF - Project Hosting on Google Code</title> <pre> Right now files that have a conflict it seems to use CRLF. This might be an   issue with beyondcompare. In either case  the fix should be as simple as   converting CRLF to LF after line 96 of srcwebkittoolsmergediff3-  wrapper.py. </pre>

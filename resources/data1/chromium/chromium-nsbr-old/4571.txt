@@ -1,0 +1,1 @@
+<title>Issue 4571 -   chromium -    Javascript BUG in popup windows (In popup javascript alert not work) - Project Hosting on Google Code</title>   1. windows opened using window.open  2. In popup button click  3. alert not come    Javascript BUG in popup windows (In popup javascript alert not work)                Please provide

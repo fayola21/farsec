@@ -1,0 +1,1 @@
+<title>Issue 17239 -   chromium -    Right clicking on highlighted text in a text field deletes the text - Project Hosting on Google Code</title>   1.Type text into a text field  2.Highlight the text  3.Right click on the text  it will then delete itself.                <b>Please provide

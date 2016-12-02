@@ -1,0 +1,1 @@
+<title>Issue 12758 -   chromium -    Incomplete translation at &quot;Option&quot; - Project Hosting on Google Code</title> <pre>   Chinese      2.0.181.1      Windows 7 7106 x64       _��___��__-&gt;_��__��___��_��_��___��__��___��__-&gt;&quot;Themes: Reset to default theme&quot;       </pre>

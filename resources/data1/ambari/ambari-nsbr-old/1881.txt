@@ -1,0 +1,1 @@
+API to map global properties to services is partially complete.    API to map global properties to services is partially complete. The API gives 'global.xml' to approximately 47 properties. However the 'global' site has many more properties - so I dont know if some are fully missed.   

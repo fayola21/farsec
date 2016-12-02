@@ -1,0 +1,1 @@
+<title>Issue 12919 -   chromium -    Pull in Stuart's breakpad fix. - Project Hosting on Google Code</title> <pre> We need to roll breakpad to ToT in order to pick up a fix from stuart:  <a href="http://code.google.com/p/google-breakpad/source/detail?r=341">http://code.google.com/p/google-breakpad/source/detail?r=341</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31305 -   chromium -    http://neil.fraser.name/news/2004/12/25/ renders very slow  yanky selection - Project Hosting on Google Code</title>   1. Go to URL  2. Select some text      Selection should be very smooth  hovering should be instant      Selection is yanky at best  god-slow and chunky.    <b>Please provide

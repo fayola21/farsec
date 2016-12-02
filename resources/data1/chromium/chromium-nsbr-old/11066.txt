@@ -1,0 +1,1 @@
+<title>Issue 11066 -   chromium -    Hack out views from the Linux build. - Project Hosting on Google Code</title> <pre> We currently build libviews  which takes up a bunch of code space.  There  are currently some dependencies on views that probably need to be broken up  a bit.  Would be nice to do before we ship. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16682 -   chromium -    No homepage - Project Hosting on Google Code</title>   1.Going to Options  2.Typing your homepage  3.Going to home      Seeing my homepage  iGoogle      It showed the default developer page      <b>Please provide

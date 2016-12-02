@@ -1,0 +1,1 @@
+<title>Issue 12062 -   chromium -    remove simplified diff - Project Hosting on Google Code</title> <pre> I think we can remove the simplified diff from the run_webkit_tests.py.  I  never use it because the wdiff output is so much easier to read.  It  probably would make the tests run a tiny bit faster. </pre>

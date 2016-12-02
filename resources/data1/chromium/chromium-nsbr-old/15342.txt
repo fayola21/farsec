@@ -1,0 +1,1 @@
+<title>Issue 15342 -   chromium -    Zombie xdg-open processes - Project Hosting on Google Code</title> <pre>   1. Download some files  2. Click on them to spawn xdg-open  3. Examine process list      I see zombie xdg-open processes.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 24480 -   chromium -    ALSA has issues playing audio over 48khz - Project Hosting on Google Code</title> <pre>   1. Build ffmpeg in 64bit  build chrome in 64bit  2. Playing colors2.ogv  3. Seeking to a bunch of places      Seek is successful. Instead seek sometimes fails and you can see   ffmpeg_video_decoder complains about decoding error.       </pre>

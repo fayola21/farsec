@@ -1,0 +1,1 @@
+<title>Issue 6496 -   chromium -    The borders are misaligned or missing on www.answers.com - Project Hosting on Google Code</title>   1. Go to www.answers.com            For the main content  the left and right borders should be displayed   properly        For the main content  the left border is misaligned  the right border are   missing    Please provide

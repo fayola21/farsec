@@ -1,0 +1,1 @@
+<title>Issue 12489 -   chromium -    Font issues - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.182.0 (16734)    After installing the 3.0.182.0 the font used in the browser is too small and   is almost unreadable. There is some bugs with buttons too.  The font in webpages are ok.               </pre>

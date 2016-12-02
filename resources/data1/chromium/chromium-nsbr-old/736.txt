@@ -1,0 +1,1 @@
+<title>Issue 736 -   chromium -    No way to disable plugins using UI - Project Hosting on Google Code</title>     Missing feature. The problem that it could not be reproduced ;)        There should be some ability to disable plugins.        No way to disable plugin was found.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2291 -   chromium -    Chrome doesn't display progressive jpegs. - Project Hosting on Google Code</title>   1. Try to display a progressive jpeg.          The image should open in a new tab.      A dialog box opens  requiring the image to be downloaded.    Please provide

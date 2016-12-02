@@ -1,0 +1,1 @@
+<title>Issue 14535 -   chromium -    Scripts added with document.write should be displayed in the scripts list - Project Hosting on Google Code</title> <pre>   1. Open Scripts panel for the attached file.      The panel contains only tc.html and there is no way to set breakpoint on   function &quot;a&quot;.     </pre>

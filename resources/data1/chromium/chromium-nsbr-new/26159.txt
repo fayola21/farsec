@@ -1,0 +1,1 @@
+<title>Issue 26159 -   chromium -    Flush DNS cache when network changes - Project Hosting on Google Code</title> <pre> We must flush the DNS cache when the network changes (i.e. you join a new wireless network  join   VPN etc)  otherwise there is an interval of time (TTL of host cache entries)  when connections may   fail because we are connecting to the old IP. </pre>

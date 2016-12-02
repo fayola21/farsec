@@ -1,0 +1,1 @@
+<title>Issue 20237 -   chromium -    Chromium Crashes on opening mail.google.com - Project Hosting on Google Code</title>   1. Open mail.google.com and chromium segfaults            mail.google.com opening up        chromium segfaults    <b>Please provide

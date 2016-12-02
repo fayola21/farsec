@@ -1,0 +1,1 @@
+<title>Issue 7109 -   chromium -    Feature: Ability to change the name of your Google Account - Project Hosting on Google Code</title> <pre> Log-in to your Google account. You should be able to change the name of   your account in Profile or Settings. </pre>

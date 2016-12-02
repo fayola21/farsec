@@ -1,0 +1,1 @@
+<title>Issue 3739 -   chromium -    scrolling using touchpad doesn't work - Project Hosting on Google Code</title>   1. open random page so it's big enough to be scrolled vertically  2. using your touchpad try to scroll the page down  then up        the page should be scrolled down and up      the page is scrolled down  but not up    Please provide

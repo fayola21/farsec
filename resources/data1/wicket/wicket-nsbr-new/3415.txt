@@ -1,0 +1,1 @@
+1.5 equivalant of protected void WebRequestCycle.onRequestTargetSet(IRequestTarget requestTarget) is mising from AbstractRequestCycleListener    There is not method equivalent to WebRequestCycle.onRequestTargetSet(IRequestTarget requestTarget) in AbstractRequestCycleListener.   

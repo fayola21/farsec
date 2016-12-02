@@ -1,0 +1,1 @@
+<title>Issue 18595 -   chromium -    Chrome won't close  on ending processes each plugin dies - Project Hosting on Google Code</title>   1. Close Tab  2. Close Windows      1. Tabs should close  2. Windows should close      1. Nothing    <b>Please provide

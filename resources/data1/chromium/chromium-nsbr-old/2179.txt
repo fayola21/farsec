@@ -1,0 +1,1 @@
+<title>Issue 2179 -   chromium -    Gmail Choose file issue - Project Hosting on Google Code</title>   Inside Gmail:   1. Compose new mail  2. Choose &quot;Attach a file&quot;  3. Press the button &quot;Choose file&quot;  4. No Browse window popups        Browse window         Slow down the browser    Please provide

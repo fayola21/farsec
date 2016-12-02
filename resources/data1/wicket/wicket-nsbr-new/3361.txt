@@ -1,0 +1,1 @@
+Validation Error on AjaxEditableLabel causes ajax calls in loop on Chrome Browser    On Chrome  the component AjaxEditableLabel causes an infinite ajax call's loop if there is an validation error on the input.The attached project shows this bug (Enter 'false' to reproduce the bug  and tape any key to stop it).On Firefox  everithing is OK.   

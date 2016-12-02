@@ -1,0 +1,1 @@
+<title>Issue 40452 -   chromium -    audio time scaling based on rate (ola) is at times low quality - Project Hosting on Google Code</title> <pre> The audio rate (ola) code is simple  but not very high quality.  Both sola (internal) and apple time scale are better quality  albeit lower   performance.  In particular  rates beyond 1/2 or 2x have noticeable artifacts.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45807 -   chromium -    Hotmail messages not clickable. - Project Hosting on Google Code</title>   1. Go to www.hotmail.com  2. Sign in to a hotmail account  3. Click on 'inbox'  4. Click on a message      To view the message as per normal      Nothing happens when you click on a message and hotmail doesn't respond at   all.    <b>Please provide

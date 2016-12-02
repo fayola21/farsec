@@ -1,0 +1,1 @@
+<title>Issue 19972 -   chromium -    Enable DOM Storage events - Project Hosting on Google Code</title> <pre> Enable LocalStorage events per the spec.    This is going to depend on some refactoring done for   <a href="http://code.google.com/p/chromium/issues/detail?id=16877">http://code.google.com/p/chromium/issues/detail?id=16877</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28306 -   chromium -    F3 doesn't work after back/forward - Project Hosting on Google Code</title> <pre> Visit some page  Ctrl-F  type something  F3 a bit  Click the back button on your mouse  Hit F3 some more    Note that the find UI comes up  but without match numbers  and it won't find   anything.  Hitting ctrl-f and retyping makes things work. </pre>

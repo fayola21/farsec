@@ -1,0 +1,1 @@
+<title>Issue 2187 -   chromium -    Rename View::GetX Y Width Height with unix_hacker accessors - Project Hosting on Google Code</title> <pre> The methods GetX  GetY  GetWidth  GetHeight() should be replaced with   Google-style unix hacker accessors:    x()  y()  width()  height()     </pre>

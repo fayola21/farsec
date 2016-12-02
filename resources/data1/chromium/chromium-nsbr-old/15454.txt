@@ -1,0 +1,1 @@
+<title>Issue 15454 -   chromium -    tools/valgrind/chrome_tests.py doesn't work with GYP_GENERATORS=make - Project Hosting on Google Code</title> <pre> The make generator is the cat's pajamas  but tools/valgrind/chrome_tests.*  get confused because the resulting executables aren't in the same place.     </pre>

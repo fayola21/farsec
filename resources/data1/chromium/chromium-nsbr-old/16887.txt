@@ -1,0 +1,1 @@
+<title>Issue 16887 -   chromium -    Copy and paste from intellij into Chrome does not work - Project Hosting on Google Code</title>   1. select text in a Java app (particularly IntelliJ) and copy to clipboard  2. try to paste into an HTML element in Chrome (e.g. Gmail)          text from clipboard appears        nothing    <b>Please provide

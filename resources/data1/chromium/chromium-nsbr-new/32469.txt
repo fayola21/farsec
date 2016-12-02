@@ -1,0 +1,1 @@
+<title>Issue 32469 -   chromium -    Downloads of duplicate files extended with ...(N) being overwritten - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.266.0      1. Download a file multiple times  I observe after (26) older 'numbers' are   overwritten.      Continuation of the sequence.      Overwritten old files. </pre>

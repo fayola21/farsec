@@ -1,0 +1,1 @@
+<title>Issue 14909 -   chromium -    Need to refactor shared code from LoginHandler subclasses into one controller class - Project Hosting on Google Code</title> <pre> This isn't as easy as it should seem because of ownership issues. I'm   actually generally confused by this area. :( </pre>

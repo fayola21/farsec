@@ -1,0 +1,1 @@
+<title>Issue 29061 -   chromium -    Pictures not visible in new tab - Project Hosting on Google Code</title>   1. When i click on new tab i used to get the pictures of the websited   visited now i am not able to see the same it is showing a blank picture   with an image of a broken camara. This was working till yesterday                    <b>Please provide

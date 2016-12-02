@@ -1,0 +1,1 @@
+<title>Issue 26578 -   chromium -    Scrollbar on option window with enabled bookmark sync - Project Hosting on Google Code</title>   1. enable bookmark sync  2. open option window  3. select privacy tab      scrollbar should appear to view all settings      no scrollbar available      <b>Please provide

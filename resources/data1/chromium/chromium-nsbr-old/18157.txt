@@ -1,0 +1,1 @@
+<title>Issue 18157 -   chromium -    Browser::AddTabWithURL/OpenURL with param foreground==true doesn't bring the browser window to the foreground - Project Hosting on Google Code</title> <pre>   1. Click the &quot;Get Themes&quot; button in the prefs  2. Watch as the browser window fails to foreground </pre>

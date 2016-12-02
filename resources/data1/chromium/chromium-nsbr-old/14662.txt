@@ -1,0 +1,1 @@
+<title>Issue 14662 -   chromium -    [Mac download shelf] Info bubble overlaps download shelf - Project Hosting on Google Code</title> <pre> When the shelf is visible  the info bubble should appear above the shelf in the   tab contents area  not over the shelf. </pre>

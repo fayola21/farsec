@@ -1,0 +1,1 @@
+<title>Issue 15983 -   chromium -    Facebook Chat Disappears  - Project Hosting on Google Code</title>   1.Logging in to Facebook.com          The appearance of a chat toolbar at the bottom of the screen.      There is nothing in the expected area.    <b>Please provide

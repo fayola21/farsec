@@ -1,0 +1,1 @@
+pig.properties should set pig.location.check.strict to false    pig.properties should set pig.location.check.strict to false   

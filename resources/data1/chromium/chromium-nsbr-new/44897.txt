@@ -1,0 +1,1 @@
+<title>Issue 44897 -   chromium -    missing translation to &quot;unpin tab&quot; - Project Hosting on Google Code</title> <pre>   Russian      6.0.408.1 (__��_��__�ܕ�__��__��__��_��_��____�܏ ��_��__��___��_��____��_ 47574) dev      MS Windows 7 Ultimate 64bit      Missing translation to &quot;unpin tab&quot;     </pre>

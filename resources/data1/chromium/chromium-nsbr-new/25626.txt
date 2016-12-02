@@ -1,0 +1,1 @@
+<title>Issue 25626 -   chromium -    chrome.browserAction.setIcon({imageData:...}) should limit image size to 19px square - Project Hosting on Google Code</title> <pre> Right now it allows larger sizes. See the gmail_checkre_browser_action sample   as an example of this. </pre>

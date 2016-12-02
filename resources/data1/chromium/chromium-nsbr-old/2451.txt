@@ -1,0 +1,1 @@
+<title>Issue 2451 -   chromium -    New Tab button gets overlapped by the tabs for many tabs - Project Hosting on Google Code</title> <pre> Version: 0.2.153.0 (Developer Build 2319)      1. Open many tabs so that the New Tab (+) button moves to the extreme end   of the tab strip    See screenshot  </pre>

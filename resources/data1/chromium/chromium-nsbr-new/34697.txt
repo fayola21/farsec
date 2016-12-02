@@ -1,0 +1,1 @@
+<title>Issue 34697 -   chromium -    Green Bar appears between page renderings - Project Hosting on Google Code</title>   1. Going to any web page          Web page renders normally      Between rendering of pages a green bar can be seen at the bottom    <b>Please provide

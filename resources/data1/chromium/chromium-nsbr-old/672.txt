@@ -1,0 +1,1 @@
+<title>Issue 672 -   chromium -    App crashes on right mouse click in empty adress bar - Project Hosting on Google Code</title>   1. Open new Tab  2. Move cursor over empty adressbar  3. press right mouse button      Some context menu or at least nothing should appear      The whole app crashes    Please provide

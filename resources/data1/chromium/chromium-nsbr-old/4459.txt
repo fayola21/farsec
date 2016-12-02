@@ -1,0 +1,1 @@
+<title>Issue 4459 -   chromium -    double click on bookmark icon in history page crashes all chrome windows. - Project Hosting on Google Code</title>   1. double click on bookmark icon that  appears on history page  2. Crashes all windows open!!!!!      no crash      crashed    Please provide

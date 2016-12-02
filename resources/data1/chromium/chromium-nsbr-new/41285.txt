@@ -1,0 +1,1 @@
+<title>Issue 41285 -   chromium -    Implement app management UI - Project Hosting on Google Code</title> <pre> Should apps be displayed on chrome://extensions? If not  should there be a separate   management UI elsewhere  or is that all in the NTP/launcher? </pre>

@@ -1,0 +1,1 @@
+YARN time series data needed for NodeManager statuses    We need API call for a graph which will show NodeManager status counts. NodeManagers can be in the following states: active  lost  unhealthy  rebooted  and decommissioned.   

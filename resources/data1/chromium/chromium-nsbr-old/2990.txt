@@ -1,0 +1,1 @@
+<title>Issue 2990 -   chromium -    Save page as.. in gmail always shows cancelled. - Project Hosting on Google Code</title>   1. Open any mail with images in gmail.  2. Use save page as..        Web page should be saved completely with images. (One HTML file + One   folder with all resources )      Download bar indictaes  saving page canceled.    Please provide

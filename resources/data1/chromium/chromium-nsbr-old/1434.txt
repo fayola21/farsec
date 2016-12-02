@@ -1,0 +1,1 @@
+<title>Issue 1434 -   chromium -    Rendering issue: page is not loaded peoperly - Project Hosting on Google Code</title>   1. go to the link <a href="http://www.imdb.com">http://www.imdb.com</a>  2. page will not load properly  3. check with firefox  it will load properly                Please provide

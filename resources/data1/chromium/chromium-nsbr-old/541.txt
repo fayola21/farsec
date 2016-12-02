@@ -1,0 +1,1 @@
+<title>Issue 541 -   chromium -    Proxy exception rules - Project Hosting on Google Code</title>   1. Setup a proxy configuration with a proxy.  2. I add an exception like &quot;*.test&quot;  3. I try to acess a site like &quot;something.a.test&quot;      - It should bypass the proxy.      - The proxy is used.    Please provide

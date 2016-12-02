@@ -1,0 +1,1 @@
+<title>Issue 30043 -   chromium -    Implement migration procedure to new database schema - Project Hosting on Google Code</title> <pre> We need to trigger migration code when an updated client encounters a legacy   profile.  This will likely be a wipe and resync.   </pre>

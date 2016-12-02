@@ -1,0 +1,1 @@
+<title>Issue 28513 -   chromium -    url status bar (combo-box issue) - Project Hosting on Google Code</title>   1. url status bar (combo-box issue)            expected found previous typed urls by clicking just on a combo control   button  (see attachment)        (remember typed urls or goes to the history menu)      <b>Please provide

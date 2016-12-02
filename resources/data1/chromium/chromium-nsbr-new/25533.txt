@@ -1,0 +1,1 @@
+<title>Issue 25533 -   chromium -    Regression: Bookmark manager should support Keyboard keys. - Project Hosting on Google Code</title> <pre> Build: 4.0.223.9 (Official Build 29618)    -Highlight a URL in Bookmarks manager.  -Hit return key to open the page.    Expected:  The page should be opened.    Result:  Does nothing. </pre>

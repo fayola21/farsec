@@ -1,0 +1,1 @@
+<title>Issue 41899 -   chromium -    Chrome Crashes when Playing Multiple Videos - Project Hosting on Google Code</title>   1. Open 3 or more tabs running videos like on Youtube.com  2. Switch between them  3. Chrome will freeze and not respond                <b>Please provide

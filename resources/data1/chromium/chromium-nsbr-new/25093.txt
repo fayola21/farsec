@@ -1,0 +1,1 @@
+<title>Issue 25093 -   chromium -    Kernel Panic on Linux Ubuntu - Project Hosting on Google Code</title>   1. Open Google Chrome for Linux.  2. Browse any site for few seconds.  3. Entire system locks up with blinking keyboard leds.      Should not freeze the system.      Appearent Kernel Panic.    <b>Please provide

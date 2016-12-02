@@ -1,0 +1,1 @@
+DefaultCssAutocompleteTextField should be renamed    DefaultCssAutocompleteTextField should be renamed to DefaultCssAutoCompleteTextField to match the naming of its superclass AutoCompleteTextField.   

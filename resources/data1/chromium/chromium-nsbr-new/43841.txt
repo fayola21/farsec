@@ -1,0 +1,1 @@
+<title>Issue 43841 -   chromium -    &lt;input type=&quot;search&quot;&gt; is broken just after &lt;br&gt; - Project Hosting on Google Code</title>   1. navigate to file://bad-input.html  2. try to type text into box        Typed text appears in box      Nothing appears in box.    <b>Please provide

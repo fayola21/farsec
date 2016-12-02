@@ -1,0 +1,1 @@
+<title>Issue 9116 -   chromium -    Implement WindowGtk - Project Hosting on Google Code</title> <pre> The Window interface needs to be implemented by a WindowGtk object. See   WindowWin as a general guide.  </pre>

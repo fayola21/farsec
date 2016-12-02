@@ -1,0 +1,1 @@
+<title>Issue 19432 -   chromium -    CRASH: GitHub crashes a lot - Project Hosting on Google Code</title> <pre>   1. Go to <a href="http://github.com/abarth/http-state/tree/master">http://github.com/abarth/http-state/tree/master</a>  2. Click on &quot;history&quot;        I expect to go to the history page.  Instead the tab crashes.        I'm using the Mac Dev channel </pre>

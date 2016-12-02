@@ -1,0 +1,1 @@
+<title>Issue 7495 -   chromium -    Clicking on a tab to switch to it closes it instead - Project Hosting on Google Code</title>   1. hibernate  2. using Chrome for more than an hour        Clicking on a tab to switch to it      It closes the tab    Please provide

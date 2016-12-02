@@ -1,0 +1,1 @@
+Add host wizard: After successfully bootstrapping host  'next' button is disabled    See screenshot   

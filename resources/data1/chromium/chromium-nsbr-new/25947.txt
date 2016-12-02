@@ -1,0 +1,1 @@
+<title>Issue 25947 -   chromium -    Make sure all strings in chrome://extensions are i18n-able - Project Hosting on Google Code</title> <pre> All strings should be read from resources files so they can be sent to  translation. </pre>

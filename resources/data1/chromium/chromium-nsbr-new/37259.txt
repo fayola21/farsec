@@ -1,0 +1,1 @@
+<title>Issue 37259 -   chromium -    First run dialog should include the ability to enable sync - Project Hosting on Google Code</title> <pre> I think it would be natural for the first run dialog to allow you to enter   sync credentials.  This would let you get your settings up and running on a   new install very quickly.  Thoughts?   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12947 -   chromium -    Settings Window UI doesn't conform with Windows UI Guidelines. - Project Hosting on Google Code</title>   1. Open Settings window      An interface that matches Windows UI Guidelines      There are some errors in text position.    <b>Please provide

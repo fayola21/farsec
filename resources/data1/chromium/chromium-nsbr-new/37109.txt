@@ -1,0 +1,1 @@
+<title>Issue 37109 -   chromium -    Enable Feed tests - Project Hosting on Google Code</title> <pre> Feed (Invalid  Empty...) tests  like ExtensionBrowserTest    DISABLED_ParseFeedValidFeed1    They are disabled because i18n doesn't work without loading full extension   (or at least getting extension id). </pre>

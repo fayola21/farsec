@@ -1,0 +1,1 @@
+<title>Issue 44753 -   chromium -    Gif image problem - Project Hosting on Google Code</title>   1.gif image freeze            Smoother move      Slowdown  <b>Please provide

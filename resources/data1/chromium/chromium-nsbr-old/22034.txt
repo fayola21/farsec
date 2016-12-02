@@ -1,0 +1,1 @@
+<title>Issue 22034 -   chromium -    SFgate crossword cannot receive keyboard input - Project Hosting on Google Code</title>   1. Open page.  Wait for flash crossword to load  2. Click on a puzzle to start it  pick normal difficulty  3. Attempt to type letters into clue boxes        Keyboard input fills out crossword        Nothing    Please provide

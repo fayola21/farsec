@@ -1,0 +1,1 @@
+<title>Issue 36784 -   chromium -    Inline-block doesn't render inline - Project Hosting on Google Code</title>   1. Visit the main page          Main section and sidebar should appear inline.      Main section displays below sidebar.    <b>Please provide

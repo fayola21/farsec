@@ -1,0 +1,1 @@
+<title>Issue 1959 -   chromium -    No &quot;Up&quot; Scrolling using Synaptics touchpad on various laptops - Project Hosting on Google Code</title>   1. All laptops with Synaptics touchpads appear to lack the ability to   scroll up in Chrome      Scrolling up      Nothing    Please provide

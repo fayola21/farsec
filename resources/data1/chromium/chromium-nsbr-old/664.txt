@@ -1,0 +1,1 @@
+<title>Issue 664 -   chromium -    Select elements with transparent style are rendered with black background - Project Hosting on Google Code</title>   1. Load the simple html file attached        The background of the select element should be transparent        The background color of the select element is displayed in black    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36707 -   chromium -    --proxy-server switch not obeyed - Project Hosting on Google Code</title>   1. start chrome/chromium with --proxy-server=ip:port      chrome/chromium would use the specified proxy server      it does not use the specified proxy server    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38198 -   chromium -    Crash when install any extensions - Project Hosting on Google Code</title>   1.go to exensions gallery  2.install any extensions  3.nothing shows and crash after some time      extensions install windows pop out      nothing then crash    <b>Please provide

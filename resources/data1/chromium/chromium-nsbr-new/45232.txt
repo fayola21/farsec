@@ -1,0 +1,1 @@
+<title>Issue 45232 -   chromium -    chrome crashes after returning from suspend - Project Hosting on Google Code</title>   1.open chrome  2.suspend computer(via closing lid or suspend in start menu)  3.bring computer out of suspend and login to windows      chrome to be waiting for me      whoa! chrome has crashed.    <b>Please provide

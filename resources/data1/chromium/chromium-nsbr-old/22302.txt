@@ -1,0 +1,1 @@
+<title>Issue 22302 -   chromium -    Keypad enter doesn't advance find - Project Hosting on Google Code</title> <pre>   1. Find something on the page with multiple results  2. Press keypad enter while focus is still in find box      It should advance to the next result like on Windows.  Instead nothing   happens. </pre>

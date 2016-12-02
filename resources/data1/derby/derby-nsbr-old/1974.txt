@@ -1,0 +1,1 @@
+Junit tests that require SQL authorization mode should use a different database to the default one.    Since databases are re-used in the JUnit world having a single database for the two modes does not work.Not sure if there are any tests that need this yet. SQLAuthorizationPropTest actually tests setting the property so it really needs its own database (I think).   

@@ -1,0 +1,1 @@
+<title>Issue 24150 -   chromium -    Flush audio buffer when a seek event happens - Project Hosting on Google Code</title> <pre>   1. Play a video  2. Seek somewhere  3. While seeking you shouldn't hear anything  and when it resumes playing   you'll hear the audio right away.             </pre>

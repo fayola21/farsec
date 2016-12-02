@@ -1,0 +1,1 @@
+<title>Issue 1623 -   chromium -    Security: Update download fails even though Chrome works perfectly - Project Hosting on Google Code</title>   1. Go to &quot;About Google Chrome&quot; window      Information about new update available.      Message that update server is not available  with error 3 or 7.    Please provide

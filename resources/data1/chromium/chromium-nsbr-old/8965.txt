@@ -1,0 +1,1 @@
+<title>Issue 8965 -   chromium -    Support for operators in bookmark manager search - Project Hosting on Google Code</title>   1. Open bookmark manager  2. Search text1|text2        Returns results which have either &quot;text1&quot; or &quot;text2&quot; or both.      Returns results which have &quot;text1|text2&quot;.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34062 -   chromium -    Java JRE Crashes during page load - Project Hosting on Google Code</title>   1. Load any page that uses a Java application  2. Page crashes immediately  3. Drop down advises that the plugin has crashed  4. Reloading the page does not work      The Java applet runs      Crash dialog and frowning puzzle piece show up.    <b>Please provide

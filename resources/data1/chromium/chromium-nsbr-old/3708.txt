@@ -1,0 +1,1 @@
+<title>Issue 3708 -   chromium -    message property for an error caught using try catch block is not supported by Chrome - Project Hosting on Google Code</title> <pre>   1. Load the testcase attached  2. Click on the link &quot;Click Me&quot;    What is the expected output?   Error message should be displayed    What do you see instead?  No message         </pre>

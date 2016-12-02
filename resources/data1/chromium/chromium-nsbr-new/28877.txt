@@ -1,0 +1,1 @@
+<title>Issue 28877 -   chromium -    No shut down  reboot option for Chrome OS - Project Hosting on Google Code</title>   1. Boot the Chrome OS          There should been an option to properly shut down the OS.      You need to power off the virtual machine instead. When the system is  started again  it says the system was not shut down properly.    <b>Please provide

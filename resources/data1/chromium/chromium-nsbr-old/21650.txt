@@ -1,0 +1,1 @@
+<title>Issue 21650 -   chromium -    Refuse to start as root - Project Hosting on Google Code</title> <pre> Issue 21489 starts with:    1. run chrome as root  which leads to other problems.    We should have stopped at step one. </pre>

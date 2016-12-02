@@ -1,0 +1,1 @@
+<title>Issue 32859 -   chromium -    Text Files won't display - Project Hosting on Google Code</title>   1. Open Chromium   2. Go to any .txt file (e.g. <a href="http://google.com/robots.txt">http://google.com/robots.txt</a>)        The text file displays      I receive the &quot;Aw  Snap&quot; page    <b>Please provide

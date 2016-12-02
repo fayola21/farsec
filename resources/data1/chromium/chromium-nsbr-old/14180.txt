@@ -1,0 +1,1 @@
+<title>Issue 14180 -   chromium -    URL link on Google search results page has changed to lime green. - Project Hosting on Google Code</title>   1.Make a search on Google.com          Color of the URLs of the results should be a darker green.      URLs link of results are in lime green    <b>Please provide

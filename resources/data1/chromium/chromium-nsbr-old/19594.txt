@@ -1,0 +1,1 @@
+<title>Issue 19594 -   chromium -    Tab strip should accept plain text drops - Project Hosting on Google Code</title>   1.Highlight some text  2.Try to drag&amp;drop it onto tab panel        It will open new tab with highlighted text search or the link we   drag&amp;dropped      Nothing happens  only links open in new tab    <b>Please provide

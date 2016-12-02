@@ -1,0 +1,1 @@
+<title>Issue 30171 -   chromium -    SPDY connection pool doesn't account for port. - Project Hosting on Google Code</title> <pre> The connection pool is per-domain.  If a server uses links on separate ports    the pool will happily fold them together. </pre>

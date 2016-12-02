@@ -1,0 +1,1 @@
+<title>Issue 420 -   chromium -    Mouse gestures would be nice - Project Hosting on Google Code</title> <pre> I'm very much used to Maxthon browser which has mouse gestures for example   to go back  to go forward etc  tab scrolling  collector  where you can   asign alias to some URL and it would be nice to see such things in Chrome   too :)    Thanks! </pre>

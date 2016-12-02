@@ -1,0 +1,1 @@
+<title>Issue 42678 -   chromium -    mouse features not working - Project Hosting on Google Code</title>   1. programmed mouse features such as back &amp; minimize do not work with   chrome                    <b>Please provide

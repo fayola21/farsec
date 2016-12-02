@@ -1,0 +1,1 @@
+<title>Issue 26769 -   chromium -    Add support for command-line API to get heap contents - Project Hosting on Google Code</title> <pre> Something like console.getHeap()    See <a href="https://bugs.webkit.org/show_bug.cgi?id=31134">https://bugs.webkit.org/show_bug.cgi?id=31134</a> </pre>

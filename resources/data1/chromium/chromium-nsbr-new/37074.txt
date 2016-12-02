@@ -1,0 +1,1 @@
+<title>Issue 37074 -   chromium -    Chrome Browser Crashes when tabbed dragged out of browser window - Project Hosting on Google Code</title>   1. Open google-chrome  2. Open any number of tabs  3. Drag a tab out into a new window.      The tab should open up a new google-chrome window with the contents of that  tab displayed.      google-chrome crashes    <b>Please provide

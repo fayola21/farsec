@@ -1,0 +1,1 @@
+<title>Issue 7237 -   chromium -    No scrollbars / page navigation impossible - Project Hosting on Google Code</title>   1. goto website          There should be scrollbars on the website  but because this is an Arabic   site  they should appear on left hand side.       No scrollbars  so no page navigation possible    Please provide

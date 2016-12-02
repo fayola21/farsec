@@ -1,0 +1,1 @@
+<title>Issue 39346 -   chromium -    New Tab Error - Project Hosting on Google Code</title>   1.Making a new tab      A new tab where resent windows/most visited windows can be viewed      The windows of most visited websites by user are squeezed together  almost   looks like font is too large    <b>Please provide

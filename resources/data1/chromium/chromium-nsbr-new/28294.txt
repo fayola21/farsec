@@ -1,0 +1,1 @@
+<title>Issue 28294 -   chromium -    Use system ICU once systems provide a recent enough version of ICU - Project Hosting on Google Code</title> <pre> We should be able to build against ICU if it's already on the user's system. </pre>

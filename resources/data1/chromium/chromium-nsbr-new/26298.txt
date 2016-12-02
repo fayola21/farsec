@@ -1,0 +1,1 @@
+<title>Issue 26298 -   chromium -    Recommendation manager downloads - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.11  You have very good download manager   But the downside it's impossible to manage folders   I would like you to add that the next version of your browser    Thank you very much    Sharon Dagan </pre>

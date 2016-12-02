@@ -1,0 +1,1 @@
+<title>Issue 961 -   chromium -    espn.com mlb scoreboard doesn't auto-update - Project Hosting on Google Code</title>   1. Go to the given page when there are games in progress            The scores and play-by-play should automatically update when plays happen.        The data only updates if you explicitly reload the page.    Please provide

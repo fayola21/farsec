@@ -1,0 +1,1 @@
+<title>Issue 27459 -   chromium -    Toolbar disabled states are wrong (should be beveled  with dimmed icons) - Project Hosting on Google Code</title> <pre> Toolbar disabled states are wrong (should be beveled  with dimmed icons) </pre>

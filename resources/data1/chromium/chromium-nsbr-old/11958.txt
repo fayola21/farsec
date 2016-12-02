@@ -1,0 +1,1 @@
+<title>Issue 11958 -   chromium -    Chrome colour turned to black - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0 (Build oficial 15835)                    1. Open Google Chrome          The colour has to be blue  not black.      The colour of the title bar is black.    Screenshot attached.   </pre>

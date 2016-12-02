@@ -1,0 +1,1 @@
+<title>Issue 21212 -   chromium -    &quot;Show full history&quot;  re-placed. - Project Hosting on Google Code</title> <pre> HI  On the new page  there is a link of &quot;show full history&quot;  however  I always    feel hard to find it.   I hope the link could be placed on the last item of &quot;Recently closed&quot;   </pre>

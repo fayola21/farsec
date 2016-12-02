@@ -1,0 +1,1 @@
+ServiceSupport - incorrect state after restart    This hampers restart of services by example the overhauled JMX in CAMEL-1933.When a service was restarted it had the following incorrect state: started = true starting = false stopped = true stopping = falseThe stopped should have been changed to false as its started.   

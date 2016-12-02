@@ -1,0 +1,1 @@
+<title>Issue 33119 -   chromium -    Bookmark manager: toplevel folders shouldn't have bold text - Project Hosting on Google Code</title> <pre> It looks seriously weird. </pre>

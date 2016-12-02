@@ -1,0 +1,1 @@
+<title>Issue 13998 -   chromium -    authentication message box has extra window frame - Project Hosting on Google Code</title>   1. Go to a site that requires a login  2. Look at the login dialog        Normal window        There's an extra frame around the window    <b>Please provide

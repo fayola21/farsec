@@ -1,0 +1,1 @@
+<title>Issue 17833 -   chromium -    Image title does not popup - Project Hosting on Google Code</title>   1. Go to a website were you know an image tag has a title attribute (   <a href="http://xkcd.com/">http://xkcd.com/</a> )  2. Hover your cursor over the image.      A little bubble where I can read the image's title.      Nothing    <b>Please provide

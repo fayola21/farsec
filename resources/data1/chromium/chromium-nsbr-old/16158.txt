@@ -1,0 +1,1 @@
+<title>Issue 16158 -   chromium -    Render sad plugin - Project Hosting on Google Code</title> <pre> [28895:28896:6664058740269:ERROR:chrome/renderer/webplugin_delegate_proxy.cc  (412)] Not implemented reached in virtual void   WebPluginDelegateProxy::UpdateGeometry(const gfx::Rect&amp;  const gfx::Rect&amp;)   </pre>

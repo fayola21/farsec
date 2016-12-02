@@ -1,0 +1,1 @@
+<title>Issue 1797 -   chromium -    The upscroll utility of the touch pad  - Project Hosting on Google Code</title>   1. Open any page  2. Use touch-pad and scroll down using the side scroll feature of touch-pad  3. Then Scroll Up using the touch-pad.      To move to the top of page      Nothing happened and the page did not moved up as expected    Please provide

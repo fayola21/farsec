@@ -1,0 +1,1 @@
+Remove YUI source files from SVN    Currently YUI 3.5.1 source files are in SVN.We don't really need to have them checked into SVN as we don't track changes. We are pre-concatenating and minifying the YUI js files  so we don't need the files to run Ambari anyhow.We should just remove them from SVN and instead just checkin the tarball.   

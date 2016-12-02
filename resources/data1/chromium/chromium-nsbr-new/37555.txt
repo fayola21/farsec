@@ -1,0 +1,1 @@
+<title>Issue 37555 -   chromium -    Can't put window buttons on left of titlebar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.336.0 (39849) Ubuntu    Chromium does not detect that my OS (Ubuntu Linux) has it's close / minimise   / maximise buttons on the left of the titlebar (like a mac).  </pre>

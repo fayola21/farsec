@@ -1,0 +1,1 @@
+<title>Issue 40855 -   chromium -    should tint the location icon - Project Hosting on Google Code</title> <pre> on gtk  in gtk theme mode </pre>

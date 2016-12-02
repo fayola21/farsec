@@ -1,0 +1,1 @@
+<title>Issue 2049 -   chromium -    Chromium new tab page icon distorted - Project Hosting on Google Code</title> <pre>   1. Open a new tab in Chromium            The Chromium icon in the upper right appears to be shorter and wider than   it should be.          </pre>

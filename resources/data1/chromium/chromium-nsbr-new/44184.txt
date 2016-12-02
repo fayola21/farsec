@@ -1,0 +1,1 @@
+<title>Issue 44184 -   chromium -    Drag won't take place if event.dataTransfer is not populated with data - Project Hosting on Google Code</title> <pre> See attached test case.    This seems to be specific to Chrome Mac. If the checkbox is not checked  only the dragstart event is   fired. When the checkbox is checked  all the drag and drop events are fired as expected. </pre>

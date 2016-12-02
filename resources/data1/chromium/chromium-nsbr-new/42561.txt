@@ -1,0 +1,1 @@
+<title>Issue 42561 -   chromium -    In diagnostics mode  User Data directory test fails as the path is too big(&gt;500 MB) - Project Hosting on Google Code</title> <pre> Run chrome in diagnostics mode using chrome.exe --diagnostics    User Data directory test fails because it's too big    [FAIL] User data Directory     Path is too big: 1 GB    This is on Win XP SP2 </pre>

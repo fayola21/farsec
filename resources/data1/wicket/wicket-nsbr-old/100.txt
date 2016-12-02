@@ -1,0 +1,1 @@
+extract IPageMap interface from PageMap    If we extract a IPageMap interface from PageMap  it will make it easier for clients to provide wrapped/ proxied implementions and gives them more options for implementing custom ISessionStores.   

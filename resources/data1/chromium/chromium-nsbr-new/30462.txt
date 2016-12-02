@@ -1,0 +1,1 @@
+<title>Issue 30462 -   chromium -    Flash videos fullscreen crash - Project Hosting on Google Code</title>   1.open a youtube video  2.press full screen button          video plays in full screen        Flash crashes   Message: The following plug-in has crashed: /usr/lib/flashplugin-  installer/libflashplayer.so  <b>Please provide

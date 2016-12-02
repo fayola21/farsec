@@ -1,0 +1,1 @@
+<title>Issue 30496 -   chromium -    SSLInfo does not belong in HttpResponseInfo - Project Hosting on Google Code</title> <pre> The code is quite hacky around here and causes some issues when   GetResponseInfo() gets called even though there is no HttpResponse yet    since we need the SSL info for it in case of certificate error. </pre>

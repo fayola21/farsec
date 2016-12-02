@@ -1,0 +1,1 @@
+<title>Issue 888 -   chromium -    setTimeout(...  0) fires too quickly - Project Hosting on Google Code</title>   1. Open the above URL.  2. Wait a few seconds.      A number greater than 3000 should appear.      A much smaller number appears - around 300-400.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27752 -   chromium -    Javascript closing window while bookmark bubble open crashes - Project Hosting on Google Code</title> <pre>   1. Open attached page  2. Immediately click on bookmark star  3. Wait until page closes behind you due to javascript    What is the expected output?   Everything should close properly.    What do you see instead?  Crash       </pre>

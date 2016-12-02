@@ -1,0 +1,1 @@
+<title>Issue 18658 -   chromium -    Extensions should be allowed to be dragged along the extension strip - Project Hosting on Google Code</title> <pre> Extensions can't be dragged right now. If users want to move some extension   to the front/end/some random position of the list  they should be able to do   so. This is just like how we do with bookmarks. </pre>

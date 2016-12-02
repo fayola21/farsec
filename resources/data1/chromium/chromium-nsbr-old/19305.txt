@@ -1,0 +1,1 @@
+<title>Issue 19305 -   chromium -    Dragging on the download shelf or bookmark bar moves the window in Mac Chrome - Project Hosting on Google Code</title> <pre>   1. Make the download shelf or the bookmark bar visible  2. Drag with the mouse on either  3. Notice that the window moves with the mouse drag    The window should not move in this situation. </pre>

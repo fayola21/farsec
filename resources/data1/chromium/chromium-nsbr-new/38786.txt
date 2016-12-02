@@ -1,0 +1,1 @@
+<title>Issue 38786 -   chromium -    Several taskbar icons for one tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.356.2 (Official Build 42060) dev    On several websites including nbc video player  hulu  pandora and gmail  I   get a taskbar icon for the window  and an addition icon for the open tab.  Screenshot enclosed.     </pre>

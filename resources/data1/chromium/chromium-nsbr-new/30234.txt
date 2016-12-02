@@ -1,0 +1,1 @@
+<title>Issue 30234 -   chromium -    translate and picasa page error - Project Hosting on Google Code</title>   1. go to google.com search page and click more-&gt;translate  2. after translate page is opened  click more -&gt; photos  3. shows weird error      should open picasa.google.com      gives an error.  Sometimes this gives a different error.    <b>Please provide

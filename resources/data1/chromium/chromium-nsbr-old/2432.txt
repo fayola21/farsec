@@ -1,0 +1,1 @@
+<title>Issue 2432 -   chromium -    Black flash on navigating between pages - Project Hosting on Google Code</title> <pre> I've noticed that occasionally with 152.1 I see a black flash when   navigating forward/backward in my history. I also occasionally see the   flash when selecting a chrome window that wasn't active.       </pre>

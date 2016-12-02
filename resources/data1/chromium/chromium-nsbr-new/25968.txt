@@ -1,0 +1,1 @@
+<title>Issue 25968 -   chromium -    Controls can outlive their targets when JavaScript closes tabs. - Project Hosting on Google Code</title> <pre> This is a grab-bag bug to make certain that this class of problem gets addressed.  test.html is   useful for reproducing this class of bugs  it will close the window it is in after 5 seconds. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21023 -   chromium -    OSX Omnibox selection metrics versus borders. - Project Hosting on Google Code</title> <pre> Linus at one point suggested that the Omnibox selection rectangle should be evenly spaced WRT   the edges of the field.  So the border on the left and top and bottom should all be one pixel  or two   pixels  or whatever. </pre>

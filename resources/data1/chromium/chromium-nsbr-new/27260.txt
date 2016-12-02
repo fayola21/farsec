@@ -1,0 +1,1 @@
+<title>Issue 27260 -   chromium -    Minimized icon for Google Chrome 4.0.237.0 in Win XP SP 3 seems like chrome is trying to load a page. - Project Hosting on Google Code</title>   1.Minimize Google Chrome to the taskbar in Win XP SP 3                    <b>Please provide

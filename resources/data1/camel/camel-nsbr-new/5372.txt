@@ -1,0 +1,1 @@
+Shutting down one of the contexts breaks async redeliveries in others: RedeliveryErrorHandler has static reference to a thread pool    ErrorRedeliveryHandler has static reference to a thread pool used for scheduling retries  thus when it's stopped it stops a pool used by other handler instances(e.g. from other contexts)  thus they now can't redeliver.   

@@ -1,0 +1,1 @@
+<title>Issue 1176 -   chromium -    cannot copy and paste images from chrome to other applications - Project Hosting on Google Code</title>   1. right click  copy image  2. go to any other application  3. right click paste                Please provide

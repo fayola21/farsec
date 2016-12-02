@@ -1,0 +1,1 @@
+<title>Issue 45644 -   chromium -    NOTREACHED() when changing cookie preferences in incognito mode - Project Hosting on Google Code</title> <pre>   1. Open a new incognito window  2. Preferences &gt; Under the Hood &gt; Content Settings &gt; Cookies  3. Change &quot;Block third-party cookies&quot;      You get a NOTREACHED assertion failure.       </pre>

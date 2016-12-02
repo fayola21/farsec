@@ -1,0 +1,1 @@
+<title>Issue 8238 -   chromium -    Bookmark(s) can not be overwriten AND can be duplicated in the same folder - Project Hosting on Google Code</title>   1. Bookmarks imported from favorites of IE will be duplicated in the same   folder.  2. When re-instal Chrome  bookmarks imported from favorites of IE will be   duplicated in the same folder.                  Please provide

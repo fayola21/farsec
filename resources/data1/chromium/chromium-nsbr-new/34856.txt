@@ -1,0 +1,1 @@
+<title>Issue 34856 -   chromium -    Unable to Pin a Tab - Project Hosting on Google Code</title>   1. Open Chrome  2. Right click on the tab      Have option to pin a tab      Option is gone    <b>Please provide

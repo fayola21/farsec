@@ -1,0 +1,1 @@
+<title>Issue 18085 -   chromium -    Remove duplicate versions of DieFileDie across codebase - Project Hosting on Google Code</title> <pre> Today I spotted another version of the routine  in   in_process_browser_test.cc.    I was recently modifying the version in ui_test.cc.    It's time to remove the duplication. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18362 -   chromium -    Very large and very small playback rates on audio crash the tab - Project Hosting on Google Code</title> <pre> Currently  we just have a DCHECK at the algorithm level that the rate must be   &gt;= 0. There should be a higher-level check that we don't try to set the rate   to some bizarre value. </pre>

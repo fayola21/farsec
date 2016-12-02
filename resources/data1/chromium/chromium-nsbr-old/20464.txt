@@ -1,0 +1,1 @@
+<title>Issue 20464 -   chromium -    Mac history menu needs favicons - Project Hosting on Google Code</title> <pre>   1. Open history menu  2. See no favicons      Favicons for all history items. It would also be good to refactor like was done   in the bookmark menu.       </pre>

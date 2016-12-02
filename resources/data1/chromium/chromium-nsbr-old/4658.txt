@@ -1,0 +1,1 @@
+<title>Issue 4658 -   chromium -    Silverlight Plugin does not work when Windowless param is set to true - Project Hosting on Google Code</title>   1. Go to the URL listed or create a silverlight app and set windowless =   true  2. silverlight will be displayed as a black box  3. change windowless to false and the page works as expected.                Please provide

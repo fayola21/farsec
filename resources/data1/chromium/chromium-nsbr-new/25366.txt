@@ -1,0 +1,1 @@
+<title>Issue 25366 -   chromium -    SetActiveURL address should be cached in child_process_logging_win.cc - Project Hosting on Google Code</title> <pre> GetModuleHandle() and GetProcAddress() are called every time the active URL   is updated. By caching the return value of GetProcAddress() we can eliminate   two systems calls every time the active URL is updated. </pre>

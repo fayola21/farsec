@@ -1,0 +1,1 @@
+<title>Issue 46237 -   chromium -    tab problem - Project Hosting on Google Code</title>   1. pin the tab  2. right-click the pinned tab then select close tab        the pinned tab will be close obviously      the pinned tab did not close instead  it refreshes/reload    <b>Please provide

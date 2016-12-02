@@ -1,0 +1,1 @@
+<title>Issue 25950 -   chromium -    Languages mixed in UI - Project Hosting on Google Code</title> <pre> I changed system preferences language to Japanese and then to Hebrew;  dialog box showed up with mixed languages (see screenshot).   </pre>

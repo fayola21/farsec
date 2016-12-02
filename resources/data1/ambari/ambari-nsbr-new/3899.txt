@@ -1,0 +1,1 @@
+'HDFS Short-circuit read' config property is repeated       

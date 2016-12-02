@@ -1,0 +1,1 @@
+<title>Issue 13840 -   chromium -    The new update doesn't work! - Project Hosting on Google Code</title>   1.When clicking a button          Go to what the button does      It says to restart Google Chrome    <b>Please provide

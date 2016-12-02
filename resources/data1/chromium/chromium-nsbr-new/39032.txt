@@ -1,0 +1,1 @@
+<title>Issue 39032 -   chromium -    New tab with CTRL+Click in omnibox - Project Hosting on Google Code</title> <pre> We can open pages in new tab from omnibox with mouse middle click but we   cannot with CTRL+Click. I think this should be. </pre>

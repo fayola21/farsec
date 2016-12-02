@@ -1,0 +1,1 @@
+<title>Issue 45678 -   chromium -    Remove all traces of AddHomePage from importer - Project Hosting on Google Code</title> <pre> Previous removals had merely toggled the AddHomePage method off; it should be   removed entirely from the code base. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30039 -   chromium -    Abstract data type management classes - Project Hosting on Google Code</title> <pre> The existing data type management classes (change processor  model   associator  conflict resolver) are currently bookmark centric.  We should   extract these into interfaces so they can be implemented by future data   types.   </pre>

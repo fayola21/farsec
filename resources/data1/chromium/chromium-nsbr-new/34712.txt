@@ -1,0 +1,1 @@
+<title>Issue 34712 -   chromium -    about:config - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.78 36714  URLs (if applicable) : about:config  Other browsers tested: firefox      Firefox 3.x: OK        1. open in enderess bar about:config;      advanced config and personalization;      nothing :(. very fail; </pre>

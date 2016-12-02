@@ -1,0 +1,1 @@
+<title>Issue 1073 -   chromium -    https for google reader - Project Hosting on Google Code</title>   1. open gmail  2. active secure HTTPS encriptation from setting/LAB feature  3. try to open google reader from &quot;gbar&quot;      Google reader appears      requested URL doesn't exist    Please provide

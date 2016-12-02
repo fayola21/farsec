@@ -1,0 +1,1 @@
+<title>Issue 37864 -   chromium -    star/reload button shuffle - Project Hosting on Google Code</title> <pre> see attached mock.    &gt; Will the star always be right-most in the location bar (compared to the   security  &gt; warning icon  extension actions  etc)?    Yes.    &gt; Will the bookmark star bubble be reversed by default now?    Yes. </pre>

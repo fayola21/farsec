@@ -1,0 +1,1 @@
+<title>Issue 40861 -   chromium -    Remove Apple Event handlers while trying to shut down? - Project Hosting on Google Code</title> <pre> While in a protracted shutdown  should Chrome continue to process Apple Events to  e.g.  open new   things?    If not  then AE handlers should be removed when the shutdown process begins (and re-instated if   it's cancelled). </pre>

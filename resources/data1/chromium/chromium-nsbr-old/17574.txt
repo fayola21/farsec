@@ -1,0 +1,1 @@
+<title>Issue 17574 -   chromium -    Extension manager support - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.1    Chrome does not have an extension manager.  It should have ability to:  &gt; Enable/disable extensions.  &gt; Uninstall extensions.  &gt; Show information about extensions. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9660 -   chromium -    Page are not loading after about:hang - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.171.0  URLs (if applicable) : www.google.com      1. Go to: about:hang  2. Open new tab and go to: www.google.com      Page is opened.      Page is not loading and it's blank.   </pre>

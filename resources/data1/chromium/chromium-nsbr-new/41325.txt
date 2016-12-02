@@ -1,0 +1,1 @@
+<title>Issue 41325 -   chromium -    Poor Lao language rendering - Project Hosting on Google Code</title> <pre> [Lao]    [5.0.342.7 beta]    [Ubuntu 9.10]    [poor language rendering. <a href="http://mahasan.com">http://mahasan.com</a>]       </pre>

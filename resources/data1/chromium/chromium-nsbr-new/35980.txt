@@ -1,0 +1,1 @@
+<title>Issue 35980 -   chromium -    window size and position set to 0 right after window.open call - Project Hosting on Google Code</title>   1. w=window.open(...)  2. alert(w.innerHeight)        Some valid values for innerHeight  innerWidth  screenX and screenY.      All values are set to 0.    <b>Please provide

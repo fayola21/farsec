@@ -1,0 +1,1 @@
+<title>Issue 985 -   chromium -    Sharepoint text becomes compressed - Project Hosting on Google Code</title>   1. Open any MS Sharepoint page where you can download an attachment          Can read the page with no issue and access links with no problems.      Text becomes unreadable and any links are stacked on top of one another    Please provide

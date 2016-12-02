@@ -1,0 +1,1 @@
+<title>Issue 30959 -   chromium -    Add WebDatabase::GetAllAutofillEntries() - Project Hosting on Google Code</title> <pre> In order to do model association  there needs to be a way to get all of the   autofill values out of the autofill database.  This will be done via the new   WebDatabase::GetAllAutofillEntries() method.   </pre>

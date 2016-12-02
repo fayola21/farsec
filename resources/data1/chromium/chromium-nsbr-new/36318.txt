@@ -1,0 +1,1 @@
+<title>Issue 36318 -   chromium -    [GPU] Modify pepper API - Project Hosting on Google Code</title> <pre> New features:  * Hide fields in context. Expose only through settable / gettable   attributes.  * New was of exposing available device configurations.  * Single call to flush and set and get attributes with a minimum of IPC   use and synchronization.     </pre>

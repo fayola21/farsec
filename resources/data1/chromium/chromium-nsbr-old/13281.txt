@@ -1,0 +1,1 @@
+<title>Issue 13281 -   chromium -    add chrome_resource files to gyp - Project Hosting on Google Code</title> <pre> The various *.rc files in chrome_resources refer to files which we need to   tied (html  js  css  etc.).  Some of these used to be in the vcproj  so they   were easy to get to.  After the recent gyp migration  none of them are.   </pre>

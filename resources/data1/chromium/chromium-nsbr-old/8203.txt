@@ -1,0 +1,1 @@
+<title>Issue 8203 -   chromium -    Implement multi-process plugins - Project Hosting on Google Code</title> <pre> Do all the magic hoop-jumping to make plugins work in the multi-process   world. </pre>

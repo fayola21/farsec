@@ -1,0 +1,1 @@
+<title>Issue 26968 -   chromium -    NOTREACHED when uninstalling a disabled extension - Project Hosting on Google Code</title> <pre> 1. Install an extension with a browser action.  2. Disable it.  3. Uninstall it.    BrowserActionsContainer::RemoveBrowserAction:    NOTREACHED() &lt;&lt; &quot;Asked to remove a browser action view that doesn't   exist.&quot;; </pre>

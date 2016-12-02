@@ -1,0 +1,1 @@
+<title>Issue 41521 -   chromium -    Whoa Crash everytime my computer wakes from Sleep - Project Hosting on Google Code</title>   1. Have Chrome open  2. Send Computer to sleep  3. Wake computer  4. Get Whoa Crash message      For my computer to wake up with my browser how I left it      Chrome Crashes.    <b>Please provide

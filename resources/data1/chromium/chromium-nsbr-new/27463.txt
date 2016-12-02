@@ -1,0 +1,1 @@
+<title>Issue 27463 -   chromium -    Omnibox visual tweaks - Project Hosting on Google Code</title> <pre> round corners are off (radius too great for highlight clip)    need pdfs for images    search token should look like QSB's (lighter  3px radius)    Text baseline should be one pixel higher in omnibox and dropdown </pre>

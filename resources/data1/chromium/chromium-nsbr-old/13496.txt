@@ -1,0 +1,1 @@
+<title>Issue 13496 -   chromium -    Uploaded pages sometimes show part of another tab - Project Hosting on Google Code</title>   1. Closing a tab.  2. Switching tabs.      There is supposed to be a correctly rendered page.      On an already-loaded tab  sometimes there is a large block showing either  the previous tab or the first tab on the bar.     <b>Please provide

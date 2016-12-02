@@ -1,0 +1,1 @@
+LinkType inner class is duplicated    Both o.a.w.markup.html.tree.BaseTree and o.a.w.extensions.markup.html.tree.DefaultAbstractTree classes define the same LinkType inner class. Imho this duplication should be removed.   

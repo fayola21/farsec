@@ -1,0 +1,1 @@
+<title>Issue 7634 -   chromium -    Already opened Chrome browser after coming out of hibernation closes tabs when tabs are being selected  instead of shiting between tab views. - Project Hosting on Google Code</title>                       Please provide

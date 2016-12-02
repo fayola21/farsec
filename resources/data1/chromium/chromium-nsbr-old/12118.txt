@@ -1,0 +1,1 @@
+<title>Issue 12118 -   chromium -    Implement extensions blacklist - Project Hosting on Google Code</title> <pre> We need to implement a blacklist of banned extensions. The list should be   frequently updated and we should forcefully kill any running extension on the   list. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26559 -   chromium -    ffmpeg deadstrip - Project Hosting on Google Code</title> <pre> ffmpeg contains dead code - code that is included  but never used.  The new gyp based build makes it easier to remove the extraneous code.   </pre>

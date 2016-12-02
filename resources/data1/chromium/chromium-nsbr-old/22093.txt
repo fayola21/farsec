@@ -1,0 +1,1 @@
+<title>Issue 22093 -   chromium -    linux sad tab has no subtext - Project Hosting on Google Code</title> <pre> I'm not sure if this is due to the clipping issue or not  but the text   &quot;Something went wrong while displaying this webpage ...&quot; does not display on   linux. </pre>

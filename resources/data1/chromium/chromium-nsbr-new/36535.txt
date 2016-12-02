@@ -1,0 +1,1 @@
+<title>Issue 36535 -   chromium -    Pages with Content-Type application/xhtml+xml crash - Project Hosting on Google Code</title>   1. Open a page that sends a Content-Type of application/xhtml+xml  2. After a while of loading  the tab crashes    <b>Please provide

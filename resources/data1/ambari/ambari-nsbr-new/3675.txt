@@ -1,0 +1,1 @@
+Default value of 'Default virtual memory for a job's map-task' is not valid    The default value of 'Default virtual memory for a job's map-task' (in Customize Services page -&gt; MapReduce2 tab -&gt; General) was '619.5'.Warning hint says 'Must contain digits only'Value depends on quantity of installed components.   

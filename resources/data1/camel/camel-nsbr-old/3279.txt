@@ -1,0 +1,1 @@
+Let custom Processor be managed in JMX when implementing ManagementAware    See nabblehttp://camel.465427.n5.nabble.com/manage-Camel-Processor-using-JMX-tp3235454p3235454.html   

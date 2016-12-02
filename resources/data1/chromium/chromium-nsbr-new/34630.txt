@@ -1,0 +1,1 @@
+<title>Issue 34630 -   chromium -    Runtime error 216 at 00002C38 - Project Hosting on Google Code</title> <pre> When i upload photos (pictures)  GC gives a similar error. After that browser    restarts itself. I were re-installed browser several times  nothing changes.   Help  please.   </pre>

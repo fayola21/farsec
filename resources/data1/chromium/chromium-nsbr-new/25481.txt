@@ -1,0 +1,1 @@
+<title>Issue 25481 -   chromium -    &quot;Pin Tab&quot; not implemented on OS X - Project Hosting on Google Code</title> <pre> As of 4.0.222.5  the &quot;Pin Tab&quot; feature is not implemented on OS X. </pre>

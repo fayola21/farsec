@@ -1,0 +1,1 @@
+<title>Issue 11295 -   chromium -    Chromium doesn`t have &quot;Show password&quot; button - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.178.0 (15033)      1. See attach   </pre>

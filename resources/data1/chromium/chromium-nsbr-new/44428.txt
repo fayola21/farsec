@@ -1,0 +1,1 @@
+<title>Issue 44428 -   chromium -    Implement toggable pitch preservation - Project Hosting on Google Code</title> <pre> WebKit has webkitPreservesPitch for enabling between pitch-preservation  audio resampling when playbackrate != 1.0.    Should be a fun little thing to implement + some refactoring. </pre>

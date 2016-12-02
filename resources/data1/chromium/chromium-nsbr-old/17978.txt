@@ -1,0 +1,1 @@
+<title>Issue 17978 -   chromium -    Cannot step in some functions - Project Hosting on Google Code</title> <pre>   1. Open attached file.  2. Open devtools.  3. Set breakpoint at line 22.  4. Click &quot;Click Me&quot; button in the page to pause execution at line 22.  5. Try to step in.      Step over happens instead of step in.   </pre>

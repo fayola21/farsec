@@ -1,0 +1,1 @@
+<title>Issue 18035 -   chromium -    Implement Clipboard::WriteHyperlink - Project Hosting on Google Code</title> <pre> It appears to only be used in   chrome/browser/autocomplete/autocomplete_edit_view_win.cc:        scw.WriteHyperlink(text  url.spec());     </pre>

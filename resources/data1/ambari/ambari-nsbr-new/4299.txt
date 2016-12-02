@@ -1,0 +1,1 @@
+Ambari server unit test failure    Results :Failed tests: testDoWork(org.apache.ambari.server.state.scheduler.BatchRequestJobTest): (..)Tests run: 1265  Failures: 1  Errors: 0  Skipped: 8   

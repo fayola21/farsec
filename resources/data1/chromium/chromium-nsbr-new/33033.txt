@@ -1,0 +1,1 @@
+<title>Issue 33033 -   chromium -    Add GSSAPI support to Linux and OSX for Negotiate - Project Hosting on Google Code</title> <pre> Three things are needed    - Dynamically load gssapi shared library and bind function pointers.    - Wrap common functionality for gssapi    - Add Negotiate specific code. </pre>

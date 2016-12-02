@@ -1,0 +1,1 @@
+<title>Issue 39987 -   chromium -    Refactor Mac sandbox files - Project Hosting on Google Code</title> <pre> The MacOS sandbox files should be refactored to create a &quot;base&quot; sandbox  file which is then included at the start of all other sandbox profiles.   </pre>

@@ -1,0 +1,1 @@
+Javadoc for BTreeLockingPolicy should not mention 'scan lock' anymore    The javadoc for BTreeLockingPolicy still talks about scan locks  although the scan lock is no longer in use after DERBY-2991. The javadoc should be updated so that it reflects the current state of the code.   

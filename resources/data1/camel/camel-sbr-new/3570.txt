@@ -1,0 +1,1 @@
+camel-snmp - Should mask password in the endpoint class    See nabblehttp://camel.465427.n5.nabble.com/password-shown-in-plain-text-in-the-log-file-while-starting-amp-stopping-context-td3347883.htmlThe password should be masked which can be done by overriding toString and mask it in the output.   

@@ -1,0 +1,1 @@
+<title>Issue 26690 -   chromium -    Need to be able to revoke permissions from the notification frame - Project Hosting on Google Code</title> <pre>   1. Grant permission to an origin to show notifications  2. Get a notification  3. Try to revoke.  Can't do it yet.     </pre>

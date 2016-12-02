@@ -1,0 +1,1 @@
+<title>Issue 1442 -   chromium -    Page is not displayed correctly - Project Hosting on Google Code</title>   1. Open URL <a href="http://www.cmake.org/HTML/cmake-2.6.html">http://www.cmake.org/HTML/cmake-2.6.html</a>      Blue background frame image is around the text        Background frame image is displayed across the text    Please provide

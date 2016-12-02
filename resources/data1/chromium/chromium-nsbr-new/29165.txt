@@ -1,0 +1,1 @@
+<title>Issue 29165 -   chromium -    Error to open javascript - Project Hosting on Google Code</title>   1. javascript:open_login_box() on the button that says &quot;Identificarme&quot; does   not open and not let me login  2. the search does not work        Open pop up with user and password textbox  and search      nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 45981 -   chromium -    Ghost Scroll Bar - Project Hosting on Google Code</title>   1. Login to the site (gmail.com)  2. Notice the scroll bar in the right which has no purpose      If not required  the scroll bar should be invisible      We have a magic scroll bar which does nothing but sit there and look pretty    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30025 -   chromium -    print preview of gmail on the mac includes scroll bars - Project Hosting on Google Code</title> <pre> To repro: open gmail  try to print  click on &quot;preview&quot; from the dialog box. You   should see aqua scrollbars in the pdf preview (almost as if you're in a frame   w/ scrollbars) </pre>

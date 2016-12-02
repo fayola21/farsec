@@ -1,0 +1,1 @@
+<title>Issue 31220 -   chromium -    Blue Borders in Windows 7 - Project Hosting on Google Code</title>     1. Open Google Chrome on Windows 7        Google Chrome will have a light blue border around it  and the top bar will   be light blue.        There is no border  and the top bar is the Windows 7 Default    <b>Please provide

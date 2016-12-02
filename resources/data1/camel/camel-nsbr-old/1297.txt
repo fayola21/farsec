@@ -1,0 +1,1 @@
+Seda component should configure its executor    Currently SEDA endpoint processes only using 1 thread so it is impossible to easily configure few concurrent processings on 1 seda endpoint. I believe SEDA endpoint could be configured with some executor and/or thread number that we would like to use to process given flows.   

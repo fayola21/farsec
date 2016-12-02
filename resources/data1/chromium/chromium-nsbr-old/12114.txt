@@ -1,0 +1,1 @@
+<title>Issue 12114 -   chromium -    Implement signature verification - Project Hosting on Google Code</title> <pre> We need to implement signature verification for extensions. Extensions should   be installable unless they have a verified signature using their public key.    This may be a blocker for themes. Or maybe themes just can't be autoupdated? </pre>

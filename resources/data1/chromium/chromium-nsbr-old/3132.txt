@@ -1,0 +1,1 @@
+<title>Issue 3132 -   chromium -    No stack trace in Error object - Project Hosting on Google Code</title>   1. Run the attached html that throws and catches an exception  then shows   the content of the Error object.      Being able to read verbose stack trace would make developers' life much   easier.      Chrome only supports name and message fields.    Please provide

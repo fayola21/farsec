@@ -1,0 +1,1 @@
+<title>Issue 5377 -   chromium -    Hotmail problems - Project Hosting on Google Code</title>   1. Open email account  2. Try to read an email or send a new one        Open the email  appear a new page with the options to write a new one      Nothing.. it says the same.. only allows me to see the content    Please provide

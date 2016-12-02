@@ -1,0 +1,1 @@
+<title>Issue 44654 -   chromium -    Add orientation event to Chromium - Project Hosting on Google Code</title> <pre> Device orientation events are being landed upstream (<a href="https://bugs.webkit.org/show_bug.cgi?">https://bugs.webkit.org/show_bug.cgi?</a>  id=39210).  We should implement them in Chromium some time. </pre>

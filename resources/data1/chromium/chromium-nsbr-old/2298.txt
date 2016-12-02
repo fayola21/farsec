@@ -1,0 +1,1 @@
+<title>Issue 2298 -   chromium -    inherited margin bug: form elements - Project Hosting on Google Code</title>   1. opening the page      top right search box  consists of a top table (3cols) and bottom image  all   are building a unites search box.      the bottom image got a space (like a margin-top) separating it and the top   table.     Please provide

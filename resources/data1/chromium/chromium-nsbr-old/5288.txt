@@ -1,0 +1,1 @@
+<title>Issue 5288 -   chromium -    History pages - Project Hosting on Google Code</title> <pre> Google chrome history should open in new tab or have a preview for fast   search of history pages. I like that you list the history links but still   is inefficient feature. </pre>

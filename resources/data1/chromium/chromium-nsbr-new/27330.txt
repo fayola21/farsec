@@ -1,0 +1,1 @@
+<title>Issue 27330 -   chromium -    Bookmark Bubble Choose Folder should be a popup instead of a combo box on Mac - Project Hosting on Google Code</title> <pre> The choose folder button in the Bookmark bubble should be a popup instead of a combo box as we   don't allow editing directly there. </pre>

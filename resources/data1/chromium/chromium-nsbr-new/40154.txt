@@ -1,0 +1,1 @@
+<title>Issue 40154 -   chromium -    Bookmark Manager has inconsistent UI context menus - Project Hosting on Google Code</title> <pre> The inner frame that contains the bookmarks has a different context menu (in   terms of style and content) than the outer page.  It   </pre>

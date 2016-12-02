@@ -1,0 +1,1 @@
+<title>Issue 14034 -   chromium -    TinyMCE Add Table isn't working - Project Hosting on Google Code</title>   1. Open other Browser  2. Add Table   3. Refresh page in Chrome  Table is added      When i'm using TinyMCE and trying to add a new Table  it won't add one.       It refreshes the small window where to add the Table.    <b>Please provide

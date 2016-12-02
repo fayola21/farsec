@@ -1,0 +1,1 @@
+<title>Issue 41971 -   chromium -    chrome does not use proxy from KDE - Project Hosting on Google Code</title>   1. Configure Proxy (via KDE dialog)  2. Restart X  3. Start Chrome  4. Try to use proxy  but it fails  5. Run chrom via auto_proxy=<a href="http://xxx.pac">http://xxx.pac</a> google-chrome and it works      Step 4 should work.          <b>Please provide

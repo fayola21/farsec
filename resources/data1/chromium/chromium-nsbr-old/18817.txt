@@ -1,0 +1,1 @@
+<title>Issue 18817 -   chromium -    Entering &quot;foo: bar&quot; to Omni Box navigates to http://%22foo/ - Project Hosting on Google Code</title>   1. Enter &quot;foo: bar&quot; (including quotation mark) to Omni Box  2. Press Enter key        Shows Google search result for &quot;foo: bar&quot;        Goes to http://%22foo/    <b>Please provide

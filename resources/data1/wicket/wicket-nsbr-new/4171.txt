@@ -1,0 +1,1 @@
+Add additional constructor to DownloadLink that accepts the filename in a Model    There are cases when the file name that will be used in DownloadLink is unknown at construction time. If the filename is stored in a IModel this limitation will be solved.   

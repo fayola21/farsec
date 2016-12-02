@@ -1,0 +1,1 @@
+<title>Issue 22925 -   chromium -    Location bar and security icon need tooltips - Project Hosting on Google Code</title> <pre>   1. Hover over the location bar  no tooltip  2. Hover over the security/lock icon on a HTTPs page  no tooltip      Tooltips describing the location bar and the SSL state.       </pre>

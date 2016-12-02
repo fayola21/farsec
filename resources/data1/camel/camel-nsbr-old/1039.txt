@@ -1,0 +1,1 @@
+Add support to tracer for logging out messages       

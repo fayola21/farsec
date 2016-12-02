@@ -1,0 +1,1 @@
+Remove Profile attribute from jar file manifests    DERBY-5955 added a Profile attribute to the jar file manifests. Starting with JDK 8 b105  the attribute has no effect and can be removed.See here: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=8022921   

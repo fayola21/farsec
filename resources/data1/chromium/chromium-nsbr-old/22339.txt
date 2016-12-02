@@ -1,0 +1,1 @@
+<title>Issue 22339 -   chromium -    HTTP auth buttons don't match - Project Hosting on Google Code</title> <pre> see screenshot.  buttons are different sizes  maybe due to accels.  we should use the stock cancel button here. </pre>

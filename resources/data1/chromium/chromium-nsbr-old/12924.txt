@@ -1,0 +1,1 @@
+<title>Issue 12924 -   chromium -    Ctrl + Alt + Del is not working when Omnibar is focused - Project Hosting on Google Code</title>   1. Select omnibar to type a url  2. Press Ctrl + Alt + Del to clear the private data  3. nothing will happen.  4. Focus outside the omnibar and try. it will work                <b>Please provide

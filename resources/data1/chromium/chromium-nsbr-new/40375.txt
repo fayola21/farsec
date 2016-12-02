@@ -1,0 +1,1 @@
+<title>Issue 40375 -   chromium -    Submitting from input @type=search with @result crashes Chrome - Project Hosting on Google Code</title>   1. Open the provided URL in Chrome  2. Type some text in first search box and press enter      The page loads again.        Chrome crashes    <b>Please provide

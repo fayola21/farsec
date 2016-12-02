@@ -1,0 +1,1 @@
+<title>Issue 19621 -   chromium -    Inspect element doesn't choose the element of the DOM - Project Hosting on Google Code</title>   1. Choose page element  call context menu  choose &quot;Inspect Elemnt&quot;  2. &quot;Developer tools&quot; should open on the element  but they don't                  <b>Please provide

@@ -1,0 +1,1 @@
+Camel features file doesn't validate    If you execute$camel/platforms/karaf&gt;mvn clean install -Pvalidateit fails in the feature definition validation for the following components:camel-quickfixcamel-cxfcamel-cdi   

@@ -1,0 +1,1 @@
+<title>Issue 33537 -   chromium -    Java uses a whole lot of CPU. 80-90+ - Project Hosting on Google Code</title>   1.Browse around for a while  2. Java will use 80+ of CPU      Well  Java not using 80% CPU for no apparent reason      It does.    <b>Please provide

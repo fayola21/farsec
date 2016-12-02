@@ -1,0 +1,1 @@
+<title>Issue 7784 -   chromium -    Downloads tab should stretch out download items - Project Hosting on Google Code</title>   1. Download something  2. Go to the downloads tab        The download item is stretched across the screen      The download item only uses about 500px leaving the rest of the space blank    Please provide

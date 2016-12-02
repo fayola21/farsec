@@ -1,0 +1,1 @@
+<title>Issue 45759 -   chromium -    Tab-Width - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.408.1 dev      1. Open a few tabs  2. close tabs (from left to right)      the tabs width should not change when a tab was closed until the cursor has   left the tab-bar.      The tab width is changing immediately after a tab was closed. </pre>

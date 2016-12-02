@@ -1,0 +1,1 @@
+<title>Issue 1802 -   chromium -    Starting chrome shows two chrome processes in windows task manager - Project Hosting on Google Code</title>   1. Launch chrome  2. Launch windows Task manager          One chrome process should be shown.        Two chrome processes are shown in the windows task manager. Is it by design    if yes can i know the reason.    Please provide

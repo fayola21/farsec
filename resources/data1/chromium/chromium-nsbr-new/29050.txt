@@ -1,0 +1,1 @@
+<title>Issue 29050 -   chromium -    Use system v8 - Project Hosting on Google Code</title> <pre> Chromium should support use of a system v8  using the same generated  mechanism for system libs of third_party dependencies.    Depending on a specific version is fine (and would be much easier if the  code had a configure script...). </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7934 -   chromium -    Bad display for web site VOO - Project Hosting on Google Code</title>   1. show URL www.voo.be   2. compare result with IE7 or Firefox 3.  3. The display result is not conform.                Please provide

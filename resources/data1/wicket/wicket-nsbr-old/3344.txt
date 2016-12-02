@@ -1,0 +1,1 @@
+Upgrade jetty version to 7.2    Jetty 6 is a dead end  and servlet api 2.3 is so 2003  it is time to cut the bilical cord and move to at least servlet api 2.5 (which is from januari 2007) so we can run our examples using jetty 7.   

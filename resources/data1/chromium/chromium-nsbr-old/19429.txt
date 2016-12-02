@@ -1,0 +1,1 @@
+<title>Issue 19429 -   chromium -    Randomly appearing (net::ERR_CONNECTION_RESET): Unknown Error - Project Hosting on Google Code</title> <pre> Chrome Version       :3.0.197.0 (Offizieller Build 22047)    I encounter this error on different sites.  I cant replicate it. It appears randomly. </pre>

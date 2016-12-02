@@ -1,0 +1,1 @@
+<title>Issue 45844 -   chromium -    Bug: SVGImage does not support sub-resource loading: - Project Hosting on Google Code</title> <pre> SVG bug: tracks: <a href="https://bugs.webkit.org/show_bug.cgi?id=15443">https://bugs.webkit.org/show_bug.cgi?id=15443</a>   </pre>

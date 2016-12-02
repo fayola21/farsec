@@ -1,0 +1,1 @@
+<title>Issue 37695 -   chromium -    OmxVideoDecodeEngine need to feed more to the hardware decoder - Project Hosting on Google Code</title> <pre> Number of feed to the hardware decoder is limited by the buffering limit in   VideoRendererBase  i.e. 3. Need to decouple these two numbers.   </pre>

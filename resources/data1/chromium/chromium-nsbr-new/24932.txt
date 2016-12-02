@@ -1,0 +1,1 @@
+<title>Issue 24932 -   chromium -    The application name for the Mac menu bar is wrong - Project Hosting on Google Code</title> <pre> Version 4.0.222.5    The string for the application name in the Mac menu bar reads &quot;Google Chrome Helper&quot;  not   &quot;Google Chrome&quot;. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1650 -   chromium -    Scroll Mouse doestn work - Project Hosting on Google Code</title>   1. If we scroll down using the mouse pad present on the key board   scroll works  where as scroll up doesnt work.                Please provide

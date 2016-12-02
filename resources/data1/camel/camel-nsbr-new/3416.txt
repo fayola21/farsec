@@ -1,0 +1,1 @@
+DefaultTimeoutMap should force scheduler in contructor    See nabblehttp://camel.465427.n5.nabble.com/Do-I-have-to-give-a-ScheduledExecutorService-instance-when-initializing-DefualtTimeoutMap-tp3298252p3298252.html   

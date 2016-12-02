@@ -1,0 +1,1 @@
+<title>Issue 25423 -   chromium -    Implement extensions menu item (mac) - Project Hosting on Google Code</title> <pre> On Windows  you access the extensions management UI via wrench &gt; extensions.   There needs to be something similar for mac. I am not sure what that means    though. </pre>

@@ -1,0 +1,1 @@
+Allow AttributeAppender to also prepend values    This add a flag to AttributeAppender which allows prepending a value to an attribute. This is useful for instance to add a javascript confirmation dialog before performing an action.   

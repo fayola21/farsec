@@ -1,0 +1,1 @@
+[patch] fix npe in error condition    LogToFile#switchLogFile: In the cleanup code that handles failure of initLogFile  we seecode nulls out a variable and then access it: push the nulling down to the end.   

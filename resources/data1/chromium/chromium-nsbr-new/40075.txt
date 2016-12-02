@@ -1,0 +1,1 @@
+<title>Issue 40075 -   chromium -    Chromium window restores on wrong display - Project Hosting on Google Code</title>   1. Close/Minimize Chromium with window on display 2  2. Reopen Chromium       I expect Chrome to restore the window on the display 2 with coordinates x y   and not x y on display 1.      Chrome is restored on display 1.    <b>Please provide

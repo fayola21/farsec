@@ -1,0 +1,1 @@
+<title>Issue 35762 -   chromium -    Empty history search should display some kind of message - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.3    I think  some message should be displayed..  See attachment. </pre>

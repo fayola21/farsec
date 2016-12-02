@@ -1,0 +1,1 @@
+<title>Issue 12945 -   chromium -    Truncation and incorrect positioning in about dialog of Google Chrome - Project Hosting on Google Code</title> <pre>   Russian      3.0.182.3      Windows 7 RC Build 7100 Rus      There is a truncation of a phrase in about dialog.  There are also incorrectly positioned SysLinks.  More info in attached screenshot. </pre>

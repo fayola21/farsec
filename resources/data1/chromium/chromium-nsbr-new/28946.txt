@@ -1,0 +1,1 @@
+<title>Issue 28946 -   chromium -    Click Edit then Cancel when Adding a New Bookmark - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.260.0 (33238)      1. Find a website to bookmark  2. Click the star  3. Click Edit  4. Then cancel      It should not add a bookmark      It adds a bookmark to the previous selected file.   </pre>

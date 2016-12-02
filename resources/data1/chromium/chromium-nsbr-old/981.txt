@@ -1,0 +1,1 @@
+<title>Issue 981 -   chromium -    Middle click open in new tag is sluggish - Project Hosting on Google Code</title> <pre> Opening things in a new tab is sluggish.  I suggest preloading an  additional tab process (hidden from view) at all times and making it appear  instantaneously when needed. </pre>

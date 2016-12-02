@@ -1,0 +1,1 @@
+<title>Issue 9048 -   chromium -    Importing settings should not overwrite pre-set home page - Project Hosting on Google Code</title> <pre> Currently  it's only possible to set the homepage if you don't import   settings (bookmarks). It should be able to set the homepage to Google (or a   partner start page) and also import bookmarks  history  etc.     </pre>

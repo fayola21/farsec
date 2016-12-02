@@ -1,0 +1,1 @@
+<title>Issue 14120 -   chromium -    Taskbar icon/logo for eenadu.net in Chrome is appearing different to IE - Project Hosting on Google Code</title>   1. open www.eenadu.net in Chrome &amp; IE    2. compare the taskbar icon in chrome vs IE              eenadu logo/ICON in Chromium looks different.    <b>Please provide

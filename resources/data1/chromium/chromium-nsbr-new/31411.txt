@@ -1,0 +1,1 @@
+<title>Issue 31411 -   chromium -    Install chromium on partition E:// or D:// - Project Hosting on Google Code</title>   1. the Installer installs google chrome immediately to C://  there is no   Selection  2. -  3. -            It's installed on C://    <b>Please provide

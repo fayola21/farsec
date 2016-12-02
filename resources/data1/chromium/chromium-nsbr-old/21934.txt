@@ -1,0 +1,1 @@
+<title>Issue 21934 -   chromium -    external protocol handling can recurse - Project Hosting on Google Code</title> <pre> when I click on a mailto: link on 4.0.207.0  it opens in gmail as well as   some random mail application that's installed on my system </pre>

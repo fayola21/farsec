@@ -1,0 +1,1 @@
+<title>Issue 21855 -   chromium -    Cant select whole word with double click - Project Hosting on Google Code</title>   1.go to gmail  2.try to select one word  3.word and space after the word is selected      only the word would be selected          word and space after the word is selected    <b>Please provide

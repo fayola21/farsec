@@ -1,0 +1,1 @@
+<title>Issue 8379 -   chromium -    Video renderer will sometimes only produce a single frame on linux - Project Hosting on Google Code</title> <pre>   1. Re-enable the video renderer test in   mediafiltersvideo_renderer_unittest.cc    2. Run it a bunch of times on linux      Expect test to pass.  Instead  it sometimes fails with only a single frame   produced.         </pre>

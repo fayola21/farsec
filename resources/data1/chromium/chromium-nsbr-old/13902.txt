@@ -1,0 +1,1 @@
+<title>Issue 13902 -   chromium -    [HTML5-Video] Video element doesn't work when running Chrome on Vista64 - Project Hosting on Google Code</title> <pre> HTML5 video doesn't work when running Chrome on Vista64    Observed on: 3.0.187.0 (Official Build 18043)  which is the current Dev   channel release at this time.  The same release works fine under Vista32. </pre>

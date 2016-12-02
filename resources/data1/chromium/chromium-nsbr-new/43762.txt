@@ -1,0 +1,1 @@
+<title>Issue 43762 -   chromium -    Bug with iGoogle: background of the clock in clock gadget for iGoogle is black instead of white - Project Hosting on Google Code</title>   1. Loging to my iGoogle page.            Background should be white.        Background is always black.    <b>Please provide

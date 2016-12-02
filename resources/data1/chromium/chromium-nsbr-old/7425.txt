@@ -1,0 +1,1 @@
+<title>Issue 7425 -   chromium -    Chrome crashes when trying to prinbt from Google mail (german) - Project Hosting on Google Code</title>   1. open a mail thread in gmail  2. select &quot;Drucken&quot; (Print)  3. Chrome crashes before the print dialog is displayed        print dialog should open        chrome crashes    Please provide

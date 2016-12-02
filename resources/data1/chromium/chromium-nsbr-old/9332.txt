@@ -1,0 +1,1 @@
+<title>Issue 9332 -   chromium -    --new-ftp not working - Project Hosting on Google Code</title>   1. Add the commandoline for new ftp  2. Open an ftp:// url        the ftp:// site loads      the site is not opened  just loading    <b>Please provide

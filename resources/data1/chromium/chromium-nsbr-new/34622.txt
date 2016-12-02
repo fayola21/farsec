@@ -1,0 +1,1 @@
+<title>Issue 34622 -   chromium -    Content blocking UI does not work well for file:// URLs - Project Hosting on Google Code</title> <pre> Cookie blocking and prompting UI does not work well for file:// URLs    This is a low priority bug since cookies are not enable for file:// URLs by   default.  You have to run with --enable-file-cookies to observe this bug. </pre>

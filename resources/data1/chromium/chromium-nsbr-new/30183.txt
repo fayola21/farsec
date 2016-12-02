@@ -1,0 +1,1 @@
+<title>Issue 30183 -   chromium -    Allow Tab.status to have a crashed state - Project Hosting on Google Code</title> <pre> When a tab has crashed  the state is still &quot;complete&quot;. We can implement a   &quot;crashed&quot; state if the tab has crashed. </pre>

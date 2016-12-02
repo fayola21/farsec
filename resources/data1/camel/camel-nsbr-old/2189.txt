@@ -1,0 +1,1 @@
+Improvment in example archtypes    Made changes to improve application context xml to improve schema usage. Also replaced log4j.properties fles with log4j.xml files.   

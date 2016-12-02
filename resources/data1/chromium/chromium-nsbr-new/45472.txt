@@ -1,0 +1,1 @@
+<title>Issue 45472 -   chromium -    The customize menu displays square characters before keyboard accelerators  - Project Hosting on Google Code</title>   1. The customize menu displays square characters before keyboard   accelerators                  The customize menu displays square characters before keyboard accelerators    <b>Please provide

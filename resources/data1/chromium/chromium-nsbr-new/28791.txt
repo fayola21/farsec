@@ -1,0 +1,1 @@
+<title>Issue 28791 -   chromium -    google chrome 4.0.249.4 &lt;&gt; youtube - Project Hosting on Google Code</title>   1.clickin on the video  2.pasting the URL in the address bar        video to start playing      video windows disappears  it remains blank    <b>Please provide

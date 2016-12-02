@@ -1,0 +1,1 @@
+<title>Issue 13129 -   chromium -    Text typed in address bar while new tab page is loading gets lost - Project Hosting on Google Code</title>   1. Open a new tab with command-T  2. Start typing an URL        URL text remains unaffected after the tab is initialized.      Whatever was typed in while the new tab was loading gets lost.    Please provide

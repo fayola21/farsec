@@ -1,0 +1,1 @@
+PageParameters#set not follow INamedParameters#set behavior    Couple of problems to work with page parameters:Major - The PageParameters#set(final String name  final Object value  final int index) used remove/add pattern instead of set parameter value by specified index.Minor - Inposible to get the index of key in elegant way to use obtained index in #set operation   

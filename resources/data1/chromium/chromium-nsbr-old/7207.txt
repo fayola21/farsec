@@ -1,0 +1,1 @@
+<title>Issue 7207 -   chromium -    Cant set Chrome as default browser - Project Hosting on Google Code</title>   1. Click on &quot;Make Chrome the default browser&quot;            Chrome is made the default beowser        Chrome isn't the default browser  Internet Explorer remains the default   browser.    Please provide

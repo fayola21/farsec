@@ -1,0 +1,1 @@
+<title>Issue 35444 -   chromium -    Permission to execute document.execCommand('Save') or access Page menu commands for extensions - Project Hosting on Google Code</title>   1. Try to execute document.execCommand('Save')  2. Nothing happens!      A 'Save Page As' dialog should appear.      Nothing      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24704 -   chromium -    Application Failed to initialize properly (0xc0000022) - Project Hosting on Google Code</title>   1.open chrome  2.go to any website  3. FAILS                <b>Please provide

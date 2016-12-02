@@ -1,0 +1,1 @@
+TextTemplateResourceReference should be registered into the ResourceReferenceRegistry because otherwise the next request is served by PackageResourceReference    The title says it all.If the TextTemplateResourceReference is not registered then BasicResourceReferenceMapper receives autocreated PackageResRef which doesn't make variable substitutions.   

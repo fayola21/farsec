@@ -1,0 +1,1 @@
+<title>Issue 18755 -   chromium -    Attachments don't attach - Project Hosting on Google Code</title>   1. Click ��_��_Attach/Choose file�_ button in Gmail compose window  2. Find desired file on HDD  3. Open file        File is attached to Gmail message        File is not attached to message    <b>Please provide

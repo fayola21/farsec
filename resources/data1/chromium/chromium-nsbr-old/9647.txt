@@ -1,0 +1,1 @@
+<title>Issue 9647 -   chromium -    Regression: Mouse wheel events no longer delivered to page if page doesn't have focus - Project Hosting on Google Code</title> <pre>   1. go to a page that is big enough to give vertical scroll bars  2. click on the omnibox (or the find bar)  3. do a mouse scroll        Should scroll  but it doesn't.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22633 -   chromium -    Auto Form Fill in from Historical entries with mouse no longer works - Project Hosting on Google Code</title>   1.  Visit a website that you have previously filled in form data  2.  double click the text box and select previous entry          Entry fills box        Box remains blank    <b>Please provide

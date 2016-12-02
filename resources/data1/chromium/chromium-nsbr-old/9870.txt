@@ -1,0 +1,1 @@
+<title>Issue 9870 -   chromium -    Re-enable IFrameTest.InEmptyFrame - Project Hosting on Google Code</title> <pre> This test has been flaky due to <a title="_XGetXCBBuffer: Assertion `((int) ((xcb_req) - (dpy-&amp;gt;request)) &amp;gt;= 0)' failed" class=closed_ref href="/p/chromium/issues/detail?id=9869"> bug 9869 </a>.  Fix that bug and then re-enable   this test. </pre>

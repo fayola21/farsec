@@ -1,0 +1,1 @@
+<title>Issue 27956 -   chromium -    Current approach to displaying retainers in heap profile is confusing - Project Hosting on Google Code</title> <pre> Having only one level of retainers logged combined with endless recursive   expansions do confuse people.   </pre>

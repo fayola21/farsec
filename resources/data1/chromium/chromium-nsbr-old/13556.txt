@@ -1,0 +1,1 @@
+<title>Issue 13556 -   chromium -    amazon.co.jp forgot-password page misrendering on Fedora - Project Hosting on Google Code</title>   1. Goto to above url      Input boxes to appear normally      Input boxes are tiny squares.    <b>Please provide

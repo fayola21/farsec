@@ -1,0 +1,1 @@
+<title>Issue 36177 -   chromium -    Add automation support to get Find-In-Page matching count. - Project Hosting on Google Code</title> <pre> Please expose a method that will return Find-In-Page matching count. </pre>

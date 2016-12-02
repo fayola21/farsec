@@ -1,0 +1,1 @@
+<title>Issue 43895 -   chromium -    Font antialiasing support disappeared - Project Hosting on Google Code</title>   1. Open the browser            I am on Ubuntu 10.04 64bit.  After the talest updrage the font antialiasing is not anymore honoured. Thi   is only true for the web pages content but not for the GTK windows.                          <b>Please provide

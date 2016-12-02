@@ -1,0 +1,1 @@
+<title>Issue 36755 -   chromium -    Big JavaScript array Crashes Chromium - Project Hosting on Google Code</title>   1. Run attached file  2. No prompt for slow script  3. Page crashes          Slow script prompt  page doesn't crash. (If you reduce the numMB to half  125  there's a slow   script prompt  but it still crashes );        Page crashes    <b>Please provide

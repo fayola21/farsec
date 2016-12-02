@@ -1,0 +1,1 @@
+<title>Issue 7638 -   chromium -    Option to maximize image - Project Hosting on Google Code</title>   1. Navigate to any URL having images. There is no way to maximize the   images in Chrome.                     Please provide

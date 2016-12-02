@@ -1,0 +1,1 @@
+<title>Issue 27520 -   chromium -    Disable --enable-user-scripts - Project Hosting on Google Code</title> <pre> They have been replaced by automatic conversion of user scripts to   extensions. </pre>

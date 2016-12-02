@@ -1,0 +1,1 @@
+<title>Issue 19011 -   chromium -    animated PNG (aPNG). does not work - Project Hosting on Google Code</title>   1. Enter the URL  2. The ball does not jump.        The ball image gets animated.      The balls remains freezed.      <b>Please provide

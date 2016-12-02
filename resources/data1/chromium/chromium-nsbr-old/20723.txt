@@ -1,0 +1,1 @@
+<title>Issue 20723 -   chromium -    Esc should cancel JS alerts - Project Hosting on Google Code</title> <pre> ToT.    -Navigate to javascript:alert(&quot;foo&quot;) in Omnibox  -Esc to cancel the alert    Result:  Nothing    Expected:  Alert should be dismissed.    PS: Also repros in Safari 4.x </pre>

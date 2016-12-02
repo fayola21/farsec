@@ -1,0 +1,1 @@
+<title>Issue 6852 -   chromium -    Inline autocompletion wrong for port numbers - Project Hosting on Google Code</title> <pre> Visit hostname:8080  Now type &quot;hostname:80&quot; and watch the address bar autocomplete to   &quot;hostname:80:8080&quot;. </pre>

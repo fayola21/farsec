@@ -1,0 +1,1 @@
+<title>Issue 37670 -   chromium -    OS X: Translate infobars controls should have gradient background - Project Hosting on Google Code</title> <pre> The controls in the translate infobars should be using a custom gradient rather than the OS native   look. </pre>

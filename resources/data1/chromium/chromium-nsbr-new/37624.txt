@@ -1,0 +1,1 @@
+<title>Issue 37624 -   chromium -    Using Multiple Displays  Chrome will not exit full screen mode - Project Hosting on Google Code</title>   1. Mulitple Displays -   2. put Chrome on extended Display  3. Full Screen Mode  4. F11 to exit full screen      Chrome should exit Full Screen mode      Nothing    <b>Please provide

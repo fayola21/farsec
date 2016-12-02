@@ -1,0 +1,1 @@
+<title>Issue 16377 -   chromium -    Opening sites with .htpasswd in background make chrome frozen - Project Hosting on Google Code</title> <pre> When you open a website with .htpasswd in the background  google chrome will   be frozen and chrashes. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26874 -   chromium -    Fix buttons and cancel for ESC on report bug dialog - Project Hosting on Google Code</title> <pre> Cancel button should be on left according to HIG.  ESC should close dialog   (blinking cancel button). </pre>

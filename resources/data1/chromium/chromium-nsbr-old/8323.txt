@@ -1,0 +1,1 @@
+<title>Issue 8323 -   chromium -    tabs don't work in microsoft site  - Project Hosting on Google Code</title>   1. Go to that page WHILE INCOGNITO  2. Try to click on the tabs on top of the 'gray area'      To let the tabs work      No effect when you click on it    Please provide

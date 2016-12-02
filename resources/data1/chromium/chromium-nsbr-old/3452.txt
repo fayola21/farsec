@@ -1,0 +1,1 @@
+<title>Issue 3452 -   chromium -    Chrome Install Crashed - Project Hosting on Google Code</title>   I m windows xp x64 user and chrome install process crashes if I wanna   configure settings import option after install. if I click settings import   option in the last window of the install  it crashes and I have to start   install from zero.                Please provide

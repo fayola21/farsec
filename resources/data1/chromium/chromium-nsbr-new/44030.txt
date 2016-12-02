@@ -1,0 +1,1 @@
+<title>Issue 44030 -   chromium -    Tab not closed on &quot;Mark Tab&quot; - Project Hosting on Google Code</title>   1. Click in &quot;Mark Tab&quot; or &quot;Marcar guia&quot; on Google Chrome Portuguese  2. Choose Close on &quot;Marked Tab&quot;.        Close tab and set Unmarked tab.      Tab not close and favicon is no hidden.    <b>Please provide

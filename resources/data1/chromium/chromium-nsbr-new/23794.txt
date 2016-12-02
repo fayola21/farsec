@@ -1,0 +1,1 @@
+<title>Issue 23794 -   chromium -    FTP stack doesn't tell the download UI the size of the downloaded file - Project Hosting on Google Code</title>   1. Downloaded Ubuntu and FreeBSD iso  2. Doesn't always happen        Estimated completion time should show      See screenshot    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20092 -   chromium -    Varsity Books Checkout not working :( - Project Hosting on Google Code</title>   1. Try to buy books on varsitybooks.com  2. Impossible to check out due to certain check out boxes and other things   that didn't display properly / work properly.          Boxes and features pop up correctly.          <b>Please provide

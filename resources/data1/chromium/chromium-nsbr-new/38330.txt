@@ -1,0 +1,1 @@
+<title>Issue 38330 -   chromium -    Form Auto-fill: Credit Card information should accept numeric only. - Project Hosting on Google Code</title> <pre> Build: 5.0.342.5    Credit card number  Exp. date and CVC fields in adding credit card record   in Autofill profiles should accept NUMERIC only. Right now  It accepts   alphanumeric.    </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26917 -   chromium -    X11 selection overwritten when clicking URL box - Project Hosting on Google Code</title>   1. Select a word on a page  2. Click once in the URL/search input box  3. middle-click somewhere to paste        It should paste the word selected in step 1        It pastes the url      <b>Please provide

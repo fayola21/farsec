@@ -1,0 +1,1 @@
+<title>Issue 27022 -   chromium -    Drop down menu choices are invisible. - Project Hosting on Google Code</title>   1. Click at drop down  2. See white list  3. Click on any item - list works   you can select miscellaneous items  javascript   actions also work.      Menu.      White list    <b>Please provide

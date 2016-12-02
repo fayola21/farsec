@@ -1,0 +1,1 @@
+<title>Issue 41629 -   chromium -    Omnibox &quot;site:domain.tld&quot; + space + text forces the use of custom search - Project Hosting on Google Code</title> <pre> When using the omnibox to attempt a parameter search for &quot;site:domain.tld   query&quot;  it auto-completes into a custom search.    Expected behavior: leave query as is and send to default search. </pre>

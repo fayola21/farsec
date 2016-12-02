@@ -1,0 +1,1 @@
+<title>Issue 18544 -   chromium -    Provide file association for downloaded extension - Project Hosting on Google Code</title> <pre>     1. Double click on a theme file (.crx)  which has already been downloaded.    What is the expected output?     Theme should be applied to Chrome.    What do you see instead?    Nothing.  Windows does not recognize the file type. </pre>

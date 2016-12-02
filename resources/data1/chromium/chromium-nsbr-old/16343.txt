@@ -1,0 +1,1 @@
+<title>Issue 16343 -   chromium -    Window inside another window - Project Hosting on Google Code</title>   1. Go to configuration proxy  2. LAN Configuration  3. Set Detect configuration automatically      Only Chrome window should appear to put login data.      The window appear with a border. See the image      <b>Please provide

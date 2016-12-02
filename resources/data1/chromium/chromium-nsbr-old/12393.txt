@@ -1,0 +1,1 @@
+<title>Issue 12393 -   chromium -    chars in all menus are very small - Project Hosting on Google Code</title> <pre>   czech    16581    Windows XP SP2    ALL chars are not readable  chars are arial size 6     </pre>

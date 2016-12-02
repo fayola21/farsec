@@ -1,0 +1,1 @@
+<title>Issue 11041 -   chromium -    textarea.textLength not implemented - Project Hosting on Google Code</title>   1. Click on nick      Insert nick in the textarea.      Nope.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40868 -   chromium -    chrome.windows.create has missing functionality compared with window.open - Project Hosting on Google Code</title> <pre> chrome.windows.create() does not have the ability to control the toolbars   resize  scrollbars  just like window.open()     </pre>

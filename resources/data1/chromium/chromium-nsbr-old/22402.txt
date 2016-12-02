@@ -1,0 +1,1 @@
+<title>Issue 22402 -   chromium -    Drop down menu selections do not set selection and close menu - Project Hosting on Google Code</title>   1. select drop down menu and choose item.                    <b>Please provide

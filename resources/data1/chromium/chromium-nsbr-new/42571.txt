@@ -1,0 +1,1 @@
+<title>Issue 42571 -   chromium -    Vista/W7 elevation shield should not display if UAC is disabled - Project Hosting on Google Code</title> <pre> The elevation shield displays when the user needs permission from the UAC to   complete an action.  If the user has turned the UAC off  permission is   explicitly not required  and the shield should not display.   </pre>

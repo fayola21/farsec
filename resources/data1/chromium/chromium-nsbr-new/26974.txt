@@ -1,0 +1,1 @@
+<title>Issue 26974 -   chromium -    Implement Mac ExtensionInstalledBubble - Project Hosting on Google Code</title> <pre> Install an extension. No feedback bubble. </pre>

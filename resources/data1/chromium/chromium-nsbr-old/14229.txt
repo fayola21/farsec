@@ -1,0 +1,1 @@
+<title>Issue 14229 -   chromium -    Page actions should have hover highlighting - Project Hosting on Google Code</title> <pre> Feature request: it would be nice if page action icons did something on   mouse-over to indicate they are clickable.   </pre>

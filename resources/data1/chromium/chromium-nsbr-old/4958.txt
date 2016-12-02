@@ -1,0 +1,1 @@
+<title>Issue 4958 -   chromium -    Open all bookmarks fail - Project Hosting on Google Code</title>   1. Mouse right click on bookmarks bar shows grayed option to &quot;open all   bookmarks&quot; so there is apparently no way to do it.          to open all selected bookmarks on the bar      nothing    Please provide

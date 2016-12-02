@@ -1,0 +1,1 @@
+<title>Issue 1481 -   chromium -    Brower is crashed when anything is entered with ::%&quot; as prefix - Project Hosting on Google Code</title>   1. Enter bb:%  2. Hit enter  3. Browser gets crashed                Please provide

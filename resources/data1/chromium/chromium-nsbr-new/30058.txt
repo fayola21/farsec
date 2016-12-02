@@ -1,0 +1,1 @@
+<title>Issue 30058 -   chromium -    cant copy paste into extensions - Project Hosting on Google Code</title>   1. copy text from web page  2. pasting it into notes extension or any text input enabled extension  3. doesnt work      nothing at all      no pasted text      <b>Please provide

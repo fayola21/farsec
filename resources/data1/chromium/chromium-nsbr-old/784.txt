@@ -1,0 +1,1 @@
+<title>Issue 784 -   chromium -    Favicons customisation - Project Hosting on Google Code</title> <pre> It should be possibly to override the default favicon a website has    especially useful in the case the webpage does not have a favicon  it would   be nice to be able to chose an icon instead of being left with a blank one. </pre>

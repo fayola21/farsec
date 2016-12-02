@@ -1,0 +1,1 @@
+<title>Issue 26816 -   chromium -    some indication of builders vs. testers - Project Hosting on Google Code</title> <pre> Seems like we've had a few folks try to clobber testers to fix things. Does it   make sense to indicate on the waterfall/console pages how the   builders/testers are related so folks are less likely to do clobbers like this? </pre>

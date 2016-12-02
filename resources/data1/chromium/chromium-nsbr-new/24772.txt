@@ -1,0 +1,1 @@
+<title>Issue 24772 -   chromium -    Plugins to be aware of private browsing mode - Project Hosting on Google Code</title> <pre> Introduced to webkit in:  <a href="http://trac.webkit.org/changeset/49512/trunk">http://trac.webkit.org/changeset/49512/trunk</a>    Layout test that was disabled:  LayoutTests/plugins/private-browsing-mode.html </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45453 -   chromium -    Mouse Navigation Problems - Project Hosting on Google Code</title>   1.Open Chrome  2.Go to one website  then another.  3.Try to go back using mouse back (task specific) button      Browser should &quot;go back&quot; and display previous page      Nothing.    <b>Please provide

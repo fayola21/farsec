@@ -1,0 +1,1 @@
+<title>Issue 5107 -   chromium -    bbcurdu.com : loading is slow - Project Hosting on Google Code</title> <pre> There's a report that <a href="http://bbcurdu.com">http://bbcurdu.com</a> is loaded &quot;slowly&quot;  but on my   machine  it does not seem slow at all. We need to try this with various   machine configurations.  </pre>

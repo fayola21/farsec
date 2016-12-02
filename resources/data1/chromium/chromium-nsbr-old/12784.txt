@@ -1,0 +1,1 @@
+<title>Issue 12784 -   chromium -    JavaScript console not automatically opened. - Project Hosting on Google Code</title>   1. Press Ctrl + Shift + J      The JavaScript console should be automatically opened.      The JavaScript console is not open  and you must hit the &quot;Show console.&quot;   button to open it.    <b>Please provide

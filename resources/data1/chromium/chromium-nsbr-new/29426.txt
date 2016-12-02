@@ -1,0 +1,1 @@
+<title>Issue 29426 -   chromium -    inspecting page with content script crashes renderer - Project Hosting on Google Code</title> <pre> Install an extension that injects a content script into all pages and then   navigate to google.com and inspect.  The renderer crashes.   </pre>

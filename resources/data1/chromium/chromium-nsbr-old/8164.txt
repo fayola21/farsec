@@ -1,0 +1,1 @@
+<title>Issue 8164 -   chromium -    Profile options in New Window menu no longer available - Project Hosting on Google Code</title>   1. Click on Wrench  look for Menu Open New Window in Profile &gt; Options.   It's no longer there.          Expected the profile options to be present  See Attached screenshot            Please provide

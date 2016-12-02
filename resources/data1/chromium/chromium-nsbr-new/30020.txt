@@ -1,0 +1,1 @@
+<title>Issue 30020 -   chromium -    Can't click on links in history page until fully loaded - Project Hosting on Google Code</title> <pre> It takes several seconds from the opening of the history page until links are   clickable.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4784 -   chromium -    Suggest to have an option to handle the pop-up blocker. (like trust list) - Project Hosting on Google Code</title>   1. It always block some web dialog from my office website.                    Please provide

@@ -1,0 +1,1 @@
+Camel-quartz - improve setting of cron expression to be more cron like    See nabble:http://www.nabble.com/Re%3A-Camel-quartz-td22247508.html   

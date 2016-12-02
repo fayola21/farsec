@@ -1,0 +1,1 @@
+<title>Issue 24368 -   chromium -    The themes aren't the same in a normal chrome window and a application through chrome - Project Hosting on Google Code</title>                       <b>Please provide

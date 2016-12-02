@@ -1,0 +1,1 @@
+<title>Issue 25062 -   chromium -    Hotmail inbox issue - Project Hosting on Google Code</title>   1.Go to hotmail  2.Login to mail      You should be able to read your emails in the inbox.      The page loads but there won't be anything on the inbox. Its just a blank   page there but you get the menu on the left and above.    <b>Please provide

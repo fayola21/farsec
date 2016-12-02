@@ -1,0 +1,1 @@
+<title>Issue 13869 -   chromium -    Crash after click option - Project Hosting on Google Code</title>   1. Install Google Chrome 3.0.187.0  2. then click Option on Google Chrome        Crash          <b>Please provide

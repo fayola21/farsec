@@ -1,0 +1,1 @@
+<title>Issue 31804 -   chromium -    Refactor OmxCodec to support encoders - Project Hosting on Google Code</title> <pre> OmxCodec is currently designed to work with decoders.  It should be extended   to also support OpenMAX encoder components. </pre>

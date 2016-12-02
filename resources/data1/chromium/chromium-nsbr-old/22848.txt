@@ -1,0 +1,1 @@
+<title>Issue 22848 -   chromium -    Add touch sensitivity for touchpad settings - Project Hosting on Google Code</title>   1. Open options dialog and click on &quot;Chrome OS&quot; tab      You should see a slider to adjust touchpad touch sensitivity      No slider    <b>Please provide

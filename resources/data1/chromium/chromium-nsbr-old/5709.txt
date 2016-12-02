@@ -1,0 +1,1 @@
+<title>Issue 5709 -   chromium -    Problem While In Xml - Project Hosting on Google Code</title>   1. Take an  X ml file and open with Google chrome browser             It should open the file with xml tags    it is showing the data without xml tags    Please provide

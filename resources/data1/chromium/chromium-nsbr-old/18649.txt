@@ -1,0 +1,1 @@
+<title>Issue 18649 -   chromium -    Need functionality like old FAST_BUILD_TYPE=fastbuild - Project Hosting on Google Code</title> <pre> Pre-gyp build support FAST_BUILD_TYPE=fastbuild to build Debug without   symbols.    maruel suggests this could be a configuration like Debug - fastbuild.  Or   maybe just a build option would be more flexible. </pre>

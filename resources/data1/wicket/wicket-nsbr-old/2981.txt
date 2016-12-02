@@ -1,0 +1,1 @@
+Remove HeaderContributor and friends in favor of IHeaderContributor       

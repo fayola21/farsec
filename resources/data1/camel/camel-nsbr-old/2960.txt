@@ -1,0 +1,1 @@
+Upgrade to JCR 2.x    camel-jcr is based on 1.x. We should upgrade to 2.x which takes a bit of pain due API changes and the likes.   

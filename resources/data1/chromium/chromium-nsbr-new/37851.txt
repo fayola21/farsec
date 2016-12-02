@@ -1,0 +1,1 @@
+<title>Issue 37851 -   chromium -    Remove info/host and info/admin - Project Hosting on Google Code</title> <pre> admin is mostly useless for most of our slaves and host should be filled with    socket.getfqdn() instead. </pre>

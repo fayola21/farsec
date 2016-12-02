@@ -1,0 +1,1 @@
+<title>Issue 7084 -   chromium -    a:hover {} foreign word? - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.159.0  URLs (if applicable) : all?           Safari 3: OK       Firefox 3: OK           IE 7: OK    With the new Version: Chrome cannot render a:hover-declarations </pre>

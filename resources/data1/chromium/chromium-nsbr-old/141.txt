@@ -1,0 +1,1 @@
+<title>Issue 141 -   chromium -    beta installer doesn't ask about installation destination - Project Hosting on Google Code</title> <pre> ...maybe you think you're too sexy to ask the same question as million  other software producers do  but please do.   You obviously still can't read my mind  I didn't want it in Local settings. </pre>

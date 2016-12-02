@@ -1,0 +1,1 @@
+<title>Issue 29158 -   chromium -    Checkboxes disappear. - Project Hosting on Google Code</title>   1. Restarting the browser.      Checkboxes should be visible.      Checkboxes are hidden    <b>Please provide

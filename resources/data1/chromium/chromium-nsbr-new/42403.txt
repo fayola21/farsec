@@ -1,0 +1,1 @@
+<title>Issue 42403 -   chromium -    Cookie prompt does not allow to set expire date for HTML cookies - Project Hosting on Google Code</title> <pre>   1. Set cookies settings to &quot;Ask&quot;  2. Go to a site with cookies  3. Expand &quot;details&quot;        You should be offered the option to restrict cookies to session cookies       </pre>

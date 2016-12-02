@@ -1,0 +1,1 @@
+JDBC component doesn't preserve headers    JDBC component doesn't preserve any of the headers that are sent into it   

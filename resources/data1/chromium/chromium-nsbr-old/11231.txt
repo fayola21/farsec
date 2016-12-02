@@ -1,0 +1,1 @@
+<title>Issue 11231 -   chromium -    Add Skia bitmap crop  blur and mask functions - Project Hosting on Google Code</title> <pre> We need extra bitmap functions to allow us to slice and dice themes   together. </pre>

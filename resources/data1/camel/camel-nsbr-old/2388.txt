@@ -1,0 +1,1 @@
+Remove some dependencies    While checking the dependencies of camel-cxf I found that some dependencies are at least not necessary to compile the project.I have attached a patch with the removed dependencies. The dependencies are:camel-springcxf-rt-transports-http-jetty   

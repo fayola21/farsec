@@ -1,0 +1,1 @@
+<title>Issue 22255 -   chromium -    L10N: TitleCase: Menubar sub Menus  - Project Hosting on Google Code</title> <pre> Per decision: <a href="http://groups.google.com/group/chromium-">http://groups.google.com/group/chromium-</a>  dev/browse_thread/thread/8ba9264871e2351a#    Update to use Title Case.   </pre>

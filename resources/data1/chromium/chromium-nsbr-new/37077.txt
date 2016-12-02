@@ -1,0 +1,1 @@
+<title>Issue 37077 -   chromium -    Dragging window isn't themed - Project Hosting on Google Code</title> <pre> Drag off a tab  and things aren't themed correctly. </pre>

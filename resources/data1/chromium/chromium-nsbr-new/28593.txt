@@ -1,0 +1,1 @@
+<title>Issue 28593 -   chromium -    Mac: bookmark bar button drag image looks bad - Project Hosting on Google Code</title> <pre> The image includes stuff outside the button's border.    mrossetti: Could you please take a look at this since you're working on this   code? (Feel free to send it back my way if you don't want this.)    (I'll let this go through triage.) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4778 -   chromium -    netvibes.com takes longer to load than in firefox or IE - Project Hosting on Google Code</title> <pre> Most often my customized netvibes page takes significantly longer to   complete loading than in firefox or IE. Right now it's been spinning for   almost 5 minutes.    Networking or caching problem? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19997 -   chromium -    Reporting Services - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.39  When I reviewed a report (SQL Server 2005 - Repoting Services)  the   columns are automatically adjusted but not displayed properly    The second file is with Explorer 8    Thanks   </pre>

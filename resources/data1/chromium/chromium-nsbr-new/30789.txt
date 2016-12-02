@@ -1,0 +1,1 @@
+<title>Issue 30789 -   chromium -    test video clips - Project Hosting on Google Code</title> <pre> We need some test video clips that can be shared freely for testing codecs.    Ideally should encompass various aspects of video  smoothness/tearing  text/details  gradients  complex scenes  fast motion/cuts/stills  synchronized sound </pre>

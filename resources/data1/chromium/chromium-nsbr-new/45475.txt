@@ -1,0 +1,1 @@
+<title>Issue 45475 -   chromium -    Chrome crashes when wireless network connects while Chrome is attempting to download data - Project Hosting on Google Code</title>   1. Open Chrome.  2. Attempt to load a web page.  3. Connect to a wireless network while page is loading.        Chrome should not crash.        Chrome crashes.  <b>Please provide

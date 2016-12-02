@@ -1,0 +1,1 @@
+<title>Issue 765 -   chromium -    Import Failed from IE 7 - Project Hosting on Google Code</title>   1. New install  import bookmarks  2. Import Bookmarks and settings        Attached is a single Shortcut which wouldn't import.  I have over 200   shortcuts at differing levels  names  etc which didn't import.              Please provide

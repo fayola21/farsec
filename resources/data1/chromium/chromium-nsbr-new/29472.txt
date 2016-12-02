@@ -1,0 +1,1 @@
+<title>Issue 29472 -   chromium -    When downloading an extension (Aviary) I receive: Required Value 'name' is missing or invalid - Project Hosting on Google Code</title>   1. Downloading the Aviary Extension to Chromium (Chrome works fine)          The Aviary extensions is fine to use.        &quot;Required Value 'name' is missing or invalid&quot; appears    <b>Please provide

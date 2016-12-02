@@ -1,0 +1,1 @@
+<title>Issue 2517 -   chromium -    Closing Chrome causes BSOD / system crash - Project Hosting on Google Code</title>     Unfortunately  I haven't been able to repro the problem. I was running   process monitor  which is where the IP was pointing at when the system   crashed.        No crashing.        Machine crashed.    Please provide

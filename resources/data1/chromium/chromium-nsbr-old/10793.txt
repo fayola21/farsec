@@ -1,0 +1,1 @@
+<title>Issue 10793 -   chromium -    Need keyboard shortcut for refresh on OS X - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.1 (Developer Build ) OS X  URLs (if applicable) : any           Safari 4: OK    Firefox 3.x: OK           IE 7: n/a           IE 8: n/a      pressing Command-R      refresh      nothing </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12890 -   chromium -    Should always use an opaque frame when a Theme is applied. - Project Hosting on Google Code</title> <pre>   1. Install a theme on an Glass-framed Chrome  2. Observe switch to opaque frame.  3. Restart Chrome.    Chrome should restart in opaque frame mode. </pre>

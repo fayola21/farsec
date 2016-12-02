@@ -1,0 +1,1 @@
+<title>Issue 3400 -   chromium -    ctrl+click on orkut.com - Project Hosting on Google Code</title>   1. login to orkut.com  2. ctrl+click any internal link  example: a profile page      It should open the page in a new tab      The page opens in the same tab.    Please provide

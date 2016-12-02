@@ -1,0 +1,1 @@
+<title>Issue 125 -   chromium -    browser if unable to load site the need java plug-in's - Project Hosting on Google Code</title>   1. Open a web page or application that needs a java plug-in        What is the expected result? Can't load plug-in            Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12882 -   chromium -    Failinf tests starting in WebKit merge 44202:44252 - Project Hosting on Google Code</title> <pre> These are both existing tests that started failing:  LayoutTests/fast/dom/HTMLObjectElement/object-as-frame.html = FAIL  LayoutTests/fast/box-shadow/basic-shadows.html = FAIL   </pre>

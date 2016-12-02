@@ -1,0 +1,1 @@
+<title>Issue 16493 -   chromium -    Tab title eliding in Mac Chrome does not leave enough space - Project Hosting on Google Code</title> <pre> The titles in tabs on Mac Chrome are elided such that they are too close to the tab close button. See   attached screen shot  and look at the eliding spacing in Windows Chrome.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9716 -   chromium -    Chrome automatically add a language in Spell-Checker - Project Hosting on Google Code</title>   1. Open Fonts and Languages in Options  2. Select any language      Chrome should select the list and wait for the user to press &quot;Add&quot;.      It automatically add your selected language.    Please provide

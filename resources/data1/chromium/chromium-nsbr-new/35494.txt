@@ -1,0 +1,1 @@
+<title>Issue 35494 -   chromium -    Web Interface of D-Link DES-3028 broken - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.5 (debian linux)  URL : local (saved copy in attachment)    Behavior in Firefox 3.x: woking correctly      1. just open a web page  saved in attachment  left-sided menu is blinking and   broken   </pre>

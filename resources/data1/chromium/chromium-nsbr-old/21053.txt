@@ -1,0 +1,1 @@
+<title>Issue 21053 -   chromium -    In GTK mode  buttons showing menus display hover image instead of active image - Project Hosting on Google Code</title> <pre> title says it.     For example  activate the wrench menu---the wrench button will appear   hovered over instead of pressed. </pre>

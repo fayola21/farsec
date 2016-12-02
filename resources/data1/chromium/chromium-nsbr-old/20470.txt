@@ -1,0 +1,1 @@
+<title>Issue 20470 -   chromium -    chrome crash at URLRequest::FollowDeferredRedirect - Project Hosting on Google Code</title>   1. Was reading news in google/reader/view  2. hit 'v' to view rss item in new tab  3. entire chrome crashed loading new tab    <b>Please provide

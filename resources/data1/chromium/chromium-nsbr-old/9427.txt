@@ -1,0 +1,1 @@
+<title>Issue 9427 -   chromium -    Port dock_info.cc/h to mac and linux - Project Hosting on Google Code</title> <pre> The DockInfo class needs to be ported. Right now its impl is very win-specific. We have it stubbed   in temp_scaffolding_stubs  but eventually we'll need to figure out the right thing for each platform.    Everyone agrees this is low priority. </pre>

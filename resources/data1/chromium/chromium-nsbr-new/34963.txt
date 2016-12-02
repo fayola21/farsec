@@ -1,0 +1,1 @@
+<title>Issue 34963 -   chromium -    Memory leak in Google Earth download page. - Project Hosting on Google Code</title>   1. Go to <a href="http://earth.google.com/thanks.html#os=linux">http://earth.google.com/thanks.html#os=linux</a>      Start download.      Download won't start. Instead  process will spike CPU and RAM.    <b>Please provide

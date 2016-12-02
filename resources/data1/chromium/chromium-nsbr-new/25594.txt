@@ -1,0 +1,1 @@
+<title>Issue 25594 -   chromium -    Scrolling area in Under the Hood should have white background - Project Hosting on Google Code</title> <pre> Scrolling area in Under the Hood panel of preferences should have a white   background. </pre>

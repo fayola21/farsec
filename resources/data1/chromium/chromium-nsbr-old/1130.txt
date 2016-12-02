@@ -1,0 +1,1 @@
+<title>Issue 1130 -   chromium -    Inability to make a sepparate proxy settings to webbrowser - Project Hosting on Google Code</title>   1. Click settings  2. Click Proxy settings on Advanced Tab (I am not sure if it named in this   way  I have a russian version)      Opportunity to make a separate webbrowser proxy setting      Internet Properties open    Please provide

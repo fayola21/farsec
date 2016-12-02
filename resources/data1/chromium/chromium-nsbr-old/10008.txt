@@ -1,0 +1,1 @@
+<title>Issue 10008 -   chromium -    Java plugin crash on Pogo - Project Hosting on Google Code</title>   1.play a game  2.wait for it to load  3.it will crash    What is the expected result? NO      What happens instead? the Java plugin crashes      <b>Please provide

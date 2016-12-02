@@ -1,0 +1,1 @@
+ambari-server command output should point to Apache Ambari documentation    ambari-server command outputs should point to a generic link for current ambari documentation.   

@@ -1,0 +1,1 @@
+<title>Issue 40236 -   chromium -    Feature request: Move Up  Move Down buttons on Search Engines window - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.366.2 dev      Firefox 3.6: OK    I've included a screenshot of how Firefox has implemented this feature  and a   mockup which I made of how it can look in Chrome.   </pre>

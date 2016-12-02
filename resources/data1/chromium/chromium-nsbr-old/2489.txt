@@ -1,0 +1,1 @@
+<title>Issue 2489 -   chromium -    Frequent blank HTTPS pages (e.g.  https://bugs.webkit.org/) - Project Hosting on Google Code</title> <pre>   1. Go to bugs.webkit.org  2. Try to comment on a bug        The comment should succeed.  I see a blank page and the form post did not   go through.    Testing: 0.2.153.0 (Developer Build 2355) on Vista   </pre>

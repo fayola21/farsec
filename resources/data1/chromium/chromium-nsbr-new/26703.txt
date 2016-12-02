@@ -1,0 +1,1 @@
+<title>Issue 26703 -   chromium -    Label baselines don't line up with pushbuttons in prefs - Project Hosting on Google Code</title> <pre> The labels for the following items in prefs don't line up with the baselines for   the pushbuttons:    - default browser (basics)  - browsing data (personal)  - themes (personal)    The baselines of the buttons are 1px too low. </pre>

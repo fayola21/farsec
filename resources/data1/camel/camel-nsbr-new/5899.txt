@@ -1,0 +1,1 @@
+camel-netty - Producer should avoid blocking while waiting for connection    We should at most wait for the connection timeout to trigger.   

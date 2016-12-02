@@ -1,0 +1,1 @@
+<title>Issue 6173 -   chromium -    Autoscroll cursors not aligned - Project Hosting on Google Code</title> <pre> Middle-click to autoscroll.  The &quot;autoscroll is active&quot; cursor appears   where you clicked  but the &quot;current position&quot; cursor appears some twenty   pixels down and to the right  and positional calculations are all based on   that location. </pre>

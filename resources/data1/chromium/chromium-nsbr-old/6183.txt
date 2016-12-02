@@ -1,0 +1,1 @@
+<title>Issue 6183 -   chromium -    No tabs visible in maximized window state (Vista64 with themes) - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.156.1   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43465 -   chromium -    Thunderbird email crashes Chrome - Project Hosting on Google Code</title>   1.Make Chrome the default browser  2.Using Thunderbird  open a link in a given email  3.Chrome crashes                <b>Please provide

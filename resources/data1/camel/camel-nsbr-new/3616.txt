@@ -1,0 +1,1 @@
+camel-josql doesnot export org.apache.camel.language.sql.*       

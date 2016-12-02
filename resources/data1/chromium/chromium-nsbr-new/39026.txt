@@ -1,0 +1,1 @@
+<title>Issue 39026 -   chromium -    Find in page can't handle IME correctly - Project Hosting on Google Code</title>   1.show Find in page.  2.type a charactor using IME.  3.type an another charactor.      Find in page text area contains two charactors      step 3 overwrite a charactor that is typed by step 2    <b>Please provide

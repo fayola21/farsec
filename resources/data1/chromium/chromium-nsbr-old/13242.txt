@@ -1,0 +1,1 @@
+<title>Issue 13242 -   chromium -    Cannot close the tab in malware site  - Project Hosting on Google Code</title>   1. Go to the page. it will prompt a message. then it will try to download   an executable. After declining  i could not close the tab.            tab can be closed.        i cannot close the tab    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 10967 -   chromium -    Implement DirectoryWatcher for Mac - Project Hosting on Google Code</title> <pre> Implement DirectoryWatcher for Mac. I have an almost-working implementation   using FSEvents API. Almost-working means that I have to pass the NonRecursive   test. Regular notifications work. </pre>

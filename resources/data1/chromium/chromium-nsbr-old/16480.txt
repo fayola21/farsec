@@ -1,0 +1,1 @@
+<title>Issue 16480 -   chromium -    Google Reader links - Project Hosting on Google Code</title>   1. Opening links from Google Reader.           Opening a new tab        The new tab closes after a few seconds      <b>Please provide

@@ -1,0 +1,1 @@
+Support for a full customized soap-fault incl. fault-code and detail    Don't wrap a Fault in a Fault.   

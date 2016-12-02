@@ -1,0 +1,1 @@
+<title>Issue 16957 -   chromium -    Shift+Esc fails on a page with frames - Project Hosting on Google Code</title> <pre> ToT(r 20864)    This is not a regression.    -Navigate to Google internet email a/c'  -While focus is on the content area  hit shift+esc to Task manager.    Result:  The key event is ignored.    Expected:   Should bring Task manager. </pre>

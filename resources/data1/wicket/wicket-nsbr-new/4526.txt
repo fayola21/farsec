@@ -1,0 +1,1 @@
+OpenCloseTagExpander should include i tag    The OpenCloseTagExpander automatically expands similar tags like 'b'  'em' and 'strong' but not 'i'. To be consistent the 'i' tag should also be transformed.   

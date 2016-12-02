@@ -1,0 +1,1 @@
+IdempotentConsumer - should only add to repository after processing  so we know the processing was a success    Just as the file component does with its build in support for idempotent. It should add to it last  eg after processing.See nabble:http://www.nabble.com/Problem-with-IdempotentConsumer-td22467720s22882.html   

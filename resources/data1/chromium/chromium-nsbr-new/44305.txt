@@ -1,0 +1,1 @@
+<title>Issue 44305 -   chromium -    paste large text to textarea stalls - Project Hosting on Google Code</title>   1. Copy a large text from an HTML textarea  2. Paste it to another HTML textarea         Pasted text appears soon         it takes a long time  then chromium reported the tab stalled    <b>Please provide

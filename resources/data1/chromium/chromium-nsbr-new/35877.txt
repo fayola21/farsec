@@ -1,0 +1,1 @@
+<title>Issue 35877 -   chromium -    Mute button flaps  - Project Hosting on Google Code</title> <pre> should put a sound mute button flap  because many do not open which is what   is ringing at the time  and it is very uncomfortable. thanks   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25686 -   chromium -    Hover to watch variables/objects - Project Hosting on Google Code</title> <pre> While debugging  both Firebug and Visual Studio allows me to hover/highlight   an variable in the code and it shows me a quick watch tooltip/menu for it. </pre>

@@ -1,0 +1,1 @@
+Add cache option to beanRef and  in the DSL    Added cache option to beanRef and &lt;bean&gt; in the DSL. This avoids looking up the Bean from the Registry on each usage; this can safely be done for singleton beans.   

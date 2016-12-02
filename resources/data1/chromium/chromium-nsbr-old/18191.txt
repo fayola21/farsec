@@ -1,0 +1,1 @@
+<title>Issue 18191 -   chromium -    Google Gadget Editor not working - Project Hosting on Google Code</title>   1. Scroll down to the Google Gadget Editor  2. Modify the &quot;Hello  world!&quot; (Line 5) and type anything in  3. Save  4. Publish      Show Publish dialog box      Error: Validation is not allowed for this file.    <b>Please provide

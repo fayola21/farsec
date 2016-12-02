@@ -1,0 +1,1 @@
+<title>Issue 18715 -   chromium -    chrome.Extension and chrome.Port should be pulled out into extension_api.js so they can be documented and validated - Project Hosting on Google Code</title> <pre> This will likely require parsing the extension_api in   renderer_process_binding.js and doing final bindings of most apis in   extension_process_bindings.js </pre>

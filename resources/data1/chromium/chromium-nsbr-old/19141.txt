@@ -1,0 +1,1 @@
+<title>Issue 19141 -   chromium -    Minimize to tray - Project Hosting on Google Code</title>   1.minimizing Chrome        minimizes to tray      minimizes to task bar    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17612 -   chromium -    Edit Bookmark dialog: name background red if URL not valid - Project Hosting on Google Code</title> <pre> When using Add Page (from context menu) on bookmark bar to add a new bookmark  the   background of the URL text field needs to show if the URL is valid or not.  On Win/Lin  the   background is red until the URL becomes valid. </pre>

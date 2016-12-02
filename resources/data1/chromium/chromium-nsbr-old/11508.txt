@@ -1,0 +1,1 @@
+<title>Issue 11508 -   chromium -    Build RPMs - Project Hosting on Google Code</title> <pre> It's on the list of dev beta features.    I'd be fine with this being done by a distro  but we've yet to see anyone   step up. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23381 -   chromium -    Browser actions: toolbar does not relayout when extension is unloaded - Project Hosting on Google Code</title> <pre> 1. Load an extension that has a browser action  2. Unload it  3. Notice the hole where the browser action was is left behind.    - oddly  the icon goes away. So something happened. </pre>

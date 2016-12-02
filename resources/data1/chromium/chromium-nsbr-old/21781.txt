@@ -1,0 +1,1 @@
+<title>Issue 21781 -   chromium -    Automatically close tree when more kinds of tests fail - Project Hosting on Google Code</title> <pre> More kinds of tests should make the tree close automatically. </pre>

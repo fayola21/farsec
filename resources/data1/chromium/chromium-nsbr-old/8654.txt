@@ -1,0 +1,1 @@
+<title>Issue 8654 -   chromium -    Can't open saved pages in Chrome - Project Hosting on Google Code</title>   1. Go to any page  2. Click Save as from page menu (or press CTRL-S)  3. Try to open the saved page in Chrome      Page should open in Chrome when double-clicked      It doesn't know what program to open with    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39781 -   chromium -    avi files dont play - Project Hosting on Google Code</title> <pre> avi files dont play  avi is used for divx.  the first frame appears.  on some longer movies  frames advance at about 1 frame every 3 seconds.   </pre>

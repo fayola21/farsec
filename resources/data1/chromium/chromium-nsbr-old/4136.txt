@@ -1,0 +1,1 @@
+<title>Issue 4136 -   chromium -    Carpet bombing dialog incorrectly shows up - Project Hosting on Google Code</title> <pre>   1. Click on a download  2. Type in a file URL in the omnibox.        This shouldn't trigger the carpet bombing dialog.    I don't think this is needed for m1  but soon thereafter. </pre>

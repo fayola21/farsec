@@ -1,0 +1,1 @@
+<title>Issue 10617 -   chromium -    [regression] Chrome turns on RTL input without reason on Vista - Project Hosting on Google Code</title>   1. Go to any input box (textarea or simple input).  2. Press Right Ctrl+Shift      Just input language switch      The input box switches to RTL.    <b>Please provide

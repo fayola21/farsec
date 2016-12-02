@@ -1,0 +1,1 @@
+<title>Issue 199 -   chromium -    Using Dell Touchpad scroll option only scrolls down - up does not work (only show the icon) - Project Hosting on Google Code</title>   1. Scroll up with touchpad's right hand scroler on any site          Scroll down      Only Icon for scroller shows - but the page won't scroll up    Please provide

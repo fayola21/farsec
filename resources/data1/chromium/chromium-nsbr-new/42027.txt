@@ -1,0 +1,1 @@
+<title>Issue 42027 -   chromium -    Internet connection closed - Project Hosting on Google Code</title>   1.when join a page which have lots of photos  2.photos doesn't seem  seems broken icon  3.then disconnect from internet.        i don't want to disconnet        <b>Please provide

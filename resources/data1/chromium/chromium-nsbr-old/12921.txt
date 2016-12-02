@@ -1,0 +1,1 @@
+<title>Issue 12921 -   chromium -    Do not autocorrect words in capital letters - Project Hosting on Google Code</title> <pre> Words in capital letters  or having capital letters in between  may refer to   acronyms or terms not in the dictionary. Do not autocorrect these words. For   example CLD is an acronym for a library which gets changed to LCD. </pre>

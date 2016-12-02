@@ -1,0 +1,1 @@
+<title>Issue 20513 -   chromium -    Rearranging tabs always detaches (64-bit only) - Project Hosting on Google Code</title>   1. Open several tabs.  2. Try to move a tab left or right.      The tab being moved should rearrange with the other open tabs.      The tab immediately detaches and creates a new window. It can't be   reattached.    Please provide

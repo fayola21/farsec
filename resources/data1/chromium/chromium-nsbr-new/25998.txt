@@ -1,0 +1,1 @@
+<title>Issue 25998 -   chromium -    [GPU] alternative to NPAPI for sync messages  [15] - Project Hosting on Google Code</title> <pre> Consider using alternative to NPAPI for sync messages between processes or   optimize NPAPI </pre>

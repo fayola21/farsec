@@ -1,0 +1,1 @@
+<title>Issue 45948 -   chromium -    Incorrect optimization setting in release gypi - Project Hosting on Google Code</title> <pre> srcbuildinternalrelease_defaults.gypi(4) is:       'Optimizations': '2'     It should really be:      'Optimization': '2'     This likely results in a silent mis-selection of build settings in the release_defaults.       </pre>

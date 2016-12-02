@@ -1,0 +1,1 @@
+<title>Issue 13590 -   chromium -    Packing an extension with --pack-extension-key with an openssl generated private key doesn't work - Project Hosting on Google Code</title> <pre> Seems to break down in the RSAPrivateKey code trying to determine algorithm.    use openssl genrsa -out privkey.pem 1024 to generate private key </pre>

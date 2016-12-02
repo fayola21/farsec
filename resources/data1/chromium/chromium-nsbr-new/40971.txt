@@ -1,0 +1,1 @@
+<title>Issue 40971 -   chromium -    Multiple tab crashes on 5.0.371.0 - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.371.0 dev    I'm not sure what kind of websites cause these crashes  but since I updated from 5.0.366.0  at   certain points  multiple tabs go to the Aw  Snap screen.   </pre>

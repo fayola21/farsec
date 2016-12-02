@@ -1,0 +1,1 @@
+<title>Issue 41007 -   chromium -    Add a copy of server_test.html to native_client/tests/prebuilt directories - Project Hosting on Google Code</title> <pre> Server_test.html file is used as part of nacl_ui_tests. Since we are changing   nacl_ui_tests to rely on files that exist in native_client/tests/prebuilt it   should be moved there. </pre>

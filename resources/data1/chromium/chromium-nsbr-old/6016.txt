@@ -1,0 +1,1 @@
+<title>Issue 6016 -   chromium -    Cannot add text in new mail in hotmail  - Project Hosting on Google Code</title>   1. go to www.hotmail.com  2. open new e-mail  3. you are not allowed to add text in the mail      you need to be allowed to add text      you cannot add text    Please provide

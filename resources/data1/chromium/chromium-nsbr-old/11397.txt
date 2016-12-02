@@ -1,0 +1,1 @@
+<title>Issue 11397 -   chromium -    Chrome does not scroll using 3M ergo mouse - Project Hosting on Google Code</title>   1. Get 3M ergo mouse  2. Install mouse  3. Install Chrome  4. Go to long web page  5. Try to use scrolling on mouse  6. Observe scrolling not working                <b>Please provide

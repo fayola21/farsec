@@ -1,0 +1,1 @@
+<title>Issue 15675 -   chromium -    layout issues when maximizing - Project Hosting on Google Code</title>   1. maximize chrome  2. un-maximize (windowed) chrome        Chrome should just switch to the windows version.        Everything gets moved out of place. Address bar floats off  page area   floats off  etc.      <b>Please provide

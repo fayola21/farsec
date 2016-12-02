@@ -1,0 +1,1 @@
+<title>Issue 1378 -   chromium -    unable to import all favourites from IE 7 - Project Hosting on Google Code</title>   1. Installing a fresh install of google chrome.  2. Importing favoutires/bookmarks from Internet Explorer 7.          All favourites from the IE 7 should be imported to the Chrome without   error.        Only few favourites are imported.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 3568 -   chromium -    touchpad cant scroll horizontally - Project Hosting on Google Code</title>   1. open a page in chrome  2. resize the window and make it small enough to get a horizontal scroll   bar.  3. slide your finger along the bottom edge of the touch pad.       the page should slide horizontally      nothing happened.    Please provide

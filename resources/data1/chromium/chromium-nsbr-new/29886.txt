@@ -1,0 +1,1 @@
+<title>Issue 29886 -   chromium -    Can not view PDF files within the browser - Project Hosting on Google Code</title>   1. Opening a link that has a PDF file          For the PDF file to open WITHIN the browser      The file is being automatically downloaded to my mac.    <b>Please provide

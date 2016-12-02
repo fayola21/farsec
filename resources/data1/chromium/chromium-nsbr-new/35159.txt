@@ -1,0 +1,1 @@
+<title>Issue 35159 -   chromium -    Classic mode checkbox changes background color on label hover - Project Hosting on Google Code</title> <pre> Set your theme to Windows Classic  start Chrome  open the prefs window  and   hover a checkbox lable.  It turns from white to grey  and back to white when   you unhover. </pre>

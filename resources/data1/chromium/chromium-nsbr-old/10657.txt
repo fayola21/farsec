@@ -1,0 +1,1 @@
+<title>Issue 10657 -   chromium -    [Regression] Rhapsody web player resizes incorrectly - Project Hosting on Google Code</title>   1.Go to Rhapsody.com  2.Choose a song to play  3.The Rhapsody player window resizes incorrectly initially  and then   resizes incorrectly again when the song changes                <b>Please provide

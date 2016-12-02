@@ -1,0 +1,1 @@
+<title>Issue 7336 -   chromium -    Silverlight doen't load - Project Hosting on Google Code</title>   1. Open any site using Silverlight plugin eg. www.microsoft.com  2. Silverlight plugin doesn't load.      Silverlight plugin should load and work.      Silverlight plugin doesn't load.    Please provide

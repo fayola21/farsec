@@ -1,0 +1,1 @@
+<title>Issue 20496 -   chromium -    fix use of NSLocalizedString - Project Hosting on Google Code</title> <pre> use proper apis instead    chrome/browser/app_modal_dialog_mac.mm:  NSString* default_button =   NSLocalizedString(@&quot;OK&quot;  nil);  chrome/browser/app_modal_dialog_mac.mm:  NSString* other_button =   NSLocalizedString(@&quot;Cancel&quot;  nil);   </pre>

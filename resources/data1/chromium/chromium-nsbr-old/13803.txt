@@ -1,0 +1,1 @@
+<title>Issue 13803 -   chromium -    Chrome Task Manager fails to show up - Project Hosting on Google Code</title>   1. Open Chrome  2. Open Chrome's Task Manager          The task manager shows up  fully functioning and working as it should.        A blank gray window shows up  and basically is useless.    <b>Please provide

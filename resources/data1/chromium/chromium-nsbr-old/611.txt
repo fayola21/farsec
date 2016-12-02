@@ -1,0 +1,1 @@
+<title>Issue 611 -   chromium -    scroll wheel does not work properly - Project Hosting on Google Code</title>   1. use the mouse scroll wheel to scroll the website up.          scroll up!      it does nothing. no scroll at all. although  scrolling down does work  but   it does it too fast.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38641 -   chromium -    Uncaught Illegal Access Exception in Dynarch Calendar - Project Hosting on Google Code</title>   1. Go to either URL above  2. All of the calendar demos cause a &quot;Uncaught Illegal Access Exception&quot;        No javascript errors  and a calendar widget should appear      Uncaught Illegal Access Exception    <b>Please provide

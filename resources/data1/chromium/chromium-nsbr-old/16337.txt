@@ -1,0 +1,1 @@
+<title>Issue 16337 -   chromium -    [Greasemonkey] GM_getValue  doesn't work - Project Hosting on Google Code</title>   1. Greasemonkey isn't working in Chrome/Chromium            Would like the &quot;GM_registerMenuCommand&quot; function to work natively in   Chromium.        It doesn't seem to work  or it's broken (not functioning properly).    <b>Please provide

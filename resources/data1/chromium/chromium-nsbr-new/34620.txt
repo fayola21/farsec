@@ -1,0 +1,1 @@
+<title>Issue 34620 -   chromium -    Error when navigate - Project Hosting on Google Code</title>   1.clic in one diferent list  produce this error:  Fatal error: Allowed memory size of 16777216 bytes exhausted (tried to  allocate 32768 bytes) in /home/tlorg/www/includes/class_bbcode.php on line 877          Other page  from the list.          <b>Please provide

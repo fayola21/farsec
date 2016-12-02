@@ -1,0 +1,1 @@
+<title>Issue 17208 -   chromium -    Sharepoint Datasheet operation - Project Hosting on Google Code</title>   1.Open Sharepoint list   2.Change to: Edit in Datasheet view  3.Display changes      Ajax type control permits dragging values down or across like excel.      no reaction. you can type in most single cells. some check boxes do not   function.      <b>Please provide

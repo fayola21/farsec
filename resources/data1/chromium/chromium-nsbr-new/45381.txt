@@ -1,0 +1,1 @@
+<title>Issue 45381 -   chromium -    WebSocket protocol handshake goes against specification - Project Hosting on Google Code</title>   1. Open a WebSocket.  2. In the server  write &quot;HTTP/1.1 101 WebSocket Protocol Handshakern&quot;        An established WebSocket connection.        Unexpected response code:101    <b>Please provide

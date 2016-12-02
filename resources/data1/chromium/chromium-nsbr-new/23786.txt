@@ -1,0 +1,1 @@
+<title>Issue 23786 -   chromium -    sites links issue when chrome is closed - Project Hosting on Google Code</title>   1.open a link from a program e.g. live messenger  2.it manifests only when chrome is closed        to open the linked page      it opens an about:blank page and it's impossible to go also in every sites    <b>Please provide

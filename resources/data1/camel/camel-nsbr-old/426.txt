@@ -1,0 +1,1 @@
+splitter() should have the same parallel processing functionality that multicast() has    Ability to havefrom('direct:parallel').splitter(body().tokenize(' ')  true).to('mock:result');where true parameter to splitter should behave like in multicast() &#8212; processing is done in separate threads for each 'part'.   

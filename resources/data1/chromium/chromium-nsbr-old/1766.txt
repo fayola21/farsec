@@ -1,0 +1,1 @@
+<title>Issue 1766 -   chromium -    Add shortcut for Save page as (Ctrl + S) - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.152.0              Firefox 3: OK           IE 7: OK      Have a page or picture open  press control S to save      allows you to save the item without right clicking the item or finding the   file menu      nothing      </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45801 -   chromium -    DCHECK hit in passive_log_collector - Project Hosting on Google Code</title> <pre> Sorry  no steps. I hit this on a tip of tree'ish build:    [5848:7856:1396717074:ERROR_REPORT:passive_log_collector.cc(240)] Check   failed: info.reference_count + offset &gt;= 0 (-1 vs. 0)  </pre>

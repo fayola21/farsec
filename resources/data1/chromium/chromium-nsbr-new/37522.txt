@@ -1,0 +1,1 @@
+<title>Issue 37522 -   chromium -    &lt;span dir=&quot;ltr&quot;&gt; affects only the first line - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.1 (40461) dev           Safari 4: N/A    Firefox 3.x: OK           IE 7: N/A           IE 8: OK      See attached test file.        See attached screenshot. </pre>

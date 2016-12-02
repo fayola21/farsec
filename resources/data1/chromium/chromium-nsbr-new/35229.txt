@@ -1,0 +1,1 @@
+<title>Issue 35229 -   chromium -    pipe file descriptor leak - Project Hosting on Google Code</title>   1. Run chrome for a couple hours (visit urls  create and close close tabs)      The browser continues to show web pages.      When I ask chrome to visit a URL  it errors with net::ERR_FAILED.      <b>Please provide

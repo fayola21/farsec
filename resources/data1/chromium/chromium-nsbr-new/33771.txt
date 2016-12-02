@@ -1,0 +1,1 @@
+<title>Issue 33771 -   chromium -    Chrome crashes every 5-10 minutes - Project Hosting on Google Code</title>   1.Open webpage  2.Begin to scroll untill it is fully downloaded  3.Browser crashes      Nothing  but to scroll down the page      Browser crashes shows the box with info about problem.      <b>Please provide

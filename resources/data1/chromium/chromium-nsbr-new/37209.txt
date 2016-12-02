@@ -1,0 +1,1 @@
+<title>Issue 37209 -   chromium -    Mac history menu should be increased in length  have a show all item. - Project Hosting on Google Code</title> <pre> History menu on mac should be increased to 10 items.    &quot;Show all History...&quot; should be the last item in the menu (close to its recently closed bretheren)   </pre>

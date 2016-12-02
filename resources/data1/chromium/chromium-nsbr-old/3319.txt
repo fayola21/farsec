@@ -1,0 +1,1 @@
+<title>Issue 3319 -   chromium -    Upstream V8 bindings - Project Hosting on Google Code</title> <pre> Upstream USE(V8) hooks    We need to ensure that common code in WebCore has the required USE(V8)   hooks so that we can use V8 without having to modify any code in WebCore. </pre>

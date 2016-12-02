@@ -1,0 +1,1 @@
+<title>Issue 21604 -   chromium -    VectorPlatformDevice has a large bitmap which is not used at all. - Project Hosting on Google Code</title>   1. n/a          n/a      n/a    <b>Please provide

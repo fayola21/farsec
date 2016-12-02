@@ -1,0 +1,1 @@
+<title>Issue 6713 -   chromium -    Flash Plugin consuming ever greater memory - Project Hosting on Google Code</title>   1. open supplied URL  2. Open Chromium task manager  3. Watch Flash Plugin memory usage climb        Memory should not keep climbing        Memory climbs as long as window is maximized    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20661 -   chromium -    Window resize should not allow a 1 px only window. - Project Hosting on Google Code</title>   1. Open Chrome.  2. Resize the chrome main window as small as possible  3. The window become invisible      The window should not be able to reduce below a minimal size      The windows is invisible    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20568 -   chromium -    Text displays as &quot;A's in little boxes&quot; - Project Hosting on Google Code</title>   1. Upgrade to Snow Leopard  2. Browse          Text all over the web page is rendered as a whole lot of capital A's inside little boxes.         <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36646 -   chromium -    PageAction form field won't focus in Windows - Project Hosting on Google Code</title> <pre> It works fine in Linux  but is broken in Windows. See attached example. This   example uses the HTML5 autofocus attribute  but calling focus() in JS doesn't   work either. </pre>

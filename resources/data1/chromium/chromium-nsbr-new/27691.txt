@@ -1,0 +1,1 @@
+<title>Issue 27691 -   chromium -    linux needs extension error dialog - Project Hosting on Google Code</title>   1. Load an extension with some manifest error (i.e. provided example)          Chrome should display an &quot;extension error&quot; dialog (as in windows)      No error dialog.  I can only see the error in the console    <b>Please provide

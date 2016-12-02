@@ -1,0 +1,1 @@
+<title>Issue 2150 -   chromium -    &quot;Leaking&quot; notification observers - Project Hosting on Google Code</title> <pre> Right now running trunk tells me on shutdown that one each of the following   notification observers are leaking:  NOTIFY_BROWSER_OPENED  NOTIFY_BROWSER_CLOSED  NOTIFY_RENDERER_PROCESS_TERMINATED    It'd be nice to address these. </pre>

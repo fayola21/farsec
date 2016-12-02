@@ -1,0 +1,1 @@
+<title>Issue 33265 -   chromium -    impossible to rearrange thumbnails on New tab page - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 'about:version'&gt;    1. drag the thumbnails on the new tab page to rearrange them      the thumbnails should snap to their new position      the thumbnails always snap back to where they were </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12058 -   chromium -    Do something about the splash page - Project Hosting on Google Code</title> <pre> We should have a known issues list on the front page.    Remove the STOP sign. </pre>

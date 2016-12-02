@@ -1,0 +1,1 @@
+<title>Issue 7108 -   chromium -    Ability to remove old/invaild/duplicate/wont fix issues - Project Hosting on Google Code</title> <pre> The title basically explains this  Chromium Developers should be able to   delete old/invalid/duplicate/wont fix etc issues. </pre>

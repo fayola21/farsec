@@ -1,0 +1,1 @@
+<title>Issue 41472 -   chromium -    cmd+shift+v should plaintext paste - Project Hosting on Google Code</title> <pre> Right now it's cmd+option+shift+v. We should continue supporting that since it matches the   platform  bug we should also have cmd+shift+v do plaintext paste since it's such a frequent   operation. </pre>

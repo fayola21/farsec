@@ -1,0 +1,1 @@
+<title>Issue 30322 -   chromium -    pelephone.co.il: Video on homepage doesn't play on Mac - Project Hosting on Google Code</title> <pre>   1. Navigate to pelephone.co.il  2. Click &quot;play&quot; on the video at the bottom left.        Video displays a warning that it won't play.    Browsers tested:  * Safari/Mac: FAIL  * Chrome/Mac: FAIL         </pre>

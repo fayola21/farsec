@@ -1,0 +1,1 @@
+<title>Issue 11937 -   chromium -    Next and Previous don't work in Hotmail - Project Hosting on Google Code</title>   1.Goto your Hotmail account  2.You need enough messages to not fit onto one page  3.Click on Next or Page number at the bottom      Next page should open      Nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 16469 -   chromium -    Resize cursor sticks past frame edge - Project Hosting on Google Code</title> <pre> Move the mouse cursor from the left frame edge into the bookmarks bar.    Mouse cursor should not stay as a resize cursor. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16425 -   chromium -    Button in 'downloading while closing browser'-screen is too large - Project Hosting on Google Code</title>   1. Set your language to dutch  2. Start a download  3. Close chrome  4. Note that one of the buttons is too large      To let the whole button fit in it's form      Buttons are too large    <b>Please provide

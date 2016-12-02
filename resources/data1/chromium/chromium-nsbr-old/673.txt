@@ -1,0 +1,1 @@
+<title>Issue 673 -   chromium -    not decode URL ( GET ) - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (build 1583)        not decode URL search.php?q=_��__��__���__��_��_   (cirilic)    I would like to make it so search.php?q=%E7%E0%EF%F0%EE%F1     </pre>

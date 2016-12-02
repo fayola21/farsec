@@ -1,0 +1,1 @@
+<title>Issue 34777 -   chromium -    Unable to install extensions or themes - Project Hosting on Google Code</title>   1. Attempt to install an extension or theme            Extension or theme is installed.        Either nothing  or Chrome crashes.    <b>Please provide

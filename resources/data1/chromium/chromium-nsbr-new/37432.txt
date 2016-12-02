@@ -1,0 +1,1 @@
+<title>Issue 37432 -   chromium -    Gmail makes Chrome crash - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.1  URLs (if applicable) : mail.google.com/mail        1. Update Chrome to latest dev release  2. Launch Gmail  3. Chrome Crash </pre>

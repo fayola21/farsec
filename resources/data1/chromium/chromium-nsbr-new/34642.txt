@@ -1,0 +1,1 @@
+<title>Issue 34642 -   chromium -    Custom home pages should have icons - Project Hosting on Google Code</title> <pre> Now that we have a favicon -&gt; NSImage converter  we should hook up the   icons for the custom home pages list in prefs if we have them.    Good first bug for someone. </pre>

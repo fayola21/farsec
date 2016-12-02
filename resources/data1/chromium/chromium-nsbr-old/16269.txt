@@ -1,0 +1,1 @@
+<title>Issue 16269 -   chromium -    Cannot make custom search boxes in the new New Tab page - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.192.1      1. Install the latest dev build. Attempt to use the custom search boxes that   used to be above Recent Bookmarks.      The presence of my youtube search box. I used that frequently.      No go.   </pre>

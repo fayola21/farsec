@@ -1,0 +1,1 @@
+<title>Issue 22469 -   chromium -    Flash videos won't play past 2:49 on Karmic and now Jaunty - Project Hosting on Google Code</title>   1. Play any flash video          Video plays through to the end.      Stops at exactly 2:49 - moving back in the movie works fine  moving forward   does not work.    <b>Please provide

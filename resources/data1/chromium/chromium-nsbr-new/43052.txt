@@ -1,0 +1,1 @@
+<title>Issue 43052 -   chromium -    Chrome will not tile - Project Hosting on Google Code</title>   Right click windows bar and tile windows      Windows tile      All other windows tile  chrome remain untouched. If it is just chrome and   another window  the other window is sized to take up the whole screen.    <b>Please provide

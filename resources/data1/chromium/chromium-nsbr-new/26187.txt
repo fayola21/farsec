@@ -1,0 +1,1 @@
+<title>Issue 26187 -   chromium -    bug of chrome on ubuntu - Project Hosting on Google Code</title>   1.when drag the chrome on desktop  the chrome window cross over the   boundary of the panel of desktop;  2. and the chrome window could not be moved anymore        Do not cross over the boundary of the panel of desktop.            <b>Please provide

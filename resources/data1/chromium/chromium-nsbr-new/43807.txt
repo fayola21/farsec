@@ -1,0 +1,1 @@
+<title>Issue 43807 -   chromium -    dev channel users should connect to testing sync server - Project Hosting on Google Code</title> <pre> Dev channel users should connect to a testing server rather than the 'stable' sync server so we can   deploy features faster. We need to detect that we're on dev channel and switch sync URLs. </pre>

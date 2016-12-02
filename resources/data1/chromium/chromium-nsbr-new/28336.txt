@@ -1,0 +1,1 @@
+<title>Issue 28336 -   chromium -    Refresh page loses scroll position. - Project Hosting on Google Code</title>   1. Open a page longer than the browser height.  2. Scroll to the middle/end  3. Refresh      Scroll position returns to the previous state      Scroll resets to top of the page    <b>Please provide

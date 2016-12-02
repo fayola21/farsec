@@ -1,0 +1,1 @@
+<title>Issue 32005 -   chromium -    care2.com :  The site has overlapping and truncated issues  - Project Hosting on Google Code</title>   1. Launch Chrome  2. go to <a href="http://www.care2.com">http://www.care2.com</a>      What is the expected result? What happens instead?  The strings/tabs are truncated or overlapping to each others on default   font.      <b>Please provide

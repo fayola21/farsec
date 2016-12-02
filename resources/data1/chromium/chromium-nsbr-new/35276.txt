@@ -1,0 +1,1 @@
+<title>Issue 35276 -   chromium -    Theme in NTP bookmark bar background doesn't obey Ctrl+ / Ctrl- - Project Hosting on Google Code</title> <pre> When zooming in or out using Ctrl+ or Ctrl- (or ��_��_��_+ / ��_��_��_- on Mac)  the   painted area behind the detached bookmark bar does not expand or contract   with the rest of the NTP background.  </pre>

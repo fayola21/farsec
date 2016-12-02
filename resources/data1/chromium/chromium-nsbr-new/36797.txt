@@ -1,0 +1,1 @@
+<title>Issue 36797 -   chromium -    Update linux tabstrip to support mini-tabs - Project Hosting on Google Code</title> <pre> The linux tabstrip needs to be updated to support mini-tabs. See the patches   in 32845 for specifics. </pre>

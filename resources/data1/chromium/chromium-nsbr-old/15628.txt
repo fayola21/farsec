@@ -1,0 +1,1 @@
+<title>Issue 15628 -   chromium -    Close button clickable ought to extend to right of close button's graphical representation - Project Hosting on Google Code</title> <pre> on linux  with the custom frame  when maximized  you can't close by clicking   the top right pixel </pre>

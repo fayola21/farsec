@@ -1,0 +1,1 @@
+<title>Issue 31766 -   chromium -    compact navigation bar - Project Hosting on Google Code</title> <pre> <a href="https://sites.google.com/a/google.com/chromeos/for-team-members/user-">https://sites.google.com/a/google.com/chromeos/for-team-members/user-</a>  experience/window-ui    filing in chromium as this is browser feature. </pre>

@@ -1,0 +1,1 @@
+velocity endpoint should not remember the last used template uri    If there are two velocity endpoint linked with the pipeline  you will find the last velocity will not effect anymore.   

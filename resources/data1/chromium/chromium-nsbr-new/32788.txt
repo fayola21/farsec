@@ -1,0 +1,1 @@
+<title>Issue 32788 -   chromium -    Additional instrumentation for Timeline - Project Hosting on Google Code</title> <pre> While the current timeline view in DevTools provides a great overview of   things happening  we should make it easier to locate the cause of an event    e.g.  link to JS where relevant. </pre>

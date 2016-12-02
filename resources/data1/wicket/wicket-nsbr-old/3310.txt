@@ -1,0 +1,1 @@
+Multiple language support for UploadProgressBar    Up to now the Feedback (e.g. 'Upload starting'  '15 Minutes remaining'  etc.) is hardcoded into the progressbar.js and therefore doesn't support multiple languages.   

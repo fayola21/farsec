@@ -1,0 +1,1 @@
+Inline Enclosure needs to check isVisibleInHierarchy  not only isVisible    If the Visibility of the child component from the inline enclure uses setVisibleAllowed  the enclosure is rendered if the component is not visible. Take a look to the updateVisibility-method of the InlineEnclosure-Class. In my opinion the method should check for isVisibleInHierarchy.   

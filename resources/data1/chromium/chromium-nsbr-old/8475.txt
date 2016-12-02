@@ -1,0 +1,1 @@
+<title>Issue 8475 -   chromium -    Color skew caused by extra precision in floats breaks 32-bit Debug  64-bit layout tests in Linux - Project Hosting on Google Code</title> <pre> The extra precision is causing a problem in:    third_party/WebKit/WebCore/platform/graphics/Color.cpp    which can be &quot;fixed&quot; by compiling with -ffloat-store.   </pre>

@@ -1,0 +1,1 @@
+wicket-autocomplete prevents 'change'-listener when leaving input via mouse click    wicket-autocomplete's ignoreChange is true initially  this prevents 'change' events being fired when the user enters something and then clicks somewhere else   

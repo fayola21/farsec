@@ -1,0 +1,1 @@
+<title>Issue 29963 -   chromium -    Send bug report / crash report option not available in chrome for linux beta - Project Hosting on Google Code</title>             On control the current page menu  there should be report bug/crash   link/button.      No link or button to file a bug/crash is there    <b>Please provide

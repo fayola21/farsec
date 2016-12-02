@@ -1,0 +1,1 @@
+<title>Issue 22817 -   chromium -    log messages in ffmpeg are too verbose - Project Hosting on Google Code</title> <pre> Using media bench on seattle.mp4 you see many warnings.  Add an option to control the level of messages. </pre>

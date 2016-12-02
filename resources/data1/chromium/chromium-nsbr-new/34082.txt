@@ -1,0 +1,1 @@
+<title>Issue 34082 -   chromium -    Chrome is unstable after sudden loss of energy - Project Hosting on Google Code</title>   1. Open up the Chrome navigator  2. Cut of the energy  3. Turn on the computer and run Chrome again                <b>Please provide

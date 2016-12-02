@@ -1,0 +1,1 @@
+<title>Issue 31996 -   chromium -    Chrome OS image work well with USB Flash. Virtual Box version doesnt work !! - Project Hosting on Google Code</title> <pre> Any Ideas. I have it working out Flash USB but same [  rootfs.image/mbr.image ] doesnt produce working os.vdi disk ?    Thanks     Aamir M. Khan </pre>

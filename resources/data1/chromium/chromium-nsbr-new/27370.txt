@@ -1,0 +1,1 @@
+<title>Issue 27370 -   chromium -    Incompatible - Project Hosting on Google Code</title> <pre> I downloaded the recent update today 11-11-2009  but it would not run on my  version of OSX 10.5.8. When I started  the message is that it would not run  on my architecture. Is it because I do not have an intel cpu? Is this why  intel is being sued?    jmf </pre>

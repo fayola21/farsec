@@ -1,0 +1,1 @@
+<title>Issue 40901 -   chromium -    Google mail crush after adding new mail filter - Project Hosting on Google Code</title>   1. open any e-mail  2. hit - filter messages like this  3. hit next  4. add new label  5. check also add  6. hit - create filter  7. gmail chush      return to inbox      gmail chush    <b>Please provide

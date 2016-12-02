@@ -1,0 +1,1 @@
+<title>Issue 19066 -   chromium -    Youtube Middle-click bug - Project Hosting on Google Code</title>   1. Go to a video on youtube.com  2. Middle-click on a site link (i.e. to check your messages or return to   the homepage)        New tab opens on requested page.      Other tab opened  but page also opens on the original tab.    <b>Please provide

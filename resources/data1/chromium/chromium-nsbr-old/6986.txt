@@ -1,0 +1,1 @@
+<title>Issue 6986 -   chromium -    AutocompletePopup doesn't disappear quickly enough after hitting enter - Project Hosting on Google Code</title> <pre> I especially notice this on alt-enter with a loaded machine.  The drop   shadow will disappear  and eventually the popup will disappear.  I should   probably explicitly close the popup sooner in the AutocompleteEdit code. </pre>

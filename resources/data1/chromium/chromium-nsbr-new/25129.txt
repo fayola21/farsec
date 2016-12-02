@@ -1,0 +1,1 @@
+<title>Issue 25129 -   chromium -    Fails to compile on Ubuntu 9.10 with gcc-4.4 - Project Hosting on Google Code</title>   1. Check out the latest source code  2. Compile 'chrome' following the online instructions  3. Wait for it to get to v8      v8 compiles      The build process terminates due to errors  with the attached build log    <b>Please provide

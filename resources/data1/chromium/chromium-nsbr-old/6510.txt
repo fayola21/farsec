@@ -1,0 +1,1 @@
+<title>Issue 6510 -   chromium -    Prompt Dialog has no focus at show up - Project Hosting on Google Code</title>   1. go to any page with a javascript prompt function  2. prompt(&quot;some text&quot;)  3. you will not have the focus on the prompt field to enter data  you have   to click it or tab it.                Please provide

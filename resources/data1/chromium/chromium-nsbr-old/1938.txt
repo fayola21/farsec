@@ -1,0 +1,1 @@
+<title>Issue 1938 -   chromium -    Right mouse click don't work at contextmenus - Project Hosting on Google Code</title>   1. Open new tab  2. Right mouse click on the tab  a favorite URL etc  3. Try to RIGHT click new Tab      A new tab openend of the clicked URL to open      Nothing    Please provide

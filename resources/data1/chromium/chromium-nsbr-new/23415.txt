@@ -1,0 +1,1 @@
+<title>Issue 23415 -   chromium -    navigation links on a MoinMoin wiiki site are not clickable - Project Hosting on Google Code</title>   1. Navigate to applicable URL  2. Notice left-hand column and links  3. Try to click... (cursor not the familiar hand pointer but arrow)      Clickable links      Nothing    Please provide

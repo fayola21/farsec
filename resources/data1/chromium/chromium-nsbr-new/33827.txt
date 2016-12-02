@@ -1,0 +1,1 @@
+<title>Issue 33827 -   chromium -    Scroll bar empty area is a dark color? - Project Hosting on Google Code</title>   1. Opening a Chromium session  2. Viewing a page that requires scrolling            The Scroll bar area is now darker? And it looks differen    <b>Please provide

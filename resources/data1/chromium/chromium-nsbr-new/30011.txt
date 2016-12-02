@@ -1,0 +1,1 @@
+<title>Issue 30011 -   chromium -    [CF Full Mode] google home page is not displayed correctly when accessing with cf: - Project Hosting on Google Code</title> <pre>     1. Access cf:<a href="http://www.google.com">http://www.google.com</a> in IE        The top links and bottom links are missing      Issues happens on both IE7 and IE8  in IE6 it works fine.   </pre>

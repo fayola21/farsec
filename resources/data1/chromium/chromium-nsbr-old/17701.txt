@@ -1,0 +1,1 @@
+<title>Issue 17701 -   chromium -    Linux default UI does not show slider. - Project Hosting on Google Code</title> <pre> Open up any video tag with the &quot;controls&quot; attribute set.  The slider UI does   not actually display correctly.  The &quot;position&quot; tag is missing.    This is likely due to the chromium bridge code not drawing a slider in GTK. </pre>

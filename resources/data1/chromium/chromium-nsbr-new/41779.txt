@@ -1,0 +1,1 @@
+<title>Issue 41779 -   chromium -    Pepper microphone APIs - Project Hosting on Google Code</title> <pre> Metabug to track the progress of microphone Pepper APIs    For more info on Pepper  see   <a href="https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI">https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI</a>   </pre>

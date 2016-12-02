@@ -1,0 +1,1 @@
+<title>Issue 41607 -   chromium -    Select Thai text on mac is skip some text.  - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.3xx.0 dev MAC           Safari 4: OK    Firefox 3.x: OK      1. Drag mouse multi lines on Thai text.    What happens ?  See attach file.     </pre>

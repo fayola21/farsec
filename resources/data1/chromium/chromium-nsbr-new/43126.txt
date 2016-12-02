@@ -1,0 +1,1 @@
+<title>Issue 43126 -   chromium -    opening link to app window doesn't bring app window to front - Project Hosting on Google Code</title> <pre> to repro:  1. open docs in an app window  2. miniaturize the window  3. click a docs link from a different app window (gmail)    The link will open in the docs window  but the window won't order front.   </pre>

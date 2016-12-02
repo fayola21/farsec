@@ -1,0 +1,1 @@
+<title>Issue 18017 -   chromium -    On a HTTP 500 Error can't refresh page. - Project Hosting on Google Code</title>   1. Get a page that has a 500 error        Be able to refresh the page with crtl-r and fresh button.        CRTL-R won't work  Clicking refresh button does not work    <b>Please provide

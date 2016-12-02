@@ -1,0 +1,1 @@
+<title>Issue 9217 -   chromium -    Regression: Chromium crashes while downloading .exe files - Project Hosting on Google Code</title>   1.download any .exe files from internet such as chrmium installer  2.while click on yes or no button for the saving confirmation  chromium   will crash        should confirm and finish download      chromium crashes    <b>Please provide

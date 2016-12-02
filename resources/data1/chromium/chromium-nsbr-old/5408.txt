@@ -1,0 +1,1 @@
+<title>Issue 5408 -   chromium -    Enable pixel tests on Mac - Project Hosting on Google Code</title> <pre> Currently pixel tests are off because the scrollbar thumb in the expected  png is a different height than the thumb in our actual TestShell.    We need to fix this. </pre>

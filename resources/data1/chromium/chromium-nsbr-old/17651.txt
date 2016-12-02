@@ -1,0 +1,1 @@
+<title>Issue 17651 -   chromium -    Image width/height separator is garbage - Project Hosting on Google Code</title>   1. Open <a href="http://www.google.com/intl/en_ALL/images/logo.gif">http://www.google.com/intl/en_ALL/images/logo.gif</a>  2. Look in title bar      Says 276x110      See screenshot. This one is for XP. Vista does something similar    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 33635 -   chromium -    WMV with perian on a mac wont play in browser - Project Hosting on Google Code</title>   1. open a website containing a wmv video.   2. play it on a mac  3. no control over play pause or volume.         I can control the video      I cannot control the video or buttons      <b>Please provide

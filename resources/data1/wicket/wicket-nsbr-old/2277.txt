@@ -1,0 +1,1 @@
+Radio#onComponentTag uses Objects.equal instead of model comparator    Radio#onComponentTag uses Objects.equal instead of modelcomparator from RadioGroup. Because of that  it is impossible to use custom model comparator in RadioGroup asRadioGroup must contain values that pass equality check with values in Radios (otherwise  Radios aren't marked as checked in html).   

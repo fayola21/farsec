@@ -1,0 +1,1 @@
+On Confirm Hosts page  add a link to show the Host Checks popup in the success message       

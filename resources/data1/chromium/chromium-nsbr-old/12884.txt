@@ -1,0 +1,1 @@
+<title>Issue 12884 -   chromium -    OS X: Not all downloads are shown in 'Downloads' - Project Hosting on Google Code</title> <pre>   1. Download two files (or more :) )  2. Open 'Downloads' tab      'Downloads' tab should display there's two files being downloaded.      Only the most recent file the user asked to download is shown. </pre>

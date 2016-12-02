@@ -1,0 +1,1 @@
+<title>Issue 35993 -   chromium -    Cannot browse wordpress web galleries - Project Hosting on Google Code</title>   1.open first picture from gallery - it works  2.click next - it says loading  3.it stays at loading  have to click back to be able to surf again      move to next picture and so on      stays on loading      <b>Please provide

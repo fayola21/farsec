@@ -1,0 +1,1 @@
+<title>Issue 24158 -   chromium -    browser actions: popup button should show down arrow next to icon - Project Hosting on Google Code</title> <pre> Similar to the wrench and page menus  the popup buttons should show a down   arrow next to the icon as an indicator.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9387 -   chromium -    DCHECK when showing first run bubble - Project Hosting on Google Code</title> <pre> 1. Start Chrome with the --first-run parameter  2. Click &quot;Start Chromium&quot;      Chrome shows up  a DCHECK is triggered when showing the first run bubble.       </pre>

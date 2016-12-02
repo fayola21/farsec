@@ -1,0 +1,1 @@
+<title>Issue 37544 -   chromium -    no animation-USTime website. time.gov/timezone.cgi?Pacific/d/-8/java - Project Hosting on Google Code</title> <pre> Chrome Version 5.0307.11beta      : &lt;from About Google Chrome/Chromium or  'about:version'&gt;      Behavior in Firefox 3.x:works ok      1.click into ustime web site       </pre>

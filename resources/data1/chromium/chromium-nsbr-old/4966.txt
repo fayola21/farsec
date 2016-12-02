@@ -1,0 +1,1 @@
+<title>Issue 4966 -   chromium -    chrome crashes when open pop up windows - Project Hosting on Google Code</title> <pre> Chrome Version       : Ex: 0.4.154.25&gt;             Safari 3: ok      Firefox 3:ok           IE 7:ok    W       </pre>

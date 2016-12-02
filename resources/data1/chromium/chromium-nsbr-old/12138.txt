@@ -1,0 +1,1 @@
+<title>Issue 12138 -   chromium -    Opening new windows is tiny and I've uninstalled developer version and reinstalled again to have the same problem. - Project Hosting on Google Code</title>   1. Opening a new tab                    <b>Please provide

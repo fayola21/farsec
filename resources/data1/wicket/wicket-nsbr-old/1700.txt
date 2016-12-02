@@ -1,0 +1,1 @@
+Make functionality of ContextImage a behavior so that other types of components can utilize its functionality    It would be better if ContextImage was a behavior rather than an actual component. For instance  if you have an html input of type=image (or a link for that matter) you can still utilize the behavior whereas a component you cannot.   

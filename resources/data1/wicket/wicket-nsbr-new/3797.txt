@@ -1,0 +1,1 @@
+Remove duplicated resource resolution logic    PackageResourceReference#lookupStream( locale  style  variation) and ResourceNameIterator duplicates the path sufix logic used to resolve the resource   

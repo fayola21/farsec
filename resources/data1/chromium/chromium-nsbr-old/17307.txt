@@ -1,0 +1,1 @@
+<title>Issue 17307 -   chromium -    chrome.bookmarks.search doesn't find folder name matches - Project Hosting on Google Code</title> <pre> Chrome Version: 3.0.193.1    I don't know if this is a feature or a bug  but chrome.bookmarks.search  doesn't find matches in folder names.  If it is a feature  there should be  a way to search for folders.   </pre>

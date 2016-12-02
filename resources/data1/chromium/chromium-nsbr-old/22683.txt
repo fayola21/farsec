@@ -1,0 +1,1 @@
+<title>Issue 22683 -   chromium -    Backspace button doesnt go BACK in browser - Project Hosting on Google Code</title>   1.opening your gmail account in chrome  2.click on any email and view it  3.try hitting the backspsace key to go back to the inbox      inbox loads.      it shows the inbox url in address bar but the inbox doesnt actually load    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1550 -   chromium -    Installer fails when expand.exe is not in path - Project Hosting on Google Code</title> <pre> Our installer expects expand.exe to be in PATH. Some users are reporting   that they do not have this exe in PATH by default so the installer fails   for them.                        </pre>

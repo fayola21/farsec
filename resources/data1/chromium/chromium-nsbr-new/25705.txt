@@ -1,0 +1,1 @@
+<title>Issue 25705 -   chromium -    google reader &quot;mark all as read&quot; - Project Hosting on Google Code</title>   1.click on &quot;mark all as read&quot;        What is the expected result? reader marks all messages from a particular   feed as &quot;read&quot;.      What happens instead? nothing      <b>Please provide

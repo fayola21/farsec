@@ -1,0 +1,1 @@
+<title>Issue 38421 -   chromium -    Change Ctrl+arrow behavior in text fields Windows - Project Hosting on Google Code</title>   1. Go to text field  2. Click Ctrl+arrow      Should be the same as in URL - move one word.       The default now is to move tab around.    <b>Please provide

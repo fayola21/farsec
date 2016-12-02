@@ -1,0 +1,1 @@
+<title>Issue 6348 -   chromium -    Space bar not scrolling - Project Hosting on Google Code</title>   1. load any web page longer than the browser window  2. hit space bar        Browser window should scroll down.      nothing    Please provide

@@ -1,0 +1,1 @@
+remove ugly warnings running tests since upgrading to jetty 7    lets zap these...[ main] log WARN java.lang.ClassNotFoundException: org.eclipse.jetty.jsp.JettyLog   

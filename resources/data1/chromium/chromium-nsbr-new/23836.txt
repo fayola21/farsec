@@ -1,0 +1,1 @@
+<title>Issue 23836 -   chromium -    detached bookmark bar background draws incorrectly for bottom-aligned NTP theme images - Project Hosting on Google Code</title> <pre> On linux  we don't even try to draw it correctly (it's TODOed). On Windows    we try  but get it wrong. </pre>

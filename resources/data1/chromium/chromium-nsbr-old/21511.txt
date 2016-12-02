@@ -1,0 +1,1 @@
+<title>Issue 21511 -   chromium -    Backing store does not appear to use shared memory - Project Hosting on Google Code</title> <pre> In chrome/common/x11_util.cc:DoQuerySharedMemorySupport  there is a call to   XShmQueryVersion that returns a value pixmaps_supported. On our ghardy   machines  false is being returned and shared memory is not being used. </pre>

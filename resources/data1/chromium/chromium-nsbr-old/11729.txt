@@ -1,0 +1,1 @@
+<title>Issue 11729 -   chromium -    No progress bar on tasbar Chrome icon while downloading in Windows 7 - Project Hosting on Google Code</title>   1. Open Google Chrome  2. Start downloading big file        Show download progress bar on Chrome icon in taskbar like this in IE 8.        There is no progress bar on Chrome icon in taskbar.    <b>Please provide

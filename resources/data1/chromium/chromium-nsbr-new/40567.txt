@@ -1,0 +1,1 @@
+<title>Issue 40567 -   chromium -    ' not recognized as part of word - Project Hosting on Google Code</title>   1. Set language to Dutch  2. enter scene's in text field  3. if NO red underline  spelling engine is wrong      scene's should be detected as wrong  because ' is a word char.      scene's is accepted.      <b>Please provide

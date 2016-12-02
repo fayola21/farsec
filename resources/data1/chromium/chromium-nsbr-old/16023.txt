@@ -1,0 +1,1 @@
+<title>Issue 16023 -   chromium -    Support machines without audio devices - Project Hosting on Google Code</title> <pre> Our HTML5 audio/video implementation should work flawlessly on machines that   lack audio devices.    I currently have no idea what our actual behaviour is  but it can't be good. </pre>

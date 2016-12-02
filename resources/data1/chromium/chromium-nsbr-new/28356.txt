@@ -1,0 +1,1 @@
+<title>Issue 28356 -   chromium -    Add security documentation to extension_api.json - Project Hosting on Google Code</title> <pre> In particular  remember to sanitize schemes for chrome.tabs.create. </pre>

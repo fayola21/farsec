@@ -1,0 +1,1 @@
+<title>Issue 10803 -   chromium -    Hookup alt-d on Linux. - Project Hosting on Google Code</title> <pre> Should act like ctrl-l and focus the location bar.  Works in Firefox Linux  and Chrome Windows. </pre>

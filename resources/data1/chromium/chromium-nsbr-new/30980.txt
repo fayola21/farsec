@@ -1,0 +1,1 @@
+<title>Issue 30980 -   chromium -    [V8] NodeList should support call as function to match Safari's behavior. - Project Hosting on Google Code</title>   1. run the attached test case  2. look the results in debug console.      Chrome should pass the test case like Safari.      Chrome didn't pass the test case.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1138 -   chromium -    omnibox doesn't show favicons for suggestions - Project Hosting on Google Code</title> <pre> Product Version: 0.2.149.27 (1583)    </pre>

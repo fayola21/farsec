@@ -1,0 +1,1 @@
+Change IValidationError API to work with java.io.Serializable as other methods (info  error  success  ...) in Component and Session    Since a while o.a.w.Component's and o.a.w.Session #info()  #error()  #success()  etc. methods accept java.io.Serializable.With this ticket I suggest a change that will make o.a.w.validation.IValidationError in sync with this.   

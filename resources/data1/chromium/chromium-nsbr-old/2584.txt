@@ -1,0 +1,1 @@
+<title>Issue 2584 -   chromium -    Cut-and-paste an an uploaded image withing a blogger post in compose mode - Project Hosting on Google Code</title>   1. When I compose a new blog post  right clicking on an already uploaded   picture  wont let me 'cut' it and 'paste' it somewhere else within the post                    Please provide

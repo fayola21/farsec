@@ -1,0 +1,1 @@
+<title>Issue 29956 -   chromium -    Feature request: vi-style keybindings - Project Hosting on Google Code</title> <pre> Optional key-bindings which enable such actions as scrolling with hjkl    select url bar with o  and other ex/vi editor commands. </pre>

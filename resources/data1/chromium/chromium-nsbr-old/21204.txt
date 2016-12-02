@@ -1,0 +1,1 @@
+<title>Issue 21204 -   chromium -    Facebook chating crashes the tab - Project Hosting on Google Code</title>   1.when u receive a chat message in facebook   2.the tab crashes and the sad face comes up  3.refresh the tab and the chat popup appears correctly      the chat popup appears      tab crashes and sad face comes up    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20489 -   chromium -    Lenovo active system protection causes hang opening new tab - Project Hosting on Google Code</title>   1.Open a new tab or open a new site in a new tab          That the tab/site opens      Chrome freezes in 1-2 seconds  can't change between tabs  can't open new   tabs can't use the UI.    <b>Please provide

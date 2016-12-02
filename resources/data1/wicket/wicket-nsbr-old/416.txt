@@ -1,0 +1,1 @@
+Handle / servlet mapping or fail consistenly    See WICKET-395We should either handle the / mapping  or if it's too difficult  throw an exception in WicketFilter when / is met in web.xml.   

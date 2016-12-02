@@ -1,0 +1,1 @@
+<title>Issue 15290 -   chromium -    Drag and drop of URL causes crash - Project Hosting on Google Code</title>   1. Drag file from Desktop or bookmark from Firefox to Google chrome on   taskbar until Chrome is in foreground  2. Drag to tab bar on top; a white arrow will appear  3. Drop      File/bookmark is opened      Crash    <b>Please provide

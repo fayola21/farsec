@@ -1,0 +1,1 @@
+<title>Issue 31947 -   chromium -    chrome.tabs.executeScript doesn't work with file scheme - Project Hosting on Google Code</title>   1. try to execute some javascript in a local file (scheme: file:///*) using   chrome.tabs.executeScript.          The script should be executed.      Nothing happens.    <b>Please provide

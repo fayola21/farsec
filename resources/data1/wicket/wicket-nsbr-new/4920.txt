@@ -1,0 +1,1 @@
+Rendered Url on root context with cookies disabled might result in double slash //    When a link is rendered on root context with cookies disabled (or on first access with container sending jsessionid)  a rendered link url might be prepended with './' thus resulting in a double slash  ('.//').   

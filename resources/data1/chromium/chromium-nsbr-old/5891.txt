@@ -1,0 +1,1 @@
+<title>Issue 5891 -   chromium -    Background color is not painted for the whole page - Project Hosting on Google Code</title>   1. Just give a color value to Body background with CSS           It should whole body fill up color.. But it shouldn't.           Please provide

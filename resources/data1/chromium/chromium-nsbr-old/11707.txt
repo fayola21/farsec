@@ -1,0 +1,1 @@
+<title>Issue 11707 -   chromium -    Sugerencia - Project Hosting on Google Code</title>   1.El problema es que el navegador al descargar por ejemplo un archivo   comprimido en rar  no permite la opci��__n de abrir el archivo sin guardarlo   en el disco duro de la pc. Ser��__a bueno que se agregue esa opci��__n.                    <b>Please provide

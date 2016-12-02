@@ -1,0 +1,1 @@
+<title>Issue 15521 -   chromium -    Google text on top of minimize buttons. - Project Hosting on Google Code</title>   1. Go to any website  2. Right click and open with new window on any link  3. Observe the minimize buttons in top right corner      Google text is to left of minimize buttons      Google text Appears over minimize buttons    <b>Please provide

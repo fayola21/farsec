@@ -1,0 +1,1 @@
+Select doesn't validate 'Required'    The Select-Component doesn't validate 'Required' if current user-selection points to an empty value in drop-down-mode.   

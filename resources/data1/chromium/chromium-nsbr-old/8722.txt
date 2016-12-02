@@ -1,0 +1,1 @@
+<title>Issue 8722 -   chromium -    Suggestion - Project Hosting on Google Code</title> <pre> Chrome Version       :1015448  Sorry! couldn't find a place to make suggestions.  But we need a 'Cancel' button on the Options page.  Chrome is fantastic!     </pre>

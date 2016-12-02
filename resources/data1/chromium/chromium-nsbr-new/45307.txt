@@ -1,0 +1,1 @@
+<title>Issue 45307 -   chromium -    Resizing bug - Project Hosting on Google Code</title>   1. Resizing the width of the Chrome window do a very low value the three control buttons   on the top-right go outside the window's edge.                    <b>Please provide

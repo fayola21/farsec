@@ -1,0 +1,1 @@
+<title>Issue 39748 -   chromium -    Chrome Incognito mode has the persistent pinned tabs when it shouldn't  - Project Hosting on Google Code</title>   1. Pin some tabs and close the browser  2. Open the incognito mode  3. notice that the pinned tabs are there        Pinned tabs shouldn't be there        They are there    <b>Please provide

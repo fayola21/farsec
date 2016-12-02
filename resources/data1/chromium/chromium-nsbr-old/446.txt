@@ -1,0 +1,1 @@
+<title>Issue 446 -   chromium -    Double click top bar opens new tab - Project Hosting on Google Code</title>   1. Double click on the area right of the last tab.        A new tab should open.      Chrome changes between maximized and windowed state.    Please provide

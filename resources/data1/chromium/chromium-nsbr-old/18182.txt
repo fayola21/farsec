@@ -1,0 +1,1 @@
+<title>Issue 18182 -   chromium -    poster flickers briefly - Project Hosting on Google Code</title>   1. play &lt;video&gt; with poster    What is the expected result?  poster should appear until movie starts    What happens instead?  the poster image doesn't stay loaded when loading the page - it only  flickers briefly    Please provide

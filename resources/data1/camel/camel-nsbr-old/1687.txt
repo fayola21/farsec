@@ -1,0 +1,1 @@
+CAMEL-HTTP should copy system proxy settings    By standard  Java uses some properties for configuring proxies. Details are on http://java.sun.com/javase/6/docs/technotes/guides/net/proxies.html but in short the properties http.proxyHost and http.proxyPort are used for setting a global HTTP proxy.CAMEL-HTTP doesn't reuse this. I guess many would expect it to.   

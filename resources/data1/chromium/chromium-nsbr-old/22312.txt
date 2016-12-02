@@ -1,0 +1,1 @@
+<title>Issue 22312 -   chromium -    import failed error message when running rpm thru command-line in Fedora - Project Hosting on Google Code</title>   1. install Chrome using the rpm       no error result      I get an error saying import failed      <b>Please provide

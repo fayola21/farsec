@@ -1,0 +1,1 @@
+<title>Issue 15348 -   chromium -    Add the ability to specify support links etc. in the manifest - Project Hosting on Google Code</title> <pre> Add the ability to specify links in the manifest:  - Settings page  - Developer homepage  - Developer support page    These will be displayed at chrome://extensions. </pre>

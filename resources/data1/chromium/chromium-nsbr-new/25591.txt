@@ -1,0 +1,1 @@
+<title>Issue 25591 -   chromium -    New version of Google Reader crashes Chrome - Project Hosting on Google Code</title>   1. Open Chrome  2. To to Google Reader at above URL  3. Click any link to read any feed      Feed will open normally        Chrome crashes  closes      <b>Please provide

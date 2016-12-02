@@ -1,0 +1,1 @@
+<title>Issue 7795 -   chromium -    Google Docs not compatible with Chrome  - Project Hosting on Google Code</title>   1. Go to Google Docs spreadsheet  2. Type in data or try to scroll between cells using keyboard  3. This doesn't happen 100% of the time                Please provide

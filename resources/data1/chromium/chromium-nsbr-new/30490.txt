@@ -1,0 +1,1 @@
+<title>Issue 30490 -   chromium -    Need bookmark sync UI in bookmark manager (OS X) - Project Hosting on Google Code</title> <pre> Need bookmark sync UI in bookmark manager (OS X).  Of course  this has to   wait until bookmark manager gets implemented.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25224 -   chromium -    rear channels may be wrong and introduce noise - Project Hosting on Google Code</title> <pre> The rear channels cause audio to clip and have limited value to folding.  The folding code should ignore them.    This will also help with future multichannel formats  since it is less   sensitive to channel order. </pre>

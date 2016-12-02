@@ -1,0 +1,1 @@
+<title>Issue 34627 -   chromium -    Consider converting BalloonViewMac to a nib instead of manual UI creation - Project Hosting on Google Code</title> <pre> The initial port of notifications from windows/linux to mac uses hand-coded  UI.  We should consider using a nib instead. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41278 -   chromium -    Integrate geolocation with extensions - Project Hosting on Google Code</title> <pre> Make sure to get this working for both live and packaged URLs. </pre>

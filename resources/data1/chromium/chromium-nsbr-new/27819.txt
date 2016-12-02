@@ -1,0 +1,1 @@
+<title>Issue 27819 -   chromium -    Mac: textarea resize does not work (manually or via javascript) - Project Hosting on Google Code</title>   1. On a text area  try to grab and pull resize graphic    -OR-    1. Go to gmail.com  2. Compose a message  3. Write message text  that flows beyond the size of the textarea      textarea will resize      nothing    <b>Please provide

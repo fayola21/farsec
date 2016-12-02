@@ -1,0 +1,1 @@
+<title>Issue 1850 -   chromium -    navigator.cookieEnabled == true when cookies == block all - Project Hosting on Google Code</title>   1. add in javascript &quot;alert(navigator.cookieEnabled);&quot; to a html file  2. turn off cookies in chrome  3. load the page and the alert will say 'true'      alert should contain false      alerts true    Please provide

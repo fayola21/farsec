@@ -1,0 +1,1 @@
+<title>Issue 18513 -   chromium -    git cl upload to set the svn base url when there is one. - Project Hosting on Google Code</title> <pre> git-cl upload should parse the `git svn info .` and upload the svn base url.    This is really a &quot;I should just do it myself&quot; kind of FR  sorry. :) </pre>

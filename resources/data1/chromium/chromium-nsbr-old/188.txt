@@ -1,0 +1,1 @@
+<title>Issue 188 -   chromium -    UI: tab overflow - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27             Safari 3: OK      Firefox 3: OK           IE 7: OK      1.Adding many tabs.       Scrollable tabs.      Add tab button disappears after a certain number of tabs and the tabs do   not scroll.     </pre>

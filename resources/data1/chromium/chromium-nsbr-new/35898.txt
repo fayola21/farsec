@@ -1,0 +1,1 @@
+<title>Issue 35898 -   chromium -    problems using tables in Goggle Docs - Project Hosting on Google Code</title>   1.open a new Google document  insert a table  2.try to mark column        a column will be marked  and you will be able to perform operations on this   table  such as  delete it  change its size  etc...      Chrome marks it as common text    <b>Please provide

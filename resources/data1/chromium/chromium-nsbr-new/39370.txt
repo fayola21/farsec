@@ -1,0 +1,1 @@
+<title>Issue 39370 -   chromium -    AppCache Progress Events - need to include additional info per the spec - Project Hosting on Google Code</title> <pre> We're not setting the event attributes that tell you how much is done of how   much needs to be done. Actually this requires webkit changes too. </pre>

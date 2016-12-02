@@ -1,0 +1,1 @@
+<title>Issue 9178 -   chromium -    Wishlist: User Agent Switcher - Project Hosting on Google Code</title> <pre> Can someone create a user agent switcher for chrome? </pre>

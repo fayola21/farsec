@@ -1,0 +1,1 @@
+<title>Issue 1865 -   chromium -    Tabs dispositioned - Project Hosting on Google Code</title>   1. Open many tabs  2. Notice the way they are positioned        The tabs shouldn't go that far to the right.      They render above the minimize  maximize and exit application buttons.    Please provide

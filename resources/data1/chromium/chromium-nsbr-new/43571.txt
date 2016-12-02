@@ -1,0 +1,1 @@
+<title>Issue 43571 -   chromium -    Quicktime is not recognized - Project Hosting on Google Code</title>   1. set up quicktime  2. goto apple.com/trailers and chose a trailer  3. chorome will tell you quicktime is not installed (which is not true)                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 10541 -   chromium -    [Greasemonkey] GM_setValue/GM_getValue does not work. - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.173.1      Firefox 3.x: Ok      1. Create userscript with GM_setValue('name'  'value')      Normal work.      Uncaught ReferenceError: localStorage is not defined.   </pre>

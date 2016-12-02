@@ -1,0 +1,1 @@
+<title>Issue 16488 -   chromium -    NNTP: NNTP never finshes loading after downloads. - Project Hosting on Google Code</title> <pre> ToT.    -Download a exe file  -Refresh a NNTP.    Notice  the page never finishes loading. It keeps on loading the page - you   can notice hourly-glass mouse cursor.   </pre>

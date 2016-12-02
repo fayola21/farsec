@@ -1,0 +1,1 @@
+<title>Issue 35999 -   chromium -    Problems with a document with pdf extension - Project Hosting on Google Code</title> <pre> not a security problem or maybe it is  but is very annoying that every   time you want to view a document with extension. pdf download this first   and then see it  should stop viewing or simply avoid such disturbance   </pre>

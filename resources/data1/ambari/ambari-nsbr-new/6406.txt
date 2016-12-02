@@ -1,0 +1,1 @@
+Move Wizard: assign master step next button is not disabled  when host input has error    When Move Wizard is running on cluster with a large number of hosts  assign master step has input to enter hostname instead of select dropdown. If this dropdown is empty  it shows an error. But if in the same time target host was selected correctly the next button is enabled.   

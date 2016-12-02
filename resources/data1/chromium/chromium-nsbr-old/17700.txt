@@ -1,0 +1,1 @@
+<title>Issue 17700 -   chromium -    Chrome not recogninz Java under Win 7 - Project Hosting on Google Code</title>   1. Any site using JAVA  2. Althoug I've Java installed (v. 6-14)  Chrome didn't recognize Java   installation and ask me to install Java.   3. I'm in Windows 7. Installed in a new HD      Java should run...            <b>Please provide

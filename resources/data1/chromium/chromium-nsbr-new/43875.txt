@@ -1,0 +1,1 @@
+<title>Issue 43875 -   chromium -    Pressing Enter in webform opens new window - Project Hosting on Google Code</title>   1. Go to URL  2. Fill out login information in webform  3. Press Enter        Login (as if clicking Sign In) and redirect to mailbox        URL to login to Gmail opens in a new window    <b>Please provide

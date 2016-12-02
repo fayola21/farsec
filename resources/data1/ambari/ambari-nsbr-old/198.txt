@@ -1,0 +1,1 @@
+Dependency of templeton on hcat client    hcat client should be installed at the templeton server node.   

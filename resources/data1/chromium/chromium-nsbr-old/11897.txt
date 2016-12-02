@@ -1,0 +1,1 @@
+<title>Issue 11897 -   chromium -    REGRESSION: Spellchecker marks contractions as misspelled - Project Hosting on Google Code</title> <pre> Type &quot;isn't&quot; into a textarea and notice that &quot;isn&quot; gets a red underline. </pre>

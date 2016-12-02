@@ -1,0 +1,1 @@
+Recipient List cannot vary destination by changing property in an expression    This is probably due to producers being cached based on unresolved endpoint URI  rather than the resolved endpoint URI. Haven't tested this theory out though.See message on user list http://markmail.org/message/sdysp6sspq5lomf4   

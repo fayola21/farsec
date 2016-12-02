@@ -1,0 +1,1 @@
+<title>Issue 3009 -   chromium -    Image unit tests report &quot;RenderPartObject&quot; instead of &quot;RenderImage&quot; - Project Hosting on Google Code</title> <pre> This affects the following layout tests:      LayoutTests/fast/images/embed-image.html    LayoutTests/fast/images/object-image.html   </pre>

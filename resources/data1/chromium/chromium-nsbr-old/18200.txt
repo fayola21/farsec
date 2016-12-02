@@ -1,0 +1,1 @@
+<title>Issue 18200 -   chromium -    ~ should be considered a path character on Linux - Project Hosting on Google Code</title> <pre> If I type ~/foo into the omnibox it should become a file URL like how /foo   does.    Maybe on Mac too? </pre>

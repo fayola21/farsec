@@ -1,0 +1,1 @@
+<title>Issue 3827 -   chromium -    Cannot copy from Google Spreadsheet into Excel or OO Calc - Project Hosting on Google Code</title>   1. I'd like to copy from docs to excel document as same  but it could not.        All content had copied only one cell        Please provide

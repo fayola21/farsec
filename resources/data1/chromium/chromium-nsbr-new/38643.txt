@@ -1,0 +1,1 @@
+<title>Issue 38643 -   chromium -    livejournal.com crush it's pages and gmail page too - Project Hosting on Google Code</title>   1. Open the livejournal.com page  2. Then go to friends page  3. Click on the content or any link      Show requested page      Page crushed/ And if Gmail page opened  it's crushed too.    <b>Please provide

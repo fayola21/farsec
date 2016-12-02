@@ -1,0 +1,1 @@
+<title>Issue 19824 -   chromium -    Window fails to close on Command-W - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.202.0    OS version               : 10.5.8            1. Open a new Chrome window  2. Press command-W to close the window  3. The window does not close.      The window should close.      The window stays open.   </pre>

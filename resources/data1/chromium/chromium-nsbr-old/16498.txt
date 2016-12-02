@@ -1,0 +1,1 @@
+<title>Issue 16498 -   chromium -    The Mac popup warning bar likes to draw itself too much - Project Hosting on Google Code</title> <pre>   1. Go to a page that has a popup to block  2. Once the &quot;blocked popup&quot; warning appears  scroll the page  3. Notice that the warning draws all over the page (see attached screen shot).   </pre>

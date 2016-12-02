@@ -1,0 +1,1 @@
+CheckGroupSelector 'Select all' behavior broken when the CheckGroup contains a single check box.    When CheckGroupSelector is used with a CheckGroup that contains a single checkbox  select all behavior is broken. The problem is in CheckGroupSelector.js which assumes &gt;1 checkboxes in a CheckGroup.   

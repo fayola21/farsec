@@ -1,0 +1,1 @@
+<title>Issue 18181 -   chromium -    popup window needs left click application menu - Project Hosting on Google Code</title> <pre> Some clean up left on linux for the custom frame app mode windows:    1) app mode/popup window throbber should spin anti-clockwise when waiting   for the site to respond  2) the icon needs a left click menu </pre>

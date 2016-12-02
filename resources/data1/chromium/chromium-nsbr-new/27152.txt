@@ -1,0 +1,1 @@
+<title>Issue 27152 -   chromium -    cannot resize window - Project Hosting on Google Code</title>   1. put chrome into window  instead of maximized          should be able to drag a corner to resize      nothing.    <b>Please provide

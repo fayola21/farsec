@@ -1,0 +1,1 @@
+Ganglia alerts after adding YARN+MR2    STR: Deploy cluster with HDFS+ZK  Nagios  Ganglia. Add YARN+MR2  Tez services.Result: Alerts Ganglia Monitor process for HistoryServer and Ganglia Monitor process for ResourceManager don't dissappear after restarting all services   

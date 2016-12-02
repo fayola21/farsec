@@ -1,0 +1,1 @@
+<title>Issue 1750 -   chromium -    Sort bookmarks alphabetically - Project Hosting on Google Code</title> <pre> Chromium does not have the functionality to sort bookmarks. It's very   cumbersome to manually sort bookmarks/favorites alphabetically. IE has this   this feature. </pre>

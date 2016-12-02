@@ -1,0 +1,1 @@
+RedeliveryPolicy - Setting delay > maxDelay should should also set max value    See nabblehttp://old.nabble.com/maximumRedeliveryDelay-applies-even-if-you-are-not-using-exponential-back-off-to26415728.html   

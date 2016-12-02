@@ -1,0 +1,1 @@
+<title>Issue 25963 -   chromium -    Disabled extensions don't show an icon in the management ui page - Project Hosting on Google Code</title> <pre> I presume we can't ask the extension to give us its png file when the   extension is disabled  but I haven't looked. </pre>

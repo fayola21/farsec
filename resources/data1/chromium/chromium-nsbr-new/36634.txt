@@ -1,0 +1,1 @@
+<title>Issue 36634 -   chromium -    Pin Tab Menu Item Missing - Project Hosting on Google Code</title>   1.Right click on a tab.  2.Notice that there is no longer a &quot;pin tab&quot; option.      To be able to pin the tab.      It doesn't show up in the context menu.    <b>Please provide

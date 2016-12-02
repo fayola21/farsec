@@ -1,0 +1,1 @@
+<title>Issue 17203 -   chromium -    Image map links don't work - Project Hosting on Google Code</title>   1. Image map          The links on the image created by image map should work.      When moving cursor over the link of image map  the mouse cursor does not   turn into a hand cursor and the link is not click-able.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 7342 -   chromium -    Google Docs: unsupported browser in incognito mode - Project Hosting on Google Code</title>   1. Open new window in incognito mode  2. go to Google Docs    No problem if you use non-incognito mode.                Please provide

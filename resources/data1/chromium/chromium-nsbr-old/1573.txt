@@ -1,0 +1,1 @@
+<title>Issue 1573 -   chromium -    Download comes as .download instead of .exe for digsby - Project Hosting on Google Code</title>   1. Go to digsby.com  2. Click Free Download  3. Click Windows logo      The download for digsby_setup.exe should have started.      The file was downloaded as disgby_setup.download    Please provide

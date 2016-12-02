@@ -1,0 +1,1 @@
+Allow to query component markup id without creating one       

@@ -1,0 +1,1 @@
+<title>Issue 26861 -   chromium -    dropdown list show up as blank - Project Hosting on Google Code</title>   1. Login to gmail.com and logout (if autofill hasn't save the form)  2. Start typing into the login box to see the suggestions         Suggestions should show up      Suggestions are blank. White space showing    <b>Please provide

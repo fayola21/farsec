@@ -1,0 +1,1 @@
+<title>Issue 31475 -   chromium -    Disk cache is not limited - Project Hosting on Google Code</title> <pre> Chrome's cache is filling up available disk space.    If I go to chrome://net-internals/httpcache.stats   I see:  Max size: 83886080  Current size: 562531090    The max size is reasonable for a small partition  but it isn't respected. </pre>

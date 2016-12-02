@@ -1,0 +1,1 @@
+<title>Issue 13008 -   chromium -    Tab focus not returning to last focused tab  - Project Hosting on Google Code</title>   1. open several tabs  2. navigate though them randomly  3. close current tab      Focus returning to last focused tab.      If last focused tab isn't next to closed tab  focus will go to next tab    instead of last focused.     <b>Please provide

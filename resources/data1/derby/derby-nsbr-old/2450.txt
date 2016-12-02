@@ -1,0 +1,1 @@
+Clob.Position returning wrong value when operating on Reader       

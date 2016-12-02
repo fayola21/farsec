@@ -1,0 +1,1 @@
+<title>Issue 33865 -   chromium -    alt + e access key overridden by chrome - Project Hosting on Google Code</title>   1.Login to game  2.press alt + e to create a western movement  3.address bar is selected  access key never registered                <b>Please provide

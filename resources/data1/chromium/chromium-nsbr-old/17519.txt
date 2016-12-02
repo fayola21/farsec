@@ -1,0 +1,1 @@
+<title>Issue 17519 -   chromium -    Tab views not immediately re-themed on theme change - Project Hosting on Google Code</title> <pre>   1. Open a theme        The whole browser should adapt to the new theme look immediately.        The tabs change their theme only after changing tabs. </pre>

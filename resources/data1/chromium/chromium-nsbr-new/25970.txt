@@ -1,0 +1,1 @@
+<title>Issue 25970 -   chromium -    http://software.opensuse.org/search doesn't display properly in Chrome - Project Hosting on Google Code</title> <pre> I poked around in the web inspector but didn't see anything obvious. </pre>

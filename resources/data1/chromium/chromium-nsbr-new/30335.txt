@@ -1,0 +1,1 @@
+<title>Issue 30335 -   chromium -    Gmail timeout when using certain extensions - Project Hosting on Google Code</title>   1. Open gmail.com &amp; log in  2. Click on an inbox item        email will open        Email extremely slow to open  causing internet timeout window. Email opens   after this window is closed.    <b>Please provide

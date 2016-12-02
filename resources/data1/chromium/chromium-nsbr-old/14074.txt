@@ -1,0 +1,1 @@
+<title>Issue 14074 -   chromium -    svg won't autoresize - Project Hosting on Google Code</title>   1. Open the image link above     a. Try to zoom the image in or out     b. Try to scroll      To can do these things      You can't scroll or zoom    <b>Please provide

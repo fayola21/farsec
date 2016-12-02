@@ -1,0 +1,1 @@
+<title>Issue 38626 -   chromium -    Geolocation: Add to Under the hood -&gt; ResetToDefaults - Project Hosting on Google Code</title> <pre>   Selecting Reset To Defaults should reset the geolocation prefs too  Need to add a line to OptionsUtil::ResetToDefaults  and tests   </pre>

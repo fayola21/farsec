@@ -1,0 +1,1 @@
+<title>Issue 18757 -   chromium -    Github appears corrupt - Project Hosting on Google Code</title>   1. Visit the URL.  2. Look at the list of projects.  3. Engage brain.      The right-hand side of each project should be visible.      The right-hand side is clipped.    <b>Please provide

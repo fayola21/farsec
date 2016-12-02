@@ -1,0 +1,1 @@
+<title>Issue 11990 -   chromium -    Long Tooltips Flicker - Project Hosting on Google Code</title>   1.  Hover mouse over a link with a very long title (shown as tooltip)  2.  Tooltip is shown/hidden/shown/hidden... quickly redrawn over and over   producing a flickering effect.  3.  Doesn't happen with short tooltips.      <b>Please provide

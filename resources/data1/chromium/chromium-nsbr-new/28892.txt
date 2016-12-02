@@ -1,0 +1,1 @@
+<title>Issue 28892 -   chromium -    Pause functionality is broken - Project Hosting on Google Code</title> <pre>   1. Navigate to the attached page.  2. Open DevTools.  3. Click 'Test' button.  4. Click 'Pause' in Scripts panel.    What is the expected output?  Script execution is paused.    What do you see instead?  Scripts contrinues running.   </pre>

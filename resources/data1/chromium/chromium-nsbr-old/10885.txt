@@ -1,0 +1,1 @@
+<title>Issue 10885 -   chromium -    compile to visual c++ express - Project Hosting on Google Code</title> <pre> can someone fix the errors in the attach file so it compiling is easy </pre>

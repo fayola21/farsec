@@ -1,0 +1,1 @@
+<title>Issue 38129 -   chromium -    Theora video crashes tab after seek - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.3 dev  URLs (if applicable) :<a href="http://en.wikipedia.org/wiki/Theora">http://en.wikipedia.org/wiki/Theora</a>      1. play the video on the page  2. seek in the video      Seek works      Tab crashes   </pre>

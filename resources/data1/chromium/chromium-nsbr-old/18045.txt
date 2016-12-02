@@ -1,0 +1,1 @@
+<title>Issue 18045 -   chromium -    right clicking a link and clicking open in new tab is automatically causing browser to show new tab instead of keeping current tab open. - Project Hosting on Google Code</title>   1. just a simple right click on any link and hitting open in new tab                    <b>Please provide

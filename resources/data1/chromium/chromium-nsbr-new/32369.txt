@@ -1,0 +1,1 @@
+<title>Issue 32369 -   chromium -    Implement positioning option for Desktop Notifications - Project Hosting on Google Code</title> <pre> Any chance do add this option for Desktop Notifications?    Something like this:    var dn = webkitNotifications.createNotification(..);      dn.setPosition('bl'); // tl tr bl br      dn.show(); </pre>

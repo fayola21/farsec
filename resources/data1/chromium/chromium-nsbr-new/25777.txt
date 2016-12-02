@@ -1,0 +1,1 @@
+<title>Issue 25777 -   chromium -    check box and radio button not appear - Project Hosting on Google Code</title>   1.go to gmail.com  2.login to your accout  3.you won't see the check boxes with the emails.      It suppose to show the check boxes.      It doesn't show any check boxes.    <b>Please provide

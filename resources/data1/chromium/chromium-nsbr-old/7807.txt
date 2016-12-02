@@ -1,0 +1,1 @@
+<title>Issue 7807 -   chromium -    Windows shell integration; drag-and-drop - Project Hosting on Google Code</title>   1. Go to any site with images  e.g. google.com  2. Right-click on an image and select 'show image'  3. Try to drag to a folder or Desktop      File is saved into the folder that it's dragged into.      Nothing.    Please provide

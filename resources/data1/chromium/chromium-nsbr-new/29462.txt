@@ -1,0 +1,1 @@
+<title>Issue 29462 -   chromium -    Crash when login sheet goes away while event-tracking. - Project Hosting on Google Code</title> <pre> 1. Arrange to browse to the attached test.html.  2. Click and hold mouse w/in the Cancel button.  3. Release mouse when the dialog goes away.    The browser crashes sending the cancel message.  Also works for Login button. </pre>

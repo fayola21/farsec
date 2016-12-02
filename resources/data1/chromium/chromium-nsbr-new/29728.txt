@@ -1,0 +1,1 @@
+<title>Issue 29728 -   chromium -    No name for current tab on 4.0.249.30 - Project Hosting on Google Code</title>   1. Open some tabs        Seeing the name of the page displayed on the current tab        The place where the name of the current tab should be written is blank.   (Icon of the page is normally displayed)      <b>Please provide

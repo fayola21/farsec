@@ -1,0 +1,1 @@
+<title>Issue 37191 -   chromium -    Nightly Build CRC Errors - Project Hosting on Google Code</title>   1. Unzipped the archive          Unzipped full archive      CRC errors on the following files:  av-codec52.dll  chrome.dll  gears.dll  icudt52.dll  de.dll  en-GB.dll  fr.dll  DevTools.js  npchrome_frame.dll    <b>Please provide

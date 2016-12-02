@@ -1,0 +1,1 @@
+<title>Issue 17393 -   chromium -    Delete key doesn't delete a bookmark in bookmark manager - Project Hosting on Google Code</title>   1. Have a few bookmarks  2. Select a bookmark   3. Press the Delete key      bookmark is deleted      nothing.    <b>Please provide

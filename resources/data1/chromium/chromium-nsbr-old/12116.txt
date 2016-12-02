@@ -1,0 +1,1 @@
+<title>Issue 12116 -   chromium -    Implement extension install UI - Project Hosting on Google Code</title> <pre> Nick and Glen have been working on mocks. This task includes showing any   permission UI  depending on what the final mocks look like. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13290 -   chromium -    User scripts not working - Project Hosting on Google Code</title>   1. Download .user.js files into the &quot;User Scripts&quot; folder in the Chromium   profile folder.  2. Run Chromium with the --enable-user-scripts command switch.      User scripts are activated.      User scripts have no effect.    <b>Please provide

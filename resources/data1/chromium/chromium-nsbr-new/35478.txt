@@ -1,0 +1,1 @@
+<title>Issue 35478 -   chromium -    Use the google translate icon  in the translation infobar - Project Hosting on Google Code</title> <pre> For official chrome builds  we should use the google translate icon rather   than the one with the blue background--we can use the current icon for   chromium builds   </pre>

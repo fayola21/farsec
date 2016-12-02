@@ -1,0 +1,1 @@
+<title>Issue 1062 -   chromium -    Middle-click to close tabs activates even if mouse-up is not over tab - Project Hosting on Google Code</title>   1. Middle click and maintain the click on a tab.  2. Move the mouse cursor out of the tab.  3. Release the middle click.      The tabulation should not be closed.        The tabulation is closed.    Please provide

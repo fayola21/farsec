@@ -1,0 +1,1 @@
+<title>Issue 19440 -   chromium -    google-chrome wrapper's LD_LIBRARY_PATH breaks Flash - Project Hosting on Google Code</title>   1. Make sure Flash is installed  and make a link to it in   /opt/google/chrome/plugins  2. Launch google-chrome --enable-plugins  3. Go to about:plugins      Flash shows up      Flash doesn't show up    <b>Please provide

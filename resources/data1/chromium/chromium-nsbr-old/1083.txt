@@ -1,0 +1,1 @@
+<title>Issue 1083 -   chromium -    Fonts not getting displayed - Project Hosting on Google Code</title>   1. Go to the website given.  2. Install the plugins  3. Restart the browswer      The fonts should be displayed correctly      Fonts are not displayed properly    Please provide

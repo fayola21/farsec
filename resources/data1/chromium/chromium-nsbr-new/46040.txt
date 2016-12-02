@@ -1,0 +1,1 @@
+<title>Issue 46040 -   chromium -    SafeBrowsingDatabase tests crash on Mac - Project Hosting on Google Code</title> <pre> All of the SafeBrowsingDatabase tests hit this CHECK:    FATAL:/b/slave/mac/build/src/chrome/browser/safe_browsing/safe_browsing_database_unittest.cc(1053)] Check failed: metric-&gt;GetIOCounters(&amp;before).  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13238 -   chromium -    Keydown blocked by mousedown (latest webkit ???) - Project Hosting on Google Code</title>   1. Drag &quot;drag me!&quot;  2. Press a key        border drawn on dragged element  keypress event from document fired       nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13640 -   chromium -    Graphical corruption when scrolling with find widget open - Project Hosting on Google Code</title>   1. Press Cmd+F to open the find widget.  2. Scroll.      The page displays normally while the find widget remains at the top right   of the window.      The area around the find widget shows corruption.    <b>Please provide

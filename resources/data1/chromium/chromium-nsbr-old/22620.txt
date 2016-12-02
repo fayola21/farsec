@@ -1,0 +1,1 @@
+<title>Issue 22620 -   chromium -    Backspace/right arrow wrong behaviour - Project Hosting on Google Code</title>   1.Any textarea try using backspace/right arrow key to clear text.        Should keep deleting characters until key is in pressed mode.      Deletes only one character per press.    <b>Please provide

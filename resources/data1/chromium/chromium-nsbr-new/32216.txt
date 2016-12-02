@@ -1,0 +1,1 @@
+<title>Issue 32216 -   chromium -    'Esc' to close HTML dialogs doesn't work on OS X - Project Hosting on Google Code</title> <pre>   1. Run the sync setup wizard  2. Hit 'Esc'        Sync setup wizard should close.    implementing (void)cancel:(id)sender should suffice  but it doesn't. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36315 -   chromium -    [GPU] Channel between renderer processes and GPU process - Project Hosting on Google Code</title> <pre> Allow renderer processes to establish a connection to the new non-plugin   based GPU process by copying the design already used for plugin processes.   Allow command buffers to be created using the channel. Needed for WebGL. </pre>

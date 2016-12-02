@@ -1,0 +1,1 @@
+<title>Issue 23105 -   chromium -    Scary download UI for extensions needs polish (mac) - Project Hosting on Google Code</title> <pre> The text is weird for extension install. It should be: Extensions can harm   your computer. Are you sure you want to continue? [Continue] [Discard]. </pre>

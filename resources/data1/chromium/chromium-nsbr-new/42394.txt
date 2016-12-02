@@ -1,0 +1,1 @@
+<title>Issue 42394 -   chromium -    Unable to select in a drop down list - Project Hosting on Google Code</title>   1. Use TAB key to focus on the Template drop down control.  2. Press Down Arrow (on keyboard)      The selected item/row is changed 1 step down.      Nothing  or the entire web page is scrolled.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21712 -   chromium -    Flash animation misdisplayes - Project Hosting on Google Code</title>   1. Go to <a href="http://www.cashedge.com">http://www.cashedge.com</a>      Display properly      Unexpected horizontal lines display on the flash animation  and when the   words appear  they are on top of each other.    <b>Please provide

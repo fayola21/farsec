@@ -1,0 +1,1 @@
+<title>Issue 44140 -   chromium -    document.title changes not reflected in history view - Project Hosting on Google Code</title>   1. Navigate to attached file.  2. Open history view (Ctrl-h  chrome:///history  etc.).      Title of the recently visited page is &quot;updated title&quot;.      Title of the recently visited page is &quot;old title&quot;.    <b>Please provide

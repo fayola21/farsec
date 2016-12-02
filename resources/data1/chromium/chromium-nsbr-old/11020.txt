@@ -1,0 +1,1 @@
+<title>Issue 11020 -   chromium -    crash when changing language of the spell checker - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.8 (Build officiel 14017)    Chrome crashes when changing the language of the spell checker. And when I   say crash  I mean crash all instances (windows) of chrome :x  </pre>

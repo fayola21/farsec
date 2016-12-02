@@ -1,0 +1,1 @@
+<title>Issue 1450 -   chromium -    Behaves badly with Roundcube webmail interface - Project Hosting on Google Code</title>   1. Open any mail folder in Roundcube      All columns fit on the screen      Subject column can push others far off the screen to the right if a subject   is very long (other browsers truncate the subject  it appears)    Please provide

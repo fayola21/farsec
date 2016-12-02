@@ -1,0 +1,1 @@
+<title>Issue 21270 -   chromium -    --show-extensions-on-top: dynamic resizing doesn't work  - Project Hosting on Google Code</title> <pre> Use the buildbot or resizer extensions and get them to resize dynamically   (hover on buildbot  click on resizer).  Notice that the bookmarks don't move   properly to make room for the resizing. </pre>

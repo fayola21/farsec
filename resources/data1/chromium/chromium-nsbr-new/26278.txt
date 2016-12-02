@@ -1,0 +1,1 @@
+<title>Issue 26278 -   chromium -    FRAME does not support appendChild - Project Hosting on Google Code</title>   1. append a FRAME to the DOM  2. attempt to appendChild to the FRAME with a DOM node        The node should become part of the frame's document.        Nothing    <b>Please provide

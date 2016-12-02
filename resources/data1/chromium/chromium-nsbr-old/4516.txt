@@ -1,0 +1,1 @@
+<title>Issue 4516 -   chromium -    view-source showing page not source - Project Hosting on Google Code</title>   1. open web-page  2. view-source  3. refresh (pressing f5) for 1-4 seconds.      view source      page is rendered    Please provide

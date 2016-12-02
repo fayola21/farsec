@@ -1,0 +1,1 @@
+<title>Issue 22230 -   chromium -    Duplicated  unclickable menu items in YSoft's SafeQ - Project Hosting on Google Code</title>   1. I open our company's SafeQ server's homepage. (I attached the   problematic files)      Seeing the page normally.      Menu items on the left are duplicated  don't work.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 28563 -   chromium -    DevTools: Gather stats for Inspect Element action. - Project Hosting on Google Code</title> <pre> Otherwise we are getting numbers for shortcut only - not everybody knows it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20327 -   chromium -    Two new NTPs on first run - Project Hosting on Google Code</title> <pre> Might be caused by the splash page  but we should be sure we fix this before   we ship. </pre>

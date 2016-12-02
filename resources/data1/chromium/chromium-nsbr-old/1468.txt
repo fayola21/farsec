@@ -1,0 +1,1 @@
+<title>Issue 1468 -   chromium -    rsdn.ru cannot catch and move frame splitters - Project Hosting on Google Code</title>   1. Open the site  2. Try to catch and move horizontal or vertical frame splitter                  Please provide

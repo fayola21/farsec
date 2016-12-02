@@ -1,0 +1,1 @@
+<title>Issue 31933 -   chromium -    Opening Gmail - Project Hosting on Google Code</title>   1.Set Gmail as homepage on Google chrome  2.try to open Google chrome  3.Says page not available or has moved   I have to retry about 80% of the time I open Chrome.                <b>Please provide

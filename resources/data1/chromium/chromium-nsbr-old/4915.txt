@@ -1,0 +1,1 @@
+<title>Issue 4915 -   chromium -    friendster.com  www.proflowers.com: can't log out. - Project Hosting on Google Code</title>   1. log-in using a friendster account  2. then log-out        it will open the website before you logged-in.      it opens/directs you to the homepage of your friendster account instead of   the friendster website.    Please provide

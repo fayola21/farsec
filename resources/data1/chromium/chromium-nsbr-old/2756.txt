@@ -1,0 +1,1 @@
+<title>Issue 2756 -   chromium -    The background color of select box is wrong is Chrome - Project Hosting on Google Code</title>   1. Go to above URL          The background color of select box &quot;Download Games&quot; should be displayed   light blue color  like other browsers.      The background color is black    Please provide

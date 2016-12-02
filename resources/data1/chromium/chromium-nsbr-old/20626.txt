@@ -1,0 +1,1 @@
+<title>Issue 20626 -   chromium -    throbber paint glitches with pinned tabs - Project Hosting on Google Code</title> <pre>   1.  Pin a tab  2.  load a slow page in the pinned tab (e.g.  a wikipedia article)      I see some graphical glitches to the left of the tab      I bet this is my bug. </pre>

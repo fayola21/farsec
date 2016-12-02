@@ -1,0 +1,1 @@
+<title>Issue 12781 -   chromium -    Font size goes extremely small - Project Hosting on Google Code</title>   1.Let chrome update to 3.0.182.2  2.Open chrome      The UI's font is in normal size      It goes much smaller and can be hardly read.    <b>Please provide

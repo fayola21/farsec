@@ -1,0 +1,1 @@
+<title>Issue 32344 -   chromium -    Unicode character not support on toolbar &amp; bookmark text - Project Hosting on Google Code</title>   1. Unicode character not support on toolbar &amp; bookmark text.          -Add support for Unicode character on toolbar &amp; bookmark text.      ~~~~    Thanks.    <b>Please provide

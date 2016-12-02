@@ -1,0 +1,1 @@
+<title>Issue 34732 -   chromium -    Bug Related To Lan Setting - Project Hosting on Google Code</title> <pre> Firstly I encounter in chrome browser that it cannot use its own proxy  server for LAN.By default it take settings of IE in window OS.We can't  change its setting for only chrome. </pre>

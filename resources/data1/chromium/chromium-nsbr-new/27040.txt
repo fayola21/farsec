@@ -1,0 +1,1 @@
+<title>Issue 27040 -   chromium -    Address bar no longer selects all on click - Project Hosting on Google Code</title>   1. Click on address            Select all        Puts cursor at position of click    <b>Please provide

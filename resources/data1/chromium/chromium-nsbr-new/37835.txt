@@ -1,0 +1,1 @@
+<title>Issue 37835 -   chromium -    Some object elements can't be position:fixed - Project Hosting on Google Code</title>   1. Go to <a href="http://lemon-factory.net/temp/test.html">http://lemon-factory.net/temp/test.html</a>  2. Scroll the document.      All object elements should remain in same position while you scroll.      The flash object moves.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1465 -   chromium -    originalTarget or explicitOriginalTarget on MouseEvent are unsupported - Project Hosting on Google Code</title>   1. use originalTarget or explicitOriginalTarget on MouseEvent          Object      undefined    Please provide

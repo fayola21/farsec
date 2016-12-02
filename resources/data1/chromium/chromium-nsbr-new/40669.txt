@@ -1,0 +1,1 @@
+<title>Issue 40669 -   chromium -    NaCl's npapi_hw test does not report success correctly - Project Hosting on Google Code</title> <pre> Tests that run as part of nacl_ui_tests must report success by setting a   cookie. npapi_hw doesn't do it - marking the test as flaky for now (until   NaCl's revision is updated) </pre>

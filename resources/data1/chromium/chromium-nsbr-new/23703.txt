@@ -1,0 +1,1 @@
+<title>Issue 23703 -   chromium -    REGRESSION: Radio button exclusivity broken - Project Hosting on Google Code</title> <pre>   1. Open options  Personal Stuff  2. Click either of the radio groups.. notice the button toggles on without   toggling off the other in the same group.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15739 -   chromium -    Image not in right positon - Project Hosting on Google Code</title>   1. Go to gayfriends.nl  2. Open a profile  3. The image won't be where it should be      The image should be right below the profile name      The image won't be where it should be    <b>Please provide

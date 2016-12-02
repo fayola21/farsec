@@ -1,0 +1,1 @@
+<title>Issue 11082 -   chromium -    Crashed tabs refuse to downsize - Project Hosting on Google Code</title> <pre> 1) Crash a tab (via about:crash or whatever)  2) Resize your window wider  3) I am now unable to make the window narrower. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33952 -   chromium -    Infinite redirects with long URL can cause browser process OOM. - Project Hosting on Google Code</title> <pre> The following URI hangs Chrome:    data:text/html &lt;script&gt;document.location += document.location +  document.location&lt;/script&gt;    Tested on Linux &amp; Windows (i686) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44741 -   chromium -    no script Not Detected - Project Hosting on Google Code</title>             I came accross 1 bug in chrome  When detecting no script  It will not   detect whether script is found or not?.      It should detect?    <b>Please provide

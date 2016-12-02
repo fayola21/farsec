@@ -1,0 +1,1 @@
+<title>Issue 32376 -   chromium -    cannot open html files? lol? - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.298.0 (36123)        1. open a index.html file from desktop!      the file to be opened      see screenshot! </pre>

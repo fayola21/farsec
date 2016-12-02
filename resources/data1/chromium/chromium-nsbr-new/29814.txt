@@ -1,0 +1,1 @@
+<title>Issue 29814 -   chromium -    Browser action popup on linux with an element height set to 100% continues to expand - Project Hosting on Google Code</title> <pre>   1.Load a browser action popup containing &lt;img height=&quot;100%&quot;&gt;      EXPECTED: Popup starts at maximum size.  ACTUAL: Popup continues to grow in height till it goes offscreen.   </pre>

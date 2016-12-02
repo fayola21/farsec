@@ -1,0 +1,1 @@
+<title>Issue 21174 -   chromium -    REGRESSION: Paths fail to render in SVG with large viewbox - Project Hosting on Google Code</title>   1. Open the attached SVG file (badchrome.svg)      Should see a parallelogram.      Shape is invisible.    <b>Please provide

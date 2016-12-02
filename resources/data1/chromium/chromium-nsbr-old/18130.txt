@@ -1,0 +1,1 @@
+<title>Issue 18130 -   chromium -    Could Not Load Extension Error Message - Project Hosting on Google Code</title>   1. Open Google Chrome  2. Error Pops up in new window.        No error message.      A error message is shown.    <b>Please provide

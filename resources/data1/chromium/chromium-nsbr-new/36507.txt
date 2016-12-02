@@ -1,0 +1,1 @@
+<title>Issue 36507 -   chromium -    Text in mac status bar is blurry - Project Hosting on Google Code</title> <pre> The text in the status appears blurry for me.    This seems to be theme-specific  so I don't know whether the theme is to   blame  or how we apply the tinting.    Attached are some screenshots.    This may be a WontFix  but hopefully someone can take a look. </pre>

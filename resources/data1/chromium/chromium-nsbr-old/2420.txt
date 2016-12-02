@@ -1,0 +1,1 @@
+<title>Issue 2420 -   chromium -    Close  Maximize and minimize buttons dont work correctly - Project Hosting on Google Code</title>   1. Open chrome  2. Maximize chrome  3. Try clicking the close  minimize  maximize buttons      The window should close  minimize or maximize depending on which button has   been clicked      Nothing.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17850 -   chromium -    refactor l10n_util - Project Hosting on Google Code</title> <pre> Some of the functionalities in l10n_util should  be moved under base/ to be   reused. </pre>

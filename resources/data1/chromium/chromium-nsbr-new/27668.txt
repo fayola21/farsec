@@ -1,0 +1,1 @@
+<title>Issue 27668 -   chromium -    Cookie management treeview needs Expand All and Collapse All - Project Hosting on Google Code</title> <pre> The cookie management treeview screen needs two more buttons:    1. &quot;Expand All&quot; - to expand all the entries in the treeview  2. &quot;Collapse All&quot; - to collapse all the entries in the treeview   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1329 -   chromium -    ereader.com link color displays improperly - Project Hosting on Google Code</title>   1. Visit <a href="http://www.ereader.com/ereader/eBooks/eBook41347.htm">http://www.ereader.com/ereader/eBooks/eBook41347.htm</a>      Links on left side of site should be rendered blue.      Links on left side of  site are rendered red.    Please provide

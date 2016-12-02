@@ -1,0 +1,1 @@
+<title>Issue 32456 -   chromium -    Silverlight causes the computer to freeze when watchin Netflix instant movies - Project Hosting on Google Code</title>   Silverlight causes the computer to freeze when watching instant movies on   Netflix. Watch a movie for at lest 30 min. Tested on 2 computers (XP and   Vista)      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17970 -   chromium -    timeupdate event continues firing after video ended - Project Hosting on Google Code</title> <pre> Most likely related to the ended/currenttime work.    When a video/audio plays to the very end the timeupdate event keeps firing   over and over. </pre>

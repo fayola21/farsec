@@ -1,0 +1,1 @@
+<title>Issue 44602 -   chromium -    iceweasel not recognized in about:memory - Project Hosting on Google Code</title>   1. run iceweasel  2. open about:memory        Show iceweasel memory stats      Doesn't show iceweasel memory stats    <b>Please provide

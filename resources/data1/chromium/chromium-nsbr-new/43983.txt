@@ -1,0 +1,1 @@
+<title>Issue 43983 -   chromium -    Crash when trying to go to about: quickly - Project Hosting on Google Code</title>   1. Open a new tab  2. Type about: in the onmibox and pres enter before thumbnails are loaded      Goes to about:version      Chrome crashes    <b>Please provide

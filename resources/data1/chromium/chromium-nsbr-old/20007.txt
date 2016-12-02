@@ -1,0 +1,1 @@
+<title>Issue 20007 -   chromium -    audio video out of sync - Project Hosting on Google Code</title> <pre>   Testing on <a href="/p/chromium/source/detail?r=24044">r24044</a> and play an ogg file  audio and video is out of sync.    Looks like it is because of we shift to triple buffering scheme. </pre>

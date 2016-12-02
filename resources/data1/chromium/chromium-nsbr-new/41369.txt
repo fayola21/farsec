@@ -1,0 +1,1 @@
+<title>Issue 41369 -   chromium -    visual guide to the various integration points for extension - Project Hosting on Google Code</title> <pre> a visual guide to explain the various integration points for extensions  such as browser action    inforbar  context menu etc...   </pre>

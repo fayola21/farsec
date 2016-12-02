@@ -1,0 +1,1 @@
+<title>Issue 45754 -   chromium -    URL in omnibox should fade out at right edge.	 - Project Hosting on Google Code</title> <pre> Mac version of <a title="URL in omnibox should fade out at right edge."  href="/p/chromium/issues/detail?id=45733">issue 45733</a> </pre>

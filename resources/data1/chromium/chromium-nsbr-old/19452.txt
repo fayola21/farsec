@@ -1,0 +1,1 @@
+<title>Issue 19452 -   chromium -    css font size issue - Project Hosting on Google Code</title>   1.visit <a href="http://www.estiah.com/">http://www.estiah.com/</a>          some text's font size in &quot;Auctions in Progress&quot; area should be smaller than   others      the size of &quot;End Time : Medium&quot; is bigger than expected    <b>Please provide

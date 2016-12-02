@@ -1,0 +1,1 @@
+<title>Issue 29991 -   chromium -    &quot;Aw  snap&quot;ped when cleaning Gmail sent box - Project Hosting on Google Code</title>   1. Log in Gmail  2. Go to sent mail box  3. Select All  4. Click Delete  5. Click OK when prompt      Sent mails will be deleted        Aw  snap page showed up instead      <b>Please provide

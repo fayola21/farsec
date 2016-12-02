@@ -1,0 +1,1 @@
+<title>Issue 35178 -   chromium -    [gtk] Implement content settings UI - Project Hosting on Google Code</title> <pre> Copy the content settings windows from the Win32 and re-implement them in   the gtk port. </pre>

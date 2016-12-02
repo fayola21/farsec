@@ -1,0 +1,1 @@
+<title>Issue 22527 -   chromium -    Browser always creates unnecessary folder named Downloads - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.211.4      1. Run the Chrome.  2. Look at user documents directory.  3. `Downloads` is always created.      No such folder if it doesn't exist before Chrome was runned.   </pre>

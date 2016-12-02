@@ -1,0 +1,1 @@
+<title>Issue 22247 -   chromium -    clean up handling of grit - Project Hosting on Google Code</title> <pre> We currently have setup for grit all over the tree  some places use actions    some use rules.  We really need to go back and standardize this  maybe do a   grit.gypi that can be used in each place. </pre>

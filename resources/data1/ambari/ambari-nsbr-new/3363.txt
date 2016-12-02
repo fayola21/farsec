@@ -1,0 +1,1 @@
+wrong path being set for JSVC_HOME on suse OS in hadoop-env.sh.    JSVC_HOME is being set to /usr/lib/hadoop/sbin/Linux-amd64-64/ instead of /usr/lib/bigtop-utils.   

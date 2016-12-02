@@ -1,0 +1,1 @@
+<title>Issue 26631 -   chromium -    Transparent gaps in notification frame - Project Hosting on Google Code</title> <pre> Desktop notifications have a small transparent gap in the UI of the frame. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 42136 -   chromium -    Subpixel antialias artifacts for canvas fillText on Linux - Project Hosting on Google Code</title>   1. Draw text to a canvas using fillText      Cleanly rendered and properly antialiased text  the same as the HTML text      Odd subpixel artifacts on the canvas-drawn text    <b>Please provide

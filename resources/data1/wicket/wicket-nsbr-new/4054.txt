@@ -1,0 +1,1 @@
+Memory leakage in browser with AbstractAjaxTimerBehavior    Adding an AbstractAjaxTimerBehavior to a page causes the browser (tested on Firefox and Chrome) to leak memory. More noticeable with a short update interval (I have been using 1 second). It is not as bad in the beginning  but gradually gets worse  eventually increasing memory usage by over 1MB per request.   

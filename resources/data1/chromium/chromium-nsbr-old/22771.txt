@@ -1,0 +1,1 @@
+<title>Issue 22771 -   chromium -    When opening an email in Gmail pressing backspace or return in Chrome doesn't return you to inbox. - Project Hosting on Google Code</title>   1.Log in to Gmail  2.Open an email  3.Hit backspace or return in chrome      You return to inbox.      Change in url in the addressbar.    <b>Please provide

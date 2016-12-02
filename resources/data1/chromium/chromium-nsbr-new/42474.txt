@@ -1,0 +1,1 @@
+<title>Issue 42474 -   chromium -    WISHLIST: bookmarks folder password protect - Project Hosting on Google Code</title> <pre> It would be great add a schema that allow password protect some bookmark   folders that user selected.     Users sync bookmarks between different locations (eg. office &amp; home) need   different privacy level. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 35049 -   chromium -    UI language change should not require browser restart - Project Hosting on Google Code</title> <pre> Right now we're asking user to restart Chrome if UI language is changed   manually.  It would be great if we instead reloaded strings and recalculated layout and   repainted all windows without restarting. </pre>

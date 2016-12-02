@@ -1,0 +1,1 @@
+<title>Issue 24174 -   chromium -    The lifetime of create dom elements in chromium as exposed to JS is different from WebKit. - Project Hosting on Google Code</title> <pre> Running LayoutTests/fast/dom/Attr/script-tests/access-after-element-  destruction.js will give you lots of failures related to this.   </pre>

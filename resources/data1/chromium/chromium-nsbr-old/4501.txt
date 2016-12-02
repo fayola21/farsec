@@ -1,0 +1,1 @@
+<title>Issue 4501 -   chromium -    Make lighttpd and php build with scons (at least on Linux) - Project Hosting on Google Code</title> <pre> There is concern that pre-built binaries  (<a href="http://codereview.chromium.org/10653">http://codereview.chromium.org/10653</a>) won't work universally  so we should  build lighttpd and php from source via the scons build system. </pre>

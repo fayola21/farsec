@@ -1,0 +1,1 @@
+<title>Issue 3716 -   chromium -    No support for load method to load XML document  - Project Hosting on Google Code</title> <pre>   1. Load the attached testcase or go to the link given below    What is the expected output?   Google    What do you see instead?  An error that the object has no load method    IE7  FF3: ok  Safari  Chrome: not ok     </pre>

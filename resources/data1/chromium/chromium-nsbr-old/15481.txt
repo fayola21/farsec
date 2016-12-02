@@ -1,0 +1,1 @@
+<title>Issue 15481 -   chromium -    Chromium crash after reset to default theme - Project Hosting on Google Code</title>   1.Click Reset to default theme  2.Put mouse over a chrome interface button                  <b>Please provide

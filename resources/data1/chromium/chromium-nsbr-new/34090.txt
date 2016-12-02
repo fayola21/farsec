@@ -1,0 +1,1 @@
+<title>Issue 34090 -   chromium -    Chrome loses theme configuration after sudden power cut - Project Hosting on Google Code</title>   1. Open up the Chrome navigator  2. Turn off the computer by the wrong way (cut off the Energy)  3. Turn on the computer and run Chrome Again.      Chrome will lose theme configuration or will be unstable.      -    <b>Please provide

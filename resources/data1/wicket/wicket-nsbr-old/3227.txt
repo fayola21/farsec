@@ -1,0 +1,1 @@
+Complete documentation of Component Lifecycle    Please update javadoc for component lifecycle  it misses important hooks like onBeforeRender()  onInitialize() and onConfigure().   

@@ -1,0 +1,1 @@
+<title>Issue 16738 -   chromium -    Pipeline should execute a callback whenever an run-time error has happened - Project Hosting on Google Code</title> <pre> This helps out WebMediaPlayerImpl a bunch.    If an error has happened during playback  we should receive a callback so we   can set the proper network/ready state. </pre>

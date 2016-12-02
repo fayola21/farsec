@@ -1,0 +1,1 @@
+<title>Issue 8687 -   chromium -    http://aiuto.alice.it: Page incorrectly rendered - Project Hosting on Google Code</title>   1. Go to specified URL  2. Click on links under &quot;Domande frequenti&quot;        Links should be alligned and clickable          Links are misalligned and only the first one works    <b>Please provide

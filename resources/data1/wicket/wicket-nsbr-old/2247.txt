@@ -1,0 +1,1 @@
+IndexedHybridUrlCodingStrategy constructor should accept a redirectOnBookmarkableRequest boolan    HybridUrlCodingStrategy has a constructor which accepts a redirectOnBookmarkableRequest boolanIndexedHybridUrlCodingStrategy (which extends HybridUrlCodingStrategy) doesn't contain the same constructor  i think it should.   

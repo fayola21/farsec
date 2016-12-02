@@ -1,0 +1,1 @@
+<title>Issue 23929 -   chromium -    links with javascript: wont open - Project Hosting on Google Code</title>   1.all links which is a Javascript doesnt open up etc                    <b>Please provide

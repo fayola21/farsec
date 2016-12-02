@@ -1,0 +1,1 @@
+<title>Issue 26319 -   chromium -    Search doesn't work in Heap profiles - Project Hosting on Google Code</title> <pre>   1. Open Developer Tools  2. Go to Profiles tab  take a heap snapshot  3. Open Heap snapshot and try to search for any existing visible item      Expected: The item is found and highlighted  Actual: &quot;Not found&quot; message is displayed   </pre>

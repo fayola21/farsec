@@ -1,0 +1,1 @@
+<title>Issue 4199 -   chromium -    Image is cropped - Project Hosting on Google Code</title>   1. Open URL      full image   (<a href="http://club.foto.ru/gallery/images/preview/2008/10/01/1195192.jpg">http://club.foto.ru/gallery/images/preview/2008/10/01/1195192.jpg</a>) is   displayed      image displayed is cropped    Please provide

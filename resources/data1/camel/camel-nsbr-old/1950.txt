@@ -1,0 +1,1 @@
+Add server name to logging event adapter    When connected to multiple IRC servers it's a bit difficult to figure out what server incoming log messages from the event adapter are from. This patch adds the IRC server responsible for a given log message from the event adapter.   

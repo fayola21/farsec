@@ -1,0 +1,1 @@
+<title>Issue 34238 -   chromium -    Can't close the chrome - Project Hosting on Google Code</title> <pre> I find a bug in the Google chrome. If i go to the www.onet.pl and i be in   this website long time i cant go to the another website in this card and i   cant close this card and the program.   </pre>

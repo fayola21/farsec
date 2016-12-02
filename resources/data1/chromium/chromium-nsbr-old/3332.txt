@@ -1,0 +1,1 @@
+<title>Issue 3332 -   chromium -    2 px black line across the top of popups using the glass frame - Project Hosting on Google Code</title> <pre> detached popup windows have a 2px black line across the top on Vista with   the glass frame. </pre>

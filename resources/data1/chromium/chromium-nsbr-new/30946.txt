@@ -1,0 +1,1 @@
+<title>Issue 30946 -   chromium -    Hardware accelerated Canvas 2D context - Project Hosting on Google Code</title> <pre> With the introduction of WebGL we are on track to get a hardware accelerated   3D graphics context. We should ensure that any work we do on getting WebGL   out on a stable channel should involve making canvas 2D context HW   accelerated as well. </pre>

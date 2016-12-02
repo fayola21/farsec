@@ -1,0 +1,1 @@
+Start/Stop button may stay enabled for 30-40 seconds after it has been clicked    Start/Stop button stays enabled for atleast 30-40 seconds after its been clicked already.   

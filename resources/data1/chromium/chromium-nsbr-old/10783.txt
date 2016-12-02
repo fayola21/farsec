@@ -1,0 +1,1 @@
+<title>Issue 10783 -   chromium -    marker-child-changes.svg on linux failing - Project Hosting on Google Code</title> <pre> after the merge  this test started failing on Linux    090420 16:52:15 test_shell_thread.py:290 ERROR LayoutTests/svg/custom/marker-  child-changes.svg failed:    Text diff mismatch     </pre>

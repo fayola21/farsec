@@ -1,0 +1,1 @@
+Java DSL - Allow load balancer to be used inside CBR    We should allow to use the load balancer inside the CBR  in eg the when predicate.See nabblehttp://camel.465427.n5.nabble.com/DISCUSS-Java-DSL-caveat-with-the-Content-Based-Router-td3389083.html   

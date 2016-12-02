@@ -1,0 +1,1 @@
+<title>Issue 4377 -   chromium -    Hot-mail Bug! - Project Hosting on Google Code</title>   1. Go to www.hotmail.com  2. Log in.  3. Create new message.      Cannot Input text into the body of the e-mail.      The letters woun't apear in the body forcing you to use IE to send e-mails.    Please provide

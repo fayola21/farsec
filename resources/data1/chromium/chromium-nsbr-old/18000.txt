@@ -1,0 +1,1 @@
+<title>Issue 18000 -   chromium -    Add application/ogg  audio/aac and audio/x-aac to mime type list - Project Hosting on Google Code</title> <pre> Quick and easy fix.  We need to list the following mime types as being   supported.    Chromium + Chrome:  application/ogg    Chrome only:  audio/aac  audio/x-aac </pre>

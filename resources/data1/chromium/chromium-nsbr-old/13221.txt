@@ -1,0 +1,1 @@
+<title>Issue 13221 -   chromium -    chinese character is displayed __��_��_��__��__��__��___��_��__��____ - Project Hosting on Google Code</title>   1.open url  2.chinese character is displayed __��_��_��__��__��__��___��_��__��____                <b>Please provide

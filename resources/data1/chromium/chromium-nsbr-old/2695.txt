@@ -1,0 +1,1 @@
+<title>Issue 2695 -   chromium -    XSS layout test failures due to GURL error - Project Hosting on Google Code</title> <pre> These report 5828:5956:23395968:FATAL:gurl.cc(136)    LayoutTests/http/tests/security/aboutBlank/xss-DENIED-navigate-opener-  javascript-url.html  LayoutTests/http/tests/security/aboutBlank/xss-DENIED-set-opener.html     </pre>

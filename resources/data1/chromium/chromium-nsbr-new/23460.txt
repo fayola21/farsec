@@ -1,0 +1,1 @@
+<title>Issue 23460 -   chromium -    Mac pixel tests: Catches a different frame of a GIF animation - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/tables/mozilla/bugs/<a title="history.forward() does not work in 4.0"  href="/p/chromium/issues/detail?id=28341">bug28341</a>.html </pre>

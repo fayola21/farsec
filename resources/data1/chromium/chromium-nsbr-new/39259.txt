@@ -1,0 +1,1 @@
+<title>Issue 39259 -   chromium -    Won't load image - Project Hosting on Google Code</title>   1. Download HTML file  2. Put a picture of penguins in the images directory  3. Open html site with chrome        I expect to see a picture of happy penguins.        I see black.    <b>Please provide

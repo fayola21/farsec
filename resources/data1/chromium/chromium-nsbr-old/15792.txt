@@ -1,0 +1,1 @@
+<title>Issue 15792 -   chromium -    Crash when visiting ftp.vim.org - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.192.0 (19744)  URLs (if applicable) : ftp.vim.org      1. Type &quot;ftp.vim.org&quot; in the location bar and press enter      ftp session is started with ftp.vim.org      Chromium crashes. </pre>

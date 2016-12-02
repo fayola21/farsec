@@ -1,0 +1,1 @@
+An exception when constructing JT400 endpoints should not leak the password    Sanitize the endpoint URI in the message of the runtime exception thrown in the constructors for Jt400DataQueueEndpoint and Jt400PgmEndpoint.   

@@ -1,0 +1,1 @@
+<title>Issue 243 -   chromium -    other Bookmark navigation - keyboard control does not work. - Project Hosting on Google Code</title>   1. Click on Other bookmarks  2. hit Up  Down  Home  End keys on the keyboard        to scroll Up  Down by using those navigation keys      Nothing    Please provide

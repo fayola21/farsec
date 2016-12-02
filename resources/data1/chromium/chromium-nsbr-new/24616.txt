@@ -1,0 +1,1 @@
+<title>Issue 24616 -   chromium -    Move glue_accessibility_object.{h cc} into the WebKit API - Project Hosting on Google Code</title> <pre> Move glue_accessibility_object.{h cc} into the WebKit API    Presumably with a name that doesn't include the word &quot;Glue&quot;  or maybe we   don't even need this class? </pre>

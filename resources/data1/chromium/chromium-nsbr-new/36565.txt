@@ -1,0 +1,1 @@
+<title>Issue 36565 -   chromium -    Additional empty tab when opening url from application - Project Hosting on Google Code</title>   1. Set Chrome as your standard browser  2. Open URL out of a mac application  3. /       Chrome opens a new window  an empty tab and a new tab (selected)  with the website of the opened url      Above without the empty tab      <b>Please provide

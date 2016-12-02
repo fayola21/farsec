@@ -1,0 +1,1 @@
+[Patch] do not serialize choices and select in palette.    It takes a long useless time   

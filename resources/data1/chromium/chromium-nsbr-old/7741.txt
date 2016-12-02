@@ -1,0 +1,1 @@
+<title>Issue 7741 -   chromium -    Cannot delete entries from auto-complete list - Project Hosting on Google Code</title>   1. Begin typing in any text box that has an auto-complete list  2. Select an entry and click Shift-Delete        Entry should be deleted      Nothing    Please provide

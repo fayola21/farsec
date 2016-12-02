@@ -1,0 +1,1 @@
+XPath will lock File input in case of an exception during xpath evaluation    We have a similar issue with XPath  as we had with XSLT and XQuery.If the message is a java.io.File and an exception occurs during evaluation  then that file is locked on Windows platforms.We need to close the FileInputStream to unlock the file  and allow Windows to access the file.   

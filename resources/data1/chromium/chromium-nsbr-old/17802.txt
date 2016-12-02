@@ -1,0 +1,1 @@
+<title>Issue 17802 -   chromium -    Change proxy settings doesnt work - Project Hosting on Google Code</title>   1. click on settings  2. go to under the hood  3. click on change proxy settings button.            Expected result is to open up a new window to enable setting up of proxy   networks/settings        there is no action on clicking the button    <b>Please provide

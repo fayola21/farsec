@@ -1,0 +1,1 @@
+<title>Issue 45427 -   chromium -    Rendering a certain font(from ttf file) causes BSOD on win7 - Project Hosting on Google Code</title>   1. boot windows 7  2. open URL to a site that will render a certain font to canvas        the requested font  rendered to canvas      BSOD    <b>Please provide

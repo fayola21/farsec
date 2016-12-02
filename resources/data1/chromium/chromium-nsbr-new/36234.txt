@@ -1,0 +1,1 @@
+<title>Issue 36234 -   chromium -    Signing process should be reflected in public tree - Project Hosting on Google Code</title> <pre> Currently some portion of the signing process for the official build happens   out of band in a weird left over sconscript. This creates the potential for   regressions of all sorts. We should have one build for mini_installer not 2. </pre>

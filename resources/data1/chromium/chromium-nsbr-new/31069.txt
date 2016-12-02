@@ -1,0 +1,1 @@
+<title>Issue 31069 -   chromium -    Browser window resized on long pages - Project Hosting on Google Code</title>   1. Open the page.  2. Watch browser hight to be set to incredibly high.        Pages should not change window height.        Widow height is changes  possibly to acomodate the content.     <b>Please provide

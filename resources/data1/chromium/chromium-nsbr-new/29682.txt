@@ -1,0 +1,1 @@
+<title>Issue 29682 -   chromium -    yesterdays update has totally broken my version of chromium on unbuntu 8.04 - Project Hosting on Google Code</title>   1. Any use all the visible graphics pages have horizontal lines all over   2.see screen shots below        normality      currently cannot use the browser    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 28472 -   chromium -    Why @font-face doesn't work in Google Chrome? - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.252.0 (Developer version 32384)             Safari 4: OK    Firefox 3.x: OK        In Safari and Firefox 3.x the @font-face embed works  but in Chrome doesn't   work  why? :S     </pre>

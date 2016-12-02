@@ -1,0 +1,1 @@
+<title>Issue 26323 -   chromium -    Uncaught TypeError: Cannot call method 'isDescendant' of null - Project Hosting on Google Code</title> <pre> When navigating the document tree in the Elements panel  once in a while the   &quot;Uncaught TypeError: Cannot call method 'isDescendant' of null&quot; at   chrome://devtools/ElementsPanel.js:528 is logged in the Console view.   </pre>

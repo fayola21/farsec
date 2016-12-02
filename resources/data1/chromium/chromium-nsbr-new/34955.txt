@@ -1,0 +1,1 @@
+<title>Issue 34955 -   chromium -    Browser Action Popup doesnt close when browser action icon is clicked - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.317.2      1. Click on a browser action which has a popup =&gt; Popup appears.  2. Click broser action icon again.      Popup should close.      Popup closes then reopens. </pre>

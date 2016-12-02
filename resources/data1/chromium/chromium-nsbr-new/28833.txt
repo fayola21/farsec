@@ -1,0 +1,1 @@
+<title>Issue 28833 -   chromium -    Automatically discover extension api tests that don't need C++ - Project Hosting on Google Code</title> <pre> Lots of our extension API tests don't need any C++ at all. We should make the   system automatically discover all API tests in a certain directory and just   run them. </pre>

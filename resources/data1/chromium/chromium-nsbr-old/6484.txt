@@ -1,0 +1,1 @@
+<title>Issue 6484 -   chromium -    Create a &quot;commit bot&quot; - Project Hosting on Google Code</title> <pre> Currently  committing patches from non-chromium members is manual  tiresome   and error-prone.    Create a simple script to cleanly commit a patch. </pre>

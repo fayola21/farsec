@@ -1,0 +1,1 @@
+Log EIP - Check if it should log first before evaluating exchange    In the log EIP only evaluate the log message if really needed  eg shouldLog returns true   

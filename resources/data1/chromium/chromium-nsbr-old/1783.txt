@@ -1,0 +1,1 @@
+<title>Issue 1783 -   chromium -    Change to platform specific the SConscript in sqlite (third_party) - Project Hosting on Google Code</title> <pre> Path: src/third_party/sqlite    I've attached the modified SConscript. I think it's ok  but someone should  review this.    Thanks </pre>

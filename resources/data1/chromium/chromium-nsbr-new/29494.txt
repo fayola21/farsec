@@ -1,0 +1,1 @@
+<title>Issue 29494 -   chromium -    Facebook.com controls not working properly - Project Hosting on Google Code</title>   1. Navigate to facebook.com.  2. Try to comment on a post.  3. Press the comment button.      The comment should be posted      Nothing.    <b>Please provide

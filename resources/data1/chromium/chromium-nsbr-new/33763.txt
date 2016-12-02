@@ -1,0 +1,1 @@
+<title>Issue 33763 -   chromium -    [Linux] When playing flash video in full screen  the cursor does not disappear - Project Hosting on Google Code</title>   1.Visit site  choose video  2.Choose Full Screen        Player controls and cursor should disappear      Controls disappear  cursor does not    <b>Please provide

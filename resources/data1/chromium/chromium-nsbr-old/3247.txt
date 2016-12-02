@@ -1,0 +1,1 @@
+<title>Issue 3247 -   chromium -    RTL issues with incognito icon - Project Hosting on Google Code</title> <pre> The incognito icon shows up on the wrong side in the opaque frame. </pre>

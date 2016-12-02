@@ -1,0 +1,1 @@
+<title>Issue 18527 -   chromium -    Autodetect proxy step very slow when WPAD host is unresponsive - Project Hosting on Google Code</title> <pre> There is a 20 second timeout before failing the autodetect attempt to   http://wpad/wpad.dat    This makes proxy autodetect super slow when wpad maps to a blackhole. </pre>

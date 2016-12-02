@@ -1,0 +1,1 @@
+<title>Issue 14887 -   chromium -    Curves for the resources bar are not smooth - Project Hosting on Google Code</title> <pre> Go to any web page and launch Inspector.  Go to Resources tab.    Issue: Both the curves of resources bar aren't smooth. Safari looks good.    Chromium 3.0.190.0 (Developer Build 18905) </pre>

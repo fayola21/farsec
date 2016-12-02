@@ -1,0 +1,1 @@
+spring integration xsd change breaks component    Thread is here http://www.nabble.com/-HEADS-UP--camel-spring-integration-issue-td20331450s22882.html   

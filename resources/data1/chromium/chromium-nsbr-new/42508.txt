@@ -1,0 +1,1 @@
+<title>Issue 42508 -   chromium -    Drag text doesn't automatically scroll - Project Hosting on Google Code</title>   1. Drag selected text in a scrollable page  2. Drag picture in a scrollable page  3. Drag links in a scrollable page      Page automatically scrolls when cursor is near the border.      Nothing happens.    <b>Please provide

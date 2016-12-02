@@ -1,0 +1,1 @@
+Wrong calculation of duration filter on apps page    Wrong calculation for the duration filter if we enter just number  without h  m or s to specify the unit. By default we should take seconds as the default unit.   

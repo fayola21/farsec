@@ -1,0 +1,1 @@
+<title>Issue 44159 -   chromium -    No bookmark title appears after drag and drop of a url to the bookmarks bar - Project Hosting on Google Code</title>   1. mark a url in the address bar  2. left click and drag 'n drop it to the bookmarks bar      favicon of the url with title next to it  should appear      only favicon appears  without title    <b>Please provide

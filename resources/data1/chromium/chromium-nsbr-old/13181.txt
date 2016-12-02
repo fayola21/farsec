@@ -1,0 +1,1 @@
+<title>Issue 13181 -   chromium -    Javascript code displayed as video - Project Hosting on Google Code</title>   1. open the URL in Chrome      - The code as text.      - I see a video/audio control (see screen shot)    <b>Please provide

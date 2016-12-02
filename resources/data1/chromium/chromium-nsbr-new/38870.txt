@@ -1,0 +1,1 @@
+<title>Issue 38870 -   chromium -    rss extension - navigating to links - Project Hosting on Google Code</title>   1. Open any rss feed with link in it's entries  2. Navigate to any hyperlink in it      Browser opens navigated link as usual navigating      Browser opens navigated link in iframe located in rss preview    <b>Please provide

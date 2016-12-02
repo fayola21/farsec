@@ -1,0 +1,1 @@
+In extensons CaptchaImageResource render method  while loop does not loop    In the extensons CaptchaImageResource render method  the while-loop:while(true){....return toImageData(image);}can be removed.   

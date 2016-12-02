@@ -1,0 +1,1 @@
+<title>Issue 21057 -   chromium -    Incorrect rendering of SVG stroke-dasharray with zero-width dashes  - Project Hosting on Google Code</title>   1. Open attached SVG file        Zero-length dashes with a square or round end-capped storke should be   visible as perfect squares and circles.        They are invisible.    <b>Please provide

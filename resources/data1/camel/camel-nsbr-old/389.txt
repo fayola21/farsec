@@ -1,0 +1,1 @@
+Parallel processing route    Adding the support of this user story CXF Consumer -&gt; Route ---&gt; parallelly send messages and recieve responses---&gt; aggregate response --&gt; further process ----&gt; returnHere is more information about this story &#91;1&#93;http://www.nabble.com/Parallel-processing-route-td15642110.html#a15642110   

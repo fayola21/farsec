@@ -1,0 +1,1 @@
+<title>Issue 30964 -   chromium -    URL locks up whole browser - Project Hosting on Google Code</title>   1. Go to the URL       The page to load.       The page doesn't load and the browser refuses to load any other tabs or   close any tabs. Force close is necessary.    Please provide

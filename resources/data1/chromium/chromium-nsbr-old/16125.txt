@@ -1,0 +1,1 @@
+<title>Issue 16125 -   chromium -    Plugin GtkSocket only created in foreground tabs - Project Hosting on Google Code</title> <pre> We currently only can create the window hosting a plugin in a foreground   tab.  Creating a plugin in a background tab hits a notimplemented. </pre>

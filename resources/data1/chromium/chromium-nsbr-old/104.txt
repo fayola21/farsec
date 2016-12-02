@@ -1,0 +1,1 @@
+<title>Issue 104 -   chromium -    Suboptimal perfomance on Google Mail standard interface - Project Hosting on Google Code</title>   1. input www.gmail.com to the browser URL  2. input your credentials  3. press enter      Fast scrolling      Slow scrolling    Please provide

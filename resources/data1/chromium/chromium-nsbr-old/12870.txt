@@ -1,0 +1,1 @@
+<title>Issue 12870 -   chromium -    --no-first-run for Mac release builder - Project Hosting on Google Code</title> <pre> Fix landed; filing a bug for tracking.  <a href="http://codereview.chromium.org/113858">http://codereview.chromium.org/113858</a>     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11235 -   chromium -    Externalize the NTP style - Project Hosting on Google Code</title> <pre> The New Tab Page should be styled based on information provided by   ThemeProvider (custom font styles  blob colors and backgrounds). </pre>

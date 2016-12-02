@@ -1,0 +1,1 @@
+<title>Issue 34897 -   chromium -    suggestion: allow to disable Ctrl-Number - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.317.2 dev    I would like to disable Ctrl-number keyboard shortcuts  as I never use them   for purpose while I frequenly mistype numbers when attempting to Ctrl-F4 or   Ctrl-F5  for example. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34395 -   chromium -    Credit card entry not allowed - Project Hosting on Google Code</title>   1.attempt to place an order on the URL indicated  2.entering a credit card number is not possible        entering a credit card number allows an order to be processed      the credit card number field does not allow anything to be entered    <b>Please provide

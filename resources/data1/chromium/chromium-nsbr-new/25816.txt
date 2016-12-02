@@ -1,0 +1,1 @@
+<title>Issue 25816 -   chromium -    Non-committers are asked for svn credential during gcl upload - Project Hosting on Google Code</title> <pre> This is due to the new try on upload algorithm.    Implementation:  Will have around to look for http:// protocol checkout and skip svn-style try   jobs.    Workaround:  Use gcl upload --no_try </pre>

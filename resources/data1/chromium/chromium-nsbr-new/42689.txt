@@ -1,0 +1,1 @@
+<title>Issue 42689 -   chromium -    gtk bookmark bar text vertically misaligned - Project Hosting on Google Code</title> <pre> See screenshot. For some reason some of the bookmark text is way higher (2   pixels) compared to the other bookmark titles. </pre>

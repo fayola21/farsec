@@ -1,0 +1,1 @@
+<title>Issue 19315 -   chromium -    All keyboard shortcuts fail  if focus is on omnibox - Project Hosting on Google Code</title> <pre> ToT(r 23365)    This is my first starter bug on Linux :)    While focus is on omnibox  try to execute any keyboard shortcuts  (ctr+t/ctrl+n..etc). All them fail.    PS: Works fine on Mac. </pre>

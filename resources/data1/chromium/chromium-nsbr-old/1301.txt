@@ -1,0 +1,1 @@
+<title>Issue 1301 -   chromium -    No way to complete offline install - Project Hosting on Google Code</title> <pre> When attempting to run the installer  the proxy server interrupts. My proxy  server gets files then offers a link to the file on the proxy once the  transfer is over.    An offline installer can help get over this. </pre>

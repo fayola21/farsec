@@ -1,0 +1,1 @@
+<title>Issue 45625 -   chromium -    screen corruption and images distorced - Project Hosting on Google Code</title>   1. browser gmail  OR  2. browse androidpt.com      pages to load fine      i see image corruption in gmail  lost of Star  distorced images in   androidpt.com  See screenshot    <b>Please provide

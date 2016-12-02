@@ -1,0 +1,1 @@
+<title>Issue 24528 -   chromium -    Sinhala Unicode not properly rendered - Project Hosting on Google Code</title>   1. Visiting a site which uses Sinhala Unicode          Properly displayed Sinhala Unicode text      Text is not properly rendered    <b>Please provide

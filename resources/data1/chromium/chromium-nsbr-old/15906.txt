@@ -1,0 +1,1 @@
+<title>Issue 15906 -   chromium -    Provide FFmpeg binaries for Chromium - Project Hosting on Google Code</title> <pre> We need binaries for Chromium folk  which contain only Ogg/Theora/Vorbis. </pre>

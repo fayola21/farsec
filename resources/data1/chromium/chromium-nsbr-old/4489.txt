@@ -1,0 +1,1 @@
+<title>Issue 4489 -   chromium -    Style error - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.3.155.0               IE 7:OK      1. h5.e:hover~ul {...}      apply style to descendant &quot;ul&quot; only on :hover      style applied to ul all the time.   </pre>

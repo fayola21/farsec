@@ -1,0 +1,1 @@
+Backend support for MySQL and Oracle for Oozie and Hive    Add ability to use Oracle DB for Hive and Oozie in Ambari   

@@ -1,0 +1,1 @@
+<title>Issue 33495 -   chromium -    chromium-browser (on Fedora-rawhide) eat all my memory - Project Hosting on Google Code</title>   1. Run chromium-browser.  2. Do some usual browsing.            After few minutes (~30min) chromium eat all my memory (see attachment).  Mentioned on build above.      <b>Please provide

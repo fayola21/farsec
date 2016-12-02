@@ -1,0 +1,1 @@
+<title>Issue 18434 -   chromium -    Renderer busy loop after video ends - Project Hosting on Google Code</title> <pre>   1. Play to end of video  2. Watch top or Task Manager.  See your CPU cook.        Don't eat 100%+ CPU after the video stops.  It's currently doing that and   busy looping.   </pre>

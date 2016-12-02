@@ -1,0 +1,1 @@
+<title>Issue 11930 -   chromium -    Chrome changed colors - Project Hosting on Google Code</title>   1. Maximise Chrome window  2. and/or Press Ctrl + F      Colors of Chrome don't change      The tab bar turns black  The Find box looks lighter than the bookmarks bar  and the main bar    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9625 -   chromium -    Code defect in XMLWriter in chromecommonlibxml_utils.cc - Project Hosting on Google Code</title>   1. Compiling and running automated_ui_tests          The tests should run.        Crashes when trying to delete buffer_ member of XMLWriter.    <b>Please provide

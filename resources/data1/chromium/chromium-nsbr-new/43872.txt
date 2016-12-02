@@ -1,0 +1,1 @@
+<title>Issue 43872 -   chromium -    App mode crash for gmail - Project Hosting on Google Code</title>   1.Start chromium in app mode (chromium-browser --  app=<a href="https://mail.google.com/mail/?shva=1#inbox">https://mail.google.com/mail/?shva=1#inbox</a>)          Open gmail app.      A window opens and closes.    <b>Please provide

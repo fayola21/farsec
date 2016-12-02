@@ -1,0 +1,1 @@
+<title>Issue 23840 -   chromium -    Theme in tab does not line up with theme in background - Project Hosting on Google Code</title>   1. Set the dots theme  2. Look at the edge of the tab (see linux_pattern_fail attachment)      That the theme lines up correctly.  (See the mac_pattern attachment)          <b>Please provide

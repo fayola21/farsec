@@ -1,0 +1,1 @@
+<title>Issue 23408 -   chromium -    yahoo.com redirects to m.yahoo.com on chromium - Project Hosting on Google Code</title> <pre> when I go to yahoo.com in linux chromium (not google chrome)  it redirects   to m.yahoo.com. Presumably it is discovering the kernel is linux and the   renderer is webkit  and decides I am an android. </pre>

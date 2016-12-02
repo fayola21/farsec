@@ -1,0 +1,1 @@
+<title>Issue 27466 -   chromium -    Status bar window shouldn't have a bottom stroke - Project Hosting on Google Code</title> <pre> Status bar window shouldn't have a bottom stroke when aligned to the bottom   of the window    The window border provides it. </pre>

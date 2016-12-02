@@ -1,0 +1,1 @@
+<title>Issue 13538 -   chromium -    not able to open any page - Project Hosting on Google Code</title>   1. alien -r chrome-unstable.ded  2. rpm -Uvh chrome.rpm --nodeps  3. made symlinks to solve chrome dependencies (ubuntu is the only linux  distro that usa *.so.1d or *.so.0d        should open pages        not able to display any page    <b>Please provide

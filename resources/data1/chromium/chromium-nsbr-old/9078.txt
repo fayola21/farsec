@@ -1,0 +1,1 @@
+<title>Issue 9078 -   chromium -    Browser freezes Windows 7 and Chrome 2.0.170.0 on facebook  - Project Hosting on Google Code</title>   1. Click on any button of top bar in facebook  2. Freeze the browser for 1 minute                  <b>Please provide

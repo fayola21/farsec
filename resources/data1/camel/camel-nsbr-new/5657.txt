@@ -1,0 +1,1 @@
+Recipient list EIP - Should shutdown thread pool if parallel mode enabled    We should shutdown the thread pool for recipient list if a pool was in use  and it can be shutdown.The logic in doShutdown is missing that.Camel would though have a fail-safe when it shutdown itself to shutdown that pool otherwise. But we should shutdown when the EIP is shutdown itself.   

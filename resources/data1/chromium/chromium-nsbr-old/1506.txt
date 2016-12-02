@@ -1,0 +1,1 @@
+<title>Issue 1506 -   chromium -    Constant inpatibility with Macromedia Flash Plug-In - Project Hosting on Google Code</title>   1. Stop playing videos or something else  whitch use Flash Plug-in  2. Close Google Chrome      Please provide

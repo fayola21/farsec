@@ -1,0 +1,1 @@
+<title>Issue 18555 -   chromium -    tab font vertical placement off by a pixel - Project Hosting on Google Code</title> <pre> In tab_renderer_gtk.cc  we subtract 1 from the y position of the text to   give it the same placement as on Windows.  The other values used to   calculate the text placement are the same as Windows  so I'm not sure why we   need to do this.     </pre>

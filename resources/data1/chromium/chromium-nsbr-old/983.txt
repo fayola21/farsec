@@ -1,0 +1,1 @@
+<title>Issue 983 -   chromium -    Dropdoen list lable looks bad - Project Hosting on Google Code</title>   1. View the list view dropdown in the page          Dropdown list lable should look good        Looks very bad    Please provide

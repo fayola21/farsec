@@ -1,0 +1,1 @@
+<title>Issue 3594 -   chromium -    Assertion when dragging a tab into an existing window - Project Hosting on Google Code</title> <pre> Create two windows with one tab each. Then drag one of the tabs into the   other window. When you lift up on the mouse  you get the assertion &quot;Leaving   in an inconsistent state!&quot; from TabStrip::DestroyDraggedSourceTab. </pre>

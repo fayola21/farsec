@@ -1,0 +1,1 @@
+<title>Issue 28945 -   chromium -    Loading page causes a hang followed by a sad tab - Project Hosting on Google Code</title>   1. Try to load the above URL.      Page loads with no issues.      The tab hangs for about 5 second and then gives a sad tab.    <b>Please provide

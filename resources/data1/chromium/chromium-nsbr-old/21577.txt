@@ -1,0 +1,1 @@
+<title>Issue 21577 -   chromium -    Its OWN PROXY SETTINGS - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.206.1 (Build ufficiale 25376)                        When will Chrome have its own proxy settings??? I 'd like to use IE with   system proxy settings  but Chrome with its own config (I'm doing this with   Opera and Firefox....)       </pre>

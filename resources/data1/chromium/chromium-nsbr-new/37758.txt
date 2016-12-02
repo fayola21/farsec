@@ -1,0 +1,1 @@
+<title>Issue 37758 -   chromium -    Youtube not working in Google Chrome - Project Hosting on Google Code</title>   1. Google chrome is installed on Ubuntu 8.04 32 bit version  2. Try to play any video on youtube        Video appears with controls and video will play      Video window is black with no controls. No sound and no picture.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1662 -   chromium -    Touchpad Buttons Not Working - Project Hosting on Google Code</title>   1. Start Google Chrome  2. Attempt to use touch pad buttons that are assigned to specific tasks  3. Watch it not happen      Buttons to trigger the function they are assigned to.      Absolutely nothing.    Please provide

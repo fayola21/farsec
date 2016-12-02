@@ -1,0 +1,1 @@
+org.apache.wicket.util.string.Strings#stripJSessionId StringIndexOutOfBoundsException    input:http://abc.com/xx/yy.html?code=a%E2%8C%A9=en&amp;amp;section=DDD&amp;amp;d=173amp;passing the about input to methodorg.apache.wicket.util.string.Strings#stripJSessionIdwill introduce StringIndexOutOfBoundsExceptionbecause '?' appears before ';'   

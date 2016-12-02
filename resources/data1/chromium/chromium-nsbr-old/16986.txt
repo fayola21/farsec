@@ -1,0 +1,1 @@
+<title>Issue 16986 -   chromium -    Can't use SCIM  from 20588 to the  latest version - Project Hosting on Google Code</title>     Can't use SCIM to input any words to Chromium from 20588 version!  but it is ok in Chromium 3.0.194(20568).        Free to use SCIM in Chromium.        Can't type any word to Chromium by SCIM.    <b>Please provide

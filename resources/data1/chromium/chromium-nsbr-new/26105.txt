@@ -1,0 +1,1 @@
+<title>Issue 26105 -   chromium -    Lots of hanging problems opening PDF files - Project Hosting on Google Code</title>   1. Enter URL and enter          Open the PDF        Hangs  does nothing      <b>Please provide

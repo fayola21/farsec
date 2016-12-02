@@ -1,0 +1,1 @@
+<title>Issue 41911 -   chromium -    Unnamed bookmarks missing from manager - Project Hosting on Google Code</title>   1. Add bookmark to bookmarks bar.  2. Edit name to &quot; &quot;. (space)  3. Open Bookmark Manager      All bookmarks from bookmarks bar will be visible.      Only bookmarks with a name consisting of more than a space are visible.    <b>Please provide

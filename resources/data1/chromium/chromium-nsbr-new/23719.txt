@@ -1,0 +1,1 @@
+<title>Issue 23719 -   chromium -    &lt;li&gt; tag selecting  why number becomes selected? - Project Hosting on Google Code</title>   1. find some lists on a page (with &lt;li&gt; tags)  2. try to select all the text under this tags        Expected result is that only text will be selected  without &lt;li&gt; styling.      styling become selected too.    <b>Please provide

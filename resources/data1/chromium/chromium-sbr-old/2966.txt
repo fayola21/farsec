@@ -1,0 +1,1 @@
+<title>Issue 2966 -   chromium -    Chrome Window.open &amp; alert DoS - Project Hosting on Google Code</title>   1. Open a Malicious page with evil script code          Chrome open one window and show one alert.        Chrome open all time a new window wen the users click in OK  from alert...    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21581 -   chromium -    Certain sites that have embedded autorefresh intermittently get 404  - Project Hosting on Google Code</title>   1. access the included url. Note other url's also fail as well.  2. leave tab open for extended indeterminate period  3. wait for intermittent failure w/ 404      refreshed page      http: 404    <b>Please provide

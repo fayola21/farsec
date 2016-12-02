@@ -1,0 +1,1 @@
+<title>Issue 38923 -   chromium -    Swedish: Extensions page button should replace &quot;H��__mta&quot; with &quot;Ladda&quot; - Project Hosting on Google Code</title> <pre>   Swedish      Chrome 4.1      (Vista)      Extentions page  first button when programmer mode is activated       </pre>

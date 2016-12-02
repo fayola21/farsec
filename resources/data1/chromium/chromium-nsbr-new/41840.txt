@@ -1,0 +1,1 @@
+<title>Issue 41840 -   chromium -    [CF] Wave shows a blank page after login - Project Hosting on Google Code</title> <pre>   1. Go to http://go/wave/ and login      After login it shows a blank page in IE8  this should be a regression  because this happened before and then fixed.    Issues happens both in build 5.0.379.0 and 5.0.380.0       </pre>

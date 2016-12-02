@@ -1,0 +1,1 @@
+<title>Issue 45772 -   chromium -    Apparent bug with live search in Bookmark Manager. - Project Hosting on Google Code</title>   1. Open Bookmark Manager.  2. Enter text in the search box.  3. Live search does not work (this worked with the old Bookmark Manager).      Live search.      Must press ENTER to search.    <b>Please provide

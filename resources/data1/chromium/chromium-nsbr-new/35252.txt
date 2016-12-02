@@ -1,0 +1,1 @@
+<title>Issue 35252 -   chromium -    Almost all sites with flash content eat processor's time (Windows XP SP 3) - Project Hosting on Google Code</title>               -- Less processor's load.        -- Processor loads almost for full.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39463 -   chromium -    New Tab page and text size - Project Hosting on Google Code</title>   1. open new tab  2. press &quot;ctrl&quot;+&quot;+&quot; few times  3. press &quot;ctrl&quot;+&quot;0&quot;      Previews size is normal. Looks like you just open New Tab page.      Previews size is not normalized.    <b>Please provide

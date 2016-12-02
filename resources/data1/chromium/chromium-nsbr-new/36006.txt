@@ -1,0 +1,1 @@
+<title>Issue 36006 -   chromium -    Content settings: even after saying &quot;remember&quot; this value  queued prompts are still shown - Project Hosting on Google Code</title> <pre> Even after saying &quot;remember&quot; this value in the modal cookie content setting   dialog  queued prompts are still shown. </pre>

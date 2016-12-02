@@ -1,0 +1,1 @@
+<title>Issue 1099 -   chromium -    typing &quot;about:%&quot;  will cause chrome crash - Project Hosting on Google Code</title>   1.  type &quot;about:%&quot; in the address bar  the browser will crash immediately  after &quot;%&quot; has been typed.          N/A      crash    Please provide

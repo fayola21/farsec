@@ -1,0 +1,1 @@
+<title>Issue 2258 -   chromium -    Memory leak onVista Ultimate 64 - Project Hosting on Google Code</title>   1. Leaving the browser open for an extended period of time.  2. Memory usage with no tabs open starts at 14mb and reached 400mb with no   tabs open.                  Please provide

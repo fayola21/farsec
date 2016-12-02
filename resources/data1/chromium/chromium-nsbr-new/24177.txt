@@ -1,0 +1,1 @@
+<title>Issue 24177 -   chromium -    Theme loading bubble needs a localized string - Project Hosting on Google Code</title> <pre> The theme loading bubble (ThemeInstallBubbleView) uses the  IDS_TAB_LOADING_TITLE string even though that's not what it's for. It  should have its own copy of the loading string. </pre>

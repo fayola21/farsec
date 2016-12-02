@@ -1,0 +1,1 @@
+<title>Issue 29635 -   chromium -    Docs Request: Best practices for extensions that require being logged into a web service to work - Project Hosting on Google Code</title> <pre> I've run across a number that work fine if you're logged into the appropriate   service  but fail in an ugly way if you're not.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37855 -   chromium -    Scrollbar colour too similar to scrollbar background colour - Project Hosting on Google Code</title> <pre>   Is this the most recent version: 5.0.307.11 beta  OS + version: Kubuntu 9.10  CPU architecture (32-bit / 64-bit): 3-bit  Window manager: Kwin  Behavior in Linux Firefox: Scrollbars are coloured according to Window Theme.   </pre>

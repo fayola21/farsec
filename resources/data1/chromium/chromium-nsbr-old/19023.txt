@@ -1,0 +1,1 @@
+<title>Issue 19023 -   chromium -    Downloads issue - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.197.11      1. Start downloading any file(zip  rar  exe  etc.)  2. Break network connection        - Message about broken download with possibility to restart or cancel      - File in the list looks like downloaded     </pre>

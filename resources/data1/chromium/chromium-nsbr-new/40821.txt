@@ -1,0 +1,1 @@
+<title>Issue 40821 -   chromium -    A vertical bar appears on the top-right corner - Project Hosting on Google Code</title>   1. That's a vertical bar on the top-right corner even I switch the window   to maximize state or normal state. Is it an effect for Google Chrome?      No vertical bar on the top-right corner.      N/A    <b>Please provide

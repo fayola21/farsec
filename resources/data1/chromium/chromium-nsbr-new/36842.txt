@@ -1,0 +1,1 @@
+<title>Issue 36842 -   chromium -    Preference change processor and model associator should set a title on their sync nodes - Project Hosting on Google Code</title> <pre> This should be done whenever a new sync node is created. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31442 -   chromium -    Add API to interact with mouse from extension process - Project Hosting on Google Code</title> <pre> It would be great to handle/register mouse events in tabs.    double click  right clicks etc.    Thanks   </pre>

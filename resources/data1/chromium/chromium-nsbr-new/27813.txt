@@ -1,0 +1,1 @@
+<title>Issue 27813 -   chromium -    Google mail contains insecure content although https - Project Hosting on Google Code</title>   1. go to gmail.com  2. log in        URL bar stays yellow and padlock appears stating that site is secure      after a few seconds  URL bar turns from yellow to white  orange triangle   states that site contains insecure content    <b>Please provide

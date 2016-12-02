@@ -1,0 +1,1 @@
+<title>Issue 7585 -   chromium -    Closing mutliple tabs quickly - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.160.0&gt;        Firefox 3: OK           IE 7: OK      1. Open many tabs (3 or more)  2. Close the second tab and then the old-third tab by instantly clicking   again      The third tab closes.      The application maximizes </pre>

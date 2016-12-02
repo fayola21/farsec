@@ -1,0 +1,1 @@
+<title>Issue 40357 -   chromium -    new 'star button' icon sometimes does not work  - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.370.0 (43578)    the star is white even if the site is a favourite already. see attached file     </pre>

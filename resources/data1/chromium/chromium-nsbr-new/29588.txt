@@ -1,0 +1,1 @@
+<title>Issue 29588 -   chromium -    Paint/Draw issues on every page - Project Hosting on Google Code</title>   1. Load or Reload any page      The page loaded is displayed correctly      The rendered page is completely garbled    <b>Please provide

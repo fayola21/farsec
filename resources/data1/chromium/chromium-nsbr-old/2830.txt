@@ -1,0 +1,1 @@
+<title>Issue 2830 -   chromium -    Cursive font doesn't render correctly. - Project Hosting on Google Code</title> <pre> See &lt;b1195081&gt;    IE  Firefox and Safari all render cursive the same on my machine. Chrome  and Opera render it as the default serif'ed font. I think we probably have  some webkit glue wrong.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34449 -   chromium -    Disable LTCG for tests in official builds - Project Hosting on Google Code</title> <pre> In a desperate effort to make the builds manageable  we should disable LTCG   in the unit tests. </pre>

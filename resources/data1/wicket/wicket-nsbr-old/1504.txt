@@ -1,0 +1,1 @@
+AutoCompleteTextField - javascript error 'type mismatch' in line 227 in IE    I just swithed from 1.3.2 to 1.3.3 and that resultet in a javascript error 'type mismatch' in line 227  wich is this line in wicket-autocomplete.js:  menu.style.zIndex=index=='auto'?index:Number(index)+1;Only in IE (6.0) - firefox works fine.   

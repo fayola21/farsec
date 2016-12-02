@@ -1,0 +1,1 @@
+<title>Issue 6906 -   chromium -    GoButton needs to get correct tooltip from autocomplete - Project Hosting on Google Code</title> <pre> The Go button tooltip should change depending on whether the selected   action is a navigation or search.  We have strings for this already  but we   need to plumb it correctly. </pre>

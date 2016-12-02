@@ -1,0 +1,1 @@
+<title>Issue 12648 -   chromium -    Program stopped it's work - Project Hosting on Google Code</title>   1. Added GMail to bookmarks bar.  2. Pressed &quot;GMail&quot; icon on bookmarks bar.  3. Pressed this icon for the second time.      GMail reloads.      Error occurs. It notifies me that program stopped it's work and asks me if  I want to open it again.    <b>Please provide

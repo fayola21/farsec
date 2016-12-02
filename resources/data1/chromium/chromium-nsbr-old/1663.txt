@@ -1,0 +1,1 @@
+<title>Issue 1663 -   chromium -    I can't scroll Up by usen TouchPad  - Project Hosting on Google Code</title>   1. Just scroll down and then try to scroll Up       I can't scroll windows up.      The problem is when using scroll from touch pad  when try scroll down every   thing is OK  but when try to scroll Up nothing happen.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22178 -   chromium -    Tab close buttons look like lollipops that have fallen in dirt - Project Hosting on Google Code</title> <pre> They're too red  and what's with the grey smudge-looking thing at the top?    <a href="/p/chromium/source/detail?r=26483">r26483</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14096 -   chromium -    Choose Task Manager Twice consecutively will crash Google Chrome - Project Hosting on Google Code</title>   1. Launch Google Chrome  2. Right click on Google Chrome  choose Task manager. Then close it  3. Repeat 2.        The task manager will show      Google Chrome crashes.    <b>Please provide

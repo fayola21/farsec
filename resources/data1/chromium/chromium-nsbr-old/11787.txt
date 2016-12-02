@@ -1,0 +1,1 @@
+<title>Issue 11787 -   chromium -    Cannot drag window to side or bottom of screen to create different sized window - Project Hosting on Google Code</title>   1.drag window to one of the sides of window (left  right  or bottom)          The tab should turn into the expected side or bottom tab      The tab automatically maximizes in the window    <b>Please provide

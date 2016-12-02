@@ -1,0 +1,1 @@
+<title>Issue 45820 -   chromium -    history - Project Hosting on Google Code</title> <pre> why button clear all missinh in history page? before this the button appear   but now its only appear edit items...  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19571 -   chromium -    Bookmark sync not working in r23600 or later - Project Hosting on Google Code</title> <pre> chrome.exe --enable-logging --enable-sync    [2484:3988:20557765:ERROR:syncapi_stub.cc(222)] NOT IMPLEMENTED    version: 4.0.202.0 (23612) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17159 -   chromium -    Space bar should open select menus - Project Hosting on Google Code</title> <pre> Here's the relevant webkit/gtk patch:  <a href="https://bugs.webkit.org/show_bug.cgi?id=18363">https://bugs.webkit.org/show_bug.cgi?id=18363</a> </pre>

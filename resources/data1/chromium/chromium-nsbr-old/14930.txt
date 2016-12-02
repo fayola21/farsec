@@ -1,0 +1,1 @@
+<title>Issue 14930 -   chromium -    incognito window should be darker - Project Hosting on Google Code</title> <pre> Summary sez it all. How much darker? A great question! </pre>

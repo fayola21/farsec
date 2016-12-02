@@ -1,0 +1,1 @@
+<title>Issue 9 -   chromium -    The rendering place and sidebar does not resize with other elements - Project Hosting on Google Code</title>   1. Resize browser with top border      I do not know.      The rendering place and sidebar does not resize with other elements.    Please provide

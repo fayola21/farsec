@@ -1,0 +1,1 @@
+<title>Issue 4264 -   chromium -    Learn more link on privacy options is janktified - Project Hosting on Google Code</title> <pre> The &quot;Learn more&quot; link is strangely aligned. I'm using Vista. See   screenshot. &quot;Learn more&quot; should just appear after the description sentence.     </pre>

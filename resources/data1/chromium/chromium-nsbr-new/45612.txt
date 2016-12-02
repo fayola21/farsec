@@ -1,0 +1,1 @@
+<title>Issue 45612 -   chromium -    sync notifier should use libjingle for XMPP stuff only - Project Hosting on Google Code</title> <pre> That is  it shouldn't use libjingle threads or sockets. </pre>

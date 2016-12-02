@@ -1,0 +1,1 @@
+<title>Issue 32365 -   chromium -    Extensions don't work in incognito mode - Project Hosting on Google Code</title> <pre> We purposefully decided not to implement extensions for incognito for v1    but this has been a popular request. We should figure out how it should work   and do it. </pre>

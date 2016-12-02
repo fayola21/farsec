@@ -1,0 +1,1 @@
+<title>Issue 10726 -   chromium -    Regression: Lala's signed-in view no longer displays - Project Hosting on Google Code</title>   1. Browse to lala.com          Up until this version of Chrome  everything at Lala worked fine.        90% of the screen is white and &quot;Loading...&quot; message remains.      <b>Please provide

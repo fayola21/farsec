@@ -1,0 +1,1 @@
+<title>Issue 45907 -   chromium -    Developer Tools Window crashes websites - Project Hosting on Google Code</title>   1. Open a site  2. Right click and &quot;inspect element&quot;  3. wait a couple seconds  and it crashes that page.      well... the site should stay working      the site crashes    <b>Please provide

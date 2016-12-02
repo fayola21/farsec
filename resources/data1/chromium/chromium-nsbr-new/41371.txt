@@ -1,0 +1,1 @@
+<title>Issue 41371 -   chromium -    web storage tutorial for extension - Project Hosting on Google Code</title> <pre> show developers when to use what storage solution.   </pre>

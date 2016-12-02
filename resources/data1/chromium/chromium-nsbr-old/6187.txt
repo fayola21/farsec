@@ -1,0 +1,1 @@
+<title>Issue 6187 -   chromium -    Password managment - Project Hosting on Google Code</title>   1. the password manager doesnt work anymore  2. cant save or invoke saved passwords (usernames and passwords on sites)                  Please provide

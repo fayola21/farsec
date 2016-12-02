@@ -1,0 +1,1 @@
+Error in saving host for newly created config group    After creating new Config Group in Manage Configuration Groups dialog try to add host to this group and save. Also sometimes '+' button to add hosts is disabled for newly created group.   

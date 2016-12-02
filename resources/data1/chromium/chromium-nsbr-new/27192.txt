@@ -1,0 +1,1 @@
+<title>Issue 27192 -   chromium -    wrong icon on taskbar - Project Hosting on Google Code</title>     1. Open arbitrary URL            View item on taskbar with proper icon.        Taskbar item shows 'download in progress' icon.      <b>Please provide

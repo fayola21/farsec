@@ -1,0 +1,1 @@
+<title>Issue 38119 -   chromium -    [GPU] Extend GGL and PGL to allow the creation of contexts with and without depth stencil buffers. - Project Hosting on Google Code</title> <pre> Currently the depth stencil buffer is not optional. You always get one  whether it is needed or not.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19860 -   chromium -    Seeking in a video crashes on Linux - Project Hosting on Google Code</title> <pre>   1. Play any video  2. Attempt to seek  3. *boom*      No boom.    Apparently an over-aggressive DCHECK. </pre>

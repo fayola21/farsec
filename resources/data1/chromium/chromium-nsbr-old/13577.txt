@@ -1,0 +1,1 @@
+<title>Issue 13577 -   chromium -    Add methods to get specific types of extension views - Project Hosting on Google Code</title> <pre> Right now we just have a single method called chrome.self.getAllViews(). It   would be convenient to have more specific methods like getToolstrips()    getBackgroundPage()  etc. </pre>

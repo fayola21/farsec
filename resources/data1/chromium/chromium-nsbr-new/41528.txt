@@ -1,0 +1,1 @@
+<title>Issue 41528 -   chromium -    Linux UI doesn't use the correct mask for the reload button. - Project Hosting on Google Code</title> <pre> This isn't immediately obvious on the default chrome-theme  but if you   install something like GoodSmile  there's obvious rounded corners on the   right side of the reload button. </pre>

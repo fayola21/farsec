@@ -1,0 +1,1 @@
+Support filtering hosts based on discovery status    Api to get hosts should allow filtering out bad hosts   

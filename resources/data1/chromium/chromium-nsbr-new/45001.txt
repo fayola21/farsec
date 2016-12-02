@@ -1,0 +1,1 @@
+<title>Issue 45001 -   chromium -    NewTabUITest.ChromeInternalLoadsNTP flaky on XP - Project Hosting on Google Code</title> <pre> NewTabUITest.ChromeInternalLoadsNTP:  C:bslavechromium-dbg-  builderbuildsrcchromebrowserdom_uinew_tab_ui_uitest.cc(71): error:   Expected: (thumbnails_count) &gt; (0)  actual: 0 vs 0    appears to fail about 5% of the time on XP.   </pre>

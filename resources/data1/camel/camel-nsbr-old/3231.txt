@@ -1,0 +1,1 @@
+JMX MBeans not registered for initiators    registering the Initiator before it has been started will not register the sessions mbeans with JMX. So the acceptors are ther  but no initiators.   

@@ -1,0 +1,1 @@
+<title>Issue 35872 -   chromium -    Chrome freezing when using wacom fun - Project Hosting on Google Code</title>   1. Browse for a while  2. Use a Wacom Fun tablet  3. The browser freezes for like 20 sec      Not freezing      Freezing    <b>Please provide

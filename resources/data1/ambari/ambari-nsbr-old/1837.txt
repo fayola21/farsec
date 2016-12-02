@@ -1,0 +1,1 @@
+Few core-site properties vanished after seemingly benign reconfiguration.    UI metadata properties are not being reconfigured and retained on saving services.   

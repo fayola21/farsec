@@ -1,0 +1,1 @@
+Add an example which use CXF bean binding and the OSGI HTTP Service (e.g. PAX Web with jetty)    Please see Nabble for details.   

@@ -1,0 +1,1 @@
+<title>Issue 33710 -   chromium -    pressing cookies exception button does nothing - Project Hosting on Google Code</title>   1. Goto Options  Under the hood  Content settings  2. Select cookies tab  3. Press exceptions button        Bring up a exceptions GUI/window like Firefox does        Nothing.     <b>Please provide

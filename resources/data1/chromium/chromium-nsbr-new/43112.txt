@@ -1,0 +1,1 @@
+<title>Issue 43112 -   chromium -    Handle empty http_proxy correctly - Project Hosting on Google Code</title>   1. Set the http_proxy environment variable to an empty value: &quot;export   http_proxy=&quot;  2. Make sure change is applied  3. Browse to any page using Chrome      The page should load.      I get a connection error.    <b>Please provide

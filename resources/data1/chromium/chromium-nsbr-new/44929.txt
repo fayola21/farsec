@@ -1,0 +1,1 @@
+<title>Issue 44929 -   chromium -    Speed Tracer shows Cached files as Not-Cached in Network tab - Project Hosting on Google Code</title> <pre> Even when files are being loaded from cache  they have a &quot;From Cache&quot; value   of &quot;false&quot; and show an HTTP status of &quot;200&quot;.    Chrome version: 6.0.408.1 dev    thanks     -Nick   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36750 -   chromium -    Chrome crashes when you drag images or links. - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.335.0 (Build oficial 39561) dev        1. Load any web page with images or links.  2. Click and drag any image or link.  3. Chrome will crash.      Google Chrome will drag the image or link.      Google Chrome crashes. </pre>

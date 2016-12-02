@@ -1,0 +1,1 @@
+<title>Issue 28768 -   chromium -    SimSun is not good for Trad. Chinese users.  Use PMingLiU instead  please. - Project Hosting on Google Code</title>   1. Start the Chrome Browser  2. Visit any Traditional Chinese webpage        The font of Traditional Chinese characters should be PMingLiu        The font of Traditional Chinese characters is now in SimSun    <b>Please provide

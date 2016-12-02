@@ -1,0 +1,1 @@
+<title>Issue 34042 -   chromium -    Site is wrong - Project Hosting on Google Code</title>   1.When I open the browser it centers on the upper left even giving F5 or   opening another site he continues in that space      Open site      Site fica desconfigurado    <b>Please provide

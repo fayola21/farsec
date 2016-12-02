@@ -1,0 +1,1 @@
+AjaxEditableLabel and AjaxMultiLineEditableLabel do not honour enabled status    On AjaxEditableLabel and subclasses  setEnabled(false) has no effect.It should prevent the component from being editable (i.e. it should behave like a normal Label).   

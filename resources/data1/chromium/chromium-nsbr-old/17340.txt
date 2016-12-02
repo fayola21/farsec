@@ -1,0 +1,1 @@
+<title>Issue 17340 -   chromium -    Don't show boxes around buttons - Project Hosting on Google Code</title>   1. Start chromium-browser  2. Take a look at the toolbar: gtk apps don't have regular box around icons   at the toolbar. It only appears if mouse pointer is hanging over an icon        Show box only if mouse pointer is hanging over the icon          <b>Please provide

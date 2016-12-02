@@ -1,0 +1,1 @@
+<title>Issue 31255 -   chromium -    libjingle needs to stop using _DEBUG - Project Hosting on Google Code</title> <pre> _DEBUG is a Windows-only define.  This means that libjingle debug code   doesn't get built on non-Windows platforms.  A lot of places in libjingle use   _DEBUG.    NDEBUG should be used instead.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16978 -   chromium -    Merge latest changes to net/ftp/ftp_directory_parser.cc from Mozilla - Project Hosting on Google Code</title> <pre> We should merge the following changes to net/ftp/ftp_directory_parser.cc  from Mozilla:  <a href="http://hg.mozilla.org/mozilla-central/rev/b79bc71c6832">http://hg.mozilla.org/mozilla-central/rev/b79bc71c6832</a> </pre>

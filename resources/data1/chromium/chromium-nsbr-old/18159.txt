@@ -1,0 +1,1 @@
+<title>Issue 18159 -   chromium -    Chrome doesn't honor fontconfig settings - Project Hosting on Google Code</title>   1.visiting any web site      the web site text shold not be allways anti-aliased      instead it is.    <b>Please provide

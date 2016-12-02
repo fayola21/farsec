@@ -1,0 +1,1 @@
+<title>Issue 5726 -   chromium -    Properly compile SkASSERTs - Project Hosting on Google Code</title> <pre> I'm not sure if we define the right flags to enable assertions in Skia. Now   that I've moved a lot of our skia/ext code to using SkASSERT  we will want   to make sure they are working properly. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14236 -   chromium -    unable to drag &quot;share on facebook&quot; bookmarklet to bookmarks bar. existing BM'klets work fine. - Project Hosting on Google Code</title>   1. just goto URL above and drag to bar                    <b>Please provide

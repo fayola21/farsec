@@ -1,0 +1,1 @@
+<title>Issue 24429 -   chromium -    Mac toolbar buttons aren't tinted any more with themes - Project Hosting on Google Code</title> <pre> They aren't. </pre>

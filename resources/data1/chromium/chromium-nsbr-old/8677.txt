@@ -1,0 +1,1 @@
+<title>Issue 8677 -   chromium -    Different process names for main and child processes - Project Hosting on Google Code</title>   1. Start Chrome  2. Start Task Manager  3. Many chrome.exe processes  impossible to distinguish which one is the main        1 chrome.exe n chrome-child.exe        n chrome.exe    Please provide

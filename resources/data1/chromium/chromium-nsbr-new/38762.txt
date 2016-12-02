@@ -1,0 +1,1 @@
+<title>Issue 38762 -   chromium -    Page crashes after click and scroll with mousewheel - Project Hosting on Google Code</title>   1. Browse to one of the pages  2. Click on the page and then scroll with mousewheel  3. Page display fails    What is the expected result? User is able to scroll in page with mousewheel      What happens instead? Page crashes      <b>Please provide

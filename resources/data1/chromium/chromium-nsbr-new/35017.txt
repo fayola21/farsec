@@ -1,0 +1,1 @@
+<title>Issue 35017 -   chromium -    NaCl: add platform tests to check TLS retrieval from separate threads - Project Hosting on Google Code</title> <pre> The current test is single-threaded  which is valuable for making sure our   hand-coded assembly matches the compiler-generated TLS code  but isn't a full   test of the functionality. </pre>

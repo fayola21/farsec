@@ -1,0 +1,1 @@
+<title>Issue 38394 -   chromium -    huji.ac.il: owl.huji.ac.il displays a warning that Chrome isn't a supported browser - Project Hosting on Google Code</title> <pre>   1. Navigate to owl.huji.ac.il  2. Note warning text    A student login is needed in order to enter the site  therefore I can't check to see if there are actually   any bugs. </pre>

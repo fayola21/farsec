@@ -1,0 +1,1 @@
+<title>Issue 21466 -   chromium -    Regression : cannot view content in a hyperlinked page - Project Hosting on Google Code</title>   1. Go to any page   2. Right-click on a link/hyper-link  3. Choose Open Link in New Tab        The new page should open with all the content.         I can see the new page icon but cannot view the content.     <b>Please provide

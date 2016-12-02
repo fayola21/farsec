@@ -1,0 +1,1 @@
+<title>Issue 7988 -   chromium -    We should restrict document.domain to a registry controlled domain - Project Hosting on Google Code</title> <pre> I thought we were doing this already  but apparently not.    Upstream version of this issue:  <a href="https://bugs.webkit.org/show_bug.cgi?id=21318">https://bugs.webkit.org/show_bug.cgi?id=21318</a>     </pre>

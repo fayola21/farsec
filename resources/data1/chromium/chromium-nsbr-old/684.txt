@@ -1,0 +1,1 @@
+<title>Issue 684 -   chromium -    bookmarks from firefox - Project Hosting on Google Code</title> <pre> Product Version      : Chrome/0.2.149.27 betta              Firefox 3:version 3.0.1        1. bookmarks   does not view bookmarks from firefox    see the attach file       </pre>

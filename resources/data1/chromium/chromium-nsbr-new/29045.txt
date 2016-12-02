@@ -1,0 +1,1 @@
+<title>Issue 29045 -   chromium -    Use system libjingle - Project Hosting on Google Code</title> <pre> Chromium should use the system libjingle  using the same methodology  already created for other third party bits.   </pre>

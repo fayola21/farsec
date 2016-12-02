@@ -1,0 +1,1 @@
+<title>Issue 41286 -   chromium -    Use a different default icons for apps - Project Hosting on Google Code</title> <pre> Currently the default icon for apps is the puzzle piece from extensions. Should there be a   different one for apps? </pre>

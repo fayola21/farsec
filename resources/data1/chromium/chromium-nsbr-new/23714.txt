@@ -1,0 +1,1 @@
+<title>Issue 23714 -   chromium -    Facebook compose/reply message box - Project Hosting on Google Code</title>   1. Log on to facebook  2. Navigate to inbox  3. Attempt to reply to or compose a message      Inputed text from keystrokes should appear within the message text box.      No text appears after keystrokes are made.    <b>Please provide

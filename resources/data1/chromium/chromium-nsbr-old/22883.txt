@@ -1,0 +1,1 @@
+<title>Issue 22883 -   chromium -    Put an &quot;Extensions&quot; menu entry in the wrench - Project Hosting on Google Code</title> <pre> People often complain that they don't know how to get rid of the extensions. </pre>

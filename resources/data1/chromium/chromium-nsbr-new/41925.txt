@@ -1,0 +1,1 @@
+<title>Issue 41925 -   chromium -    Slow zoom and scroll behaviour - Project Hosting on Google Code</title>   1. <a href="http://test-chrome.awardspace.us/extensions.html">http://test-chrome.awardspace.us/extensions.html</a>  2. zoom   3. scroll        normal zoom and scroll behaviour        really slow zoom and scroll behaviour    <b>Please provide

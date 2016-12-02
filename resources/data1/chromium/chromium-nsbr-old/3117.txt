@@ -1,0 +1,1 @@
+<title>Issue 3117 -   chromium -    Add to dictionary error - Project Hosting on Google Code</title>   1. Write: Euphorbiaceae  2. Right click  3. Add to Dictionary      Add a word and continue the navegation      Crash!!!! and reset Google chrome    Please provide

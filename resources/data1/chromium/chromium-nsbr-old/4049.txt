@@ -1,0 +1,1 @@
+<title>Issue 4049 -   chromium -    drag and drop links on German systems - Project Hosting on Google Code</title>   1. you can only move a link. you can't drag and drop a copy of a link.  2. the STRG key for copy  doesn't work with cromium                  Please provide

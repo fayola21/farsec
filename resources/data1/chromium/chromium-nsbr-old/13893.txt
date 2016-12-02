@@ -1,0 +1,1 @@
+<title>Issue 13893 -   chromium -    Remove event pumping code from renderer_main_platform_delegate_mac.mm - Project Hosting on Google Code</title> <pre> When Cocoa is removed from the renderer  the hack to pump events should be  removed. </pre>

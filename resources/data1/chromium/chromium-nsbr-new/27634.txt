@@ -1,0 +1,1 @@
+<title>Issue 27634 -   chromium -    Employ CocoaTest in Various Unittests - Project Hosting on Google Code</title> <pre> Replace the use of PlatformTest with CocoaTest in the following:    - import_settings_dialog_unittest.mm  - bookmark_editor_base_controller_unittest.mm  - bookmark_editor_controller_unittest.mm  - bookmark_all_tabs_controller_unittest.mm </pre>

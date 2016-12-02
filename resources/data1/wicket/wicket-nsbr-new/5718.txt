@@ -1,0 +1,1 @@
+Upgrade Atmosphere to 2.2.2    Wicket-atmosphere should be upgraded to the latest version of Atmosphere.   

@@ -1,0 +1,1 @@
+<title>Issue 2403 -   chromium -    Title tooltip clamping too aggressive - Project Hosting on Google Code</title> <pre>   1. Visit a site with a long tooltip: <a href="http://xkcd.com/477/">http://xkcd.com/477/</a>  2. Note the tooltip is cut off.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39600 -   chromium -    ��__��_ann't change Font's Style to Bold. - Project Hosting on Google Code</title>   1. Open &quot;Options&quot; - &quot;Under the Hood&quot;.  2. Click &quot;Change Font and Language settings&quot;  3. Change Font's Style to Bold is invalidate                <b>Please provide

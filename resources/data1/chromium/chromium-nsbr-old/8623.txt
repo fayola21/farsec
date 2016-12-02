@@ -1,0 +1,1 @@
+<title>Issue 8623 -   chromium -    Scrollbar coloring problem when using mouse click - Project Hosting on Google Code</title>   1. Click on an empty part of the scrollbar tray near the slider so that the   slider comes under you mouse after the click.  2. Half of the slideris colored and the other half is not.                Please provide

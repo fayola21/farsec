@@ -1,0 +1,1 @@
+<title>Issue 26940 -   chromium -    Chrome latest Beta slow to open pages - Project Hosting on Google Code</title>   1. Try to access any page          Opens at normal chrome speed      Long delays &quot;Waiting for        A Refresh command often moves things along   often at once    <b>Please provide

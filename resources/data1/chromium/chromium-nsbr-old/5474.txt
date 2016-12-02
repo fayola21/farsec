@@ -1,0 +1,1 @@
+<title>Issue 5474 -   chromium -    Flash videos on ABC are janky - Project Hosting on Google Code</title> <pre> I noticed this on my Vista laptop when running on battery. Here's the URL <a href="http://abc.go.com/primetime/lost/index?pn=index">http://abc.go.com/primetime/lost/index?pn=index</a> . Firefox is much smoother. </pre>

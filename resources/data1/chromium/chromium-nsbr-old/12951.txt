@@ -1,0 +1,1 @@
+<title>Issue 12951 -   chromium -    Map24 doesn't work in Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.183.0 (Developer Build 17013)  URLs (if applicable) : <a href="http://www.us.map24.com/">http://www.us.map24.com/</a>      Firefox 3.0: OK           IE 7: OK           IE 8: OK    The Java applet doesn't seem to start.   </pre>

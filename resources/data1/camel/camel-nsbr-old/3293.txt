@@ -1,0 +1,1 @@
+Add exception.stacktrace to Simple language    So you can output the stracktrace. It should grab the stacktrace and print it to a String as output.   

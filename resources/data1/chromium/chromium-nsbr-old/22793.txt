@@ -1,0 +1,1 @@
+<title>Issue 22793 -   chromium -    media_bench -video-threads=10 crashes - Project Hosting on Google Code</title> <pre> This crashes  media_bench --fast2=1 --stream=video --video-threads=10 trek2.mp4  anything 10 threads or more crashes.  Since machines now have up to 16   threads  it will make sense to use more threads in the future.   </pre>

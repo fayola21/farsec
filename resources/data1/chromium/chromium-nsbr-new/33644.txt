@@ -1,0 +1,1 @@
+<title>Issue 33644 -   chromium -    In the browser address bar  select the text - Project Hosting on Google Code</title>   1.Browser address bar  2.Double-click the left mouse button  3.Select Text      Select Text      Select Text+&quot;.&quot; &quot;?&quot; &quot;/&quot;    <b>Please provide

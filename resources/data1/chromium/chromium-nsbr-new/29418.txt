@@ -1,0 +1,1 @@
+<title>Issue 29418 -   chromium -    Blank Server Side Image Map Coordinates - Project Hosting on Google Code</title>   1. Load a page with a 250x250px server side image map.  2. Click the bottom right corner pixel.      The server should see coordinates: 249 249      The server sees blank coordinates.    <b>Please provide

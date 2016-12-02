@@ -1,0 +1,1 @@
+<title>Issue 35725 -   chromium -    Gujarati text renders incorrectly - Project Hosting on Google Code</title>   1. Goto any site that displays Gujarati Unicode Text          Gujarati text rendered correctly      Shows squares in some places and most other glyphs are rendered   incorrectly.    <b>Please provide

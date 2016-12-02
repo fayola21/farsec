@@ -1,0 +1,1 @@
+<title>Issue 6797 -   chromium -    Pasted URL not opened at end of strip with alt-enter - Project Hosting on Google Code</title> <pre> Pasting a URL into the omnibox (with ctrl-v) and hitting alt-enter opens   the URL next to the current tab instead of at the end of the strip.  This   does not happen with typed (non-pasted) URLs. </pre>

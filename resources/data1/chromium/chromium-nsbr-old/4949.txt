@@ -1,0 +1,1 @@
+<title>Issue 4949 -   chromium -    missing busy mouse cursor when running downloaded executables - Project Hosting on Google Code</title>   1. after downloading software(installers etc) doubleclicking doesn't invoke   a &quot;busy&quot; mouse cursor as if nothing happens  as a result the downloaded   programs will be run more than once.                    Please provide

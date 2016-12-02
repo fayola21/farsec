@@ -1,0 +1,1 @@
+<title>Issue 34896 -   chromium -    Escape key will not exit flash video / no video control - Project Hosting on Google Code</title>   1.View flash video in full screen  2.exit message and controls disappear   3.press esc or try to bring back vid timeline controls      exit full screen - vid playback control      nothing  though vid continues to play      <b>Please provide

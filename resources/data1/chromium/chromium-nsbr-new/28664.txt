@@ -1,0 +1,1 @@
+<title>Issue 28664 -   chromium -    Amend manifest docs to specify max title (45) and description (132) lengths. - Project Hosting on Google Code</title> <pre> Self-explanatory. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7382 -   chromium -    Shockwave flash plugin cpu overload - Project Hosting on Google Code</title>   1. Goto <a href="http://www.arstechnica.com">http://www.arstechnica.com</a>            Display of Arstechnica main page with minimal CPU load        Shockwave Flash plugin consumes up to 45% CPU    Please provide

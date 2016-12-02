@@ -1,0 +1,1 @@
+<title>Issue 28676 -   chromium -    gmail doesn't finish loading - Project Hosting on Google Code</title>   1. login to gmail  2. wait for main interface to finish loading        interface loads and gmail works as usual      the progress bar stops at about 95%. after 30-60 seconds the page refreshes   and attempts to load again  but fails.    <b>Please provide

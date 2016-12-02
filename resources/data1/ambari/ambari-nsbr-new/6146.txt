@@ -1,0 +1,1 @@
+It's not possible to input 'Enter' on 'Target hosts' textarea on 2nd step of Installer wizard'    It's not possible to input 'Enter' on 'Target hosts' textarea.   

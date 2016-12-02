@@ -1,0 +1,1 @@
+<title>Issue 8759 -   chromium -    dev build -201691 will not open - Project Hosting on Google Code</title>   1. upgrade to the latest dev build  2. try to open chrome after after upgrading        chrome should open normally       you get a box  saying &quot;whoa chrome has crashed restart now??    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 19344 -   chromium -    lists.apple.com causes tab crash on Linux - Project Hosting on Google Code</title>   1. Open <a href="http://lists.apple.com/">http://lists.apple.com/</a>      Web page loads.      The tab crashes.    <b>Please provide

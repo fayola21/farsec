@@ -1,0 +1,1 @@
+<title>Issue 13605 -   chromium -    home button - Project Hosting on Google Code</title>             I use ubuntu linux. When i set homepage in options and then i click to home   button the home page is still about:linux-splash. It does not work after   restart too.           <b>Please provide

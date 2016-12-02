@@ -1,0 +1,1 @@
+<title>Issue 26217 -   chromium -    CanProcessInputEvents not used - Project Hosting on Google Code</title> <pre> TabStrip::CanProcessInputEvents is not used  remove it. </pre>

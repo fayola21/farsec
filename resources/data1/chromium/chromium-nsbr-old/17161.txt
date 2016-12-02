@@ -1,0 +1,1 @@
+<title>Issue 17161 -   chromium -    in previous version i can read thai (work) but in this version don't work :( - Project Hosting on Google Code</title>                       <b>Please provide

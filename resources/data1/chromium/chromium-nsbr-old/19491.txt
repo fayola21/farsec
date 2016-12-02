@@ -1,0 +1,1 @@
+<title>Issue 19491 -   chromium -    Chromium uses wrong environment variable to determine interface language - Project Hosting on Google Code</title>   1. export LC_CTYPE=sv_SE.UTF-8  2. export LC_MESSAGES=en_US.UTF-8  3. ./chrome      Interface is in english.      Interface is in swedish.    <b>Please provide

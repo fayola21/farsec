@@ -1,0 +1,1 @@
+<title>Issue 45371 -   chromium -    Javascript Console bogus TOP - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.55    On earlier versions when writing &quot;top&quot; in the javascript console  all   document/functions/objects from the top level where shown.    Now it only answers:    &gt;global    opening it gives nothing.   </pre>

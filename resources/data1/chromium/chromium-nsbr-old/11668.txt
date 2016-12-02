@@ -1,0 +1,1 @@
+<title>Issue 11668 -   chromium -    logging into or out of digg.com crashes tab in linux - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0 (15644)  URLs (if applicable) : <a href="http://digg.com">http://digg.com</a>  Other browsers tested: none      1. Log into or out of digg      Happy tab      Sad tab   </pre>

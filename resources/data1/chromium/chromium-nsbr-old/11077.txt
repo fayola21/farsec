@@ -1,0 +1,1 @@
+<title>Issue 11077 -   chromium -    presubmit check for .gyp and .gypi files - Project Hosting on Google Code</title> <pre> Checking in a bad .gyp or .gypi file can cause the buildbots to checkout  lots of files.  It would be nice if there was a presubmit check that  verified that the files were at least valid python. </pre>

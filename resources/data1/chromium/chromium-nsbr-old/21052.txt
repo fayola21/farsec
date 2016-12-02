@@ -1,0 +1,1 @@
+<title>Issue 21052 -   chromium -    Keyboard focus not returned to browser after Save dialog is shown - Project Hosting on Google Code</title> <pre>   1. Install a theme  2. Wait till the infobar appears (successful install)  3. Press Ctrl+T      Focus is transfered from the renderer to the infobar so the ctrl+t gets   eaten. </pre>

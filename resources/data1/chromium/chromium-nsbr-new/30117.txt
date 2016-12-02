@@ -1,0 +1,1 @@
+<title>Issue 30117 -   chromium -    New tab window elements resize - Project Hosting on Google Code</title>   1.Open a new tab  2.Press the shortcut Ctrl++ (or Ctrl+ -)      I suppose disabling the zoom option in the new tab will be good.      The elements get resized  a user unaware of the shortcut may get confused      <b>Please provide

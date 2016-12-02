@@ -1,0 +1,1 @@
+<title>Issue 10958 -   chromium -    Rendering glitches with focused radio buttons on XP - Project Hosting on Google Code</title> <pre> This seems to happen on XP.    Radio buttons and checkboxes are having their labels truncated as they are   focused in the options dialog box. </pre>

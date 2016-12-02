@@ -1,0 +1,1 @@
+<title>Issue 23889 -   chromium -    Implement tab/button mouse tracking hover effect on Windows - Project Hosting on Google Code</title> <pre> We need to implement the tab and button mouse tracking hover effect from Mac   on Windows in the tabs and toolbar buttons. Look at Mac tabs right now to see   what I mean. </pre>

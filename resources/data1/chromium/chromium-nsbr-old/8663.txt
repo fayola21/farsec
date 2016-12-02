@@ -1,0 +1,1 @@
+<title>Issue 8663 -   chromium -    Don't get status-bar on hovering over a link - Project Hosting on Google Code</title>   1. Hover over a link  2. Note that no status-bar pop-up appears  3. File bug report      In the lower-left corner of the browser  a status-bar would appear with the   link destination.      No status-bar appears.    Please provide

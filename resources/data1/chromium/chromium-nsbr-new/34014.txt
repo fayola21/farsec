@@ -1,0 +1,1 @@
+<title>Issue 34014 -   chromium -    Bookmarks Sync not full - Project Hosting on Google Code</title> <pre> Chrome Version: 4.0.302.2    Bookmarks from &quot;Other Bookmarks&quot; folder are not synced and are saved in main   Bookmarks Bar instead and they just lie there.  </pre>

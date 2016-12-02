@@ -1,0 +1,1 @@
+<title>Issue 18244 -   chromium -    some sites are losing the focus of the Chromium windows - Project Hosting on Google Code</title>   1. Enter the site like <a href="http://globo.com">http://globo.com</a>  while the site is loading the   Chromium loses the focus of his windows  so  no one keyboard shortcut   works.                    <b>Please provide

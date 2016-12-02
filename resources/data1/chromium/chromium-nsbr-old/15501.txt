@@ -1,0 +1,1 @@
+<title>Issue 15501 -   chromium -    Remove middle click to navigate once we have extensions - Project Hosting on Google Code</title> <pre> Remove middle click to navigate once we have extensions    <a href="http://codereview.chromium.org/147246">http://codereview.chromium.org/147246</a> </pre>

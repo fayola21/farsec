@@ -1,0 +1,1 @@
+<title>Issue 36233 -   chromium -    Google Chrome Helper Crash - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.322.2  URLs (if applicable) : N/A  Other browsers tested: N/A      It crashed after I had switched wireless networks. Other than that  no   unusual behavior. Chrome was inactive.      No crash.      It crashed. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20106 -   chromium -    Browser Fails on Startup - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.203.0 (23670)        1. Have chromium set to open multiple tabs/URLs on startup.  2. Start Chromium  3. Before pages are fully loaded  click anywhere (another tab  the URL   bar...)      Focus is changed.      Crashes   </pre>

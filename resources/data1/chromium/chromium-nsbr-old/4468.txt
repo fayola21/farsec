@@ -1,0 +1,1 @@
+<title>Issue 4468 -   chromium -    Crash upon detaching tab on Vista tablet - Project Hosting on Google Code</title>   -  Open Chrome  add a new tab  drag that tab to detach it and rapidly   release the left mouse button.       - tab should detach      - Chrome crashes in many cases (50% of the time?) with a 'Whoa!'    Please provide

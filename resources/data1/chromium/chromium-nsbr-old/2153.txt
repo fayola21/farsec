@@ -1,0 +1,1 @@
+<title>Issue 2153 -   chromium -    Allow OSDD to contain https sites - Project Hosting on Google Code</title> <pre> Currently we only only allow http sites in OSDD files. There has been a   request to use https as well.  </pre>

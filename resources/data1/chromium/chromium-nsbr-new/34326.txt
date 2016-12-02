@@ -1,0 +1,1 @@
+<title>Issue 34326 -   chromium -    Can't close chrome tab while it downloading - Project Hosting on Google Code</title> <pre> Chrome Version       : 1 2      1. In some cases chrome does not react on my close-actions while it atempt to   download web-page. At the end of downloading it cans.  Thanks.     </pre>

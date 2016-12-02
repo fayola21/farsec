@@ -1,0 +1,1 @@
+<title>Issue 1660 -   chromium -    delete bookmark - missing confirmation alert.  - Project Hosting on Google Code</title>             When the user chooses to eliminate a bookmark it should appear a   confirmation message asking the user if he's sure about it.           Please provide

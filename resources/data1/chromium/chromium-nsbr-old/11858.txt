@@ -1,0 +1,1 @@
+<title>Issue 11858 -   chromium -    Chrome update does not work: 2.0.180.0 not found - Project Hosting on Google Code</title>   1. The usual: Clicking 'About GChrome'          Updating Chrome dev      No updating (is it possible that GGears doesn't work as it doesn't show in  the 'developer' window?)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 35287 -   chromium -    Problems in IE - Project Hosting on Google Code</title> <pre> Frame Chrome does not work in IE  and have tried to disable it and   reinstall but still does not work. It works because Google Wave  Chrome   Frame required for use on your computer from IE  does not work. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15919 -   chromium -    bernard-nicod.ch crashes tab - Project Hosting on Google Code</title>   1. Go to site.  2. Tab hangs  dialog for kill tab comes up.        The site should work  even without Flash.        Crash.    <b>Please provide

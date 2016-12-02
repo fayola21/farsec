@@ -1,0 +1,1 @@
+Shrink top nav height    Navbar's height should be shrunk to ~40px.   

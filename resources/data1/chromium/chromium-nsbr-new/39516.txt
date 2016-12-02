@@ -1,0 +1,1 @@
+<title>Issue 39516 -   chromium -    Don't close browser if exists phantom (offline pinned) tabs - Project Hosting on Google Code</title>   1. pin some tabs  2. close pined tabs with middle-click  3. close all other tabs      browser stays open with &quot;offline&quot; pinned tabs and NTP &quot;+&quot; button      browser exits    <b>Please provide

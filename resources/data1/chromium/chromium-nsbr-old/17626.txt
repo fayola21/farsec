@@ -1,0 +1,1 @@
+<title>Issue 17626 -   chromium -    Localize &quot;(empty)&quot; string in bookmark menus  - Project Hosting on Google Code</title> <pre> If empty  bookmark menus (e.g. on folders) say &quot;(empty)&quot;.  Localize this string.   </pre>

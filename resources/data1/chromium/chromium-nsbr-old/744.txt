@@ -1,0 +1,1 @@
+<title>Issue 744 -   chromium -    Language Dictionary - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27             Safari 3:FAIL      Firefox 3:OK           IE 7:FAIL  Adding a language dictionary similar to what FireFox has so that a user can  fix Spelling even some grammatical errors like MS Words.  </pre>

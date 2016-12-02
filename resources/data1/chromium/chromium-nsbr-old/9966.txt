@@ -1,0 +1,1 @@
+<title>Issue 9966 -   chromium -    URL Bar doesn't get focus when opening Chrome. It get focus only on New Tab opening - Project Hosting on Google Code</title>   1. Open Chrome  2. Try to digit an URL without clicking in the URL bar                  <b>Please provide

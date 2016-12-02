@@ -1,0 +1,1 @@
+<title>Issue 13541 -   chromium -    Pressing 'delete' key does not cause Chrome to go back - Project Hosting on Google Code</title>   1. go to any site (e.g. <a href="http://news.google.com">http://news.google.com</a>)  2. follow any link  3. press 'delete' key      browser goes to previous page      nothing      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20824 -   chromium -    localhost just a word - Project Hosting on Google Code</title>   1. F6 -&gt; localhost  2. browser asking google :)      I'd like to visit 127.0.0.1 page :)          <b>Please provide

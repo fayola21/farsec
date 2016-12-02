@@ -1,0 +1,1 @@
+<title>Issue 26560 -   chromium -    'Clear Browsing History' Not Showing In Tools Dropdown ? - Project Hosting on Google Code</title>   1.Click on Tools          To see 'clear browsing history'         It's not present on dropdown menu.      <b>Please provide

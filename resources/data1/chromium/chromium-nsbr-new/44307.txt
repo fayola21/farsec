@@ -1,0 +1,1 @@
+<title>Issue 44307 -   chromium -    Tab bar goes blank - Project Hosting on Google Code</title>   1.selecting addressbar then entering address and pressing enter would   make other tabs appear blank.                    <b>Please provide

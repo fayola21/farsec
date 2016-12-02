@@ -1,0 +1,1 @@
+<title>Issue 5224 -   chromium -    Maximizing Chrome browser doesn't work as expected - Project Hosting on Google Code</title>   1. Maximizing the Chrome Window      Maximized Chrome windows      The window is smaller:  - there is a bit free space on the right side of the window  - there is a much free space below the window  - I can still move the window    Please provide

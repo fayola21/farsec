@@ -1,0 +1,1 @@
+<title>Issue 21788 -   chromium -    Have buildbot slaves build only what they need - Project Hosting on Google Code</title> <pre> Speed cycle times by not building unnecessary projects (e.g.  slaves that   aren't running ui_tests don't need to build the ui_tests executable). </pre>

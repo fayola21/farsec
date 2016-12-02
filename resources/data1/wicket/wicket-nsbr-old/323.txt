@@ -1,0 +1,1 @@
+AjaxEditableLabel on setModel does not update the labels model only the editors    The AjaxEditableLabel when you perform a setModel() it will go ahead and update the underlying model of the editor however  it does not update the underlying model of the Label   

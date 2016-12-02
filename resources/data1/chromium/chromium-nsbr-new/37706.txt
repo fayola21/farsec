@@ -1,0 +1,1 @@
+<title>Issue 37706 -   chromium -    Impossible to load a theme or an extension - Project Hosting on Google Code</title>   1.Move Documents and Settings folder in an other partition using the   JUNCTION POINT functionality of NTFS file system      Installation of the theme or the extension.      The .crx file is downloaded but nothing appear.    <b>Please provide

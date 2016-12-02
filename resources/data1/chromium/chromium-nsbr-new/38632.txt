@@ -1,0 +1,1 @@
+<title>Issue 38632 -   chromium -    Summer time or daylight saving time not reflected correctly in history - Project Hosting on Google Code</title>   1. load many sites  like google  bbc  nhl.com ...  2. display chrome history        the time on the left should be DST  wall tile.        the time on the left is winter time.    <b>Please provide

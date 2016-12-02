@@ -1,0 +1,1 @@
+<title>Issue 45366 -   chromium -    zoom lacks text-resize-only option - Project Hosting on Google Code</title>   1. Open the view menu   2. Look for a text only zoom option      An option to resize text only without zooming the entire page      No such option present    <b>Please provide

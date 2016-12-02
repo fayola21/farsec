@@ -1,0 +1,1 @@
+<title>Issue 37019 -   chromium -    Scrolling the windows content with the wheel does not close/move opened drop downs - Project Hosting on Google Code</title>   1. Open the drop down box  2. Scroll the window content with the scroll wheel      The drop down should close or move with the box.      The drop down box sticks on the screen where it was opened.      <b>Please provide

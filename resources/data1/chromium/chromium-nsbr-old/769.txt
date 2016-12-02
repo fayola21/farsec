@@ -1,0 +1,1 @@
+<title>Issue 769 -   chromium -    &quot;Create app shortcut&quot; dialog does not show checkboxes - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)  URLs (if applicable) : any      1. Open any URL  2. Select &quot;Create application shortcuts&quot; from the document menu      A dialog box with visible checkboxes      See attachment    </pre>

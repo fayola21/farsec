@@ -1,0 +1,1 @@
+Camel test - Debugger should be explicit enabled if end user want to leverage it    The debugger adds a little overhead and silently enables tracer as well. We should have the end user to explicit enable the debugger if he need to use it from his unit tests.   

@@ -1,0 +1,1 @@
+add support to set the cipher used for SFTP    Right now a user has to manually configure a JSch instance to set the cipher used. We should have an option for that.   

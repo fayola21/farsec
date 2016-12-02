@@ -1,0 +1,1 @@
+<title>Issue 45673 -   chromium -    icon launch takes forever - Project Hosting on Google Code</title>   1. Cick on any chrome start icon or url shortcut icon          Before yesterday new or subsequent chrome windows always launched fast.      Launching new chrome window takes .5 to 1.5+ minutes to launch.    <b>Please provide

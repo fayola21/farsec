@@ -1,0 +1,1 @@
+<title>Issue 37606 -   chromium -    Lastpass plugin crashing  - Project Hosting on Google Code</title> <pre> Lastpass plugin crashing with new Windows Beta Chrome build 4.1.249.1025  Chrome Version        </pre>

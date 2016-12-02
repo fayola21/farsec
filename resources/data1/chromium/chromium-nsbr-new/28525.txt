@@ -1,0 +1,1 @@
+<title>Issue 28525 -   chromium -    News Reader based addon - Feedburner doesn't work - Project Hosting on Google Code</title> <pre> i am working on an extension which is based on the Sample News Reader.  i want to use a feedburner feed  but i get Error: Failed to fetch RSS feed </pre>

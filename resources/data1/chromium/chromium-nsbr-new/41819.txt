@@ -1,0 +1,1 @@
+<title>Issue 41819 -   chromium -    Latest version of chrome strips off the http:// prefix from URLs in the location bar - Project Hosting on Google Code</title>   1. <a href="http://www.google.com">http://www.google.com</a>          The URL should remain intact.      All URLs except https have the http:// prefix stripped.    <b>Please provide

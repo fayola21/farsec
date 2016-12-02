@@ -1,0 +1,1 @@
+<title>Issue 4230 -   chromium -    cromium destroyes internet icons - Project Hosting on Google Code</title>   1. if you deinstall cromium  there's no icon found anymore..                    Please provide

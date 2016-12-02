@@ -1,0 +1,1 @@
+<title>Issue 29371 -   chromium -    Propagate window activation state to plugins - Project Hosting on Google Code</title> <pre> Currently we always tell plugins that they are in active windows (via the Carbon interposing); we   should actually send the real information about activation and deactivation over the wire to plugins   so that we can give real answers. </pre>

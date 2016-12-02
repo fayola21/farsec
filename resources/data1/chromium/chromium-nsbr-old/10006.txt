@@ -1,0 +1,1 @@
+<title>Issue 10006 -   chromium -    Does not play music on lastfm.com - Project Hosting on Google Code</title>   1.Go to lastfm.com  2.pick any artist and song  3.player will not open up: will only open on Internet Explorer 8                <b>Please provide

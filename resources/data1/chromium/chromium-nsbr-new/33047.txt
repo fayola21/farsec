@@ -1,0 +1,1 @@
+<title>Issue 33047 -   chromium -    Cannot distinguish between popups using the &quot;chrome.windows&quot; API - Project Hosting on Google Code</title>   1. Create an extension that uses the chrome.windows API  2. Try to detect whether the window is a popup or normal window      It should be possible to do this.      It is not possible as near as I can see.    <b>Please provide

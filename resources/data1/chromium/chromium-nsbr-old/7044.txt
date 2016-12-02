@@ -1,0 +1,1 @@
+<title>Issue 7044 -   chromium -    Port reliability_tests to FilePath - Project Hosting on Google Code</title> <pre> reliability/page_load_test.cc (the main file in reliability_tests) uses   wstring to store file paths.  Change this to use FilePath instead to help   make these tests more platform independent. </pre>

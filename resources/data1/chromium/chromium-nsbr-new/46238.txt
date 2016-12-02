@@ -1,0 +1,1 @@
+<title>Issue 46238 -   chromium -    Corrupted bookmark db - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;from gcf:about:version&gt;          1. sync bookmarks  2. unable to make any changes to bookmarks  3. about:sync says errors        expect my changes to bookmarks to appear on docs.google.com      errors on the local machine   </pre>

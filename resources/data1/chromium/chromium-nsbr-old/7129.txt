@@ -1,0 +1,1 @@
+<title>Issue 7129 -   chromium -    Regression: about:network view now lacks scrollbars  making it fairly useless - Project Hosting on Google Code</title> <pre> Regression: about:network view now lacks scrollbars  making it fairly   useless    2.0.160.0 (Developer Build 8734) running on Vista.  i haven't tested it on   XP. </pre>

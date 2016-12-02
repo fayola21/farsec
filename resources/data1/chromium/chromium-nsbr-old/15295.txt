@@ -1,0 +1,1 @@
+<title>Issue 15295 -   chromium -    Cannot shut down Google Chrome - Project Hosting on Google Code</title> <pre> I cannot shut down my Google Chrome browser with the 'x' mark or even   minimize it for that matter. I have to close the individual pages to shut it   down. I have unistalled it and reistalled it but no use. I am using Windows   Vista original. Please help </pre>

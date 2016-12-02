@@ -1,0 +1,1 @@
+<title>Issue 27681 -   chromium -    View source hits the server - Project Hosting on Google Code</title>   1. View the source of any page      The source of the already open page should be displayed without hitting the   server again.      A new request is sent to the server.    <b>Please provide

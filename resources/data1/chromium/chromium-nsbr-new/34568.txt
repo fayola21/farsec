@@ -1,0 +1,1 @@
+<title>Issue 34568 -   chromium -    White Space and Pop-up windows not work after closing one time - Project Hosting on Google Code</title>   1. getting White space problem on from submission.  2.javascript pop-up windows. after closing pop-up small window and reopen   its not works secound time..... so pls fix these.                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 8871 -   chromium -    Dragging a tab opens a new window instead of switching positions - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.169.1    Other browsers tested: None      1. Drag a tab from the tab bar and move it left or right      The tab will switch positions with other tabs      A new window is opened.   </pre>

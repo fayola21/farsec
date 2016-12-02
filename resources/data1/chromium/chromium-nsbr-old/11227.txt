@@ -1,0 +1,1 @@
+<title>Issue 11227 -   chromium -    FTP not wrking behind (HTTP) Proxy - Project Hosting on Google Code</title>   1. Run Chrome in a network  that only allows internet access by http Proxy  2. Try to open an FTP page      Page opens  listing the file an directory entries      Chrome shows &quot;DNS error - Server not Found&quot; Page    <b>Please provide

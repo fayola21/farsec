@@ -1,0 +1,1 @@
+<title>Issue 39815 -   chromium -    crash with ruby tag - Project Hosting on Google Code</title> <pre> 1.py  ============  c=&quot;&lt;ruby&gt;&lt;blockquote&gt;&quot;*1000  k =file(&quot;aaa.html&quot; &quot;w+&quot;)  k.write(c)  k.close()   </pre>

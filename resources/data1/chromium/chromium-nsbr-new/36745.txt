@@ -1,0 +1,1 @@
+<title>Issue 36745 -   chromium -    Two bars appear next to active extension icons. - Project Hosting on Google Code</title>   1. Enable extension with an icon.                Two bars show up between omnibox and extension icon.     <b>Please provide

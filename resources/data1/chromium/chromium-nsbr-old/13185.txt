@@ -1,0 +1,1 @@
+<title>Issue 13185 -   chromium -    Ugly font rendering on linux - Project Hosting on Google Code</title>   1. open <a href="http://en.wikipedia.org/">http://en.wikipedia.org/</a> or any other website        ugly fonts are being rendered        fonts should be correctly rendered    see screenshot for Chromium and Firefox screenshot  <b>Please provide

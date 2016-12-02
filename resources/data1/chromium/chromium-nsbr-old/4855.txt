@@ -1,0 +1,1 @@
+<title>Issue 4855 -   chromium -    Chromium browserbar should add combox like control which can drop list most visited url - Project Hosting on Google Code</title> <pre> This function is very usefull and convenience for user  It works at ie firefox.   </pre>

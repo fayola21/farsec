@@ -1,0 +1,1 @@
+<title>Issue 37035 -   chromium -    Google Chrome Crash when trying to open Gmail offline - Project Hosting on Google Code</title>   1. Open Chromium  2. Open gmail        Gmail should open      Chromium chrash during the op��_��_ning of gmail    <b>Please provide

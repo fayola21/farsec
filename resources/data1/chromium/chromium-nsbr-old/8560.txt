@@ -1,0 +1,1 @@
+<title>Issue 8560 -   chromium -    Regression: selecting menu items by way of press  drag  release is broken - Project Hosting on Google Code</title> <pre>   1. navigate to a number of sites in the same tab.  2. press and hold on the back arrow.  3. drag and release over an item.        The item isn't selected  but it should be.       </pre>

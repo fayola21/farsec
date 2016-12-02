@@ -1,0 +1,1 @@
+<title>Issue 39011 -   chromium -    [4004:3000:6290943:ERROR:shell_integration_win.cc(276)] Chrome could not be set as default browser. - Project Hosting on Google Code</title> <pre> [4004:3000:6290943:ERROR:shell_integration_win.cc(276)] Chrome could not be   set as default browser.    with --enable-logging </pre>

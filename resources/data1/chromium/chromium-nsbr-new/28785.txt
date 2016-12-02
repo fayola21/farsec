@@ -1,0 +1,1 @@
+<title>Issue 28785 -   chromium -    Resize Corner Prevents Interaction with Google Maps - Project Hosting on Google Code</title>   1. Go to Google Maps  2. Click the arrow widget in the lower right hand corner      The overview map should toggle visibility.      Nothing.  The browser's resize corner is as big as Google Map's overview   toggler.    <b>Please provide

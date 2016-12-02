@@ -1,0 +1,1 @@
+<title>Issue 7845 -   chromium -    Pictures are not rendered at HuffingtonPost.com - Project Hosting on Google Code</title>   1. Bring up www.huffingtonpost.com  2. Scroll down and see that many pictures are not rendered under the   articles.                  Please provide

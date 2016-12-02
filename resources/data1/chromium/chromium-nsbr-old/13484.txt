@@ -1,0 +1,1 @@
+<title>Issue 13484 -   chromium -    Hebrew: Address bar search string - Project Hosting on Google Code</title> <pre>   Hebrew      3.0.183.1 (_��__��__��__��__��_ _��__��____��__��_ 17570)      Windows xp sp3      In the text of the address bar when you type a string to search for it   says:  _��____��_   instead of  _��____��_   </pre>

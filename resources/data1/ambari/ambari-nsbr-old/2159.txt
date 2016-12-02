@@ -1,0 +1,1 @@
+After upgrading ambari from 1.2.2.5 to 1.2.3.6 the server throws 500 error when starting/stopping any service    After upgrading ambari from 1.2.2.5 to 1.2.3.6 the server throws 500 error when starting/stopping any service   

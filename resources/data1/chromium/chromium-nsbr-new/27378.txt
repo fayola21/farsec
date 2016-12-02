@@ -1,0 +1,1 @@
+<title>Issue 27378 -   chromium -    linux chrome doesn't render archwiki properly - Project Hosting on Google Code</title>   1. install linux version of Chrome  2. open ArchWiki         Left-side navigation menu should be on the top of the page      Left-side navigation menu is on the very end    <b>Please provide

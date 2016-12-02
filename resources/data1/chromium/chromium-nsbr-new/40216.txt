@@ -1,0 +1,1 @@
+<title>Issue 40216 -   chromium -    Freezes When I try to attach a file in GMAIL - Project Hosting on Google Code</title>   1. Just repeatedly trying to attach a document.            Attach a document      It will let me find the file but it wont let me accept it.  The screen just   freezes and after awhile it asks me if i want to kill the page.    <b>Please provide

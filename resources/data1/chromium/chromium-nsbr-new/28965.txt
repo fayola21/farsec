@@ -1,0 +1,1 @@
+<title>Issue 28965 -   chromium -    Crash browser when opening youtube or similar video - Project Hosting on Google Code</title>   1.click to open video        What is the expected result? should have opened video      What happens instead? crash browser      <b>Please provide

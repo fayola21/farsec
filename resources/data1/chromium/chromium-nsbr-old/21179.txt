@@ -1,0 +1,1 @@
+<title>Issue 21179 -   chromium -    items missing from menu - Project Hosting on Google Code</title>   1.Click on the button with the pincer icon.      There should be &quot;clear history&quot; option.      Two lines between &quot;Downloads&quot; and &quot;Options&quot;.    <b>Please provide

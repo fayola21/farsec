@@ -1,0 +1,1 @@
+<title>Issue 7636 -   chromium -    Tooltips don't disappear - Project Hosting on Google Code</title>   1. ctrl+  2. enter a keyword  3. click on the bottom arrow button        a yellow box shows up with the text Next in it after removing the mouse it   should go away      The box stays in all browser windows    Please provide

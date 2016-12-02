@@ -1,0 +1,1 @@
+<title>Issue 29342 -   chromium -    third_party/cld lacks README.chromium or LiCENSE - Project Hosting on Google Code</title> <pre> These files are good to make the legal fairies happy.    It looks like sidchat checked this in.    Something about language detection -- CC'ing some people who maybe use it? </pre>

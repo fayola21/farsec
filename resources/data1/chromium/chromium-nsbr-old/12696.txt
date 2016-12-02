@@ -1,0 +1,1 @@
+<title>Issue 12696 -   chromium -    .crx installed Extensions must be signed (themes may be unsigned  but then cannot be upgraded) - Project Hosting on Google Code</title> <pre> ExtensionUnpacker::ReadPackageHeader is currently allowing extensions to be   unsigned. Before shipping  it must enforce that all non-theme extensions must   be signed. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18373 -   chromium -    TODO: Remove the HostResolver::Shutdown hack - Project Hosting on Google Code</title> <pre> This bug is about removing:      HostResolver::Shutdown()    Which was added as a workaround for 15513.    The underlying issue is being tracked through 18372. </pre>

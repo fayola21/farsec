@@ -1,0 +1,1 @@
+<title>Issue 19396 -   chromium -    currentTime for &lt;video&gt; goes back and forth - Project Hosting on Google Code</title> <pre>   1. Use chromium <a href="/p/chromium/source/detail?r=23485">r23485</a>  2. Open a video file  3. Watch the time  as it plays  the current time goes back and forth.             </pre>

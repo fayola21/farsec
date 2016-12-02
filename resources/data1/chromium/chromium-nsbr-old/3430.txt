@@ -1,0 +1,1 @@
+<title>Issue 3430 -   chromium -    Rename ChromeViews::ViewContainer and ChromeViews::HWNDViewContainer - Project Hosting on Google Code</title> <pre> ViewContainer -&gt; Container  HWNDViewContainer -&gt; ContainerWin </pre>

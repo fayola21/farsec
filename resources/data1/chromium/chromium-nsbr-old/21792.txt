@@ -1,0 +1,1 @@
+<title>Issue 21792 -   chromium -    WebKit continually lays out slider control causing 100% cpu - Project Hosting on Google Code</title> <pre> When using audio in linux  the sounds has many pops and the renderer  process runs with 100% CPU. </pre>

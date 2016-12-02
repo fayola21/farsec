@@ -1,0 +1,1 @@
+<title>Issue 17063 -   chromium -    The border on the inactive tab is messed up - Project Hosting on Google Code</title> <pre> Please see attached image.  The border on the Mac Chrome tab is getting  clipped and looks a little funny.   </pre>

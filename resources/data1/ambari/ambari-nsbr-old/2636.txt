@@ -1,0 +1,1 @@
+Dashboard Metrics legend size increased unexpectedly on mouseover from line space    This happened in a very specific situation.1. Put mouse on the line space around a metric widget.2. hover on the widget with mouse down.Result:The legend show up as a strange bigger size.   

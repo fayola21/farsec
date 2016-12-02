@@ -1,0 +1,1 @@
+<title>Issue 28883 -   chromium -    Bing search engine listed twice under 'Default Search' drop down list - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.258.0 (Developer Build 33214)      1. Open prefs | Basics | Open drop down list for 'Default Search'      1. Bing should be listed once.         2. Bing is listed twice. </pre>

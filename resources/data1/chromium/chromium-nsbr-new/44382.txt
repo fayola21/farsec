@@ -1,0 +1,1 @@
+<title>Issue 44382 -   chromium -    FIX the HTML Input Type &quot;File&quot; so it works right! - Project Hosting on Google Code</title>   1.Add a &lt;INPUT TYPE=&quot;FILE&quot; to any page and view.          Expected a psuedo-textbox and a button for the upload        You get a button and a link      <b>Please provide

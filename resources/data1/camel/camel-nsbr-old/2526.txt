@@ -1,0 +1,1 @@
+SedaConsumer - Add check to limit the concurrentConsumer to < 1000 to prevent mistypes    If you enter concurrentConsumers=99999999 then Camel creates a lot of threads for concurrent consumers on the SEDA queue.We should validate the size is a reasonable value  at least &lt; 1000. Maybe limit to &lt; 500   

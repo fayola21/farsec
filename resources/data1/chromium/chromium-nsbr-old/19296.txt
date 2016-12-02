@@ -1,0 +1,1 @@
+<title>Issue 19296 -   chromium -    flash video disables touchpad scroll bar - Project Hosting on Google Code</title>   1.Watch flash video for 20-30 seconds          normal scroll bar activity      scroll bar on the edge of laptop touchpads is temporarily disabled    <b>Please provide

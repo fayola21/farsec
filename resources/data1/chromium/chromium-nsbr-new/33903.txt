@@ -1,0 +1,1 @@
+<title>Issue 33903 -   chromium -    Constant crashing of Google Chrome if left idle - Project Hosting on Google Code</title>   1. Just leaving it idle  2. Switching to another window  on Win vista        The crashing of Google Chrome and the subsequent 'Restart Google' window.            <b>Please provide

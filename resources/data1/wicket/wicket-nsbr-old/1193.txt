@@ -1,0 +1,1 @@
+i18n: Translation of resource files in Korean    I'd like to upload a patch for Korean resource files.   

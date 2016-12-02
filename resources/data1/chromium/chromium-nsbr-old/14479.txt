@@ -1,0 +1,1 @@
+<title>Issue 14479 -   chromium -    fix extensions notifications to have a source - Project Hosting on Google Code</title> <pre> right now they're just using AllSources  but since ExtensionsService is per-  profile  this isn't correct.  in a multi-profile setup  we'd be responding to   the wrong notifications.   </pre>

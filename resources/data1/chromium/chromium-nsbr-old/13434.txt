@@ -1,0 +1,1 @@
+<title>Issue 13434 -   chromium -    OSX Chrome not showing basic auth - Project Hosting on Google Code</title>   1. Access a site that requires basic authentication.  No authentication  pops up.      A popup asking for a username/password is supposed to show up.      Nothing.    <b>Please provide

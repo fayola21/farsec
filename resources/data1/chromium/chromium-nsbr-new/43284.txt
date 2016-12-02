@@ -1,0 +1,1 @@
+<title>Issue 43284 -   chromium -    Broken menu on a webpage - Project Hosting on Google Code</title>   1. Load <a href="http://www.lcu.com.au/">http://www.lcu.com.au/</a>        The menu is visible and usable (see FF-lcu.png).      The menu is rendered as extremely small text in the corener (see Chrome-  lcu.png).    <b>Please provide

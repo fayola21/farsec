@@ -1,0 +1,1 @@
+<title>Issue 25932 -   chromium -    About dialog fonts have gained weight - Project Hosting on Google Code</title> <pre> Note how fat the font has become in the attached image.    Regressed somewhere between 26004 and 30190. </pre>

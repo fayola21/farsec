@@ -1,0 +1,1 @@
+<title>Issue 25555 -   chromium -    Error in New Tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.8    OS version               : 10.6.1            1. Open Google Chrome  2. Open New Tab (if set to recently viewed sites)        recently viewed sites      occasionally the &quot;oh  snap&quot; screen </pre>

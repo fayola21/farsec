@@ -1,0 +1,1 @@
+<title>Issue 37665 -   chromium -    Tile Windows from taskbar ignores chrome - Project Hosting on Google Code</title>   1.open multiple applications.  2.open chrome  3.right click taskbar and chose cascade windows or tile windows      all windows should cascade or tile as requested      all except chrome to as they are told    <b>Please provide

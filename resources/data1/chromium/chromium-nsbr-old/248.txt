@@ -1,0 +1,1 @@
+<title>Issue 248 -   chromium -    Silverlight slow but work while resizing Chrome - Project Hosting on Google Code</title>   1. Open a page with a SilverLight gadget in  2. Click buttons or other interface object and wait...really slow response.  3. If you resize Chrome  the gadget work faster...                  Please provide

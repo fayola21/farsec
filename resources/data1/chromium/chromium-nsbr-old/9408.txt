@@ -1,0 +1,1 @@
+<title>Issue 9408 -   chromium -    Chrome frequently hangs when clicking on new links - Project Hosting on Google Code</title>   1. Clicking on links to go to a new page      Chrome will load the new page      Browser hangs for a few minutes before loading properly or I have to   restart Chrome      <b>Please provide

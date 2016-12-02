@@ -1,0 +1,1 @@
+Alerts  Restart  Maintenance elements in the Hosts filters    Move this 3 elements to the second line (under All  Healthy...).Also refactor their code-realization.   

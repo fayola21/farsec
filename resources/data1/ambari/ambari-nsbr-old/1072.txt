@@ -1,0 +1,1 @@
+Change text on alerts 'about XX hours ago'    Alerts should have text like :OK for about 17 hoursWARN for about 17 hoursCRIT for about 17 hours   

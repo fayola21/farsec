@@ -1,0 +1,1 @@
+<title>Issue 1769 -   chromium -    seems slower than normal when CPU is busy - Project Hosting on Google Code</title>   1. Load all CPU cores with heavy tasks  2. Browse        It should be somewhat slower.      It's a lot slower.    Please provide

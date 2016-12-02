@@ -1,0 +1,1 @@
+<title>Issue 23700 -   chromium -    Trailing / in url no longer works as intended - Project Hosting on Google Code</title>   1.Type a non-fqdn url with trailing /  2. Chrome will search Google        The expected result is that Chrome should take me to the site.      Chrome searches Google.    <b>Please provide

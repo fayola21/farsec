@@ -1,0 +1,1 @@
+<title>Issue 33707 -   chromium -    Double-click selects spacing after word - Project Hosting on Google Code</title>   1. Double click on any word with spacing after it  2. Look  what selection is word and spaceing after      I suppose  normal behavior is: double click selects only text (word)          <b>Please provide

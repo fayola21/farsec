@@ -1,0 +1,1 @@
+<title>Issue 24481 -   chromium -    Highlights not disappearing from bookmarks bar - Project Hosting on Google Code</title> <pre>   1. Open up Chrome  2. Show bookmarks bar  3. Roll over a bookmark      See attached image. Note bad drawing on bookmarks as well.    Only seen this on SnowLeopard so far. Will test on Leopard.       </pre>

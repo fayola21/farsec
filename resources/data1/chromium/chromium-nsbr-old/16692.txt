@@ -1,0 +1,1 @@
+<title>Issue 16692 -   chromium -    Impossible to enter a number in an edit box - Project Hosting on Google Code</title>   1.go to this page : <a href="http://www.fdjeux.com/jeux/loto/loto_s_combien.php">http://www.fdjeux.com/jeux/loto/loto_s_combien.php</a>  2.choice : Loto / Simple  3.try to enter a number in the edit box : impossible                  <b>Please provide

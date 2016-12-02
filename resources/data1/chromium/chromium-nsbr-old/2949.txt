@@ -1,0 +1,1 @@
+<title>Issue 2949 -   chromium -    Enabling sorting on all uses of TableView - Project Hosting on Google Code</title> <pre> Now that TableView supports sorting  we should enable sorting where it   makes sense. </pre>

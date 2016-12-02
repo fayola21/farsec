@@ -1,0 +1,1 @@
+<title>Issue 15776 -   chromium -    Mac download manager needs to support drag and drop - Project Hosting on Google Code</title> <pre> The download manager needs to support drag and drop from the shelf and   the download page on Mac. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38379 -   chromium -    vBulletin and WYSIWYG Editor Issue - Project Hosting on Google Code</title>   1.Login to any vBulletin site.  2.Go post a message  3.Many features such as AJAX and WYSIWYG editor is not working properly. It   will only allow you to use BBCode. The full WYSIWYG editor will not run in   Chrome.                <b>Please provide

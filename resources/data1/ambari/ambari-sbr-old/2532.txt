@@ -1,0 +1,1 @@
+Incorrect permission on taskcontroller.cfg    /etc/conf/hadoop/taskcontroller.cfgIn secure mode permissions are set to '400'.   

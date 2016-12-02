@@ -1,0 +1,1 @@
+<title>Issue 6593 -   chromium -    background image doesn't render correctly because of width issue - Project Hosting on Google Code</title>   1. Go to www.aim.com  2. Scroll down and observe the borders of page content        Border should be displayed properly.      Border is broken and redundant border is displayed. See attached screen-  shot.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 43901 -   chromium -    MMB scroll is slow and choppy in Chrome - Project Hosting on Google Code</title>   1. Click MMB on gmail.com (this initiates MMB scrolling)  2. Move mouse down or up  3. Notice slow and choppy screen scrolling      Smooth scrolling.      Slow  choppy scrolling.    <b>Please provide

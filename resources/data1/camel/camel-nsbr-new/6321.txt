@@ -1,0 +1,1 @@
+Moving logic out of getTypeConverter    TypeConverter is never added as a service if we use the method setTypeConverter(). Used through camel-guice you had expect this service to be active without additional instruction.See : http://camel.465427.n5.nabble.com/Ambiguity-in-DefaultCamelContext-with-TypeConverter-td5731480.html   

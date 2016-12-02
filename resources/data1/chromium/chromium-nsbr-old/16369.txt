@@ -1,0 +1,1 @@
+<title>Issue 16369 -   chromium -    Chrome doesn't show a popup to close a tabs - Project Hosting on Google Code</title>   1. If you have a 5 tabs for example  and press the close button (in Window   title  maximize etc)  Chrome doesn't show a confirm dialog for close this   tabs. :S      Show a popup dialog.          <b>Please provide

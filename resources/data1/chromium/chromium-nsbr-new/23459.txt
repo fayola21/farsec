@@ -1,0 +1,1 @@
+<title>Issue 23459 -   chromium -    Mac pixel tests: Plugin drawing off - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/plugins/embed-attributes-style.html </pre>

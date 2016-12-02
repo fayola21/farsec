@@ -1,0 +1,1 @@
+<title>Issue 349 -   chromium -    statusbar on black - Project Hosting on Google Code</title>   1. go to a page with a dark background and make the statusbar appear while  hovering over a link      the statusbar should appear      the statusbar appears  but looks really bad on dark backgrounds    Please provide

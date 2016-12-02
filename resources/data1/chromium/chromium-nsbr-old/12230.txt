@@ -1,0 +1,1 @@
+<title>Issue 12230 -   chromium -    Extensions: need tests for external install - Project Hosting on Google Code</title> <pre> Tests should cover install  uninstall  and update. </pre>

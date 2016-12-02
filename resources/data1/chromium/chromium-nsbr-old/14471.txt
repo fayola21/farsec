@@ -1,0 +1,1 @@
+<title>Issue 14471 -   chromium -    fullscreen info bubble - Project Hosting on Google Code</title> <pre> Go fullscreen (Cmd-F11  at least for now)  We need an info bubble (like WIndows) saying &quot;Cmd-F11 to exit fullscreen mode&quot;  Else if you hit the key accidentally you are trapped.   </pre>

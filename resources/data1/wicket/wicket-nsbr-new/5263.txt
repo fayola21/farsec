@@ -1,0 +1,1 @@
+FilenameWithVersionResourceCachingStrategy breaks silently when the versionPrefix is contained in the original filename    If a resource name contains the character used as version prefix then FilenameWithVersionResourceCachingStrategy#undecorateUrl() will split the decorated filename wrongly and the resource response will return 404 (Not found).   

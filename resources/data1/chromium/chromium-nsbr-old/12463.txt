@@ -1,0 +1,1 @@
+<title>Issue 12463 -   chromium -    Regression: Find doesn't move if obscuring - Project Hosting on Google Code</title> <pre>   1. Go to google.com  2. Ctrl+F and search for igoogle    It should find 1 match and the Find box should not be obscuring that match.   Currently  it is obscuring that match. </pre>

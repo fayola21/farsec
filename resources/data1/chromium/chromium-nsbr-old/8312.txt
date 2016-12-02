@@ -1,0 +1,1 @@
+<title>Issue 8312 -   chromium -    Window's &quot;minimize&quot; (&quot;-&quot;) and &quot;close&quot; (&quot;x&quot;) buttons don't work in Maximized mode - Project Hosting on Google Code</title>   1. Click on any of the Chromium window's buttons (minimize  close)      Chromium window gets minimized or closed        Nothing      Please provide

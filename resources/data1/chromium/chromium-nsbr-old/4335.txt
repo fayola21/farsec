@@ -1,0 +1,1 @@
+<title>Issue 4335 -   chromium -    ResourceDispatcherHost::CancelRequest may not notify event handlers properly - Project Hosting on Google Code</title> <pre> In ResourceDispatcherHost::CancelRequest if (!i-&gt;second-&gt;is_pending()) is   true  we remove the request. This is done in such a manner that the event   handler is not notified. This could cause problems. </pre>

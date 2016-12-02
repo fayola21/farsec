@@ -1,0 +1,1 @@
+<title>Issue 23203 -   chromium -    video do not play on Radio-Canada - Project Hosting on Google Code</title>   1.enter in <a href="http://www.radio-canada.ca/">http://www.radio-canada.ca/</a>  2.click any video link  3.video do not start    What is the expected result? video must play      What happens instead? nothing      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 5512 -   chromium -    Traditional Chinese Page menu drop-down incorrectly translated - Project Hosting on Google Code</title> <pre> [Language] Traditional Chinese    [Version number]1.0.154.36    [OS details]winxp    [Where is the poor translation?]Page menu  see screenshot    [attach any screenshots below]Attached   </pre>

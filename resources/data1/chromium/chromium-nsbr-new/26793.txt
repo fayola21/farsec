@@ -1,0 +1,1 @@
+<title>Issue 26793 -   chromium -    Is it possible to attach developers toolbarto the main Chrome window? - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.11    Is it possible to attach developers tools popup to the main Chrome window   (like e.g. HTTPWatch  FireBug etc.)? I assume that it will be very useful   feature.   </pre>

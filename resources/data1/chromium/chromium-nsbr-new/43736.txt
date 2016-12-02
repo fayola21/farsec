@@ -1,0 +1,1 @@
+<title>Issue 43736 -   chromium -    Latest dev build cannot close it completely. - Project Hosting on Google Code</title> <pre> Google Chrome	5.0.396.0 (Official Build 46416) dev  WebKit	533.8  V8	2.2.7    When close Chrome 396 dev build  couple of background threads still   reside in memory. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2273 -   chromium -    GetViewForPoint should use HitTest - Project Hosting on Google Code</title> <pre> View::GetViewForPoint rolls its own primitive hit testing instead of just   calling View::HitTest. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15712 -   chromium -    Download shelf should clear downloads on the shelf when dismissed - Project Hosting on Google Code</title> <pre>   1. Download a file  2. Dismiss the bar  3. Download a second file    What is the ideal output? What do you see instead?  Only the second file is displayed.      Both files are still on the shelf. </pre>

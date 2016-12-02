@@ -1,0 +1,1 @@
+<title>Issue 7853 -   chromium -    Content in New Tab window shifts when hovering Window under recenty closed tabs - Project Hosting on Google Code</title>   1. Open a new window with multiple tabs open  2. Close the window  3. Open a New Tab page  4. Hover the Window under Recently Closed Tabs      The content will not shift      The content does shift    <b>Please provide

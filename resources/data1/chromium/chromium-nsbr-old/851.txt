@@ -1,0 +1,1 @@
+<title>Issue 851 -   chromium -    F1 doesn't bring up help - Project Hosting on Google Code</title>   1. Click spanner button  choose Options  2. Press F1 key  3. Nothing happens.                 Please provide

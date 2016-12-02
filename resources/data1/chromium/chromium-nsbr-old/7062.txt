@@ -1,0 +1,1 @@
+<title>Issue 7062 -   chromium -    Moodle (e-learn tool online)  does not work porperly - Project Hosting on Google Code</title>   1. when open the page the editin page tools do not appears                I have to edit manually      Please provide

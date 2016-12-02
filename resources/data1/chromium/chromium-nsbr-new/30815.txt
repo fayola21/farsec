@@ -1,0 +1,1 @@
+<title>Issue 30815 -   chromium -    Elements tab in Inspect Element has a different font  - Project Hosting on Google Code</title> <pre> Looks like the font on the Elements tab is different from before.     Please close this if this is expected.    Chromium 4.0.274.0 (Developer Build 34824) </pre>

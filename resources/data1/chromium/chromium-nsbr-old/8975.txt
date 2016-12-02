@@ -1,0 +1,1 @@
+<title>Issue 8975 -   chromium -    Right-click deselects text - Project Hosting on Google Code</title>   1. Use cursor to select some text.  2. Right-click.        The text should remain selected and a selected text context menu should   appear  including search options.      The text is deselected and the regular context menu appears.    <b>Please provide

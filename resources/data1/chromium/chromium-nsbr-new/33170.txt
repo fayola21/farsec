@@ -1,0 +1,1 @@
+<title>Issue 33170 -   chromium -    Have the test harness detect incomplete .grd compile - Project Hosting on Google Code</title> <pre> Have a unit test that detects when a .grd changed and the .cc files weren't   recompiled. This would simplify problem tracking test crashing because of   that incremental build issue. </pre>

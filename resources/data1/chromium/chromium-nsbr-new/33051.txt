@@ -1,0 +1,1 @@
+<title>Issue 33051 -   chromium -    WebCore is recompiled on every compile - Project Hosting on Google Code</title> <pre>   1. Checkout fresh sources.  2. Compile  3. Compile again      The second compile shouldn't compile anything. However  it recompiles files   from webcore_bindings  webcore  and glue    I haven't check this on other platforms but mac. </pre>

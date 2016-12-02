@@ -1,0 +1,1 @@
+<title>Issue 14663 -   chromium -    [Mac download shelf] Grow box should be moved into the shelf when it's visible - Project Hosting on Google Code</title> <pre> Perhaps wait a bit with this one  I heard rohit wants to redo the grow box.    In any case  the rhwv needs to be informed that it shouldn't leave room for a   growbox when the shelf is visible. </pre>

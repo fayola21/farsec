@@ -1,0 +1,1 @@
+<title>Issue 18229 -   chromium -    [Linux] Ctrl+#/Alt+# doesn't work with the numpad - Project Hosting on Google Code</title> <pre> Ctrl+1 focuses the first tab  Ctrl+2 focuses the second  etc. Ctrl+9 focuses   the last tab.    (alt also works)    None of them work with the numpad in Linux. They do in Windows. </pre>

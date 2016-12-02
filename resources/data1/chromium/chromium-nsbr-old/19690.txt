@@ -1,0 +1,1 @@
+<title>Issue 19690 -   chromium -    Omnibox always searches - Project Hosting on Google Code</title>   1. Type any URI into the omnibox (e.g. <a href="http://www.google.com/">http://www.google.com/</a>)      Go to that url      Go to a Google search for that URL    <b>Please provide

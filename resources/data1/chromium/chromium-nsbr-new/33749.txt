@@ -1,0 +1,1 @@
+<title>Issue 33749 -   chromium -    Chrome crash when closing pinned tab while loading a webpage - Project Hosting on Google Code</title>   1. pin any tab   2. click on a link  3. while it is still loading  close tab  4. chrome crashed.      Simply closing tab without crash      Browser crashes!    <b>Please provide

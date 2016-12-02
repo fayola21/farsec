@@ -1,0 +1,1 @@
+<title>Issue 28961 -   chromium -    DevToolsExtensionDebugTest.TestContentScriptIsPresent is broken - Project Hosting on Google Code</title> <pre> The test DevToolsExtensionDebugTest.TestContentScriptIsPresent is broken on   both windows and linux.    It started after the webkit merge on sat nov 28.    I'm disabling the test   </pre>

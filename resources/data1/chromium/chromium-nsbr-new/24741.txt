@@ -1,0 +1,1 @@
+<title>Issue 24741 -   chromium -    Edit Search Engine missing from Mac Omnibox popup with certain pasteboard contents. - Project Hosting on Google Code</title> <pre>   1. Copy &quot; &quot; onto the pasteboard.  2. Right-click in omnibox        Should see &quot;Edit Search Engine&quot; selection.   </pre>

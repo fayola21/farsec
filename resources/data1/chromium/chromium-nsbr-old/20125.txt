@@ -1,0 +1,1 @@
+<title>Issue 20125 -   chromium -    Paste and Print have same access key - Project Hosting on Google Code</title> <pre> Open Page menu  look at access keys for Paste and Print.  They shouldn't both   be P. </pre>

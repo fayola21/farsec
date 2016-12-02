@@ -1,0 +1,1 @@
+<title>Issue 20227 -   chromium -    Mixed content option not available - Project Hosting on Google Code</title> <pre> The option to configure mixed content behavior disappeared from the Under the   Hood tab of the Options dialog.    Confirmed on TOT  the Dev channel and the Beta channel. </pre>

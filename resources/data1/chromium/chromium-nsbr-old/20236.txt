@@ -1,0 +1,1 @@
+<title>Issue 20236 -   chromium -    Add icons to sample extensions - Project Hosting on Google Code</title> <pre> Our sample extensions should have icons to show off the capability. They are   128x128 and they show up in the install UI. </pre>

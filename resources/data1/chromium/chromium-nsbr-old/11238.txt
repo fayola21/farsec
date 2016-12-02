@@ -1,0 +1,1 @@
+<title>Issue 11238 -   chromium -    Plugin crashed infobar has mis-positioned close button - Project Hosting on Google Code</title> <pre> The close button on the plugin-crashed infobar has no padding to the right of   it - the spacing between its right edge and the end of the bar should be the   same as the spacing between its top edge and the top of the bar. </pre>

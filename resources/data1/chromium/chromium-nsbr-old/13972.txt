@@ -1,0 +1,1 @@
+<title>Issue 13972 -   chromium -    Chrome crashes when Task Manager started 2nd time - Project Hosting on Google Code</title>   1. Start Task Manager (any way - page menu  r.click title bar  Sh-Esc)  2. Close Task Manager.  3. Start Task Manager (any way as above)      Task Manager opens again      &quot;Whoa! Crash/Restart&quot; dialog.    <b>Please provide

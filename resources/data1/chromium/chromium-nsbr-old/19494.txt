@@ -1,0 +1,1 @@
+<title>Issue 19494 -   chromium -    All Chromium processes use high CPU - Project Hosting on Google Code</title>   1. Open Chrome          Use low CPU      All three Chrome processes used up to 30% CPU each    <b>Please provide

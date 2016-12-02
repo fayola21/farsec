@@ -1,0 +1,1 @@
+<title>Issue 15860 -   chromium -    http login prompt: funky double window + sizing issues - Project Hosting on Google Code</title>   1. Type in a URL on the address bar that will prompt for a username and   password.  2. Watch the funky login prompt pop up.          A normal-looking login prompt.        See attached file.    <b>Please provide

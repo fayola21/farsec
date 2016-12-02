@@ -1,0 +1,1 @@
+<title>Issue 29894 -   chromium -    Expose mime type through SyncNode - Project Hosting on Google Code</title> <pre> In order for the client sync code to tell what type of object a sync node   represents  we need to make the node's mime type available to the browser.   </pre>

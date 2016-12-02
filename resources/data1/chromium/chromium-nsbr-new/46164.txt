@@ -1,0 +1,1 @@
+<title>Issue 46164 -   chromium -    Crash when open dev tools - Project Hosting on Google Code</title>   1. open url <a href="http://www.afmm.fr/">http://www.afmm.fr/</a> (it's an example where i have the problem)  2. open the dev tool  3. crash      no crash      crash!    <b>Please provide

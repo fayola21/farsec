@@ -1,0 +1,1 @@
+<title>Issue 1950 -   chromium -    Chrome read the disk too - Project Hosting on Google Code</title>   1. Start the  chrome  2. Open 4 or 5 five tabs with blogs with youtube videos some one.        When the chrome is active the access to disk increases too.        I close the chrome  the computer works very slow.    Please provide

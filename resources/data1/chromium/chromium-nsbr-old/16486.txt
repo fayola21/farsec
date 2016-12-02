@@ -1,0 +1,1 @@
+<title>Issue 16486 -   chromium -    Allow removal of individual passwords - Project Hosting on Google Code</title> <pre> The UI for this will be part of <a title="Need stored password browser"  href="/p/chromium/issues/detail?id=16485">issue 16485</a>  but we need backend support as   well. </pre>

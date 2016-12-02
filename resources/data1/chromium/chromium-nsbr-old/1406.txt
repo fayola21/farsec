@@ -1,0 +1,1 @@
+<title>Issue 1406 -   chromium -    Facility to manage &quot;never save password&quot; list required - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    There is no way to manage the sites which are recorded under &quot;Never save   password for this site&quot; lists    It should be provided to add/remove the sites in this list. </pre>

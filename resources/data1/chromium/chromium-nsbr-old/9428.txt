@@ -1,0 +1,1 @@
+<title>Issue 9428 -   chromium -    Synchronization around Bookmarks Google - Project Hosting on Google Code</title> <pre> In the Manager of bookmarks an option of the synchronization should be with   the side Bookmarks Google in order not to lose written favourite in the   browser by the format or of forgotten export. </pre>

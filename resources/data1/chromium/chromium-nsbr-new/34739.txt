@@ -1,0 +1,1 @@
+<title>Issue 34739 -   chromium -    Bug when try open a new window or tab - Project Hosting on Google Code</title>   1.Press right click over a link  2.Try open a new window        Open a new chrome window        Some Times the new windown not open and open after 3 click      <b>Please provide

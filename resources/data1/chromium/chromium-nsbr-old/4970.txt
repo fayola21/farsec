@@ -1,0 +1,1 @@
+<title>Issue 4970 -   chromium -    Missing Cookies option - Project Hosting on Google Code</title> <pre> There should be an option to automatically delete cookies on closing of   Chromium/Google Chrome.         </pre>

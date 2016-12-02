@@ -1,0 +1,1 @@
+<title>Issue 27881 -   chromium -    CSS !important - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.245.0 (31763)             Safari 4:OK    Firefox 3.x:OK          In extensions (css files for content scripts) i have to add !important to   all values  insert !important atribute for default in extensions API.   Thanks!   </pre>

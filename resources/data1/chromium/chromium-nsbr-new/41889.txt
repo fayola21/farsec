@@ -1,0 +1,1 @@
+<title>Issue 41889 -   chromium -    Usability: Task Manager focus is not set on the process list (Windows)  - Project Hosting on Google Code</title>   1. Press Shift+Esc to open Chrome Task Manager  2. Press Up or Down arrow keys      Selection changes      Nothing happens  have to press Tab to move focus from an unknown hidden   element(?) to the list    <b>Please provide

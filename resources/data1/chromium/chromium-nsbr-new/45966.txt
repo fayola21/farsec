@@ -1,0 +1,1 @@
+<title>Issue 45966 -   chromium -    Gmail talk video chat doesn't work - Project Hosting on Google Code</title>   1. Login to Gmail with Gtalk enabled  2. Start a video chat with any contact  3. See it fail as the camera is activated but u will just get the contacts   logo displayed along with yours      Video chat should work...      It doesn't...        <b>Please provide

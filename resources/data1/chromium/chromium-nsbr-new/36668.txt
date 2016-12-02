@@ -1,0 +1,1 @@
+<title>Issue 36668 -   chromium -    bluetooth bot setup issues on 10.6 - Project Hosting on Google Code</title> <pre> I just went in and looked at codf64  codf69  codf74  codg72:    - Two of the bots I looked at had blue tooth turned on (both codf* ones).  - All still had on the advanced pref to bring up the blue tooth wizard if no   keyboard is attached.   </pre>

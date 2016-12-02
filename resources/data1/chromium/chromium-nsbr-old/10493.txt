@@ -1,0 +1,1 @@
+<title>Issue 10493 -   chromium -    Form's submit function is undefined  - Project Hosting on Google Code</title>   1. See URL. It is a small bug reproduction sample.      form.submit function must be properly defined      form.submit function is undefined    <b>Please provide

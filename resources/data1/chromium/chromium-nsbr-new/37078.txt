@@ -1,0 +1,1 @@
+<title>Issue 37078 -   chromium -    Title text of bg tabs too light - Project Hosting on Google Code</title> <pre> After the theming changes landed  the title text of background tabs is lighter than it was. Perhaps   this is intentional and it was &quot;fixed&quot; to be correct  but it's worth investigating what we really want. </pre>

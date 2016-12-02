@@ -1,0 +1,1 @@
+<title>Issue 6833 -   chromium -    In case of spooling error  the user should be notified - Project Hosting on Google Code</title> <pre> Windows already does notification for printing errors. It's really about   spooling errors. When this happens (relatively rare)  usually something is   broken.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37355 -   chromium -    [linux] First notification doesn't look right. - Project Hosting on Google Code</title> <pre>   1. Create a notification on Linux  2. Create another one.          The first one has buttons missing or mis-aligned.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26679 -   chromium -    WebSocket proxy authentication support. - Project Hosting on Google Code</title> <pre> WebSocket should support proxy authentication if browser already knows the   credential. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1460 -   chromium -    compatibility issue - Project Hosting on Google Code</title> <pre> everything is working perfectly  except for facebook  i can't read my   messages  nor delete them or tag photos  seems that its with every link   that opens a speech bubble for accepting something  or deleting  or even   reading it.    thanks    edgardo </pre>

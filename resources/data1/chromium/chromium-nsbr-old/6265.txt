@@ -1,0 +1,1 @@
+<title>Issue 6265 -   chromium -    Screen Edge Problem - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.156.1                  1. Maximized screen            Properly fitted screen        Edges are inconsistent   </pre>

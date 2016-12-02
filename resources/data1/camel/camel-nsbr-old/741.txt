@@ -1,0 +1,1 @@
+CamelConduit's should check the TargetReference when create its instance    CAMEL-726 shows a ws-address error when using Camel transport for CXF.After running the code   I found there is no To address tag generated in the soap header. It was caused by the CamelConduit can set right targe reference.   

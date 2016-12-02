@@ -1,0 +1,1 @@
+<title>Issue 21272 -   chromium -    --show-extensions-on-top: missing gradient - Project Hosting on Google Code</title> <pre> The fact that we're not showing the bookmark bar gradient underneath the   toolstrips makes them really stand out in the bookmark bar.  Perhaps this   will get fixed for free with Finnur's change to support themes? </pre>

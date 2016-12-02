@@ -1,0 +1,1 @@
+<title>Issue 23622 -   chromium -    Videos on Hulu.com very janky right now - Project Hosting on Google Code</title>   1. Play a video on Hulu          Smooth playback      FPS eventually slow down to less than 1    <b>Please provide

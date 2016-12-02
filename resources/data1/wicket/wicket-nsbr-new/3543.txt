@@ -1,0 +1,1 @@
+Add possibility to test Resources/ResourceReferences with WicketTester    Currently WicketTester supports testing of Page  Panel and plain Component (startPage()  startPanel() and startComponent()).It would be good to have similar methods for testing resources and resource references.   

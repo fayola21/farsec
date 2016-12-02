@@ -1,0 +1,1 @@
+<title>Issue 3390 -   chromium -    need a FontPlatformData for chromium on linux - Project Hosting on Google Code</title> <pre> The gtk version of FontPlatformData.h can use freetype or pango  both with   cairo bindings.  We're not using cairo  so we need our own version.  This   is necessary to get more of WebCore compiling on linux. </pre>

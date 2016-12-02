@@ -1,0 +1,1 @@
+<title>Issue 46220 -   chromium -    Hard lock with Sync set up - Project Hosting on Google Code</title>   1. Launch Chrome  2. Random browsing to ANY site (even news.google.com)  3. Experience OS-wide freeze    What is the expected result? No OS-wide freeze      What happens instead? OS-wide freeze      <b>Please provide

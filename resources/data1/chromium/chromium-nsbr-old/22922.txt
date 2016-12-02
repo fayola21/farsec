@@ -1,0 +1,1 @@
+<title>Issue 22922 -   chromium -    Clicking the lock icon should bring up page info window - Project Hosting on Google Code</title> <pre>   1. Navigate to an SSL website  2. Click lock icon in URL bar  3. Nothing happens      Page info window should pop up (cf Windows and Linux).       </pre>

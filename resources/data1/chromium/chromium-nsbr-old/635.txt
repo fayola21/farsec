@@ -1,0 +1,1 @@
+<title>Issue 635 -   chromium -    Upgrade browser message - Project Hosting on Google Code</title>   1. navigate to www.hotmail.com  2. Error message appears:  upgrade browser                  Please provide

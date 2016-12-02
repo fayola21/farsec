@@ -1,0 +1,1 @@
+<title>Issue 21798 -   chromium -    New tab flashes white before showing theme background image - Project Hosting on Google Code</title> <pre> Install a theme with a background image on the NTP. A large  dark-colored   image will show the issue best. Open a new tab. See it flash white briefly   before drawing the background image.    Only tested on Windows. </pre>

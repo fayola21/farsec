@@ -1,0 +1,1 @@
+<title>Issue 41116 -   chromium -    bookmarks bar shortcut does not work - Project Hosting on Google Code</title>   1.  CTRL+B to show/hide bookmarks does not work          bookmarks bar should show/hide      nothing    <b>Please provide

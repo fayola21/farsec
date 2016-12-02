@@ -1,0 +1,1 @@
+<title>Issue 27256 -   chromium -    Chrome taskbar icon is weird recently - Project Hosting on Google Code</title>   1. Chrome's taskbar icon is not as it used to be.    <b>Please provide

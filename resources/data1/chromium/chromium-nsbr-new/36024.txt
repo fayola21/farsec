@@ -1,0 +1,1 @@
+<title>Issue 36024 -   chromium -    running chrome in NX desktop crashes frequently. - Project Hosting on Google Code</title>   1. run chrome from remote NX  2. do stuff for anywhere from 1m to 30m (including using the dev tools window)  3. crash hard.      not crashing.    core file is in ~lschumacher/core.28956              <b>Please provide

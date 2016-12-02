@@ -1,0 +1,1 @@
+JMX - browsable endpoints such as seda has some attributes listed as unavaiable    See screenshotThe problem is related to extending a ManagedEndpoint then some options is shown as unavaiable in JMX consoles.   

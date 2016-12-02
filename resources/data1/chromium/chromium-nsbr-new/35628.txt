@@ -1,0 +1,1 @@
+<title>Issue 35628 -   chromium -    Wordpress crashes Chrome of auto draft save - Project Hosting on Google Code</title>   Start writing a new post in a wordpress blog. When the javascript fires off   to save the auto-draft  it crashes the tab and an &quot;Oh Snap!&quot; page is seen.      It shouldn't crash :)      It crashes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13383 -   chromium -    Task Manager doesn't work - Project Hosting on Google Code</title>   1. right click on the top of browser (tab bar)  2. click &quot;Task Manager&quot;        Task manager opens with tabs displayed      No content in Task manager.    <b>Please provide

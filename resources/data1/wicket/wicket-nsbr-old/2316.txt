@@ -1,0 +1,1 @@
+Form generates invalid html in appendDefaultButtonField    The javascript added to the button contains several unescaped &amp;  such as 'b!=null&amp;&amp;b.onclick!=null&amp;&amp;typeof(b.onclick)'  these should be replaced with &amp;. This was already mentioned in ticket 2033  but that ticket is about another problem.   

@@ -1,0 +1,1 @@
+<title>Issue 44823 -   chromium -    ctrl + b not working for bookmark bar in chrome v6.0.408.1 beta  - Project Hosting on Google Code</title> <pre> when i press ctrl + b i do not get the bookmark bar up in the latest beta   browser i did in the last stable release  thought you should be aware  thanks   Graham </pre>

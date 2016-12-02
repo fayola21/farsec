@@ -1,0 +1,1 @@
+<title>Issue 44116 -   chromium -    input type=number won't accept decimals - Project Hosting on Google Code</title>   1. Create a form with input type=number  2. Enter a decimal value like 1.5  3. Submit the form      The form should submit.      The form does not submit and the number input gains focus.    <b>Please provide

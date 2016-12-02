@@ -1,0 +1,1 @@
+<title>Issue 34268 -   chromium -    Cannot close pinned tabs - Project Hosting on Google Code</title>   1. Pin a tab  2. Right click the pinned tab  3. Choose &quot;Close tab&quot;      The pinned tab is closed      It's still there    <b>Please provide

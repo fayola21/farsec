@@ -1,0 +1,1 @@
+<title>Issue 20567 -   chromium -    Esc=Close on Bookmarks bubble - Project Hosting on Google Code</title> <pre> ToT.    -Cmd+D on a page to bring up bookmarks bubble.  -Esc to cancel the bubble.    Result:  Bookmarks the page.    Expected:  The page should not be bookmarked.    PS: Works fine on Linux. </pre>

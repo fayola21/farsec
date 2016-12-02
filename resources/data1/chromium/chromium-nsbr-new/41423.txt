@@ -1,0 +1,1 @@
+<title>Issue 41423 -   chromium -    AcceleratedSurface should clear buffers - Project Hosting on Google Code</title> <pre> app/surface/accelerated_surface_mac.{cc h} does not clear the IOSurface nor the OpenGL texture   upon initialization. To avoid displaying garbage  it should.   </pre>

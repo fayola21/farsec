@@ -1,0 +1,1 @@
+<title>Issue 39090 -   chromium -    Imports should import passwords from IE. - Project Hosting on Google Code</title> <pre> Build: 5.0.342.6  OS: Windows.    Sorry  we regressed here quite long time back.    -Have few usernames/passwords saved in IE.  -Import passwords from IE.    Expected:  Username/password(s) should be imported.    Issue:  Nothing.   </pre>

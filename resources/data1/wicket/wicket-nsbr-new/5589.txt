@@ -1,0 +1,1 @@
+Upgrade wicket-atmosphere to the latest version of atmosphere    Wicket-atmosphere should be upgraded to atmosphere 2.1.4 and js 2.1.6. It's guava dependency to 17.0   

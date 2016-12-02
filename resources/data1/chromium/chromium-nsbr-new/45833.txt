@@ -1,0 +1,1 @@
+<title>Issue 45833 -   chromium -    chrome 5.0.375.55 windows xp crash with widecap 1.5.0.558 - Project Hosting on Google Code</title>   1.install widecap 1.5.0.558  2.setup widecap socks5 proxy and set to &quot;Proxify all system&quot;  3.install chrome and start it.                <b>Please provide

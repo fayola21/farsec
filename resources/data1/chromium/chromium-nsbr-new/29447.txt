@@ -1,0 +1,1 @@
+<title>Issue 29447 -   chromium -    bookmark sync window is too short on non-English locales - Project Hosting on Google Code</title> <pre> Button is cut off at the bottom of window in French and German windows; other   foreign locales seem to have similar problems.   </pre>

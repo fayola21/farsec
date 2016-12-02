@@ -1,0 +1,1 @@
+<title>Issue 23821 -   chromium -    Backspace in text box climbs back one page - Project Hosting on Google Code</title>   1. Any text entry box  hitting backspace while typing will act as climb back.         What is the expected result? Deleting the previous character of text.      What happens instead? Goes back one page.      <b>Please provide

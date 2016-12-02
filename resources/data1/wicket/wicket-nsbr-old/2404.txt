@@ -1,0 +1,1 @@
+Quickstart for 1.4 uses 1.3 dtd in HomePage.html (with patch)    The generated HomePage.html contains the following header:&lt;html xmlns:wicket='http://wicket.apache.org/dtds.data/wicket-xhtml1.3-strict.dtd' &gt;That should be:&lt;html xmlns:wicket='http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd' &gt;   

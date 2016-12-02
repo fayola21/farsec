@@ -1,0 +1,1 @@
+<title>Issue 46122 -   chromium -    User/pass Autocomplete fails. - Project Hosting on Google Code</title>   1. I deleted the saved password (because it changed)  2. Then I surfed to the above url.  3. Chrome doesn't ask if I want to save it anymore.      Do you want to save the password?      Nothing    <b>Please provide

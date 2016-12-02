@@ -1,0 +1,1 @@
+<title>Issue 8894 -   chromium -    Regression: setup.exe is twice as big - Project Hosting on Google Code</title> <pre> Affected version: 2.0.165 and above  Last known working Version: 2.0.164.0    Setup.exe in the official build is more than 2MB (!) It should be about   1MB.    The reason is the bundled eulas. I'll try to reuse the existing eulas in   chrome.     </pre>

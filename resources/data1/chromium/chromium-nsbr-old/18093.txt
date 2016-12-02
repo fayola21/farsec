@@ -1,0 +1,1 @@
+<title>Issue 18093 -   chromium -    app mode/popup windows should not be themed - Project Hosting on Google Code</title> <pre> Currently the font color of the window title in app mode and popup windows   is hardcoded to white.  This is unreadable on some theme backgrounds so   themes should be able to specify a color. </pre>

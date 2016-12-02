@@ -1,0 +1,1 @@
+Failure popup shown for reconfiguring HDFS when MapReduce is not installed       

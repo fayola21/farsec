@@ -1,0 +1,1 @@
+<title>Issue 13144 -   chromium -    Telugu regression: Alignment issue on ClearBrosing data dialog . - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=17313">r17313</a>)    -Launch Chromium in Telugu (te) lang.  -Ctrl+Shift+Delete to ClearBrowsing Data.    Notice the drop-down list is mis-aligned as shown in the screenshot.     </pre>

@@ -1,0 +1,1 @@
+ConcatBundleResource should use the respective ITextResourceCompressor    Css and JavaScript bundles are not processed by Css/JavaScriptCompressors.org.apache.wicket.resource.bundles.ConcatBundleResource#readAllResources directly reads the resources' stream.   

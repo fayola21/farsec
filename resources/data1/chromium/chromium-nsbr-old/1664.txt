@@ -1,0 +1,1 @@
+<title>Issue 1664 -   chromium -    Ad popups in tabs - Project Hosting on Google Code</title>   1. Visit any site that launches ads using javascript and iframe  2. ad will popup in new tabs        automatic iframe redirects should be disabled        the iframe launches a new tab    Please provide

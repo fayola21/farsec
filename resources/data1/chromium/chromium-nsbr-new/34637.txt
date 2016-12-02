@@ -1,0 +1,1 @@
+<title>Issue 34637 -   chromium -    Cannot move messages to folders in Yahoo Mail - Project Hosting on Google Code</title>   1. Read messages  2. Mark one or more of them - Move - select folder        Message should move.      Message sometimes appears: &quot;1 contact has been added.&quot;  If it does  email message(s) does not move.    <b>Please provide

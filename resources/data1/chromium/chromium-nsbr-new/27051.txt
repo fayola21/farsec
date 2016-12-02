@@ -1,0 +1,1 @@
+<title>Issue 27051 -   chromium -    please do a build without incognito - Project Hosting on Google Code</title> <pre> incognito mode makes chrome unsuitable for use in a school environment and   in many work places. Please provide a build without incognito or make an   easy way to securely disable it for an admin.    Thanks     John </pre>

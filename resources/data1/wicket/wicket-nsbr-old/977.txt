@@ -1,0 +1,1 @@
+Static Pages -> Passing URI to a Wicket page == 404 Error    Broken url   

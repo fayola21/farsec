@@ -1,0 +1,1 @@
+<title>Issue 15642 -   chromium -    The version string in the about dialog is not selectable - Project Hosting on Google Code</title> <pre> It should be so that people reporting bugs can easily copy-paste it. Would   also be nice if it indicated in some way that it was a Mac build  again  so that   people can have a single string they can copy-paste into bugs. </pre>

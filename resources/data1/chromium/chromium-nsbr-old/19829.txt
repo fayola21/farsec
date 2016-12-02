@@ -1,0 +1,1 @@
+<title>Issue 19829 -   chromium -    can't copy page address to clipboard - Project Hosting on Google Code</title>   1. open some page  2. select the text in address bar  3. push ctrl+c or &quot;copy&quot; in context menu      page url in clipboard        clipboard did't change    <b>Please provide

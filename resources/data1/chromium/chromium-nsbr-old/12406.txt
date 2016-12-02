@@ -1,0 +1,1 @@
+<title>Issue 12406 -   chromium -    Clicking &quot;Proceed anyway&quot; on https:// pages with untrusted certs causes crash - Project Hosting on Google Code</title>   1. Navigate to https:// url with untrusted cert  2. On the scary cert warning page  click &quot;Proceed anyway&quot;  3. chromium crashes      No crash  navigate to page.          <b>Please provide

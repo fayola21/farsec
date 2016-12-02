@@ -1,0 +1,1 @@
+<title>Issue 4670 -   chromium -    Feature request - Home page button - Project Hosting on Google Code</title> <pre> I think the home page button &quot;show home button on toolbar&quot; should be   automatically enabled since mostly all people use this feature and enable   it. The option to enable/disable it should still be there though. </pre>

@@ -1,0 +1,1 @@
+TimestampArithTest keeps references to statements after completion    TimestampArithTest keeps references to statements in static fields  but never closes them or clears the fields.   

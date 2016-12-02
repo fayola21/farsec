@@ -1,0 +1,1 @@
+<title>Issue 4094 -   chromium -    Middle button click - Project Hosting on Google Code</title>   1. Open any orkut URL  2. Click with the middle button (wheel) on a link        The link should open in a new tab  just like it is in other sites      The link is opened in the same tab.    Please provide

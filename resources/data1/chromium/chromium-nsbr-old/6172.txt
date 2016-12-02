@@ -1,0 +1,1 @@
+<title>Issue 6172 -   chromium -    Mouse wheel scrolls much less - Project Hosting on Google Code</title> <pre> Just went from 154 to 156 at home  and my mouse wheel scroll amount dropped   to like 1/3 of what it was.  Feels really icky. </pre>

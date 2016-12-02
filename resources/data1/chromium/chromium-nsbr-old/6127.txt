@@ -1,0 +1,1 @@
+<title>Issue 6127 -   chromium -    links appear inactive - Project Hosting on Google Code</title>   1. when you click next button to move on to next page in friend list.          should move to next page      instead the link appears inactive.    Please provide

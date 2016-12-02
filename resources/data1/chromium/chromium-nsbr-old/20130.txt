@@ -1,0 +1,1 @@
+<title>Issue 20130 -   chromium -    Complex text doesn't show up with text stroking - Project Hosting on Google Code</title> <pre> LayoutTests/fast/text/stroking-decorations.html = FAIL  LayoutTests/fast/text/stroking.html = FAIL </pre>

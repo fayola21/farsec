@@ -1,0 +1,1 @@
+<title>Issue 41740 -   chromium -    Normal zoom shortcut fails (Ctrl-0) - Project Hosting on Google Code</title>   1. Press Ctrl-+ to zoom in on any open web page  2. Press Ctrl-0 to reset the zoom (i.e. Ctrl-Zero)      Zoom is reset / set to Normal.      Nothing.    <b>Please provide

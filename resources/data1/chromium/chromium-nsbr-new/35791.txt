@@ -1,0 +1,1 @@
+<title>Issue 35791 -   chromium -    Dock icon (in OS X) reverts from custom to stock - Project Hosting on Google Code</title>   1. Download any file from a website      Custom dock icon should remain unchanged.      Custom dock icon reverts back to stock icon.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30299 -   chromium -    Kernel error on (closing a chrome window?) - Project Hosting on Google Code</title>   1. Launch Chrome  2. Close window  3. Kernel complains about 1/2 to 3/4 of the time.      Application closes cleanly      Kernel error.    <b>Please provide

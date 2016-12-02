@@ -1,0 +1,1 @@
+<title>Issue 27981 -   chromium -    MAC Character Insertion when using Cmd + Arrow - Project Hosting on Google Code</title>   1. Use Cmd+arrow to go to the beginning or end of of a line   2. Notice the missing character inserted.   ��_��_��Ҋ�Ҋ�ҕ�_3. See screen capture of it happening in this box.��_��_��_��_��_��_                <b>Please provide

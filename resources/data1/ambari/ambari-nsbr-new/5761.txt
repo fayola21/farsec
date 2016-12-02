@@ -1,0 +1,1 @@
+2000-node cluster testing: during install phase of cluster deployment  install tasks were stuck in PENDING state    ActionScheduler is stucked when adding tasks to ActionQueue on large clusters (&gt;1000 nodes)   

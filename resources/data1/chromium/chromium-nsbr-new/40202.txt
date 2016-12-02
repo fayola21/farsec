@@ -1,0 +1,1 @@
+<title>Issue 40202 -   chromium -    translate: most text on page not translated - Project Hosting on Google Code</title>   1. Visit URL mentioned above  2. Request a translation from Russian to English  3. Observe what has been translated.        All text be translated.        Only headings are translated.    <b>Please provide

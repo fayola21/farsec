@@ -1,0 +1,1 @@
+<title>Issue 6383 -   chromium -    Implement Control-Alt-plus and minus for text-only zoom (not full page zoom) - Project Hosting on Google Code</title>   1. Ctrl+Wheel      Full-Zoom or Text-Zoom depending on settings      Full-Zoom    Please provide

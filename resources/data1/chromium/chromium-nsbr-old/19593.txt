@@ -1,0 +1,1 @@
+<title>Issue 19593 -   chromium -    Subscribe in Google Reader not working in last Chrome dev version - Project Hosting on Google Code</title> <pre> Chrome Version: 4.0.201.1 (Build oficial 23222)    When I go to a site which has RSS  the orange button appear but I can't press   it.    Can you help me?   </pre>

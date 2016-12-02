@@ -1,0 +1,1 @@
+<title>Issue 37886 -   chromium -    AQWorlds causes Flash Plug-in to crash within Chrome - Project Hosting on Google Code</title>   1. Make an account  2. Play the Adventure Quest game          Game should play fine        Randomly the Adobe Flash Plug-in crashes and you get the sad face broken   plug-in picture in Chrome      <b>Please provide

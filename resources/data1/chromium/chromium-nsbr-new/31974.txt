@@ -1,0 +1,1 @@
+<title>Issue 31974 -   chromium -    GTK theming has problems with pixmap themes (was: Find bar has weird edges in New Wave theme) - Project Hosting on Google Code</title> <pre> Google Chrome	4.0.288.1 (Official Build 35555) unstable    See screenshot. </pre>

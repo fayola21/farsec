@@ -1,0 +1,1 @@
+<title>Issue 25824 -   chromium -    make gcl warn when creating a CL in a read-only checkout - Project Hosting on Google Code</title> <pre> Make gcl warn when creating a CL in a read-only checkout.  This has bit a   couple of times  a warning would have saved the CLs. </pre>

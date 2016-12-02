@@ -1,0 +1,1 @@
+<title>Issue 11182 -   chromium -    Metadot HTML editor doesn't work (toolbar doesn't show) - Project Hosting on Google Code</title>   1. Add a new page to metadot  2. Edit the page content      See and be able to use the HTML editor for the page.      No toolbar shown.    <b>Please provide

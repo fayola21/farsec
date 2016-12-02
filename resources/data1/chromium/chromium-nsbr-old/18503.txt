@@ -1,0 +1,1 @@
+<title>Issue 18503 -   chromium -    Text not translate - Project Hosting on Google Code</title> <pre> [Language] Fran��__ais (French)    [Version number]3.0.193.2    [OS details]Vista SP2    Voir Screenshoot    </pre>

@@ -1,0 +1,1 @@
+Remove duplicated code for starting remote processes in replication tests    ReplicationRun has two copies of each of the methods runUserCommand()  runUserCommandRemotely() and processOutput(). One variant takes an id parameter (used only in debug output)  and one doesn't. It would be sufficient to have one copy of each of these methods.   

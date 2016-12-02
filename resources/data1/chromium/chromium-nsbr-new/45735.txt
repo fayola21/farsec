@@ -1,0 +1,1 @@
+<title>Issue 45735 -   chromium -    Need better gripper for Mac browser actions - Project Hosting on Google Code</title> <pre> Mac is currently using the old chunky looking gripper for the browser action   portion of the toolbar. It should use a nicer one like Windows.    Cole  please make or find one and attach and then we can find an eng owner. </pre>

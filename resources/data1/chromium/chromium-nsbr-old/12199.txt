@@ -1,0 +1,1 @@
+<title>Issue 12199 -   chromium -    about:crash page should have a title - Project Hosting on Google Code</title> <pre>   about:crash page should have a title.    -Go to any webpage (say google home page)  -Go to about:crash in the same tab.    The tab has its previous page title only (google).   </pre>

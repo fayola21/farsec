@@ -1,0 +1,1 @@
+<title>Issue 27803 -   chromium -    Crash after closing language options - Project Hosting on Google Code</title>   1. Open up the language and font settings.  2. Close the language and font settings again.  3. Chrome crashes.      The new settings should be applied.      Chrome crashes.    <b>Please provide

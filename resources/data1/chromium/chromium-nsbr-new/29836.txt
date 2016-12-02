@@ -1,0 +1,1 @@
+<title>Issue 29836 -   chromium -    Add mime-type to sync.proto - Project Hosting on Google Code</title> <pre> In order to determine which ChangeProcessor to invoke for changes to   particular nodes  we have decided to leverage the readily available (on the   server) mime-type of a node  by sending it to the client as part of the   SyncEntity. </pre>

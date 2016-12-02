@@ -1,0 +1,1 @@
+<title>Issue 6760 -   chromium -    Run script.aculo.us tests on buildbot - Project Hosting on Google Code</title> <pre> Run script.aculo.us tests on buildbot.    Make sure to run them over HTTP (due to potential issues with file://). </pre>

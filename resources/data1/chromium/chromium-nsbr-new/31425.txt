@@ -1,0 +1,1 @@
+<title>Issue 31425 -   chromium -    Github line numbering doesn't line up with line text - Project Hosting on Google Code</title> <pre> Look at some source code on github.    E.g.  <a href="http://github.com/sigma/dotfiles/blob/master/_gnus.el">http://github.com/sigma/dotfiles/blob/master/_gnus.el</a>    Notice that the line numbers don't line up with the lines. </pre>

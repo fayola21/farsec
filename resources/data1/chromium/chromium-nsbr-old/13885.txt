@@ -1,0 +1,1 @@
+<title>Issue 13885 -   chromium -    Selecting Options or Wrench menu  crashes Google Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.187.0              Safari 4:na    Firefox 3.x:na           IE 7:na           IE 8:na      Open the option or the wrench menu      Menu opens        Browser crashes completely       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27384 -   chromium -    Can't click anything after opening link - Project Hosting on Google Code</title>   1. go to any site (ex. www.google.com)  2. select any link and select open link with new window (or new tab)  3. can't click anything in the original page                <b>Please provide

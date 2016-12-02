@@ -1,0 +1,1 @@
+<title>Issue 38239 -   chromium -    Layout test prototype-inheritance.html started failing with r41620 on linux - Project Hosting on Google Code</title> <pre> <a href="http://build.chromium.org/buildbot/waterfall/builders/Webkit%20Linux/builds/">http://build.chromium.org/buildbot/waterfall/builders/Webkit%20Linux/builds/</a>  19519    Fails consistently afterwards. </pre>

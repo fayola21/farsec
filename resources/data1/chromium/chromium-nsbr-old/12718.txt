@@ -1,0 +1,1 @@
+<title>Issue 12718 -   chromium -    Google Chrome sends GET request for POST form - Project Hosting on Google Code</title>   1. Load test case through a PHP-enabled server.  2. Hit &quot;Submit&quot;.  3. Check the value of $_POST printed on the returned page.        Array ( [foo] =&gt; Lorem Ipsum )        Array ( )    <b>Please provide

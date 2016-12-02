@@ -1,0 +1,1 @@
+<title>Issue 11542 -   chromium -    Implement &quot;View Page Info&quot; window on Mac - Project Hosting on Google Code</title> <pre> We need to implement &quot;View Page Info&quot; on the Mac. I'm going to take a stab at implementing it as a   first project. </pre>

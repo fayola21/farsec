@@ -1,0 +1,1 @@
+<title>Issue 1046 -   chromium -    Complete Crash When Typing Two Characters - Project Hosting on Google Code</title>   1. Place cursor in the address bar  2. Type :%        Normal operation      Chrome crashes - not just the tab  the entire application.    Please provide

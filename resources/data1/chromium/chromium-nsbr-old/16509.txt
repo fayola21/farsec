@@ -1,0 +1,1 @@
+<title>Issue 16509 -   chromium -    Dragging the last tab causes a hang - Project Hosting on Google Code</title>   1. Close all tabs except the last one  2. Drag the only tab              Chromium dies.    <b>Please provide

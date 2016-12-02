@@ -1,0 +1,1 @@
+<title>Issue 10939 -   chromium -    Omnibox edit field styling wrong on Mac. - Project Hosting on Google Code</title> <pre> The look of the URL should highlight the hostname.  There are other variants. </pre>

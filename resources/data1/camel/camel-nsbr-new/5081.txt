@@ -1,0 +1,1 @@
+org.apache.camel.component.mybatis.MyBatisBatchConsumerTest.testBatchConsumer() fails unpredictable    I assume we see this failure when we inserted the first test into the database (and only the first one) when the mybatis consumer starts to poll the database. See build failure: https://builds.apache.org/job/Camel.2.8.x.fulltest/org.apache.camel$camel-mybatis/149/   

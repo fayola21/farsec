@@ -1,0 +1,1 @@
+<title>Issue 8922 -   chromium -    ReportFatalErrorInV8 when using user scripts.  Missing handle scope in V8Proxy::initContextIfNeeded - Project Hosting on Google Code</title> <pre>   There is no handle scope in V8Proxy::initContextIfNeeded  this causes a renderer crash when using   user scripts. </pre>

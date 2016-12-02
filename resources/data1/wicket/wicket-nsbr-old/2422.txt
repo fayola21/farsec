@@ -1,0 +1,1 @@
+DefaultDataTable hides NavigationToolbar once and forever    DefaultDataTable does not show NavigationToolbar if initial data does not require more than one page.DefaultDataTable hides and does not show NavigationToolbar again if data one time does not require more than one page .   

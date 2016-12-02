@@ -1,0 +1,1 @@
+<title>Issue 20797 -   chromium -    Some crap in logs makes parsing them harder and less reliable - Project Hosting on Google Code</title> <pre> Example:  2263:0[       OK ] AudioUtilTest.FoldChannels_s32 (0 ms)    It happens on all platforms (Win  Lin  Mac). </pre>

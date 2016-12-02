@@ -1,0 +1,1 @@
+<title>Issue 14828 -   chromium -    right click menu in goole docs pdf view - Project Hosting on Google Code</title>   1.SELECT some words  2.Right click selection  3.Right click menu is not right      Same as other browser  g-docs menu  should be right click menu for text.      chrome default context menu on image    <b>Please provide

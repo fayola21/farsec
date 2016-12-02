@@ -1,0 +1,1 @@
+<title>Issue 960 -   chromium -    Proxy Digest Auth - Project Hosting on Google Code</title>   1. Use a proxy/Apache with Digest Auth and try to open gmail          Should succeed      Digest: uri mismatch appears in server error log    Please provide

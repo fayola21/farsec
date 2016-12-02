@@ -1,0 +1,1 @@
+Reconfigure of dynamic configs not showing modified values    Modifications of dynamic properties are being persisted on server  but default values are being shown in UI. Also  we should not validate dynamic configs which are of type string. mapreduce.map.java.opts mapreduce.reduce.java.opts yarn.app.mapreduce.am.command-opts   

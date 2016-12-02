@@ -1,0 +1,1 @@
+<title>Issue 29331 -   chromium -    CrashRecoveryBrowserTest causes os crash dialog in release build - Project Hosting on Google Code</title> <pre> CrashRecoveryBrowserTest in browser_tests causes an OS crash dialog  so it's   is being disabled for mac  this needs to be fix to enable the test so the bots   don't pile up these crashes. </pre>

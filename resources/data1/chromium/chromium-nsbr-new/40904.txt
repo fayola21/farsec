@@ -1,0 +1,1 @@
+<title>Issue 40904 -   chromium -    Instant crash when selecting from omnibox - Project Hosting on Google Code</title>   1. Type something into the omnibox  2. Use the mouse to click something      It goes to that page in the current tab      Instant crash. Chrome must be restarted    <b>Please provide

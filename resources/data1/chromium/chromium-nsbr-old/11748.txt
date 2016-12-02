@@ -1,0 +1,1 @@
+<title>Issue 11748 -   chromium -    Thumbnails on NTP sidewards truncated - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.177.1  URLs (if applicable) : chrome(-ui)://newtab    The thumbnails of SOME sites are truncated on the NTP. If a thumbnail got   updated the size of the truncated area varies.    Win Vista x64    Screenshot attached ...   </pre>

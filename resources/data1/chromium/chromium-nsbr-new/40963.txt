@@ -1,0 +1,1 @@
+<title>Issue 40963 -   chromium -    cannot copy/paste correctly into Google Docs - Project Hosting on Google Code</title>               The format of the web page should be kept when I copy/past the web page   into a Google doc        The text are all cluttered together.    <b>Please provide

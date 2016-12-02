@@ -1,0 +1,1 @@
+<title>Issue 40327 -   chromium -    None appears in textbox (double click) logins whit credentials previusly inserted - Project Hosting on Google Code</title>   1. Enter a page with login form  2. Doble click in the user or password box (previusly visited and fill) and   none appears ...       List of previous logins inserted by these page           <b>Please provide

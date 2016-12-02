@@ -1,0 +1,1 @@
+<title>Issue 26423 -   chromium -    error opening PDF files - Project Hosting on Google Code</title>   1.opening any kind of pdf files is not supporting by chrome. it started   recently.                    <b>Please provide

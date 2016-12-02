@@ -1,0 +1,1 @@
+<title>Issue 4310 -   chromium -    Move Windows/Window/View specific code from Browser to BrowserView etc. - Project Hosting on Google Code</title> <pre> Windows/Window/View specific code should move from Browser to BrowserView. </pre>

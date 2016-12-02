@@ -1,0 +1,1 @@
+<title>Issue 23390 -   chromium -    Infobars should not have a hardcoded blue border. - Project Hosting on Google Code</title> <pre> And should use GetBorderColor() instead. </pre>

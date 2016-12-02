@@ -1,0 +1,1 @@
+<title>Issue 45396 -   chromium -    unable to leave comments by traditional Chinese at facebook - Project Hosting on Google Code</title>   1. typing traditional Chinese at comment boxes of facebook          words should appear      no words appeared    <b>Please provide

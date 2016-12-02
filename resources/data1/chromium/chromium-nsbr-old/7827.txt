@@ -1,0 +1,1 @@
+<title>Issue 7827 -   chromium -    crash on about:robots - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.126.0  URLs (if applicable) : about:robots        Firefox 3: OK           IE 7: OK      1. Go to: about:robots  2. Open new tab  3. Close new tab    What happens?  Chrome crashing.    Tested on Vista SP1 x64  Seven  etc.   </pre>

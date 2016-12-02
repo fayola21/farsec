@@ -1,0 +1,1 @@
+Allow restarting AbstractAjaxTimerBehavior without updating its hosting component    Currently when AbstractAjaxTomerBehavior is restarted  its updates its whole hosting component. This is undesirable when you have added the behavior to the page or another component high in the hierarchy.   

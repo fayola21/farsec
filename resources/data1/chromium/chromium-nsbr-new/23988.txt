@@ -1,0 +1,1 @@
+<title>Issue 23988 -   chromium -    Web inspector displays the bookmarks bar - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.0 (28149)  OS version               : 10.6.1      1. Open the web inspector  2. See the bookmarks bar      No bookmarks bar      Bookmarks bar is shown </pre>

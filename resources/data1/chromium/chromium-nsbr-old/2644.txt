@@ -1,0 +1,1 @@
+<title>Issue 2644 -   chromium -    Viewing Source of a submited form &quot;POST&quot; - Project Hosting on Google Code</title>   1. submitted a form  2. right clicked and pressed view source        You should see the added x/html in the source after you submit      you see only the original source code    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 18893 -   chromium -    Middle-Clicked link DOESN'T open in a new tab. :( - Project Hosting on Google Code</title>   1. middle-click(scroll wheel) on a link      Open the middle-clicked link in a new tab.        The link opens in the same tab.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11579 -   chromium -    Doesn't automatically update - Project Hosting on Google Code</title>   1.Clean install Vista or Windows 7  2.Go to About in Chrome and wait for it to check for latest version        Expect it to upgrade to the latest version      ...but it says: Google Chrome is up to date    <b>Please provide

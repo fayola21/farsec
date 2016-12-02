@@ -1,0 +1,1 @@
+<title>Issue 40540 -   chromium -    jQuery kiwcks (and probably others) have problem in latest chromium build - Project Hosting on Google Code</title>   1. Go to URL  2. hover the mouse        smooth JS animation      behaviour is not consistent    <b>Please provide

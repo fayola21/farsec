@@ -1,0 +1,1 @@
+<title>Issue 20963 -   chromium -    Inspect Element page comes up blank - Project Hosting on Google Code</title>   1. Open any page  2. Right click and select Inspect Element (or just press CTRL + SHIFT + J)        Expect to see the devtools page populated with page information      Devtools page opens but is blank. Only the search box is visible.    <b>Please provide

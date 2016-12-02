@@ -1,0 +1,1 @@
+<title>Issue 34980 -   chromium -    problems with references - Project Hosting on Google Code</title> <pre> When i try to open references from qip infium nothing is happening.  But i got some chrome.exe processes. If i need to open chrome i have to kill   this processes.     chrome version: 4.0.249.78 (36714)  os: windows 7 ultimate </pre>

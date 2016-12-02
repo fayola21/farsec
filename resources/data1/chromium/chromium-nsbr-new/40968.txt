@@ -1,0 +1,1 @@
+<title>Issue 40968 -   chromium -    Text all replaced with an 'A' in a box character - Project Hosting on Google Code</title>   1. Starting Chrome          any web page      unusable web pages    <b>Please provide

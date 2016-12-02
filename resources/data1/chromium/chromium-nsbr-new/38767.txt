@@ -1,0 +1,1 @@
+<title>Issue 38767 -   chromium -    Click anywhere in comment form  crashes - Project Hosting on Google Code</title>   1.LA Times form. Click anywhere in comment form           Able to type name  or email address  etc.      Aw  snap crash    <b>Please provide

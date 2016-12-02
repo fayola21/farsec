@@ -1,0 +1,1 @@
+<title>Issue 24876 -   chromium -    Add UI for changing timezones - Project Hosting on Google Code</title> <pre> We need to add a UI that lets user change their timezone and have the timezone persist across   sessions.    See: <a href="http://code.google.com/p/chromium-os/issues/detail?id=156">http://code.google.com/p/chromium-os/issues/detail?id=156</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16694 -   chromium -    Chrome freezes requiring hard reboot - Project Hosting on Google Code</title>   1. multiple Chrome tabs or windows open   2. when swtching windows   3. or using back button          What happens instead?  The mouse hangs and system becomes completely   frozen - can only be fixed with a HARD reboot      <b>Please provide

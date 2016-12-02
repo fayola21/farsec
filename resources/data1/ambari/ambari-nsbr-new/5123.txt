@@ -1,0 +1,1 @@
+Background Operations window does not appear after triggering Rolling Restart    STR: Deploy cluster. Check that flag Do not show the Background Operations dialog when starting an operation is set to false. Click Restart DataNodes in Actions menu of HDFS. Click 'Trigger Restart' in appeared modal window.Result: Background Operations was not appeared.   

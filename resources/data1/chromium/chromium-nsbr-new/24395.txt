@@ -1,0 +1,1 @@
+<title>Issue 24395 -   chromium -    new tab page background jumps when you switch to it - Project Hosting on Google Code</title> <pre>   1. load ratchet and clank theme  2. open a new tab page  3. Turn off bookmark bar (so it is in floating mode)  4. switch to different tab  5. Switch back to the ntp    the background of the ntp noticeably jumps. </pre>

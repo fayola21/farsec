@@ -1,0 +1,1 @@
+<title>Issue 40915 -   chromium -    [http://www.ideam.gov.co/]: Web site not show properly - Project Hosting on Google Code</title>   1. go to www.ideam.gov.co            I expect to view a correct rendering for this site        The page shows ugly  like if a css or something is missing    <b>Please provide

@@ -1,0 +1,1 @@
+Change the JMX default connetor's URL to avoid the confilict with the ActiveMQ or ServiceMix JMX default connector    Since the Camel default JMX connector's URL is same with ActiveMQ and ServiceMix default JMX Connector URL  we need to change it to avoid the conflict.   

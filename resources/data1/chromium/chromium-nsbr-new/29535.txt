@@ -1,0 +1,1 @@
+<title>Issue 29535 -   chromium -    Image isn't loading properly. Alot of colors disseapeared - Project Hosting on Google Code</title>   1. Try visiting the webpage and view the CPUZ image          The CPUZ image should come out as per normal      Instead it comes out as   <a href="http://i45.tinypic.com/ddf1c6.jpg">http://i45.tinypic.com/ddf1c6.jpg</a>    <b>Please provide

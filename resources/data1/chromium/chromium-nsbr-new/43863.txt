@@ -1,0 +1,1 @@
+<title>Issue 43863 -   chromium -    Regression: Task manager shortcut Shift+ESC doesn't work - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.401.0 (Developer Build 46907)      1. press Shift+ESC in Chromium      Task manager should start      Task manager doesn't start (with the button it works) </pre>

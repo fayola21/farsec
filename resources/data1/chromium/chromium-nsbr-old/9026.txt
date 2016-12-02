@@ -1,0 +1,1 @@
+<title>Issue 9026 -   chromium -    Saved password manager should not be split across two dialogs. - Project Hosting on Google Code</title> <pre> Currently the saved password manager and exceptions manager are two   separate dialogs; this UI is confusing. They should be tabs of the same   dialog. Mockups coming. </pre>

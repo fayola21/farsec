@@ -1,0 +1,1 @@
+<title>Issue 3843 -   chromium -    Reminder to remove hacks from http_network_transaction.cc - Project Hosting on Google Code</title> <pre> there are some crash debugging hacks in http_network_transaction.cc which   should be removed once investigation is complete. </pre>

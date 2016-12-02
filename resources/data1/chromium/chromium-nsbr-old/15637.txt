@@ -1,0 +1,1 @@
+<title>Issue 15637 -   chromium -    Padding on Search Engine editor strange - Project Hosting on Google Code</title> <pre> The dialog displaying the list of search engines has strange padding -- needs   more space between the buttons and the list  and the left and right sides   seem to have more padding than the top. </pre>

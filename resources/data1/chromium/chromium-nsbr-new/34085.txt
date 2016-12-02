@@ -1,0 +1,1 @@
+<title>Issue 34085 -   chromium -    Move the log parser code outside buildbot - Project Hosting on Google Code</title> <pre> To make the log parsers and perf dashboard more easily modifiable and   testable  we need to move them out of the buildbot master. </pre>

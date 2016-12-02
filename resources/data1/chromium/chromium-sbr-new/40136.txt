@@ -1,0 +1,1 @@
+<title>Issue 40136 -   chromium -    Security: Path Traversal in Devtools - Project Hosting on Google Code</title> <pre>   chrome://devtools/inspector.html?#/../../../../../../../../../My  Documents/Downloads/test.html    Will open a file called test.html in your Downloads directory. </pre>

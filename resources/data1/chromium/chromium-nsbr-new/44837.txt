@@ -1,0 +1,1 @@
+<title>Issue 44837 -   chromium -    Find on page bug - Project Hosting on Google Code</title>   1. Go to indicated url  2. Type apple + f to search page      The search bar should pop up      You see that something tries to pop up in the right hand corner  but the full search bar doesn't   show up.    <b>Please provide

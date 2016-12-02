@@ -1,0 +1,1 @@
+<title>Issue 19157 -   chromium -    High CPU use by flash plugin for http://www.cnbbankdirect.com/ - Project Hosting on Google Code</title>   1. Visit <a href="http://www.cnbbankdirect.com/">http://www.cnbbankdirect.com/</a>      normal cpu usage      Notice the CPU usage is 100%    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17192 -   chromium -    chrome crash while I use a chinese-named font - Project Hosting on Google Code</title>   1. Install sudo apt-get install ttf-wqy-zenhei  2. Set your GNOME font to zenhei  (__��_____��_��___��__��_��_)  3. start chrome.      // I think it's also happened without other Chinese-named Font.           chrome crashed.    <b>Please provide

@@ -1,0 +1,1 @@
+Potential dead-lock when shutting down Camel with NotifyBuilder doing notication    See nabblehttp://camel.465427.n5.nabble.com/Gracefull-shutdown-timeouts-due-to-NotifyBuilder-blocks-on-context-tp5654048p5654048.htmlWe should avoid the synchronized getRoutes method which is really not needed.   

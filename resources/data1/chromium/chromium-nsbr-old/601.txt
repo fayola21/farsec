@@ -1,0 +1,1 @@
+<title>Issue 601 -   chromium -    &lt;small&gt; (?) rendering issue - Project Hosting on Google Code</title>   1. Use ClearType fonts (ATTENTION: Work without font smoothing)  2. Open the link.  3. Try reading the line below the username on the left side of the page.      Text should be clear and readable.      It's not.    <b>Please provide

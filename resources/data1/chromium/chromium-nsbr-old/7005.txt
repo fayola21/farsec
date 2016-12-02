@@ -1,0 +1,1 @@
+<title>Issue 7005 -   chromium -    bookmarks  you can't move any folder - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;REPLACE this with your version. Ex: 0.3.154.3&gt;                   look at the attach file !                  Please provide any additional information below. Attach a screenshot if   possible.     </pre>

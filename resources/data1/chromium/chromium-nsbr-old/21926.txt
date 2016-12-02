@@ -1,0 +1,1 @@
+<title>Issue 21926 -   chromium -    Ensure backing stores aren't swapped out - Project Hosting on Google Code</title> <pre> Per our meeting discussion today (feel free to add more info)  we should try   out ensuring that the backing stores aren't swapped out  and see how that   impacts performance (especially on heavy disk access). </pre>

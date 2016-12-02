@@ -1,0 +1,1 @@
+<title>Issue 36504 -   chromium -    closing a pinned tab leaves tab strip one pixel off - Project Hosting on Google Code</title> <pre>   1. open new chrome window with one tab  2. add a new tab  3. pin the new tab  4. close the pinned tab  5. affix your eyes on the single remaining tab  6. click the new tab button  7. observe that the old tab shifts one pixel left   </pre>

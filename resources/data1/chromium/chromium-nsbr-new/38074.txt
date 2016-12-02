@@ -1,0 +1,1 @@
+<title>Issue 38074 -   chromium -    Make it possible to wait for cookies in browser_tests - Project Hosting on Google Code</title> <pre> ... similarly to UITest::WaitUntilCookieValue and others.    This will hopefully provide a better solution to wait for things in the feed tests. </pre>

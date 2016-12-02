@@ -1,0 +1,1 @@
+<title>Issue 6298 -   chromium -    youtube : overlapping of filename and options text on uploading file - Project Hosting on Google Code</title>   1. Login to youtube accout  2. Upload a video      Filename and options text should not overlap      Filename uploaded and options text overlap    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11230 -   chromium -    Change all our drawing to use transparent images - Project Hosting on Google Code</title> <pre> Our drawing system should use transparent images overlaid over one or two   core theme images to make it easy to swap those images without having to   regenerate all of our buttons. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9904 -   chromium -    Regression: text disappears in a lot of places - Project Hosting on Google Code</title>   1. Login at google calendar  2. Add all day event  3. Move to next week and back again                <b>Please provide

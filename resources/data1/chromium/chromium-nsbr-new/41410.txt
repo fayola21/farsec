@@ -1,0 +1,1 @@
+<title>Issue 41410 -   chromium -    &quot;Undo close tab&quot; is broken for pinned tabs - Project Hosting on Google Code</title> <pre>   1. Pin tab  2. cmd-w  3. cmd-shift-t        Pinned tab should reopen.        A new tab with the same url as the pinned tab is opened.    Not sure if this is mac-only. </pre>

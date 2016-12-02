@@ -1,0 +1,1 @@
+Mock component - expectedBodiesReceived(List) does not work as expected    Java chooses the varargs methods always instead of the List method.   

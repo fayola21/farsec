@@ -1,0 +1,1 @@
+<title>Issue 18653 -   chromium -    &quot;New Tab&quot; window  displays &quot;What will we put here?&quot; text in a non-responsive window with &quot;Even more&quot; title bar - Project Hosting on Google Code</title>   1. Open a New Tab                    <b>Please provide

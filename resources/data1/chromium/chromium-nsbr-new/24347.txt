@@ -1,0 +1,1 @@
+<title>Issue 24347 -   chromium -    fwrite compile errors in extension_creator - Project Hosting on Google Code</title> <pre> New code added more fwrite calls where the return code isn't handled   causing compile errors on Fedora. I've attached a patch that resolves this  in a similar matter to the previous fwrite fixes. </pre>

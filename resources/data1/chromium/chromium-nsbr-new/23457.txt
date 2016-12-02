@@ -1,0 +1,1 @@
+<title>Issue 23457 -   chromium -    New close button images for the infobar and download shelf - Project Hosting on Google Code</title> <pre> Win/Linux infobars have a different close button image than on tabs --on hover they do not show   the circle.  Can you draw up pdfs to use on mac?  We might be able to reuse the same unhovered   pdf  which would be fine with me. </pre>

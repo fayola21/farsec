@@ -1,0 +1,1 @@
+<title>Issue 9342 -   chromium -    Right Click Menu - Project Hosting on Google Code</title>   1.Go to any website  2.Select some text on page  3.Right click on text while highlighted      Give a menu other then the one you get when right clicking on the a page   without selecting any text.       Gives the same menu as if no text was selected.    <b>Please provide

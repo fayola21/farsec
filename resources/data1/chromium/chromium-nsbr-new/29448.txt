@@ -1,0 +1,1 @@
+<title>Issue 29448 -   chromium -    Option to mark issues as Type:extension request - Project Hosting on Google Code</title> <pre> As extensions are coming  will be good to mark issues as type:possible with   extension  so many issues will not be marked as wontfix and extensions   developers can filter the extension requests searching for ideas.   </pre>

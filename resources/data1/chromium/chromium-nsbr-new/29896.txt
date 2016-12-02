@@ -1,0 +1,1 @@
+<title>Issue 29896 -   chromium -    tabs.detectLanguage is windows only - Project Hosting on Google Code</title> <pre> part of ExtensionBrowserTest.Toolstrip uses tabs.detectLanguage so that part   of the test is Windows only since tabs.detectLanguage is Windows only. </pre>

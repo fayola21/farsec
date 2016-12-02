@@ -1,0 +1,1 @@
+<title>Issue 36402 -   chromium -    Problems with news scraps on Orkut - Project Hosting on Google Code</title>   1. Login orkut  2. Receive a scrap from someone  3. Check the received scrap in right-down frame that appears        See the message in the frame           It appears blank         <b>Please provide

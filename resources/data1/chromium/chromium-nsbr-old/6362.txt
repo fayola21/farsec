@@ -1,0 +1,1 @@
+<title>Issue 6362 -   chromium -    Border looks weird: black except for the corners - Project Hosting on Google Code</title>   1. Install and start chrome  2. look at the borders      a 'normal' border      A strange border  which is completely black  except for the corners. (You can see it too on my screenshot)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4165 -   chromium -    &quot;Edit...&quot; should be rename for folders in the bookmarks manager - Project Hosting on Google Code</title> <pre>   1. Open the bookmarks manager  2. Right click on a bookmarks folder    There is no item for rename  only edit. Selecting &quot;edit...&quot; just gives you   a dialog for renaming.         </pre>

@@ -1,0 +1,1 @@
+Host Check report show hosts without issues    Report contains hosts  which don't have issues  but should show 'A space delimited list of hosts which have issues'.   

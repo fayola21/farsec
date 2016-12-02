@@ -1,0 +1,1 @@
+<title>Issue 39721 -   chromium -    Change how in-process WebGL implementation is selected - Project Hosting on Google Code</title> <pre> Currently the switch between the command buffer and in-process WebGL code is   determined by the presence of the no-sandbox flag. We should add a new flag   like --in-process-webgl to toggle this behavior instead.   </pre>

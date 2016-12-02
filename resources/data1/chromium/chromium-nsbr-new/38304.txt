@@ -1,0 +1,1 @@
+<title>Issue 38304 -   chromium -    Inspector hangs up after switching to another tab - Project Hosting on Google Code</title>   1. Open two pages  2. Open inspector (ctrl+alt+J)  3. Switch to another page  return back    What is the expected result? Inspector should works OK after switching      What happens instead? Inspector hangs up after this      <b>Please provide

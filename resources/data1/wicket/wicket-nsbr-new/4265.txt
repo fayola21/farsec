@@ -1,0 +1,1 @@
+Thread Test Uses Sun Proprietary API    The ResourceTestPage class uses classes from com.sun.* packages to do image I/O. This breaks the build for me using Oracle's JDK7 on linux (see environment). You should use the ImageIO class instead.   

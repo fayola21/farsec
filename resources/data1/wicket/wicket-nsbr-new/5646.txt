@@ -1,0 +1,1 @@
+Allow subclasses of ComponentStringResourceLoader to stop at specific components    Sometimes is desirable to stop loading of string resources at a specific component  e.g. to limit overriding of keys to parts of the web page.An additional hook-method in ComponentStringResourceLoader would allow subclasses to implement this without duplicating parental logic.   

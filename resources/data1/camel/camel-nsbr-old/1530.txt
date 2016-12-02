@@ -1,0 +1,1 @@
+Upgrade camel-http to use httpclient 4.0    Upgrading httpclient from 3.1 to 4.0 requires changes in the camel-http code as the API has change quite a lot.   

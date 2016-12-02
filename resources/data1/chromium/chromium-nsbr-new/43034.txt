@@ -1,0 +1,1 @@
+<title>Issue 43034 -   chromium -    Cannot remove favicon from bookmarks bar - Project Hosting on Google Code</title> <pre> In other browsers  you have the option of not showing favicons in the bookmarks bar. This would be   extremely useful in Chrome!  </pre>

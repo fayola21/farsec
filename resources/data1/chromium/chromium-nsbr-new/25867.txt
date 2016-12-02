@@ -1,0 +1,1 @@
+<title>Issue 25867 -   chromium -    Viewing documents from gmail causes redirecting loop. - Project Hosting on Google Code</title>   1. Login to gmail  2. Open a message with an attached document  3. Click &quot;view&quot;      Document opens in a new tab      New tab opens  displays &quot;redirecting&quot; and loops.    <b>Please provide

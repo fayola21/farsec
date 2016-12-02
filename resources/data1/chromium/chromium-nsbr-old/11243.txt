@@ -1,0 +1,1 @@
+<title>Issue 11243 -   chromium -    [regression] Resizing gmail causes white flash of content - Project Hosting on Google Code</title> <pre> Dev channel: 2.0.177.1    Open gmail  resize the window from the bottom right.  Huge amount of flicker. </pre>

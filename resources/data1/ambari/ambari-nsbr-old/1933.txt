@@ -1,0 +1,1 @@
+Test failure : testCascadeDeleteStages    mvn clean install produces the following failure ...testCascadeDeleteStages(org.apache.ambari.server.actionmanager.TestActionManager):Exception [EclipseLink-4002] (Eclipse Persistence Services -2.4.0.v20120608-r11652):org.eclipse.persistence.exceptions.DatabaseException(..)   

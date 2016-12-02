@@ -1,0 +1,1 @@
+ZKFailoverController should be shown as a component that can be started/stopped in Host Details page       

@@ -1,0 +1,1 @@
+DefaultParameterMappingStrategy doesn't load its defaults    This is preventing BeanProcessor from using bean methods with a Message parameter  or bean methods not named 'process' that have an Exchange as their parameter. For example  to map to a Message the it tries using the ParameterExpression bodyAs(Message.class) instead of inmessageExpression().   

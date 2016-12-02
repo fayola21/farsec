@@ -1,0 +1,1 @@
+<title>Issue 6929 -   chromium -    Tabs without text on it. - Project Hosting on Google Code</title>   1. I had opened 8 tab and the text on it disappear.  2. See the attached file      Shorten tabs with text on it.      Please provide

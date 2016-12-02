@@ -1,0 +1,1 @@
+<title>Issue 8227 -   chromium -    ALT+F4 does not work at application shortcut. - Project Hosting on Google Code</title>   1. Create any application shortcut   2. click the shortcut  3. Press ALT+F4 to close the window.      The window should be closed.      Nothing.    Please provide

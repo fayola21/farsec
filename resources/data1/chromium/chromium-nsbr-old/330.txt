@@ -1,0 +1,1 @@
+<title>Issue 330 -   chromium -    Google Toolbar - Project Hosting on Google Code</title> <pre> I felt uncomfortable when the Google Toolbar was not there. I've tried to   install the Google Toolbar but it does not install to my Chrome but IE7. I   have got used to the WordTranslator feature. Thank you.      </pre>

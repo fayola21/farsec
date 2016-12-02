@@ -1,0 +1,1 @@
+<title>Issue 18782 -   chromium -    Clean up confusion in URLRequest's is_pending  and Notify{Done StartError} - Project Hosting on Google Code</title> <pre> There are stale comments about is_pending  and having separate NotifyDone   and NotifyStartError only adds to the confusion.    However  the &quot;old&quot; ftp job seems to require NotifyStartError. </pre>

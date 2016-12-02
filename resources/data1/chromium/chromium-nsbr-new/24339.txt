@@ -1,0 +1,1 @@
+<title>Issue 24339 -   chromium -    Mac window title doesn't show up in accessibility inspector - Project Hosting on Google Code</title> <pre>   1. Launch Mac Chrome  2. Launch accessibility inspector  3. Move over window  and note that AXTitle is &quot;&quot;.      I would expect AXTitle to contain the windows title. </pre>

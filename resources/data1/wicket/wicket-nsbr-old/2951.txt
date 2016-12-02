@@ -1,0 +1,1 @@
+Markup for AjaxLazyLoadPanel's is not valid HTML    The markup generated for the waiting image is not valid HTML as it lacks an ALT attribute.   

@@ -1,0 +1,1 @@
+<title>Issue 37986 -   chromium -    very janky SVG rendering/scrolling - Project Hosting on Google Code</title> <pre> The attached SVG file crashes the tab on Chrome  while Firefox and other   apps load it fine.    5.0.342.1 Linux: crash  stable Windows: no crash    Haven't tried the rest. </pre>

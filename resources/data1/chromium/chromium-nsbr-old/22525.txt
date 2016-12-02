@@ -1,0 +1,1 @@
+<title>Issue 22525 -   chromium -    The Code Editor in cPanel is jumbled up. - Project Hosting on Google Code</title>   1. Well first log into cPanel 11.  2. Open Up the file manager  3. Code Edit a file      The text become editable and you edit it.      The Text jumbles itself on to one side of the screen  making it unreadable.    <b>Please provide

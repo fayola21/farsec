@@ -1,0 +1,1 @@
+<title>Issue 2711 -   chromium -    long title in app window clobbers google logo - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.153.0    See attached screenshot. </pre>

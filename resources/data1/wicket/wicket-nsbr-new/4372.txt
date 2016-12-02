@@ -1,0 +1,1 @@
+Two WicketSerializableException classes    o.a.w.util.io.WicketSerializeableException is dead code  superceded by o.a.w.util.io.SerializableChecker$WicketSerializeableException.   

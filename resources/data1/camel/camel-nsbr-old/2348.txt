@@ -1,0 +1,1 @@
+EventNotifier - Make it easy to ignore unwanted event categories    The current EventNotifier is a bit sparse. It should have a bunch of ignoreXXX events to filter by category. In case you do not want certain types etc.Also it can be used to configure it to only report failures which is interesting if you want to alert that to a monitoring system.   

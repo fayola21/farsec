@@ -1,0 +1,1 @@
+<title>Issue 37490 -   chromium -    Can't scroll an SVG larger than window size - Project Hosting on Google Code</title>   1. Go to website  2. Try to scroll down        You can scroll and see the whole SVG        You can't scroll and see the whole SVG    <b>Please provide

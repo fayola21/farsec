@@ -1,0 +1,1 @@
+<title>Issue 8991 -   chromium -    Optional HTTP pipelining mode - Project Hosting on Google Code</title> <pre> We should implement an optional HTTP pipelining mode.  Pipelining is specified in the HTTP 1.1 RFC:  <a href="http://www.ietf.org/rfc/rfc2616.txt">http://www.ietf.org/rfc/rfc2616.txt</a> </pre>

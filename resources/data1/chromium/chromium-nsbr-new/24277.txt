@@ -1,0 +1,1 @@
+<title>Issue 24277 -   chromium -    &quot;null&quot; is given as the page having an error - Project Hosting on Google Code</title>   1. Wireless network goes down  2. Visit any page        The error message should display the URL having a problem        The URL is &quot;null&quot;    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15284 -   chromium -    Change logo on New Tab - Project Hosting on Google Code</title> <pre> Google has changed the logo of Chrome (see <a href="http://www.google.com/chrome">http://www.google.com/chrome</a>) you   should also change it on the new Tab Page. </pre>

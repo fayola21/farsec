@@ -1,0 +1,1 @@
+<title>Issue 22565 -   chromium -    Chromium ends downloads at 40mb - Project Hosting on Google Code</title>   1. Downloading any file that is larger than 40mb          That the download will continue until it is finished        The download stops when it reaches 40mb.  Tested with files from   SendSpace and Ubuntu.com.      <b>Please provide

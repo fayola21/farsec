@@ -1,0 +1,1 @@
+hadoop-mapreduce.jobsummary.log is empty when specified custom YARN Log Dir    Reproduced with such preconditions:On Customize Services page specify 'YARN Log Dir Prefix' to some custom dir. After deploying  run MapReduce2 Service check and check that:hadoop-mapreduce.jobsummary.log is empty  but /var/log/hadoop-yarn/yarn/hadoop-mapreduce.jobsummary.log contains jobs records.   

@@ -1,0 +1,1 @@
+<title>Issue 26910 -   chromium -    Uninstalling an extension that has a browser action and is disabled dchecks - Project Hosting on Google Code</title> <pre> It is surprised to be asked to remove an extension and not find it. </pre>

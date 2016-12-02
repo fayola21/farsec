@@ -1,0 +1,1 @@
+<title>Issue 1221 -   chromium -    hot mail error - Project Hosting on Google Code</title> <pre> When login to hotmail/windows live hotmail account got following error:    Update your web browser (see attached image)     </pre>

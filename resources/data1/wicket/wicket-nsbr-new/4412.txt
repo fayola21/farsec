@@ -1,0 +1,1 @@
+ChoiceFilteredPropertyColumn with setNullValid to true    When filtering with a ChoiceFilteredPropertyColumn  the 'Choose one' value disappears  so you can't undo the filter.Set 'setNullValid' to true in the ChoiceFilter class so that you can choose the null value.   

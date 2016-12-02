@@ -1,0 +1,1 @@
+<title>Issue 43027 -   chromium -    Chrome randomly crashes and get BSOD - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.28               IE 8: OK  Opera 10.53: OK  Chrome 5.0.375.23: OK  Chrome 5.0.375.17: OK      1. change something back to 5.0.375.23.  2. find problem and fix it      Chrome will not randomly crashes and get BSOD. </pre>

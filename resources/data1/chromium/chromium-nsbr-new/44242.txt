@@ -1,0 +1,1 @@
+<title>Issue 44242 -   chromium -    Chrome shortcut disappears from Dock (see attachment) - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.38 beta    OS version               : 10.6.3            1. Chrome icon disappeared from Dock after system restart          Chrome icon to reappear      Chrome icon still missing </pre>

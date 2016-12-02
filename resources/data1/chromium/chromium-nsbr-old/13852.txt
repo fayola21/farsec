@@ -1,0 +1,1 @@
+<title>Issue 13852 -   chromium -    about Uyghur translations - Project Hosting on Google Code</title> <pre>     Uyghur        Chrome 2.0.181.1        Windows OS        I'm translated English string into Uyghur.        attach file contain English Uyghur translation strings.    I wish use Google Chrome in Uyghur UI.      thanks </pre>

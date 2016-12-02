@@ -1,0 +1,1 @@
+<title>Issue 22130 -   chromium -    No decoration (title and border) for the options window in KDE - Project Hosting on Google Code</title>   1. open the options window from the menu                  When opening the options window  the window has no border and title    Please provide

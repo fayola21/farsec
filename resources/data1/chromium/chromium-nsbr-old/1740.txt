@@ -1,0 +1,1 @@
+<title>Issue 1740 -   chromium -    Faster downloads by using partial downloading - Project Hosting on Google Code</title> <pre> I would love to see a feature like DownloadThemAll for Chrome since I can   download with ~2m/s over DTA! and only 100 kb/s on chrome  which makes it   really unattractive for big files.. </pre>

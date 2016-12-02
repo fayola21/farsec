@@ -1,0 +1,1 @@
+<title>Issue 39510 -   chromium -    Tab dragging/docking broken - Project Hosting on Google Code</title>   1. Create a new tab  2. Drag tab to either reorder or to a new window      Tab moves where expected      Tab always creates a new window    <b>Please provide

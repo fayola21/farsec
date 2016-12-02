@@ -1,0 +1,1 @@
+<title>Issue 30007 -   chromium -    show channel in about box  - Project Hosting on Google Code</title> <pre> Open about box.    Build channel (dev beta stable) should show after version string.    Note values come from registry  so you'll need to run the proper branded   channel's installer for this to work. </pre>

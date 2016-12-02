@@ -1,0 +1,1 @@
+<title>Issue 35129 -   chromium -    Unstable folders/labels hierarchy in Google Docs in turned on OFFLINE mode. - Project Hosting on Google Code</title>   1. Turn on Google Docs offline mode and synhronize.  2. Refresh Google Docs many times and you see corrupted labels hierarchy.                  <b>Please provide

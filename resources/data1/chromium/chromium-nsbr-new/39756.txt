@@ -1,0 +1,1 @@
+<title>Issue 39756 -   chromium -    Render ClientSocketPool internals in chrome://net-internals - Project Hosting on Google Code</title> <pre> Would be useful to have a view into ClientSocketPool internals. </pre>

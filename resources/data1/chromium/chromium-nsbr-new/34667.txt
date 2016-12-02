@@ -1,0 +1,1 @@
+<title>Issue 34667 -   chromium -    Font::nativeFont() ignores style_ - Project Hosting on Google Code</title> <pre> In font_mac.mm  Font::nativeFont() ignores the style_ member when returning   the &quot;native font&quot;. We haven't yet had a problem  just filing for tracking. </pre>

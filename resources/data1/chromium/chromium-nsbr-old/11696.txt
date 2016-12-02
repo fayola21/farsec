@@ -1,0 +1,1 @@
+<title>Issue 11696 -   chromium -    Bottom border of toolbar vanishes when window is maximized - Project Hosting on Google Code</title>   1. Maximize the browser window.      Bottom border of control bar remains visible.      Bottom border of control bar vanishes.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 35699 -   chromium -    Address Bar hiding behind extensions. - Project Hosting on Google Code</title>   None so far      Disabling plugins only extends the address bar further down to the right.      The address bar is extended  further hiding of plugins in the right most of   the address bar.    <b>Please provide

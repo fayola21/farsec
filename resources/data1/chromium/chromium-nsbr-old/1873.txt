@@ -1,0 +1,1 @@
+<title>Issue 1873 -   chromium -    Java aplications doesn't work - Project Hosting on Google Code</title>   1. Visit <a href="http://runescape.com">http://runescape.com</a>  2. Try to start the game and java application will fail.                Please provide

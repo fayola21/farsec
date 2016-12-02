@@ -1,0 +1,1 @@
+<title>Issue 20299 -   chromium -    Titlebar doesn't match GTK theme - Project Hosting on Google Code</title> <pre> Chrome Version: 24230  OS + version: ArchLinux (Ubuntu ppa package)  CPU architecture (32-bit / 64-bit): 64 bits  window manager: Metacity      1.Set chromium to GTK theme        The title bar should fit the GTK theme color.        It doesn't.     </pre>

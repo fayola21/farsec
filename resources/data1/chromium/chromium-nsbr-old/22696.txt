@@ -1,0 +1,1 @@
+<title>Issue 22696 -   chromium -    &quot;beforeunload&quot; event is not fired - Project Hosting on Google Code</title> <pre> The following ui_tests fail on linux:    UnloadTest.BrowserCloseBeforeUnloadOK  UnloadTest.BrowserCloseBeforeUnloadCancel </pre>

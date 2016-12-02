@@ -1,0 +1,1 @@
+<title>Issue 13783 -   chromium -    Reloading inspector shows blank page when the tab that's being investigated is not focussed - Project Hosting on Google Code</title> <pre>   1. Go to any web page and launch inspector  2. Switch tab  3. Reload inspector    What is the expected output?   To see the inspector render the content    What do you see instead?  Blank page </pre>

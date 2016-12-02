@@ -1,0 +1,1 @@
+<title>Issue 45587 -   chromium -    Popups blocked by Firefox but not Chrome - Project Hosting on Google Code</title>   1. Visit one of the above URLs  2. Click in the blank space on the page        No pop-ups pop.        A pop-up pops.    <b>Please provide

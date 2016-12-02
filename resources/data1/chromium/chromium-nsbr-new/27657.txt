@@ -1,0 +1,1 @@
+<title>Issue 27657 -   chromium -    Add &quot;Filter by origin&quot; box to cookies options dialog - Project Hosting on Google Code</title>   1. Open cookie manager (wrench menu &gt; Options &gt; Under the Hood &gt; Show   cookies and website permissions).      A search box should be available.      No search box.    <b>Please provide

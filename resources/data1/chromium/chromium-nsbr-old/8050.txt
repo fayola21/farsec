@@ -1,0 +1,1 @@
+<title>Issue 8050 -   chromium -    Sometimes Chrome is closed  when &quot;Home&quot; button clicked - Project Hosting on Google Code</title>   1. to have open more tabs  2. close tabs by middle button  3. when last tab remain open  click on Home Button  4. sometimes Chrome is closed (no warning  just dissappear)              Please provide

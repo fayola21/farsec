@@ -1,0 +1,1 @@
+<title>Issue 1087 -   chromium -    Excesive CPU usage when playing embedded flash - Project Hosting on Google Code</title>   1.  go to <a href="http://www.marca.com/edicion/marca/tenis/es/desarrollo/1160816.html">http://www.marca.com/edicion/marca/tenis/es/desarrollo/1160816.html</a>  2. click to start playing video  3.  see high cpu usage                 Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40396 -   chromium -    Image scaling broken - Project Hosting on Google Code</title>             Before images would load  resize to fit the browser without scrollbars.      They load and shrink but not enough (seeminly random dimensions) to be   viewable.    <b>Please provide

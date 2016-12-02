@@ -1,0 +1,1 @@
+<title>Issue 19545 -   chromium -    Segfault :( - Project Hosting on Google Code</title>   1. Browsing anything  random segfaults as below:    [100578.749399] chrome[13409]: segfault at 15c ip 871b0c1 sp f5c346e0 error   4 in chrome[8048000+1404000]         internets flow through the tubes        chrome dies a horrible death    <b>Please provide

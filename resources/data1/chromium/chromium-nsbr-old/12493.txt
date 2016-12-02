@@ -1,0 +1,1 @@
+<title>Issue 12493 -   chromium -    Reduce the number of X server round trips in the new sub-rect invalidation/painting code - Project Hosting on Google Code</title> <pre> As requested during a code review  we should check if we can reduce the   number of X server round trips when we paint the individual rects sent in   the invalidation IPC message.     </pre>

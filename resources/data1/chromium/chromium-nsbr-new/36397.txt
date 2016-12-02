@@ -1,0 +1,1 @@
+<title>Issue 36397 -   chromium -    timeupdate event too little raised - Project Hosting on Google Code</title>   1. add timeupdate event listener  2. draw texture to an HTMLCanvasElement  3. notice differences with Firefox      Texture is drawn on each frame      Texture is drawn only ~4 times/second.    <b>Please provide

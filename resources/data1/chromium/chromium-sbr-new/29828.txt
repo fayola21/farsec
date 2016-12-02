@@ -1,0 +1,1 @@
+<title>Issue 29828 -   chromium -    Security: sandbox bypass due to directory traversal opening Web Database files - Project Hosting on Google Code</title> <pre> If a compromised renderer sends a &quot;sqlite_suffix&quot; containing   ../../../../some/file  it gets appended to the filename to open verbatim.    Simple patch to follow. </pre>

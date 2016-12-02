@@ -1,0 +1,1 @@
+<title>Issue 13520 -   chromium -    [LINUX] keyboard shortcut for backward search - Project Hosting on Google Code</title>   1. Start searching for some keyword in some page (ctrl+F)  2. Press Shift+Enter to see the previous search result      Previous search result should be shown      Next search result is highlighted    <b>Please provide

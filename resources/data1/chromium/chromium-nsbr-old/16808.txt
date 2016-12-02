@@ -1,0 +1,1 @@
+<title>Issue 16808 -   chromium -    All the text disappeared - Project Hosting on Google Code</title>     There is no clear way to reproduce the problem. I just used the Chrom for   web surfing and some times all the text disappeared. I'v reproduced the   issue two time.                <b>Please provide

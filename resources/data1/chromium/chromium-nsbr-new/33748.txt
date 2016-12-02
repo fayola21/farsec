@@ -1,0 +1,1 @@
+<title>Issue 33748 -   chromium -    Closing last tab closes Chrome - Project Hosting on Google Code</title>   1. Close last tab      For example:  1) In Opera just reopen speeddial(home page).  2) In Firefox last tab do not have such menu item as &quot;Close tab&quot;      Exiting google chrome    <b>Please provide

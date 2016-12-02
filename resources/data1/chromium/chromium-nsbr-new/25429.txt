@@ -1,0 +1,1 @@
+<title>Issue 25429 -   chromium -    Make view's GTK menu block when menu is shown - Project Hosting on Google Code</title> <pre> Right now  the RunMenuAt blocks on Windows but does not on Linux. We need to make the   behavior consistent so that on both platforms  we block until the menu is no longer shown. </pre>

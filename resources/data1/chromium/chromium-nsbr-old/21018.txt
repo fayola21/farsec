@@ -1,0 +1,1 @@
+<title>Issue 21018 -   chromium -    Regression: inspector doesn't highlight HTML element in web page - Project Hosting on Google Code</title>   1. Go to google.com page  2. Open up the inspector using CTRL+SHIFT+J  3. Select a block of code in the inspector      The corresponding HTML element should be highlighted in the webpage      Nothing    <b>Please provide

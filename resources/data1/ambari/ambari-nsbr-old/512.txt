@@ -1,0 +1,1 @@
+Fix puppet manifests for tarball downloads via rpms.       

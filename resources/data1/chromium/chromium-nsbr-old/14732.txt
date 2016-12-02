@@ -1,0 +1,1 @@
+<title>Issue 14732 -   chromium -    Add a --pack-extension-silent option to chrome.exe - Project Hosting on Google Code</title> <pre> Sometimes people want to use chrome.exe to pack extensions as part of non-  interactive scripts. The current implementation pops up a dialog which makes   this not work. It would be nice to have an option to make it not do this. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7288 -   chromium -    Google Reader no longer loads in Chrome for me - Project Hosting on Google Code</title>   1. All of a sudden Google Reader will not load  the page hangs  2. This is only in Chrome  all other browswers are fine  3. It started on Jan 31st  2009  never had a problem before                Please provide

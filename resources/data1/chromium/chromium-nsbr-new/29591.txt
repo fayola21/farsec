@@ -1,0 +1,1 @@
+<title>Issue 29591 -   chromium -    Combine ViewHostMsg_{Paint Scroll}Rect messages - Project Hosting on Google Code</title> <pre> Combine ViewHostMsg_{Paint Scroll}Rect messages    This is follow-up cleanup from <a title="Optimize page scrolling in the presence of animating regions" class=closed_ref href="/p/chromium/issues/detail?id=25905"> issue 25905 </a>. </pre>

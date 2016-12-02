@@ -1,0 +1,1 @@
+Make the Source Code pages for examples stateless    Page expiry is very frustrating  especially when you tab back to the source code to see how something is achieved.Can we make the code pages either static or stateless  so we can bookmark them  send them to colleagues  or come back 30mins later and click a link without it saying 'page expired'?   

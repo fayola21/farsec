@@ -1,0 +1,1 @@
+<title>Issue 29180 -   chromium -    Pausing on exception crashes on exception thrown from removed iframe - Project Hosting on Google Code</title> <pre> Add an iframe to a document.  Within that iframe  evaluate a piece of code   that removes the iframe from the document and then throws an exception.    This gives a sad tab. </pre>

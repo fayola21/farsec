@@ -1,0 +1,1 @@
+<title>Issue 27742 -   chromium -    Hitting both mouse buttons on a tab closes it - Project Hosting on Google Code</title>   1. Click both left and right mouse buttons on a tab        tab should be selected at best  or at least nothing should happen      the tab closes    <b>Please provide

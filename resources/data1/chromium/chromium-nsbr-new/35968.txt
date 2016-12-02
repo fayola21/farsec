@@ -1,0 +1,1 @@
+<title>Issue 35968 -   chromium -    Mac bookmark bar animations - Project Hosting on Google Code</title> <pre> Follow-up for <a href="http://codereview.chromium.org/551226">http://codereview.chromium.org/551226</a>    Instead of the &quot;drop marker&quot; for bookmark button DnD we should do   animations. </pre>

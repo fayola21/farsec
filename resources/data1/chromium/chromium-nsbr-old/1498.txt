@@ -1,0 +1,1 @@
+<title>Issue 1498 -   chromium -    Open Tab bottum over the close tab bottum. - Project Hosting on Google Code</title>   1. Opening A large amount of tabs   2. trying to close open/a new one        Open/cose a tab      Randomly closes or opens the tab    Please provide

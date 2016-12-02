@@ -1,0 +1,1 @@
+<title>Issue 38701 -   chromium -    Typo in AutoFill Profiles - Project Hosting on Google Code</title>   1. Change AutoFill settings in Options  2. Add/Edit credit Card details  3. Reference made to &quot;Shippping&quot; (SIC) address        &gt;Should read &quot;Shipping&quot;        &gt;Shows as &quot;Shipping&quot; ;-)    <b>Please provide

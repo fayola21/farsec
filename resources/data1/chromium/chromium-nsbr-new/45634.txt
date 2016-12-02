@@ -1,0 +1,1 @@
+<title>Issue 45634 -   chromium -    &lt;TAB&gt; through address bar broken. - Project Hosting on Google Code</title>   1. Start typing a URL in the address bar.  2. Cannot TAB through addresses.        Allow tab through address history.      Some ridiculous tab-to-search function.      <b>Please provide

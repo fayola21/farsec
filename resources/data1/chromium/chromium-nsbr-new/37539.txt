@@ -1,0 +1,1 @@
+<title>Issue 37539 -   chromium -    Files dropped from Finder onto content area navigate to different URL than opened other ways. - Project Hosting on Google Code</title> <pre> They aren't supposed to run on file:// URLs normally  but they do if   experimental apis are enabled. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22724 -   chromium -    Preferences - Radiobuttons  - Project Hosting on Google Code</title>   1. open preferences  2. click on the unselected radio button (eg. offer to save password)        It should behave like radio button and only allow only one option to get   selected      behaviour like checkboxes    <b>Please provide

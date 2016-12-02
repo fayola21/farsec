@@ -1,0 +1,1 @@
+<title>Issue 26233 -   chromium -    Implement SharedWorkers in Chromium - Project Hosting on Google Code</title> <pre> SharedWorkers are not yet implemented in Chromium.    Design doc is here:    <a href="http://docs.google.com/a/chromium.org/Doc?">http://docs.google.com/a/chromium.org/Doc?</a>  docid=0AY0c2s86c4j4ZGdmczdmY2NfMGYzMnE3eGRk&amp;hl=en </pre>

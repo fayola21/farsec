@@ -1,0 +1,1 @@
+<title>Issue 23090 -   chromium -    Need to add wifi menu button to status bar for Chrome OS - Project Hosting on Google Code</title> <pre> The menu button should show the current status of the network and allow you to change wireless   networks. </pre>

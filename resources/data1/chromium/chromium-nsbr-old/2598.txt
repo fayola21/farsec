@@ -1,0 +1,1 @@
+<title>Issue 2598 -   chromium -    &quot;Recently closed tabs&quot; should stay indefinitely - Project Hosting on Google Code</title>   1. close a tab  2. wait for several minutes  3. press the &quot;new tab&quot; button        the last closed tab should show in &quot;Recently closed tabs&quot;        &quot;Recently closed tabs&quot; does not show    Please provide

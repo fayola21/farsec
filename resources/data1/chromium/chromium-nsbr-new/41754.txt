@@ -1,0 +1,1 @@
+<title>Issue 41754 -   chromium -    Date.parse can't parse Date.toJSON() output - Project Hosting on Google Code</title>   1. console.log(Date.parse((new Date()).toJSON()));        The console should show some representation of the current date        The console shows NaN    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32364 -   chromium -    Badge text of Browser Action is displayed in bold font - Project Hosting on Google Code</title>   1.Install &quot;Google Mail Checker&quot; extension.  2.Observe the Badge text on its toolbar icon.      Badge text should be displayed in regular font.      Badge text is displayed in bold font.    <b>Please provide

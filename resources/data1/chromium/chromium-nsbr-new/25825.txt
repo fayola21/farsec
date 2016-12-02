@@ -1,0 +1,1 @@
+<title>Issue 25825 -   chromium -    Browser crash @ views::DialogClientView::LayoutDialogButtons() - Project Hosting on Google Code</title>   1. Wrench -&gt; About Chrome              Whoa Chrome crashed.    <b>Please provide

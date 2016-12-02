@@ -1,0 +1,1 @@
+<title>Issue 26950 -   chromium -    double-clicking last word of Gmail subject line selects copious whitespace - Project Hosting on Google Code</title>   1. start Gmail.  display an email message  2. double-click on last word of message subject        The last word of the subject is selected.        About half the page is selected (see attached screenshot).    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20950 -   chromium -    Media files render as text when audio/video is disabled - Project Hosting on Google Code</title> <pre>   1. Remove the FFmpeg binaries  2. Launch chrome  3. Visit an ogg/mp4 file in the omnibox (something we should support)      Fallback/plugin support or the file is downloaded.    Instead we see text!!   </pre>

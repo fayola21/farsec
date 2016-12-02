@@ -1,0 +1,1 @@
+<title>Issue 30041 -   chromium -    Modify syncdb schema to move syncnode payload to a single serialized protobuf column - Project Hosting on Google Code</title> <pre> Need to update sqlite storage layer to persist the new protocol buffer sync   node property.   </pre>

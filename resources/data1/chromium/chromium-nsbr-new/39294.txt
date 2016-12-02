@@ -1,0 +1,1 @@
+<title>Issue 39294 -   chromium -    Ctrl+Enter when the URL contains a &quot;digit then character&quot; - Project Hosting on Google Code</title>   1. Open a new tab or new window.  2. Type in the address-bar anywebsite that contains a digit then charachter   (for example 3ddx)  3. Type Ctrl+Enter      Opening www.3ddx.com      Searching for &quot;3ddx&quot;    <b>Please provide

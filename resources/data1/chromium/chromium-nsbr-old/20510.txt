@@ -1,0 +1,1 @@
+<title>Issue 20510 -   chromium -    Need a default extension icon for the install dialog - Project Hosting on Google Code</title> <pre> Right now we are using:  <a href="http://codereview.chromium.org/173604/diff/1/4">http://codereview.chromium.org/173604/diff/1/4</a>    But we should get Google's art department to come up with something better. </pre>

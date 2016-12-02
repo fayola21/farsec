@@ -1,0 +1,1 @@
+<title>Issue 251 -   chromium -    FireEagle text rendering incorrectly (not the transparent gif issue) - Project Hosting on Google Code</title>   1. Post on pownce with fire eagle enabled.  2. Text for your location will appear blurry.       Text should not appear blurry.      Text should appear blurry.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27849 -   chromium -    Tell the web frame delegate when window objects in isolated worlds are cleared - Project Hosting on Google Code</title> <pre> Opened during webkit merge: 50972:51042    Probably due to <a href="http://svn.webkit.org/repository/webkit/trunk@50973">http://svn.webkit.org/repository/webkit/trunk@50973</a>. </pre>

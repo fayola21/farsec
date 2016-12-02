@@ -1,0 +1,1 @@
+<title>Issue 14941 -   chromium -    installing an extension with a toolstrip causes the toolstrip to appear twice - Project Hosting on Google Code</title> <pre> Install a new extension with a toolstsrip and the toolstrip appears twice   (tow real instances that are indepedently draggable  etc.).  Restarting the   browser fixes the problem. </pre>

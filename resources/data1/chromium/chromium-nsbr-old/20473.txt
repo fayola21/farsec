@@ -1,0 +1,1 @@
+<title>Issue 20473 -   chromium -    active tab reverts back to default theme if download opens in new tab - Project Hosting on Google Code</title>   1. clicked to download a file  2. file downloaded in new tab  3. when new tab opened it caused the active tab to revert to default theme      theme to stay on      it reverts to default    <b>Please provide

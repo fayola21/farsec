@@ -1,0 +1,1 @@
+Simple does not handle empty values in predicates properly    Example code:...&lt;choice&gt; &lt;when&gt; &lt;simple&gt;${property.someProperty} == ''&lt;/simple&gt; ... &lt;/when&gt;...Error message: right must be specified   

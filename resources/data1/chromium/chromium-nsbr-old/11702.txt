@@ -1,0 +1,1 @@
+<title>Issue 11702 -   chromium -    Find box is not themed - Project Hosting on Google Code</title> <pre> The find box is not currently themed. This should just require new images and   a toolbar offset image. </pre>

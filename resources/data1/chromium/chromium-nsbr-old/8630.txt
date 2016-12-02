@@ -1,0 +1,1 @@
+<title>Issue 8630 -   chromium -    Implement layoutTestController.display() and layoutTestController.testRepaint() - Project Hosting on Google Code</title> <pre> The repaint layout tests should draw a gray mask  used in determining which parts of the page have   been repainted. </pre>

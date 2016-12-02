@@ -1,0 +1,1 @@
+<title>Issue 24165 -   chromium -    Text layout issue in a blank new tab - Project Hosting on Google Code</title>   1. Press Control-T to produce a new tab          The lines of text should be aligned harmoniously.      The lines of text are miss aligned - one left aligned and another center   aligned. See the attachment.    <b>Please provide

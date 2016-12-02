@@ -1,0 +1,1 @@
+<title>Issue 26471 -   chromium -    extension popups don't ever shrink their height - Project Hosting on Google Code</title> <pre> If you increase the height of your content  the popup expands.  If you   decrease the height of your content  the popup doesn't shrink its height.    (this may be a dup  but I can't find the original)   </pre>

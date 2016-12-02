@@ -1,0 +1,1 @@
+<title>Issue 771 -   chromium -    Fails after windows logon (vista) - Project Hosting on Google Code</title>   1. Logon to Windows Vista  2. Start Google Chrome      Display homepage/new tab and able to start browsing      Blank screen when trying to open a new tab and an error when trying to load   any page.    Please provide

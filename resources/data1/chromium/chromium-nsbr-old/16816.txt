@@ -1,0 +1,1 @@
+<title>Issue 16816 -   chromium -    default zoom - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.0 (0)  URLs (if applicable) : all        Prefix a zoom by default is not available in the menu. </pre>

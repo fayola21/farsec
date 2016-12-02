@@ -1,0 +1,1 @@
+<title>Issue 24969 -   chromium -    Crash - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.5    OS version               : 10.5.8    Wasn't doing anything special. Not sure I even had a window open. Just   updated to 4.0.222.5. </pre>

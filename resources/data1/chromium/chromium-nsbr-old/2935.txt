@@ -1,0 +1,1 @@
+<title>Issue 2935 -   chromium -    bookmark for all opened tabs - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.153.1    It is possible to save all opened tabs as Bookmarks?   </pre>

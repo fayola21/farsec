@@ -1,0 +1,1 @@
+Velocity - Let it be able to load resources from both classpath and file system out of the box    See this blog entryhttp://www.thedwick.com/blog/2010/08/how-to-include-other-velocity-templates-from-apache-camel/We should pre configure Velocity to use both type of resource loaders.   

@@ -1,0 +1,1 @@
+In some places we use ObjectHelper.loadClass() instead of ClassResolver.resolveClass()    see Nabble   

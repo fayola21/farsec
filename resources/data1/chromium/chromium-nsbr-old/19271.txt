@@ -1,0 +1,1 @@
+<title>Issue 19271 -   chromium -    Unable to restart playback of ogg after reaching the end of file - Project Hosting on Google Code</title>   1.	Go to the link provided  2.	Wait until the playback finishes  3.	Try restarting it      It should start playing from the point you choose.      Nothing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21084 -   chromium -    On Macs:  Trackpad scrolls extremely fast - Project Hosting on Google Code</title>   1. Use the track pad to scroll      Scroll speed should be &quot;normal&quot;      Scroll speed is really really fast (Maybe 5x normal)    Please provide

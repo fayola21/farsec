@@ -1,0 +1,1 @@
+<title>Issue 40358 -   chromium -    Speed of google logo randering  - Project Hosting on Google Code</title>   1. just go to the site and let the google logo jump (it is slow)                    <b>Please provide

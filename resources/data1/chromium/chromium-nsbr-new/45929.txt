@@ -1,0 +1,1 @@
+<title>Issue 45929 -   chromium -    Chrome starts with a very small window every time - Project Hosting on Google Code</title>   1. Open Chrome  2. Maximize the window (I also tried resizing every edge to the screen   area manually).  3. Close and open the app again      Chrome start with a maximized window.      Chrome start with a very  very small window.    <b>Please provide

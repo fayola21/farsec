@@ -1,0 +1,1 @@
+<title>Issue 33693 -   chromium -    Home button in Google Sites - Project Hosting on Google Code</title>   1. press &quot;New Post&quot; button to start a new post  2. Enter some text  3. Press Home button this does not work -       The cursor will need to move to the start position of the line!      Cursor not moving    <b>Please provide

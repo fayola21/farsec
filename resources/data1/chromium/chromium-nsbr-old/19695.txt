@@ -1,0 +1,1 @@
+<title>Issue 19695 -   chromium -    Janky scrolling. - Project Hosting on Google Code</title>   1. Open Chromium.  2. Go to <a href="http://satyago.pl/">http://satyago.pl/</a>  3. Scroll page down and up.      Smooth scrolling      Janky scrolling    <b>Please provide

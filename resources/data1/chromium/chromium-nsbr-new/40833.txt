@@ -1,0 +1,1 @@
+<title>Issue 40833 -   chromium -    search engine keyword can't have a colon ':'  - Project Hosting on Google Code</title>   1. add a new keyword but give it a colon for instance &quot;gg:&quot; or &quot;imdb:&quot;  2. try to use the keyword   3. it won't work      should work just like every other keyword      nothing    <b>Please provide

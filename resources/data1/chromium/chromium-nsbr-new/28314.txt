@@ -1,0 +1,1 @@
+<title>Issue 28314 -   chromium -    [regression] last opened tabs not remembered when chromium starts - Project Hosting on Google Code</title>   1. Open some tabs in chromium   2. Make sure that under options -&gt; Basics reopen last tabs is selected  3. Close chrome and start it again      Last closed tabs must be opened.      Home page is opened.    <b>Please provide

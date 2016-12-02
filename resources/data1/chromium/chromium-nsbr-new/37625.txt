@@ -1,0 +1,1 @@
+<title>Issue 37625 -   chromium -    Update for issue -- must start Chrome in Full Screen mode on extended Display - Project Hosting on Google Code</title>   1. Mulitple Displays -   2. Start in Full Screen mode on extended Display  3. F11 to exit full screen      Chrome should exit Full Screen mode      Nothing    <b>Please provide

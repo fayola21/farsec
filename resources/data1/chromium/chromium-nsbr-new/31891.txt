@@ -1,0 +1,1 @@
+<title>Issue 31891 -   chromium -    Extensions should be able to contain both a browser action and a page action - Project Hosting on Google Code</title>   1. Create an extension with both a browser action and a page action.  2. Attempt to load it into Chrome.      Load is successful.      Error dialog is displayed.    Please provide

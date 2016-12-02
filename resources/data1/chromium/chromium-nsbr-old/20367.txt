@@ -1,0 +1,1 @@
+<title>Issue 20367 -   chromium -    Arabic text overlaps in web page - Project Hosting on Google Code</title> <pre> <a href="http://www.google.com/intl/ar/help/features.html">http://www.google.com/intl/ar/help/features.html</a>    Look at the word &quot;Google&quot; in the second paragraph. </pre>

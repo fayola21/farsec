@@ -1,0 +1,1 @@
+<title>Issue 34661 -   chromium -    Populate WebDropData object with file contents - Project Hosting on Google Code</title> <pre> In populateWebDropData:fromPasteboard: we don't put the file contents into   the cross-platform WebDropData object. So far  we haven't noticed any   problems with not doing this. Not sure why we would.    A good first bug for someone. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16482 -   chromium -    &lt;video preload&gt; not respected (was autobuffer) - Project Hosting on Google Code</title>   1. start a video.      with autobuffer is should start in 26 ms.      without autobuffer it should take 200 ms or more.    <b>Please provide

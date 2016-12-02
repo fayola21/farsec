@@ -1,0 +1,1 @@
+Relax simple language checking for function start/end tokens  to only validate start tokens has appropriate end token    See nabblehttp://camel.465427.n5.nabble.com/Translating-route-exceptions-to-JSON-with-Simple-Expression-Language-or-SPEL-tp5696933.html   

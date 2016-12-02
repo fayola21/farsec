@@ -1,0 +1,1 @@
+<title>Issue 27233 -   chromium -    Can't drag URLs to tabstrip - Project Hosting on Google Code</title> <pre> In Chrome/Win  I can drag a URL or search phrase to any tab in the tabstrip    or between or after the tabs.  In Chrome/Mac  I get a globe icon and nothing   happens. </pre>

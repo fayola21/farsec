@@ -1,0 +1,1 @@
+<title>Issue 43264 -   chromium -    Can't edit search engine URL - Project Hosting on Google Code</title>   1. choose Wrench -&gt; Options  2. click on &quot;Manage&quot; on Basics tab  3. click on Google  4. click Edit  5. attempt to edit search engine URL        It should be editable.        text box is non-editable.    <b>Please provide

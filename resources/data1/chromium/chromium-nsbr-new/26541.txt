@@ -1,0 +1,1 @@
+<title>Issue 26541 -   chromium -    google reader settings dont load/open - Project Hosting on Google Code</title>   1. login to google reader  2. click on settings   3. settings dont open      get to the settings      the page starts to load but never opens    <b>Please provide

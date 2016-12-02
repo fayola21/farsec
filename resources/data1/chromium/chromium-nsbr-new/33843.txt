@@ -1,0 +1,1 @@
+<title>Issue 33843 -   chromium -    Closing loading tab closes the entire window - Project Hosting on Google Code</title>   1. Close a tab that is loading but is stuck (slow connection  etc).      Tab closes without closing the entire window.        Closed the entire window.    Please provide

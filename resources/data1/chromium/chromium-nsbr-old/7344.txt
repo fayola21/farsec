@@ -1,0 +1,1 @@
+<title>Issue 7344 -   chromium -    Implement missing dom constructors - Project Hosting on Google Code</title> <pre> LayoutTests/fast/dom/dom-constructors.html fails because some dom  constructors are missing.  We don't want to implement all of them but some  of them like Location  History and Navigator we may want to implement.   </pre>

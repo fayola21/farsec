@@ -1,0 +1,1 @@
+<title>Issue 28342 -   chromium -    textarea is getting resizeable horrible - Project Hosting on Google Code</title>   1.i can resize the textarea into utmost maximum giving horizontal scrolling          it should not be that resizeable          <b>Please provide

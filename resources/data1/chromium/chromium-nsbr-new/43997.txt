@@ -1,0 +1,1 @@
+<title>Issue 43997 -   chromium -    Add FieldTrial and performance histogram for SPDY  - Project Hosting on Google Code</title> <pre> When --use-spdy=npn is provided  the FieldTrial will decide 50% of the time   that spdy is disabled or enabled.     Add histogram to show the latency stats of requests via spdy and requests   that could have used spdy.  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45742 -   chromium -    Need new chevron icon for overflowed containers on Mac - Project Hosting on Google Code</title> <pre> We need a new chevron icon for overflowed containers for Mac toolbar. Cole   please attach the pretty one you made. </pre>

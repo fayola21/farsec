@@ -1,0 +1,1 @@
+support get operation for cache    Please support get operation on cache component.here is the discussion.http://old.nabble.com/read-from-cache-component-ts28071593.html   

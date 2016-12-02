@@ -1,0 +1,1 @@
+<title>Issue 37173 -   chromium -    Performance issue on showing long url hints - Project Hosting on Google Code</title>   1. Get mouse over to link on middle of page  2. Wait for url hint            When showing url hint chrome uses very high cpu  freeze and slows for a few   seconds. In IE8 and Firefox there's no problem.    <b>Please provide

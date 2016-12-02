@@ -1,0 +1,1 @@
+<title>Issue 35550 -   chromium -    Gmail file attacing problem - Project Hosting on Google Code</title>   1.open my gmail  2. click to create new letter  3. when i`a creating new letter  i click on file attach  but tab with file   choosing doesn`t opens.            i can`t attach file    <b>Please provide

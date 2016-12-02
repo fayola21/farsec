@@ -1,0 +1,1 @@
+<title>Issue 32595 -   chromium -    ClientSocket::GetPeerName not impled killing debug builds using SOCKs proxy - Project Hosting on Google Code</title> <pre> ClientSocket::GetPeerName is NOTREACHED() which is killing debug builds on   the mac.    I'm guessing <a href="/p/chromium/source/detail?r=33319">r33319</a> is what is causing this to get called now? </pre>

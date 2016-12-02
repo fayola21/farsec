@@ -1,0 +1,1 @@
+<title>Issue 18297 -   chromium -    REGRESSION: reload link on error pages doesn't do anything - Project Hosting on Google Code</title> <pre> REGRESSION: reload link on error pages doesn't do anything    Observed in 3.0.195.0 (Developer Build 21086).  Works in 2.0.172.39. </pre>

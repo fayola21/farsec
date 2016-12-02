@@ -1,0 +1,1 @@
+<title>Issue 11354 -   chromium -    Set window icon - Project Hosting on Google Code</title> <pre> Our window gets no icon (it shows up in the window border and the alt-tab   list in some window managers).  Should be a one-liner. </pre>

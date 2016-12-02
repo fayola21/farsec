@@ -1,0 +1,1 @@
+<title>Issue 2152 -   chromium -    Can't add network drives to google desktop search - Project Hosting on Google Code</title>   1. Open google desktop preferences  2. click to add drive or folder to search  3. select a mapped network drive  and click ok      Drive added and status given as &quot;crawl not yet started&quot;      pop-up msg &quot;error:0&quot;    Please provide

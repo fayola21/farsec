@@ -1,0 +1,1 @@
+<title>Issue 21109 -   chromium -    Need to implement extension load errors on linux - Project Hosting on Google Code</title> <pre> In ExtensionErrorReporter  the bit that alerts noisy errors is commented out   on linux.    See ::ReportError().     To reproduce the problem  load an extension that has an invalid manifest.   There should be an error reported. </pre>

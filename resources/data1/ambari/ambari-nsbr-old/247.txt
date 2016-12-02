@@ -1,0 +1,1 @@
+Replace index.php with clusters.php    Like the title says: overwrite index.php with the contents of clusters.php  making sure to add a link to the AddNodesWizard as well.   

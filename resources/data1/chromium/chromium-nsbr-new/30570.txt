@@ -1,0 +1,1 @@
+<title>Issue 30570 -   chromium -    add autofill please - Project Hosting on Google Code</title> <pre> please add autofill to chrome like the one on the google toolbar for firefox.   I do not refer to autocomplete. thanks. </pre>

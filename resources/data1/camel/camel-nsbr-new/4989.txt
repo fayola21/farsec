@@ -1,0 +1,1 @@
+BindyDataFormat should not use the default encoding    Here is the mail thread&#91;1&#93; which discuss about it.&#91;1&#93;http://camel.465427.n5.nabble.com/Bindy-CSV-parser-uses-default-encoding-tp5456136p5456136.html   

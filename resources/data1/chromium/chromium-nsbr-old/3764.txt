@@ -1,0 +1,1 @@
+<title>Issue 3764 -   chromium -    Silverlight plugin issue - Project Hosting on Google Code</title>   1. Go to page <a href="http://silverlight.net/">http://silverlight.net/</a>  2. The top navigational menu is showing a black box (Silverlight object)                  Please provide

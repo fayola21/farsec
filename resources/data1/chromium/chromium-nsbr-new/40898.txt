@@ -1,0 +1,1 @@
+<title>Issue 40898 -   chromium -    Dev Tools popup menu cutting - Project Hosting on Google Code</title>   1. Press Ctrl+Shift+J  2. Select options icon on the left part of dev tools window  3. Popup menu cut by half width      Positioning popup menu by the right side to screen        Cutting popup menu      <b>Please provide

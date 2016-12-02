@@ -1,0 +1,1 @@
+<title>Issue 2325 -   chromium -    Black flash when closing the last tab with new frames - Project Hosting on Google Code</title> <pre> Close the last tab in a window. Note the content area briefly flash black   before the window is closed.    This is an ordering issue. </pre>

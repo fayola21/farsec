@@ -1,0 +1,1 @@
+<title>Issue 24771 -   chromium -    task manager should show nspluginwrapper subprocess - Project Hosting on Google Code</title> <pre>   1. Run 64-bit Chrome Linux and use the ndiswrapper version of Flash.  2. Start playing a flash video.          There's a npviewer.bin process X using a lot of CPU  but the task manager  shows process Y using no CPU. </pre>

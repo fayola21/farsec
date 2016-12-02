@@ -1,0 +1,1 @@
+<title>Issue 37229 -   chromium -    folders4gmail stopped working - Project Hosting on Google Code</title>   1. Pre: folders4gmail extension installed  2. Visit Gmail account          Hierarchical labels enabled.        Hierarchical labels are flat.    <b>Please provide

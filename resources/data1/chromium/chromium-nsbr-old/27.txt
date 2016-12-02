@@ -1,0 +1,1 @@
+<title>Issue 27 -   chromium -    Chrome Won't Start.  - Project Hosting on Google Code</title>   1. Opening Chrome  2. Opening a new tab in Chrome          open a web page?        The application failed to initialize properly (0xc0000005). Chick ok to   terminate the application.    Please provide

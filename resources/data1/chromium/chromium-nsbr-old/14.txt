@@ -1,0 +1,1 @@
+<title>Issue 14 -   chromium -    Proxy settings for installer - Project Hosting on Google Code</title> <pre>     Attempt to install chrome behind a firewall blocking HTTP/HTTPS traffic.        Options for proxy settings to allow the installer to retrieve the necessary  data via a proxy.        Installer simply fails  notifying the user to adjust their firewall settings. </pre>

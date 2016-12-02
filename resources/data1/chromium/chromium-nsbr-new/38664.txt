@@ -1,0 +1,1 @@
+<title>Issue 38664 -   chromium -    Gears holds on to files after upload - Project Hosting on Google Code</title> <pre> I used Docs to upload a dll file.  After the upload  the file was still open   by Gears making it impossible for me to delete it. </pre>

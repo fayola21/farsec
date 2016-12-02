@@ -1,0 +1,1 @@
+Add global override to disable gzip compression (SAP double-compresses).    It should be possible to deactivate gzip compression. Sometimes gzip is already handled by a proxy server or gzip raises problems (like I experienced on SAP J2EE Enterprise Server).Default should be 'on'.It's always good to have an option.   

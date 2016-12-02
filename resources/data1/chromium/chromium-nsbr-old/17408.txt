@@ -1,0 +1,1 @@
+<title>Issue 17408 -   chromium -    New tab page thumbnails have no drag name - Project Hosting on Google Code</title> <pre> when you drag the thumbnails from the NNTP  the drag data contains their url   but no name. I don't know how to fix this  maybe by setting the alt text? </pre>

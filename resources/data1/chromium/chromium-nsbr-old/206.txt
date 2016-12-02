@@ -1,0 +1,1 @@
+<title>Issue 206 -   chromium -    Browser hangs while accessing PDF documents - Project Hosting on Google Code</title>   1. if you open a pdf file          it should easily open a pdf file.        it freezes with the pdf files    Please provide

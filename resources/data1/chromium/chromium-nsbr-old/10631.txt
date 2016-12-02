@@ -1,0 +1,1 @@
+<title>Issue 10631 -   chromium -    Find Box is not being painted when mouse scrolling - Project Hosting on Google Code</title>   1. Open any web page  2. Press Ctrl + F  3. Use mouse scroll        Find box should be repainted      Find box does not repaints itself    <b>Please provide

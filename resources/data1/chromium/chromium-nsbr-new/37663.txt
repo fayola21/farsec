@@ -1,0 +1,1 @@
+<title>Issue 37663 -   chromium -    All uploaded files are zero length - Project Hosting on Google Code</title>   1. Go to <a href="http://www.yousendit.com">http://www.yousendit.com</a>  2. Attempt to upload a file  3. Receive error message saying file contains 0 bytes      It should upload the contents of a file.      The file doesn't seem to be sent    <b>Please provide

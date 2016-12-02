@@ -1,0 +1,1 @@
+<title>Issue 40583 -   chromium -    Flash shows up in Activity Monitor as (null) - Project Hosting on Google Code</title> <pre> I've seen this a few times on my laptop.  See attached screenshot.  Killing the &quot;(null)&quot; process brings   up the &quot;Flash Player has crashed&quot; infobar  so I'm pretty sure (null) == flash.   </pre>

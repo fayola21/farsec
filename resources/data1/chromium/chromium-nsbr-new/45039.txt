@@ -1,0 +1,1 @@
+<title>Issue 45039 -   chromium -    Query maps data for region abbreviation mappings - Project Hosting on Google Code</title> <pre> We need to statically store region abbreviations  e.g.  Texas &lt;-&gt; TX. </pre>

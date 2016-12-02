@@ -1,0 +1,1 @@
+<title>Issue 42713 -   chromium -    Gears dialog 'disallow' message in Dutch is on a new line - Project Hosting on Google Code</title> <pre>   Dutch (nl)    5.0.375.23    Windows Vista SP2    Settings --&gt; 3th tab --&gt; Gears     </pre>

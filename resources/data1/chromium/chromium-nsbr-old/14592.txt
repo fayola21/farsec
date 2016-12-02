@@ -1,0 +1,1 @@
+<title>Issue 14592 -   chromium -    Bookmark's Drop-Down/Context menu is black - Project Hosting on Google Code</title>   1. Have a folder for bookmarks on the Bookmark bar  populated with   bookmarks  2. Click on the folder to open it      Viewable list of bookmarks      Folders show up black    <b>Please provide

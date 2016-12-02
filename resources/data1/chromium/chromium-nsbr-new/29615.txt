@@ -1,0 +1,1 @@
+<title>Issue 29615 -   chromium -    Major visual artifacts since 4.0.264 - Project Hosting on Google Code</title>   1. Visit youtube.com/user/ProfMTH  2. Wait for the page to load        Page should be readable.          Video description is completely distorted  as are many elements of many   pages.      <b>Please provide

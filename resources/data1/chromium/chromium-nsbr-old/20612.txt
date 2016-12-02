@@ -1,0 +1,1 @@
+<title>Issue 20612 -   chromium -    Chrome crashed when I tried closing a tab - Project Hosting on Google Code</title> <pre> Attached error log for more information: </pre>

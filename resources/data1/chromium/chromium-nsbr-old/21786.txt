@@ -1,0 +1,1 @@
+<title>Issue 21786 -   chromium -    Need dashboard that shows time to complete individual unit/ui/etc. tests - Project Hosting on Google Code</title> <pre> We need more visibility into why the tests run slowly. Create a dashboard to   track individual test times  or at least the problematic ones (10 slowest?). </pre>

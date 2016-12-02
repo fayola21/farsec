@@ -1,0 +1,1 @@
+<title>Issue 18480 -   chromium -    new tab page in incognito isn't themed - Project Hosting on Google Code</title> <pre> install a theme  open incognito window    note the incognito new tab page isn't themed. </pre>

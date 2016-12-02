@@ -1,0 +1,1 @@
+<title>Issue 5360 -   chromium -    When subfolders are deleted the minus sign does not clear from the parent folder. - Project Hosting on Google Code</title>   1. Open Bookmarks Manager  2. With a Folder that has child folders...  3. delete all the child folders      the Minus should disapear      the minus stays next to the parent folder    Please provide

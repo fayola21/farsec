@@ -1,0 +1,1 @@
+<title>Issue 26495 -   chromium -    New tab page always slides - Project Hosting on Google Code</title> <pre>   1. Hit ctl-t      Half the time the NTP comes up  I see it sliding around like it's resizing.  This probably costs CPU and makes the page seem janky. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26333 -   chromium -    Chrome crashes starting Yesterday (10/29/2009) - Project Hosting on Google Code</title>   1. go into Facebook and launch a game  2. open a new tab and close that tab        should just close the tab      chrome crashes.    <b>Please provide

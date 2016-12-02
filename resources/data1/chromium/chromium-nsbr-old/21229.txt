@@ -1,0 +1,1 @@
+<title>Issue 21229 -   chromium -    [linux.about.com]: Chrome crashes when copying text - Project Hosting on Google Code</title>   1. Select the text &quot;#!/bin/bash&quot; (most text on the page does the same)  2. Press CTRL+C (or right-click Copy)      The selected text should be copied      The tab crashes    <b>Please provide

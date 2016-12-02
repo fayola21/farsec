@@ -1,0 +1,1 @@
+<title>Issue 29307 -   chromium -    some task manager memory fields don't work for extensions - Project Hosting on Google Code</title> <pre> The following fields are listed as N/A  even though they should have data:  - Javascript memory  - Image cache  - Script cache  - CSS cache     </pre>

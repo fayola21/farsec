@@ -1,0 +1,1 @@
+<title>Issue 25121 -   chromium -    onload not fired at all anymore - Project Hosting on Google Code</title> <pre> Relevant code:      &lt;body onload=&quot;alert('ET phone home?');&quot;&gt;      Complete code or test attached. </pre>

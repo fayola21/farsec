@@ -1,0 +1,1 @@
+<title>Issue 37188 -   chromium -    logo appears invisible for a site  fine in other browsers - Project Hosting on Google Code</title>   1. visit page  2. logo invisible  3. made visible when editing the style in developer tools.      logo should show in top right      it is invisible    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 7865 -   chromium -    Posting a message by using ALT +S is not working in 2.0  in 1.0 it worked fine - Project Hosting on Google Code</title>   1. type a message  2. post it by using ALT + S      The message should be posted      Nothing happens.    Please provide

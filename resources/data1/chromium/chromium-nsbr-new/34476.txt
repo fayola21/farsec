@@ -1,0 +1,1 @@
+<title>Issue 34476 -   chromium -    Uneditable search URLs are confusing - Project Hosting on Google Code</title> <pre> Google Chrome	4.0.302.2 (Official Build 36665) dev    1. Click &quot;edit search engines&quot;  2. Click Google in the list  3. Click &quot;Edit...&quot;  4. Attempt to edit the URL    Keystrokes seem to be ignored. </pre>

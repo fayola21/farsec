@@ -1,0 +1,1 @@
+<title>Issue 22357 -   chromium -    dropdown wont close - Project Hosting on Google Code</title>   1. Expand a dropdown  2. click an item        for the drop down to be closed and the item selected      dropdown remains opened    <b>Please provide

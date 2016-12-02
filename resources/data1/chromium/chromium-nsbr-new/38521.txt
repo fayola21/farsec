@@ -1,0 +1,1 @@
+<title>Issue 38521 -   chromium -    Use ImageLoadingTracker for all extension images - Project Hosting on Google Code</title> <pre> We need to start using the cached version of the extension icon  to show in   the Infobars. </pre>

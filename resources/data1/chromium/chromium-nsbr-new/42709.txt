@@ -1,0 +1,1 @@
+<title>Issue 42709 -   chromium -    WebCore::Position::getInlineBoxAndOffset RecursionSOV (2ff151b84dcc5cb5ce97a6de6d406158) - Project Hosting on Google Code</title> <pre> press Ctrl+Shift+J the type &quot;alert&quot; then press ctrl+a     Windows xp sp3  chromium 5.0.388.0 (45564)  chrome 5.0.375.17 not crash </pre>

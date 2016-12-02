@@ -1,0 +1,1 @@
+<title>Issue 1214 -   chromium -    Missing tab - Project Hosting on Google Code</title>   1. closed the tab..but tab space is still there          tab space should be closed      tab space still there    Please provide

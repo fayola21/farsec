@@ -1,0 +1,1 @@
+<title>Issue 17467 -   chromium -    Spurious empty tooltip showing everywhere - Project Hosting on Google Code</title>   1. move and pause the pointer anywhere in a page          not much      an empty tooltip shows at the spot    <b>Please provide

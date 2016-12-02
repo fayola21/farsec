@@ -1,0 +1,1 @@
+<title>Issue 24175 -   chromium -    Scrollwheel on horizontal scrollbars should slide horizontally - Project Hosting on Google Code</title> <pre> The test  LayoutTests/platform/gtk/scrollbars/overflow-scrollbar-horizontal-wheel-  scroll.html    The webkit bug <a href="https://bugs.webkit.org/show_bug.cgi?id=29348">https://bugs.webkit.org/show_bug.cgi?id=29348</a>     </pre>

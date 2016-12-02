@@ -1,0 +1,1 @@
+<title>Issue 27454 -   chromium -    Fade out red close button state on mouse exit - Project Hosting on Google Code</title> <pre> Fade out red close button state on mouse exit to make the transition   seamless. It should still be instant on </pre>

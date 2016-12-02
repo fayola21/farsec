@@ -1,0 +1,1 @@
+<title>Issue 19046 -   chromium -    Google Maps: logo and left side of search box cut off - Project Hosting on Google Code</title> <pre> see screenshot </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11826 -   chromium -    official naming - Project Hosting on Google Code</title> <pre> On disk: Google Chrome  Menubar: Chrome  DMG: GoogleChrome    update build and all support scripts to deal.     </pre>

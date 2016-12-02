@@ -1,0 +1,1 @@
+<title>Issue 32515 -   chromium -    Bookmarks aren't added after the 19th. - Project Hosting on Google Code</title>   1. Add 19 bookmarks.  2. Try to add yet another.        Added bookmark.      The 20th bookmark isn't added. Is 19 a maximum?    <b>Please provide

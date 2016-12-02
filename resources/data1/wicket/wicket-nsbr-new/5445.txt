@@ -1,0 +1,1 @@
+Make CaptchaImageResource easier to extend and reuse    Wicket-Extensions' CaptchaImageResource generates its image byte array in the private #render() method. By making this method protected it will be easy to use third-party/custom code to generate the image and re-use the invalidation logic.   

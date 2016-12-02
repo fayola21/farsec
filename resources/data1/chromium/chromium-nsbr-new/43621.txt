@@ -1,0 +1,1 @@
+<title>Issue 43621 -   chromium -    Apps page opens as a line at top of screen - no icons or text box visible - Project Hosting on Google Code</title> <pre> Bug described in <a href="http://code.google.com/p/chromium-os/issues/detail?id=3134">http://code.google.com/p/chromium-os/issues/detail?id=3134</a> </pre>

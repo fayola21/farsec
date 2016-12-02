@@ -1,0 +1,1 @@
+<title>Issue 23620 -   chromium -    double action for some keypresses (cntrl-pgup down and backspace) - Project Hosting on Google Code</title>   1. hit control page up/down to move between tabs. Chrome will move by two   tabs  2. alternately type backspace a few times in a webform .. often instead of   deleting text the browser goes back to the previous page    <b>Please provide

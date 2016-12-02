@@ -1,0 +1,1 @@
+<title>Issue 22954 -   chromium -    main menu should support popups and do a keyboard grab - Project Hosting on Google Code</title> <pre> The main menu currently doesn't support popups  and it needs to do a keyboard   grab so that key events work. </pre>

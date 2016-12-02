@@ -1,0 +1,1 @@
+<title>Issue 16891 -   chromium -    support middle-button drag scrolling on Linux - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.0  OS + version : Linux    I read Windows and Mac have drag scrolling available?  (Actually I need to test windows sorry!)      1. Try to drag page with middle button      to scroll        nothing   </pre>

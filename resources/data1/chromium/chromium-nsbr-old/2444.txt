@@ -1,0 +1,1 @@
+<title>Issue 2444 -   chromium -    Wishlist: &quot;Open As&quot; for downloads - Project Hosting on Google Code</title> <pre> &quot;Open as&quot; feature while downloading something... or have a settings page   where you can configure what extensions downloads  and which ones &quot;open as&quot;   (default application) etc. </pre>

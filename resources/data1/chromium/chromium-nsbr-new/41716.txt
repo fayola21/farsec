@@ -1,0 +1,1 @@
+<title>Issue 41716 -   chromium -    RTL omnibox dropdown misplaces elided URLs - Project Hosting on Google Code</title> <pre> chrome --lang=he    Type something that produces an elided URL in the dropdown.  Notice how it   extends off the left side  clipping the beginning of the string. </pre>

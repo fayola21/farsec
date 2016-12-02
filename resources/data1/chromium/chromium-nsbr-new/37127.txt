@@ -1,0 +1,1 @@
+<title>Issue 37127 -   chromium -    Chromium close when access the URL - Project Hosting on Google Code</title>   1. Just access the page.          Nothing  just don't close the browser.      The chromium close when the page is loaded.    <b>Please provide

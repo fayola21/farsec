@@ -1,0 +1,1 @@
+DateTextField.setEnabled() is not propagated to attached DatePicker    DatePicker stays enabled even if the DateTextField it is attached to is disabled.It is even able to change the DateTextField's shown value.Instead the DatePicker should be disabled to  or maybe not shown at all.Attached is a Quickstart-patch showing the effect.   

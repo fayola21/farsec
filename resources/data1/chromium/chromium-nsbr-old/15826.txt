@@ -1,0 +1,1 @@
+<title>Issue 15826 -   chromium -    Cannot see cursor in compose window - Project Hosting on Google Code</title>   1. Compose mail          No cursor found.        Must guess for its location.      <b>Please provide

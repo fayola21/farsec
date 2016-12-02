@@ -1,0 +1,1 @@
+<title>Issue 28087 -   chromium -    Popup of browser actions should be closed when Esc is pressed - Project Hosting on Google Code</title> <pre> - Install an extension with a popup  - open the popup (by clicking the browser action icon)  - Press the esc key    Expected:  the popup is closed    Actual:  the popup is NOT closed </pre>

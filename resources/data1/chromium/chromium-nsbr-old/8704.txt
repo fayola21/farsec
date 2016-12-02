@@ -1,0 +1,1 @@
+<title>Issue 8704 -   chromium -    Unable to log into Microsoft Office Live - Project Hosting on Google Code</title>   1.Try to log into MS Office Live            Successful login        Told that this browser  does not support MS Office Live  and should use Firefox or IE7. See   attached screenshot.    <b>Please provide

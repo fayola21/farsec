@@ -1,0 +1,1 @@
+<title>Issue 25215 -   chromium -    Badge background and text colors should be in ARGB format  not RGBA - Project Hosting on Google Code</title> <pre> Note that this is a breaking change  so we should send mail to chromium-  extensions@ when it lands. </pre>

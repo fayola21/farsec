@@ -1,0 +1,1 @@
+Properties component - Cached locations may add duplicates    See nabblehttp://camel.465427.n5.nabble.com/LRUCache-memory-leak-when-using-camel-properties-file-tp4621357p4621357.htmlThe internal cache should be a soft cache and we should use a key holder to ensure equals/hashCode   

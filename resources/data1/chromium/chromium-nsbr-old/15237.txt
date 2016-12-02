@@ -1,0 +1,1 @@
+<title>Issue 15237 -   chromium -    run_webkit_tests.sh --lint-test-files errors should be a presubmit error - Project Hosting on Google Code</title> <pre> If test_expecations.txt is in a changelist  then the webkit tests linter should   spit out presubmit warnings/errors. </pre>

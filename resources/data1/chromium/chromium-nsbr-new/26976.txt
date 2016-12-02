@@ -1,0 +1,1 @@
+<title>Issue 26976 -   chromium -    Set SDKROOT as a project-wide setting instead of doing it in target_defaults - Project Hosting on Google Code</title> <pre> This is equivalent to how Xcode sets SDKROOT from the Project Info window's   General tab.  Making this setting project-wide means that the selected SDK   will show up properly in that UI.   </pre>

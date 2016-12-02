@@ -1,0 +1,1 @@
+<title>Issue 25249 -   chromium -    Send keypress() events in addition to keydown() events for ctrl-key on OS X. - Project Hosting on Google Code</title> <pre>   1. Go to docs  2. Hit ctrl-1        Current line should become a H1.        Nothing. </pre>

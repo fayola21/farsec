@@ -1,0 +1,1 @@
+<title>Issue 15368 -   chromium -    Sometimes first attempt to install crx fails with &quot;cannot download file&quot; - Project Hosting on Google Code</title> <pre> Ask lei for a URL that repros this. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30151 -   chromium -    remove toolstrip tests when toolstrips are removed from the code - Project Hosting on Google Code</title> <pre> Toolstrip tests are disabled for linux views.  Toolstrip is obsolete  and these tests should be removed when toolstrip is   removed. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15311 -   chromium -    preventDefault() + alert() failure - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.189.0    - Safari: OK  - Opera: OK  - Konqueror: OK  - Firefox: FAILS  - IE: (not supported)       1. run attachement  2. read instructions      Should not be possible to type.      It is possible to type. </pre>

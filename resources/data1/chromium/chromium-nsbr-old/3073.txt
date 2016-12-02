@@ -1,0 +1,1 @@
+<title>Issue 3073 -   chromium -    Support active FTP  - Project Hosting on Google Code</title>   1. Try to access FTP sites while your network only supports active FTP          An option in the settings to be able to set active ftp mode rather than   defaulting to passive.      There doesn't seem to be a way to set this.    Please provide

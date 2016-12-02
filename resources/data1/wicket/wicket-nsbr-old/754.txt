@@ -1,0 +1,1 @@
+add support for localization    currently  the default language (english) of YUI calendar is used. this makes the datepicker in nonenglish applications quite unusable.i will soon submit a patch with a .properties-file approach.   

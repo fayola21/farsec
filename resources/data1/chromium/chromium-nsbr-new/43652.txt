@@ -1,0 +1,1 @@
+<title>Issue 43652 -   chromium -    The new page's grid moved strangely - Project Hosting on Google Code</title>   1.open a new tab  there are eight grids  2.drag one grid to somewhere  3.release the mouse      the grid should move from where the mouse released.      the grid move from left-top of the screen    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13303 -   chromium -    extensions and chrome opensource IDE better than visual studio - Project Hosting on Google Code</title> <pre> moving opensource forward!  not an eclipse plugin  but a minimal application ide editor that will compile   and automate coding and compiling issues and corrections.     </pre>

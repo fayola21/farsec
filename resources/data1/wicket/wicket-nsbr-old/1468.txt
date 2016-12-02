@@ -1,0 +1,1 @@
+Add downloadSources option to quickstart page    would be cool to have a checkbox or a radio&#91;yes/no&#93; that will control -DdownloadSources=true param at http://wicket.apache.org/quickstart.html   

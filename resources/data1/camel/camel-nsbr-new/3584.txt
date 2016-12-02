@@ -1,0 +1,1 @@
+Concurrent writes to the same file has race condition    See nabblehttp://camel.465427.n5.nabble.com/Using-Splitter-and-file-producer-with-option-fileExist-Append-failed-tp3353618p3353618.htmlWe need to synchronize on the file name to avoid concurrent writes to the same file.   

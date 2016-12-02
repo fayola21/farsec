@@ -1,0 +1,1 @@
+<title>Issue 14172 -   chromium -    thumbnail images missing on New Tab - Project Hosting on Google Code</title>   1. Open new tab.      Thumbnails are shown for recently visited pages.        I see &quot;broken camera&quot; images instead.      <b>Please provide

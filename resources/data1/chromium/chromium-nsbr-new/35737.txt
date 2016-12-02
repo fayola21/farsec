@@ -1,0 +1,1 @@
+<title>Issue 35737 -   chromium -    Artifacts (no refresh) after a:hover span when another part of &quot;a&quot; changes (CSS) - Project Hosting on Google Code</title>   See the attached testcase.      Check this in Firefox or IE.      Check the testcase in Chrome or Safari    <b>Please provide

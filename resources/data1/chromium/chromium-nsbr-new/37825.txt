@@ -1,0 +1,1 @@
+<title>Issue 37825 -   chromium -    Add mode to renderer in which we only process plugin IPCs - Project Hosting on Google Code</title> <pre> Add mode to renderer in which we only process plugin IPCs    We should use this mode while showing any app modal dialogs (except for   showModalDialog).  We should not process any other tasks posted to the   MessageLoop. </pre>

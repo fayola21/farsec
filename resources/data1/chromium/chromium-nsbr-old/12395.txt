@@ -1,0 +1,1 @@
+<title>Issue 12395 -   chromium -    Make the Google chrome version  in the &quot;about&quot; dialog box  selectable. - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.181.1&gt;    In every issue that we submit we need to paste here the version of Google   Chrome.  It's is posibble to make the About dialog box selectable? </pre>

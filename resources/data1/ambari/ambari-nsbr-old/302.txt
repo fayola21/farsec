@@ -1,0 +1,1 @@
+regionservers config in the hbase only has localhost in it    /etc/hbase/conf/regionserver should correctly populate the slaves list   

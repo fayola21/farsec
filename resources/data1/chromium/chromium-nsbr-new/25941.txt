@@ -1,0 +1,1 @@
+<title>Issue 25941 -   chromium -    NTP-style bookmark bar stroke is wrong - Project Hosting on Google Code</title> <pre> The dark gray stroke line around the edge of the bookmark bar is 2px instead   of 1px. </pre>

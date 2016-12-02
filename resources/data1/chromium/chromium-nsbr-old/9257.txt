@@ -1,0 +1,1 @@
+<title>Issue 9257 -   chromium -    Changing the UI language is very flaky - Project Hosting on Google Code</title> <pre> If the UI language is changed via 'Minor Tweak - Language' and Chrome is   restared  sometimes the UI language remains as before as if no change is   made.     This is rather tricky because sometimes it works.  </pre>

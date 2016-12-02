@@ -1,0 +1,1 @@
+<title>Issue 29466 -   chromium -    browser doesnt recognize java plug-in - Project Hosting on Google Code</title>   1.install chromium for ubuntu  2.go to about:plugin  3.notice that there isnt any java plugin listed only File name:   libjavaplugin_oji.so                <b>Please provide

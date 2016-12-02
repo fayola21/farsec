@@ -1,0 +1,1 @@
+<title>Issue 21044 -   chromium -    Theme load bubble doesn't disappear if theme has corrupted image - Project Hosting on Google Code</title> <pre> Try to download a theme with a corrupted image; loading bubble appears but   does not disappear.   </pre>

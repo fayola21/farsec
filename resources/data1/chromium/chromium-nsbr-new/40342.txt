@@ -1,0 +1,1 @@
+<title>Issue 40342 -   chromium -    Back Button Won't Go to Empty Tab Page - Project Hosting on Google Code</title>   1. Open a new tab  to get the empty tab page.  2. Click on one of the thumbnails in the empty tab page.  3. Press the back button      Browser navigates back to the empty tab page.      Browser remains at the same page.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 41638 -   chromium -    Repeated crashes  - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.3    Since installing the current version  the browser Course many times  without   any apparent reason         </pre>

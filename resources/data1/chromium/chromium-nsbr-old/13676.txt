@@ -1,0 +1,1 @@
+<title>Issue 13676 -   chromium -    Debug injected JS in page from extension - Project Hosting on Google Code</title> <pre> Make sure even injected JavaScript from an extension can be debugged in   DevTools. </pre>

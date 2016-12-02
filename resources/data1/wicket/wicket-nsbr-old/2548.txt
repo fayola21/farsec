@@ -1,0 +1,1 @@
+MetaDataKey does not meet hashCode() contract    The class MetaDataKey overrides equals() method but uses Object.hashCode(). So FindBugs warns on any use of this class in our Wicket application.   

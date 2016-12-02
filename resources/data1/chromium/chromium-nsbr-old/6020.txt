@@ -1,0 +1,1 @@
+<title>Issue 6020 -   chromium -    importing bookmarks from ie7 doesn't seem to preserve the order of bookmarks - Project Hosting on Google Code</title> <pre> Maybe this isn't possible  but it would be nice if we could somehow   preserve the order of the bookmarks when imported from ie7.  I believe we   currently sort alphabetically. </pre>

@@ -1,0 +1,1 @@
+Testharness: testEncryptionAlgorithm property is not being picked up correctly for some encryption suites    It looks like the encryption.properties - testEncryptionAlgorithm=DESede/CBC/NoPadding is not being picked up for the encryption run of stress.multi test. But the test uses a database with the default encryption algorithm - DES/CBC/NoPadding   

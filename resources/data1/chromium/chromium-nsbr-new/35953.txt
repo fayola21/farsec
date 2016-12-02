@@ -1,0 +1,1 @@
+<title>Issue 35953 -   chromium -    Enhancement request: add &quot;pin&quot; checkbox to start-up site list - Project Hosting on Google Code</title> <pre> I like to keep all my start-up tabs pinned  so it would be great if there was a   &quot;pin&quot; checkbox in the start-up site list so they would be automatically pinned   when on start-up. </pre>

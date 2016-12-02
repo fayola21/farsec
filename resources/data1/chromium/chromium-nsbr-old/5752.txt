@@ -1,0 +1,1 @@
+<title>Issue 5752 -   chromium -    ESC should take you out of the accessible toolbar mode - Project Hosting on Google Code</title> <pre>   1. Focus the page  2. Press alt-shit-t to go to accessible toolbar mode  3. Press ESC    What is the expected output?  The page has the focus.    What do you see instead?  Nothing happens.         </pre>

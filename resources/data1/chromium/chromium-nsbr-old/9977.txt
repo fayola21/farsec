@@ -1,0 +1,1 @@
+<title>Issue 9977 -   chromium -    Unit test location-bar stuff on Mac. - Project Hosting on Google Code</title> <pre> I backed out a unittest for location bar on mac when landing omnibox  because there was no clear   approach.  This bug is to remind me to circle back and resolve that. </pre>

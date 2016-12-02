@@ -1,0 +1,1 @@
+org.apache.derby.impl.drda.DDMWriter might swallow unexpected exceptions    Some methods in org.apache.derby.impl.drda.DDMWriter catch Exception and print a message about unsupported encoding. They should instead catch the specific exception UnsupportedEncodingException and let all other exceptions propagate up the call stack.   

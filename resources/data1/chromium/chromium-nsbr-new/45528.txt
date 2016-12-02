@@ -1,0 +1,1 @@
+<title>Issue 45528 -   chromium -    Feature request: &quot;most visited&quot; urls/bookmarks into the extension API - Project Hosting on Google Code</title> <pre> Would be nice to get access to those &quot;most visited urls&quot; (the same that are   in the new tab window).     Thank you. </pre>

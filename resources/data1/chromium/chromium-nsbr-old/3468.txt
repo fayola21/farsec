@@ -1,0 +1,1 @@
+<title>Issue 3468 -   chromium -    Finish implementing linux clipboard and integrate with common desktop apps - Project Hosting on Google Code</title> <pre> Implement the clipboard in linux (clipboard* in base/). Using gtk. </pre>

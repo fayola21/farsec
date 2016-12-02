@@ -1,0 +1,1 @@
+Ambari does not handle a pre-setup user-supplied Hive Metastore    Ambari treats a Hive Metastore as something that it still needs to install and setup even though it may not have the necessary permissions to do so.   

@@ -1,0 +1,1 @@
+<title>Issue 45111 -   chromium -    Extensions overriding new tab page make apps inaccessible - Project Hosting on Google Code</title> <pre> We need to figure out some way to show installed apps when an extension is   installed that has overridden the NTP. </pre>

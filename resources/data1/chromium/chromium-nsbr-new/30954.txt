@@ -1,0 +1,1 @@
+<title>Issue 30954 -   chromium -    got &quot;extension requires more permissions&quot; infobar in gmail app window - Project Hosting on Google Code</title> <pre> That was weird. </pre>

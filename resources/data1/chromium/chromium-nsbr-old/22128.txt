@@ -1,0 +1,1 @@
+<title>Issue 22128 -   chromium -    No internet connection to unsecured sites - Project Hosting on Google Code</title>   1. Type some http:// URL into the address line  2. Press Enter        Display of the website      Error 101 (net::ERR_CONNECTION_RESET): unknown error    <b>Please provide

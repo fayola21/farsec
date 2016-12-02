@@ -1,0 +1,1 @@
+<title>Issue 21839 -   chromium -    Pink table on the bottom is redrawn twice - Project Hosting on Google Code</title>   1. Scroll all the way to the end  2. Switch to full screen mode with Shift + Apple + F  3. Switch back to normal mode with Shift + Apple + F    The pink table at the bottom is redrawn twice.            <b>Please provide

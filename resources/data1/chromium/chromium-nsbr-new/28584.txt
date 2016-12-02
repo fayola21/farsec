@@ -1,0 +1,1 @@
+<title>Issue 28584 -   chromium -    Orphan chrome.exe process - Project Hosting on Google Code</title> <pre> Orphan chrome.exe process    Observed with 4.0.255.0 (Developer Build 32739) on Vista    I resumed my laptop from sleep  and then I closed chrome by clicking the   close button on the browser window.  A chrome.exe process was left behind. </pre>

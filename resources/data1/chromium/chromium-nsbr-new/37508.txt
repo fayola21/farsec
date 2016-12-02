@@ -1,0 +1,1 @@
+<title>Issue 37508 -   chromium -    Google Latitude crashes Chromium - Project Hosting on Google Code</title>   1. Click on an iGoogle page that includes the PC version of Google Latitude          The loading of Google Latitude  possibly the testing of the new geolocation   API      Whoa! Chromium has crashed! Restart now?    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 16227 -   chromium -    Need version of star.png (and related) without button border. - Project Hosting on Google Code</title> <pre> Linux needs this  and according to Glen  windows does too. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 42387 -   chromium -    High Contrast Theme Does Not Work In Chrome - Project Hosting on Google Code</title>   1. Enable High Contrast theme using Left-ALT + Left-Shift + PRINT SCREEN      The background should be black for all web pages with white text.       The pages should are displayed normal.    <b>Please provide

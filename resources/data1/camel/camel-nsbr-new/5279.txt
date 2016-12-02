@@ -1,0 +1,1 @@
+camel-stream overwrites files instead of appending    When a file stream is used with camel-stream  the file is not opened in append mode  therefore the file is overwritten with every message  ending up with just the last message  all others are lost.This contrasts with the documented behavior.   

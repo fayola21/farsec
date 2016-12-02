@@ -1,0 +1,1 @@
+<title>Issue 11941 -   chromium -    Option dialog show on current monitor. - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0 (Official Build 15835)      1.Open chrome on secondly monitor.  2.Open option dialog.      Option dialog show on secondly monitor.      Option dialog show on primary monitor. </pre>

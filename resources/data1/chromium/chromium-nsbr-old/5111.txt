@@ -1,0 +1,1 @@
+<title>Issue 5111 -   chromium -    Scroll bar on the textbox shows only half - Project Hosting on Google Code</title>   1. Browse to <a href="http://www.somacon.com/p113.php">http://www.somacon.com/p113.php</a>  2. The scroll bar on the GUID input box only displays as half.  3. Hover the mouse to the scroll bar and the whole scroll bar shows up.                Please provide

@@ -1,0 +1,1 @@
+Embedded ResultSet.getTimestamp on a TIME column returns a java.sql.Timestamp with a date portion that can be incorrect.    The date portion of the java.sql.Timestamp from a TIME column is intended to be the current date but instead can be any date value  based upon the last getXXX call that required a Java Calendar object.   

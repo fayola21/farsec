@@ -1,0 +1,1 @@
+<title>Issue 10568 -   chromium -    Hide Fullscreen hint bubble if mouse doesn't move - Project Hosting on Google Code</title> <pre> If the user's mouse is not on the hint bubble and doesn't move for several   seconds we should go ahead and hide the hint bubble. </pre>

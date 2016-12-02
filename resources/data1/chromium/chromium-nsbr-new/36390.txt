@@ -1,0 +1,1 @@
+<title>Issue 36390 -   chromium -    No delete option in Edit Bookmark - Project Hosting on Google Code</title>   1. Click on 'Edit Bookmark for this page'   2. Click 'Edit'        In Edit Bookmark  there is option to create a new folder  however no option   available to delete a folder.      There is no option to delete a Bookmark folder    <b>Please provide

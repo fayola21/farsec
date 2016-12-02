@@ -1,0 +1,1 @@
+Modal Window is not shown in IE8    On examples page http://wicketstuff.org/wicket/ajax/modal-window if you click on 'Show modal dialog with a page' or 'Show modal dialog with panel'  no modal windows will be shown.   

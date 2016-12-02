@@ -1,0 +1,1 @@
+<title>Issue 20720 -   chromium -    Smarter gatekeeper - Project Hosting on Google Code</title> <pre> When a step fails  close the tree. If the step fails again (without going   green) and the tree was reopened  do not close the tree again.    This will enable much more steps to cause automatic tree closure </pre>

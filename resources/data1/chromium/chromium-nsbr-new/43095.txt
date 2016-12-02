@@ -1,0 +1,1 @@
+<title>Issue 43095 -   chromium -    Crash while duplicating tab within Extension Window - Project Hosting on Google Code</title> <pre> Happens on tot from this morning.    Not many details needed (besides summary above)  since the fix is easily   reproducible and I have a fix already. </pre>

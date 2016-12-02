@@ -1,0 +1,1 @@
+<title>Issue 32197 -   chromium -    Update libxml to 2.7.6 or latest - Project Hosting on Google Code</title> <pre> We're still using 2.6.32.    <a title="Use system libxml"  href="/p/chromium/issues/detail?id=29046">Issue 29046</a> says we have local patches for ICU; Jungshik  is that still   required? </pre>

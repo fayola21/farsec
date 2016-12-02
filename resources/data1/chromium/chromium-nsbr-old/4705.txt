@@ -1,0 +1,1 @@
+<title>Issue 4705 -   chromium -    Chromium crashing - Project Hosting on Google Code</title>   1. Log onto Gmail  2. When Chromium asks you to remember or forget password  select &quot;Never for   this site&quot;          Chromium never asks to remember a password to gmail.com again.      Unexpected crash.    Please provide

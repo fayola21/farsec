@@ -1,0 +1,1 @@
+<title>Issue 12225 -   chromium -    Boyer-Moore implementation reads too far. - Project Hosting on Google Code</title> <pre>   1.&quot;bbaabbbbbbbbabbaaaabbaaabbbaaaabbaaabbabaaabb&quot;.replace(/aabab/g  &quot;foo&quot;);      Expected:  a string  Actual: Hits assert in debug mode       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7641 -   chromium -    Spell check doesn't work for pre-populated text areas - Project Hosting on Google Code</title> <pre>   1. Go to http://go/compat/spell_checker/textAreaMisspelled.html    What is the expected output?   misspelled word is underlined    What do you see instead?  Incorrect spelled word is not underlined        This is b/1158434   </pre>

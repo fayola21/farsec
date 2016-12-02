@@ -1,0 +1,1 @@
+<title>Issue 18881 -   chromium -    Typing a url into the location and pressing enter results in a black bar appearing. - Project Hosting on Google Code</title>   1. Open Chrome.  2. Type in a URL  3. Press Enter      The location bar should not be blacked out.      The entire location bar is blacked out.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36936 -   chromium -    NaCl: Make ncvalidate_sfi build without ncvalidate - Project Hosting on Google Code</title> <pre> ncvalidate_sfi -- the &quot;new&quot; validator for 64-bit--has dependencies on   functions implemented in ncvalidate.lib. These libs should be independent of   one another. </pre>

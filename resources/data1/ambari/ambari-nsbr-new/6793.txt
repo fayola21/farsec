@@ -1,0 +1,1 @@
+Need ResourceManager UI Quicklinks for active / standby    Similar to NN HA.   

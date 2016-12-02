@@ -1,0 +1,1 @@
+<title>Issue 31023 -   chromium -    omnibox obscured by translucent box on maximized window - Project Hosting on Google Code</title> <pre> When you maximize the window  a white box obscures the top half of the   omnibox. When you shift focus to the white box  it becomes translucent (you   can see through to the windows or desktop pattern behind the browser). </pre>

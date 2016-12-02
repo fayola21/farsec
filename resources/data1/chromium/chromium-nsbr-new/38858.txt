@@ -1,0 +1,1 @@
+<title>Issue 38858 -   chromium -    Rogue Shadow or Gradient in UI - Project Hosting on Google Code</title>   1. Use Chrome with Classic theme.      Default appearence.      A rogue gradient or shadow. Does not appear on themes other than &quot;Classic.&quot;   Windows 7 Ultimate 64-bit with Aero.    <b>Please provide

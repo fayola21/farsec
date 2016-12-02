@@ -1,0 +1,1 @@
+<title>Issue 965 -   chromium -    Entering &quot;:%&quot; (that is a colon and percent sign) in address/search box causes immediate crash - Project Hosting on Google Code</title>   1. type a colon and a percent sign in the address box  2. &quot;Whoh! Google Chrome has crashed. Restart now?&quot;      not crashing      crashes    Please provide

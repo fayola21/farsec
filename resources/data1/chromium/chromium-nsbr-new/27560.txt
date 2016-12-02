@@ -1,0 +1,1 @@
+<title>Issue 27560 -   chromium -    Update wiki/LinuxCertManagement for Opensuse - Project Hosting on Google Code</title> <pre> Under &quot;Get the tools&quot;:-    Opensuse: sudo zypper install mozilla-nss-tools </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14927 -   chromium -    detaching tab is janky - Project Hosting on Google Code</title> <pre> ben sez: &quot;the transition to detached tab dragging is janky - the dragged  window content should animate/fade into the target bounds&quot;    Clearly he knows what he means. I'd like some more specifics. </pre>

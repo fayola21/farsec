@@ -1,0 +1,1 @@
+<title>Issue 4214 -   chromium -    Visited link coloring broken on trunk - Project Hosting on Google Code</title> <pre> As a result of the WebKit merge  visited link coloring isn't hooked up and   all links are marked unvisited. </pre>

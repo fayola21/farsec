@@ -1,0 +1,1 @@
+<title>Issue 1595 -   chromium -    auto-hide taskbar doesn't activate in vista - Project Hosting on Google Code</title>   1. Put Vista taskbar in autohide mode  2. Start Chrome maximised  3. Move mouse cursor to bottom of screen      The taskbar should appear      Nothing    Please provide

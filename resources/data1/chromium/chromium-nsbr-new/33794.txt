@@ -1,0 +1,1 @@
+<title>Issue 33794 -   chromium -    no sound in vimeo's html5 player - Project Hosting on Google Code</title>   1. visit given url <a href="http://vimeo.com/9059558">http://vimeo.com/9059558</a>  2. make sure you have switched to html5 player  3. start playing video      hear sound in addition to seeing the video      sound cannot be heard    <b>Please provide

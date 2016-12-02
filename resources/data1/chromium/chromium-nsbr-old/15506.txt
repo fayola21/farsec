@@ -1,0 +1,1 @@
+<title>Issue 15506 -   chromium -    button images need to be tinted by theme - Project Hosting on Google Code</title> <pre> Install the theme in src/chrome/test/data/extensions/theme.crx.  The buttons   are still blue on a green background.  The buttons should actually become   dark green. </pre>

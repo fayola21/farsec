@@ -1,0 +1,1 @@
+<title>Issue 19588 -   chromium -    Themes are not applied to pages opened via &quot;create application shortcut.&quot; The default theme is applied even if new application shortcut is created.  - Project Hosting on Google Code</title>                       <b>Please provide

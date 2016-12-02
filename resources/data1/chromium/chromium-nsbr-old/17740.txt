@@ -1,0 +1,1 @@
+<title>Issue 17740 -   chromium -    Chrome crashed on closing youtube video tab - Project Hosting on Google Code</title>   1. Open <a href="http://www.youtube.com/watch?v=Lyldfq0kQOc&amp;feature=popular">http://www.youtube.com/watch?v=Lyldfq0kQOc&amp;feature=popular</a> in a tab  2. Close tab with ctrl+w  3. Boom!      It should close tab.      Crash.    <b>Please provide

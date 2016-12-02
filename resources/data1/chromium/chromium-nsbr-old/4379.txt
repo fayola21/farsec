@@ -1,0 +1,1 @@
+<title>Issue 4379 -   chromium -    No file extension for exported bookmark. - Project Hosting on Google Code</title> <pre> 1. Open chrome (I'm using the French version. Build 154.18)  2. open the bookmark manager  3. Click the export button and type a name.    result:  The file is saved without extension.    the file name should be saved with a .html extension. </pre>

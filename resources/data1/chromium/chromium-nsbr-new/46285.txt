@@ -1,0 +1,1 @@
+<title>Issue 46285 -   chromium -    Adobe Flash Player Setting dialogue frozen - Project Hosting on Google Code</title>   1. Right click on flash  click settings.  Frozen settings dialogue            Changeable settings        Frozen settings dialogue  unable to click.  Am able to tab through and press return when the 'Close' button is highlighted in yellow.    <b>Please provide

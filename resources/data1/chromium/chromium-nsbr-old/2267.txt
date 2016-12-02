@@ -1,0 +1,1 @@
+<title>Issue 2267 -   chromium -    New tab button clipped at right edge in AeroGlassFrame - Project Hosting on Google Code</title> <pre>   1. Run browser with --magic_browzR flag  2. Open many tabs so that the tabstrip is full        The new tab button at the right of the strip should be shown in full  but   instead its right two pixels are clipped. Vista-only </pre>

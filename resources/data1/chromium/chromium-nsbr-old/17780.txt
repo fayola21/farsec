@@ -1,0 +1,1 @@
+<title>Issue 17780 -   chromium -    Regression: Cannot input any character into the address input box - Project Hosting on Google Code</title>   1.When I upgrade to this version the problem occured before this version   it's OK.                    <b>Please provide

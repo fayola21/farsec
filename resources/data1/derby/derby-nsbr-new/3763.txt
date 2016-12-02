@@ -1,0 +1,1 @@
+Rename BaseJDBCTestCase.usingDerbyNet    The names of the methods 'usingDerbyNet' and 'usingDerbyNetClient' in BaseJDBCTestCase are confusing.I propose we change the one used to tell if we are using the DB2 client driver (JCC).   

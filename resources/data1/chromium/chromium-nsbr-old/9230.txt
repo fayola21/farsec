@@ -1,0 +1,1 @@
+<title>Issue 9230 -   chromium -    Maths printing problem - Project Hosting on Google Code</title>   1. Go to <a href="http://mpsiddl.free.fr/exo.php?id=10">http://mpsiddl.free.fr/exo.php?id=10</a>          It is expected to print mathematic formula.      it prints this formula with a quite strange look.    <b>Please provide

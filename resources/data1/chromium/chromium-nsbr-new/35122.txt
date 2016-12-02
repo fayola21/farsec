@@ -1,0 +1,1 @@
+<title>Issue 35122 -   chromium -    mousescroll event is not firing when pressing ctrl key - Project Hosting on Google Code</title>   1. Bind the mousescroll event to the document  2. Press Ctrl key and try scroll the event  Event is not firing.          The event should fire the binded method      Just Zooming the Browser    <b>Please provide

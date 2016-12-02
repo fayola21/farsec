@@ -1,0 +1,1 @@
+<title>Issue 40771 -   chromium -    Use new custom menu for bookmark bar overflow - Project Hosting on Google Code</title> <pre> The new custom menu system should be used for the overflow menu on the bookmark bar  so one   can drag items from positions later in the bookmark bar onto the visible strip. </pre>

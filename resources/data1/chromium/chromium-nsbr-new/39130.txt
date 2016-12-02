@@ -1,0 +1,1 @@
+<title>Issue 39130 -   chromium -    Diagnostic mode shows 0 bytes or wrong size for certain paths - Project Hosting on Google Code</title> <pre>   1. run dev channel of chrome with --diagnostics  2. observe the output:    What is the expected output?   User data dir has several megabytes of data  inspector dir is &gt; 0    What do you see instead?  See attached png.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9483 -   chromium -    Clicking on the New Tab button clears the viewing website - Project Hosting on Google Code</title>   1.Open any website  2.Click on the New Tab button in the bookmark bar        It should open a new tab without closing any open tabs      This will clear the currently viewing website and replace it with a blank   website      <b>Please provide

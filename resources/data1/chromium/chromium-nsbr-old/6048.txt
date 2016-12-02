@@ -1,0 +1,1 @@
+<title>Issue 6048 -   chromium -    New tabs - Project Hosting on Google Code</title> <pre> Open Google Chrome  click a new tab button (hold it down for 1-3 seconds   then release; don't know if this is necessary). Repeat until reproduced. It   should open a new tab but it sometimes opens 2 new tabs or more.     </pre>

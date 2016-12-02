@@ -1,0 +1,1 @@
+<title>Issue 21774 -   chromium -    constained window mac owns the delegate - Project Hosting on Google Code</title> <pre> constrainged_window_mac uses a scoped NSObject to own the delegate    which seems very wrong compared to normal cocoa.  But fixing this means   going into all the users and making sure the aren't relying on this backwards   ownership. </pre>

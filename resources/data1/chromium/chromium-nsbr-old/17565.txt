@@ -1,0 +1,1 @@
+<title>Issue 17565 -   chromium -    NNTP doesn't reset theme with browser theme is reset - Project Hosting on Google Code</title> <pre> Though it does reset when a theme is applied  so it might just be a missing   message in the reset code. </pre>

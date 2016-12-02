@@ -1,0 +1,1 @@
+<title>Issue 1508 -   chromium -    about:% crash - Project Hosting on Google Code</title>             should show some error      it crashes    Please provide

@@ -1,0 +1,1 @@
+switching to Configs tab causes Quick Links to disappear    In Ambari Web  browse to HDFS  YARN  MapReduce2  etc. Click on the Configs tab  the Quick Links option disappears.See the same regardless of 1.3.2 or 2.0.6  and tried on Firefox and Chrome   

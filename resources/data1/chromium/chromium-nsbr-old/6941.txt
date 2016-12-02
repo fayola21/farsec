@@ -1,0 +1,1 @@
+<title>Issue 6941 -   chromium -    Shift-F10 doesn't bring up the context menu in Gmail - Project Hosting on Google Code</title> <pre> Shift-F10 in an edit box should bring up the context menu. This works in   normal text edit boxes. But it doesn't work in Gmail's editor  either in   rich or plain text mode. It works in Firefox. </pre>

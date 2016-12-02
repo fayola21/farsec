@@ -1,0 +1,1 @@
+<title>Issue 6936 -   chromium -    Maximized Chrome window looking strange on margins - Project Hosting on Google Code</title>   1. Start Chrome  2. Maximize Chrome Browser  3. Voila!                Please provide

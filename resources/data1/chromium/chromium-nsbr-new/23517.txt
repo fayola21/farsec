@@ -1,0 +1,1 @@
+<title>Issue 23517 -   chromium -    Can't drag files onto a tab to open - Project Hosting on Google Code</title> <pre> Chrome Version       : 212.1      OS: 10.5  Works in other browsers.    I cannot drag images  .html files  or saved web archives from Finder/Desktop   onto the renderer to open them </pre>

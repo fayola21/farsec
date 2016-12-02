@@ -1,0 +1,1 @@
+<title>Issue 10518 -   chromium -    stop blink/animation/etc with ESC  breaks w3 User Agent Accessibility Guidelines - Project Hosting on Google Code</title>   1.go to a page with blink  animation  etc  2.hit ESC        3.animation stops      3.animation continues    <b>Please provide

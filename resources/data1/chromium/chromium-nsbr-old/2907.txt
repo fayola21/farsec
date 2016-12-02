@@ -1,0 +1,1 @@
+<title>Issue 2907 -   chromium -    Do pre-emptive authorization for BASIC - Project Hosting on Google Code</title> <pre> Send the credentials before they are asked for  to reduce number of round   trips.    Doable for DIGEST as well  but there are some caveats (nc is problematic). </pre>

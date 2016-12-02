@@ -1,0 +1,1 @@
+<title>Issue 26334 -   chromium -    ratchet and clank theme fails to draw toolbar color on attached bookmark bar and find bar - Project Hosting on Google Code</title> <pre> windows version of <a title="Bookmark bar doesn't draw correctly in the Ratchet and Clank theme" class=closed_ref href="/p/chromium/issues/detail?id=26255"> bug 26255 </a> </pre>

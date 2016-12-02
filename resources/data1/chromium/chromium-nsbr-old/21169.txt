@@ -1,0 +1,1 @@
+<title>Issue 21169 -   chromium -    4.0.206.1 doesn't open last session tabs - Project Hosting on Google Code</title>   1.setting the option to reopen tabs from last session  2.restarting chrome        The expected result is that chrome will open my tabs from my last session.      Instead  the home page opens.    <b>Please provide

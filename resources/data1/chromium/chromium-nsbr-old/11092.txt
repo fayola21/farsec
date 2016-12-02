@@ -1,0 +1,1 @@
+<title>Issue 11092 -   chromium -    Implement createWindow() extensions api call - Project Hosting on Google Code</title> <pre> chromium.tabs.createWindow() api call should be callable from within an   extension_view  and be optionally passed an object with keys: url  left    top  width  height. </pre>

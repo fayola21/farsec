@@ -1,0 +1,1 @@
+<title>Issue 31176 -   chromium -    View source for an application/xhtml+xml XHTML webpage is shown as tag-soup HTML instead of XML. - Project Hosting on Google Code</title>   1. Go to a site that sends xhtml as application/xhtml+xml  2. view source      XML formatted code.      The XHTML is re-coded into 'tag-soup' HTML    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12326 -   chromium -    Disable extensions in incognito mode - Project Hosting on Google Code</title> <pre> There are too many tricky cases around the behavior. We're going to disable   extensions in incognito mode initially  then re-enable them when we have time   to do a more nuanced API. </pre>

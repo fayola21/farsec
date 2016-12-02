@@ -1,0 +1,1 @@
+<title>Issue 28489 -   chromium -    Feature request: Copy download link - Project Hosting on Google Code</title> <pre> I think it should be useful a feature 'Copy download link' like Firefox has. </pre>

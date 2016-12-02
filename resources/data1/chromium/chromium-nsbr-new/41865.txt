@@ -1,0 +1,1 @@
+<title>Issue 41865 -   chromium -    CANNOT Horizontal or Vertical tile in Windows XP - Project Hosting on Google Code</title>   1. Horizontal Tile  2. Vertical Tile        Re-arrange 2 or more applications' windows to fully fill the screen like   tiles      No respond or resize wrongly    <b>Please provide

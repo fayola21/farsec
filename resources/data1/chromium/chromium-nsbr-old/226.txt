@@ -1,0 +1,1 @@
+<title>Issue 226 -   chromium -    scroll up error - Project Hosting on Google Code</title>   1. open any window in googlechrome  2. click on the page and scroll down  3. no matter where  always  I cannot scroll up! but on firefox I do. So I   think it's a soft error that can't see however that I'm scrolling up                Please provide

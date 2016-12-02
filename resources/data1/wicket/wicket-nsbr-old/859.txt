@@ -1,0 +1,1 @@
+DateField's/ DateTimeField's factory methods should pass in ids    A very stupid mistake  but factory method:protected DateTextField newDateTextField(PropertyModel dateFieldModel)should of course pass in the id that the child component should use:protected DateTextField newDateTextField(String id  PropertyModel dateFieldModel)   

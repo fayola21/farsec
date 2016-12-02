@@ -1,0 +1,1 @@
+<title>Issue 22983 -   chromium -    Fancast video site doesn't recognize Chrome - Project Hosting on Google Code</title> <pre>   1. Go to www.fancast.com  2. See the warning message      There should be no warning message -- the site should let Chrome users in.    We should reach out to the site and ask them not to block Chrome. </pre>

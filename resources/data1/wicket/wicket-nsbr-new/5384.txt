@@ -1,0 +1,1 @@
+Allow form components to trim the input themselves    Make org.apache.wicket.markup.html.form.FormComponent#trim non-final so they can trim the input with more sophisticated ways.String#trim() removes only the breaking whitespaces. To trim non-breaking ones the application can use Guava's CharMatcher.WHITESPACE.trimFrom(str) for example.   

@@ -1,0 +1,1 @@
+Hard coded locale in Bindy DatePatternFormat    As reported by a user from the community (http://camel.465427.n5.nabble.com/Bindy-Dateformat-Parsing-exception-td3276981.html)  the locale of SimpeDateFormat in bindy's DatePatternFormat class is hard coded to FRANCE.   

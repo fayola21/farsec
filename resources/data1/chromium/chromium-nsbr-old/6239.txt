@@ -1,0 +1,1 @@
+<title>Issue 6239 -   chromium -    History URL provider does not remember IP addresses? - Project Hosting on Google Code</title> <pre> My local router is at 192.168.1.254.  No matter how many times I type this   it never inline autocompletes  or even shows up as a suggestion in the   popup  until I have typed the whole thing. </pre>

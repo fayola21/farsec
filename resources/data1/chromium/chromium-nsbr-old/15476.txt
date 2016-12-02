@@ -1,0 +1,1 @@
+<title>Issue 15476 -   chromium -    Regression: inspector gives blank page - Project Hosting on Google Code</title>   1. Go to some site and launch inspector                 Inspector window is blank.    <b>Please provide

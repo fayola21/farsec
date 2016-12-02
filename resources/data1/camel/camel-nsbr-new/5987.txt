@@ -1,0 +1,1 @@
+Using annotations DSL in beans may cause async callback to be called twice    The bean processor and bean invocation logic may in cases when the EIP annotations is used on beans  cause the callback to be called twice.Noticed this problem during investigation of See CAMEL-5905   

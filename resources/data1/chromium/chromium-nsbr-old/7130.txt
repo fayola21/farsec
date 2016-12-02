@@ -1,0 +1,1 @@
+<title>Issue 7130 -   chromium -    Google Toolbar - Project Hosting on Google Code</title> <pre> Chrome Version       : All Versions  URLs (if applicable) :toolbar.google.com      1. Go to <a href="http://toolbar.google.com">http://toolbar.google.com</a>  2. Then it says Toolbar for Firefox and not Toolbar for Chrome     </pre>

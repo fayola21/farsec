@@ -1,0 +1,1 @@
+TableFunctionTest keeps reference to connection after completion    The test cases in TableFunctionTest store a DatabaseMetaData instance in an instance variable. The DatabaseMetaData instance references the default connection  and the connection can therefore not be gc'ed after the test has completed.   

@@ -1,0 +1,1 @@
+<title>Issue 184 -   chromium -    Caption Button Spacing - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27             Safari 3: OK      Firefox 3: OK           IE 7: OK      1. Open browser.      Caption button spacing from right edge is correct.      Caption button spacing from right edge is incorrect.     </pre>

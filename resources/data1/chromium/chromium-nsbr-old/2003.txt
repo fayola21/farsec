@@ -1,0 +1,1 @@
+<title>Issue 2003 -   chromium -    Windows XP SP3 installation causes Chrome to stop working - Project Hosting on Google Code</title>   1. Installed XP Service Pack 3 from SP2            Everything works        Chrome refuses to start or uninstall  have tried reinstalling it.    Please provide

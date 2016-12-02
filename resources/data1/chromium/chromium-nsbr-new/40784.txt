@@ -1,0 +1,1 @@
+<title>Issue 40784 -   chromium -    Add CSS auto complete - Project Hosting on Google Code</title> <pre> Add CSS auto completion when editing styles in DevTools  like in FireBug    including the properties (&quot;text-align&quot;) and the values (&quot;justify&quot;).    This is truly missing. </pre>

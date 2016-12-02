@@ -1,0 +1,1 @@
+<title>Issue 13317 -   chromium -    Add a &quot;minimize to system tray&quot; option (with JavaScript) to Extensions - Project Hosting on Google Code</title> <pre> make chrome minimize on system tray rather in taskbar using javascript   extensions </pre>

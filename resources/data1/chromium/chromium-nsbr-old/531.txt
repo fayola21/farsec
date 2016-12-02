@@ -1,0 +1,1 @@
+<title>Issue 531 -   chromium -    javaScript:alterCursor() doesn't work - Project Hosting on Google Code</title> <pre> The onMouseOver=&quot;javaScript:alterCursor('Image'  'pointer');&quot;  &amp; onMouseOut=&quot;&quot; events associated with a alterCursor function to change the   cursor appearence has no effect. The mouse remain unchanged. </pre>

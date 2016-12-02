@@ -1,0 +1,1 @@
+<title>Issue 24058 -   chromium -    chrome crash lots of time...  - Project Hosting on Google Code</title>   1.just open that site  chrome will crash          need to show webpage            <b>Please provide

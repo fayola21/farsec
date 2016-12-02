@@ -1,0 +1,1 @@
+<title>Issue 34385 -   chromium -    Bug with Youtube layout switch and the Flash Player in Mac OS - Project Hosting on Google Code</title>   1. I open an Youtube video  2.I click to extend the layout (the icon with two arrows)      The video's width should extend.      The Flash Plugin crashes all the Flashs.    <b>Please provide

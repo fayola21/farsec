@@ -1,0 +1,1 @@
+<title>Issue 23815 -   chromium -    middle clicking links from igoogle page opens tabs in same process - Project Hosting on Google Code</title> <pre> It would be nice if they ended up in their own processes. Welcome back   Charlie! :) </pre>

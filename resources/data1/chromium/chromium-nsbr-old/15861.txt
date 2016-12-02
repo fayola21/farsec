@@ -1,0 +1,1 @@
+<title>Issue 15861 -   chromium -    Default to custom frame depending on window manager - Project Hosting on Google Code</title> <pre> From the UI review  Glen suggests we set our default of custom-frame/normal-  frame depending on what window manager the user is currently running.     </pre>

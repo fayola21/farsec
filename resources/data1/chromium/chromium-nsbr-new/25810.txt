@@ -1,0 +1,1 @@
+<title>Issue 25810 -   chromium -    cmd-[ opens last page in a new tab - Project Hosting on Google Code</title> <pre>   1. Surf  2. cmd-[        Should go back.        Opens &quot;Back&quot; page in new tab.    Would be cool if this was fixed before the next dev release is cut; else   <a href="/p/chromium/source/detail?r=30016">r30016</a> should probably be reverted. </pre>

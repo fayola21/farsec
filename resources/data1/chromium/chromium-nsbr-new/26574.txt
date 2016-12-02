@@ -1,0 +1,1 @@
+<title>Issue 26574 -   chromium -    Mac Chrome crash with Add-ons - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.11      Installed Safe&amp;Clean add-on to Chrome on Mac.      Working browser with add-on.      Crashes on launch  unusable browser.   </pre>

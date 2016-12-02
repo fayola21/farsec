@@ -1,0 +1,1 @@
+<title>Issue 10953 -   chromium -    IME support - Project Hosting on Google Code</title> <pre> We currently can't enter text via an IME into content.  It probably already works (though I haven't verified) in the omnibox. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39447 -   chromium -    Google Chrome has been crashing lately - Project Hosting on Google Code</title>   1. Go to that page  2. wait for it to load  use middle mouse to scroll the page  3. The particular tab will crash in no time      It must not crash      It crashed    <b>Please provide

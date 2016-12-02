@@ -1,0 +1,1 @@
+Ajax multipart fails for inner forms added via ajax    When using a file upload in a nested form (e.g. as required when using modal windows)  the file upload will always return null. This bug seems related to WICKET-2433 which was supposed to be fixed in wicket 1.4.2  but in wicket 1.4.3 this effect was observed by several people (see mailing list).   

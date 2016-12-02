@@ -1,0 +1,1 @@
+<title>Issue 40792 -   chromium -    Browser consistently crashes upon page load - Project Hosting on Google Code</title>   1. Open URL  2. Page loads  3. Browser crashes:  (Aw Snap)    What is the expected result? Page should load normally.            <b>Please provide

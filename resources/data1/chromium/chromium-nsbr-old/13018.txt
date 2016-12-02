@@ -1,0 +1,1 @@
+<title>Issue 13018 -   chromium -    Location bar font too big - Project Hosting on Google Code</title> <pre> The location bar font is grotesquely large compared to all the other fonts in   the app and on the OS. </pre>

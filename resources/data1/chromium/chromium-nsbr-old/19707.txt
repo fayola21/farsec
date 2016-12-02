@@ -1,0 +1,1 @@
+<title>Issue 19707 -   chromium -    GConf  - Project Hosting on Google Code</title> <pre> Google Chrome on Linux will be only for Debian/Ubuntu and Gnome? we have  only .deb packages and have GConf dependencies. Google Chrome needs less  foreign dependencies for more neutral compatibilities. </pre>

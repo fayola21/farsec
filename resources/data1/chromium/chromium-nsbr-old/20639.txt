@@ -1,0 +1,1 @@
+<title>Issue 20639 -   chromium -    Animated GIF is very slow when use absolute position. - Project Hosting on Google Code</title>   1. Any animated gif with position in absolute          Should display animated gif normally.        position: absolute -&gt; 50% of cpu  no absolute position -&gt; 1% of cpu      <b>Please provide

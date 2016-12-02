@@ -1,0 +1,1 @@
+<title>Issue 21 -   chromium -    Facebook: Commenting on Status not working - Project Hosting on Google Code</title>   1. Log on to facebook  2. Try to comment on any user's status  including your own  3. Regular comments on walls  etc seem to work.                Please provide

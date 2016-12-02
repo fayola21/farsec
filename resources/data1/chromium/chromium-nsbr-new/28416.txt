@@ -1,0 +1,1 @@
+<title>Issue 28416 -   chromium -    Ctrl-Tab does not switch tabs (Chrome Linux toolkit views) - Project Hosting on Google Code</title> <pre>   1. Open several tabs in Chrome Linux toolkit views  2. Press Ctrl-Tab    Expected:  Tabs are switched    Actual:  Nothing happens </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44831 -   chromium -    Can barely see the main scrollbar due to low contrast - Project Hosting on Google Code</title>   1. Open a page with enough content on it such that the main chromium window   requires a scrollbar          Can see scrollbar      Scrollbar thumb is not given enough contrast again scrollbar background    <b>Please provide

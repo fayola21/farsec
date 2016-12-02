@@ -1,0 +1,1 @@
+<title>Issue 6212 -   chromium -    SVG-Files will not work - Project Hosting on Google Code</title>   1. Load <a href="http://www.nuxnu.de/svg/nuxnu.xml">http://www.nuxnu.de/svg/nuxnu.xml</a> or any other SVG-Files          Display SVG-File      Error message: Aw  Snap! ....    Please provide

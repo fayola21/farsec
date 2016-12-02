@@ -1,0 +1,1 @@
+<title>Issue 24807 -   chromium -    Print panel should be a sheet  not a modal dialog - Project Hosting on Google Code</title> <pre> At the moment the print panel is a modal dialog since that was the easiest to   get up and running. We need to rework things a bit to make it asynchronous   so we can use a sheet. </pre>

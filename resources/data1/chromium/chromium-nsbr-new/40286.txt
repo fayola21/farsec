@@ -1,0 +1,1 @@
+<title>Issue 40286 -   chromium -    Unittest geolocation exceptions table model - Project Hosting on Google Code</title> <pre> Right now this model has no unittests  and it's pretty complex.  We should   add one.    Oh  and we should change the name from &quot;GeolocationContentSettingsTableModel&quot;   to &quot;GeolocationExceptionsTableModel&quot;. </pre>

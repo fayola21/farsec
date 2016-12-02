@@ -1,0 +1,1 @@
+<title>Issue 661 -   chromium -    Error import Favorite site from IE8 - Project Hosting on Google Code</title>   1. open option  2. click on import favorite site  3. check favorite site      none          Please provide

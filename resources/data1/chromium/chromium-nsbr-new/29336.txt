@@ -1,0 +1,1 @@
+<title>Issue 29336 -   chromium -    Task manager + F12 forces user to logout in Chromium OS - Project Hosting on Google Code</title>   1. open Task manager  2. Press F12      Open the window viewer.      Goes back to login screen saying  &quot;Login Failed&quot;    <b>Please provide

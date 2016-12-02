@@ -1,0 +1,1 @@
+<title>Issue 43491 -   chromium -    Cannot determine I'm in Gnome for desktop shortcut purposes - Project Hosting on Google Code</title> <pre>   1. Ubuntu Lucid  2. Click create desktop shortcuts    Dialog shows. </pre>

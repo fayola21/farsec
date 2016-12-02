@@ -1,0 +1,1 @@
+<title>Issue 16253 -   chromium -    Mac Chrome should handle the delete key as the back button - Project Hosting on Google Code</title> <pre> Every other browser in the universe treats the delete key as the back button   when the focus is not in text input box. </pre>

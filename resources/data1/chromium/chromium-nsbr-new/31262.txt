@@ -1,0 +1,1 @@
+<title>Issue 31262 -   chromium -    feature request: chrome.browserAction.popupClosed.addListener() - Project Hosting on Google Code</title> <pre> There is currently no way to figure out when the browser action popup was   closed as window.unonload is immediately triggered when the popup finished   loading  not when it's closed. This may actually be a bug.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27246 -   chromium -    No password save on ikariam - Project Hosting on Google Code</title>   go to the website and login      save password bar      no asking for saving password    <b>Please provide

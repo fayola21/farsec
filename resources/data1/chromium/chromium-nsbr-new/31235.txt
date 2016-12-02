@@ -1,0 +1,1 @@
+<title>Issue 31235 -   chromium -    You can't edit WBB Prefix - Project Hosting on Google Code</title>   1. You have to be a Moderator or higher in a Woltlab Burning Board.  2. Then you try to change a prefix.  3. You can't change it        Change the prefix        The dropdown menu closes without doing anything    <b>Please provide

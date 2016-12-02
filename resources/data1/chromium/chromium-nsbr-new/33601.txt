@@ -1,0 +1,1 @@
+<title>Issue 33601 -   chromium -    Google reader stops working after reading through many entries - Project Hosting on Google Code</title>   1. go to google reader  2. read lots of entries  3. after a while clicking on other elements does nothing...  and clicking J to go to the next element stops working too                <b>Please provide

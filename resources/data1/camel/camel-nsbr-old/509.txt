@@ -1,0 +1,1 @@
+JMX Connector is not closed by InstrumentationAgentImpl.doStop()       

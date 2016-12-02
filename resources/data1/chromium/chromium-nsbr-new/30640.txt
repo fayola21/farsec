@@ -1,0 +1,1 @@
+<title>Issue 30640 -   chromium -    buganizer nearly unusable on Linux Chrome - Project Hosting on Google Code</title>   1. load internal buganizer page  2. search for a query with many bugs listed  3. wait...        The page should be responsive quickly.        The page looks like its loaded but can't be interacted with  no typing    clicking or scrolling.    <b>Please provide

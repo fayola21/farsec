@@ -1,0 +1,1 @@
+<title>Issue 38748 -   chromium -    Odd Shadow Appearing Above Extensions - Project Hosting on Google Code</title>   1. Open Chrome  look about the extensions.      What happens?  A shadow appears out of place.    <b>Please provide

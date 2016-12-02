@@ -1,0 +1,1 @@
+<title>Issue 16674 -   chromium -    tab contents starts small  then grows but fails to repaint - Project Hosting on Google Code</title> <pre> When I load a tab in the background and then focus it  it starts at 480x360    then grows to fill the whole tab. In addition to being slow and janky  it often   doesn't repaint until I resize/scroll the window. </pre>

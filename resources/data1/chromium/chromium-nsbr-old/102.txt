@@ -1,0 +1,1 @@
+<title>Issue 102 -   chromium -    Can't use Ctrl+I  Ctrl+Z  or other text commands in text boxes - Project Hosting on Google Code</title>   1. Click a text box  2. Use text-based keyboard shortcuts                  Please provide

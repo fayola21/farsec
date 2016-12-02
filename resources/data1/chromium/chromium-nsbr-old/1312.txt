@@ -1,0 +1,1 @@
+<title>Issue 1312 -   chromium -    paused video restarts play when switching tabs. - Project Hosting on Google Code</title> <pre> Paused youtube video on one tab. When switching back to another tab  video   continues playing. Does this on any video sites I have tried  not just   youtube. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1173 -   chromium -    letter spacing in html:not hack is causing layout issue in Chrome - Project Hosting on Google Code</title>   1. visit 316networks.com  2. Top menu wraps to 2 lines because of character spacing  which is set to   be narrower in CSS        Menu bar is 1 line      menu bar wraps because character spacing is too high    Please provide

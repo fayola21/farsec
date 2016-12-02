@@ -1,0 +1,1 @@
+<title>Issue 22338 -   chromium -    Context menu item stays visible after it is selected - Project Hosting on Google Code</title>   1. Open Chrome  2. Right-click or open a menu in Chrome  3. Select any item       The menu should disappear entirely.       The selected menu item remains  above any window  in any program.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9509 -   chromium -    Clicking &quot;Show full history&quot; on new tab does nothing - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.171.0 (Official Build 12323)  URLs (if applicable) : chrome-ui://newtab/        1. open new tab  2. click Show full history     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26048 -   chromium -    build problems in libjingle - Project Hosting on Google Code</title>   GYP_DEFINES=target_arch=x64 hammer --mode=Release chrome 2&gt;&amp;1 | tee -a ../../build.log      Generated chrome binary file      Errors occured.  Build log in attachment.    Fix in next attachment.    <b>Please provide

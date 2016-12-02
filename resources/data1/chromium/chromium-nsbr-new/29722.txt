@@ -1,0 +1,1 @@
+<title>Issue 29722 -   chromium -    Chrome Switches to Fullscreen when Maximizing window - Project Hosting on Google Code</title>   1. Maximize Chrome's window by double clicking the title bar (happens all  the time)  click maximize button (happens sometimes)          Chrome should simply maximize      it goes to fullscreen instead      <b>Please provide

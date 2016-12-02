@@ -1,0 +1,1 @@
+<title>Issue 43885 -   chromium -    add histogram for % of pages loaded via HTTP header vs. meta tag invocation  - Project Hosting on Google Code</title> <pre> ChromeFrame version: 5.0.375.41    We should add an UMA histogram to gauge developer usage (by volume) of the  options for triggering GCF to help plan future features and priorities. </pre>

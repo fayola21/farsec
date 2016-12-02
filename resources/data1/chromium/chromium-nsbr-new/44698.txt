@@ -1,0 +1,1 @@
+<title>Issue 44698 -   chromium -    Combo Box f4 trigger - Project Hosting on Google Code</title>   1. go to a page with a combo box  2. tab to the combo box  3. press f4.      The combo should expand like you clicked on the down arrow.      nothing    <b>Please provide

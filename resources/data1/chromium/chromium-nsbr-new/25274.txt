@@ -1,0 +1,1 @@
+<title>Issue 25274 -   chromium -    Allow manual override of blacklist - Project Hosting on Google Code</title> <pre> When an extension is blacklisted  we may want to allow the user to manually  re-enable it (for example  if the developer is taking time to push a fix   and they deem the risk low). </pre>

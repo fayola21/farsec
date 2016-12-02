@@ -1,0 +1,1 @@
+<title>Issue 20112 -   chromium -    Implement RestartWithAuth for NewFTP - Project Hosting on Google Code</title> <pre> Otherwise you must always enter the credentials in the URL.    After this change  a login window will pop up. </pre>

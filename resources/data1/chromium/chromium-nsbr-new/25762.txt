@@ -1,0 +1,1 @@
+<title>Issue 25762 -   chromium -    FATAL:base/message_pump_libevent.cc(151)] Check failed: fd &gt; 0 - Project Hosting on Google Code</title>   1. No internet connection  2. start chrome  3. [31509:31509:42043107447:FATAL:base/message_pump_libevent.cc(151)] Check  failed: fd &gt; 0.            chrome will start            chrome crashes    <b>Please provide

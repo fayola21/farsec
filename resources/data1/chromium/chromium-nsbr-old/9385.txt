@@ -1,0 +1,1 @@
+<title>Issue 9385 -   chromium -    Use &quot;loading&quot; cursor where appropriate - Project Hosting on Google Code</title> <pre> RenderWidgetHostViewGtk::UpdateCursorIfOverSelf()  is used to change the cursor between the normal arrow and the arrow+hourglass   on Windows.  I've seen such a cursor on my Ubuntu box but I'm not exactly   sure how it works. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1148 -   chromium -    Downloads with Unicode filenames not displaying properly - Project Hosting on Google Code</title>   1. Go to any chinese websites with downloads' filenames in Chinese.  2. Apparently  the filename will not be in Unicode.        Filename will remain as unicode.      Non unicode characters appearing.    Please provide

@@ -1,0 +1,1 @@
+camel-jpa - JpaProducer should mandate body instead of creating a new empty instance    If you send an empty body to a JpaProducer it will create a new empty instance of that type which then gets inserted.Camel should thrown an exception indicate a body is missing   

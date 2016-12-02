@@ -1,0 +1,1 @@
+<title>Issue 41937 -   chromium -    Show &quot;http://&quot; on focus in Omnibar - Project Hosting on Google Code</title> <pre> i like the way not showing http://   but maybe  will be better to show http:// when the user focus in omnibar.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29506 -   chromium -    Focus should be given to the newly created node - Project Hosting on Google Code</title> <pre>   1. Navigate to <a href="http://webkit.org/demos/sticky-notes/">http://webkit.org/demos/sticky-notes/</a>  2. Create a new note    What is the expected output?   Focus should be in the note    What do you see instead?  Focus will be lost </pre>

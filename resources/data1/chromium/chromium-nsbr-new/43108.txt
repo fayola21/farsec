@@ -1,0 +1,1 @@
+<title>Issue 43108 -   chromium -    file download from app window goes to a browser window - Project Hosting on Google Code</title> <pre> Use an app window (gmail) and download a file from another extent/origin.    The download panel will open up in your browser window  not the app window    which feels quite odd. </pre>

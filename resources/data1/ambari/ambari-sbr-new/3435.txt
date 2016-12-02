@@ -1,0 +1,1 @@
+YARN cluster should not have shared directories between yarn.nodemanager.local-dirs and yarn.nodemanager.log-dirs       

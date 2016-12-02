@@ -1,0 +1,1 @@
+<title>Issue 34276 -   chromium -    Tamanho da impress��_��_o - Project Hosting on Google Code</title> <pre> No sistema de servi��__os on line para preenchimentos de ART e gera��__��_��_o do   respectivo boleto no site do CREA-SP  quando utilizo o Chrome as   impress��_��_es tanto da ART como do boleto saem min��__sculas.    Atenciosamente    Paula  </pre>

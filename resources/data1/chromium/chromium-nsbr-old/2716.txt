@@ -1,0 +1,1 @@
+<title>Issue 2716 -   chromium -    http://code.google.com/android/ is chopped - Project Hosting on Google Code</title>   1. Go to the URL <a href="http://code.google.com/android">http://code.google.com/android</a>  2. Look at the left hand side of the page        Page should not be chopped.        Page is chopped.    Please provide

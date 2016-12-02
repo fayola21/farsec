@@ -1,0 +1,1 @@
+<title>Issue 25874 -   chromium -    Form autofill is broken - Project Hosting on Google Code</title> <pre> Build: <a href="/p/chromium/source/detail?r=4">r4</a>.0.226.0      The form auto fill is completely broken. It is no more persisting form values.  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7603 -   chromium -    crash on navigation after incorrect about: load - Project Hosting on Google Code</title> <pre>   1. type about:config (or any other about: url that doesn't exist) and hit   enter  2. type another url into the omnibox  3. Browser crash!     </pre>

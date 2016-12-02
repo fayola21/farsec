@@ -1,0 +1,1 @@
+<title>Issue 15465 -   chromium -    It would be cool if the browser will have the ability to block ot filter some annoying tags (ads for instance) - Project Hosting on Google Code</title> <pre> It would be cool if the browser will have the ability to block ot filter some   annoying tags (ads for instance) </pre>

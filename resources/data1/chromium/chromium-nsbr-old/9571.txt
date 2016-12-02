@@ -1,0 +1,1 @@
+<title>Issue 9571 -   chromium -    Change iframe.src does not work - Project Hosting on Google Code</title> <pre>   1. save two attached files on a local disk  2. open constructor.html in Chrome 2.0.171  the iframe should show 'child 1'   text;  3. click 'change'      the iframe should change to 'about:blank'  but it does not       </pre>

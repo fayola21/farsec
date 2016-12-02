@@ -1,0 +1,1 @@
+json data format - Add support for configuring gson options    Seehttp://stackoverflow.com/questions/15686032/apache-camel-gson-formatterWe should make it possible to configure those gson options in the DSL.   

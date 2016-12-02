@@ -1,0 +1,1 @@
+Stale config indicator not shown when reconfiguring WebHCat  Ganglia  Nagios  ZooKeeper    Steps: Create a config group for any of the mentioned services and add a host to the config group. Save the config group.Result:Restart indicators do not appear.   

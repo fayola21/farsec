@@ -1,0 +1,1 @@
+<title>Issue 21662 -   chromium -    Pressing enter too quickly after typing URL does search instead of URL load - Project Hosting on Google Code</title>   1. type a not indexed url          try direct access to the URL first      searchs    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 414 -   chromium -    mouse gest from opera - Project Hosting on Google Code</title> <pre> Hi    Can you please add mouse gests? to open/close or swich the windows in   chrome browser  like in opera.    Thanks    X    </pre>

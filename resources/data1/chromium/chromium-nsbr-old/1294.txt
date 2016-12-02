@@ -1,0 +1,1 @@
+<title>Issue 1294 -   chromium -    Remember me checkbox missing - Project Hosting on Google Code</title>   1. Go to gmail.com. On the login page there is no check box next to   &quot;Remember me on this computer&quot;.          Check box should be visible.      There is no checkbox    Please provide

@@ -1,0 +1,1 @@
+Global properties are not being surfaced on service config page    Post install  Global properties are not being surfaced on service config page.   

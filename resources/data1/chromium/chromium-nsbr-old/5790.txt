@@ -1,0 +1,1 @@
+<title>Issue 5790 -   chromium -    Picture select in joomla does not function - Project Hosting on Google Code</title>   1. Start joomla admin on local server (xampp)  2. edit an article wich contains a picture  3. select the picture by mouse click       --- This selection should open a window for picture settings      ----This selection does not work in Chrome    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12204 -   chromium -    install-build-deps needs to install gcc-multilib on x64 platforms - Project Hosting on Google Code</title> <pre> As in summary.  Also the wiki needs to be updated.  (Filing so I don't   forget.) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 10550 -   chromium -    Chrome unable to open .mht file - Project Hosting on Google Code</title>   1. Save any webpage as .mht file from internet explorer  2. Try to open it using Chrome        It should open the .mht file      Rahter than opening the file  It prompts to save the file    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9478 -   chromium -    if you view the page-source of a unverified https://... site view-source is striked trough - Project Hosting on Google Code</title>   1. Go to such a page  2. (You will see that https:// is striked through)  3. View the source of that page      https:// should be striked through      view-source: is striked through    <b>Please provide

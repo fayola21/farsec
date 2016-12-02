@@ -1,0 +1,1 @@
+<title>Issue 22732 -   chromium -    Drop-down list  - Project Hosting on Google Code</title>   1. Go to a site that has a drop-down box to select a value  2. Click on the value in the list          The value in the selection box changes and the drop-down list disappears.          The selection changes  but the list box doesn't go away.      <b>Please provide

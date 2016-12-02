@@ -1,0 +1,1 @@
+<title>Issue 32726 -   chromium -    rakuten.co.jp:  Table's border is missing. - Project Hosting on Google Code</title>   1.  launch Chrome   2.  go to <a href="http://en.item.rakuten.com/mobilico-shop/200912set_1/">http://en.item.rakuten.com/mobilico-shop/200912set_1/</a>      What is the expected result?What happens instead?  Table's border is missing.      <b>Please provide

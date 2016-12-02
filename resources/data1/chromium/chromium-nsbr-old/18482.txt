@@ -1,0 +1,1 @@
+<title>Issue 18482 -   chromium -    Need a new tab ui test that has a complex theme installed - Project Hosting on Google Code</title> <pre> We have some new tab tests on the buildbot... we should have equivalents that   have a complex theme (e.g. stargazing) installed. </pre>

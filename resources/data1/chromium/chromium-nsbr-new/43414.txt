@@ -1,0 +1,1 @@
+<title>Issue 43414 -   chromium -    Video not playing full screen when you are not in a normal zoom - Project Hosting on Google Code</title>   1. Open facebook  2. ZOOM IN   3. Play a video on facebook  and try to click the fullscreen or try to move   forward in time.                <b>Please provide

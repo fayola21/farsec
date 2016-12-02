@@ -1,0 +1,1 @@
+<title>Issue 17434 -   chromium -    Docked inspector close button. - Project Hosting on Google Code</title> <pre> Docked inspector close button should be moved to the right on Windows  since   it is native position of close button. In version (3.0.193.1) it is on the   left (hello from mac world?). </pre>

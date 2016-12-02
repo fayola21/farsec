@@ -1,0 +1,1 @@
+<title>Issue 369 -   chromium -    Didn't import bookmark rss - Project Hosting on Google Code</title>   1. bookmark a rss in firefox 3  2. then try to import to chrome      rss bookmark should appear in the bookmark folder      rss bookmark didn't appear    Please provide

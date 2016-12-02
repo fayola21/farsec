@@ -1,0 +1,1 @@
+<title>Issue 39087 -   chromium -    No live search in tabbed bookmark manager - Project Hosting on Google Code</title> <pre>   1. Open tabbed bookmark manager  2. Start typing in search box        I expect live search results after every key stroke (cf native mac bookmark manager). Instead  I need   to hit the &quot;Search&quot; button to start the search.   </pre>

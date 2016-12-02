@@ -1,0 +1,1 @@
+<title>Issue 36499 -   chromium -    Server changes for multiple datatype sync - Project Hosting on Google Code</title> <pre> If you requested e.g. Preferences but not Bookmarks  you wouldn't  get the root folder  causing the syncer to get stuck.    Tracking bug for server side issue. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38883 -   chromium -    Highlighting and right-clicking any text with a forward-slash (/) offers 'Go to' instead of Search - Project Hosting on Google Code</title>   1. Highlight some text in a webpage that has a forward slash within the   text  2. Right-click it      The 'Search for' option is shown      The 'Go to' option is shown    <b>Please provide

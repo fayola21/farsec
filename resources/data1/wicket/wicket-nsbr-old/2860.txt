@@ -1,0 +1,1 @@
+Wrong name for swiss Application.properties    A 'Application_ch.properties' was generated due fixing Issue: WICKET-743 but the correct language-extension for German/Swiss is '_de_CH' and not '_ch' (witch stands for Chamorro).Fix: rename 'Application_ch.properties' to 'Application_de_CH.properties'.   

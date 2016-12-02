@@ -1,0 +1,1 @@
+<title>Issue 10806 -   chromium -    Revision number is not showing up on trunk. - Project Hosting on Google Code</title> <pre> Installed latest trunk build (<a href="/p/chromium/source/detail?r=14103">r14103</a>)    The revision number is not showing up in about:version page.    Screenshot attached. </pre>

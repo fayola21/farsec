@@ -1,0 +1,1 @@
+Add unittets for hooks in secured mode.       

@@ -1,0 +1,1 @@
+<title>Issue 10817 -   chromium -    Major performance regression on V8 builder - Project Hosting on Google Code</title> <pre> &quot;I accidentally the whole V8&quot;    Probably a result of the 42609:42671 WebKit merge. </pre>

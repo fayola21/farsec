@@ -1,0 +1,1 @@
+<title>Issue 2320 -   chromium -    Find new homes for code in frame_util.cc - Project Hosting on Google Code</title> <pre> Now that the new frames are in effect  frame_util.cc is effectively   redundant. We should move the two remaining functions:    GetBrowserWindowForHWND  EndSession    somewhere better. Perhaps frame_util should just move to   browser/views/frame. </pre>

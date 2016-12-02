@@ -1,0 +1,1 @@
+<title>Issue 7526 -   chromium -    If I put the chrome in maximized mode by double clicking on the title  the tabs dissapear. See screenshot - Project Hosting on Google Code</title>   1. enable second display  2. put a chrome window in it  3. maximize      Displaying window header normally      Tabs disappear    Please provide

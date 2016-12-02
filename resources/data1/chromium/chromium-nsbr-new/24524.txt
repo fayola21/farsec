@@ -1,0 +1,1 @@
+<title>Issue 24524 -   chromium -    scrollbar transparency over background image - Project Hosting on Google Code</title>   1.background image  2.div with transparency causes scroll bar to artifact  3.the div was a popup div via javascript      a clean looking scrollbar      scrollbar is scramble with many colors    <b>Please provide

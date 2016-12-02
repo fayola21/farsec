@@ -1,0 +1,1 @@
+<title>Issue 1050 -   chromium -    xml document &quot;load&quot; function js - Project Hosting on Google Code</title>             The &quot;load&quot; function must load the xml file in object.      Gives error with &quot;load&quot; function. That there is no support.    Please provide

@@ -1,0 +1,1 @@
+Fix the encoding of the Chinese translations for Wizard component    Reported on the users@ mailing lists: http://markmail.org/message/wbdffw5llrxfjqlq   

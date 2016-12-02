@@ -1,0 +1,1 @@
+<title>Issue 26587 -   chromium -    Pause on exception is broken - Project Hosting on Google Code</title> <pre>   1. Open the attached page.  2. Open devtools.  3. Click 'Test' button    What is the expected output?  Execution is paused inside f();    What do you see instead?  Exception is recorded in console and script execution continues.     </pre>

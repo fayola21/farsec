@@ -1,0 +1,1 @@
+<title>Issue 21039 -   chromium -    need valgrind suppression for mac_utils.mm - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=25380">r25380</a> added 2 static CGColorSpaceRefs in mac_utils.mm  which are scoped   to the app lifetime and leak.  We'll need a Valgrind suppression for them.   </pre>

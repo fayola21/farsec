@@ -1,0 +1,1 @@
+<title>Issue 13474 -   chromium -    Strange window when click on a link with right mouse button. - Project Hosting on Google Code</title>   1. Click on a web page link with right mouse button  2. Or click on the preference button of Google Chrome               See the screenshot. The menu item is not even selectable on the mouse   position.      <b>Please provide

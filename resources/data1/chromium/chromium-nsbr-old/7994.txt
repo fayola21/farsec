@@ -1,0 +1,1 @@
+<title>Issue 7994 -   chromium -    Bookmarks bar doesn't work correctly - Project Hosting on Google Code</title>   1. Press CTRL-B (always show bookmark bar)      Bar displays normally      Bar displayed at blue bar  followed by black bar  no bookmarks    Please provide

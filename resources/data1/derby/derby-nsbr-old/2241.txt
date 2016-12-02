@@ -1,0 +1,1 @@
+compatibilitytest fails after DERBY-2121 change.    Client-server compatibility testing with JVM 1.3 is not relevant on trunk/10.3 following DERBY-2121See e.g. http://dbtg.thresher.com/derby/test/tinderbox_trunk15/jvm1.5/testing/Limited/testSummary-495558.htmlhttp://dbtg.thresher.com/derby/test/trunk15/jvm1.5/testing/Limited/testSummary-495683.html   

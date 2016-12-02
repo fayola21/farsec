@@ -1,0 +1,1 @@
+<title>Issue 29695 -   chromium -    When adding JS sources to DevTools  devtools.{html js} isn't get updated - Project Hosting on Google Code</title> <pre> The problem is that webkit.gyp is actually a part of sources  but the corresponding targets doesn't   depend on it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1738 -   chromium -    Oxford University website rendering error - Project Hosting on Google Code</title>   1. Visit www.ox.ac.uk (oxford university homepage)          Text being legible        Something happens to the text to make it barely legible    Please provide

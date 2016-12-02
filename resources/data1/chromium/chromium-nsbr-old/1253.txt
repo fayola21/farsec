@@ -1,0 +1,1 @@
+<title>Issue 1253 -   chromium -    Yahoo!Finance tech|ticker video has no sound - Project Hosting on Google Code</title>   1. Just go to the URL and the video can play but no sound      Expecting the video can be player w/ sound as FireFox does      No sound  only video    Please provide

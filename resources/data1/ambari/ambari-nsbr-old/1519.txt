@@ -1,0 +1,1 @@
+Ambari Web goes back and forth between frozen and usable state peridocially on a large cluster    The background polling to update the live status of services and host components runs every 6 seconds. When this happens  the whole UI freezes for several seconds periodically.   

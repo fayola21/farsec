@@ -1,0 +1,1 @@
+<title>Issue 5533 -   chromium -    cannot install 1.0.154.37  - Project Hosting on Google Code</title> <pre>   1. Try to run 154.37_chrome_installer from mal's www      Notice that in windows task manager  the exe runs for few sec and then  disappears...         </pre>

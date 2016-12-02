@@ -1,0 +1,1 @@
+Status does not show up for newly added hosts    The problem is that host can have actual status only when service mapper recieve response(could be long latency  about 10 - 12 seconds) with new hostComponents and then status mapper compute them and set status to host.   

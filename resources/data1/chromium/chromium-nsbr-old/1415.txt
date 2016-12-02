@@ -1,0 +1,1 @@
+<title>Issue 1415 -   chromium -    &lt;embed&gt; tag doesn't respect &quot;display:none&quot; - Project Hosting on Google Code</title>   1. Load attached page; red SVG circle should display  2. Click 'Hide'  3. Circle fails to disappear (though layout does get perturbed)                Please provide

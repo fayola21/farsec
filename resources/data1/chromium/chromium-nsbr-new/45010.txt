@@ -1,0 +1,1 @@
+<title>Issue 45010 -   chromium -    hang on www.phoronix.com - Project Hosting on Google Code</title>   1. Open several tabs  2. Go to www.phoronix.com  which never finishes loading because it's   &quot;waiting for 'beacon.videoegg.com'&quot;  3. Other already opened tabs still work.  4. No new tab opened after opening www.phoronix.com works.                    <b>Please provide

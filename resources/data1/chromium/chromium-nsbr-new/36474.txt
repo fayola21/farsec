@@ -1,0 +1,1 @@
+<title>Issue 36474 -   chromium -    Incognito spy is bottom-justified instead centered in maximized OTR window - Project Hosting on Google Code</title> <pre> the spy guy is too high in the tab strip (compare the pixels between the   toolstrip and the spy guy on windows and linux) </pre>

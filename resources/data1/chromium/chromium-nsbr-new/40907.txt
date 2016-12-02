@@ -1,0 +1,1 @@
+<title>Issue 40907 -   chromium -    Default action for cookie exceptions - Project Hosting on Google Code</title> <pre> If &quot;Block sites from setting any data&quot; is set  adding a new exception with Action: &quot;Block&quot; seems pointless. For this case  it would be nice if &quot;Allow&quot;   was the pre-selected choice as this is more likely what the user wants. </pre>

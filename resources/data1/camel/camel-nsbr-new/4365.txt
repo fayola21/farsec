@@ -1,0 +1,1 @@
+Freemarker - Loading template from file system fails    This only affects Camel 2.9.   

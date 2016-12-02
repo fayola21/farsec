@@ -1,0 +1,1 @@
+<title>Issue 2674 -   chromium -    Omnibar displays wrong parenthesis for &quot;arabia.msn.com��_��_��_&quot; - Project Hosting on Google Code</title> <pre> see &lt;b1340927&gt;    [Steps]  Launch Arabic Chrome  Type &quot;arabia.msn.com&quot; in Omnibox and Tab to search ui  mode.     [Result]  Wrong parenthesis in Search Tab. See the attachment.     </pre>

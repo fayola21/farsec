@@ -1,0 +1,1 @@
+<title>Issue 11250 -   chromium -    Bookmark Editor doesn't deal with folders - Project Hosting on Google Code</title> <pre> The currently committed BookmarkEditorGtk class does not contain a TreeView  to allow the user to change the bookmark's parent folder. </pre>

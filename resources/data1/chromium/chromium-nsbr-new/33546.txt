@@ -1,0 +1,1 @@
+<title>Issue 33546 -   chromium -    contacts on facebook not in alphabatical order - Project Hosting on Google Code</title>   1.open friedns profile to view friends  2.friends not arranged in alphabatical order        freinds should be arranged in alphabatical order      some friends are randomly arranged    <b>Please provide

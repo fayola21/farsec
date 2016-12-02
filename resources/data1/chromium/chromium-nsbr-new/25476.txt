@@ -1,0 +1,1 @@
+<title>Issue 25476 -   chromium -    Noticeable delay between playing event and when currentTime starts updating - Project Hosting on Google Code</title> <pre> This is especially apparent in LayoutTests/media/video-played-ranges-1.html    When we fire the playing event  currentTime remains the same value for quite   some time. </pre>

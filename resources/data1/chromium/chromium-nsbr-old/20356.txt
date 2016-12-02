@@ -1,0 +1,1 @@
+<title>Issue 20356 -   chromium -    Need to implement LayoutTestController.alwaysAcceptCookies - Project Hosting on Google Code</title> <pre> This was introduced in <a href="http://trac.webkit.org/changeset/47792">http://trac.webkit.org/changeset/47792</a>.    The lack of this method causes http/tests/xmlhttprequest/cross-origin-  cookie-storage.html to timeout.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4100 -   chromium -    Perf steps no longer showing results on waterfall - Project Hosting on Google Code</title> <pre> With the switch to the new perf-test setup  the perf steps aren't showing  their numerical result summaries on the waterfall columns anymore. </pre>

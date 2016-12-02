@@ -1,0 +1,1 @@
+<title>Issue 95 -   chromium -    Cannot sort columns in Task Manager - Project Hosting on Google Code</title>   1. Start activity monitor  2. Double click any column name (Site  memory cpu etc)        That the columns are sorted correspondly      Nothing    Please provide

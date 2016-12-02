@@ -1,0 +1,1 @@
+<title>Issue 11278 -   chromium -    downloads in progress string change - Project Hosting on Google Code</title> <pre> Not for 2.0.    For 2.1  we should change the string to be different depending on how many   downloads are in progress.     That way  we don't have to say &quot;1 download(s) are in progress&quot; and &quot;these   downloads will be canceled&quot;.   </pre>

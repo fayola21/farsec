@@ -1,0 +1,1 @@
+<title>Issue 39629 -   chromium -    ERR_TOO_MANY_REDIRECTS - Project Hosting on Google Code</title>   1. Introduce the URLs in google chrome  2. Pulse enter key or the button &quot;go to&quot;      Be expected to load the requested page.      I get an error page-loop.    <b>Please provide

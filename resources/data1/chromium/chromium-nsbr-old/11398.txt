@@ -1,0 +1,1 @@
+<title>Issue 11398 -   chromium -    Whlie closing multiple tabs - Project Hosting on Google Code</title>   1.while closing multiple tabs in chrome it should ask if you are actually   closing all tbs or not?                    <b>Please provide

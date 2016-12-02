@@ -1,0 +1,1 @@
+<title>Issue 39557 -   chromium -    Bookmark search issue - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.360.0 (Official Build 42309) dev      1. Open new tabbed bookmark manager  2. Search anything. Okay no problem.  3. Then try to search anything else. It doesn't search. </pre>

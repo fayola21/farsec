@@ -1,0 +1,1 @@
+<title>Issue 42595 -   chromium -    Earth view in Google Maps is extremely slow  - Project Hosting on Google Code</title>   1. Navigate to this above URL and try to scroll..           The navigation should be smooth..       Extremely slow navigation..     <b>Please provide

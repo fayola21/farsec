@@ -1,0 +1,1 @@
+<title>Issue 17932 -   chromium -    Make theme preview infobar title always show most recent theme's title. - Project Hosting on Google Code</title> <pre> As a quick hack for beta  it shows the title of the theme that was installed   first  rather than showing multiple </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39519 -   chromium -    download pdf files instead of displaying it within the browser. - Project Hosting on Google Code</title>   1. open any links to pdf files.          pdf files can be viewed within the browser.      download the pdf files instead of displaying it in the browser.    <b>Please provide

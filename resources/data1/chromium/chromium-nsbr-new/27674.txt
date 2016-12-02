@@ -1,0 +1,1 @@
+<title>Issue 27674 -   chromium -    Notifications(icon  title  text) &quot;simple&quot; API should escape user input - Project Hosting on Google Code</title> <pre> per security review; allowing HTML in the strings raises potential problems  for notifications.  </pre>

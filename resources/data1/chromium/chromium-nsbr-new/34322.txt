@@ -1,0 +1,1 @@
+<title>Issue 34322 -   chromium -    UI Bug - Project Hosting on Google Code</title> <pre> I don`t know what Happened but  when opened another bar in my Chrome  the   browser got all White  and after this I was using a Theme (Skin) developed by   google.    obs: I`m sending you  a print from my screen!    steps    1- I just opened another tab </pre>

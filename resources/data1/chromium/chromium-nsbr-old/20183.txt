@@ -1,0 +1,1 @@
+<title>Issue 20183 -   chromium -    Extension installs should not show up in download page - Project Hosting on Google Code</title> <pre> When you install an extension  the crx file is deleted  but it still shows up   in the chrome://downloads page. It shouldn't. </pre>

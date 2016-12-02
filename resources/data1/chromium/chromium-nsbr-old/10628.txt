@@ -1,0 +1,1 @@
+<title>Issue 10628 -   chromium -    Add &quot;reload all tabs&quot; to the tab context menu - Project Hosting on Google Code</title> <pre> Firefox has &quot;reload all tabs&quot; in the tab context menu. After getting back the   network connection  it may be useful to reload all the open tabs at once.    </pre>

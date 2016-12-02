@@ -1,0 +1,1 @@
+Dynamic Recipient List - Comma is always delimiter even if custom specified    See nabblehttp://www.nabble.com/Dynamic-RecipientList-delimeter-issue-td25917854.html   

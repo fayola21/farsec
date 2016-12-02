@@ -1,0 +1,1 @@
+<title>Issue 37187 -   chromium -    readonly textbox and double click - Project Hosting on Google Code</title>   1. Set textbox to readonly  2. Double click on it  3. It will appears form autofill dropdown  4. Select one of it items and textbox will set selected text                <b>Please provide

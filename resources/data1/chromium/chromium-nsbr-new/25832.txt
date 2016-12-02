@@ -1,0 +1,1 @@
+<title>Issue 25832 -   chromium -    Theme deletion should happen when the undo infobar goes away instead of on browser shutdown - Project Hosting on Google Code</title> <pre> Recently theme deletion was added on browser shutdown.  Tony said he saw it   take 1/4 - 1/2 second  so it would be good to do this earlier instead of on   browser shutdown. </pre>

@@ -1,0 +1,1 @@
+Add relocate resources scripts to the pom file    The relocate resources python script is not a part of the rpm package.   

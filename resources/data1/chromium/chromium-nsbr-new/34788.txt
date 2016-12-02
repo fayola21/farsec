@@ -1,0 +1,1 @@
+<title>Issue 34788 -   chromium -    Video watching security - Project Hosting on Google Code</title> <pre>       When you open a video page using chrome it shows you the exact address   where the video is been launched from  iim talking about video from   private sites   </pre>

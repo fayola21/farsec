@@ -1,0 +1,1 @@
+<title>Issue 11152 -   chromium -    Java failure (http://www.bigcinemas.com/IN/index.asp) - Project Hosting on Google Code</title>   1. visit the website. The java applet on the top of the screen (stock   ticker) does not load and freezes chrome.                  Chrome freezes and asks whether it should stop the java prog.    <b>Please provide

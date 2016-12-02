@@ -1,0 +1,1 @@
+<title>Issue 6443 -   chromium -    switching svn repos in DEPS is broken - Project Hosting on Google Code</title> <pre> Change the svn repo we pull one of the deps from. It used to call svn   switch  but now it throws an error saying that it's from a different   repository.    We'll need this fixed soon so we can pull webkit code from our webkit   mirror. </pre>

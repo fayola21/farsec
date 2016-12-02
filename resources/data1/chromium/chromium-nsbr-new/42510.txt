@@ -1,0 +1,1 @@
+<title>Issue 42510 -   chromium -    Crash when broadband disconnect - Project Hosting on Google Code</title>   1. Just use Chromium  then  2. when the broadband suddenly disconnect   3. Chromium crashes.      Just an error page is shown.      Crashes with the dialog.    <b>Please provide

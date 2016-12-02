@@ -1,0 +1,1 @@
+<title>Issue 38406 -   chromium -    farmville zoom should work - Project Hosting on Google Code</title>   1. go to facebook-farmville  2. turn mouswheel        farm zomms in and out.      nothing.    <b>Please provide

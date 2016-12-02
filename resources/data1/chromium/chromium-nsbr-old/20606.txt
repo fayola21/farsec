@@ -1,0 +1,1 @@
+<title>Issue 20606 -   chromium -    Clear browsing data option is missing from tools - Project Hosting on Google Code</title>   1.When you click on the tool button  the clear browsing option is no longer   there.                    <b>Please provide

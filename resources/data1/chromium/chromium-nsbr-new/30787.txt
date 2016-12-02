@@ -1,0 +1,1 @@
+<title>Issue 30787 -   chromium -    Extension popups on linux have no max bounds - Project Hosting on Google Code</title> <pre>   1.Create an extension popup that is really large.      EXPECTED: The popup is constrained to a max size.  ACTUAL: The popup is really large.   </pre>

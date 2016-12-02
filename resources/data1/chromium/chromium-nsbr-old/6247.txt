@@ -1,0 +1,1 @@
+<title>Issue 6247 -   chromium -    Google Update Improvements - Project Hosting on Google Code</title> <pre> When an update to Google Chrome becomes available  Google Update should   automatically update Google Chrome if the computer is on  or when it   starts. </pre>

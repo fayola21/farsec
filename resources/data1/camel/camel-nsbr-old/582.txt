@@ -1,0 +1,1 @@
+JMX Instrumentation - PerformanceCounter - total processed    William Tam  this one is for you The total processed time is not exposed to as a managed attribute. And it should be changed from double to long.   

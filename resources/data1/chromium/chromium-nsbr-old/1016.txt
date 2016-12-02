@@ -1,0 +1,1 @@
+<title>Issue 1016 -   chromium -    Back button in gmail not working like in FF3 - Project Hosting on Google Code</title>   1. Open an e-mail in gmail.  2. Press the back button.        Getting back to the inbox.      You end up in the previous page before you came to gmail.    Please provide

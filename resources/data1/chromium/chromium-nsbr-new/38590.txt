@@ -1,0 +1,1 @@
+<title>Issue 38590 -   chromium -    Show favicons in bookmark manager - Project Hosting on Google Code</title> <pre> Due to security limitations we are currently not showing the favicons of   bookmarks in the new bookmark manager.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26155 -   chromium -    blocked popup container is not themed - Project Hosting on Google Code</title> <pre> It always look classic (unless you are using the gtk theme  then it looks   gtk-y)    haven't tested on windows. </pre>

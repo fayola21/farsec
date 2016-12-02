@@ -1,0 +1,1 @@
+Uninstall's wipe flag should be correctly passed to puppet       

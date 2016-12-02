@@ -1,0 +1,1 @@
+<title>Issue 24765 -   chromium -    Clear browser data doesn't clear media cache - Project Hosting on Google Code</title> <pre>   1. Selection &quot;Clear browsing data&quot;  2. Check &quot;Cache&quot;  3. clear      Files in the &quot;Media Cache&quot; folder are still there  they should be gone.       </pre>

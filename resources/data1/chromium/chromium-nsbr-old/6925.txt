@@ -1,0 +1,1 @@
+<title>Issue 6925 -   chromium -    Regression: Page crash on loading JavaScript Debugger. - Project Hosting on Google Code</title>   1. Open any URL.  2. Open the JavaScript Debugger.  3. See the page crashing.      The page should not crash.      The page crashes.    Please provide

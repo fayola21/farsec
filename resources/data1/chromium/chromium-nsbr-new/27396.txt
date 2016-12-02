@@ -1,0 +1,1 @@
+<title>Issue 27396 -   chromium -    selects expand white - Project Hosting on Google Code</title>   1. open any &lt;select /&gt;            see the list of options        only a white area is displayed    <b>Please provide

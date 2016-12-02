@@ -1,0 +1,1 @@
+<title>Issue 5031 -   chromium -    Only Tab Bar appears on new windows. - Project Hosting on Google Code</title>   1. Opening a new window via Ctrl+N.  2. Clicking any link that will open a new window.  3. Opening an Incognito window.      To have a new window open with a window present.      A tab bar with no window underneath appears.    Please provide

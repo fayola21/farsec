@@ -1,0 +1,1 @@
+<title>Issue 43886 -   chromium -    Will not install under CentOs 5.4 - Project Hosting on Google Code</title> <pre> Chrome Version       : Google Chrome 5.0.375.38          Firefox 3.5:        1.  Will not install under CentOs 5.4      I'd really  really like to ditch Firefox </pre>

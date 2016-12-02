@@ -1,0 +1,1 @@
+<title>Issue 6619 -   chromium -    ninja + wizard text on fodey.com doesn't work - Project Hosting on Google Code</title>   1. Go to <a href="http://www.fodey.com/generators/animated/ninjatext.asp">http://www.fodey.com/generators/animated/ninjatext.asp</a>      The page loads      The page crashes    Please provide

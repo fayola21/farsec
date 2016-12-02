@@ -1,0 +1,1 @@
+FTP component - add option to specify retry login attempts    When ftp component attempts login it does that once. We should add option to configure how many attempts should be done before giving up.For instance try 3 times with 1 sec apart.   

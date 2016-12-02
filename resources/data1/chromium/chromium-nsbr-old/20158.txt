@@ -1,0 +1,1 @@
+<title>Issue 20158 -   chromium -    Download progress icon shows up even after the download is cancelled. - Project Hosting on Google Code</title> <pre> ToT( r 24120)    -Start downloading a large file and cancel the download.    Notice  the download progress icon shows up in the download shelf  even  after the download is canceled.    Screenshot attached.   </pre>

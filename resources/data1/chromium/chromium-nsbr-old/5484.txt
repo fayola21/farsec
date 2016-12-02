@@ -1,0 +1,1 @@
+<title>Issue 5484 -   chromium -    No Chrome on Solaris or OpenSolaris - Project Hosting on Google Code</title> <pre> Chrome Version       : ALL  Other browsers tested: Opera &amp; Firefox      A version of Chrom for OpenSolaris  preferable available via IPS      There is currently no version of Chrome for Solaris/OpenSolaris and  derivative platforms     </pre>

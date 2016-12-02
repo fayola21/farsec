@@ -1,0 +1,1 @@
+<title>Issue 6402 -   chromium -    Webkit: Unable to resize left window/frame - Project Hosting on Google Code</title>   1. goto url  2. move cursor to try to resize left frame area (in order to see full book   names)  3. cannot resize  unable to grab frame for resize        Resize left frame to allow full Book titles to be viewed.        nothing.    Please provide

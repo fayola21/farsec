@@ -1,0 +1,1 @@
+<title>Issue 27773 -   chromium -    view-source: on a file:///* URL results in an empty page - Project Hosting on Google Code</title>   1. Open any html file on your own computer  2. Press right-mouse-button--&gt; View source  3. See an empty screen      To see the source      No source shown    <b>Please provide

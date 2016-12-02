@@ -1,0 +1,1 @@
+<title>Issue 7190 -   chromium -    blogs.msdn.com isn't displayed correctly  - Project Hosting on Google Code</title>   In the newest release of Chrome <a href="http://blogs.msdn.com">http://blogs.msdn.com</a> doesn't work. In   oldest everything was fine.                 Please provide

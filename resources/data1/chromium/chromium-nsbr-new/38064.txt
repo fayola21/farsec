@@ -1,0 +1,1 @@
+<title>Issue 38064 -   chromium -    FATURE REQUEST: Ability to control the GC from the console - Project Hosting on Google Code</title> <pre> It would be great if I could see heap information as well as be able to force a   GC from console </pre>

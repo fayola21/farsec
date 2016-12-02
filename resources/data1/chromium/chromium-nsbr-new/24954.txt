@@ -1,0 +1,1 @@
+<title>Issue 24954 -   chromium -    Top of title bar and right side of the of window are cropped in maximized mode - Project Hosting on Google Code</title> <pre> ToT(r 29169)    -Maximize browser window.    As shown in the screenshot  the top of the title bar is cropped.    Marking this as DEV Blocker. </pre>

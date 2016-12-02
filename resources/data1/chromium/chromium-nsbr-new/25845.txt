@@ -1,0 +1,1 @@
+<title>Issue 25845 -   chromium -    Remove |removeFromSuperview| calls - Project Hosting on Google Code</title> <pre> Calling |removeFromSuperview| should no longer be required once some   change is in. </pre>

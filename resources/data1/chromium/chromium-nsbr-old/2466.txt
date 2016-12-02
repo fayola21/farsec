@@ -1,0 +1,1 @@
+<title>Issue 2466 -   chromium -    Unittest Importer.IEImporter has disabled parts - Project Hosting on Google Code</title> <pre> On a new machine with XP Sp3 the Importer unit test does not work.    This part of the test was already disabled for Vista.    The call to pstore-&gt;WriteItem returns PST_E_WRONG_PASSWORD.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38094 -   chromium -    Browser Action container should not be present in popups. - Project Hosting on Google Code</title> <pre> Summary says it all. </pre>

@@ -1,0 +1,1 @@
+Installer Wizard step-6: NameNode and SNameNode should not be co-hosted by default on multinode cluster.       

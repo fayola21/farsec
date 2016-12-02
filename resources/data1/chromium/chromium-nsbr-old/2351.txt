@@ -1,0 +1,1 @@
+<title>Issue 2351 -   chromium -    IDNs don't show as Unicode but instead in Punycode in the DNS error screen - Project Hosting on Google Code</title>   1. Open http://��_��___��_��_��_��__�ܕ�_/            The IDN domain suggested should be shown in Unicode.           The domain is shown in Punycode.    Please provide

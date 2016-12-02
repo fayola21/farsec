@@ -1,0 +1,1 @@
+<title>Issue 38801 -   chromium -    Weird Bug (Funny) - Project Hosting on Google Code</title> <pre> ChromeFrame version: 5.0.342.5 unknown          1.drag the left corner if chrome  2.drag it! and create a stick like windows  3.the X close button looks weird!      FIX    Bug </pre>

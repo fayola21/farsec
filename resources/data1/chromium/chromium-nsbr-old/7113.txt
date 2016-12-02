@@ -1,0 +1,1 @@
+<title>Issue 7113 -   chromium -    Google Chrome repainting issue? - Project Hosting on Google Code</title> <pre> Go to system properties in Windows Vista and click adjust for best   performance. Open Google Chrome. Go back to system properties and click   adjust for best appearance. After the transition is complete  Google Chrome    is repainted incorrectly. </pre>

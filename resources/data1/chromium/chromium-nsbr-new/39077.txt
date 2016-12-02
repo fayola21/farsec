@@ -1,0 +1,1 @@
+<title>Issue 39077 -   chromium -    scrollbar search highlighting in chrome view-source for a colorblind user - Project Hosting on Google Code</title>   View source on a big html file  such as news.google.com   Search for a  string  e.g 'all'.  The little orange ticks on the right scrollbar are hard  for me to see.  Screenshot attached.                  <b>Please provide

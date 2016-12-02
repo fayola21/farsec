@@ -1,0 +1,1 @@
+<title>Issue 29281 -   chromium -    Pinned tabs are lost on opening bookmark - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.263.0 (33668)                    1. pin a tab  2. click on a bookmark (bookmarks bar or from 'other bookmarks' menu)      bookmark opens in new tab      bookmark opens in pinned tab  usurping pinned contents.   </pre>

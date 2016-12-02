@@ -1,0 +1,1 @@
+<title>Issue 42464 -   chromium -    italian postemail does not work  - Project Hosting on Google Code</title>   1. go to www.poste.it  2. login  3. click to see the mail box      to see your mail box page      the page keeps loading forever    <b>Please provide

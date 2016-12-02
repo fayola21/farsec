@@ -1,0 +1,1 @@
+<title>Issue 25732 -   chromium -    Scifinder java - Project Hosting on Google Code</title>   1. ability to run structure drawing java applet missing.. no actions to take          launch java applet      n/a    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2216 -   chromium -    Creating new tabs by doubleclicking - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.153.0           Safari 3: FAIL      Firefox 3: OK           IE 7: OK      1. I double click on whitespace after tab.      Creating new tab.      Nothing.   </pre>

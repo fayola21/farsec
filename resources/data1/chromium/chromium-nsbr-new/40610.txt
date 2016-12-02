@@ -1,0 +1,1 @@
+<title>Issue 40610 -   chromium -    Middle click on location icon should open current paste buffer - Project Hosting on Google Code</title> <pre> We now have an icon that represents &quot;the current url&quot;.  We should make pasting into it open the current selection in the current   tab. </pre>

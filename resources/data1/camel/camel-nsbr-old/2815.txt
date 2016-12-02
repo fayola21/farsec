@@ -1,0 +1,1 @@
+camel-castor relies on specific  out of date version of Castor    camel-castor specifies a non-flexible version dependency on Castor 1.2.0. Ideally should be changed to [1.2.0 2.0) to allow later versions of Castor to be deployed. Castor 1.2 was released in Feb 2008  1.3 was first released in Feb 2009   

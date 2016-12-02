@@ -1,0 +1,1 @@
+<title>Issue 34479 -   chromium -    Bookmarks bar lacks spacing before link - Project Hosting on Google Code</title> <pre> See screenshot.  I think we need a little bit more whitespace before the   &quot;Import&quot; link. </pre>

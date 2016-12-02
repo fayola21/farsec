@@ -1,0 +1,1 @@
+<title>Issue 35039 -   chromium -    PasswordStore should send out notifications when passwords are added/updated/removed - Project Hosting on Google Code</title> <pre> In order to sync passwords  the password store should send out notifications   that the password change processor could listen for. </pre>

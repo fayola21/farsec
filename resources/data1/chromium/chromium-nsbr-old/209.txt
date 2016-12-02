@@ -1,0 +1,1 @@
+<title>Issue 209 -   chromium -    Pressing TAB does not move to the next item in the address bar results - Project Hosting on Google Code</title>   1. Begin to type a URL in the address bar.  2. Press TAB after the suggestion list appears.        Move to the next result in the dropdown list      The dropdown list closes and focus moves somewhere indeterminate.    Please provide

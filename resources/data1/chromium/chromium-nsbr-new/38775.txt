@@ -1,0 +1,1 @@
+<title>Issue 38775 -   chromium -    Tabs format reversed! - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.360.0 (42189)      1. Just opening Chromium.          Close X on the right  + sign on the right  new tabs to appear on the right.      The X on the left  + sign on the left  new tabs appear on the left.     </pre>

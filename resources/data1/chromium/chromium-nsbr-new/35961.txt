@@ -1,0 +1,1 @@
+<title>Issue 35961 -   chromium -    Esc does not dismiss the fullscreen overlay - Project Hosting on Google Code</title> <pre> When focus is in the omnibox  pressing Esc does not dismiss the overlay. </pre>

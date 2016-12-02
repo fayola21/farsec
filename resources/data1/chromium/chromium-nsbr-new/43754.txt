@@ -1,0 +1,1 @@
+<title>Issue 43754 -   chromium -    app launcher freaks out when screen is too small - Project Hosting on Google Code</title> <pre> Set your resolution to a size smaller than the overlay launcher (say you're   projecting on a laptop).  Show the overlay.  It freaks out a bit trying to   reposition itself and winds up pointing upwards  completely obscured. </pre>

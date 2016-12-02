@@ -1,0 +1,1 @@
+<title>Issue 34112 -   chromium -    Make all url request coming out of buildbot asynchronous - Project Hosting on Google Code</title> <pre> Currently buildbot is really jerky because it does a lot of synchronous HTTP   POST and HTTP GET. These all need to be made asynchronous. </pre>

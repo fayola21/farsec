@@ -1,0 +1,1 @@
+<title>Issue 461 -   chromium -    Unexpected token ILLEGAL - Project Hosting on Google Code</title>   1. Go to the above URL.            Top right box (with Design No. below) should be cycling through images   using javascript.        Debugger shows Unexpected token ILLEGAL!    Please provide

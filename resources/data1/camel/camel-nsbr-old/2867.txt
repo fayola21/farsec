@@ -1,0 +1,1 @@
+convertBodyTo should handle null bodies    If the body is null and you use convertBodyTo you will get a no type converter exception due body is null. Instead it should accept the null body and continue routing.   

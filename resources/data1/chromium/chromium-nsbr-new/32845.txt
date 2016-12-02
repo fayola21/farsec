@@ -1,0 +1,1 @@
+<title>Issue 32845 -   chromium -    Add support for application tabs to tabstrip - Project Hosting on Google Code</title> <pre> This includes phantom tabs and most likely bigger icons. </pre>

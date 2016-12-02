@@ -1,0 +1,1 @@
+<title>Issue 33974 -   chromium -    Remembered Password Not Being Used - Project Hosting on Google Code</title> <pre> Accessing the internet through our local proxy requires a user name and   password. This is currently saved in Google Chrome. The dialog prompt now   contains blank fields for the user name and password.    Latest dev version. </pre>

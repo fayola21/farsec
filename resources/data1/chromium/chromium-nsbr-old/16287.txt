@@ -1,0 +1,1 @@
+<title>Issue 16287 -   chromium -    NNTP busy hourglass mouse cursor - Project Hosting on Google Code</title>   1. New tab  2. Any URL        New new tab  Normal connect      New tab hangs  Any URL results in 'oh snap'    <b>Please provide

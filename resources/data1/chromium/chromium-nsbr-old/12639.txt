@@ -1,0 +1,1 @@
+<title>Issue 12639 -   chromium -    Address Bar Focus when using Home button - Project Hosting on Google Code</title>   1. Enable Home Button.  2. Browse to a site.  3. Click home and there's no cursor focus.                <b>Please provide

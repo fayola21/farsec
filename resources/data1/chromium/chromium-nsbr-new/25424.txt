@@ -1,0 +1,1 @@
+<title>Issue 25424 -   chromium -    Add extensions menu item to wrench (linux) - Project Hosting on Google Code</title> <pre> There should be an extensions menu item in the wrench that goes to   chrome://extensions/. It should be after Downloads. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18446 -   chromium -    Implement extensions UI on Mac and Linux - Project Hosting on Google Code</title> <pre> We need to add toolstrips and moles to Mac and Linux. </pre>

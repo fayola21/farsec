@@ -1,0 +1,1 @@
+<title>Issue 4717 -   chromium -    Google Update - Project Hosting on Google Code</title> <pre> When Google Chrome is automatically updated/upgraded via GoogleUpdate   users should be notified. </pre>

@@ -1,0 +1,1 @@
+Edit User: No error message is shown when the user does not enter the correct 'old password'    No error message is shown when the user does not enter the correct 'old password' when editing an user.   

@@ -1,0 +1,1 @@
+<title>Issue 42096 -   chromium -    [Flash 10.1 RC2  Core Animation] File attachment link in Gmail doesn't draw - Project Hosting on Google Code</title> <pre> STR:  1) Run with --enable-flash-core-animation  2) Compose a message in Gmail    The Flash instance for the file attachment is just a white square. </pre>

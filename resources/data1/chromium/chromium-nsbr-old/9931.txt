@@ -1,0 +1,1 @@
+<title>Issue 9931 -   chromium -    FRUI Bubble/Bookmarks bubble border is missing - Project Hosting on Google Code</title> <pre> Trunk (<a href="/p/chromium/source/detail?r=13423">r13423</a>).    -Click on start button to bookmark a page.    Notice the bookmarks bubble is missing the window border.    Screenshot attached.   </pre>

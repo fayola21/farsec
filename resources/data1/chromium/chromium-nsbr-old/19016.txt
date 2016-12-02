@@ -1,0 +1,1 @@
+<title>Issue 19016 -   chromium -    Fonts window has no window icon - Project Hosting on Google Code</title> <pre> Chrome Version : 3.0.201.0 (Developer Build 23015)  OS + version : Linux      1. go to fonts &amp; language window      window should have a window icon      no window icon </pre>

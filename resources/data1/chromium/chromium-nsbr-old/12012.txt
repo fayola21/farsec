@@ -1,0 +1,1 @@
+<title>Issue 12012 -   chromium -    SDCH timing stats included some cached data results - Project Hosting on Google Code</title> <pre>   1. Visit a page served in SDCH  2. Enter a new URL  and go there  3. Press the back button      You should see stats for one rendering in SDCH.  Instead  the histogram  will show timing and counts for two SDCH traversals.           </pre>

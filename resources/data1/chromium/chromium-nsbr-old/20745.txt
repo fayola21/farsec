@@ -1,0 +1,1 @@
+<title>Issue 20745 -   chromium -    invisible elements checkbox  radio and arrows on scrollbars - Project Hosting on Google Code</title>   I don't know  this apear absolutly randomly on any webpages      It must display all elements.      All elements (checkboxes  radio-buttons and arrows on scrollbars) is   invisible.    <b>Please provide

@@ -1,0 +1,1 @@
+Background operations: two scrollbars  if width is lower then 1450px    Screenshot attached.   

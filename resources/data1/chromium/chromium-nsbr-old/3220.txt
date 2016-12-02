@@ -1,0 +1,1 @@
+<title>Issue 3220 -   chromium -    view source is showing pretty small - Project Hosting on Google Code</title> <pre> Tested on OS: XP and Vista  Chromium build 2941  v-155.0  Works fine with Chrome v-154.0      1. View Source is showing very small for all the web pages      Should not be too small     </pre>

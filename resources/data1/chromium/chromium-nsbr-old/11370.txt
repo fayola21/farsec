@@ -1,0 +1,1 @@
+<title>Issue 11370 -   chromium -    Saving files add second extension  like *.avi.avi - Project Hosting on Google Code</title> <pre> Chrome Version : 1.0.154.59    Saving movie-files wil add a second (same) extension to the filename.  like: downloadmovie.avi.avi   or  downloadmovie.wmv.wmv     </pre>

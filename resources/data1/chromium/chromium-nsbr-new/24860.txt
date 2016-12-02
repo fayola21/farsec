@@ -1,0 +1,1 @@
+<title>Issue 24860 -   chromium -    Plain text paste doesn't generate paste event - Project Hosting on Google Code</title> <pre>   1. Plain text paste (control + shift + v)    Result: Observe: no paste event is fired  Expected Result: Paste event is fired   </pre>

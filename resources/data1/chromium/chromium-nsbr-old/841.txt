@@ -1,0 +1,1 @@
+<title>Issue 841 -   chromium -    Need '/' keyboard shortcut for initiating search - Project Hosting on Google Code</title>   1. Type '/' to start a search (like in Firefox)      A search starts and next characters type are part of the search      Nothing.    Please provide

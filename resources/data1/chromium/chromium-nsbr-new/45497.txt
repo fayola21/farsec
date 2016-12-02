@@ -1,0 +1,1 @@
+<title>Issue 45497 -   chromium -    abc's go is capable of spawning a netflix popup - Project Hosting on Google Code</title> <pre> chromium 5.0.342.9 (43360)    abc.go.com occasionally will spawn a netflix popup while navigating it. I   have popups denied with no exceptions. </pre>

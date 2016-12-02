@@ -1,0 +1,1 @@
+<title>Issue 28827 -   chromium -    no sound on mac vmware fusion - Project Hosting on Google Code</title>   1. no sound in lala or any other app under macbook vmware fusion virtual machine          sounds works      no sound    <b>Please provide

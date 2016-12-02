@@ -1,0 +1,1 @@
+<title>Issue 22952 -   chromium -    Implement History API for Extensions - Project Hosting on Google Code</title> <pre>   The history API is published here:    <a href="http://dev.chromium.org/developers/design-documents/extensions/history-api">http://dev.chromium.org/developers/design-documents/extensions/history-api</a> </pre>

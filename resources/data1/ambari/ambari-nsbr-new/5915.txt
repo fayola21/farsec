@@ -1,0 +1,1 @@
+View: Files UI clean-up and adjustments (PART 2)    As a part of this ticket 1) Remove rename icon from infront of the file and make it a different column.2) reorder the icon bar in the sequence Download  Move  Rename and Delete   

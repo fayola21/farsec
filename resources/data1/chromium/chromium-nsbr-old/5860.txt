@@ -1,0 +1,1 @@
+<title>Issue 5860 -   chromium -    the vertical scrollbar disappear on a frameset page - Project Hosting on Google Code</title>   1. download the attachment  2. open index.htm  3. click the right2 link      the vertical scrollbar shuld be displayed      the vertical scrollbar disappeared   move mouse on it or scroll mouse wheel  it will display    Please provide

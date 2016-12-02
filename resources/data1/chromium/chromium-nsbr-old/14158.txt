@@ -1,0 +1,1 @@
+<title>Issue 14158 -   chromium -    Add support for accessing switch values to the CommandLine class - Project Hosting on Google Code</title> <pre> We already have a method GetLooseValues() that a vector of loose switches.   I'm proposing that we also add a method GetSwitchValues() that returns a map   of switch value pairs.  </pre>

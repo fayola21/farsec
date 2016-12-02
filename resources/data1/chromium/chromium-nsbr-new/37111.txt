@@ -1,0 +1,1 @@
+<title>Issue 37111 -   chromium -    Dragging tab causes window flicker - Project Hosting on Google Code</title> <pre> When dragging a window by a tab  various things happen behind the scenes to  make the window frame behind the tab translucent. In 5.0.223.0 (and perhaps  earlier) there's some shuddering as things redraw themselves. </pre>

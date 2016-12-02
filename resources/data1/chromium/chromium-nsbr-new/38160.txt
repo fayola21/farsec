@@ -1,0 +1,1 @@
+<title>Issue 38160 -   chromium -    My chat history on facebook disappears if i change page - Project Hosting on Google Code</title>   1.Use facebook  2.Allow someone to talk to you  3.Click on a link within facebook      Chat history remains in the chat box      It disappears    <b>Please provide

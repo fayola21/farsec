@@ -1,0 +1,1 @@
+<title>Issue 9547 -   chromium -    regression: vertical scroll jumps too far! - Project Hosting on Google Code</title>   1. using vertical scroll wheel (MS Wireless Laser Mouse 6000)  the page   scrolls for almost the entire length of the screen with just one step of   the wheel :(          a smaller jump      a huge jump    <b>Please provide

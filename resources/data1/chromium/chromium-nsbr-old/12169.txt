@@ -1,0 +1,1 @@
+<title>Issue 12169 -   chromium -    Chrome lists associative array elements in a different way (compared with FF3/IE8) - Project Hosting on Google Code</title>   1. Just open the specified URL          Another order of options in select box: Third  Second  First.      Chrome lists them as First  Second  Third.    <b>Please provide

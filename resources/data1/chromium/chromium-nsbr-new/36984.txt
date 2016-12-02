@@ -1,0 +1,1 @@
+<title>Issue 36984 -   chromium -    del.icio.us tag view is miniturized  can read it. - Project Hosting on Google Code</title>   1.save a new bookmark  2.view for tag is too small to use        readable view      have a tiny view    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17379 -   chromium -    NNTP needs to obey themes - Project Hosting on Google Code</title> <pre> The blueness needs to use ntp_section_color  and the text probably needs some   similar love. </pre>

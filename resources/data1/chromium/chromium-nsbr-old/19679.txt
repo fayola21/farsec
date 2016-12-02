@@ -1,0 +1,1 @@
+<title>Issue 19679 -   chromium -    Fix up warnings compiling Hunspell project - Project Hosting on Google Code</title> <pre>   1. compiling top of tree (Rev 2682) on the Mac generates 29 warnings in hunspell regarding   assigning const char * to char *   </pre>

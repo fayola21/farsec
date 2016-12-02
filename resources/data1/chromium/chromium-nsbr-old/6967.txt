@@ -1,0 +1,1 @@
+<title>Issue 6967 -   chromium -    Problem with tab names - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.158.0    It is random. Sometimes when I opening page in new tab  UI are faulting -  (added attach).    After 1-2 min that problem is solving outself.    Sorry for my terrible english.    With greetings  Krzysiek </pre>

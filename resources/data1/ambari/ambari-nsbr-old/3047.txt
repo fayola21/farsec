@@ -1,0 +1,1 @@
+Enhance host clean up to handle tmp files and folders    Host cleanup should: remove files and folders in tmp folder based on what users are being cleaned remove default hadoop group   

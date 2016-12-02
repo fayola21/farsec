@@ -1,0 +1,1 @@
+<title>Issue 9362 -   chromium -    textarea width incorrect in chrome - Project Hosting on Google Code</title>   1. Open webpage with textarea with a defined width (e.g. 400px)      textarea width should be 400px      textarea width is 404px    <b>Please provide

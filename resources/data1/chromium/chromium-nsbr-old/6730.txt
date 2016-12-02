@@ -1,0 +1,1 @@
+<title>Issue 6730 -   chromium -    reading mail hotmail - Project Hosting on Google Code</title>   1. logging in  2. klik on  &quot;postvak in&quot;  3. can't open mail                Please provide

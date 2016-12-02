@@ -1,0 +1,1 @@
+SftpEndpoint ignores custom ssh port    SftpEndpoint ignores custom ssh port. It works only if server runs on port 22.   

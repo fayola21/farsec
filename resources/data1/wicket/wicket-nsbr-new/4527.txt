@@ -1,0 +1,1 @@
+Recorder#getSelectedChoices() can be very slow under certain circumstances    In Recorder#getSelectedChoices() the inner for-loop getPalette().getChoices() is called for every iteration. Depending on the efficiency of the implementation of the underlying model this might result in poor performance.   

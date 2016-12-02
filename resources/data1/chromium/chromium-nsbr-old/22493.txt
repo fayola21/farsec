@@ -1,0 +1,1 @@
+<title>Issue 22493 -   chromium -    View-source should auto-indent it's content - Project Hosting on Google Code</title>   1. Go to a site of which the source has indents  2. view-source:THE_SAME_SITE   3. note it looks a 'little' messy...      insert tabs automatically      Just a newline    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36310 -   chromium -    2% Intl2 performance regression from r39327 - Project Hosting on Google Code</title> <pre> Intl2 performance regression from <a href="/p/chromium/source/detail?r=39327">r39327</a>    <a href="http://src.chromium.org/viewvc/chrome?view=rev&amp;revision=39327">http://src.chromium.org/viewvc/chrome?view=rev&amp;revision=39327</a> </pre>

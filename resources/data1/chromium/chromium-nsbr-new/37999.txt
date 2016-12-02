@@ -1,0 +1,1 @@
+<title>Issue 37999 -   chromium -    Extra period in translate bar checkbox - Project Hosting on Google Code</title> <pre> See screenshot. </pre>

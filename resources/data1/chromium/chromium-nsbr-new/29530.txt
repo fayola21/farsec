@@ -1,0 +1,1 @@
+<title>Issue 29530 -   chromium -    is the cursor limited to os only? - Project Hosting on Google Code</title> <pre> Chrome Version       : running on parrallels 5 on a mac.  why is the cursor only limited to the os only.  to get out you must press f10.  Not to sure how   esle to explain.       </pre>

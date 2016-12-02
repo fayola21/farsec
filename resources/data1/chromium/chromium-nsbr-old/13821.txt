@@ -1,0 +1,1 @@
+<title>Issue 13821 -   chromium -    REGRESSION: Home button's backing button image does not have hot or pressed states - Project Hosting on Google Code</title> <pre> Turn on the home button.  Hover it and note that the home icon changes  but   not the button it's on.  Press it and note similar results.    Due to theming... </pre>

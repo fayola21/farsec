@@ -1,0 +1,1 @@
+<title>Issue 14661 -   chromium -    [Mac download shelf] No huge &quot;download started&quot; arrow animation - Project Hosting on Google Code</title> <pre> On windows and linux  a huge downward moving arrow is displayed when a   download starts. We're missing that. </pre>

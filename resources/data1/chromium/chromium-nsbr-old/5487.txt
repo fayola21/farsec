@@ -1,0 +1,1 @@
+<title>Issue 5487 -   chromium -    Send E-Mail from Hotmail - Project Hosting on Google Code</title>   1. The windows where you write your E-Mail is blocked / unavailable                    Please provide

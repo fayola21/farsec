@@ -1,0 +1,1 @@
+<title>Issue 15356 -   chromium -    blue bar below custom frame minimize/restore/close buttons in RTL - Project Hosting on Google Code</title> <pre> Start chrome in RTL mode (LANGUAGE=he ./out/Debug/chrome) and turn on the   custom frame.  A dark blue box shows below the min/restore/close buttons.    See attached screenshot. </pre>

@@ -1,0 +1,1 @@
+stacks2 API uses 'type' to refer to config tags and no longer exposes 'filename' as a property    FE needs to be modified to not to use 'filename' in stacks API to get the config tags. The new property is 'type'.   

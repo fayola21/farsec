@@ -1,0 +1,1 @@
+<title>Issue 6904 -   chromium -    Right clicking on toolbar should show &quot;Task Manager&quot; not &quot;Task manager&quot; - Project Hosting on Google Code</title> <pre> When the task manager comes up  the heading is &quot;Task Manager&quot;.  Also when   you right click on the taskbar in Windows  it also shows &quot;Task Manager&quot;.    We should be consistent. </pre>

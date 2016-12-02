@@ -1,0 +1,1 @@
+<title>Issue 147 -   chromium -    Warn when closing with multiple tabs open - Project Hosting on Google Code</title>   1. Open multiple tabs  2. Close the whole app (top right windows close button)      Ask me if I really want to close all of those tabs (or offer to save them?)      Just closes.    Please provide

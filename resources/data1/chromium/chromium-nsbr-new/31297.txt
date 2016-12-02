@@ -1,0 +1,1 @@
+<title>Issue 31297 -   chromium -    Translate feature - Project Hosting on Google Code</title> <pre> Implement built-in Toolbar-style Translate feature. </pre>

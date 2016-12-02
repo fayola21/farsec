@@ -1,0 +1,1 @@
+<title>Issue 42124 -   chromium -    URL copy problems - Project Hosting on Google Code</title>   1. Select a fragment of the URL from the URL bar and copy it      Copy text selected to copy to the clipboard      Varies depending on how much of the URL is selected    <b>Please provide

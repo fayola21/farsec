@@ -1,0 +1,1 @@
+<title>Issue 15969 -   chromium -    Google toolbar bookmarks - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.53        i expected to see my google bookmarks  before  i always used google   bookmarks so i can access it from any where.    i guess this should be added to your browser </pre>

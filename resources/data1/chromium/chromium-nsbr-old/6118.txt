@@ -1,0 +1,1 @@
+<title>Issue 6118 -   chromium -    Feature Request: Mouse rocker to change tabs - Project Hosting on Google Code</title>   1. Attempt to change the tab with the mouse rocker.  2. Tabs do not change.      The tab should change if you click the rocker left or right.      Nothing.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 947 -   chromium -    Printer Setup missing - Project Hosting on Google Code</title>   1. Print a document.  There is no printer setup possible          I want to be able to get rid of the header and footer and set the margins        There is on printer setup option      Please provide

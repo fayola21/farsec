@@ -1,0 +1,1 @@
+<title>Issue 27748 -   chromium -    Crash on Ok/Cancel of Font and Language Settings - Project Hosting on Google Code</title>   1. Go to Wrench-&gt;Options-&gt;Change font and Language Settings  2. Press Ok or Cancel  3. Crash.      For Chrome to not crash.      Chrome crashes.    <b>Please provide

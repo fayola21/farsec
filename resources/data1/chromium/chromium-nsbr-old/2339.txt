@@ -1,0 +1,1 @@
+<title>Issue 2339 -   chromium -    http://build.chromium.org/buildbot/waterfall/ should use UTC timezone. - Project Hosting on Google Code</title> <pre> That is also the time zone used by viewvc at <a href="http://src.chromium.org/viewvc/">http://src.chromium.org/viewvc/</a>.  PDT is a flaky timezone. :) </pre>

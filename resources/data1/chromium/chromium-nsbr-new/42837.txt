@@ -1,0 +1,1 @@
+<title>Issue 42837 -   chromium -    Work around Flash crash from missing .mozilla - Project Hosting on Google Code</title> <pre>   1. rm -rf ~/.mozilla  2. load flash content over https  3. flash crashes in NSS-related code    I think we should experiment with creating a ~/.mozilla on flash's behalf   and see if that helps. </pre>

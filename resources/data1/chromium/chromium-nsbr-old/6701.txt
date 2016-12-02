@@ -1,0 +1,1 @@
+<title>Issue 6701 -   chromium -    Yahoo mail bug - Project Hosting on Google Code</title>   1. Go to yahoo.com  2. Log in to email   3. Try to write  new email      You should be able to write an email in the available text area.      You cannot even get a cursor     Please provide

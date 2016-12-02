@@ -1,0 +1,1 @@
+<title>Issue 26097 -   chromium -    Get commands that take pointers and assume shared memory. - Project Hosting on Google Code</title> <pre> Part of GL-based command buffers:    *) Get commands that take pointers written that assume shared memory.    Mightt require synchronization. Once one of these commands is written the   rest can probably be auto generated   </pre>

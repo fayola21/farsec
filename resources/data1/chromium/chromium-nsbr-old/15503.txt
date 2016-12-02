@@ -1,0 +1,1 @@
+<title>Issue 15503 -   chromium -    NNTP: Recent Activites drop-down list should be closed  after window is opened. - Project Hosting on Google Code</title> <pre>                    </pre>

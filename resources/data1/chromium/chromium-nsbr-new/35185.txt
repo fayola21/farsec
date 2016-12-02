@@ -1,0 +1,1 @@
+<title>Issue 35185 -   chromium -    HTML5 Audio element broken with ogg vorbis - Project Hosting on Google Code</title>   1. Play an audio element with ogg as source  You can check it on <a href="http://de.wikipedia.org/wiki/Beatles">http://de.wikipedia.org/wiki/Beatles</a>      Plays ogg file      It jumps to the middle of the song and repeats it endlessly    <b>Please provide

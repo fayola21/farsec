@@ -1,0 +1,1 @@
+<title>Issue 7017 -   chromium -    Lock/protect a tab (like in Opera or Firefox's TabMix Plus) - Project Hosting on Google Code</title> <pre> As reported here <a href="http://snipr.com/apm3q">http://snipr.com/apm3q</a> Chrome should have an option to   lock/protect tabs  similar to Opera  to avoid accidental clicks.     </pre>

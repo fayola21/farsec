@@ -1,0 +1,1 @@
+<title>Issue 26972 -   chromium -    Chrome Crashes When Deleting Bookmark Folder - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.11 (Official Build 29903)  I have several &quot;Imported from IE&quot; folders in my bookmarks.  I opened the Bookmark Manager and tried to delete them  Chrome crashed   </pre>

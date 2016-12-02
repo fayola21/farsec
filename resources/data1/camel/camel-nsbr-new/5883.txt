@@ -1,0 +1,1 @@
+File consumer - When using done file name then delete the file when batch is complete    When using doneFileName then the file is deleted on each completion of files in the batch. And you get WARN logs about the done file cannot be deleted  because the 1st already deleted the file.We should defer and only delete the done file on the last in the batch.   

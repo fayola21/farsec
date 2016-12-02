@@ -1,0 +1,1 @@
+<title>Issue 24871 -   chromium -    Mac default UI has black time bar - Project Hosting on Google Code</title> <pre> Load any &lt;video&gt; or &lt;audio&gt; with controls.    The time bar is now black.  Most likely a regression due to refactoring   however the layout test rebaselines were checked in with the incorrect   rendering.    I'll dig into it. </pre>

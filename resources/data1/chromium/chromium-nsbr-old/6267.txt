@@ -1,0 +1,1 @@
+<title>Issue 6267 -   chromium -    Opacity:x and Anti-aliasing - Project Hosting on Google Code</title>   1. View a web page with transparency (CSS opacity:x; property) defined for   some text. (as in example URL above)      Semi-transparent  anti-aliased text.      The text is not anti-aliased.    Please provide

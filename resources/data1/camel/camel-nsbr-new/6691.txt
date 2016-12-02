@@ -1,0 +1,1 @@
+seda - queue size compare should use equals    See nabblehttp://camel.465427.n5.nabble.com/Camel-2-11-1-SedaComponent-issues-with-Queue-size-tp5738258.html   

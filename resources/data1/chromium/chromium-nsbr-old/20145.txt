@@ -1,0 +1,1 @@
+<title>Issue 20145 -   chromium -    Remove ToWStringHack from BrowserThemeProvider - Project Hosting on Google Code</title> <pre> ToWStringHack does not play well with Linux.  Remove it from   BrowserThemeProvider.   </pre>

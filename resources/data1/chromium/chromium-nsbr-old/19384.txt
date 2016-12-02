@@ -1,0 +1,1 @@
+<title>Issue 19384 -   chromium -    Remove BroadcastMessage from PipelineImpl - Project Hosting on Google Code</title> <pre>   1. View media::PipelineImpl::BroadcastMessageTask().  2. Notice the hack to notify the player that audio does not work.  3. Cry.      We should have a more formal way to report such an error to the player. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17757 -   chromium -    CMD+W will not close tab on first use.  - Project Hosting on Google Code</title> <pre> Chrome Version       : Version 3.0.196 (196.0)    OS version               : 10.5.7            1. Open new tab  2. Go to any URL  3. Enter keystroke CMD+W      Tab closes.      Nothing. Though the tab will close the second time CMD+W is pressed. </pre>

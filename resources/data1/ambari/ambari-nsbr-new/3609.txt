@@ -1,0 +1,1 @@
+os_type_check.sh for RHEL is too restrictive (Server vs Workstation)    The /etc/redhat-release on my RHEL6.4 dev box containsRed Hat Enterprise Linux Workstation release 6.4 (Santiago)os_type_check.sh is checking for 'Server' on rhel boxes. It should simply check for Red Hat Enterprise Linux and ignore text up to the version number.   

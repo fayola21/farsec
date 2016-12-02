@@ -1,0 +1,1 @@
+<title>Issue 7747 -   chromium -    Gmail multiple inboxes has no effect - Project Hosting on Google Code</title>   1. Go to gmail  2. Select Settings -&gt; Labs  3. enable multiple inboxes feature        Multiple inboxes appear      Shows one inbox as if nothing happened    Please provide

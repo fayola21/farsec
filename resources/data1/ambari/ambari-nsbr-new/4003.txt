@@ -1,0 +1,1 @@
+Add Service Wizard: Customize Services configs are not displayed.    In 'Customize services' step in 'Add Service Wizard' config group and configs are not displayed. See screenshot.   

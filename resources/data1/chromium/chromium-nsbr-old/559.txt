@@ -1,0 +1,1 @@
+<title>Issue 559 -   chromium -    Cleartype text not rendered correctly with opacity applied - Project Hosting on Google Code</title>   1. Go to <a href="http://www.netvibes.com">http://www.netvibes.com</a>  2. Look the links in the footer of the page        Links are displayed with good font and aspect. Just like in other browsers.        They look ugly ;)    Please provide

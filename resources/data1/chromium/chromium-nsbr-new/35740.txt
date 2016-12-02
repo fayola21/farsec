@@ -1,0 +1,1 @@
+<title>Issue 35740 -   chromium -    Closing Chrome - Project Hosting on Google Code</title>   1. When i'm closing a tab  chrome closes  probably this is not a bug but is   very irritating.Other browsers do not do this!!          When i close the tab it would be much better to go to New Tab page instead   of closing Chrome.      Google Chrome closes.    <b>Please provide

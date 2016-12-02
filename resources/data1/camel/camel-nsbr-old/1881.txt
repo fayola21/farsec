@@ -1,0 +1,1 @@
+camel-irc consumer only listens to messages on a channel and ignores direct messages    While camel-irc listens to events on a channel very nicely  if you send a camel-irc consumer a message directly it ignores it.   

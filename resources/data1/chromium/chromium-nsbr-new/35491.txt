@@ -1,0 +1,1 @@
+<title>Issue 35491 -   chromium -    No horizontal or vertical scroll arrows in window - Project Hosting on Google Code</title>   1. Open any website with a large space that would require scrolling.              I expect to see arrows at the top and bottom of the scroll area to navigate   websites.        No arrows.    <b>Please provide

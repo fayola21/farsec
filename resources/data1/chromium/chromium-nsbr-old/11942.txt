@@ -1,0 +1,1 @@
+<title>Issue 11942 -   chromium -    Bookmark bar show statuts - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.181.0 (Developer Build 16044)  URLs (if applicable) : None      1. Show the bookmark bar  2. Click on 'Customize and control chromium'   3. Click again      Normally  nothing.      The bookmark bar appear and disappear   </pre>

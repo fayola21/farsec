@@ -1,0 +1,1 @@
+<title>Issue 44083 -   chromium -    Restrict CookieMonster to IO thread - Project Hosting on Google Code</title> <pre> CookieMonster is (hopefully) thread safe since it is accessed by multiple   threads. However  all the performance critical code is already done on the   IO thread  so it probably makes sense to restrict all access to the IO   thread.      </pre>

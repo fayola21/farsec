@@ -1,0 +1,1 @@
+<title>Issue 143 -   chromium -    Handle color profiles in tagged images - Project Hosting on Google Code</title>   1. open the attached jpg in the browser          The right order starting from 12 o'clock position and in clockwise   direction is red  yellow  green  cyan  blue and purple.      It shows blue  purple  red  yellow  green  cyan.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11263 -   chromium -    Need to unfork Frame.cpp - Project Hosting on Google Code</title> <pre> There is a single ifdef in there that stops ScriptController::clearWindowShell from being called.  If   this is remove there is a crash when navigating to a new page (or even change the new tab page to a   new page).       </pre>

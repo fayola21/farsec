@@ -1,0 +1,1 @@
+<title>Issue 12408 -   chromium -    Cannot edit Gmail web addresses when using Chrome - Project Hosting on Google Code</title>   1.Open Gmail  2.Click &quot;Compose Message&quot;  3.Click &quot;Edit Link&quot;      Should be able to set cursor in &quot;edit web address field&quot;      Cannot set cursor in &quot;edit web address field&quot;    <b>Please provide

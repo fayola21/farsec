@@ -1,0 +1,1 @@
+<title>Issue 15566 -   chromium -    Wrong Event targetting inside &lt;label&gt; and &lt;li&gt; - Project Hosting on Google Code</title>   1. Clicking the text input button button      event is properly targeted to text field      button gets the event - and submits.    <b>Please provide

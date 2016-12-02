@@ -1,0 +1,1 @@
+<title>Issue 34843 -   chromium -    No option for new translation function - Project Hosting on Google Code</title>   1. Try any web that will make translation bar appear.  2. Select &quot;Never...&quot; things from option.        There should some options can bring this back.      Never see it again.    <b>Please provide

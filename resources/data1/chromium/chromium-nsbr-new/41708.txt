@@ -1,0 +1,1 @@
+<title>Issue 41708 -   chromium -    buttons on sync setup dialog are mis-positioned / sized - Project Hosting on Google Code</title> <pre> see size and position of 'Sign in' 'Customize sync...' and 'Cancel' buttons   on old and new versions (attached).    If we could get this in for M5  it would go a long way to make it look more   polished. </pre>

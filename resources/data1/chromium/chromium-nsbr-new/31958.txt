@@ -1,0 +1,1 @@
+<title>Issue 31958 -   chromium -    Ctrl+A selects all in Chrome Mac - Project Hosting on Google Code</title>   1. Go to a webpage (eg www.digg.com)  2. Press Ctrl+A      Nothing should happen. On Macs  Cmd+A is the select all shortcut.      The whole page is selected    <b>Please provide

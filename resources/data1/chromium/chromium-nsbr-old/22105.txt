@@ -1,0 +1,1 @@
+<title>Issue 22105 -   chromium -    add link hinting like in vimperator or uzbl - Project Hosting on Google Code</title>   1. see the help for such a feature          pressing f/F adds numbers to the links  press the numbers -&gt; enter the link      nothing    <b>Please provide

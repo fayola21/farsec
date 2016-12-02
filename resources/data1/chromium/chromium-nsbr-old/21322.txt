@@ -1,0 +1,1 @@
+<title>Issue 21322 -   chromium -    media_bench fails on m4a/mp4 - Project Hosting on Google Code</title> <pre> new media bench files on m4a files.  Causes exceptions and failures.  Main problem appears to be file io.  Some files causes crashes for unknown reason.   </pre>

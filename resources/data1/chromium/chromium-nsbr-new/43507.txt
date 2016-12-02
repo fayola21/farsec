@@ -1,0 +1,1 @@
+<title>Issue 43507 -   chromium -    Title text disappears quickly - Project Hosting on Google Code</title>   1. Hover over comic/image  then move mouse off image  2. Hover over image again  3. Title text appears quickly  then disappears      Title text lasts for at least a few seconds      Title text appears quickly  then disappears    <b>Please provide

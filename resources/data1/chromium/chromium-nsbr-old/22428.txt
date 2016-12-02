@@ -1,0 +1,1 @@
+<title>Issue 22428 -   chromium -    Bookmark sync stopped working in 4.0.211.4 - Project Hosting on Google Code</title>   1. Start Chrome with --enable-sync parameter  2. Open New Tab  3. Click on &quot;Start now&quot; link to setup bookmark sync      Bookmark sync popup is displayed.      Nothing    <b>Please provide

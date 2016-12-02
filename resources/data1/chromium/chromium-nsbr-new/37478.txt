@@ -1,0 +1,1 @@
+<title>Issue 37478 -   chromium -    i can't read malayalam in www.manoramaonline.com - Google Chrome - Project Hosting on Google Code</title> <pre> [malayalam]        [windows XP]           </pre>

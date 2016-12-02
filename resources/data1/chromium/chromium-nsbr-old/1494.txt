@@ -1,0 +1,1 @@
+<title>Issue 1494 -   chromium -    v8.xcodeproj not checked in - Project Hosting on Google Code</title> <pre> Build for Mac failing for me as I don't have the file src/v8/vb.xcodeproj Could someone please   check this file in? </pre>

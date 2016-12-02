@@ -1,0 +1,1 @@
+<title>Issue 42864 -   chromium -    Opening a panel crashes on maxc - Project Hosting on Google Code</title> <pre> From the new tabs page  click on the gmail app  set to open in a panel.    Kaboom.    Browser tests BrowserAppRefocusTest.* hit this  and have been disabled on   mac. </pre>

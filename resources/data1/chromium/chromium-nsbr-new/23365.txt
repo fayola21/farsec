@@ -1,0 +1,1 @@
+<title>Issue 23365 -   chromium -    Create a diagnostic mode - Project Hosting on Google Code</title> <pre> Create a mode the user can enter to get additional diagnostic information. Information to display can   include:  - relevant crash dump  - loaded dll's  - network activity </pre>

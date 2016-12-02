@@ -1,0 +1,1 @@
+<title>Issue 13864 -   chromium -    fails to start from desktop shortcut - Project Hosting on Google Code</title>   starting chrome from either a windows shortcut or the quicklaunch toolbar      should start chrome      it can take 4 or 5 attempts before chrome will start    <b>Please provide

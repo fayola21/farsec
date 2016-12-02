@@ -1,0 +1,1 @@
+<title>Issue 18430 -   chromium -    Theme info bar should offer to go back to previous theme  not default theme - Project Hosting on Google Code</title> <pre> Usually people will want to go back to the theme they had before. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5424 -   chromium -    WebContents should not have a direct link to the Find Bar - Project Hosting on Google Code</title> <pre> Find Bar should be owned and managed by the BrowserView  since it's UI   related. See <a href="http://dev.chromium.org/developers/design-documents/find-bar">http://dev.chromium.org/developers/design-documents/find-bar</a> </pre>

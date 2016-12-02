@@ -1,0 +1,1 @@
+<title>Issue 31282 -   chromium -    Add to Dictionary missing on Windows - Project Hosting on Google Code</title> <pre> 4.0.266.0    Sometime in the last couple of months the Add to Dictionary option for   misspelled words disappeared on Windows Chrome. It still appears to be there   on Mac.   </pre>

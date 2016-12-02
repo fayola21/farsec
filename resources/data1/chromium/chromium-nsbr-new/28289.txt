@@ -1,0 +1,1 @@
+<title>Issue 28289 -   chromium -    Allow building without ffmpeg - Project Hosting on Google Code</title> <pre> Fedora won't use ffmpeg  for legal reasons.  We should provide a gyp flag to   build without ffmpeg. </pre>

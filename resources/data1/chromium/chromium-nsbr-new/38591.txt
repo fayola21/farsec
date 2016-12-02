@@ -1,0 +1,1 @@
+<title>Issue 38591 -   chromium -    Wrong drag and drop cursor in bookmark manager - Project Hosting on Google Code</title> <pre> We should show the &quot;move&quot; DnD cursor when moving items using DnD </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44940 -   chromium -    Inspector crash when trying to expand a huge element created using javascript - Project Hosting on Google Code</title> <pre>   1. Load the attached testcase  2. Open inspector and expand &lt;p&gt;    Inspector crashes after a while.    This is happening with 375.55 and 6.0.413.0 (Official Build 47978)     </pre>

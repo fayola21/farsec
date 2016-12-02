@@ -1,0 +1,1 @@
+<title>Issue 38492 -   chromium -    Strange Mark on Toolbar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.357.0 (41912)                  Had a strange mark on the toolbar extension area for some time now. Tried   uninstalling  creating a new profile. Still there.  </pre>

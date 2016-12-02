@@ -1,0 +1,1 @@
+<title>Issue 34294 -   chromium -    Does not render check boxes or radio buttons - Project Hosting on Google Code</title>   1.  Google chrome suddenly does not render check boxes and radio buttons at   all.                    <b>Please provide

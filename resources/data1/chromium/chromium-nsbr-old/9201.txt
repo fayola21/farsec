@@ -1,0 +1,1 @@
+<title>Issue 9201 -   chromium -    autofill font - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.171.0 (12281)  URLs (if applicable) : NA  Other browsers tested: NA    Why does it seem that the autofill font is a bit &quot;weird&quot;? Is that font   different that the others used in Chrome? </pre>

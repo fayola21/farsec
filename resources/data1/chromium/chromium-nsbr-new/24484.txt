@@ -1,0 +1,1 @@
+<title>Issue 24484 -   chromium -    Bookmarks bar not drawing correctly with default theme - Project Hosting on Google Code</title> <pre>   1. Create new window  2. Show bookmarks bar  3. Resize window      See attached image    Only tested on Snow Leopard so far.   </pre>

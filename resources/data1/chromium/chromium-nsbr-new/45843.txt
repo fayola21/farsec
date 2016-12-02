@@ -1,0 +1,1 @@
+<title>Issue 45843 -   chromium -    Wrench menu showing non-displayable characters in WinXP - Project Hosting on Google Code</title>   1. Open Wrench menu in Chrome 6.0.422.0 in Windows XP SP3      Wrench menu displays menu items with keyboard shortcuts      Keyboard shortcuts all have non-displayable characters in front of them.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15069 -   chromium -    Printing Tiny - Project Hosting on Google Code</title>   1. Printing Webpages.  2. Printing Gmail e-mails.  3. Prining Anything From Google Chrome Browser.      Printing As Normal Just Like IE7.      Tiny Printing On Fast  Slightly Bigger On Fast/Normal  Bigger Again On   Normal and so on.    <b>Please provide

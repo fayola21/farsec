@@ -1,0 +1,1 @@
+CheckGroup model in AjaxFormChoiceComponentUpdatingBehavior onUpdate contains only last checked item    CheckGroup model in AjaxFormChoiceComponentUpdatingBehavior onUpdate contains only last checked item.P.S. A model in Form onSubmit contains all selected items.   

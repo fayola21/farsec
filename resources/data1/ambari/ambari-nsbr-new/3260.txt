@@ -1,0 +1,1 @@
+Fix text for custom JCE policy setup    Current text:-c JCE_POLICY  --jce-policy=JCE_POLICY Use specified jce_policy. Must be valid on all hostsThis is required only on ambari-server  the agents will download from the server.   

@@ -1,0 +1,1 @@
+<title>Issue 1330 -   chromium -    &lt;embed&gt; tags with midi don't function - Project Hosting on Google Code</title>   1. Load URL above      Midi file plays  and controls are displayed at the top of the page.      Blank white area at the top of the page  and no sound is played.    Please provide

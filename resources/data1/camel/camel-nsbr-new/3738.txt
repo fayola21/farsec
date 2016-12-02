@@ -1,0 +1,1 @@
+Let log  log eip and mock producer be async processor    We should prefer to use the async processor for the Camel EIPs and components when possible. This avoids the tiny overhead of having a sync to async adapter (implemented using a converter).   

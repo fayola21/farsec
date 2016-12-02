@@ -1,0 +1,1 @@
+Simplify StringBuffer use  as they are mutable    code cleanup where code reasssigns StringBuffers for no reason. remove for easier code reading.   

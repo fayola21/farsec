@@ -1,0 +1,1 @@
+<title>Issue 11653 -   chromium -    Cursor in Omnibox no longer flashes on tot - Project Hosting on Google Code</title> <pre> This is with --enable-omnibox2.    Ben  I'm passing your way as you recently changed the omnibox code. </pre>

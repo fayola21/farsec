@@ -1,0 +1,1 @@
+<title>Issue 39604 -   chromium -    5.0.360.0 crash in Lucid Lynx - Project Hosting on Google Code</title>   1.Did the last update in Lucid and Chrome.  2.Try to launch Chrome  3.It crashes 7 seconds after been launched  just like it was closed.                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26914 -   chromium -    Allow grouping tabs - Project Hosting on Google Code</title> <pre> Chrome Version       : 4 feature  I think about feature - grouped pages:   ____________   ____________  /   Group 1  |/    Group2     _____  _____ | _____  _____  /Page1/PageN|/Page1/PageN     </pre>

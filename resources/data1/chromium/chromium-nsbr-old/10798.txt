@@ -1,0 +1,1 @@
+<title>Issue 10798 -   chromium -    Right-mouse-menu of an image: search google for '' - Project Hosting on Google Code</title>   1. put your mouse on the image and press the right mouse button  2. The menu that appears contains &quot;Search Google for ''&quot;       To not see this menu-item      You see it    <b>Please provide

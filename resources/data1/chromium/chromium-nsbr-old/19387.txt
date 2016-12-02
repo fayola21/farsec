@@ -1,0 +1,1 @@
+<title>Issue 19387 -   chromium -    Add more words to dictionaries - Project Hosting on Google Code</title> <pre> We are looking for more words to add to the dictionaries. We need a lot of   words to make a new version of the dictionaries.  I started an issue with the word &quot;Gmail&quot;  but we need more words like that.       </pre>

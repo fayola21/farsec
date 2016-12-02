@@ -1,0 +1,1 @@
+<title>Issue 14915 -   chromium -    Fix new tab animation - Project Hosting on Google Code</title> <pre> ben sez: &quot;when pressing the new tab button  the created tab shouldn't  slowly appear from somewhere else (it should feel like the button splits  into a new tab and a new tab button  which slides across).&quot; </pre>

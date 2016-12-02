@@ -1,0 +1,1 @@
+<title>Issue 18230 -   chromium -    google toolbar not available!! - Project Hosting on Google Code</title>   1.downloading google toolbar  2.installing google toolbar  3.run it (but it is not available in google chrome??WHY??)      result is to have google toolbar and use it in chrome.      no google toolbar seen    <b>Please provide

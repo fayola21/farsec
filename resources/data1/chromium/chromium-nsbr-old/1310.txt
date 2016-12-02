@@ -1,0 +1,1 @@
+<title>Issue 1310 -   chromium -    using of destroyed string [has patch] - Project Hosting on Google Code</title>   1. Checkout the latest trunk; build it; run it...          Browser should start ;-)      Broswer crashes....    Please provide

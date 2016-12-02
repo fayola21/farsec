@@ -1,0 +1,1 @@
+<title>Issue 19966 -   chromium -    http://www.w3schools.com/smil/tryit.asp?filename=trysmil_duration - Project Hosting on Google Code</title>   1. <a href="http://www.w3schools.com/smil/tryit.asp?filename=trysmil_duration">http://www.w3schools.com/smil/tryit.asp?filename=trysmil_duration</a>      image should disappear      image stays still.    <b>Please provide

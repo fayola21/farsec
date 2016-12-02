@@ -1,0 +1,1 @@
+<title>Issue 45546 -   chromium -    Content Settings dialog should have a list of categories on the left instead of tabs at the top - Project Hosting on Google Code</title> <pre> Content Settings dialog should have a list of categories on the left instead of tabs at the top </pre>

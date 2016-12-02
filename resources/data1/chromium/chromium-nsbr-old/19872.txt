@@ -1,0 +1,1 @@
+<title>Issue 19872 -   chromium -    popup menus should respect padding on option menus - Project Hosting on Google Code</title> <pre> b/1210481    popup menus should respect padding on option menus.  Firefox does this. IE does not. We should.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11605 -   chromium -    Upgrading to Ubuntu 9.04 disables the Google repository  preventing autoupdates - Project Hosting on Google Code</title> <pre> The Ubuntu 9.04 upgrade procedure comments out the  Google repository.  We need to sense this and re-enable it.  We're talking with Canonical about the recommended way to do this.   </pre>

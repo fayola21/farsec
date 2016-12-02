@@ -1,0 +1,1 @@
+Widen type-constraint on TextTemplate.interpolate(Map variables)    The parametrization of interpolate method of TextTemplate and implementors should imho be opened toMap&lt;String ?&gt; in order to be able to use it with Map&lt;String String&gt; or any other value-type.The current parametrization makes it quite clumsy to use.   

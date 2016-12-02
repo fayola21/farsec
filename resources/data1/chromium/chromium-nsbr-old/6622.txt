@@ -1,0 +1,1 @@
+<title>Issue 6622 -   chromium -    Regression: canvas graphics artifacts - Project Hosting on Google Code</title>   1. Open URL specified      Math sinc(x)*sinc(y) surface appear  filled and smooth.      Almost correct  but with some artefact lines. It used to be fine in crome   of few versions back.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 25861 -   chromium -    French translation for Mac Chrome - Project Hosting on Google Code</title> <pre>   FR      4.0.223.11      MacOS X 10.5.8      Most of the top menu  but it's just an example: there is lots more </pre>

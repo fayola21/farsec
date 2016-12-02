@@ -1,0 +1,1 @@
+<title>Issue 33851 -   chromium -    Java applet crashes - Project Hosting on Google Code</title>   1. Launch Chrome  2. Load <a href="http://minecraft.net/play.jsp">http://minecraft.net/play.jsp</a>        The applet should load instead of crashing.        The applet crashes.    <b>Please provide

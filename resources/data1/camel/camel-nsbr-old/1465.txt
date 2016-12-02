@@ -1,0 +1,1 @@
+Added a Spring configuration in the camel-example-reportincident    We should provide the Spring configuration which equals to the Java DSL route rule in camel-example-reportincident  as some user prefer to use Spring.   

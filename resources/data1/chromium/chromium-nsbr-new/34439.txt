@@ -1,0 +1,1 @@
+<title>Issue 34439 -   chromium -    Flash pop ups button lock - Project Hosting on Google Code</title>   1.Enter to the asigned page (www.peru.com)  2.Wait for the pop up or ad and close it  3.The buttons I use to scroll between different news doesnt work anymore        Switch between diferent news        Buttons doesnt work  I cant see the diferent news    <b>Please provide

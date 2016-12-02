@@ -1,0 +1,1 @@
+<title>Issue 23261 -   chromium -    Add the ability for main menu to resize - Project Hosting on Google Code</title> <pre> Invoking resizeTo in the page should trigger resizing the menu.   </pre>

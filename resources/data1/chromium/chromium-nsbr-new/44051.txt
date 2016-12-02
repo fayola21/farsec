@@ -1,0 +1,1 @@
+<title>Issue 44051 -   chromium -    CRASH- Tab crashes when selecting gadget in Google Wave - Project Hosting on Google Code</title>   1. Create a new wave  2. Add a Gadget  and stay in edit mode  3. Select the gadget      Browser tab does not crash      Browser tab crashed with Aw Snap!    <b>Please provide

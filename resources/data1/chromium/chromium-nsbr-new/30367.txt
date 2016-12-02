@@ -1,0 +1,1 @@
+<title>Issue 30367 -   chromium -    NTPHasThumbnails and UpdateUserPrefsVersion in NewTabUITests are failing on valgrind/mac - Project Hosting on Google Code</title> <pre> The following two tests are excluded from valgrind/mac/ui tests as they're   failing. Please see the attached log file for details. </pre>

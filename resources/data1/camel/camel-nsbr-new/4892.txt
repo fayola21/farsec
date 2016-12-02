@@ -1,0 +1,1 @@
+CamelContext autoStartup=false and starting context programmatically doesnt work    If a &lt;camelContext&gt; is set to autoStartup=false and then later tried to start it via code or JMX doesn't start routes associated with it.   

@@ -1,0 +1,1 @@
+<title>Issue 35688 -   chromium -    Chromium crashes hard on newegg.com checkout - Project Hosting on Google Code</title>   1. Go to newegg.com and add some items to your cart  2. Go to your cart  3. Click checkout  4. Login when asked      The checkout page loads      Chromium crashes hard (the whole window  bringing down all other tabs)    <b>Please provide

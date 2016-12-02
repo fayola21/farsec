@@ -1,0 +1,1 @@
+<title>Issue 11487 -   chromium -    Alignment issues with Clear Browsing Data dialog. - Project Hosting on Google Code</title> <pre> OS: ENG XP/SP3.    Build: ToT  2.0.172.18    -Bring up Clear Browsing data dialog.    See the attached screenshot  how the buttons are misaligned at the bottom  of the dialog  almost touching the dropdown box.       </pre>

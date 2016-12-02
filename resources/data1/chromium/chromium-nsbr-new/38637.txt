@@ -1,0 +1,1 @@
+<title>Issue 38637 -   chromium -    Too much horizontal spacing in between bookmarks (inside the drop down) - Project Hosting on Google Code</title> <pre> Too much horizontal spacing in between bookmarks (inside the drop down).    Reduce spacing  so there's no inactive spacing in between bookmarks.   </pre>

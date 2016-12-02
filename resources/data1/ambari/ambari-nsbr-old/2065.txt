@@ -1,0 +1,1 @@
+Hadoop group customization does not take affect    To customize the hadoop group  when it was changed from 'hadoop' to 'hadoopgroup'  it didn't look like it worked.root@ip-10-85-135-237 hdfsuser# id hdfsuid=495(hdfs) gid=494(hdfs) groups=494(hdfs) 495(hadoop)And looking at the /etc/group filepuppet:x:497:hadoopgroup:x:500:rrdcached:x:496:apache:x:48:hadoop:x:495:mapred hdfs   

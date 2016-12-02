@@ -1,0 +1,1 @@
+<title>Issue 35780 -   chromium -    chromium crashes while accessing google voice - Project Hosting on Google Code</title>   1. just go to the site...           access the google voice page      I think it tried to log me in automatically but it crashes right there   (note I am using roboform 7 with chromium)    <b>Please provide

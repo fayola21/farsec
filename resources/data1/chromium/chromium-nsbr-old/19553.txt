@@ -1,0 +1,1 @@
+<title>Issue 19553 -   chromium -    Implement UI automation API for extensions - Project Hosting on Google Code</title> <pre> Implement ability to access parts of UI through extensions </pre>

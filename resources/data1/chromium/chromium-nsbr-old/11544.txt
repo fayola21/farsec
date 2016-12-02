@@ -1,0 +1,1 @@
+<title>Issue 11544 -   chromium -    REGRESSION: tab flashes white during page resize - Project Hosting on Google Code</title> <pre> REGRESSION: tab flashes white during page resize    Observed in 2.0.178.0 (Developer Build 15408) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15365 -   chromium -    Accesskeys no longer work - Project Hosting on Google Code</title>   1. Any version (Unsure when this stopped working)  2. Visit any website that uses the accesskey parameter on an &lt;a&gt; tag  3. Alt+key sequence no longer works to open link (example  Alt+a for   accesskey=&quot;a&quot;)                <b>Please provide

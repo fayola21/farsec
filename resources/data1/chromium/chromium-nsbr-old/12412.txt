@@ -1,0 +1,1 @@
+<title>Issue 12412 -   chromium -    Chrome navite ListView/EditFields are not painted well. - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=16607">r16607</a>)    -Bring up Chrome Options/Basic tab    Native listview/text edit fields are not painted well.    See the attached document. </pre>

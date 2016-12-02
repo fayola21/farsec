@@ -1,0 +1,1 @@
+<title>Issue 3622 -   chromium -    Home Page problem - Project Hosting on Google Code</title> <pre> When I open new tab in current window or i open a new window  instead of   home page (which is www.google.com) i got coded page. See picture in   attachment.      Please provide any additional information below. Attach a screenshot if   possible.     </pre>

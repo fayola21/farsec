@@ -1,0 +1,1 @@
+DateTextField is too session-heavy    org.apache.wicket.extensions.markup.html.form.DateTextField seems too heavy for http session - it holds SimpleDateFormat instance which in turn holds DateFormatSymbols instance which in turn has several arrays inside.   

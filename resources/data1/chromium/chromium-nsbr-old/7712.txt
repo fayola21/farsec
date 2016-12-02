@@ -1,0 +1,1 @@
+<title>Issue 7712 -   chromium -    Make FileStream use IOBuffer - Project Hosting on Google Code</title> <pre> net::FileStream interface should be updated so that it uses IOBuffer   instead of char* as the buffer for io operations. </pre>

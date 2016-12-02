@@ -1,0 +1,1 @@
+<title>Issue 2751 -   chromium -    REGRESSION: Renderer hang monitor only gives me the option to wait - Project Hosting on Google Code</title> <pre>   1. Load about:hang  2. Wait for the hang monitor dialog to appear        I should see a button allowing me to kill the offending renderer.  Instead    I only see a button to keep waiting!   </pre>

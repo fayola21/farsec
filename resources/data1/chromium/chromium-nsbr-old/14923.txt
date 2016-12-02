@@ -1,0 +1,1 @@
+<title>Issue 14923 -   chromium -    New tab button jitters during dragging - Project Hosting on Google Code</title> <pre> ben sez: &quot;new tab button should always hug the rightmost edge in the  tabstrip... and should be offset by it consistently by the correct amount.  right now it almost floats and jitters&quot; </pre>

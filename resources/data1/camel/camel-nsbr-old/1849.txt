@@ -1,0 +1,1 @@
+CachedOutputStream not cleaning up tmp files when using file based caching    A recent feature of Camel's CachedOutputStream is to serialize any messages over 64k to disk. In some cases the *tmp message files are not being cleaned up.   

@@ -1,0 +1,1 @@
+<title>Issue 22805 -   chromium -    full screen mode shows compact navigation bar - Project Hosting on Google Code</title> <pre> Press F11 to go into full screen mode and you'll see a squished battery/time   in the top right. </pre>

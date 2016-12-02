@@ -1,0 +1,1 @@
+<title>Issue 26699 -   chromium -    Change &quot;developer tools&quot; text to &quot;developer mode&quot; in chrome management UI - Project Hosting on Google Code</title> <pre> Some people have reported it being confused with the normal web inspector (eg   ctrl+shift+j). </pre>

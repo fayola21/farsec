@@ -1,0 +1,1 @@
+<title>Issue 27860 -   chromium -    Sample extensions use innerHTML - Project Hosting on Google Code</title> <pre> A few of the sample extensions use innerHTML. They shouldn't  this is bad   practice and shouldn't be encouraged. </pre>

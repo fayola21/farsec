@@ -1,0 +1,1 @@
+<title>Issue 21996 -   chromium -    EditSearchEngine is an NSPanel instead of an NSWindow - Project Hosting on Google Code</title> <pre> EditSearchEngine is an NSPanel instead of an NSWindow?  Is there something   plan that needs this?  Did we want to make this a sheet on the keyword editor   window  anything that would need it to be a panel? </pre>

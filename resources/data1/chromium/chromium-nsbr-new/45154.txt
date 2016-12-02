@@ -1,0 +1,1 @@
+<title>Issue 45154 -   chromium -    Mouse back/forward buttons don't work in Chrome - Project Hosting on Google Code</title>   1. Any time I browse using Chrome.          I should be able to navigate to previously visited web sites using my back   button on my Logitech mouse LX7.      Nothing!    <b>Please provide

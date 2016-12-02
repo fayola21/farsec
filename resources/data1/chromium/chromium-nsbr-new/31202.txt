@@ -1,0 +1,1 @@
+<title>Issue 31202 -   chromium -    Unable to click scrollwheel and scroll without using mouse buttons. - Project Hosting on Google Code</title>   1. Click middle mouse button/scroll wheel.  2. Try to scroll without using any mouse buttons.  3. Fails to scroll compared to Firefox 3.5/                <b>Please provide

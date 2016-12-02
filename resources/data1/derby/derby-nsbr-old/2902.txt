@@ -1,0 +1,1 @@
+AS IDENTITY (START WITH -9223372036854775808) fails    When creating a tableAS IDENTITY (START WITH -9223372036854775808)fails butAS IDENTITY (START WITH -9223372036854775807)succeeds.Guess this is a parsing SQL problem as the absolute value appears to be held in a long  which is not quite long enough at the positive end.   

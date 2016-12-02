@@ -1,0 +1,1 @@
+<title>Issue 6867 -   chromium -    Keywords with spaces don't work - Project Hosting on Google Code</title> <pre> Add a keyword with a space (e.g. &quot;test case&quot;) and notice lots of problems   on using.  Typing &quot;test case&quot; shows &quot;press tab to search test&quot;.  The   autocomplete popup shows &quot;search test for case&quot;. </pre>

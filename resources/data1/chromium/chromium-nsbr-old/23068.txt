@@ -1,0 +1,1 @@
+<title>Issue 23068 -   chromium -    crash reports missing symbols? - Project Hosting on Google Code</title> <pre> Crash reports are showing up without OS symbols.  e.g. crbug.com/23060.  Is this a trend?  Please investigate.     </pre>

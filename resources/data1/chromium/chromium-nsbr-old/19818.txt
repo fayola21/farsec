@@ -1,0 +1,1 @@
+<title>Issue 19818 -   chromium -    Crash when removing theme from list - Project Hosting on Google Code</title>   1. Go to Options &gt; Personal Stuff &gt; Get Themes  2. Try to apply theme - this fails  3. Try to remove the downloaded theme from the list      Theme is removed from list      Crash    <b>Please provide

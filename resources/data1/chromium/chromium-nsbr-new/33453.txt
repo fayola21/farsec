@@ -1,0 +1,1 @@
+<title>Issue 33453 -   chromium -    img has un-removable border - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.0 (37223) Ubuntu           Safari 4: FAIL    Firefox 3.x: FINE           IE 7: FINE           IE 8: FINE </pre>

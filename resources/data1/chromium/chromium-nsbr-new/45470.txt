@@ -1,0 +1,1 @@
+<title>Issue 45470 -   chromium -    Translate bar still appears  even when disabled in Options - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0 (48583)       1. disable Offer Translation in Options  2. browser a page in Portuguese  while having the browser locale set to   English      No bar to appear      it still shows </pre>

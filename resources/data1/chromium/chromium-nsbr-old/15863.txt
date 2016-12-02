@@ -1,0 +1,1 @@
+<title>Issue 15863 -   chromium -    Maximized custom frame doesn't double-click to unmaximize - Project Hosting on Google Code</title> <pre> This is debatable behavior.  But I guess it's consistent with most wms. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9263 -   chromium -    Bookmark menu should have a tool tip - Project Hosting on Google Code</title> <pre> Trunk (<a href="/p/chromium/source/detail?r=12361">r12361</a>).    I know bookmarks menu is experimental  but filing this as tracking purpose.    Mouse hover over Bookmark menu should show tool tip.  [Need to launch chrome with --bookmark-menu ] </pre>

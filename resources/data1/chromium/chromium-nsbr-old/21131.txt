@@ -1,0 +1,1 @@
+<title>Issue 21131 -   chromium -    Find extension jank - Project Hosting on Google Code</title> <pre> From comment in <a href="http://codereview.chromium.org/201019">http://codereview.chromium.org/201019</a>  part of the &quot;loading&quot;   bubble commit: look for source of jank when unpacking extensions (especially   themes).     </pre>

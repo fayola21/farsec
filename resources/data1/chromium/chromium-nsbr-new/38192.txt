@@ -1,0 +1,1 @@
+<title>Issue 38192 -   chromium -    Enable full out of box flow - Project Hosting on Google Code</title> <pre> Full OOBE flow is enabled when list of users previously signed in is not   empty. </pre>

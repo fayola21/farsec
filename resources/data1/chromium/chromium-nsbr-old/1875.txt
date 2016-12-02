@@ -1,0 +1,1 @@
+<title>Issue 1875 -   chromium -    Closing window if you close all tabs. - Project Hosting on Google Code</title> <pre> If you close all tabs then the window will close to.. Can that be changed?   (put it in de options or something) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1142 -   chromium -    Tab disappearing issue - Project Hosting on Google Code</title>   1. If I drag a tab slightly to the right  and then click on another tab   before the first tab has gone back into its original position  it   disappears!          That would be: NOT disappearing...          Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21431 -   chromium -    Can't click on buttons in YouTube (with Flash under Linux) - Project Hosting on Google Code</title>   1. Watch any youtube video.  2. Try to click any of the controls.        They should get clicked!        They react to your mouse being there  but the clicks don't go through.    <b>Please provide

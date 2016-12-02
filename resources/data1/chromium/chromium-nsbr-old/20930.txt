@@ -1,0 +1,1 @@
+<title>Issue 20930 -   chromium -    Don't delete sparse entries when a canceling a request - Project Hosting on Google Code</title> <pre> The current behavior of the http cache is to delete a resource that is being   written to the cache when the transaction is closed unexpectedly.    We should avoid doing that for sparse entries  once we have the entry   properly set up. </pre>

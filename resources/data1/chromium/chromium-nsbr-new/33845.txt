@@ -1,0 +1,1 @@
+<title>Issue 33845 -   chromium -    Add option for Minimum Font Size - Project Hosting on Google Code</title> <pre> Under Font and language settings there should be option for user to set   Minimum Font Size.    The default size on many websites is too small under certain situations (high   dpi monitor  netbook monitor  etc) </pre>

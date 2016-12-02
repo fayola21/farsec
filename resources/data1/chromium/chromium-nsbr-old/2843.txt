@@ -1,0 +1,1 @@
+<title>Issue 2843 -   chromium -    Open links in new window - Project Hosting on Google Code</title> <pre> I would like to have a default option to open all links in new window   instead of only being able to open it new tab.  Firefox has this option - Chrome should too!   </pre>

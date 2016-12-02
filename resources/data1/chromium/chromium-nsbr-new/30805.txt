@@ -1,0 +1,1 @@
+<title>Issue 30805 -   chromium -    Dragging a tab automatically detaches it from the window (xfce) - Project Hosting on Google Code</title>   1. Launch the browser  2. Open a few tabs  3. Start dragging one to reorder        Dragging the tab horizontally reorders the tabs.        The tab is instantly detached  as if it were dragged to create a new window.     <b>Please provide

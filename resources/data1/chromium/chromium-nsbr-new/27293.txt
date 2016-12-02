@@ -1,0 +1,1 @@
+<title>Issue 27293 -   chromium -    Replace any occurences of &quot;Wrench&quot; with &quot;Tools&quot; menu - Project Hosting on Google Code</title> <pre> The UI team has decided that we'd prefer to refer to it as the &quot;Tools&quot;  menu. We should do a pass through the source code and find any stragglers. </pre>

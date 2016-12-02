@@ -1,0 +1,1 @@
+<title>Issue 39478 -   chromium -    Looping is broken for audio and video elements - Project Hosting on Google Code</title> <pre> On this test  4 videos loop  <a href="http://fbarchard-kir.ad.corp.google.com/mediatests/test4.html">http://fbarchard-kir.ad.corp.google.com/mediatests/test4.html</a>  only the short one locks up when it loops.     </pre>

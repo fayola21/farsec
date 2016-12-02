@@ -1,0 +1,1 @@
+<title>Issue 35410 -   chromium -    Translation doesn't work on chinese sites - Project Hosting on Google Code</title> <pre> Go to <a href="http://www.ioage.com/tw/">http://www.ioage.com/tw/</a> and wait for the page to load    The translate infobar never appears.  We need to figure out why translate is   so flakey before 4.1 goes out.   </pre>

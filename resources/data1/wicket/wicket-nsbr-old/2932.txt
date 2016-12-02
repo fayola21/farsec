@@ -1,0 +1,1 @@
+Modal window titles need to be marked up as such  for accessibility    The modal windows are not accessible to screen readers. The titles of the window should be announced to give the contents of the window some context. This is as simple as changing the 'span' that contains the window title to a 'h3' and ensuring the styles are appropriate to match.   

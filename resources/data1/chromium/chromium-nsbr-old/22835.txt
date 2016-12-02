@@ -1,0 +1,1 @@
+<title>Issue 22835 -   chromium -    Don't restore session if crashed on Chrome OS - Project Hosting on Google Code</title> <pre> For various reasons we made session restore on Chrome OS ignore whether the   last session crashed. We should remove this code and make Chrome on Chrome OS   show the crashed info bar if the last session crashed. </pre>

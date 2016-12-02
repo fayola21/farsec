@@ -1,0 +1,1 @@
+<title>Issue 15775 -   chromium -    Download manager requires the concept of dangerous file types for Mac - Project Hosting on Google Code</title> <pre> The download manager on Windows knows about many file types that are   considered dangerous  and prompts the user before allowing the download to   continue.    This list needs to be implemented for Mac. </pre>

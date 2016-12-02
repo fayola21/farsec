@@ -1,0 +1,1 @@
+<title>Issue 11880 -   chromium -    RTL: Extensions ui problem - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.180.0&gt;    the &quot;toolstrips&quot; are align to the right  but the veritcal line between them   is align to the left.   </pre>

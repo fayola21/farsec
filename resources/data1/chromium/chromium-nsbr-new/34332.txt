@@ -1,0 +1,1 @@
+<title>Issue 34332 -   chromium -    Problem with Gmail at Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;from About Google Chrome/Chromium or  'about:version'&gt;  URL :gmail.com  Behavior in Safari 3.x/4.x : its ok  Behavior in Firefox 3.x: its ok      1. i can not send email from gmail at chrome 4.0   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3007 -   chromium -    Mouse click layout tests fail - Project Hosting on Google Code</title> <pre> These tests have different mouse click messages that expected. This could   be a bug or an expected platform difference.      LayoutTests/fast/events/mouse-click-events.html    LayoutTests/fast/events/mouseup-from-button2.html   </pre>

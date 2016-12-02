@@ -1,0 +1,1 @@
+<title>Issue 142 -   chromium -    Youtube - Auto suggestion box hides behind playing video - Project Hosting on Google Code</title>   1. Play any video on www.youtube.com  2. search for another video on the same window  3. The auto suggestion box hides behind the playing video                Please provide

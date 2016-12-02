@@ -1,0 +1,1 @@
+<title>Issue 12231 -   chromium -    Need unit tests for theme installation/reinstallation - Project Hosting on Google Code</title> <pre> There should be some unit tests in extensions_service_unittest.cc that test   theme installation and reinstallation. </pre>

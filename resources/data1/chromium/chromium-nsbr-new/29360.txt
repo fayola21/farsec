@@ -1,0 +1,1 @@
+<title>Issue 29360 -   chromium -    Mac: dragging a bookmark button off the bookmark bar (to an URL) should change drag image - Project Hosting on Google Code</title> <pre> (and it should change back when one moves back onto the bookmark bar).    The drag image should probably be a normal-looking URL drag image  which   seems to be favicon + title on the Mac. </pre>

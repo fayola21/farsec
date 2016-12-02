@@ -1,0 +1,1 @@
+<title>Issue 1530 -   chromium -    scrolling up - Project Hosting on Google Code</title> <pre> Hello!  I just installed Google Chrome and noticed when scrolling it works only 1   way - down. I restarted it still the same scrolling up doesn't work.  Great work by the way!  Keep up!:)))) </pre>

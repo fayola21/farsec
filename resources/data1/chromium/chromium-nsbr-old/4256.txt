@@ -1,0 +1,1 @@
+<title>Issue 4256 -   chromium -    minor visual bug: BankOfAmerica.com - Project Hosting on Google Code</title>   1. Navigate to <a href="https://www.bankofamerica.com/">https://www.bankofamerica.com/</a>      buttons on the site should appear as they do in other browsers      buttons appear with odd clear boxes to the right of their text    Please provide

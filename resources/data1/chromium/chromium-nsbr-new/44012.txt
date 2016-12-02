@@ -1,0 +1,1 @@
+<title>Issue 44012 -   chromium -    Closisg pinned pabs looks defect - Project Hosting on Google Code</title>   1. Create 2-3 tabs  2. Pin the first two ones  3. Scroll-click on a pinned tab  it's still there and looks broken.      To close down or make a warning and close down  I think.      The pinned tab you scroll-clicked on looks broken.    <b>Please provide

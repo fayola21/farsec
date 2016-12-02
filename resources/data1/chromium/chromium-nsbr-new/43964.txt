@@ -1,0 +1,1 @@
+<title>Issue 43964 -   chromium -    Make Pepper resources scoped to a module's lifetime. - Project Hosting on Google Code</title> <pre> All PP_Resource objects allocated by or for a pepper plugin should be   automatically destroyed when the module is unloaded. Currently these are   leaked unless the plugin correctly Releases the resources. </pre>

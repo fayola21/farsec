@@ -1,0 +1,1 @@
+<title>Issue 42402 -   chromium -    Presence pdm keylogger in Chromium (chrome.exe) keyboard recording - Project Hosting on Google Code</title> <pre> Hello  Kaspersky IS has just found a keylogger in chrome.exe (chromium)    Keyboard recording ? In French : enregistreur de frappe    Thanks    (Cf. bottom of the screenshot) </pre>

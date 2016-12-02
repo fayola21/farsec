@@ -1,0 +1,1 @@
+<title>Issue 13134 -   chromium -    Provide a timestamp for recently closed tabs and windows - Project Hosting on Google Code</title> <pre> For the new tab page we would like to get the timestamp for when a tab or   window was closed. </pre>

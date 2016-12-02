@@ -1,0 +1,1 @@
+<title>Issue 1977 -   chromium -    bullets look ugly at default size - Project Hosting on Google Code</title> <pre> Load a page with the following HTML:  &lt;ul&gt;    &lt;li&gt;foo&lt;/li&gt;  &lt;/ul&gt;    The bullets look all jagged and ugly compared to other browsers. They look   fine in Safari. </pre>

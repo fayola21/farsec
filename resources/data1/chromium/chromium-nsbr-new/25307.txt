@@ -1,0 +1,1 @@
+<title>Issue 25307 -   chromium -    External protocol request dialog has weird padding - Project Hosting on Google Code</title> <pre> See screenshot.  Needs more padding above buttons. </pre>

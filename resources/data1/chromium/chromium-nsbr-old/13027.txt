@@ -1,0 +1,1 @@
+<title>Issue 13027 -   chromium -    auto-opening grayed out - Project Hosting on Google Code</title>   1. Go to Options &gt; Clear auto-opening settings            A clickable 'clear auto-opening' button.        Button is grayed out and not active.       <b>Please provide

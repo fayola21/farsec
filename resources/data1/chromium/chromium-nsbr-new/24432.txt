@@ -1,0 +1,1 @@
+<title>Issue 24432 -   chromium -    Print selection is still not working - Project Hosting on Google Code</title>   1.Select text on web page  2.Select print  3.Select &quot;Print Selection&quot; button      Selected text prints      Nothing happens at all.    <b>Please provide

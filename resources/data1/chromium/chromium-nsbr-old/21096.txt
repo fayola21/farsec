@@ -1,0 +1,1 @@
+<title>Issue 21096 -   chromium -    &quot;theme loading&quot; bubble doesn't disappear when extension is cancelled - Project Hosting on Google Code</title> <pre> Install extension.  Hit &quot;cancel&quot; when dialog pops up.  Note that &quot;loading&quot;   bubble remains. </pre>

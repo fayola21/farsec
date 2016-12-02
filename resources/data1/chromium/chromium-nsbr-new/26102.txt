@@ -1,0 +1,1 @@
+<title>Issue 26102 -   chromium -    Implement UI automation on Mac - Project Hosting on Google Code</title> <pre> chrome/browser/automation/ui_controls.h needs a Mac implementation.  Many of   the UI tests will not run without this.  Methods include:    SendKeyPress  SendMouseMove  SendMouseEvents   </pre>

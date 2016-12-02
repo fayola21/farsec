@@ -1,0 +1,1 @@
+<title>Issue 3204 -   chromium -    Can't access bookmarks with mouse when bookmark bar is off. - Project Hosting on Google Code</title>   1. Install Chrome.  2. Create some bookmarks.  3. Try and go to a bookmark without clicking Settings-&gt;Always show bookmark   bar.        It is possible!      Not possible!    Please provide

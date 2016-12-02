@@ -1,0 +1,1 @@
+<title>Issue 31414 -   chromium -    navigating from new tab page to about:crash causes the top bar to stay - Project Hosting on Google Code</title>   1. Go to chrome://newtab/  2. Go to about:crash in the same tab      To have a 'full screen' crash message      The 'top bar' of the new tab page stays shown    <b>Please provide

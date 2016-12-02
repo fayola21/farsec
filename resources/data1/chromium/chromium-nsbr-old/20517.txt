@@ -1,0 +1,1 @@
+<title>Issue 20517 -   chromium -    Introduce option to make Extension ToolStrips appear on top in the Bookmarks Bar - Project Hosting on Google Code</title> <pre> Introduce an option (a command line flag to start with) by which Extension   ToolStrips appear on the top in the Bookmarks Bar  along with the existing   bookmark bar items. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36769 -   chromium -    Check if user really wants to quit - Project Hosting on Google Code</title>   1. Open lots of interesting tabs  2. Close your browser accidentally    What is the expected result? A dialog box      What happens instead? Everything closes :(      <b>Please provide

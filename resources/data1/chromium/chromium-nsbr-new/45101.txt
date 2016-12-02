@@ -1,0 +1,1 @@
+<title>Issue 45101 -   chromium -    DevTools: option to Hide resource manager's graph - Project Hosting on Google Code</title>   1. Open Developer Tools  2. Resources Tab  3. Graphs shows      Graphs shows  but a small button toggles the display of the graphs      no way to toggle out the graphs    <b>Please provide

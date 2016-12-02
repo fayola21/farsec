@@ -1,0 +1,1 @@
+<title>Issue 6381 -   chromium -    Installation on XP SP1 - Project Hosting on Google Code</title>   1. Attempt to install Chrome on XP &lt;SP2      Installation      Nagging about absence of SP2 and abortion of installation.    Please provide

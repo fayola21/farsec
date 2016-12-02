@@ -1,0 +1,1 @@
+<title>Issue 23928 -   chromium -    Implement NPN_GetAuthenticationInfo - Project Hosting on Google Code</title> <pre> This is used by the Java plugin.  Not sure how high-priority this is. </pre>

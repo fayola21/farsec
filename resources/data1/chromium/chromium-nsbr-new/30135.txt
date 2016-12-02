@@ -1,0 +1,1 @@
+<title>Issue 30135 -   chromium -    Dutch: Next menu title should be &quot;Volgende&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Next menu item in the menu Geschiedenis is localized as &quot;Vooruit&quot;. The   correct localization on the Mac is &quot;Volgende&quot;. </pre>

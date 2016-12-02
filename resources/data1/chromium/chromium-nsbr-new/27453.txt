@@ -1,0 +1,1 @@
+<title>Issue 27453 -   chromium -    Close button should use theme text color to draw - Project Hosting on Google Code</title> <pre> Close button should use theme text color to draw so that it doesn't get lost in   themes </pre>

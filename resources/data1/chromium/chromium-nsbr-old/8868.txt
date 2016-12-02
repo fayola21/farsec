@@ -1,0 +1,1 @@
+<title>Issue 8868 -   chromium -    linux memory leak in toolbar tooltips - Project Hosting on Google Code</title> <pre> We are leaking:      toolbar_tooltips_ = gtk_tooltips_new();    in browser_toolbar_gtk.cc  The GtkTooltips API has been deprecated in favor   of the GtkTooltip API  we should probably fix both at the same time. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33983 -   chromium -    About Tab Move - Project Hosting on Google Code</title> <pre> Chrome Version   4.0.249.78 unknown (36714)    : &lt;from About Google   Chrome/Chromium or  'about:version'&gt;            1.When I try to put tab in new window  2.It creates wired graphics  3.If I move with mouse  it creates more distracted graphics   </pre>

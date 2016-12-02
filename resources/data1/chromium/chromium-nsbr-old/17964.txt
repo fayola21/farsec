@@ -1,0 +1,1 @@
+<title>Issue 17964 -   chromium -    Hindi date format is  wrong  - Project Hosting on Google Code</title> <pre> [Language] Hindi    [Version number]2.0.172.37    [OS details] Windows XP    [Where is the poor translation?] Certificate page    [attach any screenshots below] attached. The date should be 15 ��__�___ 2009  whereas it is   currently 2009  ��__�___ 15.   </pre>

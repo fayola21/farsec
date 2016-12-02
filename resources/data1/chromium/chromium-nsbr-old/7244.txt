@@ -1,0 +1,1 @@
+<title>Issue 7244 -   chromium -    Problem with receiving Clipboard format  &quot;WebKit Smart Paste Format&quot; - Project Hosting on Google Code</title>   1. Run clipboard watcher Clipdiary or ClipSpy  2. Run Chrome  3. Copy text from edit field in the page a few times  till clipboard   watcher will hung      Please provide

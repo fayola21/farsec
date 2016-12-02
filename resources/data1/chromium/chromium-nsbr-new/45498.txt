@@ -1,0 +1,1 @@
+<title>Issue 45498 -   chromium -    Memory Leak on Reload - Project Hosting on Google Code</title>   1. Start a TaskManager with memory observation  2. go to any page you want  3. click on reload  4. watch the memory consumption with every reload      Memory usage should stay at the same level.      Memory usage rise with every reload.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 31789 -   chromium -    application shortcut all messed up - Project Hosting on Google Code</title>   1. Go to <a href="http://apps.facebook.com/warstorm/">http://apps.facebook.com/warstorm/</a>  2. Create an application shortcut        A working application shortcut is created        The application shortcut is all messed up    <b>Please provide

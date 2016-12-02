@@ -1,0 +1,1 @@
+<title>Issue 30530 -   chromium -    Include extension url as a referrer for XHR requests from extensions - Project Hosting on Google Code</title> <pre> This would make it easier for web services to see what extensions are accessing their servers.   Apparently will require a change to webkit to allow chrome-extension urls for referrers. </pre>

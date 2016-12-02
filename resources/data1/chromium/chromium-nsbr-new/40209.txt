@@ -1,0 +1,1 @@
+<title>Issue 40209 -   chromium -    getRotationOfChar fail for svg textpath with tspan - Project Hosting on Google Code</title>   1. load attached testcase          two alerts telling rotation of the first and of the second character.      first alert says &quot;0&quot;  second alert doesn't happen because of an exception    <b>Please provide

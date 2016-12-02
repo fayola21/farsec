@@ -1,0 +1,1 @@
+<title>Issue 1758 -   chromium -    in option window -- under save password - all passwords can be seen. - Project Hosting on Google Code</title> <pre> this should be invisible to any user or restricted by entering password.  if it is a shared computer and a user saved password by mistake at any site     other users can retrieve the password.    </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36434 -   chromium -    Failed Instalation - Project Hosting on Google Code</title>   1.I'v downloaded the browser  2.Double click in the .exe file  3.Wait      That begins with the installation  to use the program..      Absolutely nothing  after the waiting  nothing happens    <b>Please provide

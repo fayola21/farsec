@@ -1,0 +1,1 @@
+<title>Issue 12041 -   chromium -    Headers not stripped from Keystone bundle in branded build - Project Hosting on Google Code</title> <pre> $ ls   /Applications/Chrome.app/Contents/Frameworks/KeystoneRegistration.fram  ework/Versions/A/Headers     ... </pre>

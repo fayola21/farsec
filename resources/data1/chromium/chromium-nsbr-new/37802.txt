@@ -1,0 +1,1 @@
+<title>Issue 37802 -   chromium -    Chrome extensions needs to be able to show favicon resources - Project Hosting on Google Code</title> <pre> A chrome extension page at chrome-extension://dddaeed89e98ad89e8de89d987a/foo.html   should be able to load chrome://favicon/ images.    We should therefore whitelist access to chrome://favicon/* from chrome-extension://* </pre>

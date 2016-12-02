@@ -1,0 +1,1 @@
+<title>Issue 42639 -   chromium -    Clearing search 'foo'  closing and reopening Find should not prepopulate with 'foo' - Project Hosting on Google Code</title> <pre> Ctrl+F  Search for 'foo'  Clear 'foo'  Close Find  Ctrl+F    At this point the search box should be blank. </pre>

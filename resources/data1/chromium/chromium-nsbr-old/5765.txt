@@ -1,0 +1,1 @@
+<title>Issue 5765 -   chromium -    Animated GIFs stop on tab change - Project Hosting on Google Code</title>   1. Open a web page containing an animated gif (the animation works).  2. Change to another tab.  3. Change back - gif is stopped.      Animation of the GIF.      A still GIF.    Please provide

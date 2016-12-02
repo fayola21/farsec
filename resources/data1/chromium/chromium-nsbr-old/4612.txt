@@ -1,0 +1,1 @@
+<title>Issue 4612 -   chromium -    Dell Inspiron 700m Touchpad Unable to Scroll - Project Hosting on Google Code</title>   1. Open Chrome  2. Goto cnn.com  3. Attempt to scroll with Touchpad      Page scrolls.      Nothing.    Please provide

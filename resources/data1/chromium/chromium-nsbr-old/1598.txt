@@ -1,0 +1,1 @@
+<title>Issue 1598 -   chromium -    Application shortcuts fails - Project Hosting on Google Code</title>   1. Navigate to a web page  2. Attempt to create application shortcuts      -The application shortcuts menu will come up      -Nothing    Please provide

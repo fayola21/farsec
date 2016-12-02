@@ -1,0 +1,1 @@
+<title>Issue 2330 -   chromium -    Hi.Baidu pet flash does not work well in Chrome - Project Hosting on Google Code</title>   Open Any hi.baidu blog which have pet  the pet display correctly  but the   balloon that pet is speaking display only blank.      A balloon with words.      White blank    Please provide

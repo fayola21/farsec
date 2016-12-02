@@ -1,0 +1,1 @@
+<title>Issue 43435 -   chromium -    Keys not registering in Flash plugin under Ubuntu Lucid Lynx - Project Hosting on Google Code</title>   1. Go to the 'SET BUTTONS' section  2. Select 'YES' to change buttons  3. Try using QWERTY keys      The keys should register as key presses in the flash apps.      Only some of the keys work  none of the QWERTY keys do.    <b>Please provide

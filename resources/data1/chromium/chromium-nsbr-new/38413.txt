@@ -1,0 +1,1 @@
+<title>Issue 38413 -   chromium -    &quot;Show in folder&quot; stuck! - Project Hosting on Google Code</title>   1. Windows 7  2. Downloaded a file and used &quot;Show in folder&quot;  3. &quot;Show in folder&quot; is now permanently affixed to every page in browser!                <b>Please provide

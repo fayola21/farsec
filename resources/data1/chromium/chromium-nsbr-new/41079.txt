@@ -1,0 +1,1 @@
+<title>Issue 41079 -   chromium -    Chrome crashes when an external hard drive starts spinning - Project Hosting on Google Code</title> <pre> Chrome Version: 5.0.371.0 dev    When my external hard drive starts spinning as it periodically does  Chrome crashes. I'll post the   crash report when it happens again. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4525 -   chromium -    Auto completion of list boxes - Project Hosting on Google Code</title> <pre> guys  your auto completion when one's typing in a list box needs to   improve!   also  the search feature must include textareas!   i.e. press ctrl+f and search must include textareas  these two are very important !    </pre>

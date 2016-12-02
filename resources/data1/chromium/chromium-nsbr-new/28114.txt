@@ -1,0 +1,1 @@
+<title>Issue 28114 -   chromium -    pictures are gone - Project Hosting on Google Code</title>   1. Open the site      Blog w/ lots of pictures.      All pictures are gone. Many Wretch blogs have the same problem.    <b>Please provide

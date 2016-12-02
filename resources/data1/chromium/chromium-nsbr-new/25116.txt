@@ -1,0 +1,1 @@
+<title>Issue 25116 -   chromium -    Chrome for Mac SOMETIMES crashes when closing the last tab or the entire window - Project Hosting on Google Code</title>   1. Close all the tabs or hit the red button to close the window          Chrome window disappears      Chrome window disappears  and Chrome crashes    <b>Please provide

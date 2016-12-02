@@ -1,0 +1,1 @@
+Bean component - Should preserver properties from exchange to allow to transfer state    See nabblehttp://camel.465427.n5.nabble.com/Stateful-Dynamic-Router-tp5647070p5647070.htmlThis allows other EIPs such as the dynamic route to use state when using a bean as its expression.   

@@ -1,0 +1,1 @@
+<title>Issue 45912 -   chromium -    When back from Standby overnight  Chrome will crash - Project Hosting on Google Code</title>   1. Make the computer standby with Chrome open  2. Back from standby in the next morning       Chrome can operate normally      Windows and Chrome both report crash  and Chrome has to be restarted.    <b>Please provide

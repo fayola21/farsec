@@ -1,0 +1,1 @@
+<title>Issue 32764 -   chromium -    'x' in bottom download bar is cut off - Project Hosting on Google Code</title>   1. download file  2. thats  3. it      to see the bottom download bar in its entirety       the 'x' all the way to the right on the bar is cut off about half way through   by the area that you can click and drag to resize the window    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 16122 -   chromium -    Omnibox should say &quot;type to search&quot; when focused - Project Hosting on Google Code</title> <pre> - focus the omnibox    Expected:  - at the right  in light text  it says &quot;Type to search&quot;    Actual:  - text doesn't appear   </pre>

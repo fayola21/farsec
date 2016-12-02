@@ -1,0 +1,1 @@
+<title>Issue 9726 -   chromium -    Editing HTML in Google Site makes CPU% reach 100% - Project Hosting on Google Code</title>   1. Open a Google Site page  click edit button to edit a page;   2. Click HTML button on the toolbar;  3. CPU% reach 100% for more the 1 minute.      normal cpu%      100% cpu usage.    <b>Please provide

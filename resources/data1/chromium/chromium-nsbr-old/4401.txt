@@ -1,0 +1,1 @@
+<title>Issue 4401 -   chromium -    Spellcheck options do not match mocks - Project Hosting on Google Code</title> <pre> The spellcheck options in the Fonts and Languages dialog looks like a bit   of a dog's breakfast.    The mocks for this feature are here:    http://mocks/glen/chrome/spec/49_spellcheck/4/#options.png    The code should reflect this. </pre>

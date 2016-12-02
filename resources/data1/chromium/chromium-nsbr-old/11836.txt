@@ -1,0 +1,1 @@
+<title>Issue 11836 -   chromium -    Chrome incidentily doesn't offer to save password - Project Hosting on Google Code</title>   1. Try login in      Chrome should offer to save password.      Chrome doesn't offer to save password.    <b>Please provide

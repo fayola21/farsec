@@ -1,0 +1,1 @@
+Split IHeaderContributor into IHeaderContributor and IComponentAwareHeaderContributor to make implementation cleaner       

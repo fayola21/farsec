@@ -1,0 +1,1 @@
+<title>Issue 19781 -   chromium -    Arrow keys/pgup/down should scroll page when find bar is focussed. - Project Hosting on Google Code</title> <pre> 1. hit cmd-f  enter some text  2. hit arrow up/down or pgup/down    Expected: Page should scroll.  Actual: Find bar text field eats event.    Works fine in Safari. </pre>

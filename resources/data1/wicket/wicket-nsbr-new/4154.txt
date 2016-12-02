@@ -1,0 +1,1 @@
+Add localization resources for DataTable components    Add localization for DataTable components (no records and navigation toolbars)   

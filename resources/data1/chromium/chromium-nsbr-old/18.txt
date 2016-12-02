@@ -1,0 +1,1 @@
+<title>Issue 18 -   chromium -    Wishlist: Chrome does not have an addon-system - Project Hosting on Google Code</title>   1. Try to install an adblocking-addon  2. Fail    The expected result is an addon-API similiar to Firefox Extensions   allowing third parties to enhance the functionality of Chrome      Chrome offers next to no customization-options.    Please provide

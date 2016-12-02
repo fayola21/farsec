@@ -1,0 +1,1 @@
+<title>Issue 5434 -   chromium -    //url.tld resolves to file://url.tld rather than http://url.tld - Project Hosting on Google Code</title>   1. Type &quot;//url.tld&quot; in omnibar.        My expectation from using Firefox is that this would resolve to an http://   rather than a file://        Instead it attempts to load a local path.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37032 -   chromium -    Multiple Processes Open with Chrome ( Bug? Not sure) - Project Hosting on Google Code</title>   1.  Just starting up chrome does this            I'm not sure  I am wondering if it is supposed to do this.  I really don't   even know if it's a bug.  Just weird to me coming from being a FF user.          <b>Please provide

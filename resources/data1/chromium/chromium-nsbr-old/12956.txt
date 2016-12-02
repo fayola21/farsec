@@ -1,0 +1,1 @@
+<title>Issue 12956 -   chromium -    REGRESSION: Reloading inspector fails to retrieve the code - Project Hosting on Google Code</title> <pre> Go to any web page and bring up inspector. Reload inspector using either F5   or through popup menu doesn't work. It displays &lt;html foo=&quot;bar&quot;&gt; blah blah...   I think it used to work before. </pre>

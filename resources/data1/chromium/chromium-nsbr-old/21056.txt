@@ -1,0 +1,1 @@
+<title>Issue 21056 -   chromium -    Failed to read from chroot pipe on OpenSUSE Live CD - Project Hosting on Google Code</title>   1. Launch Chromium Browser      Surfing the web...      Blank Page    <b>Please provide

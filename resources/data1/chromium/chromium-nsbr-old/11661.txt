@@ -1,0 +1,1 @@
+<title>Issue 11661 -   chromium -    Linux: PRIMARY clipboard doesn't paste into gmail - Project Hosting on Google Code</title> <pre> as reported by dkegel.    Note that it does work with html inputs (including gmail in html mode). </pre>

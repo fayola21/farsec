@@ -1,0 +1,1 @@
+<title>Issue 44678 -   chromium -    Mac OS X - URL Bar selects on click - Project Hosting on Google Code</title>   Clink in the URL bar while there is a URL displayed      Place cursor where clicked.      Entire URL is selected. This is inconsistent behavior with the rest of the OS  and should be fixed.     <b>Please provide

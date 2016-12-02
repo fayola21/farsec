@@ -1,0 +1,1 @@
+<title>Issue 27064 -   chromium -    Rizon Web IRC fails to load - Project Hosting on Google Code</title> <pre> Chrome Version: 4.0.240.0 (Developer Build 31399)  URL: <a href="http://qchat.rizon.net/">http://qchat.rizon.net/</a>    Behavior in Safari 3.x/4.x:  Untested      Loads correctly      1. View page   </pre>

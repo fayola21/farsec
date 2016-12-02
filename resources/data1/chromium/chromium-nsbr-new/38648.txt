@@ -1,0 +1,1 @@
+<title>Issue 38648 -   chromium -    Tab Crashes when selecting and dragging page items - Project Hosting on Google Code</title> <pre> ChromeFrame version: 5.0.356.0 dev    Related URL(s):NA      1. select anything on the page  2. drag it  3. tab crashes      to drag the selected       tab crashes   </pre>

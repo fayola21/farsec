@@ -1,0 +1,1 @@
+<title>Issue 15507 -   chromium -    expose in findbar appears to be off with a custom theme - Project Hosting on Google Code</title> <pre> Install a custom theme (there are some in src/chrome/test/data/extensions/)   and open the find bar.  Have a menu appear above part of the find bar.  The   area that is re-exposed changes to a darker green. </pre>

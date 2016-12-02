@@ -1,0 +1,1 @@
+<title>Issue 17481 -   chromium -    Discard demuxed packets in FFmpegDemuxer when audio renderer fails - Project Hosting on Google Code</title> <pre> AudioRendererImpl ignores audio hardware errors  it should also report to   FFmpegDemuxer so it can discard all the demuxed packets. Now we just let the   buffer stacks up and never use them.   </pre>

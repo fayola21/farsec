@@ -1,0 +1,1 @@
+<title>Issue 32548 -   chromium -    Incorrect display of graphic text. - Project Hosting on Google Code</title>   1.Scroll to topic Word Order  2. The box displaying the Kana is missing characters at the beginning of   the sentence and the overhead characters.        3 line of text. 2 in kana and one ascii.      Missing characters and over head line.      <b>Please provide

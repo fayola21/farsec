@@ -1,0 +1,1 @@
+<title>Issue 15084 -   chromium -    chrome crashes on sleep-restore under ubuntu 9.04 x86 - Project Hosting on Google Code</title>   1.Have chrome open in any state  2.put computer to sleep  3.restore computer      chrome to stay open after resume      chrome is closed in an inappropriate manner    <b>Please provide

@@ -1,0 +1,1 @@
+Useless concatenation with empty string in DefaultAuthenticationStrategy.save    There is an empty string used in string construction in DefaultAuthenticationStrategy.save which is not necessary.   

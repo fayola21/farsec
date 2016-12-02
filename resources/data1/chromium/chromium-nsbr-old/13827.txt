@@ -1,0 +1,1 @@
+<title>Issue 13827 -   chromium -    Chrome crashes if any wrench menu option is pressed. - Project Hosting on Google Code</title>   1.Press wrench icon   2.Press anything in menu        Opens the option like &quot;about&quot;      Google chrome crashes: something like whoa...    <b>Please provide

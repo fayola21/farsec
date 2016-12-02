@@ -1,0 +1,1 @@
+<title>Issue 340 -   chromium -    Video Problems - Project Hosting on Google Code</title>   1. While minimizing full windows Youtube video  the browser hangs for a   minute.  2. Inaccessible tabs.  3. Browser running in windows xp sp2 1 gb ram. 2 GHz machine                Please provide

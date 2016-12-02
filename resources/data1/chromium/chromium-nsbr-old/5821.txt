@@ -1,0 +1,1 @@
+<title>Issue 5821 -   chromium -    Comment tags are not interpreted correctly by IE - Project Hosting on Google Code</title>   1. <a href="http://home.comcast.net/~hurldschool/">http://home.comcast.net/~hurldschool/</a> page is rendered incompletely                    Please provide

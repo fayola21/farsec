@@ -1,0 +1,1 @@
+Camel transport should set the content type property into the camel message header    Eduard Hildebrandt logged a JIRA&#91;1&#93; in CXF  it is actually a camel transport issue.https://issues.apache.org/jira/browse/CXF-1703   

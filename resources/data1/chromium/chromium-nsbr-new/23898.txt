@@ -1,0 +1,1 @@
+<title>Issue 23898 -   chromium -    Convert the Gmail checker extension to use browser actions - Project Hosting on Google Code</title> <pre> We should do this as a proof of concept of the idea </pre>

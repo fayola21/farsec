@@ -1,0 +1,1 @@
+<title>Issue 3130 -   chromium -    Clicking on a file download sometimes causes it to cancel - Project Hosting on Google Code</title>   1. Start a download  2. Click on the filename in the download bar that is opened  3. Some of the time  the download is cancelled      The download options popup menu should show      The download cancels    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9030 -   chromium -    Make animation of show/hide of infobar/download shelf not janky - Project Hosting on Google Code</title> <pre> This is slow because it forces us to re-layout the page. </pre>

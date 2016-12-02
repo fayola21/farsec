@@ -1,0 +1,1 @@
+<title>Issue 42537 -   chromium -    The &quot;stop syncing button&quot; of the german localization for &quot;settings -&gt; private&quot; on mac os x ist broken. - Project Hosting on Google Code</title> <pre> See the attached screenshot; Two buttons overlap  because the left one is to big. </pre>

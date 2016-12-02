@@ -1,0 +1,1 @@
+ListMultipleChoice's Constructors Should Accept IModel>    Currently  the constructors accept IModel&lt;Collection&lt;T&gt;&gt; for the 'model' of the ListMultipleChoice. Thus  you can't pass in an IModel&lt;Set&lt;T&gt;&gt;. The constructors should be modified to take IModel&lt;? extends Collection&lt;T&gt;&gt; instead.   

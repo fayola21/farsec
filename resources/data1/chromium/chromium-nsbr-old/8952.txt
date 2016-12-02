@@ -1,0 +1,1 @@
+<title>Issue 8952 -   chromium -    Chrome lock-up - Project Hosting on Google Code</title>   1. Load a page in Myyearbook.com  2. While page is loading open another tab and go to any other website  3. Google Chrome will lock up for 10-15 seconds.      Continue loading Myyearbook and other page at the same time      Chrome locks up for 10-15 seconds    <b>Please provide

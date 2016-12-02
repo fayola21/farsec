@@ -1,0 +1,1 @@
+KittenCaptchaPanel is broken    The code from the KittenCaptchaPanel example works fine with wicket versions 1.5.8 and 6.0.0-beta1  but fails to highlight kittens with versions 6.0.0-beta2 and 6.0.0-beta3.   

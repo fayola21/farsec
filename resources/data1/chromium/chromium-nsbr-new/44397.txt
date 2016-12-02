@@ -1,0 +1,1 @@
+<title>Issue 44397 -   chromium -    Add policy for disabling crash reporting - Project Hosting on Google Code</title> <pre> One the policy abstraction is complete  we need to implement a policy to   enable or disable crash and usage stats reporting capability. </pre>

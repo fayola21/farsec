@@ -1,0 +1,1 @@
+<title>Issue 28068 -   chromium -    Pepper 2D Rendering - Project Hosting on Google Code</title> <pre> Implement Pepper rendering proposal for rendering and 2D as outlined in     <a href="https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI#Plugins_and_Renderi">https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI#Plugins_and_Renderi</a>  ng     </pre>

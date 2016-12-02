@@ -1,0 +1,1 @@
+<title>Issue 44044 -   chromium -    Prevent browser from doing any scrolling with gpu acceleration is enabled in a view - Project Hosting on Google Code</title> <pre> Currently the RenderWidgetHost will call into the OS to do the scrolling for   the window and as a result will overwrite the contents rendered by the GPU   process (in addition to wasting cpu cycles).     </pre>

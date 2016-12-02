@@ -1,0 +1,1 @@
+<title>Issue 16123 -   chromium -    Make most step 'buildbot properties' based - Project Hosting on Google Code</title> <pre>   1. The job steps are hardcoded  2. Makes it hard to have the buildbot 'agile' and switch configuration   between try jobs.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17420 -   chromium -    [http://www.google.co.in]: I see Boxes on Google page - Project Hosting on Google Code</title>   1. The Home page has boxes eveywhere...           Have to browse without getting the message prompt.          <b>Please provide

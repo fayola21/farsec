@@ -1,0 +1,1 @@
+<title>Issue 20965 -   chromium -    Fix subscribe_page_action to work with trunk - Project Hosting on Google Code</title> <pre> The subscribe extension that is checked in works with trunk  but the on on   dev.chromium.org doesn't.    We need to update the one on dev.chromium.org. Finnur  talk to me or Lei   about how to do this. </pre>

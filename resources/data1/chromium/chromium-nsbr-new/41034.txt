@@ -1,0 +1,1 @@
+<title>Issue 41034 -   chromium -    Preferences file systematically corrupted - Project Hosting on Google Code</title>   1. Start Chrome          Chrome starting normally.      I'm unable to keep my preferences on Chrome.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 602 -   chromium -    Right click on address bar - Project Hosting on Google Code</title>   1. Open Chrome  2. Right Click on the address bar  3. Crashes      Crashes      Should not crash    Please provide

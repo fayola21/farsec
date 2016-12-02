@@ -1,0 +1,1 @@
+<title>Issue 8834 -   chromium -    REGRESSION: Can't drag URL to caption area - Project Hosting on Google Code</title> <pre> Try to drag a URL to the caption area (must be nonclient area  so either   the space above the tabstrip in a restored window  or the space to the   right of the tabs in a maximized window).  You can't drop it. </pre>

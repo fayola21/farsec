@@ -1,0 +1,1 @@
+<title>Issue 30107 -   chromium -    Direction of mirroring characters are wrong in content area - Project Hosting on Google Code</title>   1. Copy &quot;abc ��__��_��_��_��_ (��_��_��_) ��_��_��_����_ xyz&quot; to an content input widget.          The parenthesis should face inside.      the Parenthesis face outside.    <b>Please provide

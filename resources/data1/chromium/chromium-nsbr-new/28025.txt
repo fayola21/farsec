@@ -1,0 +1,1 @@
+<title>Issue 28025 -   chromium -    Flash fullscreen stops mouse input when started onpress - Project Hosting on Google Code</title>   1. If a flash enters fullscreen onpress  2. mouse input will fail    <b>Please provide

@@ -1,0 +1,1 @@
+AbstractDefaultAjaxBehavior.getCallbackFunctionBody uses jQuery.extend    Wicket components should not rely on jQuery. jQuery.extend should be made available through the Wicket JS api and AbstractDefaultAjaxBehavior.getCallbackFunctionBody should use that.   

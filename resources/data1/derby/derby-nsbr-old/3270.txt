@@ -1,0 +1,1 @@
+Delayed (on-demand) creation of current user schema makes select from view belonging to other schema fail.    The enclosed repro fails with error 42Y07 'Schema BILL does not exist'  even thoughthe query does not reference that schema; it selects from joe.myview.   

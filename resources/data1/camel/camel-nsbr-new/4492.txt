@@ -1,0 +1,1 @@
+Be able to check classtype through simple language    See http://camel.465427.n5.nabble.com/How-do-I-access-the-message-class-name-from-Simple-td4842269.html for the full context.In short be able to access Object.getClass() for usage in Camel's simple language.   

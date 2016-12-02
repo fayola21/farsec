@@ -1,0 +1,1 @@
+<title>Issue 36191 -   chromium -    [Accessibility] Booksmarks menu doesn't have an accessible name - Project Hosting on Google Code</title> <pre> 1. Run chrome with the --bookmark-menu  2. Navigate to the bookmarks menu in the toolbar within an accessibility  like AccExplorer.    The bookmarks menu should have a name. </pre>

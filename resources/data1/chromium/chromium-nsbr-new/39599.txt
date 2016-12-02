@@ -1,0 +1,1 @@
+<title>Issue 39599 -   chromium -    Reloading extension under development does not reload locale manifest (i18n) - Project Hosting on Google Code</title>   1. Load a extension  2. Change something in some locale manifest  3. Reload the extension      new messages and changes in manifest      manifest is not affected    <b>Please provide

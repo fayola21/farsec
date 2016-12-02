@@ -1,0 +1,1 @@
+<title>Issue 27946 -   chromium -    Command + Enter should replace CTRL + Enter on Mac - Project Hosting on Google Code</title>   1. Type &quot;google&quot; in omnibar  2. Press command + enter        <a href="http://www.google.com">http://www.google.com</a>      A google search is performed in a new tab using the term &quot;google&quot;    <b>Please provide

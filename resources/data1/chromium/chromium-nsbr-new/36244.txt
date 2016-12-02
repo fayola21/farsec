@@ -1,0 +1,1 @@
+<title>Issue 36244 -   chromium -    Hook up shift-reload on Windows - Project Hosting on Google Code</title> <pre> The Browser class now has a new function &quot;ReloadIgnoringCache&quot; and also   understands a new command &quot;IDC_RELOAD_IGNORING_CACHE&quot;.    Hook this up to shift-reload (and shift-F5  and shift-ctrl-R). </pre>

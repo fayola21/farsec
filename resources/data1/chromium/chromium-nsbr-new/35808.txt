@@ -1,0 +1,1 @@
+<title>Issue 35808 -   chromium -    Zoomed Flash game mouse pointer mislocation - Project Hosting on Google Code</title>   1. load the web page  2. Zoom in ( ctrl + +)   3. move the mouse around and see      correct positioning      Position off    <b>Please provide

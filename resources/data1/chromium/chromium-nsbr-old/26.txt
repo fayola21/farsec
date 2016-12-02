@@ -1,0 +1,1 @@
+<title>Issue 26 -   chromium -    Mousewheel Scrolling with Dell Mouse Suite enabled - Project Hosting on Google Code</title>   1. Open any page which requires vertical scrolling  2. scroll down a bit  3. try to scroll up using the mouse wheel      Scrolling up should work      Scrolling down using the mouse wheel is no problem  scrolling up does not   work.       Please provide

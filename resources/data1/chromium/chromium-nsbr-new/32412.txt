@@ -1,0 +1,1 @@
+<title>Issue 32412 -   chromium -    Implement sync for typed URLs - Project Hosting on Google Code</title> <pre> We're planning to sync a subset of history  and hope to get a decent omnibox   experience out of it.  For now  this subset is restricted to urls that the   user has actually typed in. </pre>

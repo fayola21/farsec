@@ -1,0 +1,1 @@
+<title>Issue 22265 -   chromium -    Add 'process crash dumps' step in Linux - Project Hosting on Google Code</title> <pre> We need a script that can process crash dump and print out stack trace in   Linux. Chromebot needs it. Some Linux bots in build system may also use it as   we do with Windows bots. </pre>

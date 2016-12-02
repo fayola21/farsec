@@ -1,0 +1,1 @@
+<title>Issue 18972 -   chromium -    Default UI should do something while loading - Project Hosting on Google Code</title> <pre> On poor internet connections  the initial load and seek can take an awfully   long time.  It'd be best if the default UI grayed out or displayed a spinner   or did *something* to let the user know that we're working on it :) </pre>

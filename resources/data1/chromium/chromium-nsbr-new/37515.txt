@@ -1,0 +1,1 @@
+<title>Issue 37515 -   chromium -    Google Wave crashes upon login - Project Hosting on Google Code</title>   1. go to wave.google.com  2. log in  3. wait for 10-15 seconds  4. crash      Google Wave loads      Google Wave crashes    <b>Please provide

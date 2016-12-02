@@ -1,0 +1,1 @@
+<title>Issue 22328 -   chromium -    --enable-sync causes chrome to crash - Project Hosting on Google Code</title>   1. Launch Chrome with the --enable-sync command option      Chrome loads and sync is enabled      Chrome crashes. Chrome cannot start with --enable-sync flag.    <b>Please provide

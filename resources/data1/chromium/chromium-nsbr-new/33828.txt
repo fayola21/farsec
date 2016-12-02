@@ -1,0 +1,1 @@
+<title>Issue 33828 -   chromium -    need 24 hour format  not only 12 - Project Hosting on Google Code</title> <pre>         12 hour format in History? Not cool. Need possibility to choose between 12  and 24. Europe you know..     </pre>

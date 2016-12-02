@@ -1,0 +1,1 @@
+Javascript in Form.registerJavascriptNamespaces() fails in Firefox 3.5.8    The undefined comparisons fail for me with a message stating that the Wicket variable is undefined (which the code is actually meant to check)   

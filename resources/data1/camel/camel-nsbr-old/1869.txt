@@ -1,0 +1,1 @@
+camel-mail - Add option to ignore unsupported charset and fallback to platform default instead    See nabble:http://www.nabble.com/Camel-Mail-issue-with-unsupported-charset-td24755585.html   

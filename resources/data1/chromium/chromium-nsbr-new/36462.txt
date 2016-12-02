@@ -1,0 +1,1 @@
+<title>Issue 36462 -   chromium -    Bug on tabs/pesta��_��_as - Project Hosting on Google Code</title>   1. If i set big fonts on Windows  the tabs go out and cant click them    please  see image: <a href="http://i47.tinypic.com/2iqfz1s.png">http://i47.tinypic.com/2iqfz1s.png</a>            The big fonts            <b>Please provide

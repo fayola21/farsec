@@ -1,0 +1,1 @@
+<title>Issue 588 -   chromium -    No OpenSolaris install binary? - Project Hosting on Google Code</title>             Google to provide a OpenSolaris install package for x86/SPARC.      Only a Windows binary is provided.    Please provide

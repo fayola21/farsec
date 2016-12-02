@@ -1,0 +1,1 @@
+<title>Issue 35094 -   chromium -    Add (and use) Windows standard &quot;more details&quot; control - Project Hosting on Google Code</title> <pre> See the &quot;copy lots of files&quot; dialog box.    We could use this in the cookie prompt dialog. </pre>

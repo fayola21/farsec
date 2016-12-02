@@ -1,0 +1,1 @@
+<title>Issue 9107 -   chromium -    Selecting then right-clicking text does not bring up correct context menu - Project Hosting on Google Code</title> <pre> Chrome Version: 2.0.171.0 (Developer Build 12246)    Go to new tab page  select any text there  right click on it..context menu to   copy etc does not show up.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18786 -   chromium -    DevToolsSanityTests crashing as of webkit 46894 - Project Hosting on Google Code</title> <pre> The following interactive UI tests were disabled  since they were crashing   since the webkit 46894 update:    DevToolsSanityTest.TestConsoleEval  DevToolsSanityTest.TestConsoleLog   </pre>

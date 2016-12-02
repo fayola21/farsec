@@ -1,0 +1,1 @@
+<title>Issue 7696 -   chromium -    Update Copyright to 2006-2009 - Project Hosting on Google Code</title> <pre> Google Chrome 2.0.162.0 and Chromium 2.0.163.0 still show Copyright 2006-  2008.     You should update it to 2006-2009 in About Google Chrome and in about: </pre>

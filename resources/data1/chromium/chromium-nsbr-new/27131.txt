@@ -1,0 +1,1 @@
+<title>Issue 27131 -   chromium -    Layout tables in remote fonts (@font-face) are not supported - Project Hosting on Google Code</title> <pre> Current version of OTS library (code.google.com/p/ots) does not support   GSUB and GDEF tables of OpenType.    We might have to support these tables if we want to use @font-face for   complex scripts.   </pre>

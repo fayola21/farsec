@@ -1,0 +1,1 @@
+<title>Issue 22944 -   chromium -    Should not use blue background for tab list when system's window decoration is used - Project Hosting on Google Code</title>   1. Activate the use of the systems window borders  etc.      The window borders become the standard one and the tab list gets the normal   system background.        The tab list remains blue.      <b>Please provide

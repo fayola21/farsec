@@ -1,0 +1,1 @@
+<title>Issue 41768 -   chromium -    Mac polish: empty bookmark folders show awkwardly in main menu - Project Hosting on Google Code</title> <pre> That is  they display an arrow  but then don't display anything. Probably displaying a menu with   &quot;(empty)&quot; (as a disabled menu item) would be better. </pre>

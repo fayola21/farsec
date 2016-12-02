@@ -1,0 +1,1 @@
+<title>Issue 34614 -   chromium -    auto-generate extension wrappers for NPAPI plugins - Project Hosting on Google Code</title> <pre> (suggestion from Darin)  If we auto-generated extension manifests and pref entries for detected NPAPI   plugins  then we could re-use the extensions management UI letting users   selectively enable and disable plugins on their machines.   </pre>

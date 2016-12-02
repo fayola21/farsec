@@ -1,0 +1,1 @@
+In wicket 1.5 urlFor returns incorrect string for package mounted pages    Attached two quickstart projects for 1.4 and 1.5.Then access http://localhost:8080/app/Page1 and see 1.5 returns wrong address.   

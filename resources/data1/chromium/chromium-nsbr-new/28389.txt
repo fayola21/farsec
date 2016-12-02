@@ -1,0 +1,1 @@
+<title>Issue 28389 -   chromium -     'view source' does not work with local files - Project Hosting on Google Code</title>   1. open a file locally  2. right click  3. view page source      chromium should show the source      empty page is shown    <b>Please provide

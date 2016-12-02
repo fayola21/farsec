@@ -1,0 +1,1 @@
+<title>Issue 44519 -   chromium -    Rewrite collapse() and expand() in console view - Project Hosting on Google Code</title> <pre> Nicolas doesn't like the current implementation. Nicolas  please file up the   actual requirements of this task. </pre>

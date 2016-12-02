@@ -1,0 +1,1 @@
+<title>Issue 36736 -   chromium -    Fullscreen tests fail on the tsan bots - Project Hosting on Google Code</title> <pre> BrowserWindowFullScreenControllerTest.TestFullscreen and TestActivate both fail on the tsan bot    leading to crashes in later tests.  I am disabling them until I can figure out how to fix. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1477 -   chromium -    I notice there is no support for dot net assembly hosting will this ever be supported in chrome ? Or will this be a feature that only IE will only support ? - Project Hosting on Google Code</title>   1. Log on to any site that supports dot net assembly hosting                     Please provide

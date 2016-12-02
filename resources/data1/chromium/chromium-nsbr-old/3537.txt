@@ -1,0 +1,1 @@
+<title>Issue 3537 -   chromium -    When dir=rtl for an input element  arrow keys direction is reversed in only IE - Project Hosting on Google Code</title>   1. When DIR attribute of an input is set to RTL the behavior of right and   left arrow key are exchanged with each other. It's not correct!!!                Please provide

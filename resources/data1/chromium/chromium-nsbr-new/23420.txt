@@ -1,0 +1,1 @@
+<title>Issue 23420 -   chromium -    Themes not applied - Project Hosting on Google Code</title>   1. Try installing a theme on Windows XP SP3 from the official Google Chrome   Theme gallery        Themes is being downloaded and applied      a .crx file is downloaded and nothing else happenes. Can't apply the theme.   (happenes with any of the themes)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1170 -   chromium -    Sorry Your Browser cannot support WebClient Interface. - Project Hosting on Google Code</title>   1. Nortel CS1000E web Administrator interface  2. JAVA Enable        a popup windows with the warning.      It didn��t open the web interface    Please provide

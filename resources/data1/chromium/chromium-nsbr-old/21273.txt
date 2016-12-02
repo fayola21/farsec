@@ -1,0 +1,1 @@
+<title>Issue 21273 -   chromium -    --show-extensions-on-top: border is wrong - Project Hosting on Google Code</title> <pre> The border drawn around the edge of the extension toolstrip is set up for the   bottom shelf  widh an edge on the top and nothing on the bottom.  This means   it doesn't blend in well with the bookmark bar. </pre>

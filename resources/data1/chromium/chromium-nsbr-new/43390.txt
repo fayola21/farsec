@@ -1,0 +1,1 @@
+<title>Issue 43390 -   chromium -    cannot close a pinned tab - Project Hosting on Google Code</title>   1.pin any page  2.try to close out the page        the tab should close out      the tab will become invisible  but if icon is selected again  the tab reappears    <b>Please provide

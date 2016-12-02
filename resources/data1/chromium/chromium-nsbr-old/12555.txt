@@ -1,0 +1,1 @@
+<title>Issue 12555 -   chromium -    Autocomplete is not focused when a new tab is opened. - Project Hosting on Google Code</title> <pre> Replicate:    Browse to www.google.com.  The focus should end up in the page's search box.  Command-t for new tab (or click the plus sign on tab bar).  Nobody has focus.    What should happen:    autocomplete field should have focus. </pre>

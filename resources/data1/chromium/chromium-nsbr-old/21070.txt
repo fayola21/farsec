@@ -1,0 +1,1 @@
+<title>Issue 21070 -   chromium -    DOM Storage should use enums rather than bools to distinguish between the two types - Project Hosting on Google Code</title> <pre> DOM Storage should use enums rather than bools to distinguish between the   two types </pre>

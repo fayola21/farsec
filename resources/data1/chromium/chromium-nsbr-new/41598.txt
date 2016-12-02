@@ -1,0 +1,1 @@
+<title>Issue 41598 -   chromium -    update error 12 on mac - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 'about:version'&gt;                  What steps will reproduce the problem?(on mac)  1.click about google chrome  2.click update        chrome update to xxxxxx      error 12       </pre>

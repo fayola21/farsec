@@ -1,0 +1,1 @@
+<title>Issue 26360 -   chromium -    need to implement Notification.cancel() - Project Hosting on Google Code</title> <pre>   1. Create a notification  2. Try to cancel it from the creating script  3. Nothing happens...      Notification.cancel() should remove the notification from the display  or  cause it not to be shown.    This API hasn't been implemented yet.   </pre>

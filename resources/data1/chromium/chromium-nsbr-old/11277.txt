@@ -1,0 +1,1 @@
+<title>Issue 11277 -   chromium -    Beter autoscroll icons - Project Hosting on Google Code</title> <pre> We should have better icons for autoscroll.    Needed no later than 8 May. </pre>

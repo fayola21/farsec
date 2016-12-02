@@ -1,0 +1,1 @@
+<title>Issue 29666 -   chromium -    Chrome doesn't quit while edit search engines dialog is open - Project Hosting on Google Code</title> <pre> Chrome Version       : <a href="/p/chromium/source/detail?r=34027">r34027</a>      1. Open Preferences  2. Click &quot;Manage&quot;  3. Hit cmd-q        Chrome should quit.        It doesn't. </pre>

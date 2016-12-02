@@ -1,0 +1,1 @@
+<title>Issue 15557 -   chromium -    Chrome does not antialias fonts on laptops (Subpixel rendering) - Project Hosting on Google Code</title>   1.Open any page in Chrome.  2. Use xmag to magnify the fonts.  3. See the grayscale antialiasing instead of RGB.      Expected to have subpixel antialiasing.      Grayscale antialiasing.    <b>Please provide

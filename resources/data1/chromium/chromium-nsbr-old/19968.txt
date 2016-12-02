@@ -1,0 +1,1 @@
+<title>Issue 19968 -   chromium -    Unable to update chrome (error 3) - Project Hosting on Google Code</title>   1.Open up google chrome  2.Hit Tools  3.About google chrome      Google updates itself and says its version      update server is not found (error 3)    <b>Please provide

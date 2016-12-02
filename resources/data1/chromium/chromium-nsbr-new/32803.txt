@@ -1,0 +1,1 @@
+<title>Issue 32803 -   chromium -    Shift+Ctrl+I doesn't work in Ubuntu9.04 - Project Hosting on Google Code</title>   1. go to any website (ex : google.com)  2. press Shift+Ctrl+I       What is the expected result?What happens instead?  Nothing happens in Chrome browser. &quot;Developer Tools&quot; should show up    <b>Please provide

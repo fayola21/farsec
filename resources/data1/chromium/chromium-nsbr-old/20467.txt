@@ -1,0 +1,1 @@
+<title>Issue 20467 -   chromium -    ffmpeg binaries for x64 - Project Hosting on Google Code</title> <pre> Now that we have a x64 build working for linux we need ffmpeg binaries for   it.    I have tested video playback with self built binaries and it appears to work   fine. </pre>

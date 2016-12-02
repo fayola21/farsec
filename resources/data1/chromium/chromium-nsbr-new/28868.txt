@@ -1,0 +1,1 @@
+<title>Issue 28868 -   chromium -    ctrl-opt-arrow inserts box character - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.12      1. In a textarea  hit ctrl-opt-arrow        Nothing should happen.        Some unicode character (��_��_��_  ��_��_��_) is inserted.    Since this is not a shortcut for anything  this is not a critical problem. </pre>

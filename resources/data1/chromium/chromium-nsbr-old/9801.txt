@@ -1,0 +1,1 @@
+<title>Issue 9801 -   chromium -    Copy images from HTML pages doesn��t work - Project Hosting on Google Code</title>   1. Go to www.google.com and right-click on Google Logo. Choose copy and   then go to e.g. Powerpoint and choose paste....nothing happens....          Paste of copied picture      Nothing    <b>Please provide

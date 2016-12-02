@@ -1,0 +1,1 @@
+Background operations window  called from wizard doesn't react to 'Do not show this dialog...' flag    STR:Go through the Reassign NameNode wizard.On the last step click on the Start All Services link.Change the state of flag Do not show this dialog again when starting a background operation.Click OK.Click Start All Services link again.Result: State of flag was not changed.   

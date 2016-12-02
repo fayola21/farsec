@@ -1,0 +1,1 @@
+<title>Issue 21985 -   chromium -    Line at the bottom of pages - Project Hosting on Google Code</title> <pre> Chrome Version       : trunk 26330  OS version               :  10.5.8      1. open browser      you will see a big line      I think  there need to be no this line. Result on screen </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45204 -   chromium -    Move app shortcut code from chrome/browser/shell_integration_linux to chrome/browser/web_applications. - Project Hosting on Google Code</title> <pre> Move app shortcut code from chrome/browser/shell_integration_linux to   chrome/browser/web_applications.    I'm going to do it when I have a while. Feel free to steal the bug. </pre>

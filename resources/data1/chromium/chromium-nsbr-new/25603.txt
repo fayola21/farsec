@@ -1,0 +1,1 @@
+<title>Issue 25603 -   chromium -    Don't import home page - Project Hosting on Google Code</title> <pre> When import is run on first run  we import the home page from the other   browser. This can result in a un-useful homepage being set. We shouldn't   import the home page. </pre>

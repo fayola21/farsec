@@ -1,0 +1,1 @@
+WicketFilter tries to call setClassLoader() even if it's not changing the default - doesn't work on strict SecurityManagers.    As summary. Solution is to avoid setting the classloader if it's not actually changed.   

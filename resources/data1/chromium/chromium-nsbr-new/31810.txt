@@ -1,0 +1,1 @@
+<title>Issue 31810 -   chromium -    Double Chrome icon on Win7 taskbar - Project Hosting on Google Code</title> <pre> Chrome Version: 4.0.288.1      1. Chrome on Windows 7 use      Windows 7 thumbnail selection not working        Chrome open as double icon from taskbar       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18102 -   chromium -    chrome loses search providers on reboot - Project Hosting on Google Code</title>   1. Install Chrome on Windows 7  1. Reboot        Search providers in Chrome are still listed.        No search providers are listed  and search does not work.    <b>Please provide

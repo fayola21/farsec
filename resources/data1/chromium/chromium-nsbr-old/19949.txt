@@ -1,0 +1,1 @@
+<title>Issue 19949 -   chromium -    onunload not working - Project Hosting on Google Code</title> <pre> Sample codes of onunload not firing -    &lt;html&gt;  &lt;head&gt;  &lt;body onunload=&quot;alert('am I fired on unload?');&quot;&gt;  Hello Chrome 3 user!!!  &lt;/body&gt;  &lt;/html&gt;    Tested on Windows XP SP3 + Chrome 3.0.195.6). </pre>

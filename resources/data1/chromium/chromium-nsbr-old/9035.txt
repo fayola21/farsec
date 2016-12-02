@@ -1,0 +1,1 @@
+<title>Issue 9035 -   chromium -    On Vista  use Vista downloads folder - Project Hosting on Google Code</title> <pre> On Vista  the default download location should be the default Vista   Downloads folder.    Currently  we end up with two folders: /Downloads/ and   /Documents/Downloads/. This is super confusing. </pre>

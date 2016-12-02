@@ -1,0 +1,1 @@
+<title>Issue 29594 -   chromium -    Copy/paste not working with keyboard shortcut or through browser menu - Project Hosting on Google Code</title>   1. Open Google doc  2. Highlight text  3. Ctrl C/ctrl V or use copy/paste from browser menu      It would copy and paste.      It does not copy and paste.    <b>Please provide

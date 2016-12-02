@@ -1,0 +1,1 @@
+<title>Issue 30845 -   chromium -    FaceBook BUG - Project Hosting on Google Code</title> <pre> Use FaceBook publish content  the input wrap after the send has not changed   line wrapping will be automatically canceled. </pre>

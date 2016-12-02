@@ -1,0 +1,1 @@
+<title>Issue 21854 -   chromium -    Check boxes don't show up in the pages - Project Hosting on Google Code</title>   1.The check boxes don't appear in the page  2.Open the yahoomail. Click on the checkmail in chrome  3.The check boxes don't appear        Checkeck boxes need to appear      Checkeck boxes don't appear    <b>Please provide

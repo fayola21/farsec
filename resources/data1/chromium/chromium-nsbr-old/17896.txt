@@ -1,0 +1,1 @@
+<title>Issue 17896 -   chromium -    &quot;Downloads&quot; appears more than once in recent activities - Project Hosting on Google Code</title> <pre> If you go to &quot;chrome://downloads/&quot; more than once  it shows up multiple times   in the Recent Activities list.  I would expect it to show up only once  even   if you've visited several times.   </pre>

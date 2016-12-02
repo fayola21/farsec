@@ -1,0 +1,1 @@
+<title>Issue 38860 -   chromium -    [1964:2680:221807890:WARNING:rankings.cc(341)] Invalid rankings info. - Project Hosting on Google Code</title> <pre> buildbot version chrome.exe --show-logging in a virtualized environment    [1964:2680:221807890:WARNING:rankings.cc(341)] Invalid rankings info. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22980 -   chromium -    Single-click in omnibox should select-all. - Project Hosting on Google Code</title> <pre> It does on Windows  and pkasting says it should on Mac  too.    I have a CL to do it ... </pre>

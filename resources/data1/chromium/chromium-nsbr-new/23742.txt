@@ -1,0 +1,1 @@
+<title>Issue 23742 -   chromium -    RSS - Project Hosting on Google Code</title> <pre> When will you support RSS feeds? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18592 -   chromium -    Dev Channel Chrome Crashes continuously on Vista - Project Hosting on Google Code</title>   1. Opening Google Chrome after upgrading to latest dev channel on Vista   Service Pack 1          Google chrome is not opening at all      Google Chrome Crashed. Restart? and If you click restart it crashes again    <b>Please provide

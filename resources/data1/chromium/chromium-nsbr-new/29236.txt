@@ -1,0 +1,1 @@
+<title>Issue 29236 -   chromium -    Scroll not working properly. - Project Hosting on Google Code</title>   1.Switch to a tab  2.move the cursor off of the tab bar and scroll.        The selected tab should scroll.    What happens instead?  The tab scrolls  or Chrome scrolls to another tab    or both.      <b>Please provide

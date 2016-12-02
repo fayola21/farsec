@@ -1,0 +1,1 @@
+<title>Issue 14480 -   chromium -    fix UserScriptMasterTest to fake initialize extensions - Project Hosting on Google Code</title> <pre> Since part of UserScriptMaster depends on Extensions having initialized  we   should send a notification to allow the tests to work properly with StartScan   not happening until Extensions have been initialized. </pre>

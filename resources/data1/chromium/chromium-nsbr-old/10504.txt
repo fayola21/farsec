@@ -1,0 +1,1 @@
+<title>Issue 10504 -   chromium -    Right Click Unselects Text - Project Hosting on Google Code</title>   1. Select text on a page  2. Right click the selection      A context menu should appear and the text should stay selected.      A context menu appears but the text loses its selection.  Thus you can't   copy it without using CTRL+C.    <b>Please provide

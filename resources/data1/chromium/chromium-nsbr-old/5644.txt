@@ -1,0 +1,1 @@
+<title>Issue 5644 -   chromium -    LayoutTests/fast/canvas/patternfill-repeat.html is incorrect - Project Hosting on Google Code</title> <pre> LayoutTests/fast/canvas/patternfill-repeat.html is wrong. The left two   squares are blank  but should contain apple images instead. Compare to   Safari for a reference.   </pre>

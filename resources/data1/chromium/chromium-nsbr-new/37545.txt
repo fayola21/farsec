@@ -1,0 +1,1 @@
+<title>Issue 37545 -   chromium -    Gears should work on Win7 x64 - Project Hosting on Google Code</title> <pre> Build:5.0.342.2 (Official Build 40685)  OS: Win7 x64    -Try to enable offline for Gmail a/c.    Error: Failed to enable local store ---see the screenshot.    PS: works fine in Vista and win7 x32. </pre>

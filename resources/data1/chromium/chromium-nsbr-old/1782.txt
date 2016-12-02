@@ -1,0 +1,1 @@
+<title>Issue 1782 -   chromium -    Up trackpad sweep no work VISTA and HP TX100 Computer  - Project Hosting on Google Code</title>   1. Open Web Page  2. Use finger to sweep trackpad to scroll down page  3. Use finger to sweep trackpad to scroll UP page - doesn't work.      Page should not only scroll down but also up.      Nothing    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6227 -   chromium -    New tab button partially hidden - Project Hosting on Google Code</title>   1. Open many tabs  2. Eventually the new tab button will become partially hidden under the   minimize button                  Please provide

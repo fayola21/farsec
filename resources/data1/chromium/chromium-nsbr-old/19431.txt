@@ -1,0 +1,1 @@
+<title>Issue 19431 -   chromium -    Blue info bar appears underneath Taskbar Windows 7 - Project Hosting on Google Code</title>   1. Hover over a link  2. Blue bar appears below taskbar      Blue bar should appear at the bottom of the Chromium window      It appears underneath the Windows 7 Taskbar    <b>Please provide

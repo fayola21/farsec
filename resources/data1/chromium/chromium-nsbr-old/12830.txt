@@ -1,0 +1,1 @@
+<title>Issue 12830 -   chromium -    Can't move map into the game &quot;The West - Project Hosting on Google Code</title>   1. register and log in into the game  2. close the boring tutorials which pop up  3. click on the map on the screen and drag the mouse      The map should move      The &quot;insert text&quot; prompt appears and the map doesn't move      <b>Please provide

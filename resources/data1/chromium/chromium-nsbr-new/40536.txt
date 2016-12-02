@@ -1,0 +1,1 @@
+<title>Issue 40536 -   chromium -    Ugly font substitution - Project Hosting on Google Code</title>   1. Log into your bank account          See the attached IE8_bankhapoalim.gif screenshot.      The web page is rendered with less readable fonts.  See the attached chrome_bankhapoalim.gif screenshot.    <b>Please provide

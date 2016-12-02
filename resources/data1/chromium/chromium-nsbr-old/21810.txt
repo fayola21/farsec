@@ -1,0 +1,1 @@
+<title>Issue 21810 -   chromium -    Google Chrome RPM generates a SELinux error - Project Hosting on Google Code</title> <pre> On 32-bit Fedora 11  with the 207 dev release  I got:    SELinux is preventing chrome from loading  /opt/google/chrome/libavutil.so.50 which requires text relocation.    I guess we need to give that library the textrel_shlib_t context? </pre>

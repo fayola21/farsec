@@ -1,0 +1,1 @@
+<title>Issue 2879 -   chromium -    Implement fast back - Project Hosting on Google Code</title> <pre> Our back button doesn't work very well because we don't have a back/forward page cache.  For   example  try to shop for a freezer on Sears.com.  We should teach Chromium about the pageCache   in WebKit.   </pre>

@@ -1,0 +1,1 @@
+Rendering of feedback messages fails with DebugBar in page    After the page is detached to calculate its size  messages are no longer available for FeedbackPanel to get the CSS styling for messages  failing with a NullPointerException.   

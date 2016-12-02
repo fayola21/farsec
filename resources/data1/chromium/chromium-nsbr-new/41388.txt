@@ -1,0 +1,1 @@
+<title>Issue 41388 -   chromium -    Should be able to enter separators into bookmarks folders and menus - Project Hosting on Google Code</title> <pre> Firefox has the ability to create &quot;separators&quot; in the bookmarks toolbar and in the bookmarks menus    and I find that judicious use of them can enhance readability. Any chance we can add this? </pre>

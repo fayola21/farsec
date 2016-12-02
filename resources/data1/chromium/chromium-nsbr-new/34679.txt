@@ -1,0 +1,1 @@
+<title>Issue 34679 -   chromium -    ChromeFrame Tests: URL Zone - Project Hosting on Google Code</title> <pre> Url zone in status bar:  1. Verify that zone is always internet with chrome frame is loaded  2. Verify that for restricted zone chrome frame does not load the URL.   </pre>

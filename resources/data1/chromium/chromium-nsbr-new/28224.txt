@@ -1,0 +1,1 @@
+<title>Issue 28224 -   chromium -    The Task Manager prefix for Native Client modules is not localized - Project Hosting on Google Code</title> <pre> The prefix text is defined only for English: see  IDS_TASK_MANAGER_NACL_PREFIX in chrome/app/generated_resources.grd </pre>

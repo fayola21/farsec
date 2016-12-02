@@ -1,0 +1,1 @@
+<title>Issue 19893 -   chromium -    Add Sync UI to the Bookmark Manager - Project Hosting on Google Code</title> <pre> [from http://b/1587357    The Bookmark Manager in Chrome is currently not showing any Sync related   status. The UI needs to be mocked up and implemented. </pre>

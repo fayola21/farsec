@@ -1,0 +1,1 @@
+Xmpp consumer stops consuming after some time    Noticed after creating some more complicated routes that my xmpp consumers would stop receiving messages. This patch sorts that out  I also improved some of the logging in the producer and consumer classes and tweaked the XmppRouteChatTest to work properly.   

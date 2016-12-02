@@ -1,0 +1,1 @@
+<title>Issue 30962 -   chromium -    Content scripts don't match file://localhost/ pattern - Project Hosting on Google Code</title>   In Linux:  Load attached extension.  Navigate to file://localhost/home/user/file.html      Content script fires  and background page has the URL logged.      Content script doesn't fire.    <b>Please provide

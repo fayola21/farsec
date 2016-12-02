@@ -1,0 +1,1 @@
+<title>Issue 21435 -   chromium -    --show-extensions-on-top: Don't show &quot;for quick access....&quot; text if a toolstrip is present - Project Hosting on Google Code</title> <pre> One could argue it is doing the right thing now  but I think it is visually   distracting to have that text there when you have toolstrips but no   bookmarks. </pre>

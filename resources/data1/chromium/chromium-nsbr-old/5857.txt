@@ -1,0 +1,1 @@
+<title>Issue 5857 -   chromium -    Minimize/Maximize/Close buttons don't function - Project Hosting on Google Code</title>   1. Open Chromium  2. Attempt to use Maximize/Restore/Close [X] boxes in upper right of   browser       What is the expected result?  Browser window will maximize/restore or   close.      What happens instead? Nothing      Please provide

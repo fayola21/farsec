@@ -1,0 +1,1 @@
+<title>Issue 38072 -   chromium -    bad line on the right in title/tabbar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.353.0 (Developer Build 41434)  --enable-experimental-extension-apis --enable-user-stylesheet      i have a bad line in the titlebar (on the right side)  see picture  it moves a little if i resize the browser  i have windows 7 </pre>

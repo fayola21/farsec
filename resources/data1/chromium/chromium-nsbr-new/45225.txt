@@ -1,0 +1,1 @@
+<title>Issue 45225 -   chromium -    Tamil fonts not displayed properly - Project Hosting on Google Code</title>   1. Open the given url in the chrom which is in ubuntu linux.      Text should be readble.       Text messing.    <b>Please provide

@@ -1,0 +1,1 @@
+ResourceStreamResource should use #getResourceStream() instead of directly using the 'stream' field    org.apache.wicket.request.resource.ResourceStreamResource#newResourceResponse() resolves the IResourceStream by using #internalGetResourceStream() but later still uses the 'stream' member field.   

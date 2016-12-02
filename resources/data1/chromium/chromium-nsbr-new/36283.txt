@@ -1,0 +1,1 @@
+<title>Issue 36283 -   chromium -    Browser sync doesn't obey chrome networking limits - Project Hosting on Google Code</title> <pre> Chrome sets limits on the number of outstanding host resolution requests and   open sockets.  It seems like the browser sync code does not obey these.    It'd be good for browser sync to obey said limits. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15287 -   chromium -    cannot print selection by select text  then right click  then print - Project Hosting on Google Code</title>   1.select something from a page  2.click right mouse button      there is no way to print      for print a selection you have to go to the print menu.     <b>Please provide

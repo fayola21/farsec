@@ -1,0 +1,1 @@
+<title>Issue 27045 -   chromium -    Broken application icon behaviour - Project Hosting on Google Code</title>   1. Open any page      Chrome taskbar icon should animate during downloading page content  after   the download has succeeded icon should change to default icon or the web   page icon.      The icon seems broken (see attachment) and is still.    <b>Please provide

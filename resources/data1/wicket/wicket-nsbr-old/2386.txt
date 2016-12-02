@@ -1,0 +1,1 @@
+JavaDoc: Some JavDoc examples still refer to WicketServlet    Some JavDoc examples still refer to WicketServlet  instead they should use WicketFilter.Most important candidate might be ./wicket-spring/src/main/java/org/apache/wicket/spring/SpringWebApplicationFactory.javagrep . -R --include '*.java' -e 'WicketServlet'indicates that others might be affected too.   

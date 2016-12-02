@@ -1,0 +1,1 @@
+<title>Issue 894 -   chromium -    Cannot merge two chrome windows into tabs - Project Hosting on Google Code</title>   1. Launch a chrome window and create a new chrome window  2. Move one window over the other                  Please provide

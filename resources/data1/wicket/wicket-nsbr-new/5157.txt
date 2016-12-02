@@ -1,0 +1,1 @@
+URL query parameter values containing equals sign get cut off    When calling a page with a query parameter like 'param1=val1=val2' the value of 'param1' obtained from PageParameters will be 'val1'. Everything after the equals sign inside the parameter value gets cut off.   

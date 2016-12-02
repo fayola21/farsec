@@ -1,0 +1,1 @@
+<title>Issue 17405 -   chromium -    Omnibox popup doesn't resize along with window. - Project Hosting on Google Code</title> <pre>   1. Type something that will bring the omnibox popup up.  2. Resize the window.    The popup stays the same size.  I'd expect the popup to either track the  field size  or go away.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43732 -   chromium -    5.0.375.29 beta for Linux has horrible font rendering on Ubuntu 10.04 32-bit - Project Hosting on Google Code</title>   1. Open any page. igoogle.com is especially ugly now                    <b>Please provide

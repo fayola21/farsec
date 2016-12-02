@@ -1,0 +1,1 @@
+<title>Issue 33522 -   chromium -    Chrome doesnt work well with Moodle - Project Hosting on Google Code</title>   1.just trying to edit a moodle page  it doesnt work                    <b>Please provide

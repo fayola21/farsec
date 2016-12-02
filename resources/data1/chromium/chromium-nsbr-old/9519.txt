@@ -1,0 +1,1 @@
+<title>Issue 9519 -   chromium -    Make GTK+ failures fatal in UI tests. - Project Hosting on Google Code</title> <pre> Currently they don't make the test fail  and are easy to miss in all other  messages.    I have a local change to do that  and I'm going to submit it soon. </pre>

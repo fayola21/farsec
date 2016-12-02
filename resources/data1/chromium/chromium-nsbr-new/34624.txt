@@ -1,0 +1,1 @@
+<title>Issue 34624 -   chromium -    Volume slider not working - Project Hosting on Google Code</title> <pre> Reported by HarvieCZ:    Also volume control is not working!  i can set volume slider to 100%  50% and 0% possitions only.  but with slider at 50% the sound is muted (0%) in fact.     </pre>

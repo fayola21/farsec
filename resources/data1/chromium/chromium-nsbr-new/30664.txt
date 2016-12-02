@@ -1,0 +1,1 @@
+<title>Issue 30664 -   chromium -    Sort data on a table view - Project Hosting on Google Code</title>   1.Open with Chrome a link that will display a report (table view)  2.Try to sort the data on the table using a column on the table: NO   REACTION (see attached picture)        Sort the data by the selected column as it does with Iexplorer      No reaction    <b>Please provide

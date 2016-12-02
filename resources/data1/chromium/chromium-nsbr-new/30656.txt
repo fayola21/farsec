@@ -1,0 +1,1 @@
+<title>Issue 30656 -   chromium -    [Linux] Implement context menu for browser actions and page actions - Project Hosting on Google Code</title> <pre> This has been implemented on Windows as tracked in <a title="should be able to uninstall extensions by right-clicking on them" class=closed_ref href="/p/chromium/issues/detail?id=29538"> issue 29538 </a>. </pre>

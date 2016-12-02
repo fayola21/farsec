@@ -1,0 +1,1 @@
+<title>Issue 13273 -   chromium -    Security Info dialog is so transparent to the webpage. - Project Hosting on Google Code</title> <pre> Repros on ToT and 183.0    -Navigate to any SSL/SSL error page  -Click on the security lock button.    As shown in the screenshot  the  background color of the webpage is visible  on the SSL info dialog.       </pre>

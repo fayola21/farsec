@@ -1,0 +1,1 @@
+<title>Issue 19059 -   chromium -    youtube : pressing Esc to exit full screen does nothing - Project Hosting on Google Code</title> <pre>   1. Go to youtube  2. Play any video  3. Click on full screen  4. Press Esc to exit full screen    What is the expected output?   Full screen exited    What do you see instead?  Nothing happens       </pre>

@@ -1,0 +1,1 @@
+BaseWicketTester#clickLink() doesn not serialize form to request for SubmitLink but does for AjaxSubmitLink    BaseWicketTester#clickLink() handles AjaxSubmitLink and SubmitLink onconsistently for the former all form inputs are serialized to the request before triggering.   

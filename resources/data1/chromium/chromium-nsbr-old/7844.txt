@@ -1,0 +1,1 @@
+<title>Issue 7844 -   chromium -    Eliminaci��__n encabezado y pie de impresi��__n - Project Hosting on Google Code</title>                   No es posible eliminar los encabezados y los pies de p��_��_gina al imprimir   como por ejemplo la fecha y hora de impresi��__n.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17564 -   chromium -    Chrome crashes on left-click download - Project Hosting on Google Code</title>   1. Left-click on any download/auto-commenced download          The file downloads accordingly.      Chrome crashes (And restarts)      <b>Please provide

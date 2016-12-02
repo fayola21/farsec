@@ -1,0 +1,1 @@
+<title>Issue 3966 -   chromium -    Facebook doesn't let you delete items off your wall. - Project Hosting on Google Code</title>   1. Using Chrome          click edit  drop down box appears  delete should remove line  but does   nothing      drop down box appears and disapears after click  but line remains.    Please provide

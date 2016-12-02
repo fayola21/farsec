@@ -1,0 +1,1 @@
+<title>Issue 35561 -   chromium -    ffmpeg --enable-memalign-hack is not needed for linux - Project Hosting on Google Code</title> <pre> remove --enable-memalign-hack from all configs except windows    beware that it &quot;interferes with memory debuggers&quot;   </pre>

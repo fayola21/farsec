@@ -1,0 +1,1 @@
+AjaxEditableLabel: defaultNullLabel() should really be a defaultNullorEmptyLabel()    defaultNullLabel() only inserts '...' when the model is NULL  not when the model contains an empty String.So right now it's impossible to get empty Strings edited with this component.   

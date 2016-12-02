@@ -1,0 +1,1 @@
+<title>Issue 44410 -   chromium -    text on &quot;Options&quot; button cut off in html5 notifications - Project Hosting on Google Code</title> <pre>     Ian sees &quot;Optio...&quot; instead of &quot;Options&quot; on Windows XP  running at resolution 1200x1920 (portrait) </pre>

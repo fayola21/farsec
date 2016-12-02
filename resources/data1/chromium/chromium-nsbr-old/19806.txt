@@ -1,0 +1,1 @@
+<title>Issue 19806 -   chromium -    login on last.fm crashes browser - Project Hosting on Google Code</title>   1. surf to last.fm/login  2. (maybe there is some information in the keychain chromium tries to   access  don't know)  3.crash chromium      show the login page of last.fm      chromium crashes    <b>Please provide

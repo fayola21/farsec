@@ -1,0 +1,1 @@
+<title>Issue 3269 -   chromium -    Chrome crashes frequently when double-clicking downloaded file - Project Hosting on Google Code</title>   1. Download a file  2. Double-click the file icon        File should open      Chrome crashes frequently (but not always)    Please provide

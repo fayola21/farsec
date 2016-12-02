@@ -1,0 +1,1 @@
+<title>Issue 39435 -   chromium -    Backspace key does nothing - Project Hosting on Google Code</title>   1. Click a link  2. Press backspace  3. Witness absence of action        Return to prev. page          Nothing    <b>Please provide

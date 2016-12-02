@@ -1,0 +1,1 @@
+<title>Issue 18631 -   chromium -    Purple/Violet Line on top of Chrome's Window Frame - Project Hosting on Google Code</title>   1.Run Chrome          Window Frame's Color should be uniform and no violet/purple line should be   on top of it      A purple/violet line sits on top of chrome's window frame (See Attachment)    <b>Please provide

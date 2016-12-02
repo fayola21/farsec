@@ -1,0 +1,1 @@
+<title>Issue 35174 -   chromium -    Some Keyboard Shortcuts (eg. Ctrl+T) don't work when Acrobat plugin eats them - Project Hosting on Google Code</title>   1. Open a pdf in the browser  2. Press Ctrl + t      New tab open in the browser      Some Acrobat popup window for &quot;Summarize Options&quot; appears    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15040 -   chromium -    Button 'Delete browse history' in settings is too large - Project Hosting on Google Code</title>   1. Go to the options  second tab (personal stuff)  2. (In dutch) the button 'browsegegevens wissen' (delete browse history in   english???) is too large      To let it fit on the button      Doesn't fit    <b>Please provide

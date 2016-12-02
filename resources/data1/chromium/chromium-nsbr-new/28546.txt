@@ -1,0 +1,1 @@
+<title>Issue 28546 -   chromium -    Reopen pages on startup failed - Project Hosting on Google Code</title>   1. option is set to reopen pages that were open last  2. quit chrome  3. open chrome and those last open pages were lost. homgepage was opened   instead.      pages open last were expected to be reopened      home page was opened.    <b>Please provide

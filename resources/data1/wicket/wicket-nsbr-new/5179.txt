@@ -1,0 +1,1 @@
+Move Form hidden field rendering to dedicated method    Form renders its hidden fields in onComponentTagBody()  which is never called when the markup sourcing strategy is PanelMarkupSourcingStrategy. Please can we move this to a dedicated method which can be called from MarkupSourcingStrategy#onComponentTagBody() when the component is instanceof Form.   

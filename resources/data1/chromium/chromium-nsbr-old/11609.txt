@@ -1,0 +1,1 @@
+<title>Issue 11609 -   chromium -    Navigating to any website leaves the caret in omnibox  - Project Hosting on Google Code</title> <pre>   1. Go to www.google.com    What is the expected output?   Caret should be in search box    What do you see instead?  Caret is in omnibox    This affects the Beta Channel Build 172.22 </pre>

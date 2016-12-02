@@ -1,0 +1,1 @@
+<title>Issue 34374 -   chromium -    Add status area to the login wizard view - Project Hosting on Google Code</title> <pre> Since StatusAreaView is no longer dependent on the BrowserView  it should be   straighforward to reuse it and put on the login wizard view. This would allow   to connect to WiFi before logging in  yay! </pre>

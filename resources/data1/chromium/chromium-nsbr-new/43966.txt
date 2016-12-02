@@ -1,0 +1,1 @@
+<title>Issue 43966 -   chromium -    Certificate viewer should show both A-label and U-label for SubjectAltName IDNs - Project Hosting on Google Code</title> <pre> When a user views a certificate with a subject alt name that is an IDN  we   should show the UTF (U-label) + punycode (A-Label) for each SAN in the   certificate. Ditto for the CN field. </pre>

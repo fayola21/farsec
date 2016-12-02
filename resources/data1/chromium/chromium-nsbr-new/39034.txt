@@ -1,0 +1,1 @@
+<title>Issue 39034 -   chromium -    renderer/nacl_desc_wrapper_chrome.cc should included conditionally on disable_nacl != 1 - Project Hosting on Google Code</title> <pre> disable_nacl=1 build broken by <a href="http://codereview.chromium.org/969006/show">http://codereview.chromium.org/969006/show</a>     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28800 -   chromium -    PDF doesn't open - Project Hosting on Google Code</title> <pre> Try to open <a href="http://downloads.bfads.net/BFAds-Costco-2009.pdf">http://downloads.bfads.net/BFAds-Costco-2009.pdf</a>    FF  IE  Safari work fine.    Happening with Google Chrome 4.0.249.11 (Official Build 32790) </pre>

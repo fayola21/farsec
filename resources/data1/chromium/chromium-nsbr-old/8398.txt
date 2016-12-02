@@ -1,0 +1,1 @@
+<title>Issue 8398 -   chromium -    Ctrl+W on last tab crashes - Project Hosting on Google Code</title> <pre>   1. Start chrome  2. navigate someplace  3. Ctrl+W    I'm seeing this on trunk@10611 </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2051 -   chromium -    link to webpage placed on a network does not work - Project Hosting on Google Code</title>   1. click on a link file:///.... does not work  chrome does not recognize  the link to a file available on a network folder          the linked page shoul open up      nothing    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 172 -   chromium -    Facebook Javascript Issues - Project Hosting on Google Code</title>   1. Log in to facebook  2. Attempt to do one of the following :  3. Become a fan of a program  turn on/off Facebook chat (Or enter FCChat   settings/pop out)      For the Javascript to respond to your click.      Nothing.    Please provide

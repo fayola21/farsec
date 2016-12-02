@@ -1,0 +1,1 @@
+<title>Issue 38802 -   chromium -    Regexp function does not always return the same result - Project Hosting on Google Code</title>   1.open the attached file 11.htm in chrome  2.see the console log        the result should be the same  print 4 lines of &quot;000002&quot;      only the first two returned the right result.    <b>Please provide

@@ -1,0 +1,1 @@
+Exchange - getIn and getOut with expected type parameter    It would be nice with a getIn(type) method so you can avoid ugly type cast and let Camel do type casting instead.CxfMessage cxf = exchange.getIn(CxfMessage.class);And the same for a getOut as well.   

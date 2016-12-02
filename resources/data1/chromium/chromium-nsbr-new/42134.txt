@@ -1,0 +1,1 @@
+<title>Issue 42134 -   chromium -    Cierre del navegadpr - Project Hosting on Google Code</title> <pre> Muchas veces se me reinicia constantemente el navegador. Posteriormente me   dice que no se ha cerrado correctamente y me pide restaurar. Un saludo </pre>

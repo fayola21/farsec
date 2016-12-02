@@ -1,0 +1,1 @@
+<title>Issue 25613 -   chromium -    fonts on chrome://extensions look suboptimal on mac - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.8      1. Go to chrome://extensions        Should look decent.        Doesn't  see screenshot. Needs some mac fonts on the font-family list I   guess. </pre>

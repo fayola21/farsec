@@ -1,0 +1,1 @@
+Add option to changed readLock to denote whether a zero file size is accepted or not    Some people may write zero files and want them to be accepted.   

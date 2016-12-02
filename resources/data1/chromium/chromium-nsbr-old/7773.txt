@@ -1,0 +1,1 @@
+<title>Issue 7773 -   chromium -    User Script AdSweep breaks Presently and GetAMac site - Project Hosting on Google Code</title> <pre>   1. Open Google Apps  2. Choose New Presentation    What is the expected output?   Page opens with a blank presentation ready for editing.    What do you see instead?  Blank page with Loading... at the top right.    See b/1591785     </pre>

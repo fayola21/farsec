@@ -1,0 +1,1 @@
+<title>Issue 35357 -   chromium -    Chrome crashes seconds after starting - Project Hosting on Google Code</title>   1.start chrome with facebook.com as homepage.                crashes seconds after initial page is shown. cannot even login..    <b>Please provide

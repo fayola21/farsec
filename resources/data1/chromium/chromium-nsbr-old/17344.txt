@@ -1,0 +1,1 @@
+<title>Issue 17344 -   chromium -    javascript is single threadded  must be multithread - Project Hosting on Google Code</title>   1. run processor extensive javascript application  2. look at process explorer  3. only one processor is being used 100 percent        must use 100% of all processor        uses only 97% of one processor  other processor is idle    <b>Please provide

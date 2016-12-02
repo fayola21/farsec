@@ -1,0 +1,1 @@
+<title>Issue 9902 -   chromium -    Browser crashes in app mode when pressing CTRL-J  - Project Hosting on Google Code</title> <pre> 1. Install GMail as an app  2. From GMail as an app press CTRL-J (to bring the download tab)    Note  this also happen with CTRL-H (for history tab).   </pre>

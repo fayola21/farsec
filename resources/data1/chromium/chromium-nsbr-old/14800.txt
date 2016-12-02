@@ -1,0 +1,1 @@
+<title>Issue 14800 -   chromium -    Implement Paste And Go for Linux - Project Hosting on Google Code</title> <pre> As the title says  we need to append the omnibox with the paste and go item    as well grab clipboard data and send it to the autocomplete model. </pre>

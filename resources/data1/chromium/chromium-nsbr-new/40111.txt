@@ -1,0 +1,1 @@
+<title>Issue 40111 -   chromium -    We get separate ALSA entries in pulseaudio for each sound - Project Hosting on Google Code</title> <pre>   1. Install this extension: <a href="http://chrome.blogspot.com/2010/04/unmuting-web-">http://chrome.blogspot.com/2010/04/unmuting-web-</a>  with-google-chrome.html  2. Open sound preferences       </pre>

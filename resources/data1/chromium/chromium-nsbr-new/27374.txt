@@ -1,0 +1,1 @@
+<title>Issue 27374 -   chromium -    No scroll bar appears on viewing large SVG - Project Hosting on Google Code</title>   1. the svg is larger then my screen  2. it will appear but there will be no scroll bar to view it all  3. you can drag select the image/svg to scroll down      scroll bars should appear if svg is bigger then the screen      no scroll bars    <b>Please provide

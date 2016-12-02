@@ -1,0 +1,1 @@
+<title>Issue 19613 -   chromium -    Can't loggin to d-link dir-655 - Project Hosting on Google Code</title>   1.enter http://192.168.0.1/ to access router config  2.enter user name  3.enter password      Correct router login      Chrome and Safari can't login. Wrong password message  It works fine on IE and firefox    <b>Please provide

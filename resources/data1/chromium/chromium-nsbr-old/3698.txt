@@ -1,0 +1,1 @@
+<title>Issue 3698 -   chromium -    Sever Crash  Very Frequent - Project Hosting on Google Code</title>   1. Open one webpage  2. Open a link in a new tab  3. Click on the new tab      It should simply highlight the new tab      Click gets &quot;stuck&quot; moving mouse will move the tab  when the tab moves    chrome will crash    Please provide

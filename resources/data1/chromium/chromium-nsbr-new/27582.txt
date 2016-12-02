@@ -1,0 +1,1 @@
+<title>Issue 27582 -   chromium -    Bad font rendering quality compared to firefox and others in Linux - Project Hosting on Google Code</title>             firefox.png like rendering      chromium.png like bad rendering    <b>Please provide

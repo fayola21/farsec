@@ -1,0 +1,1 @@
+<title>Issue 26038 -   chromium -    Some problem with truncated characters in google chrome Mac - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;4.0.223.11&gt;          For this behaviour  working with French Version  1. Open PREFERENCES  =&gt; All string are truncated  in the Static labels &amp; in the object    Thanks       </pre>

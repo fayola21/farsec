@@ -1,0 +1,1 @@
+<title>Issue 31211 -   chromium -    Nasty droid fonts in chromium package by default - Project Hosting on Google Code</title> <pre> I mean this wonderful font-set will increase averall expression of users to   Google related apps. The Droid font-set published under Apache License  so   there is no problem to use it.  </pre>

@@ -1,0 +1,1 @@
+Jobs page: table is not striped and pagination is not disabled    To reproduce go to the Jobs page from top menu (do not open .../main/apps directly). Table is not striped and pagination buttons are enabled even if there is only one page.   

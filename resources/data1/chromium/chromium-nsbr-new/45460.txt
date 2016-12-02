@@ -1,0 +1,1 @@
+<title>Issue 45460 -   chromium -    Jumbled text on back button click - Project Hosting on Google Code</title>   1. Query for a page in google  2. Open the page   click on back button  3. A jumbled text page opens.     This happens infrequently - but have noted it a few times.                <b>Please provide

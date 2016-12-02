@@ -1,0 +1,1 @@
+<title>Issue 11375 -   chromium -    Google calendar issue - Project Hosting on Google Code</title>   1. Introducing new event in google calendar (not an All-day event).  2. Put an hour when introducing event.  3. See the screen-shot picture for more information.      The hour has to appear once  not twice.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44987 -   chromium -    Chrome crashes when disconnection from Cisco VPN Client 5.0.07.0290 - Project Hosting on Google Code</title>   1. Connect with Cisco VPN Client  2. Leave Chrome idle and browse with IE 8  3. Disconnect      No crash      Chrome crashes    <b>Please provide

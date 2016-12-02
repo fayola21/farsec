@@ -1,0 +1,1 @@
+<title>Issue 7001 -   chromium -    On Vista default download location should be %UserProfile%Downloads - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.159.0 (8614)                      Why couldn't it be the the default Downloads folder in Vista?    Please provide any additional information below. Attach a screenshot if   possible.   </pre>

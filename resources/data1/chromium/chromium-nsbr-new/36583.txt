@@ -1,0 +1,1 @@
+<title>Issue 36583 -   chromium -    applicationID() should be removed from WebKit API - Project Hosting on Google Code</title> <pre> Per Darin  applicationID() is Chromium-specific  so it shouldn't be in the   WebKit API -- instead  Chromium should use getElementsByTagName() and   DataSource to extract the necessary information. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26095 -   chromium -    *easy* GL commands - Project Hosting on Google Code</title> <pre> Part of GL-based command buffers:    *) Get *easy* GL commands written. (commands that don't use pointers and   don't return anything)     *) Client side     *) Service side     *) Service calling GL </pre>

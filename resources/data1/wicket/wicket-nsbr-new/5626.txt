@@ -1,0 +1,1 @@
+ConcatBundleResource#reportError() doesn't print the resource attributes    org.apache.wicket.resource.bundles.ConcatBundleResource#reportError() prints just the scope and the name of the missing resource.It will be much more useful if the attributes (locale  style and variation) are printed too.   

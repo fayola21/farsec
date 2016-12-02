@@ -1,0 +1,1 @@
+<title>Issue 43717 -   chromium -     drug and drop of selected text doesn't work in text area - Project Hosting on Google Code</title>   Open any page with a text area.   Select text   drug the selection to another place in the same text area    the selection will be moved to another location in the text area.      nothing    <b>Please provide

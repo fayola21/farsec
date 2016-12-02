@@ -1,0 +1,1 @@
+<title>Issue 9494 -   chromium -    missing toolbar - Project Hosting on Google Code</title>   1. log in (p��_��_ihl��_��_sit se)www.spoluzaci.cz  2. click on some classroom under &quot;Moje t��_��_dy&quot;  3. click on &quot;N��_��_st��__nka&quot;      New normal webpage with toolbar.      New webpage  looking ok  but toolbar is missing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 5530 -   chromium -    Feature request: internal chrome socks/proxy settings  - Project Hosting on Google Code</title> <pre> Hi  I like Chrome and Chromium very much but having used it for 2 months I  can say that it's boring to switch proxy settings using IE settings. </pre>

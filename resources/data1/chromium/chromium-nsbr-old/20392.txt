@@ -1,0 +1,1 @@
+<title>Issue 20392 -   chromium -    New Theme does not update tab page - Project Hosting on Google Code</title>   1. download a new theme  2. apply theme  3. while applying  if looking at the new tab page the background will not update      whole theme to be applied      the background of the new tab page is not updated with the rest of the panels    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 10510 -   chromium -    application shortcut fails to start  crashes already open chrome browser - Project Hosting on Google Code</title>   1. attempt to open any application shortcut          Application should start      Application does not start  open chrome browser crashes    <b>Please provide

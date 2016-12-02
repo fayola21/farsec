@@ -1,0 +1,1 @@
+<title>Issue 4034 -   chromium -    ListView of Bookmark manager should accept 'return' key - Project Hosting on Google Code</title> <pre>   1. Set keyboard focus to any entry [URL/Folder ]  2. Hit Return key.      What is the expected output?  [User should be navigated to the page/the Folder should be expanded].    What do you see instead?  Nothing happens.   </pre>

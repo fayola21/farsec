@@ -1,0 +1,1 @@
+<title>Issue 16664 -   chromium -    Web Workers aren't functional on LInux and OSX - Project Hosting on Google Code</title> <pre> Attempt to use Web Workers on Linux or OSX.    They don't work.   </pre>

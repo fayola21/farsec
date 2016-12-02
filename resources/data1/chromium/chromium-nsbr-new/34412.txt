@@ -1,0 +1,1 @@
+<title>Issue 34412 -   chromium -    Konami code on facebook  - Project Hosting on Google Code</title>   1.login to facebook  2.type the konami code  3.Other browsers display an animation  chrome(on ubuntu) doesn't      lens flare      nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1723 -   chromium -    Selectable languages are not detailed enough - Project Hosting on Google Code</title>   1. Open the language options  2. Select a language to add      I can select different kinds of a language (e.g. german (germany) and   german (switzerland))      I can just select the &quot;head language&quot;.    Please provide

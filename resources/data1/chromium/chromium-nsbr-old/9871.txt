@@ -1,0 +1,1 @@
+<title>Issue 9871 -   chromium -    WebWorkers: Crash when starting many busy workers - Project Hosting on Google Code</title>   1. Load the attached web worker test script      1. No crash  2. Probably a 'script is unresponsive' dialog allowing user to terminate  workers.      1. Crash    <b>Please provide

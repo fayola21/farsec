@@ -1,0 +1,1 @@
+<title>Issue 22482 -   chromium -    chrome can not remember all password of the net proxy when using multi proxy server - Project Hosting on Google Code</title>   1.In a LAN with multiple net proxy.  2.open a chrome  browse a website      chrome remember the password  don't want me input it again and again.      I must input the password again and again    <b>Please provide

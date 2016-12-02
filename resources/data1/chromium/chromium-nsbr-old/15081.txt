@@ -1,0 +1,1 @@
+<title>Issue 15081 -   chromium -    2 browser tests fail: ExtensionViewTest::Toolstrip and ExtensionViewTest::Shelf - Project Hosting on Google Code</title> <pre> The 2 browser tests ExtensionViewTest::Toolstrip and ExtensionViewTest::Shelf   fail and have been disabled. </pre>

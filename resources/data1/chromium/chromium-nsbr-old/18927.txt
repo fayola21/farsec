@@ -1,0 +1,1 @@
+<title>Issue 18927 -   chromium -    wrong information of gmail space counter - Project Hosting on Google Code</title>   1. simple browsing          to show correct gmail space counter      failed to show correct gmail space counter    <b>Please provide

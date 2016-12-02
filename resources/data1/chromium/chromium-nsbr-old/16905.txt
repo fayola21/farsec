@@ -1,0 +1,1 @@
+<title>Issue 16905 -   chromium -    The Chrom doesn't use system anti-aliasing algotithm - Project Hosting on Google Code</title>     Open any web-page in the Chrom        Chrom browser should use system (Gnome) anti-aliasing algorithm.        Chrom (WebKit?) use its own anti-aliasing algorithm.    Please provide

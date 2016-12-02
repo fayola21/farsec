@@ -1,0 +1,1 @@
+Jetty client can corrupt streams if used in a bridge mode (proxy)    The jetty http producer should favor streams over Strings  which otherwise could cause the payload to be corrupted if doing a bridge mode  eg from jetty to jetty.   

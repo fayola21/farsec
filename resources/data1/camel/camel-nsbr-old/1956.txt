@@ -1,0 +1,1 @@
+camel-irc should handle onReply callbacks    Currently it's not possible to receive the response from commands like WHO as irclib invokes onReply when it gets a response from the IRC server  which the IrcConsumer doesn't implement. This patch adds that and also turns on debug logging for the IRC component in the tests.   

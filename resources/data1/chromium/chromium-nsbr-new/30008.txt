@@ -1,0 +1,1 @@
+<title>Issue 30008 -   chromium -    Dangerous download button positions are inconsistent - Project Hosting on Google Code</title> <pre> 1. Attempt to download a .exe file to trigger the dangerous download prompt.  2. Open the download tab.    Note Save is on the left in the download tab  but on the right on the   download shelf. See screenshot.   </pre>

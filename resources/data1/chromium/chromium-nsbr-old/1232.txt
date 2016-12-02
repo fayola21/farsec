@@ -1,0 +1,1 @@
+<title>Issue 1232 -   chromium -    Restoring browser after minimizing displays vertical bars - Project Hosting on Google Code</title>   1. Minimize.  2. Restore by clicking in the taskbar.      You expect to see the website =)        Sometimes for very short time you see the vertical bars. Sometimes it's too   fast to notice.    Please provide

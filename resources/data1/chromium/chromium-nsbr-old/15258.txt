@@ -1,0 +1,1 @@
+<title>Issue 15258 -   chromium -    Not getting renderer crash dumps for stack overflows in renderers - Project Hosting on Google Code</title> <pre> The renderer crash in <a title="Reliable renderer crash" class=closed_ref href="/p/chromium/issues/detail?id=15255"> issue 15255 </a> is not generating crash dumps on Linux. </pre>

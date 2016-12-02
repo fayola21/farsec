@@ -1,0 +1,1 @@
+<title>Issue 6587 -   chromium -    Window border does not draw properly on Windows 7 - Project Hosting on Google Code</title> <pre> See attached screenshot.   </pre>

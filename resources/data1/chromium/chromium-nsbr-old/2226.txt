@@ -1,0 +1,1 @@
+<title>Issue 2226 -   chromium -    In Some Sites drop down arrows fail to appear on links - Project Hosting on Google Code</title>   1. Opening the site and no drop down errors so cant see further links          Drop down arrows to come so further links can be seen        No drop down arrows cum .. maybe graphics or sumtn missing    Please provide

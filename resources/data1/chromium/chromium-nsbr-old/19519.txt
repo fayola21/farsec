@@ -1,0 +1,1 @@
+<title>Issue 19519 -   chromium -    LayoutTests/fast/css/last-of-type-pseudo-class.html failing on Mac - Project Hosting on Google Code</title> <pre> On the Webkit Mac10.5 (dbg)(2) slave  this test fails about half the time.    Not sure when it started.    I'm adding it to test_expecatations.txt </pre>

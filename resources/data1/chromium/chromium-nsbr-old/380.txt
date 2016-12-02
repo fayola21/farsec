@@ -1,0 +1,1 @@
+<title>Issue 380 -   chromium -    touchpad works incorrectly - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)             Safari 3: OK      Firefox 3: OK           IE 7: OK      With my HP 6710b touchpad  i can��t scroll up on any page  scrolling down is   OK.     </pre>

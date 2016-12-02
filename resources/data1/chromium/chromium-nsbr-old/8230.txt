@@ -1,0 +1,1 @@
+<title>Issue 8230 -   chromium -    Part of address bar font changes on specific URLs - Project Hosting on Google Code</title>   1. Navigate to supplied URL  2. Observe address bar font after ��__��_      Same font is used in whole address bar      Different font is used after ��__��_    Please provide

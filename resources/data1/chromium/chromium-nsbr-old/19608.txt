@@ -1,0 +1,1 @@
+<title>Issue 19608 -   chromium -    apple-w doesn't close the tab/window - Project Hosting on Google Code</title>   1. Open a browser window  hit apple-w.          The current tab (or if there is only one tab  the window) should close      Nothing.    <b>Please provide

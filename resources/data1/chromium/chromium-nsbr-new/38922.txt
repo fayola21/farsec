@@ -1,0 +1,1 @@
+<title>Issue 38922 -   chromium -    Translation error - Project Hosting on Google Code</title>   1.look the menu top right corner (not the tool)  2.Menu Find is in French &quot;Find&quot;  3.It was in older version like 5.0325 &quot;Rechercher sur la Page&quot;      Menu should state &quot;Rechercher sur la page&quot;      We have &quot;Find&quot;     <b>Please provide

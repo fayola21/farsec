@@ -1,0 +1,1 @@
+<title>Issue 23903 -   chromium -    Bookmark bar should animate on NTP on OSX. - Project Hosting on Google Code</title> <pre> Animate switching from &quot;always show&quot; to &quot;never show&quot; (which disconnects). </pre>

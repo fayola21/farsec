@@ -1,0 +1,1 @@
+<title>Issue 6185 -   chromium -    No master password - Project Hosting on Google Code</title> <pre> If I let Chrome remember my passwords they are available to anyone who has   access to my computer (including thieves). I would like to protect my saved   passwords with a master password to circumvent this security issue. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31877 -   chromium -    Back button sends you to far back. - Project Hosting on Google Code</title>   1. Click image  2. Click image again  3. Go back      The browser should go back to the second image.      The browser goes to the first image.    <b>Please provide

@@ -1,0 +1,1 @@
+XPath namespaces configuration not possible through xml    Xpath xml element offers no way to define namespace mappings.   

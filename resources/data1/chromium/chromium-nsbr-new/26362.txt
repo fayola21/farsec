@@ -1,0 +1,1 @@
+<title>Issue 26362 -   chromium -    Redirect to Google Search - Project Hosting on Google Code</title>   1. Type a URL into the Omnibox  2. Click Enter      Goes to the entered website      Redirects to a Google search for the URL    <b>Please provide

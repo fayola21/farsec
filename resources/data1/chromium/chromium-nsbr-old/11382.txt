@@ -1,0 +1,1 @@
+<title>Issue 11382 -   chromium -    downloads problem - Project Hosting on Google Code</title>   1.start chrome  2.open any torrent site like mininova.org  3.the download state of a file remains &quot;starting&quot; always      it should start n then the download should begin          <b>Please provide

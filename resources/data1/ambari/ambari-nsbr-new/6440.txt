@@ -1,0 +1,1 @@
+Unable to move NameNode    STR: Enabled NNHA.Active NameNode is on suse1101 hostStandby NameNode is on suse1102 host Stopped SNN. Opened move NN wizardResult: Next button is active when I choose existing topology (suse1101 and suse1102)Next button is inactive when I choose custom topology (suse1103 and suse1101)UPD: Reproduced also on non-HA cluster.   

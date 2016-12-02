@@ -1,0 +1,1 @@
+<title>Issue 30153 -   chromium -    Disable annoying javascript - Project Hosting on Google Code</title>   1. Open a page where javascript blocks right-clic/contextual menu  2. Right-clic          I would like an option to avoid annoying javascript.          Right-clic is blocked indeed    <b>Please provide

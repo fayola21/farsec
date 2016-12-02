@@ -1,0 +1,1 @@
+<title>Issue 13277 -   chromium -    Text rendering errors in omnibox2 - Project Hosting on Google Code</title> <pre> Type in the edit and look at the results in the omnibox2 dropdown.  At least   on my system  they're totally hosed-looking.  See attached screenshot. </pre>

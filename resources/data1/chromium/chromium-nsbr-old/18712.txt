@@ -1,0 +1,1 @@
+<title>Issue 18712 -   chromium -    gyp_chromium is slow on windows - Project Hosting on Google Code</title> <pre> gyp_chromium is slow on windows    it is much faster on linux  when outputting for scons.  maybe there is some   low hanging fruit? </pre>

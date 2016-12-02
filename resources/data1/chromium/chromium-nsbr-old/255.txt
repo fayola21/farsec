@@ -1,0 +1,1 @@
+<title>Issue 255 -   chromium -    Middle click fires onclick in WebKit  but not Trident/Gecko - Project Hosting on Google Code</title>   1. Middle Click on a sub-forum link      Sub forum loads in a new tab  existing tab doesn't change          Sub forum loads in a new tab  and in the existing tab    Please provide

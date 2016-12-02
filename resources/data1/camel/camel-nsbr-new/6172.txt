@@ -1,0 +1,1 @@
+Aggregate EIP - Completion from batch consumer should trigger first    See nabblehttp://camel.465427.n5.nabble.com/Issue-Aggregator2-BatchCompletion-disturbed-by-other-completions-and-fails-to-happen-when-it-probabl-tp5728850.html   

@@ -1,0 +1,1 @@
+<title>Issue 38221 -   chromium -    chrome can not open some 'contests' pages at sympatico.ca - Project Hosting on Google Code</title> <pre> does not open many of the contests at sympatico.ca    also  i was forced to download a 'windows media player plugin for firefox'    when trying to play online video  with GC </pre>

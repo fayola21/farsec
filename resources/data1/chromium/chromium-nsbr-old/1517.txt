@@ -1,0 +1,1 @@
+<title>Issue 1517 -   chromium -    Flash plugin - Project Hosting on Google Code</title>   1. no have an flash plugin for install.   2. possibles other incompatibilty.                  Please provide

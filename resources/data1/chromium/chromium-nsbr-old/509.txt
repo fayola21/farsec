@@ -1,0 +1,1 @@
+<title>Issue 509 -   chromium -    WISHLIST: Separate proxy settings for Incognito mode - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    It would be a great addition to the Incognito mode if I could set up   separate proxy settings for it (optionally  even allow easy setup of Tor). </pre>

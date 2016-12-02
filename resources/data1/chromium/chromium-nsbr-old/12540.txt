@@ -1,0 +1,1 @@
+<title>Issue 12540 -   chromium -    Changing colors for visited links doesn't work - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.28            Firefox 3.x: OK           IE 8: OK      1. Search something on google  2. Go to any link        The color of the link should change      Nothing     </pre>

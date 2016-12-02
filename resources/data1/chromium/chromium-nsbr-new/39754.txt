@@ -1,0 +1,1 @@
+<title>Issue 39754 -   chromium -    vc1 bsf is outdated - Project Hosting on Google Code</title> <pre> due to a bad revert  the vc1 bsf code got set back to 2 versions old.  need to update to the latest. </pre>

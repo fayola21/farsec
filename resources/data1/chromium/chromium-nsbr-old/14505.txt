@@ -1,0 +1,1 @@
+<title>Issue 14505 -   chromium -    After drag-install of a .crx file onto a chrome:// page  the following chrome:// page is not functioning - Project Hosting on Google Code</title> <pre>   1. Navigate to new tab page  2. Drag to install a .crx extension  3. Attempt to navigate to chrome://extensions/ (or any other chrome: url)    The page will be broken. </pre>

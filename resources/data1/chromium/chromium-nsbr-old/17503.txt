@@ -1,0 +1,1 @@
+<title>Issue 17503 -   chromium -    Command &quot;Back&quot; fails with some sites (see Orkut.com) - Project Hosting on Google Code</title> <pre> O comando &quot;Voltar&quot; n��_��_o funciona direito no site Orkut.com. Este comando volta   mais de uma p��_��_gina por vez.    Favor  verificar esse problema.    Grato. </pre>

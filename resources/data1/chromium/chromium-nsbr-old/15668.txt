@@ -1,0 +1,1 @@
+<title>Issue 15668 -   chromium -    GIF images will not motion - Project Hosting on Google Code</title>   1. GIF images will not motion  2. GD2's images failed loading and views  3. That's all thanks.        fix it.        I views some GFI images and found it's not motion.    <b>Please provide

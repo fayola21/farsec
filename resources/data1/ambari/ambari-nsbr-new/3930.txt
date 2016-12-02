@@ -1,0 +1,1 @@
+Missing host message on cluster deploy    When execute any service check  host message become empty. Server return  unsupported on UI  command of task - 'SERVICE_CHECK'.   

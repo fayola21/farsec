@@ -1,0 +1,1 @@
+<title>Issue 39803 -   chromium -    Add UI language selection on &quot;Other user&quot; login screen - Project Hosting on Google Code</title> <pre> UI language selection is shown only on OOBE network selection screen (shown   only once).    Add UI language selection control to the &quot;Other user&quot; sign in screen (see   mocks). </pre>

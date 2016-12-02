@@ -1,0 +1,1 @@
+<title>Issue 1846 -   chromium -    Page search doesn't search in textfields - Project Hosting on Google Code</title>   1. Find a textarea with some text  or add some text to a textarea  2. Use the page search (Ctrl + F) to find the text      It finds and highlights the matches      It fails to find any text that is in a textbox or a textarea    Please provide

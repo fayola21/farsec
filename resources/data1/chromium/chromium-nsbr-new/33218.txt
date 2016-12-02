@@ -1,0 +1,1 @@
+<title>Issue 33218 -   chromium -    Google Chrome crashes in Windows 7 on refresh - Project Hosting on Google Code</title>   1. install google chrome browser on windows 7  2. open some pages  3. do few refreshes and sever refreshes  it will crash!      Google chrome will crash          <b>Please provide

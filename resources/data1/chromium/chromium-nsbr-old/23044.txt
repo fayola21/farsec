@@ -1,0 +1,1 @@
+<title>Issue 23044 -   chromium -    Shift-middle-mouse scrolling in SVG files inverted - Project Hosting on Google Code</title>   1. press SHIFT and move mouse - up/down - inverted direction                    <b>Please provide

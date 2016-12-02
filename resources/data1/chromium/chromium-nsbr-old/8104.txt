@@ -1,0 +1,1 @@
+<title>Issue 8104 -   chromium -    Gif files (pictures)  not displayed on www.hufffingtonpost.com - Project Hosting on Google Code</title>   1. Enter www.huffingtonpost.com  2. Scroll down and see that gif files are not displayed.                  Please provide

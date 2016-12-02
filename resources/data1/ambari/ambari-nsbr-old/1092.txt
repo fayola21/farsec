@@ -1,0 +1,1 @@
+dashboard > Summary > capacity pie chart keeps changing colors       

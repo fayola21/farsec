@@ -1,0 +1,1 @@
+<title>Issue 31827 -   chromium -    Implement performance tests for and improve performance of privacy blacklist - Project Hosting on Google Code</title> <pre> Tracking bug for performance issues of privacy blacklists.    Subtasks:  o implement performance tests to monitor actual performance  o identify bottle-necks  o improve performance bottle-necks </pre>

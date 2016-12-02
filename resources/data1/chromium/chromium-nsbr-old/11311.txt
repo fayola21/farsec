@@ -1,0 +1,1 @@
+<title>Issue 11311 -   chromium -    Report Bug or Broken Web Site dialogue window is locked - Project Hosting on Google Code</title>           What is the expected result? Either &quot;Send report&quot; or &quot;Cancel&quot;  neither of   which works.        What happens instead? The report doesn't send and the window doesnt close.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20943 -   chromium -    Line returns in string resources don't work - Project Hosting on Google Code</title> <pre> When we try to display a string resource with n in it  the n is displayed   literally rather than being translated to a line return.    For example  this comes up in the external protocol dialog. </pre>

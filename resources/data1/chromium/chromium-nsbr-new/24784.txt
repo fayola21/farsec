@@ -1,0 +1,1 @@
+<title>Issue 24784 -   chromium -    Cursor in timebar jumps around when we seek to 0 - Project Hosting on Google Code</title> <pre>   1. Plays an ogg video  2. Seek to 0      The cursor of time bar will jump around  it shouldn't jump.       </pre>

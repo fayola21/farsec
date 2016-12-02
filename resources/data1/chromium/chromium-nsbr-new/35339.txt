@@ -1,0 +1,1 @@
+<title>Issue 35339 -   chromium -    Buzz plug-in not working in Chrome Browser - Project Hosting on Google Code</title>   1. Install buzz plug-in/extension  2. Click on the installed plug-in  3. Keeps &quot;Loading&quot; forever with out doing anything                <b>Please provide

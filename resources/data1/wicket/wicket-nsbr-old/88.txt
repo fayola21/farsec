@@ -1,0 +1,1 @@
+NPE in Check.java    The Forms examples fails with an NPE in Check.java if (group.hasRawInput()) { String[] inputs = group.getInputAsArray(); for (String input : inputs) &lt;&lt;&lt;&lt;&lt;&lt; NPE { if (value.equals(input)) { tag.put('checked'  'checked'); } } }Juergen   

@@ -1,0 +1,1 @@
+<title>Issue 45063 -   chromium -    Crashes on loss of Internet connectivity. - Project Hosting on Google Code</title>   1. With Chrome open - I lose internet connectivity. ADSL. I think it occurs   when I lose the full DSL circuit. Thailand has unstable Internet. I did not   experience this with any previous Developer code &lt;=5x                    <b>Please provide

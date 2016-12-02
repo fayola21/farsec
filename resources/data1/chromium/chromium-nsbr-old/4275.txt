@@ -1,0 +1,1 @@
+<title>Issue 4275 -   chromium -    can't resize linux test shell smaller - Project Hosting on Google Code</title> <pre> Currently  we can only make the test shell bigger.  Seems like a bug in our gtk code. </pre>

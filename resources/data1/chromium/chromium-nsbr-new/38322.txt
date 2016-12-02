@@ -1,0 +1,1 @@
+<title>Issue 38322 -   chromium -    Demonstrable memory leak - Project Hosting on Google Code</title>   1. Visit URL  2. Click &quot;Go faster&quot; and &quot;Slow down&quot;  3. Watch memory usage  4. Keep clicking  5. After ~ 5 mins you should hit 1G memory usage      Flat memory usage under 100M      Memory keeps usage increasing    <b>Please provide

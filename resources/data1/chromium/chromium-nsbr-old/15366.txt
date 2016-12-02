@@ -1,0 +1,1 @@
+<title>Issue 15366 -   chromium -    chrome theme support on linux - Project Hosting on Google Code</title> <pre> The following should load a custom theme:  chrome --enable-extensions --install-extension=mytheme.crx    It currently unpacks the extensions  but doesn't load (looks like we're not   updating ExtensionPrefs?)    I'm working on this... </pre>

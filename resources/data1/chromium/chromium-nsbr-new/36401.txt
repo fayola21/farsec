@@ -1,0 +1,1 @@
+<title>Issue 36401 -   chromium -    Crash when something's drag - Project Hosting on Google Code</title> <pre> Chromium Version : 5.0.336.0 (39582)  OS : Windows 7      Drag something (like a picture  a bookmark) in the window area (webpage)      Nothing      The message &quot;Whoa! Chromium has crashed. Restart now?&quot; appears.  So I must restart it...   </pre>

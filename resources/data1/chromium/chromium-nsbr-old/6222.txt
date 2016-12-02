@@ -1,0 +1,1 @@
+<title>Issue 6222 -   chromium -    tab search from url on google.com takes you to wikipedia - Project Hosting on Google Code</title>   1. type in google.com and press tab  2. type in something to search for  anything  3. what ever you search for is searched for on wikipedia of all things?!      That this would search google.      search takes you to wikipedia      Please provide

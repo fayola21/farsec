@@ -1,0 +1,1 @@
+Choosing bulk hosts to decommission on 120 node cluster on the hosts page just spins.    Steps to reproduce1. Filter by DataNodes2. Increase the page size to 503. Select all 50 and decommision datanodes.This ends up with a spinner .This might be a blocker. Attaching snapshot.   

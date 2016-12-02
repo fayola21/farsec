@@ -1,0 +1,1 @@
+<title>Issue 7596 -   chromium -    Figure out how to handle .desktop mime sniffing vulnerability - Project Hosting on Google Code</title> <pre> It seems that .desktop files are to Linux what .pif files were to  Windows 3.1.  Chrome should probably flag them as dangerous.  See also  <a href="http://www.geekzone.co.nz/foobar/6229">http://www.geekzone.co.nz/foobar/6229</a>   </pre>

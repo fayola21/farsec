@@ -1,0 +1,1 @@
+<title>Issue 438 -   chromium -    Tab loses title (becomes &quot;Untitled&quot;) after going back from anchor link - Project Hosting on Google Code</title>   1. Follow an intra-page anchor &lt;a href=&quot;#something&quot;&gt;  2. Hit the back button  3. The tab's title changes to Untitled. It may come back after     an unspecified amount of time.                Please provide

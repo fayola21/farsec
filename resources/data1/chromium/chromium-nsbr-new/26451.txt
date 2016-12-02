@@ -1,0 +1,1 @@
+<title>Issue 26451 -   chromium -    REGRESSION: Java SE6 U10/11 plugin never starts (U13 works OK) - Project Hosting on Google Code</title> <pre> about:plugins shows Java SE 6 U10 installed  but if I visit a page that uses   it  e.g. <a href="http://weegames.com/clues.php?PAGE=3">http://weegames.com/clues.php?PAGE=3</a>   the plugin never starts. </pre>

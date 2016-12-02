@@ -1,0 +1,1 @@
+<title>Issue 36485 -   chromium -    Window base != base - Project Hosting on Google Code</title> <pre> In several places in the Chromium code  convertRectToBase: is used to get  to window base. That's wrong; base coordinate system isn't window base  coordinate system. </pre>

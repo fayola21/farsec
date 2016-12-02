@@ -1,0 +1,1 @@
+<title>Issue 28381 -   chromium -    split chrome.gyp and other large gyp into pieces - Project Hosting on Google Code</title> <pre> chrome.gyp is too big.  I recently tried splitting it apart using 'includes' and several gypi's.  Had to back it out due to concerns about mstone4 conflicts.  Should try again in late november. </pre>

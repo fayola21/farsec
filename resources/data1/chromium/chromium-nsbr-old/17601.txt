@@ -1,0 +1,1 @@
+<title>Issue 17601 -   chromium -    JSON reader allow incomplete block comments - Project Hosting on Google Code</title> <pre> The JSON reader parsing currently allows incomplete block comments. For   example  following would parse successfully:  100 /* unfinished comment    This input should not parse successfully. </pre>

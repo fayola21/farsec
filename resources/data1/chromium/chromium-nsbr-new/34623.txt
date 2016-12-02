@@ -1,0 +1,1 @@
+<title>Issue 34623 -   chromium -    Zoom level preference should be saved on a per-domain basis. - Project Hosting on Google Code</title>   1. Open any site (nytimes.com) in a new tab.  2. Zoom to 120%  3. Open a new tab  4. Go to nytimes.com      New tab maintains 120% zoom level.      Tab opens with 100% zoom.    <b>Please provide

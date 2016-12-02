@@ -1,0 +1,1 @@
+<title>Issue 26689 -   chromium -    Report bug dialog should be centered on screen - Project Hosting on Google Code</title> <pre> The &quot;report bug&quot; dialog is app-modal  so it should be centered on the current   screen.    This is probably as easy as calling [window center] on the window before   displaying it. </pre>

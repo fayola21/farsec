@@ -1,0 +1,1 @@
+<title>Issue 33875 -   chromium -    Unable to launch Java plug-in - Project Hosting on Google Code</title>   1. Every time you click on Benchmark your browser        What is the expected result? java plug in should start      What happens instead? Java Plug-in is blocked      <b>Please provide

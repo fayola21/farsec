@@ -1,0 +1,1 @@
+<title>Issue 38966 -   chromium -    Interacting or clicking crashes sites - Project Hosting on Google Code</title>   1. When selecting text  2. When clicking anywhere on the page  3. When usual you click near text to select the following word or paragraph      Select Text      Crashes the site  requiring reload    Please provide

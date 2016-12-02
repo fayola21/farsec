@@ -1,0 +1,1 @@
+<title>Issue 22624 -   chromium -    Address bar is bounce - Project Hosting on Google Code</title>   1.Type a URL in the address bar          The entering text stays centered vertically in the text field      It bounces between top justified (screenshot 1) and bottom justified   (screenshot 2).    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 33210 -   chromium -    Rebaselining tool is to talkative - Project Hosting on Google Code</title> <pre> Ideally  the only output I want from it is a summary of what happened  and   state cases where rebaselining failed (and reasons for it). </pre>

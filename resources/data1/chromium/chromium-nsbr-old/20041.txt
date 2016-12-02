@@ -1,0 +1,1 @@
+<title>Issue 20041 -   chromium -    Infinite loading time on https://profile.microsoft.com/RegSysProfileCenter/infodefault.aspx?lcid=1033 - Project Hosting on Google Code</title>   1. Go to that site  2. Log in   3. Wait forever... and longer... the page never loads      To load the page      It keeps loading    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24902 -   chromium -    Plugin directories are scanned in the wrong order - Project Hosting on Google Code</title> <pre> Even though GetPluginDirectories has the user-level plugins directory before   the system-wide directory  system plugins are being loaded first. </pre>

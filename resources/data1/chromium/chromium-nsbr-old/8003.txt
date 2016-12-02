@@ -1,0 +1,1 @@
+<title>Issue 8003 -   chromium -    Feature Request: Beautify most visited page  - Project Hosting on Google Code</title> <pre> I think Google Chrome's most visited page should be graphically improved.  Something like Safari 4 (beta) top sites page. </pre>

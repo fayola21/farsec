@@ -1,0 +1,1 @@
+<title>Issue 20730 -   chromium -    Drag and drop fails with single tab - Project Hosting on Google Code</title> <pre>   -Open two windows  with one tab each  -Try drag and drop one tab to the other window.    You can't.    Basically  user can't drag and drop a tab from a single tab window to other  window.      </pre>

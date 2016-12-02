@@ -1,0 +1,1 @@
+<title>Issue 4500 -   chromium -    When opening window using window.open desired page is clipped off at bottom - Project Hosting on Google Code</title>   1. go to web site  2. click on 'logon'       New window should open and display properly.      New window opens but 22 pixels of the height of the page are clipped from   the botton of the page.    Please provide

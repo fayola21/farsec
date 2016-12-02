@@ -1,0 +1,1 @@
+<title>Issue 30901 -   chromium -    Need a distinguishable icon for .html files - Project Hosting on Google Code</title>   1. Associate .html files with Chrome  2. Open a directory with many .html files        The default icon for .html files should be 'liter'       They are distractive!    <b>Please provide

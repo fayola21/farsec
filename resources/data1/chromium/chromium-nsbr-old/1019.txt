@@ -1,0 +1,1 @@
+<title>Issue 1019 -   chromium -    Set image as wallpaper - Project Hosting on Google Code</title> <pre> There is no option to set an image on the web as my desktop wallpaper    which is my favorite feature </pre>

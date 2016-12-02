@@ -1,0 +1,1 @@
+<title>Issue 35306 -   chromium -    Left click on tabs close it - Project Hosting on Google Code</title>   1.Open some tabs  2.Left click on them  3.Watch them close (the last one close chrome)      Switch between tabs      Tabs are closed    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9894 -   chromium -    Tabs get torn off instead of activating when machine under load - Project Hosting on Google Code</title>   1. Have machine under some load  2. click on tab  3. it will tear off into separate new window          Tab activating.          Tab gets torn off the window.      <b>Please provide

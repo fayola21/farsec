@@ -1,0 +1,1 @@
+<title>Issue 108 -   chromium -    HTTP auth password not imported from FF 3.0.1 - Project Hosting on Google Code</title>   1. With FF 3.0.1  store password for this site : demo/demo  2. Install Chrome and import everything from FF  3. Visit www.wzor.net/index.php with Chrome : login/pwd is not filed      login/pwd should be filed      Login/pwd is empty    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 43749 -   chromium -    Chrome Freeze - Project Hosting on Google Code</title>             1. Open the google chrome  2. Open five or more tabs and access some websites  3. waiting for 2 minutes        I keep waiting and it freezes    <b>Please provide

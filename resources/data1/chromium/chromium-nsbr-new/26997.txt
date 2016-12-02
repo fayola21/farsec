@@ -1,0 +1,1 @@
+<title>Issue 26997 -   chromium -    flash not recognized - Project Hosting on Google Code</title> <pre> vista  latest dev channel (4.0.237.0)  flash does not work. Youtube and other   flash video sites say I don't have flash. Certainly I do. </pre>

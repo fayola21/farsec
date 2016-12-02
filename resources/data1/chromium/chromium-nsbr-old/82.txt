@@ -1,0 +1,1 @@
+<title>Issue 82 -   chromium -    Several AJAX based web chats not working - Project Hosting on Google Code</title>   1. Go to any of these social networking sites.  2. Open a chat with someone  3. Problems arise.      A working chat window should open.      It is impossible to chat due to UI objects disappearing.    Please provide

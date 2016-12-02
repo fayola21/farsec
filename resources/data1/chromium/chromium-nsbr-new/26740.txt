@@ -1,0 +1,1 @@
+<title>Issue 26740 -   chromium -    green line between bookmark bar and toolbar - Project Hosting on Google Code</title> <pre> I see a horizontal green line when using the gtk theme.  It only appears on   the NTP when the bookmark bar is in detached mode. </pre>

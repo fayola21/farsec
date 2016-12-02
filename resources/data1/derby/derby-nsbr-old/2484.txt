@@ -1,0 +1,1 @@
+Convert syscat.sql to junit       

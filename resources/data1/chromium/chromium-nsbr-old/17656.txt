@@ -1,0 +1,1 @@
+<title>Issue 17656 -   chromium -    show hint on mouseover does not work - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.1  URLs (if applicable) : several          Firefox 3.x: 3.5.1 tested    Opera 10b2: tested    IE 8: tested      1. move mouse over text with hint in the browser window  2. wait some time to show text  3. it happens nothing </pre>

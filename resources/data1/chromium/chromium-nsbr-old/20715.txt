@@ -1,0 +1,1 @@
+<title>Issue 20715 -   chromium -    Alt-tab in Compiz broken with custom frame - Project Hosting on Google Code</title> <pre>   1. Open a Chrome window and another window in Ubuntu with compiz running.  2. Maximize Chrome.  3. Switch focus to the other window.  4. Press alt+tab.    The screen flickers between Chrome and the desktop for as long as you hold   down alt. </pre>

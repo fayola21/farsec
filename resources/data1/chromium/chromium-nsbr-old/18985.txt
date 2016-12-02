@@ -1,0 +1,1 @@
+<title>Issue 18985 -   chromium -    RPM build script should set proper permissions on archive - Project Hosting on Google Code</title> <pre> Reminder to fix the permissions. </pre>

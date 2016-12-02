@@ -1,0 +1,1 @@
+<title>Issue 45887 -   chromium -    Sync integration tests have non uniform filenames - Project Hosting on Google Code</title> <pre> Some of the integration tests under chrometestlive_sync are named  *_unittest.cc while others are named *_test.cc.    They all need to be named *test.cc (for integration tests).    No actual unit test files need to be renamed. </pre>

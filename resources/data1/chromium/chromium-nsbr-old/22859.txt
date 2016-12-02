@@ -1,0 +1,1 @@
+<title>Issue 22859 -   chromium -    NNTP: Themes image overlays on scroll bars - Project Hosting on Google Code</title> <pre> ToT.    -Resize your browser browser window so that you will get horizontal and  vertical scroll bars in NNTP.    As shown in the screenshot  themes image overlays on top of the scroll bars. </pre>

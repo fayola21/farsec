@@ -1,0 +1,1 @@
+Streaming splitter ignores exception handling    If an exception occurs on the next() call of an Iterator in a streaming splitter  the exception is never propagated to the exception or the error handler. This will lead to improper route termination  and inifite rollback/retry cycles.I attached the minimal test case demonstrating the issue.   

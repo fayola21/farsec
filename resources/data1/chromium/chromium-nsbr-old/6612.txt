@@ -1,0 +1,1 @@
+<title>Issue 6612 -   chromium -    Google Chrome extends beyond Windows taskbar - Project Hosting on Google Code</title> <pre> Firefox 3: OK  Internet Explorer 7/8 - OK    Open Google Chrome (version 1.0.154.43)  click the restore button (so that   the window is not maximized)  drag the bottom of the window down and it   extends beyond the taskbar. </pre>

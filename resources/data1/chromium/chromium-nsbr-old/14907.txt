@@ -1,0 +1,1 @@
+<title>Issue 14907 -   chromium -    Switching tabs with find bar open breaks bottom line of toolbar. - Project Hosting on Google Code</title> <pre> ben sez: &quot;if I switch tabs when it's open the bottom pixel line of the  toolbar is broken &quot; </pre>

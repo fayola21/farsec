@@ -1,0 +1,1 @@
+<title>Issue 12844 -   chromium -    Gears broken on Turnk - Project Hosting on Google Code</title> <pre> ToT(<a href="/p/chromium/source/detail?r=17079">r17079</a>)    -Installing latest version of Chromium is not copying the gears.dll to the  ../application/x.x.x/ directory.  so  user can't create application  shortcuts at all.     </pre>

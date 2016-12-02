@@ -1,0 +1,1 @@
+Provide read-only view of repo options in Ambari Web    If a user is using local repos  and customizes Advanced Repository Options during install  the user might need this info to debug post install (since it is used in Add Hosts)  for example.Note: We should show this information regardless if the user customizes repos or not during install.   

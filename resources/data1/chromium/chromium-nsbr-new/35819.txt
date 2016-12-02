@@ -1,0 +1,1 @@
+<title>Issue 35819 -   chromium -    HTML5 audio drops out  video (if present) continues - Project Hosting on Google Code</title>   1. go to youtube and enable html5  2. play video   3. at a random time  the sound will simply stop  while the video continues   smoothly      Audio should continue with the video      Audio output stops.     <b>Please provide

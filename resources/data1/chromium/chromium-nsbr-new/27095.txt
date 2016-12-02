@@ -1,0 +1,1 @@
+<title>Issue 27095 -   chromium -    Cyrllic characters cp'd into gmail get transformed into latin mess - Project Hosting on Google Code</title>   1. get cyrillic text  2. paste into gmail composer  3. get a mess of numbers and latin letters      cyrillic text    <b>Please provide

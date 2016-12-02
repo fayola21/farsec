@@ -1,0 +1,1 @@
+<title>Issue 745 -   chromium -    right click menu doesn't work on google docs - Project Hosting on Google Code</title>   1. Open Google spreadsheet  2. go to left pane before columns  3. Right-click - no menu appears         in FF3 you can insert a row  etc.          Please provide

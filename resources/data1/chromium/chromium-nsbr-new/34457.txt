@@ -1,0 +1,1 @@
+<title>Issue 34457 -   chromium -    Missing &quot;Home&quot; button in 5.0.307.1 issue - Project Hosting on Google Code</title>   1. Open Google Chrome          I expect the &quot;Home&quot; Button in the tool bar      There is no &quot;Home&quot; button (see picture)    <b>Please provide

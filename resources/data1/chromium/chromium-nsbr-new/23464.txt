@@ -1,0 +1,1 @@
+<title>Issue 23464 -   chromium -    Mac pixel tests: SVG expected doesn't have rounded corner like actual does - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/svg/custom/svg-fonts-in-html.html </pre>

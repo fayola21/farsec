@@ -1,0 +1,1 @@
+<title>Issue 40341 -   chromium -    Deleted bookmarks reappear after some time - Project Hosting on Google Code</title>   1. Delete a bookmark  2. Wait for some time  reopen Chrome  3. Deleted bookmarks reappear      Deleted bookmarks to stay deleted      Bookmarks reappear    <b>Please provide

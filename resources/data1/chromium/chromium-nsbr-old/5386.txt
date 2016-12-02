@@ -1,0 +1,1 @@
+<title>Issue 5386 -   chromium -    Chrome redirects to a strange website - Project Hosting on Google Code</title>   1. Connect to the URL.  2. Wait for 2 seconds.      Left and top menus appears.      The page redirects to <a href="http://persiankitty.com/">http://persiankitty.com/</a> which looks like a porn   site.    Please provide

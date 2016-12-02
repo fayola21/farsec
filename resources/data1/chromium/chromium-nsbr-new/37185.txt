@@ -1,0 +1,1 @@
+<title>Issue 37185 -   chromium -    Unable to rearrange NTP blank thumbs - Project Hosting on Google Code</title>   1. Open up the NTP  2. Ensure you have at least one blank thumbnail  3. Try to move blank thumbnail elsewhere  or move other thumb to that spot      Thumbs will swap      Thumbs do not swap    <b>Please provide

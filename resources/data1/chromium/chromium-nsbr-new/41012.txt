@@ -1,0 +1,1 @@
+<title>Issue 41012 -   chromium -    Mac search-keyword magnifying glass sometimes inverted. - Project Hosting on Google Code</title> <pre>   1. Bring up a new tab.  2. Type &quot;Google&quot;  then TAB.        Magnifying glass in the tab-to-search bubble is upside-down.  Should be right-side up. </pre>

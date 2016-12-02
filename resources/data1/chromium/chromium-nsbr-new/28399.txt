@@ -1,0 +1,1 @@
+<title>Issue 28399 -   chromium -    gfx::PNGCodec::Encode calls png_set_write_fn with incorrect arguments - Project Hosting on Google Code</title>   1. link against libpng1.4.0 or against an older version of libpng 1.2            No crash        Crash (SIGSEGV) as soon as chrome starts caching thumbnails.      <b>Please provide

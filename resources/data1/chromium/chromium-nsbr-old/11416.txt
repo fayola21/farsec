@@ -1,0 +1,1 @@
+<title>Issue 11416 -   chromium -    Past keyword search and suggestions aren't working correctly - Project Hosting on Google Code</title> <pre>   1. Create a keyword and call it foo.  2. Type foo bar in the omnibox and press enter.  3. Type 'foo b' and bar should be suggested. Select 'bar' and notice the   keyword is no longer shown     </pre>

@@ -1,0 +1,1 @@
+Propagated CXF header's value should not include quotes    CAMEL-686 fixed the issue of not propagating transport headers (e.g. SOAPAction) but it looks like we added quotes around the value (i.e. getCustomer becomes 'getCustomer'). I updated the CustomerServicesTest to illustrate the problem. Also  I cleaned up the client/server-application.xml.   

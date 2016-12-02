@@ -1,0 +1,1 @@
+<title>Issue 31148 -   chromium -    Chrome Extension Toolstrip - Project Hosting on Google Code</title>   1.&quot;toolstrips&quot;: [        &quot;tool.html&quot;     ]          I just written the Hai.. in tool.html .  expected result is Hai.. on toolstrip      Not working    <b>Please provide

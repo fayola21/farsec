@@ -1,0 +1,1 @@
+<title>Issue 37372 -   chromium -    Tabbed bookmark manager: &quot;Bookmark manager&quot; in bookmark bar context menu doesn't work - Project Hosting on Google Code</title> <pre> It opens the native bookmark manager instead. </pre>

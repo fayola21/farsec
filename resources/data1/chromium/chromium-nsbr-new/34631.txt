@@ -1,0 +1,1 @@
+<title>Issue 34631 -   chromium -    Facebook Chat Tries to Save .mp3 when receiving IM - Project Hosting on Google Code</title>   1. Sign Into Facebook.  2. Open Chat Window  3. Receive IM      Recieve IM with no Popups        Chrome Downloader will pop up asking to save a file &quot;pop.mp3&quot;    <b>Please provide

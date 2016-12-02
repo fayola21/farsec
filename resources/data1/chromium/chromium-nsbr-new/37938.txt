@@ -1,0 +1,1 @@
+<title>Issue 37938 -   chromium -    Mac: can toggle bookmark bar with bookmark bar folder/menu open - Project Hosting on Google Code</title> <pre>   1. show the bookmark bar and open a folder  2. press Cmd-Shift-B or whatever it is </pre>

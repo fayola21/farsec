@@ -1,0 +1,1 @@
+<title>Issue 41355 -   chromium -    Developer tools broken on 249.1056 - Project Hosting on Google Code</title> <pre> Build: 4.1.249.1056    -Navigate to any webpage page.  -Bring up Developer tools (ctrl+shift+[i/j])    See the attached screenshot. </pre>

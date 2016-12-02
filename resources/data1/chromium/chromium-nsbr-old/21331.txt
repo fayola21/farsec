@@ -1,0 +1,1 @@
+<title>Issue 21331 -   chromium -    Implement web-based protocol handlers - Project Hosting on Google Code</title> <pre> We should implement registerProtocolHandler() to support protocols like   mailto:    See <a href="https://developer.mozilla.org/en/Web-based_protocol_handlers">https://developer.mozilla.org/en/Web-based_protocol_handlers</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43947 -   chromium -    popup blocker fails on popups with audio clips - Project Hosting on Google Code</title>   1. visit a site with popups that contains an audio clip  2. chrome blocks the popup but the audio still plays        no popup  audio or otherwise      no popup  but the audio clip is still heard      <b>Please provide

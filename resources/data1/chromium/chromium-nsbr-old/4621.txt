@@ -1,0 +1,1 @@
+<title>Issue 4621 -   chromium -    Major hotmail issue - Project Hosting on Google Code</title>   1. -  2. -  3. -        Being able to enter text into the 'compose mail' section on www.hotmail    all other features seem to work fine except the text entry box.        It is slightly greyed out and unavailable    Please provide

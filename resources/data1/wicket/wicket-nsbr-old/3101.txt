@@ -1,0 +1,1 @@
+No exceptionpage on exceptions during ajax    start the quickstart and wait to see error occuring in console  ajax just stops in browser (nothing is indicating the error)   

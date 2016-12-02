@@ -1,0 +1,1 @@
+<title>Issue 36229 -   chromium -    We must include the cobwerks plugin in chrome - Project Hosting on Google Code</title> <pre> The cobwerks plugin is awesome and very popular. We must include it by   default when you install chrome at least for windows.     </pre>

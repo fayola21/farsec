@@ -1,0 +1,1 @@
+<title>Issue 31824 -   chromium -    Extensions not supported in incognito mode - Project Hosting on Google Code</title> <pre> Chrome Version       : Chromium	4.0.288.0 (__��_��_��_____�Ѝ��____��_��_ 35427)    Some extension can work on previous version of chromium in incognito mode   (e.g. 4.0.266.0). But now they're not working in 4.0.288.0. I hope it can be   fixed. </pre>

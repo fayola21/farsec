@@ -1,0 +1,1 @@
+<title>Issue 18906 -   chromium -    rebaseline tool pset svn:eol-style and svn:mime-type - Project Hosting on Google Code</title> <pre> It would be nice if rebaseline tool set property svn:eol-style and  svn:mime-type for expected data files to pass presubmit checks. </pre>

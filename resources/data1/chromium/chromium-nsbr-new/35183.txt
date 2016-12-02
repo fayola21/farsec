@@ -1,0 +1,1 @@
+<title>Issue 35183 -   chromium -    [GTK] Clear Browsing dialog needs link to adobe flash settings - Project Hosting on Google Code</title> <pre> For feature parity. Will check gnome hig to see what to do. </pre>

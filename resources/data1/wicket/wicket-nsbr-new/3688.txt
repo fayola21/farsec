@@ -1,0 +1,1 @@
+WebPage cannot find the head container if TransparentWebMarkupContainer is associated with    If a page uses TransparentWebMarkupContainer to set some attributes to the &lt;html&gt; tag then org.apache.wicket.markup.html.WebPage.validateHeaders() cannot find the HtmlHeaderContainer because it expects to find it at the first level of children tree.   

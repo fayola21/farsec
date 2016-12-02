@@ -1,0 +1,1 @@
+<title>Issue 25546 -   chromium -    continues crash on 4.0.223.9 caused by extensions - Project Hosting on Google Code</title> <pre> I experienced a lot of crash in a few minute  disable extensions makes the   bugs to go away  but whit extensions enabled every time you clck to a link   from a pagE the browser to crash. </pre>

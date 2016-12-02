@@ -1,0 +1,1 @@
+<title>Issue 24884 -   chromium -    Folder icon has extraneous white border on the right and bottom - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.221.8    The bookmark folder icons in the Bookmarks bar have an extraneous white   border on the right and bottom  which looks OK with the default theme but   horrible with most others. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20481 -   chromium -    navigator.appCodeName=mozilla - Project Hosting on Google Code</title>   1.please see the attached html file and open with chrome and rest browsers        navigator.appCodeName and navigator.appName should be something different  google specific.      navigator.appCodeName=mozilla  navigator.appName=netscape    <b>Please provide

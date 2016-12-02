@@ -1,0 +1,1 @@
+<title>Issue 2347 -   chromium -    http requests that result in a 204 response never complete - Project Hosting on Google Code</title> <pre>   1. Run chrome.exe --new-http  2. Browse to <a href="http://clients1.google.com/gen_204">http://clients1.google.com/gen_204</a>          Expect the URL to load quickly.  Instead  it never finishes loading.         </pre>

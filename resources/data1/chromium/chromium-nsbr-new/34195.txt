@@ -1,0 +1,1 @@
+<title>Issue 34195 -   chromium -    Examine  resurrect &amp; write unittests for popup blocking - Project Hosting on Google Code</title> <pre> My popup blocking change gutted the unittests  but not all of them have   become nonsensical in the new world.  I need to look at every test I took out   and see if it can be resurrected or at least some similar idea rewritten. </pre>

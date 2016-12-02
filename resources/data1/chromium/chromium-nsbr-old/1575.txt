@@ -1,0 +1,1 @@
+<title>Issue 1575 -   chromium -    Compatibility issues with Kaspersky Anti-Virus 6 - Project Hosting on Google Code</title>   1. Install Kaspersky Anti-Virus 6  2. Install Chrome  3. Attempt to play any video on youtube      Video plays      Given famous youtube &quot;sorry&quot; message      Please provide

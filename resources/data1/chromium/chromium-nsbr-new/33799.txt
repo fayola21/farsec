@@ -1,0 +1,1 @@
+<title>Issue 33799 -   chromium -    Problem in the site www.http://www.loteriasyapuestas.es/ - Project Hosting on Google Code</title>   1.Load the URL  2.Check the result website uploaded        I am not able to see the login box to enter into the user zone.        Some kind of blocked frame which hides to links to sign in in the website.      <b>Please provide

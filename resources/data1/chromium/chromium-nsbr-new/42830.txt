@@ -1,0 +1,1 @@
+<title>Issue 42830 -   chromium -    google chrome stop to work - Project Hosting on Google Code</title>   allways when i open google and enter to web sites it crush some time   but week ago it wasn't i keep enter to same site each day such   as:google.co.il youtube.com facebook.com but it crush       <b>Please provide

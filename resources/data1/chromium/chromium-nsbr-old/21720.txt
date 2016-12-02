@@ -1,0 +1,1 @@
+<title>Issue 21720 -   chromium -    Chromium cuts off downloads that are larger than 10 mb. - Project Hosting on Google Code</title>   Chromium cuts off downloads that are greater than 10 mb.      File larger than 10 mb should be downloaded completely.      Download immediately stops upon reaching 10 mb  leaving you with an   incomplete file.    <b>Please provide

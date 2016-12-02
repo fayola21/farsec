@@ -1,0 +1,1 @@
+<title>Issue 44348 -   chromium -    Streaming flash stops streaming after a while - Project Hosting on Google Code</title>   1. Go to the website  2. Wait...a while  maybe 30+ mins?        The music should keep playing      It stops playing    <b>Please provide

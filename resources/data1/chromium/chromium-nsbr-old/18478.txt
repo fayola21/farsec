@@ -1,0 +1,1 @@
+<title>Issue 18478 -   chromium -    navigating DeviantArt galleries broken - Project Hosting on Google Code</title>   1. Go to <a href="http://www.deviantart.com">http://www.deviantart.com</a>  2. Attempt to navigate the submissions by clicking &quot;Next&quot; at bottom of the   displayed works.      The next set of 24 works ought to load.      Nothing.    <b>Please provide

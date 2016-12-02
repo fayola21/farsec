@@ -1,0 +1,1 @@
+<title>Issue 43235 -   chromium -    Importing passwords from FF is broken on Trunk. - Project Hosting on Google Code</title> <pre> OS: XP    Repros on Trunk (r 46345)    -Import passwords from FF.    Issue:  Nothing is imported.     Will check on linux and will update the thread.           </pre>

@@ -1,0 +1,1 @@
+<title>Issue 46128 -   chromium -    Put bookmark button to omnibox in popups - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0 (Official Build 48573) dev          Firefox 3.x: OK      1. Open a popup page      There should be bookmark button in omnibox      There's no bookmark button in omnibox </pre>

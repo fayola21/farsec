@@ -1,0 +1,1 @@
+<title>Issue 24645 -   chromium -    Implement popups for page actions - Project Hosting on Google Code</title> <pre> Page actions should have popups  just like browser actions </pre>

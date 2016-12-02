@@ -1,0 +1,1 @@
+<title>Issue 13579 -   chromium -    Chrome crash when manipulating tabs - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.182.5  OS version               : 10.5.7      1.  open some tabs  2. drag them around and in and out of a window        not crashing        crashing.  crash report attached </pre>

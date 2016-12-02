@@ -1,0 +1,1 @@
+<title>Issue 8818 -   chromium -    Google Chrome forgets favicons - Project Hosting on Google Code</title>   1. Erase browsing data  2. Close Chrome  3. Not using it for some time        Chrome should remember favicons in bookmarks bar and in bookmarks folders          It loses favicons      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36138 -   chromium -    REGRESSION: Animated gifs are not working - Project Hosting on Google Code</title>   1. open a page with animated gif  2. No animation works      What is the expected result? Animated gifs shouls work      What happens instead? Aniamted gifs does not move      <b>Please provide

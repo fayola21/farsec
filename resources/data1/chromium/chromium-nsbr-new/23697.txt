@@ -1,0 +1,1 @@
+<title>Issue 23697 -   chromium -    animation interface should use time delta class - Project Hosting on Google Code</title> <pre> certain ints should be base::TimeDelta:    Animation(int duration  int frame_rate  AnimationDelegate* delegate);  void SetDuration(int duration); </pre>

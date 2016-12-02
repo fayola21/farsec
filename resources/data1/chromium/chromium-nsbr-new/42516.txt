@@ -1,0 +1,1 @@
+<title>Issue 42516 -   chromium -    bookmark bar gap too large between favicons - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.17 dev on Mac OS X    The gap between favicons on bookmark bar suddenly goes much larger in this version  too   scattered. </pre>

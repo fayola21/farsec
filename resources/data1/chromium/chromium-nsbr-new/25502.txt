@@ -1,0 +1,1 @@
+<title>Issue 25502 -   chromium -    Please don't create Downloads dir for me - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.211.2 (Official Build 26474)        1. Start google-chrome      No 'Downloads' dir created in my home dir.        nothing       </pre>

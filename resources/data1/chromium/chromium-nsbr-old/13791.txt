@@ -1,0 +1,1 @@
+<title>Issue 13791 -   chromium -    Download image icon for image files does not look good - Project Hosting on Google Code</title>   1. Download an image file (gif  jpg  png  etc)          Image icon is not truncated      Image icon is truncated  See screenshot    <b>Please provide

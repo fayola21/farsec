@@ -1,0 +1,1 @@
+<title>Issue 45816 -   chromium -    Implement singleton app panels - Project Hosting on Google Code</title> <pre> Similar to singleton app tabs and windows  we should have single app panels.    Subsequent launches of panel-based apps shouldn't open duplicate panels. </pre>

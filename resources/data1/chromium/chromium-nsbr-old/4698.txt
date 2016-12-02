@@ -1,0 +1,1 @@
+<title>Issue 4698 -   chromium -    song volume resets itself for each new song. - Project Hosting on Google Code</title>   1. I have to turn the volume down every time a new song starts on this   website:  <a href="http://paulanleitner.com">http://paulanleitner.com</a>                    Please provide

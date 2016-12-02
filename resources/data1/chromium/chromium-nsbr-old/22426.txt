@@ -1,0 +1,1 @@
+<title>Issue 22426 -   chromium -    Drop down box choice sticks - Project Hosting on Google Code</title>   1. go to any web page that has a drop down box. Select any item and it will   not return the choice.                    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 14667 -   chromium -    [Mac download shelf] The download shelf should display &quot;Insecure filetype  download anyway&quot; - Project Hosting on Google Code</title> <pre> Windows does this; it shows buttons on the shelf itself. Read their shelf code   to get started. </pre>

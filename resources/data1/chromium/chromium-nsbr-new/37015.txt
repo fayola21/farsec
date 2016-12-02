@@ -1,0 +1,1 @@
+<title>Issue 37015 -   chromium -    Version numbers for auto updaters - Project Hosting on Google Code</title> <pre> Apparently  there is no longer version info that the automatic binary  updaters can use. IMHO it is a retrograde step since I last used Chromium.    DrT </pre>

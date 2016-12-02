@@ -1,0 +1,1 @@
+<title>Issue 45002 -   chromium -    Huge alert box crashes Chrome - Project Hosting on Google Code</title>   1. display the html page attached  2. click on the second button        Display part of the string in the alert box as FF does.      Chrome crashes.    <b>Please provide

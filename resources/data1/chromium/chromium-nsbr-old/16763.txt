@@ -1,0 +1,1 @@
+<title>Issue 16763 -   chromium -    open following pages doesn't work - Project Hosting on Google Code</title>   1. Open Chrome  2. Go to options &gt; basics  3. Choose the &quot;open the following pages&quot; and add a couple of pages  4. Restart chrome      The pages specified in step 3 should be opened      about:linux-splash gets loaded instead     <b>Please provide

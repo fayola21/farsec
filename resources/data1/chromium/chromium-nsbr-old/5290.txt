@@ -1,0 +1,1 @@
+<title>Issue 5290 -   chromium -    Hotmail is now broken. It worked before this update. - Project Hosting on Google Code</title>   1. Go to hotmail  2. Try to read any email              It won't open any email.    Please provide

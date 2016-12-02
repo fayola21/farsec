@@ -1,0 +1,1 @@
+<title>Issue 12421 -   chromium -    GTK: Browser doesn't use correct theme resources in Incognito mode - Project Hosting on Google Code</title> <pre> When creating an incognito browser window  the only theme resources used for   incognito mode are the background tab images.    Also  Mr. Spy isn't displayed in the top left corner. </pre>

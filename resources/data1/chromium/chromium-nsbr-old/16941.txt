@@ -1,0 +1,1 @@
+<title>Issue 16941 -   chromium -    Bookmark bar context menu should have &quot;copy link location to clipboard&quot; - Project Hosting on Google Code</title> <pre> I use this all the time  it's annoying not to have it. </pre>

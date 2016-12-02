@@ -1,0 +1,1 @@
+<title>Issue 34379 -   chromium -    Impossible to paste some table from Microsoft Excel. - Project Hosting on Google Code</title>   1. Try copying an part of any spreadsheet from Microsoft Excel into the   body email.  2. It works perfectly on IE.          See the table without a mess.        A mess.    <b>Please provide

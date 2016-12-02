@@ -1,0 +1,1 @@
+<title>Issue 38159 -   chromium -    Big .svg file displayed without scrollbars (Webkit problem) - Project Hosting on Google Code</title>   1. Open svg file with dimensions depassing window size            Image displayed with scrollbars - scrolling possible          Image displayed without scrollbars - impossible to scroll  only left top   corner visible    <b>Please provide

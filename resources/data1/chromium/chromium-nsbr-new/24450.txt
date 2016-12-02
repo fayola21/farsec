@@ -1,0 +1,1 @@
+<title>Issue 24450 -   chromium -    Remove first run sentinel migration code - Project Hosting on Google Code</title> <pre> See reference in file_path.cc to this bug.  The code should be removed after users have been migrated. </pre>

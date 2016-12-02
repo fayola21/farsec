@@ -1,0 +1,1 @@
+Camel archetype component - Use bundle packaging so component is ready to install in OSGi    The component archetypes should have the pom.xml changed so they generate a project that use bundle packaging with the felix bundle plugin.Then the component is ready to install in OSGi.See nabblehttp://camel.465427.n5.nabble.com/Creating-new-processor-components-td5730919.html   

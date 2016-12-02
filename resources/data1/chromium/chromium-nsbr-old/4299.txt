@@ -1,0 +1,1 @@
+<title>Issue 4299 -   chromium -    Find-in-page does not highlight results - Project Hosting on Google Code</title> <pre> Press Ctrl-f and type in a word that occurs on the page.    Occurrences of the word are not highlighted on ToT Chromium.     </pre>

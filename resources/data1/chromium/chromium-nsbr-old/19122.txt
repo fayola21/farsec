@@ -1,0 +1,1 @@
+<title>Issue 19122 -   chromium -    Ctrl+Shift+Del accelerator doesn't work in Linux - Project Hosting on Google Code</title> <pre> Ctrl+shift+del should bring up the &quot;Clear browsing data...&quot; box. It works in   Windows Chrome  but not linux. </pre>

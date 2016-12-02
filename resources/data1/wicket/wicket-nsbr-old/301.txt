@@ -1,0 +1,1 @@
+Translation for Czech language    Hi  here is translation of Application properties for Czech language (for wicket-1.2.5)  file name Application_cs.properties.   

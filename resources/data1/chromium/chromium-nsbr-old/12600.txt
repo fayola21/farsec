@@ -1,0 +1,1 @@
+<title>Issue 12600 -   chromium -    Thmbnails and other links are frequently unavialble.  This did not occur with previous version of Chrome. - Project Hosting on Google Code</title>   1. Opening browser  2. Doing a search on google                  <b>Please provide

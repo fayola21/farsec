@@ -1,0 +1,1 @@
+<title>Issue 36944 -   chromium -    Support running .nexe on all sites without cmdline flag  - Project Hosting on Google Code</title> <pre> Chrome for Linux and Mac OS 10.6 can now run Native Client modules directly    no plugin required.     To enable this features  run Chrome with the following command line flags --  internal-nacl --enable-gpu-plugin --no-sandbox. </pre>

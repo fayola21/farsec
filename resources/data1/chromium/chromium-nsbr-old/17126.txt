@@ -1,0 +1,1 @@
+<title>Issue 17126 -   chromium -    Redirects to invalid urls fail as net::ERR_UNSAFE_REDIRECT - Project Hosting on Google Code</title> <pre> They should fail as net::ERR_INVALID_URL. </pre>

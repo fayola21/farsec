@@ -1,0 +1,1 @@
+<title>Issue 13739 -   chromium -    the browser crash when disabing a download chrome thinks might harm my computer - Project Hosting on Google Code</title>   1.download a file that chrome thinks is harmful (EX. .sh .exe)  2.when the warning message appears chose disable  3.the browser crashs                <b>Please provide

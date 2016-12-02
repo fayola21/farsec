@@ -1,0 +1,1 @@
+<title>Issue 23042 -   chromium -    document inspector misbehaves - Project Hosting on Google Code</title>   1. right click  2. inspect element  3. click elements      full dom displayed      empty body element    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22996 -   chromium -    Chrome Frame eats my alt key - Project Hosting on Google Code</title> <pre>   1. Go to a page that supports Chrome Frame  e.g. www.collinjackson.com  2. Press alt    What is the expected output?    IE's menu bar is displayed. (File  Edit  View  Favorite  Tools  Help)    What do you see instead?    Nothing happens. </pre>

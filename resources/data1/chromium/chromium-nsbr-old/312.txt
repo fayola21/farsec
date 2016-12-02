@@ -1,0 +1,1 @@
+<title>Issue 312 -   chromium -    Closing the last tab causes the browser to close - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)  URLs (if applicable) : any          Opera 9: OK      Firefox 3: CAN'T           IE 7: No Idea      1. Close all tabs      I expected getting a New Tab Screen      Browser closes </pre>

@@ -1,0 +1,1 @@
+<title>Issue 8179 -   chromium -    Pictures looks odd after some memory leak - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.166.1      I'm opening the new tab and images looks odd.  It happen me once and I could reproduce it many times until I'll restart my   Chrome process.  See attachment. </pre>

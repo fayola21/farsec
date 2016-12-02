@@ -1,0 +1,1 @@
+Add a link to NOTICE file on every page    This is so that stuff with different compatible licenses can be attributed appropriately.   

@@ -1,0 +1,1 @@
+<title>Issue 45215 -   chromium -    Very large window.confirm box crashes Chrome - Project Hosting on Google Code</title>   1. display the script supplied below  2. click on the button         Display a very large box       Chrome crashes    <b>Please provide

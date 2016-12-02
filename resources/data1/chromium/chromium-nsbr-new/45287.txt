@@ -1,0 +1,1 @@
+<title>Issue 45287 -   chromium -    Windows 7 HP 32 does not allow Chromium to be set as default - Project Hosting on Google Code</title>   1.Go to options  set chromium as default browser and click          Change to default browser      Does not change  remains &quot;chromium is not your current default browser&quot;    <b>Please provide

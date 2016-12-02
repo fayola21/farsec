@@ -1,0 +1,1 @@
+<title>Issue 2294 -   chromium -    Cannot print BGcolor or background pintures - Project Hosting on Google Code</title>   1. In IE there is an option to accept printer background colors or   background pictures. Cannot find that setting in Chrome                    Please provide

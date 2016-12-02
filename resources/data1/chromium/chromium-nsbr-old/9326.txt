@@ -1,0 +1,1 @@
+<title>Issue 9326 -   chromium -    Cannot Open Context Menu with Right-Click - Project Hosting on Google Code</title>   1. Select Text in a webpage  2. Right-click on it      Context menu with Cut  Copy  etc. opens      Text is deselected and navigation menu opens with back  forward  etc. shows    <b>Please provide

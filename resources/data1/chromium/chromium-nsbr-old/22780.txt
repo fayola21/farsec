@@ -1,0 +1,1 @@
+<title>Issue 22780 -   chromium -    worker-cloneport test is flaky - Project Hosting on Google Code</title> <pre> MessagePort cloning is much slower on Chromium than on WebKit  which   makes the worker-cloneport layout test flaky  because we don't clone the port   fast enough to meet the (arbitrary) thresholds in the test.   </pre>

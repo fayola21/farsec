@@ -1,0 +1,1 @@
+<title>Issue 1771 -   chromium -    Touchpad virtual scroll on laptop fails to scroll up page - Project Hosting on Google Code</title>   1. Open chrome  2. go to page you need to scroll up and down  3. Scroll Down  4. Try to scroll up      Scroll up page      The scroll mouse pointer appears but the page does not scroll up    Please provide

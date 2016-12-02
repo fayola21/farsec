@@ -1,0 +1,1 @@
+<title>Issue 9148 -   chromium -    Feature Request: Remove button next to downloads in the download page - Project Hosting on Google Code</title> <pre> There should be a remove button next to each download in the download page    instead of having to right-click each download and click remove each time.     </pre>

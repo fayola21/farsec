@@ -1,0 +1,1 @@
+<title>Issue 38553 -   chromium -    Page/wrench menu items with &quot;...&quot; should auto-correct to proper ellipses. - Project Hosting on Google Code</title> <pre> Stuff like Find... should convert to Find��_��__ in the menu items. </pre>

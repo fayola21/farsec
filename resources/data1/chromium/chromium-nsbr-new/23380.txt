@@ -1,0 +1,1 @@
+<title>Issue 23380 -   chromium -    Browser actions: integrate with wrench menu - Project Hosting on Google Code</title> <pre> All browser actions should show up in a submenu of the wrench menu. The icon   should be optional  and if not specified  the action should only show up in   the wrench menu  not the toolbar. </pre>

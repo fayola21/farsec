@@ -1,0 +1,1 @@
+<title>Issue 944 -   chromium -    not working with verisoft access manager - Project Hosting on Google Code</title>   1. Having Verisoft access manager installed and then visit a site requiring    username and password.        What is the expected result? Verisoft should open and request i swipe a   finger to log on      What happens instead? Nothing happends      Please provide

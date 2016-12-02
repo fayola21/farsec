@@ -1,0 +1,1 @@
+<title>Issue 24381 -   chromium -    NtpBackgroundUtil needs unit tests - Project Hosting on Google Code</title> <pre> gfx::Canvas should be made into an interface so we can mock it. After that  we can easily unit test   this class with real numbers from various themes  as there's a lot of edge cases. </pre>

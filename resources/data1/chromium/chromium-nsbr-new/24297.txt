@@ -1,0 +1,1 @@
+<title>Issue 24297 -   chromium -    ChromeFrame: Feature request - Users should have a choice to override chrome frame - Project Hosting on Google Code</title> <pre> From product review:  Users should be able to choose whether to allow ChroemFrame to load or not.   This setting should override any specification in the web page itself. </pre>

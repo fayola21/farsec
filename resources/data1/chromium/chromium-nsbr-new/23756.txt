@@ -1,0 +1,1 @@
+<title>Issue 23756 -   chromium -    ctrl-w closing multiple tabs - Project Hosting on Google Code</title>   1. open multiple tabs  2. use ctrl-w to close tab          One tab closes        2 or maybe more tabs closed    <b>Please provide

@@ -1,0 +1,1 @@
+Cleanup suspect coding practices in the org.apache.derby.iapi.sql.dictionary package    Similar to DERBY-6177.   

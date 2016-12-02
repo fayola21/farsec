@@ -1,0 +1,1 @@
+<title>Issue 20618 -   chromium -    Clear browsing data spinner doesn't spin when clearing a large history - Project Hosting on Google Code</title> <pre>   1. Have a very large browsing history  2. Open the &quot;Clear browsing data&quot; dialog  3. Clear &quot;Everything&quot;  4. Notice that the progress spinner doesn't move     </pre>

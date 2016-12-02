@@ -1,0 +1,1 @@
+<title>Issue 25561 -   chromium -    CRASH   goto news.google.com  Clicking on &quot;Sci/Tech&quot; at left side of page  makes Chrome crash - Project Hosting on Google Code</title>   1. THIS KEEPS CRASHING  For example   goto news.google.com  Clicking on &quot;Sci/Tech&quot; at left side of page  makes Chrome crash            CRASH      No CRASH    <b>Please provide

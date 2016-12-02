@@ -1,0 +1,1 @@
+<title>Issue 16219 -   chromium -    Gmail window unresponsive - Project Hosting on Google Code</title>   1. open gmail  2. try to click to open email  3. try to click anything in the page      email opens      can't click to open email - no response    <b>Please provide

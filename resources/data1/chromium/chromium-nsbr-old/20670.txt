@@ -1,0 +1,1 @@
+<title>Issue 20670 -   chromium -    tabs are miscolored - Project Hosting on Google Code</title>   1. open different tabs  2. click on random tabs      only the selected tab is supposed to be white. the inactive tabs are   supposed to be all blue.      some edges (of the inactive tab) will stay white. sometimes it stays all   white.    <b>Please provide

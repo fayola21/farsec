@@ -1,0 +1,1 @@
+<title>Issue 36979 -   chromium -    Unit tests for SafeBrowsing - Project Hosting on Google Code</title> <pre> We need unit tests that exercise SafeBrowsingResourceHandler in ResourceDispatcherHost.    Everything from attaching the handler  to running the checks.    Probably a good place to start is in resource_dispatcher_host_unittest.cc </pre>

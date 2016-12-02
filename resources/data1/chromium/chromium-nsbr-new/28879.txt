@@ -1,0 +1,1 @@
+<title>Issue 28879 -   chromium -    Page works in all browsers besides Chrome and Safari - Project Hosting on Google Code</title>   1. Open the page.      Page looks and works correctly      CSS broken  links (with no JS attached) are not working  javascript events   sometimes fail to invoke without errors in console.    <b>Please provide

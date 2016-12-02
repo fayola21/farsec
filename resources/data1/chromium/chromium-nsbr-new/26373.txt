@@ -1,0 +1,1 @@
+<title>Issue 26373 -   chromium -    creating a new tab from fullscreen results in a crash - Project Hosting on Google Code</title>   1. Open chrome  nav to any URL  2. Go to fullscreen  3. cmd-T for a new tab  4. crashed/hung browser and 100% CPU util for the master process (on a 2   core machine)      Tab opens        Browser hangs/crashes    <b>Please provide

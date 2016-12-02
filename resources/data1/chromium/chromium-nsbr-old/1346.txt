@@ -1,0 +1,1 @@
+<title>Issue 1346 -   chromium -    Unable to use google chrome to upload photo with flickr web - Project Hosting on Google Code</title>   1. Go to the web site address  2. Login  3. Choose the pictures. After choose pictures then nothing happen  4. It should show upload button                Please provide

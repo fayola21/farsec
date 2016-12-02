@@ -1,0 +1,1 @@
+<title>Issue 4233 -   chromium -    Fingerprint registry not functional - Project Hosting on Google Code</title>   1. the biometric fingerprint login wizard doesn't appear on chrome even   after having it registered as an application on biometric program'                    Please provide

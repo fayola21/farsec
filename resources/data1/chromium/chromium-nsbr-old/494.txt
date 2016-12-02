@@ -1,0 +1,1 @@
+<title>Issue 494 -   chromium -    Proxy settings from IE are used instead of own settings - own tab is needed - Project Hosting on Google Code</title>   1. Set Proxy            Own proxy settings        IE settings used!  Please provide

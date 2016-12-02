@@ -1,0 +1,1 @@
+<title>Issue 22767 -   chromium -    Drop down box hide problem - Project Hosting on Google Code</title>   1. open any page with Combo control  2. click on drop down and select option  3. After selecting it drop down is not hiding                <b>Please provide

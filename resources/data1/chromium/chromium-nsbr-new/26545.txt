@@ -1,0 +1,1 @@
+<title>Issue 26545 -   chromium -    Chrome ignores windows HOSTS file - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.1      Firefox 3.x: OK    Opera 10: OK  HOSTS is a file in windows folder wich describes the mappings of IP   addresses to host names for networks where DNS is not available _and_ should   override dns. </pre>

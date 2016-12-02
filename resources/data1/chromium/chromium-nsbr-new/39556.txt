@@ -1,0 +1,1 @@
+<title>Issue 39556 -   chromium -    Tabbed bookmark manager doesn't search in folders - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.360.0 (Official Build 42309) dev    In old bookmark manager when we browse a folder we can search just only that   folder. but in new bookmark manager we cannot search. always search all   bookmarks. </pre>

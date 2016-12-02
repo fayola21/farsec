@@ -1,0 +1,1 @@
+<title>Issue 1331 -   chromium -    taskbar not visible - Project Hosting on Google Code</title>   1. Load Windows Vista (which is OS problem occured in  2. Open Google Chrome.  3. Place mouse at bottom of screen.      For the taskbar to pop up.      The taskbar remains hidden.  This is the first program where this has   happened to me.    Please provide

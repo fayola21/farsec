@@ -1,0 +1,1 @@
+<title>Issue 30589 -   chromium -    Extensions should show a support URL on the extensions page/tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.226.0    Extensions should (be able to) show a support URL on the extensions page/tab. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12127 -   chromium -    Implement task manager intergration for extensions - Project Hosting on Google Code</title> <pre> Extension processes should show up in the task manager. </pre>

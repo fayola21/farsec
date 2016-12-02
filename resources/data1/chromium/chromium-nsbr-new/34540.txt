@@ -1,0 +1,1 @@
+<title>Issue 34540 -   chromium -    Chrome Crashed  - Project Hosting on Google Code</title>   1. Open Chrome  2. Disable pop-up blocker  3. Go to www.yzzerdd.com        Chrome will open up numerous pop-ups.        Chrome crashes after a few minutes.    <b>Please provide

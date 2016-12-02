@@ -1,0 +1,1 @@
+<title>Issue 29296 -   chromium -    getSVGDocument() returns incorrect value - Project Hosting on Google Code</title>   1. var foo = document.getElementById('testSvg')  2. var doc = foo.getSVGDocument()          should get the SVG document          get undefined    <b>Please provide

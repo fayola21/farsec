@@ -1,0 +1,1 @@
+<title>Issue 38452 -   chromium -    [Linux] Back/forward menu ignores modifier keys - Project Hosting on Google Code</title> <pre> See <a title="Back/forward menu ignores command key" class=closed_ref href="/p/chromium/issues/detail?id=37984"> issue 37984 </a>. This needs to implemented on Linux as well. </pre>

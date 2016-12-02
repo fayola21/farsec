@@ -1,0 +1,1 @@
+<title>Issue 216 -   chromium -    Application failed to initialize properly (0x0000005).  - Project Hosting on Google Code</title>   1. Install Chrome with XP SP3  2. Start Chrome  3. Get error &quot;Application failed to initialize properly (0x0000005)&quot; - see   attached      N/A      N/A    Please provide

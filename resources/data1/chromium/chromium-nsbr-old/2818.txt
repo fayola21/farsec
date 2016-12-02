@@ -1,0 +1,1 @@
+<title>Issue 2818 -   chromium -    google chrome is too slow - Project Hosting on Google Code</title>   1. closing tabs  chrome is too slow to change immediately the process to   another active tab (response time 15 sec+)          fast  fast  fast!          Please provide

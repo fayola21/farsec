@@ -1,0 +1,1 @@
+<title>Issue 15678 -   chromium -    UI - Confirm When Closing Multiple Tabs - Project Hosting on Google Code</title>   1. Open Chrome.  2. Open multiple tabs.  3. Exit Chrome.      Chrome should ask something like &quot;Do you really want to close multiple   tabs?&quot;      Nothing happens  causing accidental closings of many tabs at once.    <b>Please provide

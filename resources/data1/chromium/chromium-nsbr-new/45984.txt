@@ -1,0 +1,1 @@
+<title>Issue 45984 -   chromium -    Devnagari Script  Hindi fonts are not properly arranged; last letter of the previous word becomes the first letter of the nest word. - Project Hosting on Google Code</title>                       <b>Please provide

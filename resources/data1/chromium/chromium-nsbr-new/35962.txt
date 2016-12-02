@@ -1,0 +1,1 @@
+<title>Issue 35962 -   chromium -    No status bubble for fullscreen windows - Project Hosting on Google Code</title> <pre> The status bubble is still attached to the regular window.  It needs to move to be a child of the   fullscreen window. </pre>

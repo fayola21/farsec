@@ -1,0 +1,1 @@
+<title>Issue 43231 -   chromium -    Add automation proxy support for first run UI - Project Hosting on Google Code</title> <pre> We need tests that will cover the first run UI:   - Enabled status reporting   - Import bookmarks from other browsers </pre>

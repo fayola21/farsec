@@ -1,0 +1,1 @@
+<title>Issue 933 -   chromium -    Window opens in its default size. - Project Hosting on Google Code</title>   1. open the Chromium  2. maximize the window or resize it  then close it.  3. now open it again      it should open in the same size that we just resized.      it opens with a specific size and can't change its start up window size.    Please provide

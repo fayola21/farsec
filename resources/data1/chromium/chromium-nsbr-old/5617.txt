@@ -1,0 +1,1 @@
+<title>Issue 5617 -   chromium -    Tab preview feature requested - Project Hosting on Google Code</title>   1. Place the mouse pointer over a tab.      A preview of the tab's content should appear.      Only a tooltip with the title appears.    Please provide

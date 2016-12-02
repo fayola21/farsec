@@ -1,0 +1,1 @@
+<title>Issue 41438 -   chromium -    Latent bug in all DataTypeControllers causes crashes on OnUnrecoverableError() - Project Hosting on Google Code</title> <pre> Basically all DTCs suffer from the same problem as   <a href="http://code.google.com/p/chromium/issues/detail?id=41359">http://code.google.com/p/chromium/issues/detail?id=41359</a> . </pre>

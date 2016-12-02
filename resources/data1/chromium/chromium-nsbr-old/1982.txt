@@ -1,0 +1,1 @@
+<title>Issue 1982 -   chromium -    Showing meaningful text in the tab text - Project Hosting on Google Code</title> <pre> I think some heuristics could be used to show more meaningful text in   the tab text.     For example  with a blog post  you could show the beginning of the   post title and skip the blog title.    </pre>

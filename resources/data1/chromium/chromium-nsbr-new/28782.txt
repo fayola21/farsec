@@ -1,0 +1,1 @@
+<title>Issue 28782 -   chromium -    Hitting back button causes page to be garbled - Project Hosting on Google Code</title>   1. Not sure  some times  when you hit back button the page is garbled          show proper page      Page is garbled    <b>Please provide

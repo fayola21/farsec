@@ -1,0 +1,1 @@
+<title>Issue 28377 -   chromium -    [Extensions] Saved options should be deleted when uninstall extensions - Project Hosting on Google Code</title> <pre> As we know  in extension options page user could save information to  localStorage  ideally when user uninstall extension  those saved  options(information) should also be deleted  but currently is doesn't.         </pre>

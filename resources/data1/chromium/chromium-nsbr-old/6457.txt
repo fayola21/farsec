@@ -1,0 +1,1 @@
+<title>Issue 6457 -   chromium -    Bugs irritants a lot in Google Maps. - Project Hosting on Google Code</title>   1. Enter Google Maps's site or others sites.  2. To move  we will see Google Chrome crashes several times.  3. A lot craches irritants  in version 2.0.157.0.        Google Chrome crashed! Google Chrome crashed!    Please provide

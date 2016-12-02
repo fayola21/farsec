@@ -1,0 +1,1 @@
+<title>Issue 34987 -   chromium -    Java script crushes Chrome on windows - Project Hosting on Google Code</title> <pre> The java script in the attached html file  crushes  Chrome 4.0.249.78 (36714) on windows computer with 2GB memory   </pre>

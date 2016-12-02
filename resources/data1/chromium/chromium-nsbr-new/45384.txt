@@ -1,0 +1,1 @@
+<title>Issue 45384 -   chromium -    DELETE HTTP verb not supported - Project Hosting on Google Code</title> <pre> ChromeFrame version: 6.0.416.0    urlmon_url_request.cc handles requests for GET  POST  PUT and HEAD requests but not DELETE.   npapi_url_request.cc similarly only handles GET and POST. At a minimum  the urlmon variant   should be extended to handle DELETE. </pre>

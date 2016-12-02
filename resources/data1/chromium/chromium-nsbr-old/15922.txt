@@ -1,0 +1,1 @@
+<title>Issue 15922 -   chromium -    Animated GIFs frozen - Project Hosting on Google Code</title>   1. Enter link above  2. Animated GIFs don't move (smileys)          Smileys should move. They do work in IE 6.        Smileys are frozen  animated GIFs don't work.    <b>Please provide

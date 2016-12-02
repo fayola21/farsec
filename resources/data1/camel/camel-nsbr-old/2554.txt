@@ -1,0 +1,1 @@
+IndexOutOfBoundsException occur in UnsafeUriCharactersEncoder.class    Here is the mail thread for the detail discussion.   

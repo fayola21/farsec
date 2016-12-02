@@ -1,0 +1,1 @@
+<title>Issue 44771 -   chromium -    Don't show an install dialog when installing an app from the gallery - Project Hosting on Google Code</title> <pre> Install an app from the gallery.  It should be a one click install  no dialog should be shown. </pre>

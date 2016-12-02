@@ -1,0 +1,1 @@
+<title>Issue 55 -   chromium -    Full screen does not work on multiple screens - Project Hosting on Google Code</title>   1. open the browser  2. maximize on secondary display    Result:  1. maximizes to size of primary display    Expected result:  1. Fills up whole screen    Misc info:    Win XP SP2                    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 33379 -   chromium -    PLEASE TRUNCATE (more than you do now) user emails in your bug report  your Google Alerts picked up on the Domain of my email - Project Hosting on Google Code</title> <pre> <a title="VEVO won't link to my youtube account using Chrome"  href="/p/chromium/issues/detail?id=33238">Issue 33238</a>    Or add user name from account </pre>

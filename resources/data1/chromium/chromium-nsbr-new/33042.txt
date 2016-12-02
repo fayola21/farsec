@@ -1,0 +1,1 @@
+<title>Issue 33042 -   chromium -    Image definition loss in Google Chrome - Project Hosting on Google Code</title>   1.Blurred image in Google chrome                    <b>Please provide

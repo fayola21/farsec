@@ -1,0 +1,1 @@
+<title>Issue 15794 -   chromium -    Missing font configuration - Project Hosting on Google Code</title>   1. open options and go to personal stuff tab          there should be a option to adjust fonts (size  family  etc) like in   windows  or at least a TODO      nothing is present    <b>Please provide

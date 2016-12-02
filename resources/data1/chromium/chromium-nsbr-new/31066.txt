@@ -1,0 +1,1 @@
+<title>Issue 31066 -   chromium -    Single download place.. should behave differently. - Project Hosting on Google Code</title>   1. right click on an image and save it.          The browser SHOULD remember the last IMAGES directory. As IE7 correctly   does.        The browser defaults to the &quot;normal&quot; download directory.    <b>Please provide

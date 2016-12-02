@@ -1,0 +1,1 @@
+<title>Issue 18427 -   chromium -    Large DOMUIThemeSource images cause browser jank - Project Hosting on Google Code</title> <pre> Loading a New Tab Page with a large background image causes browser jank.   Possible causes are PNGEncoder or chrome:// DataSources not liking large   images.    Manually pre-populating the cache may help. </pre>

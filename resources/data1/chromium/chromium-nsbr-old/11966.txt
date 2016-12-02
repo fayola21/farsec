@@ -1,0 +1,1 @@
+<title>Issue 11966 -   chromium -    NOTIMPLEMENTED output shows up in non-debug builds - Project Hosting on Google Code</title> <pre> Running release (non-debug) builds  NOTIMPELEMENTED log messages show up on  the OS console. They should only display in debug builds.    This is true at least on Mac and Linux  not sure about windows. </pre>

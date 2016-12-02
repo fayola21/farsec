@@ -1,0 +1,1 @@
+<title>Issue 12458 -   chromium -    Channel changer 2.0 doesn't work as expected when registry keys exist for user-level and system-level installs - Project Hosting on Google Code</title> <pre> Get it from <a href="http://chromium.googlecode.com/files/chromechannel-2.0.exe">http://chromium.googlecode.com/files/chromechannel-2.0.exe</a>   </pre>

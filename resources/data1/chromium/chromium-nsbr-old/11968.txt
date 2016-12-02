@@ -1,0 +1,1 @@
+<title>Issue 11968 -   chromium -    Chrome crashes while calling NtGdiGetGlyphOutline - Project Hosting on Google Code</title> <pre> I get a BSOD once a month due to this.    Dump can be found @ filershareschromeqacrashDumpsBSOD.dmp </pre>

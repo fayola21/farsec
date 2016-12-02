@@ -1,0 +1,1 @@
+<title>Issue 167 -   chromium -    Impossible to build on Ubuntu Linux - Project Hosting on Google Code</title>   1. follow instuction on bouilding chromium on GNU/Linux      -to have an $build_dir/usr/src        -there isn't $build_dir/usr/src     :(      Please provide

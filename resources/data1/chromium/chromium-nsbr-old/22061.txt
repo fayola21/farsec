@@ -1,0 +1,1 @@
+<title>Issue 22061 -   chromium -    Make TimeTicks.Deltas test faster - Project Hosting on Google Code</title> <pre> The TimeTicks.Deltas test take 5.2 seconds  can we make it a bit faster?  I.e. run 50 iterations rather than 500? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37180 -   chromium -    Gears to HTML5 migration guide - Project Hosting on Google Code</title> <pre> What are the equivalent in HTML5 to Gears  we need to tell developers how   you can use HTML5 offline features that are equivalent to Gears </pre>

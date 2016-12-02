@@ -1,0 +1,1 @@
+<title>Issue 6178 -   chromium -    Switch to this tab - Project Hosting on Google Code</title>   1. Open a background URL  2. Open a new tab  3. Type the background URL in the new tab      There should be an option to switch to the already opened tab.          Please provide

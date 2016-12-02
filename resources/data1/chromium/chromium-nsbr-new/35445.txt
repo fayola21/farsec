@@ -1,0 +1,1 @@
+<title>Issue 35445 -   chromium -    Attach file doesn't work on Gmail - Project Hosting on Google Code</title>   1. Go www.gmail.com  2. Compose   3. Attach File      Open dialog box to attach a file      Nothing  I click the Attach File and nothing happens    <b>Please provide

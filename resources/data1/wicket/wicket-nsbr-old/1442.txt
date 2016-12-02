@@ -1,0 +1,1 @@
+nested forms inside a multipart form can't be submitted via ajax    nested forms can't be submitted via ajax if any of the parent forms contain a fileuploadfield (which makes the root form a multipart).fix: skip changing the request to a multipart request in Form#handleMultiPart  if it's an ajax request.these two types of requests mutually exclude each other anyway.   

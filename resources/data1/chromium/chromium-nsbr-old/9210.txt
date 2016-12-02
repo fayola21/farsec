@@ -1,0 +1,1 @@
+<title>Issue 9210 -   chromium -    &lt;input type=&quot;search&quot;&gt; doesn't do anything in Chromium Win - Project Hosting on Google Code</title> <pre> ...it's supposed to have a magnifying glass icon and a close box that does   stuff. </pre>

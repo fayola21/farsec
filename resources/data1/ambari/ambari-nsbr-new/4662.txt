@@ -1,0 +1,1 @@
+Install Wizard: Assign Masters: some selects disabled    Step to reproduce.Go untill to Customize Services Page.Click to Choose Services menu link.Go to Assign Masters page.   

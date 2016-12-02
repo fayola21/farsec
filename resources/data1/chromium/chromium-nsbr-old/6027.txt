@@ -1,0 +1,1 @@
+<title>Issue 6027 -   chromium -    Comments - Project Hosting on Google Code</title> <pre> Write a comment in an issue for example. When you write up to the end of the                 first line (where the &quot;e&quot; is in the at the end of the first line)  click the   spacebar  the cursor does not move. In Firefox  it does. </pre>

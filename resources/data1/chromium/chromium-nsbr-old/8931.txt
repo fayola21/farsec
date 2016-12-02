@@ -1,0 +1,1 @@
+<title>Issue 8931 -   chromium -    &amp;lt;input type=&quot;range&quot;&amp;gt; doesn't work in Chromium - Project Hosting on Google Code</title> <pre> ...It's supported upstream but is invisible in my local builds.  Presumably   we're missing some kind of glue functionality. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21263 -   chromium -    Embedded SVG with transparent background is not transparent - Project Hosting on Google Code</title>   1. Access URL  2. Observe background colour of SVG        Should match green background of HTML page      Background shown as white    <b>Please provide

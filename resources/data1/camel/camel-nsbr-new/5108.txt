@@ -1,0 +1,1 @@
+Set Restlet Server Options and Return HTTP Headers Set in Exchange    The underlying Restlet server options can now be set via an Endpoint option.HTTP headers (e.g. Expires or Last Modified) are returned properly from the exchange to the Restlet.   

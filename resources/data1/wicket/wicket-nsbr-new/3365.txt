@@ -1,0 +1,1 @@
+1.5-RC1 sources seem to be missing in Maven repository    I saw a 1.5-RC1 build here:http://repo1.maven.org/maven2/org/apache/wicket/wicket/1.5-RC1/but it looks like the sources are missing. There are source jar files  but they don't contain any classes. Was that intentional or is something wrong with the build process?   

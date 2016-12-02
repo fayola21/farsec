@@ -1,0 +1,1 @@
+<title>Issue 13580 -   chromium -    Copy version to clipboard - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.30    A button in the about box that copies the current version of chrome to the   clipboard which would then be posted to reports like this one. </pre>

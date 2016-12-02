@@ -1,0 +1,1 @@
+<title>Issue 36296 -   chromium -    Google Maps Street View issues - Project Hosting on Google Code</title>   1.Got to Google Maps  2.Select Street View  3.Click on Link tab      Street View web link or embed in web page link appears.      The link button does nothing.      <b>Please provide

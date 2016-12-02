@@ -1,0 +1,1 @@
+<title>Issue 30366 -   chromium -    BrowserEncodingTest.TestEncodingAutoDetect fails on valgrind/mac - Project Hosting on Google Code</title> <pre> BrowserEncodingTest.TestEncodingAutoDetect is excluded from valgrind/mac/ui   test. Please see the attached log for details. </pre>

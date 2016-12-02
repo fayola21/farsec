@@ -1,0 +1,1 @@
+<title>Issue 2622 -   chromium -    Vista Classic Tema - Project Hosting on Google Code</title>   1. When it turns the classic theme  top of the chrome browser grafically   something wrongs happens                    Please provide

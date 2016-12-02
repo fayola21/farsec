@@ -1,0 +1,1 @@
+<title>Issue 38908 -   chromium -    Remove native bookmark manager code - Project Hosting on Google Code</title> <pre> Now that we have the extension bookmark manager  we should remove the native bookmark   manager code once we're happy with the extension one.   </pre>

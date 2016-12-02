@@ -1,0 +1,1 @@
+<title>Issue 37311 -   chromium -    display of graphics is messed up - Project Hosting on Google Code</title>   1.try to load the page from the URL above.          normal page display      almost no graphics and some of the text appears in a column down the center   of the screen    <b>Please provide

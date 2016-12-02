@@ -1,0 +1,1 @@
+<title>Issue 22225 -   chromium -    command-cntrl-d shortcut doesn't work in Chrome - Project Hosting on Google Code</title> <pre> This pops up a neat dictionary window in other Cocoa apps.    See: <a href="http://finerthingsinmac.com/post/165167186/handy-dandy-pop-up-dictionary">http://finerthingsinmac.com/post/165167186/handy-dandy-pop-up-dictionary</a> </pre>

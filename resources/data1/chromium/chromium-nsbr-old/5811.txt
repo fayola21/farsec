@@ -1,0 +1,1 @@
+<title>Issue 5811 -   chromium -    Javascript errors with Facebook - Project Hosting on Google Code</title>   1. All javascript based navigation does not work..(including Apps and Chat   on lower bar)          Chat does not load properly  and all javascript based links are not working      Nothing on clicks    Please provide

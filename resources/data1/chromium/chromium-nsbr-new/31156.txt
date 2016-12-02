@@ -1,0 +1,1 @@
+<title>Issue 31156 -   chromium -    page in walla.co.il not RTL aligned and garbled - Project Hosting on Google Code</title> <pre>   1. go to <a href="http://food.walla.co.il/?w=/906/1387205">http://food.walla.co.il/?w=/906/1387205</a>            The main text is aligned LTR (should be RTL) and also garbled.        Chrome version: 4.0.249.43 Win 7. </pre>

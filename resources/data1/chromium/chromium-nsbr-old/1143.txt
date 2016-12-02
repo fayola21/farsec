@@ -1,0 +1,1 @@
+<title>Issue 1143 -   chromium -    Options dialog does not open on expected monitor - Project Hosting on Google Code</title>   1. Click The Spanner  2. Click Options  3. Observe Fail      Options Box loads up centre screen      Options Box Loads up on Primary Monitor instead of over the parent window    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 43928 -   chromium -    chrome failurte windows 7 pro - Project Hosting on Google Code</title>   1.chrome crashes visit various sites   2.win 7 performance otally unacceptable  tried relod ng tried compat mode winxp ng  Please fix this (longtime fan of google)                  <b>Please provide

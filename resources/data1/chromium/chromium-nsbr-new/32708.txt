@@ -1,0 +1,1 @@
+<title>Issue 32708 -   chromium -    click on one of my items in doc list - URL loads  but content does not appear - Project Hosting on Google Code</title>   1. open corp docs list  2. try to open a doc owned by me  3. Opens new tab  shows URl but page blank                <b>Please provide

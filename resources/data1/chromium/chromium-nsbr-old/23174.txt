@@ -1,0 +1,1 @@
+<title>Issue 23174 -   chromium -    cannot exit fullscreen mode in fluxbox - Project Hosting on Google Code</title>   1. Enter in fullscreen mode (F11)  2. Press F11 again to exit      Exiting from fullscreen mode    <b>Please provide

@@ -1,0 +1,1 @@
+Make use of testing mocks of the the GAE SDK    Replace existing GAE service mocks with those coming with the GAE SDK.   

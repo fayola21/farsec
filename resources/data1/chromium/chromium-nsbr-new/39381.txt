@@ -1,0 +1,1 @@
+<title>Issue 39381 -   chromium -    gtest leak in ThreadLocal - Project Hosting on Google Code</title> <pre> It appears to be a gtest bug:  <a href="http://groups.google.com/group/googletestframework/browse_thread/thread/4976">http://groups.google.com/group/googletestframework/browse_thread/thread/4976</a>  7916c3cb4b13    Gonna dup some other bugs against this one. </pre>

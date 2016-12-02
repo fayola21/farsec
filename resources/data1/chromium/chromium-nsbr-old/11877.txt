@@ -1,0 +1,1 @@
+<title>Issue 11877 -   chromium -    Theme suddenly appears black - Project Hosting on Google Code</title>   1. Start Chrome  2. Use the &quot;Maximize&quot; button  3. Look up ;D      The theme to be blue &gt;_&gt;      Its black...    <b>Please provide

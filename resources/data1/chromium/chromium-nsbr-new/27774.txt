@@ -1,0 +1,1 @@
+<title>Issue 27774 -   chromium -    bookmark folders not visible after 1st window - Project Hosting on Google Code</title> <pre> Open Chrome.  Add bookmark folder in bar.  Create new window --&gt; folder icon gone! </pre>

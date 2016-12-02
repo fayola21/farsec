@@ -1,0 +1,1 @@
+<title>Issue 25061 -   chromium -    Notifications code should detect screen-saver/presentation mode - Project Hosting on Google Code</title> <pre> Tracking bug for a future work-item: Notifications should suspend when the  user is idle. </pre>

@@ -1,0 +1,1 @@
+NotifyBuilder - add reset method    Add a reset() method   

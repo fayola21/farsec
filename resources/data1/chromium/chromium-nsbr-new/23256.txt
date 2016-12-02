@@ -1,0 +1,1 @@
+<title>Issue 23256 -   chromium -    Document local storage options for extensions - Project Hosting on Google Code</title> <pre> We get questions frequently about how to do local storage in extensions. We   should have a short page on that in the docs. </pre>

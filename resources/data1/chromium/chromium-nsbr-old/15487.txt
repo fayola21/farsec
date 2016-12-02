@@ -1,0 +1,1 @@
+<title>Issue 15487 -   chromium -    contrast of tab colors is not strong enough - Project Hosting on Google Code</title> <pre> I often find that I can't quickly tell which tab in the tabstrip I'm on because the   color of the focused tab is so closed to the greyed out color of the   background tabs. </pre>

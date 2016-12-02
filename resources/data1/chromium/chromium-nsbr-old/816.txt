@@ -1,0 +1,1 @@
+<title>Issue 816 -   chromium -    1603 Error Installing Chrome on Win x64 - Project Hosting on Google Code</title>   1. Installing Chrome on (my) Windows x64 OS          That Chrome will install correctly.      I get a 1603 error from Windows that prevents it from installing. (see   below; yes  I have administrator privileges.)    Please provide

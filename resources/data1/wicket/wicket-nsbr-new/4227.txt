@@ -1,0 +1,1 @@
+dropping ajax request causes componentnotfoundexception    issue described in http://osdir.com/ml/users-wicket.apache.org/2011-11/msg00019.html   

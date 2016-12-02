@@ -1,0 +1,1 @@
+<title>Issue 15367 -   chromium -    The actual PNG is not copied to results directory if expected hash is empty - Project Hosting on Google Code</title> <pre> If a test does not have expected baselines  run_webkit_tests output the   actual txt and checksum but not png file.     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18197 -   chromium -    Chrome crashes if closed while mole is open - Project Hosting on Google Code</title>   1. Install an extension with a toolstrip and a mole  2. Open the mole  3. Close Google Chrome ( click on the red X )      Google Chrome closes gracefully      Google Chrome crashes and asks if you want to restart.    <b>Please provide

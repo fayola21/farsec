@@ -1,0 +1,1 @@
+<title>Issue 2513 -   chromium -    display  and hyperlink error  ok on other browsers - Project Hosting on Google Code</title>   1. no link works hence the same          some links should show and work as well(the option bar and the horizontal   tab)      none of the horizontal tabs work   the option area also doesn't work    Please provide

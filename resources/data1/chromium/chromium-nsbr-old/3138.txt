@@ -1,0 +1,1 @@
+<title>Issue 3138 -   chromium -    When input type=radio and name is empty  radio button can't be selected - Project Hosting on Google Code</title>   1. Click Yes/NO option and it will not register                    Please provide

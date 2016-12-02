@@ -1,0 +1,1 @@
+<title>Issue 20193 -   chromium -    crash with bookmark-sync on - Project Hosting on Google Code</title>   1. Start the browser  2. wait a couple seconds        chrome starts and sync bookmarks      crash (repetitvely)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 19226 -   chromium -    Http Auth sheet misses some text - Project Hosting on Google Code</title> <pre> This bug is valid once the mac http auth sheet is in.    The sheet misses the introductory line; I need to read through thomasvl's i18n   mail and then do what he writes. </pre>

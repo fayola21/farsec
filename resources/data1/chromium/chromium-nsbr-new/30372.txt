@@ -1,0 +1,1 @@
+<title>Issue 30372 -   chromium -    Cannot paste from xcb to chrome (Linux) - Project Hosting on Google Code</title>   1. Select text in xcb.  2. Try pasting it to a textbox (or the URL bar) in chrome.      The selected text gets pasted.      Nothing.    <b>Please provide

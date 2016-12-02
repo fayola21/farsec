@@ -1,0 +1,1 @@
+<title>Issue 1666 -   chromium -    Focus not on new tabpage - Project Hosting on Google Code</title>   1. Middle click on any link to open in new tabpage      Link opened in new tab and gets focus      Link opened in new tab but old tab remains open    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 29734 -   chromium -    Allow extensions to open windows without address bar - Project Hosting on Google Code</title> <pre> Right now there is no way to open a window without an address bar. This is   good when it comes to web content but DOM UI  and extensions need to be   able to do this. </pre>

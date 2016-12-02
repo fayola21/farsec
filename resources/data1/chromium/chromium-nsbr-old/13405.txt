@@ -1,0 +1,1 @@
+<title>Issue 13405 -   chromium -    error massage  - Project Hosting on Google Code</title> <pre> this is the massage i keep getting   i tried reinstaling the crome and keep getting the same massage  any soulutions?????        the aplication failed to initialize properly (0xc0000005)  click ok to terminate      my email mehrnooshjr@gmail.com </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36450 -   chromium -    need to throb continuously when bookmark bubble is open - Project Hosting on Google Code</title> <pre>   1. bookmark a page into a folder in the toolbar  2. page starts pulsing and doesn't stop   </pre>

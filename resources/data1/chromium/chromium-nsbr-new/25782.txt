@@ -1,0 +1,1 @@
+<title>Issue 25782 -   chromium -    new tab homepage not working - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.225.0 (Entwickler-Build 30028)  OS version               : 10.6.1      1. Set Homepage to a specific URL  2. Open new tab      The specified URL should be opened      The default new tab page opens </pre>

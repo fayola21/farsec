@@ -1,0 +1,1 @@
+<title>Issue 24813 -   chromium -    Clear browsing data has no effect if disk cache is not initialized - Project Hosting on Google Code</title> <pre> In browsing_data_remover.cc disk_cache objects are called to doom all entries   when requested. But these disk_cache objects are lazily initialized  so if   they are not initialized they cannot be cleared.   </pre>

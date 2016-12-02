@@ -1,0 +1,1 @@
+<title>Issue 12766 -   chromium -    Linux bookmark bar not slidy - Project Hosting on Google Code</title> <pre> Looking at the windows behavior  this should not use SlideAnimatorGtk  (which is for widgets that don't change layout as the slide occurs); just  use SlideAnimation directly. Should be very easy. </pre>

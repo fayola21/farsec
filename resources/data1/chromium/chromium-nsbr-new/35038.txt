@@ -1,0 +1,1 @@
+<title>Issue 35038 -   chromium -    Refactor PasswordStore on Windows and Linux to use the LoginDatabase - Project Hosting on Google Code</title> <pre> To facilitate syncing of passwords  refactor PasswordStoreWin and   PasswordStoreDefault to behave like PasswordStoreMac and store login   credentials in a LoginDatabase instead of the WebDatabaseServic </pre>

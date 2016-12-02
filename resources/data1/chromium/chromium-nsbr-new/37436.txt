@@ -1,0 +1,1 @@
+<title>Issue 37436 -   chromium -    Update eTLD list for upstream changes - Project Hosting on Google Code</title> <pre> Once Gerv lands the patch on <a href="https://bugzilla.mozilla.org/show_bug.cgi?">https://bugzilla.mozilla.org/show_bug.cgi?</a>  id=547985   we should update.  (Don't think any other updates have happened   since our last update  but we could check.) </pre>

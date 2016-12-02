@@ -1,0 +1,1 @@
+<title>Issue 27568 -   chromium -    DCHECK in browser/automation/automation_resource_message_filter.cc:85 - Project Hosting on Google Code</title> <pre> DCHECK(ChromeThread::CurrentlyOn(ChromeThread::IO)); is fired when   AutomationMsg_SetCookie is sent to Chrome and load_extensions_via_automation   is enabled. </pre>

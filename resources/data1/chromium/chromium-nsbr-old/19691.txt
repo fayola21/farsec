@@ -1,0 +1,1 @@
+<title>Issue 19691 -   chromium -    [http://www.about.com]: Copy bug - Project Hosting on Google Code</title>   1.Go to <a href="http://www.about.com/">http://www.about.com/</a>  2.Copy any text      The text will be copied and the website remain un-change.      The text did not copied. The webpage crash. It changed to the &quot;Aw  Snap!&quot;   page.    <b>Please provide

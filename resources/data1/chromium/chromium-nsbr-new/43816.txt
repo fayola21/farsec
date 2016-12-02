@@ -1,0 +1,1 @@
+<title>Issue 43816 -   chromium -    possible command id conflicts in RenderViewContextMenu - Project Hosting on Google Code</title> <pre> RenderViewContextMenu uses IDS_ values as well as IDC_ values for command   ids for its menu items. AFAIK these can overlap  which would cause problems.   IDC_ values should be added for all the cases where they don't already   exist. </pre>

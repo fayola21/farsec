@@ -1,0 +1,1 @@
+Need to specify the sl4j-api version in the camel maven archetypes    There are some third part dependencies will introduce other version of sl4j-api as CAMEL-4545 shows  we need to specify the sl4j-api in the pom.xml resource.   

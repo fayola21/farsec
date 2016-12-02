@@ -1,0 +1,1 @@
+<title>Issue 33764 -   chromium -    Sometimes when I drag a tab out to s separate window and I put it back again  Chrome bugs and doesn't let me quit the instance nor shut down my Mac  - Project Hosting on Google Code</title>   1. (Running Mac OS X 10.6.2)  2. Dragging the tab out and putting it back inside the Window                  <b>Please provide

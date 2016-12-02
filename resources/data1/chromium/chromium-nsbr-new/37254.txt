@@ -1,0 +1,1 @@
+<title>Issue 37254 -   chromium -    grd file placeholders can only have caps digits and underscores - Project Hosting on Google Code</title> <pre> The version of grit we use internally gives an error if a placeholder name   contains anything other than caps  digits and underscores.  We should add   this check to the version in chrome so we get the error earlier. </pre>

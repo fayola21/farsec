@@ -1,0 +1,1 @@
+<title>Issue 31182 -   chromium -    high cpu in chrome - Project Hosting on Google Code</title>   1.open chrome  2.go to site with flash like www.ynet.co.il          What happens instead? cpu at 100%      <b>Please provide

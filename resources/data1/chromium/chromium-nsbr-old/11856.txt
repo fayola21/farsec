@@ -1,0 +1,1 @@
+<title>Issue 11856 -   chromium -    Aw Snap page when loading igoogle URL - Project Hosting on Google Code</title>   1. Go to <a href="http://www.google.com/landing/eurovision/index.html">http://www.google.com/landing/eurovision/index.html</a>          Fully load the page      I get a Aw Snap Page    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 28638 -   chromium -    &quot;Ok&quot; and &quot;Cancel&quot; buttons are swapped in dangerous download item - Project Hosting on Google Code</title> <pre>   1. Download a dmg        &quot;Ok&quot; button should be on the right  &quot;Cancel&quot; on the left.        It's the other way round. </pre>

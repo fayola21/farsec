@@ -1,0 +1,1 @@
+Fix the host roles live status not go back to INSTALLED if it was in START_FAILED state.    Fix the host roles live status not go back to INSTALLED if it was in START_FAILED state.   

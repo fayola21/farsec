@@ -1,0 +1,1 @@
+<title>Issue 26079 -   chromium -    Pinned Google.com page does not show title on hover - Project Hosting on Google Code</title>   1. Open a fresh Chrome window  2. Open 3 tabs with google.com  3. Pin all of those tabs  4. Hover over each tab head        All of the tab heads should display 'Google' which is the title.      Some of the tabs does not do that.    <b>Please provide

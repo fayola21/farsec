@@ -1,0 +1,1 @@
+<title>Issue 11959 -   chromium -    stop button stops load after a significant delay - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0    A stop button just right to the address bar is always responsive itself  but   in many cases stops loading of current page only after a several-seconds   delay. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28285 -   chromium -    Uninstall dialog contains wrong label for Uninstall button - Project Hosting on Google Code</title>   1. Install an extension.   2. Click Uninstall.      The label should say &quot;Uninstall&quot;      The label says &quot;Install&quot;.    <b>Please provide

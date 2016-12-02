@@ -1,0 +1,1 @@
+<title>Issue 27054 -   chromium -    drop-down boxes have invisible choices - Project Hosting on Google Code</title>   1.Any website with non-flash drop down box          You should be able to see the items listed on the drop down menu      The list is there but invisible. You can only see white space.    <b>Please provide

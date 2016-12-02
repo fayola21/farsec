@@ -1,0 +1,1 @@
+<title>Issue 43331 -   chromium -    extension title with parenthesis is not displayed correctly in RTL chrome - Project Hosting on Google Code</title> <pre>   1. open RTL chrome  2. open chrome extension page  3. search &quot;dictionary&quot;      If the extension title has parenthesis  it is not displayed correctly.       </pre>

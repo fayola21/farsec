@@ -1,0 +1,1 @@
+<title>Issue 20721 -   chromium -    The color of the windows frame doesn't change anymore - Project Hosting on Google Code</title>   1. Press the &quot;Set to GTK+&quot; theme button      The color of the window frame should change to the colors of the gtk+ theme   (for example the orange/brown ubuntu color).      It stays blue.    <b>Please provide

@@ -1,0 +1,1 @@
+table background='foo' url prefixing    For the src attribute of img tags in the html  the url is automatically prefixed by wicket.It would be nice if that happened for the background property of tables  too.   

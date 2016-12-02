@@ -1,0 +1,1 @@
+Minor UI cleanup - remove double-borders  reduce text    Remove double borders on alerts and host component page sections Remove some text to not wrap in 'delete host' dialog Remove 'Hosts' table header to clean-up config group dialog   

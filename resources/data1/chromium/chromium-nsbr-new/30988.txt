@@ -1,0 +1,1 @@
+<title>Issue 30988 -   chromium -    seg fault when attach some files - Project Hosting on Google Code</title>   1. extract my attachment (it's a jpg)  2. try to attach this jpg to any site (like gmail)  3. chromium will seg fault                <b>Please provide

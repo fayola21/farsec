@@ -1,0 +1,1 @@
+<title>Issue 22409 -   chromium -    please add Bahrain to drop down list countries. - Project Hosting on Google Code</title> <pre> When choosing country of residence from My Account  Bahrain is not listed  as a country. It was also not available in the drop down list on the  weather app.    Please can this be added.   </pre>

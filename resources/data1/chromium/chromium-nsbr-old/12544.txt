@@ -1,0 +1,1 @@
+<title>Issue 12544 -   chromium -    gcl lint giving bad advice about CHECK_XX - Project Hosting on Google Code</title> <pre> In cpplint.py  ReplaceableCheck() told me to replace CHECK(a &gt;= b) with  CHECK_EQ(a  b). Except there's no CHECK_EQ macro  only DCHECK_EQ. </pre>

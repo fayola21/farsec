@@ -1,0 +1,1 @@
+<title>Issue 25895 -   chromium -    Java Plugin Not Loading on radar.weather.gov - Project Hosting on Google Code</title>   1.  Go to radar.weather.gov  2.  Choose city or zip code  3.  Select the Composite Loop to animate.      Animated weather radar loop.      Never loads.  Tells me I don't have the most recent version of Java.    <b>Please provide

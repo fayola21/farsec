@@ -1,0 +1,1 @@
+<title>Issue 17768 -   chromium -    Alt Text No Longer Shows for Images - Project Hosting on Google Code</title>   1. Go to one of the URLs above or any URL with an image that has alt text  2. hover your mouse over the image          Alt text should appear.        Nothing.    <b>Please provide

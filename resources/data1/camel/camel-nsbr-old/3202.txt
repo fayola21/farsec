@@ -1,0 +1,1 @@
+Add Exchange creation time to the exchange as property    Sometimes it would be really nice to access the exchange creation time from a processor. This can be of use for many tasks  like statistics etc.   

@@ -1,0 +1,1 @@
+<title>Issue 42946 -   chromium -    Chrome not bookmark syncing - Project Hosting on Google Code</title>   1. Create a new bookmark in Chrome.  2. Expect Sync message to show &quot;Just Now&quot; in &quot;Bookmarks synced...&quot; menu.  3. Discover that the message instead says &quot;1 Day ago.&quot;        Syncing.          No Syncing.      <b>Please provide

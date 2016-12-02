@@ -1,0 +1,1 @@
+<title>Issue 4432 -   chromium -    Failed layout tests after adding GCController support - Project Hosting on Google Code</title> <pre> Several layout tests started failing after adding GCController support.    That's not GCController's fault. These tests were passing because GC wasn't   triggered.   </pre>

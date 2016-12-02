@@ -1,0 +1,1 @@
+<title>Issue 31301 -   chromium -    Use XShmPutImage when we don't have SHM pixmaps - Project Hosting on Google Code</title> <pre> Right now if we don't have SHM pixmaps  we fall back to the slow path.  It seems there may be an intermediate path available. </pre>

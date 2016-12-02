@@ -1,0 +1,1 @@
+<title>Issue 39782 -   chromium -    Clicking on a &quot;The Big Picture&quot; image that executes JavaScript crashes the tab - Project Hosting on Google Code</title>   1. Go to the URL  2. Click on image #2      The image will fade to an alternative image (the photo taken during earth hour).      The tab crashes.    <b>Please provide

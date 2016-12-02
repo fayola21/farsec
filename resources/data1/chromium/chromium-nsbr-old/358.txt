@@ -1,0 +1,1 @@
+<title>Issue 358 -   chromium -    Can't open a new tab by middle-clicking home button - Project Hosting on Google Code</title>   1. Try to middle-click home button to open a new tab  2. FAIL      Middle-clicking the home tab opens a new tab with the set homepage.          Please provide

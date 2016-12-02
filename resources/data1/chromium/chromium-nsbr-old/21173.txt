@@ -1,0 +1,1 @@
+<title>Issue 21173 -   chromium -    BUG - Chrome 4.0.206.1 - (icaro_oracle@yahoo.com.br) - Project Hosting on Google Code</title>   1. Open Page                On several pages it is opening just in the background visible  that is if  the page scroll bar will only show the background on top    On pages with ajax technology he is not opening right.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 3536 -   chromium -    Crash when saving HTML pages with a lot of files - Project Hosting on Google Code</title>   1. saving 4   5 HTML pages with a lot of files (50-60). I saved digging in   ruby on rails tutorial pages and each time after 4   5 page it crashed.  2. chrome crashes all the time                Please provide

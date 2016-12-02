@@ -1,0 +1,1 @@
+<title>Issue 3918 -   chromium -    Search no longer selects matches - Project Hosting on Google Code</title>   1. Go to a page  2. CTRL+F  enter text to be found  3. Observe  the matches are not selected      The matches found are supposed to be selected.      You are given a range where the match is  leaving your eyes up to finding   it.    Please provide

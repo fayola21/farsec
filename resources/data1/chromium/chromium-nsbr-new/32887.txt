@@ -1,0 +1,1 @@
+<title>Issue 32887 -   chromium -    wrong window throbbing - Project Hosting on Google Code</title> <pre> version = 4.0.295.0    steps to reproduce:    1. install gmail application shortcut  2. launch gmail  3. shift-click Compose Mail  4. compose and send a message    The throbber spins in the main window and not on the compose window. </pre>

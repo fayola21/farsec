@@ -1,0 +1,1 @@
+<title>Issue 281 -   chromium -    Dragging a tab to the task bar results in not being able to open it again - Project Hosting on Google Code</title>   1. Drag a tab from Chrome to Windows XP SP2(pt-br) taskbar  2. Try to open it      I would expect to see the tab content      Nothing    Please provide

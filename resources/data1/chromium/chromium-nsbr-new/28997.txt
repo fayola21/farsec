@@ -1,0 +1,1 @@
+<title>Issue 28997 -   chromium -    Implement AccessibilityUIElement.isActionSupported - Project Hosting on Google Code</title> <pre> Unfortunately  we can't support isActionSupported  because this information   is not exposed directly in AccessibilityObject. </pre>

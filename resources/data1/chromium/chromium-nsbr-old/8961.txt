@@ -1,0 +1,1 @@
+<title>Issue 8961 -   chromium -    Show full history button under home page linked to wrong url - Project Hosting on Google Code</title>   1.click home button  2.click show full history        should open link chrome-ui://history/      the button was mislinked to chrome-ui://newtab/#    <b>Please provide

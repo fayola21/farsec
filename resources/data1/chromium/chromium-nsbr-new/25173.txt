@@ -1,0 +1,1 @@
+<title>Issue 25173 -   chromium -    Broken AA in font rendering - Project Hosting on Google Code</title>   1. Open new tab page or <a href="http://youtube.com">http://youtube.com</a> (being logged in)  look at   &quot;Recently closed&quot; bar or received box                    <b>Please provide

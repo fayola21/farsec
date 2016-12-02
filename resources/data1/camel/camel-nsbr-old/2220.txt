@@ -1,0 +1,1 @@
+camel-jdbc - Allow properties to be set on Statement such as fetchSize  maxRows etc    Just like the SQL component offers a template. to set any property on the Spring JdbcTemplate we should do the same for this component for its Statement class.   

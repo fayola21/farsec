@@ -1,0 +1,1 @@
+<title>Issue 23075 -   chromium -    Bookmark Manager does not close after double-clicking program icon - Project Hosting on Google Code</title> <pre> Google Chrome 4.0.211.7  Windows Vista 64.      1. Open the Bookmark Manager.  2. Double click the program icon in the upper right corner of the dialog.    This should close the bookmark manager window  but it doesn't. </pre>

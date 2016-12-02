@@ -1,0 +1,1 @@
+<title>Issue 34079 -   chromium -    Horizontal scroll issue with G9 mouse - Project Hosting on Google Code</title>   1.Horizontal scrolling with a Logitech G9 mouse          Scrolls the page left and right at an appropriate speed.      page scrolls almost immediately to the top. then slowly scrolls to the   right or left    <b>Please provide

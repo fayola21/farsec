@@ -1,0 +1,1 @@
+<title>Issue 36161 -   chromium -    WorkerTests failing on valgrind mac - Project Hosting on Google Code</title> <pre> Both of these tests are failing on the mac valgrind bot:    WorkerTest.WorkerCloseFast  WorkerTest.WorkerScriptError   </pre>

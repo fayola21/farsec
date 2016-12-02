@@ -1,0 +1,1 @@
+<title>Issue 641 -   chromium -    Languages confusion - Project Hosting on Google Code</title>   1. Connect to MSDN.microsoft.com      The web page should be in English and proposed links in English      The web page is English but proposed contents are french    Please provide

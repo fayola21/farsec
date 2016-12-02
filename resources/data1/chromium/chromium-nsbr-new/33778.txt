@@ -1,0 +1,1 @@
+<title>Issue 33778 -   chromium -    Webpage data is downloaded but UI is blank - Project Hosting on Google Code</title>   1.Type the URLs (although not URL dependent  but occurs mainly in picture   rich pages).  2.Wait for the page to load.        The page is displayed.      Page remains blank.    <b>Please provide

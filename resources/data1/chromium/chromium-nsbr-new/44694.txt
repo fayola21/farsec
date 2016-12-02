@@ -1,0 +1,1 @@
+<title>Issue 44694 -   chromium -    implement use existing browser on Posix - Project Hosting on Google Code</title> <pre> See UITestBase::LaunchBrowserHelper in ui_test.cc. Being able to reuse an   existing browser for a ui test helps speed up the tests. </pre>

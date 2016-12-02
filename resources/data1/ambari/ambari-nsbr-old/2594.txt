@@ -1,0 +1,1 @@
+HDP installation fails due to puppet syntax error    namenode_host is not an hash or array when accessing it with 0 at /var/lib/ambari-agent/puppet/modules/hdp/manifests/params.pp:70 on node host1.   

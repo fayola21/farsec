@@ -1,0 +1,1 @@
+<title>Issue 44248 -   chromium -    Span background is correct in FF and IE but wont display properly in Chrome - Project Hosting on Google Code</title>   1.Go to above link and click any of the services  2.Title and price backgrounds show white instead of proper color  3.However they work perfectly in IE and FF                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26635 -   chromium -    Report bug dialog button should be &quot;Send Report&quot;  not &quot;Send report&quot; - Project Hosting on Google Code</title> <pre> In the report bug dialog  the &quot;Send report&quot; button should be &quot;Send Report&quot;   (title case)  not in sentence case.    We need to get this string added ASAP before the string freeze. </pre>

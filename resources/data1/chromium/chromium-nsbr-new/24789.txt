@@ -1,0 +1,1 @@
+<title>Issue 24789 -   chromium -    need a better error message if unable to read profile files - Project Hosting on Google Code</title>   1. Attempt to start the browser  2. I get a profile error but have no idea how to fix it. I have tried  reinstalling.          The browser will start        Doesn't start    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 5397 -   chromium -    Combo box auto find - Project Hosting on Google Code</title>   1. Find a combo box with multiple entries  2. type in what is desired into the combo box      for a list  when typed into the keyboard  the desired result will be   selected      Nothing  by typing does not make the field jump to the correct part    Please provide

@@ -1,0 +1,1 @@
+Add support for insert functionality using JDBC 2.0 updatable resultset apis    The JDBC 2.0 API introduced the ability to update/delete/insert rows from a resultset using methods in the Java programming language rather than having to send an SQL command. This Jira entry is to track the insert rows functionality using JDBC 2.0 apis.

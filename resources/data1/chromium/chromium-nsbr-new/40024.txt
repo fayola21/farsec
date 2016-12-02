@@ -1,0 +1,1 @@
+<title>Issue 40024 -   chromium -    Rounded corners on window - Project Hosting on Google Code</title> <pre> The client edge should have rounded corners a la Cole's latest visual   explorations. </pre>

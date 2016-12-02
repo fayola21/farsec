@@ -1,0 +1,1 @@
+<title>Issue 5106 -   chromium -    Gopher protocol is not supported by Chrome - Project Hosting on Google Code</title> <pre>   1. Go to gopher://seanm.ca/      Expected is to navigate to the appropriate page. As the protocol is not   recognized by chrome  it does search for that.    Google Chrome	0.4.154.31 (Official Build 6264)   </pre>

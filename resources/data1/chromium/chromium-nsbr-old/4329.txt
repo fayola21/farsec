@@ -1,0 +1,1 @@
+<title>Issue 4329 -   chromium -    StreetDB only works with fake user-agent - Project Hosting on Google Code</title>   1. Click on the above URL.  2. Just hold the image and move on any side to see map is moving or not  3. You will see block rather than movement       Map should move in the direction you move the mouse.      shows image blocks instead.    Please provide

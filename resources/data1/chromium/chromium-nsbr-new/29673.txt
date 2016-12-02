@@ -1,0 +1,1 @@
+<title>Issue 29673 -   chromium -    Graphics tearing/display errors - Project Hosting on Google Code</title>   1. Visit a website  2. Scroll up or down      Clearly rendered pages      Lots of tearing on certain elements.  Possibly a black box instead of tearing.    <b>Please provide

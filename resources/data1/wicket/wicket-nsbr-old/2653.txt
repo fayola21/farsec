@@ -1,0 +1,1 @@
+Make GoAndClearFilter.defaultClearModel and GoFilter.defaultGoModel internationalizable    Please  change GoAndClearFilter.defaultClearModel and GoFilter.defaultGoModel to ResourceModel with default string (same way as it is done in NoRecordsToolbar.DEFAULT_MESSAGE_MODEL).That'll allow translating button labels without the need to pass custom models.   

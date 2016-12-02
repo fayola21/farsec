@@ -1,0 +1,1 @@
+<title>Issue 32003 -   chromium -    JavaScript delete operator should return false for string properties - Project Hosting on Google Code</title> <pre> Currently  we fail this test:   <a href="http://trac.webkit.org/browser/trunk/LayoutTests/fast/js/string-property-">http://trac.webkit.org/browser/trunk/LayoutTests/fast/js/string-property-</a>  deletion.html     </pre>

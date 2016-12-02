@@ -1,0 +1,1 @@
+Jetty HTTP SelectChannelConnector is not closed when CamelContext is stopped    When the camel-jetty component is shut down  it leaves Jetty SelectChannelConnector instances active.   

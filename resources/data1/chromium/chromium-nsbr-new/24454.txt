@@ -1,0 +1,1 @@
+<title>Issue 24454 -   chromium -    Implement removeAllVisitedLinks for layoutTestController - Project Hosting on Google Code</title> <pre> Since WebKit 49369  removeAllVisitedLinks is added to layoutTestController.   Test that relies on this:    LayoutTests/http/tests/globalhistory/history-delegate-basic-visited-  links.html   </pre>

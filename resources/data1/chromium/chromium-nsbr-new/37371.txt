@@ -1,0 +1,1 @@
+<title>Issue 37371 -   chromium -    Margin around tabbed bookmark manager is incorrect - Project Hosting on Google Code</title> <pre> Compare to the history page to see the difference. </pre>

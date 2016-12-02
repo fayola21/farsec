@@ -1,0 +1,1 @@
+<title>Issue 3606 -   chromium -    Chromium - SSL 3.0 - Project Hosting on Google Code</title> <pre> Chromium only supports SSL 2.0 and should support SSL 3.0.   </pre>

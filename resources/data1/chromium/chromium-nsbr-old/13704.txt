@@ -1,0 +1,1 @@
+<title>Issue 13704 -   chromium -    chrome crashes when closing the only opened tab when bookmark manager is also opened - Project Hosting on Google Code</title>   1. Open a single tab (no other tabs may be open)  2. Open the bookmark-manager  3. Press the cross on the tab (to close the tab)      To close chrome      chrome doesn't respond    <b>Please provide

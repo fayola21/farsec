@@ -1,0 +1,1 @@
+<title>Issue 43503 -   chromium -    Crash when closing about:xxx or chrome://extensions/ by Ctrl+W - Project Hosting on Google Code</title>   1. open about:version  2. press Ctrl+W  3. crash      tab closes      crash    <b>Please provide

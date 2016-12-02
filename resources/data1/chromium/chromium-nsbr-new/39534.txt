@@ -1,0 +1,1 @@
+<title>Issue 39534 -   chromium -    Blue &quot;https:&quot; is way too subtle - Project Hosting on Google Code</title> <pre> Blue &quot;https:&quot; is way too subtle    The green coloration we used to have was much better IMO in that I could   actually see it ;-) </pre>

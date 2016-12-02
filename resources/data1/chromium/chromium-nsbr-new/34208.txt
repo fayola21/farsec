@@ -1,0 +1,1 @@
+<title>Issue 34208 -   chromium -    ModelSafeWorker implementation for History thread - Project Hosting on Google Code</title> <pre> To process changes to history items from within the syncapi we need a   ModelSafeWorker that dispatches to the history thread.  See UI and DB   implementations that exist today for reference. </pre>

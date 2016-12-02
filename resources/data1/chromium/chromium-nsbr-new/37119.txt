@@ -1,0 +1,1 @@
+<title>Issue 37119 -   chromium -    Using different Icon and Theme for side by side channel - Project Hosting on Google Code</title> <pre> As title says  we need to use different Icon and Theme for sxs install so   users can distinguish normal install and sxs install if both exist. </pre>

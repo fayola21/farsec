@@ -1,0 +1,1 @@
+<title>Issue 24078 -   chromium -    extensions menu? - Project Hosting on Google Code</title> <pre> I see a reference in the grd files to an extension menu?  is that something we   need to pickup in the menubar? </pre>

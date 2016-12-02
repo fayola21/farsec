@@ -1,0 +1,1 @@
+<title>Issue 19922 -   chromium -    NNTP: Bookmark sync text unreadable with Baseball theme - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.202.0    The Bookmark sync text on the NNTP is very difficult to read with the   Baseball theme enabled. The light green background will have to be changed. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 28771 -   chromium -    Regression-Chinesse characters on pop up become rectangles in Linux - Project Hosting on Google Code</title>   Clicking on popup/pages that contains Chinese character      The characters are shown correctly      rectangles shown instead    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26157 -   chromium -    Import Bookmark Feature - Project Hosting on Google Code</title> <pre> Until we have Bookmark Manager in all its glory we should have a menu item   which allows users to implement bookmarks on demand.  Essentially they   should be able to repeat that portion of the first run experience. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34159 -   chromium -    Creating a window  should set keyboard focus to Omnibox. - Project Hosting on Google Code</title> <pre> Build: 5.0.307.1    -Create a new Window from Wrench or Shorcut (Ctrl+N)    Issue:  The caret(cursor) blinks on Top-left corner of the window/screen.    Expected:  The caret should blink on Omnibox. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40769 -   chromium -    &lt;br&gt; with small CSS line-height value is not respected by the renderer - Project Hosting on Google Code</title>   1. Open the attached test file (testbr1.html)      The height of the red bar should be 2px. (as testbr-firefox.png)      The height of the red bar is &gt;10px. (as testbr-chrome.png)    <b>Please provide

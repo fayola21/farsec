@@ -1,0 +1,1 @@
+<title>Issue 4737 -   chromium -    Popups on this page close automatically - Project Hosting on Google Code</title> <pre> Visit this URL: <a href="http://ebay.carad.com/viewItem/viewAllPhotos.cfm?">http://ebay.carad.com/viewItem/viewAllPhotos.cfm?</a>  listing=10053463&amp;template=48    click any of the thumbnails and note that the popup appears briefly then   vanishes. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20879 -   chromium -    Self Update Failed - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.203.4&gt;    OS version               : &lt;10.5.7&gt;            1. UPDATE NOW        What is the expected result? Chrome would self-update to latest version      What happens instead? Error message &quot;Self update failed&quot;   </pre>

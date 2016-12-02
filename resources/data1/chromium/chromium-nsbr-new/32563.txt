@@ -1,0 +1,1 @@
+<title>Issue 32563 -   chromium -    Refin.com does not work correctly anymore. - Project Hosting on Google Code</title>   1. Visit any refin.com links like the one above.  2. Page is not rendered correctly.        proper rendering of the page with images maps etc.        Page is not rendered correctly.      <b>Please provide

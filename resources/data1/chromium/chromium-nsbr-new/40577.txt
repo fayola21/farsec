@@ -1,0 +1,1 @@
+<title>Issue 40577 -   chromium -    pref_service emits lots of error log lines during browser_tests run - Project Hosting on Google Code</title> <pre> During browser tests we hit the error log on pref_service.cc:153 a lot  even   though it's normal for the Preferences file to be missing on a clean profile.   </pre>

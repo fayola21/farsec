@@ -1,0 +1,1 @@
+<title>Issue 41482 -   chromium -    (Unlabeled) item shows up on every text box - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.3    Since the last update  on EVERY text box in chrome  there is an automatic   auto-complete item showing up  named &quot;(Unlabeled)&quot;.   This is really annoying!  I'm surprised noone has reported that yet... </pre>

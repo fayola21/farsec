@@ -1,0 +1,1 @@
+<title>Issue 21187 -   chromium -    On a mac  &lt;CMD-Arrows&gt; should be used for back and forward  not &lt;CMD-[&gt; and &lt;CMD-]&gt; to stay in line with current standard - Project Hosting on Google Code</title>   1.Standard mac browser mac functionality - hit CMD-LEFT for previous but   nothing happens                    <b>Please provide

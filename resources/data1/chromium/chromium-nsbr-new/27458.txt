@@ -1,0 +1,1 @@
+<title>Issue 27458 -   chromium -    Tab/close enter/exit events aren't sent when using keyboard to close  or if tabs slide. - Project Hosting on Google Code</title> <pre> Tab/close enter/exit events aren't sent when using keyboard to close  or if   tabs slide. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1692 -   chromium -    will chrome support XUL ? - Project Hosting on Google Code</title> <pre> will chrome support XUL ?   </pre>

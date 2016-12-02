@@ -1,0 +1,1 @@
+<title>Issue 35716 -   chromium -    Clicking links on digg.com delay up to a second before going through - Project Hosting on Google Code</title>   1. Open digg.com  2. Middle click on any of the links      The link should open in a new tab instantly.      There is a noticeable delay of a few seconds before the new tab opens.    <b>Please provide

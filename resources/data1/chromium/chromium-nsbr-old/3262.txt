@@ -1,0 +1,1 @@
+<title>Issue 3262 -   chromium -    SafeBrowsing should support zero size add and sub chunks - Project Hosting on Google Code</title> <pre> In order to reduce the size of the client update request  the SafeBrowsing   system should support zero sized chunks from the server. </pre>

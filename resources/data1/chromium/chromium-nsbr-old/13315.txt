@@ -1,0 +1,1 @@
+<title>Issue 13315 -   chromium -    multiprocessor pc doesnt get used by chrome effectively - Project Hosting on Google Code</title>   1. test v8  2. see statistics of process explorer        must use 100% of processing power until the test is finished      50% processing power used.    <b>Please provide

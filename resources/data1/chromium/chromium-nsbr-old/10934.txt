@@ -1,0 +1,1 @@
+<title>Issue 10934 -   chromium -    Control-enter doesn't take you to .com in Mac Omnibox. - Project Hosting on Google Code</title> <pre>   1. Type cnn  2.  Type Control-Enter        It should take you to <a href="http://www.cnn.com/">http://www.cnn.com/</a>     </pre>

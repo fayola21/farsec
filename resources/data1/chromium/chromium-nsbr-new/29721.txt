@@ -1,0 +1,1 @@
+<title>Issue 29721 -   chromium -    SharedWorkers should respect profiles - Project Hosting on Google Code</title> <pre> SharedWorkers currently span profiles (a page in one profile can share workers with a page in   another profile).    We need to silo workers by profile. When we do this  we can remove the special-case code for   incognito. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12621 -   chromium -    Parent folder link missing from local drive list - Project Hosting on Google Code</title>   1.type file:///c:/ in the address  2. browse to a subfolder  3. see the missing link to parent which is present in non-beta version of   chrome                <b>Please provide

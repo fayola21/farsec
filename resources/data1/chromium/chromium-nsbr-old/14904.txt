@@ -1,0 +1,1 @@
+<title>Issue 14904 -   chromium -    Find bar close button should be frameless - Project Hosting on Google Code</title> <pre> The current find bar close box has a frame  and is pretty ugly. It should  be frameless like our other close boxes  and like windows. </pre>

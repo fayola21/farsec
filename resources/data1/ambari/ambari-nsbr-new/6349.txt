@@ -1,0 +1,1 @@
+After changing property and clicking save button in MapReduce Config Page  no comfirmation popup    STR1. Go to MapReduce Config Page2. Change JobTracker new generation size with a new value3. Clike Save buttonResult no confirmation popup  and save button turns grey  when switching pages the save button in the warning popup is not working neither.   

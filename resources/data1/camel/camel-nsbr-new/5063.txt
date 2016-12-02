@@ -1,0 +1,1 @@
+npe in camel 2.9.1 validator    validator component seems broken in 2.9.1. Gives you a npe when loading xsd from classpath during unittesting.See http://camel.465427.n5.nabble.com/npe-in-camel-2-9-1-validator-tc5540894.htmlprefixing with classpath eg. &lt;to uri='validator:classpath:BroadcastMonitor.xsd' /&gt; doesn't help.   

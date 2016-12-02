@@ -1,0 +1,1 @@
+<title>Issue 36449 -   chromium -    Clean up -|BWC adjustUIForFullscreen| - Project Hosting on Google Code</title> <pre> This function has shrunk to one line  and -|setFullscreen:| has grown to be very large.  Break up the   code more evenly. </pre>

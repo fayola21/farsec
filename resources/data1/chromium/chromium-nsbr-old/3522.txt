@@ -1,0 +1,1 @@
+<title>Issue 3522 -   chromium -    Custom property on a dom node disappears after inserting iframe into body. - Project Hosting on Google Code</title>   See attached test file      No assertion failures      One failure about every 20 calls to the test function    Please provide

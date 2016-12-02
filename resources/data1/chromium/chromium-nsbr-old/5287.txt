@@ -1,0 +1,1 @@
+<title>Issue 5287 -   chromium -    Sad tab is shown instead of Debugger console - Project Hosting on Google Code</title>   1. Launch browser and try to open JS debugger by clicking 'Debug   JavaScript' window.      Debugger console should appear.      Sad tab.      Please provide

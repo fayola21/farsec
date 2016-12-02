@@ -1,0 +1,1 @@
+<title>Issue 43523 -   chromium -    New tab page list view - Project Hosting on Google Code</title>   1. Open a new tab      The 8 most visited sites can be shown as a list or thumbnails      The 8 most visited sites are shown as thumbnails    <b>Please provide

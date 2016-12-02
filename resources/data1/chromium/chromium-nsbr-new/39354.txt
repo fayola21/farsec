@@ -1,0 +1,1 @@
+<title>Issue 39354 -   chromium -    Bookmark manager should be listed in Task manager. - Project Hosting on Google Code</title> <pre> Build: 5.0.360.0 (Official Build 42309)    Bookmark manager should be listed in Google Chrome task manager  as it is now   part of a tab. </pre>

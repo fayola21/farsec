@@ -1,0 +1,1 @@
+<title>Issue 23610 -   chromium -    clicking reload on igoogle does nothing on mac - Project Hosting on Google Code</title> <pre> steps to reproduce:    1. fire up igoogle  2. click reload  3. watch as nothing happens </pre>

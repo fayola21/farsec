@@ -1,0 +1,1 @@
+<title>Issue 14790 -   chromium -    generate all available langpacks for Linux builds - Project Hosting on Google Code</title>   1. build chromium on Linux      Get langpacks for all ~50 available language translations.      Only da  en-US  he  zh-TW langpacks created.    Please provide

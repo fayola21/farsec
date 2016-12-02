@@ -1,0 +1,1 @@
+<title>Issue 2020 -   chromium -    Can't view page source from context menu by right-click - Project Hosting on Google Code</title>   1. Open some URL  2. Click right button and select &quot;view source&quot; in context-menu      Display the source of web page in new tab.      Chromium opens new tab  but nothing was displayed.      Please provide

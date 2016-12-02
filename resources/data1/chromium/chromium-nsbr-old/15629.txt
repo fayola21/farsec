@@ -1,0 +1,1 @@
+<title>Issue 15629 -   chromium -    shift + keyboard shortcuts don't work - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.191.0 (0)  OS + version : Fedora 11  window manager : openbox      1. Go to Gmail  2. Select an unread email  3. Press shift + I      The mail is marked as read      Nothing </pre>

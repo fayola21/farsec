@@ -1,0 +1,1 @@
+<title>Issue 32778 -   chromium -    Profiler: Explain internal entities in parentheses  e.g.  (closure)  ... - Project Hosting on Google Code</title> <pre> A number of entries in parentheses are implicitly surface internal entities.   These are not necessarily obvious to regular JS developers and should be   explained - either in-line or on hover. </pre>

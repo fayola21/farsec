@@ -1,0 +1,1 @@
+<title>Issue 33295 -   chromium -    &quot;New tab page&quot; layout problems after opening chrome shortly after boot-up - Project Hosting on Google Code</title>   1. Boot (windows7) and shortly after log-on open chrome        New tab page looks normal.        New tab page has layout issues.    <b>Please provide

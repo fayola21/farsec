@@ -1,0 +1,1 @@
+<title>Issue 927 -   chromium -    Shift+Scroll wheel does not go back/forward - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)  Other browsers tested: Firefox  IE          Firefox 3: OK           IE 7: OK      1. Visit a site  2. Click any link  3. Hold shift while scrolling down      Return to the previous page.      Nothing     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 10943 -   chromium -    Implement omnibox hints on Mac. - Project Hosting on Google Code</title> <pre> When you see &quot;Type to search&quot; hint on the far right in Chrome (on Windows)  that's a separate little   read-only control.  Totally missing right now on Mac. </pre>

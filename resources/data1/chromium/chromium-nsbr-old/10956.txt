@@ -1,0 +1,1 @@
+<title>Issue 10956 -   chromium -    Radio-buttons can be deselected - Project Hosting on Google Code</title> <pre> 1. Open the Option dialog  2. Click on the button part of an already checked radio-button    Expected: the radio-button remains checked  Actual: the radio-button becomes unchecked </pre>

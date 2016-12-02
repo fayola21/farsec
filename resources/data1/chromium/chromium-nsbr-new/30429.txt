@@ -1,0 +1,1 @@
+<title>Issue 30429 -   chromium -    about:memory doesn't properly label extension processes - Project Hosting on Google Code</title> <pre> Inside the Chrome Task Manager we do a good job of identifying which   extension a process belongs to  but in about:memory extension processes all   just show up as &quot;Tab&quot;.     </pre>

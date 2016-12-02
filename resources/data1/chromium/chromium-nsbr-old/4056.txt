@@ -1,0 +1,1 @@
+<title>Issue 4056 -   chromium -    linux test shell doesn't refresh properly - Project Hosting on Google Code</title> <pre> When navigating to a different page  we're not properly redrawing the render area.  If you resize the   window  it seems to redraw properly. </pre>

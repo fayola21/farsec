@@ -1,0 +1,1 @@
+add HoldForConnection ij command to match NoHoldForConnection    DERBY-6515 was created to document the NoHoldForConnection ij command  which was used in some of Derby's sql style tests.In subsequent comments  it was felt there should be a matching HoldForConnection ij command to set the value back to the default (ResultSet.HOLD_CURSORS_OVER_COMMIT).   

@@ -1,0 +1,1 @@
+<title>Issue 27976 -   chromium -    Chromium has no force sync option for bookmark syncing - Project Hosting on Google Code</title>   1. Try to sync your bookmarks manually      You would be able to press a sync button to force it to sync      There's no sync button to press    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 33628 -   chromium -    tab.executeScript and insertCss crash the extension if called with no arguments - Project Hosting on Google Code</title> <pre> chrome.tab.executeScript();    or     chrome.tab.insertCss();    crash the extension process </pre>

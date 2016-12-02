@@ -1,0 +1,1 @@
+<title>Issue 38314 -   chromium -    New shortcuts - &quot;Shift+Enter&quot; for .net and &quot;Ctrl+Shift+Enter&quot; for .org - Project Hosting on Google Code</title> <pre> A request from a user (blog post comment):    Please added two new shortcuts &quot;Shift+Enter&quot; for .net and &quot;Ctrl+Shift+Enter&quot;   for .org.    </pre>

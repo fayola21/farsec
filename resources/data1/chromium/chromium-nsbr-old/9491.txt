@@ -1,0 +1,1 @@
+<title>Issue 9491 -   chromium -    Cannot login from chrome to Bezeqint (an Israeli telecom company) - Project Hosting on Google Code</title> <pre> Cannot login from Chrome:   <a href="https://online.bezeqint.net/bezeq_online/jsp/login.jsf">https://online.bezeqint.net/bezeq_online/jsp/login.jsf</a>   </pre>

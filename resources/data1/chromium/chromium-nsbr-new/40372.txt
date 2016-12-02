@@ -1,0 +1,1 @@
+<title>Issue 40372 -   chromium -    (GTK/Linux) Bookmark folder names unreadable when selected in dark theme - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.370.0 (Developer Build 43578) custom      1. Apply Mulberry theme from themes gallery  2. Select bookmark folder in the bookmarks bar </pre>

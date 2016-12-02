@@ -1,0 +1,1 @@
+<title>Issue 14579 -   chromium -    Window control backgrounds need to be themeable - Project Hosting on Google Code</title> <pre> Also the NTP button background. </pre>

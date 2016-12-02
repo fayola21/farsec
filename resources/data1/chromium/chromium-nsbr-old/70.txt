@@ -1,0 +1,1 @@
+<title>Issue 70 -   chromium -    Does not install correctly  XP OS. - Project Hosting on Google Code</title> <pre> Does not install correctly.  XP OS.  Shows up in Start --&gt; All Programs --&gt; Google Chrome  but does not ever launch.  Tried unistalling and it will not uninstall either.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3303 -   chromium -    When Copying from Google Docs to Word - Project Hosting on Google Code</title> <pre> Product Version      : 02.149.30              Firefox 3: no such problem        1 when I copy plain  unformatted text from Google Docs into WORD   it copies HTML instead of plain Text. </pre>

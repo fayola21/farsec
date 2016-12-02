@@ -1,0 +1,1 @@
+<title>Issue 16201 -   chromium -    Plugin process creation needs to go through zygote - Project Hosting on Google Code</title> <pre> We use a zygote process to handle autoupdates.  We need to run plugin   subprocesses under the same mechanism in case an update changes the plugin   IPC format. </pre>

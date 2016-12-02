@@ -1,0 +1,1 @@
+<title>Issue 5819 -   chromium -    Browser crash @ Tab::OnMouseReleased - Project Hosting on Google Code</title>   1. Start Google Chrome  2. Open a second tab  3. Drag the second tab down  press and release the middle mouse button      Nothing      Google Chrome crashes    Please provide

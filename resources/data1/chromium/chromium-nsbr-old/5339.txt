@@ -1,0 +1,1 @@
+<title>Issue 5339 -   chromium -    git-cl should run presubmit hooks - Project Hosting on Google Code</title> <pre> If tests_fixable or test_ignored is modified in a CL  then a presubmit hook   should be run that runs:  run_webkit_tests.sh --lint-test-files    This ensure the test files at least have the correct syntax and don't have   dupes on any platform. </pre>

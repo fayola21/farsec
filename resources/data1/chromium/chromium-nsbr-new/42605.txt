@@ -1,0 +1,1 @@
+<title>Issue 42605 -   chromium -    chrome://extension (developer mode) &quot;active views&quot; doesn't include web-extent pages. - Project Hosting on Google Code</title> <pre> It is currently only listing views (including background pages) that have an   ExtensionFunctionDispatcher.   </pre>

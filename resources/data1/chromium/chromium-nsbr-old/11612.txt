@@ -1,0 +1,1 @@
+<title>Issue 11612 -   chromium -    middle-click into body doesn't load PRIMARY selection as URL - Project Hosting on Google Code</title>   1. select a URL  2. click the middle mouse button in a page body (not on any link)          URL loads in this tab        nothing    <b>Please provide

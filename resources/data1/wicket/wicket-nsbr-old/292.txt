@@ -1,0 +1,1 @@
+Remove IRequestTarget.getLock and the synchronize blocks using it    Synchronization is now done in Session#getPage  which is a better place and makes IRequestTarget#getLock redundant. We should remove that method and the code that depends on it.   

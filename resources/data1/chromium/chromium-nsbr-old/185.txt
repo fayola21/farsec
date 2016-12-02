@@ -1,0 +1,1 @@
+<title>Issue 185 -   chromium -    Dutch: Spelling error on Chrome first-run UI - Project Hosting on Google Code</title>   1. Installing the browser reproduces a spelling error shown here: <a href="http://www.flickr.com/photos/26656035@N06/2823089410/">http://www.flickr.com/photos/26656035@N06/2823089410/</a>                    Please provide

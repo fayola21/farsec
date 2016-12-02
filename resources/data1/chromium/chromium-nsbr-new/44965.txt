@@ -1,0 +1,1 @@
+<title>Issue 44965 -   chromium -    Can't applescript quit Chrome  - Project Hosting on Google Code</title> <pre> # osascript -e 'tell application &quot;Google Chrome&quot; to quit'  36:40: execution error: Google Chrome got an error: User canceled. (-128)     </pre>

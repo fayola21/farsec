@@ -1,0 +1,1 @@
+<title>Issue 12577 -   chromium -    Can't 'send page' or 'send link' within Chrome? - Project Hosting on Google Code</title>   1. Browse to a page  2. Try to send that page as email to someone  3. No Profit :(      A link or whole page is mailed to someone      Frustration  a sense of loss    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20344 -   chromium -    Default theme does not reload correctly in Vista Aero - Project Hosting on Google Code</title> <pre> Install a theme  and then revert to the default theme.  Close browser and   reopen.  Should see Aero glass frame; instead  opaque blue is shown.   </pre>

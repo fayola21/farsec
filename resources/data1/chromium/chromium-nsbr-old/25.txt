@@ -1,0 +1,1 @@
+<title>Issue 25 -   chromium -    Web inspector button &quot;dock to main window&quot; does nothing - Project Hosting on Google Code</title>   1. right-click on a web element  2. click on &quot;inspect element&quot;  3. click on &quot;dock to main window&quot;      To have the web-inspector get docked at the bottom of the current tab.      Nothing.    Please provide

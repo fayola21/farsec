@@ -1,0 +1,1 @@
+Improve style on error log popups       

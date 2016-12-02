@@ -1,0 +1,1 @@
+<title>Issue 37521 -   chromium -    Wordpress Toolbar - Project Hosting on Google Code</title>   1. Loading wordpress manager to write and post blogs using wordpress.          The toolbar to alter the text  add links  photos  get to the HTML  etc.   does not load with Google Chrome.      The toolbar just doesn't load.    <b>Please provide

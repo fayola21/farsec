@@ -1,0 +1,1 @@
+<title>Issue 3983 -   chromium -    Find as you type is not highlighted - Project Hosting on Google Code</title>   1. CTRL F  2. Type text on page  3. Watch as nothing is highlighted      As you type  the text will be highlighted.      In Chromium build 4309  text is not being highlighted when you search for   something in Find as you type.    Please provide

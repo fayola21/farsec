@@ -1,0 +1,1 @@
+<title>Issue 16666 -   chromium -    [Vista/Win 7] Text in Omnibox is cropped  after a theme is applied. - Project Hosting on Google Code</title> <pre> Reproduces on DEV and ToT (<a href="/p/chromium/source/detail?r=20499">r20499</a>).  OS: Vista/Win 7.    -Maximize browser window and apply a theme.    Notice the text in Omnibox is cropped - screenshot attached.         </pre>

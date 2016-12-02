@@ -1,0 +1,1 @@
+Ozzie does not work with local FS user    Running jobs as a local FS user does not work work 2.0.* stack because of permissions on /tmp/hadoop-yarn/staging  which is the default staging dir.   

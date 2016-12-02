@@ -1,0 +1,1 @@
+<title>Issue 20573 -   chromium -    Turn extensions on by default on dev - Project Hosting on Google Code</title> <pre> Extensions should be on by default in dev. We need to change the code so that   there is a --disable-extensions flag instead of an --enable-extensions. Then   in the beta and stable channels  we can set that to true by default. </pre>

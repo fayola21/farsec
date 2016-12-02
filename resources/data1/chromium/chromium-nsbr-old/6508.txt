@@ -1,0 +1,1 @@
+<title>Issue 6508 -   chromium -    Second Monitor: Tabs Dissapear when maximized - Project Hosting on Google Code</title>   1. Maximize Google Chrome on a second monitor      The page tab buttons should be visible.      The tab buttons are not visible.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34841 -   chromium -    chrome.bookmarks.update does not allow changing the URL - Project Hosting on Google Code</title> <pre> chrome.bookmarks.update only allows changing the title of a bookmark. I need   to be able to change the URL as well. </pre>

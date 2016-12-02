@@ -1,0 +1,1 @@
+<title>Issue 22689 -   chromium -    make BrowserEventExtensionTest.RunTest faster - Project Hosting on Google Code</title> <pre> BrowserEventExtensionTest.RunTest is one of the slowest tests right now   averaging 12.7 seconds per run. Please try to make it faster. </pre>

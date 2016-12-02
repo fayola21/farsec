@@ -1,0 +1,1 @@
+<title>Issue 31967 -   chromium -    [secure.optimus.pt] Can't write more than 10 chars in text box of this site - Project Hosting on Google Code</title>   1. Going to www.optimus.pt  2. Log in  3. Try to send SMS      Writing a max of 160 chars as usual.      Can't write more than 10 chars...      <b>Please provide

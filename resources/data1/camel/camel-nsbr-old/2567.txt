@@ -1,0 +1,1 @@
+Allow recipientList to be used inside a CBR using Java DSL    RecipientList is now offering fluent builders for parallel support.We should allow it to work in CBR with having end() being able to return the Type it came from  eg ChoiceDefinition.See nabblehttp://old.nabble.com/RecipientList-%2B-Choice-no-longer-work-together-in-Camel-2.2.0--ts27983922.html   

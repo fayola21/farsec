@@ -1,0 +1,1 @@
+<title>Issue 2683 -   chromium -    Sharebuilder.com browser issue - Project Hosting on Google Code</title>   1. says browser registers as mozilla 0.0.2 and that I need to upgrade                    Please provide

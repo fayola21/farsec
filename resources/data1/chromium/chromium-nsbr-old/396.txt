@@ -1,0 +1,1 @@
+<title>Issue 396 -   chromium -    Browser loses focus on drop-downs - Project Hosting on Google Code</title>   1. Visit any webpage with browser rendered drop-downs (this page).  2. Expand drop-down list.        Browser frame retains focus.      Browser seems to lose focus (dark blue tab bar becomes light blue) until an   option is selected.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37300 -   chromium -    [Native translator] should be themed - Project Hosting on Google Code</title> <pre> picking the color used for the download and bookmark bar </pre>

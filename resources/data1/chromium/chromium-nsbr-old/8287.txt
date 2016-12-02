@@ -1,0 +1,1 @@
+<title>Issue 8287 -   chromium -    Tabstrip eats middle click - Project Hosting on Google Code</title> <pre> Build: 2.0.168.0 (Developer Build 10704)    -Create 5 or more tabs.  -Keep mouse pointer on 1st tab's tabstrip.  -Keep on hitting mouse middle click continuously to close all the tabs.    Result:  I guess every alternatively  the middle click is eaten.      </pre>

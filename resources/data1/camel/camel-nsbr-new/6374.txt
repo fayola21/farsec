@@ -1,0 +1,1 @@
+vm component - Stopping a route when using multipleConsumers should not stop MP if there is other routes using it    See nabblehttp://camel.465427.n5.nabble.com/Removing-route-stops-other-routes-from-the-same-producer-tp5732616.html   

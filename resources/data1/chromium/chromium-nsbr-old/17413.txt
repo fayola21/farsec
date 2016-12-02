@@ -1,0 +1,1 @@
+<title>Issue 17413 -   chromium -    linux tab to search needs gtk theming - Project Hosting on Google Code</title> <pre> title    also  escape doesn't seem to go back to normal mode (not related) </pre>

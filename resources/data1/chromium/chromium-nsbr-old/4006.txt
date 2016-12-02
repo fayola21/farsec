@@ -1,0 +1,1 @@
+<title>Issue 4006 -   chromium -    Cannot input text in message area in new Hotmail - Project Hosting on Google Code</title>   1. Go to Hotmail.com  2. Click New (for new message)        The message body should allow text input      Text cannot be input    Please provide

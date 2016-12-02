@@ -1,0 +1,1 @@
+<title>Issue 32317 -   chromium -    Implement EGL like library for Pepper - Project Hosting on Google Code</title> <pre> Features:  create a GLES2 context from a NPDevice3D context  destroy a GLES2 context  make a GLES2 context current  swap buffers  works for trusted and untrusted NaCl plugins </pre>

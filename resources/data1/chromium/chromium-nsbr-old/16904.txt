@@ -1,0 +1,1 @@
+<title>Issue 16904 -   chromium -    using chrome with proxy - Project Hosting on Google Code</title>   1. using http proxy  2. visit any website  3. chrome will not init many connections to proxy server  but reuse the original data connection    to send mush of request      1. when a http Get request is need   then init a new connection          <b>Please provide

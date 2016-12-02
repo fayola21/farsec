@@ -1,0 +1,1 @@
+<title>Issue 33066 -   chromium -    Chrome does not launch over X Window sessions - Project Hosting on Google Code</title>   1. Click on Chrome over an X Window session on a remote machine.  2. It is not launching Chrome in the X Window session  but instead launches   it on the host machine.                  <b>Please provide

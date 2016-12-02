@@ -1,0 +1,1 @@
+<title>Issue 1527 -   chromium -    document.getElementsById or ByName - Project Hosting on Google Code</title>   1. document.getElementsById('id')             element or element.value         null    Please provide

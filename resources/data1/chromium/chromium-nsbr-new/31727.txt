@@ -1,0 +1,1 @@
+<title>Issue 31727 -   chromium -    Chrome fails to start after dev channel release - Project Hosting on Google Code</title>   1. Launch Chrome      - Chrome opens      - I get a popup &quot;Whoa! Google Chrome has crashed.  Restart now?  This  happens every time.    <b>Please provide

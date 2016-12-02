@@ -1,0 +1,1 @@
+<title>Issue 9535 -   chromium -    REGRESSION: Printing clipping region is broken since r12100 - Project Hosting on Google Code</title> <pre>   1. Print  2. Clipping region is not scaled to webkit_shrink      Scale the clipping region.   </pre>

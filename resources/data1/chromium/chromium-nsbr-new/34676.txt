@@ -1,0 +1,1 @@
+<title>Issue 34676 -   chromium -    ChromeFrame Tests: Address bar - Project Hosting on Google Code</title> <pre> Test that address bar is updated correctly in following scenarios:  1. Link in mshtml loads chrome frame  2. Redirect within chrome frame  3. Anchor (url fragment) navigation within chrome frame  4. Sub-frame navigation within chrome frame   </pre>

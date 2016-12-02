@@ -1,0 +1,1 @@
+<title>Issue 42873 -   chromium -    Define how NaCl should be listed on the about:plugins page - Project Hosting on Google Code</title> <pre> Need to define how NaCl should be listed on the about:plugins page and add it   to the test plan. </pre>

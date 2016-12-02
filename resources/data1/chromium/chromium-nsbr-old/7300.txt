@@ -1,0 +1,1 @@
+<title>Issue 7300 -   chromium -    tab's text space - Project Hosting on Google Code</title>   1. I ran Chrome  2. Maximazed Chrome's window  3. And saw that top of tab was cutted and text on tab was stacked with the   top of screen      I expected more place above tab's text        there were few of space      Please provide

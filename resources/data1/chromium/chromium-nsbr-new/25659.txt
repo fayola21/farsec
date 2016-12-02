@@ -1,0 +1,1 @@
+<title>Issue 25659 -   chromium -    REGRESSION: Inspector is missing window chrome - Project Hosting on Google Code</title> <pre> On Win 7  in 4.0.224.3 (Developer Build 29891)  when I open Inspector  it's   missing the top part of the Window chrome: the part that has the close button   isn't showing at all. </pre>

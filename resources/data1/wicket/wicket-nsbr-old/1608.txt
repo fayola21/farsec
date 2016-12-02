@@ -1,0 +1,1 @@
+make AutoCompleteBehavior's configuration more flexible    add AutoCompleteSettings which encapsulates all needed configuration options  so we don't need hundreds of constructors just to have every combination of configuration options available.   

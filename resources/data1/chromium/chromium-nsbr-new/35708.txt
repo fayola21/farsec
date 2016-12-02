@@ -1,0 +1,1 @@
+<title>Issue 35708 -   chromium -    Chromium plays HTML5 audio but not video (Gentoo Linux  64-bit) - Project Hosting on Google Code</title>   1. Attempting to play any HTML5 video file      The video should play      The video controls come up  but the video area is blank  and about a second   after the page loads the play button becomes greyed out.     <b>Please provide

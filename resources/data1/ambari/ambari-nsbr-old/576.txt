@@ -1,0 +1,1 @@
+In Custom config for Nagios: emails with multiple periods before the '@' fails validation       

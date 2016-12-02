@@ -1,0 +1,1 @@
+<title>Issue 4732 -   chromium -    Sometimes fonts are replaced with square boxes in a new window - Project Hosting on Google Code</title>   1. Open the page in background by middle-clicking the link.      Normal page      Half of the text is replaced by square boxes  see attached screenshot.      Please provide

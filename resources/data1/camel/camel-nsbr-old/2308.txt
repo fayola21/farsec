@@ -1,0 +1,1 @@
+StrictHostKeyChecking Url Option    Camel users will appreciate a new url option that sets JSch Session StrictHostKeyChecking to 'no' . Preferably  this new option will work just like URI Options knownHosts. This improvement will facilitate bypass sftp/ssh key authentication.   

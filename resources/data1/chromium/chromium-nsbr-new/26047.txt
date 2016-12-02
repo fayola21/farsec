@@ -1,0 +1,1 @@
+<title>Issue 26047 -   chromium -    Using Picasa Web Albums : Viewing In Google Earth - Project Hosting on Google Code</title>   1. Clicking the &quot;View in Google Earth&quot; link  lower left.            Should attempt to download a .kml file for use in Google Earth.        Opens the .kml file within the browser  similar to opening the file in   notepad.    <b>Please provide

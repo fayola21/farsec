@@ -1,0 +1,1 @@
+<title>Issue 8066 -   chromium -    Text is (partly?) transparent in top of Aero glass fullscreen window - Project Hosting on Google Code</title> <pre> Open a window on Aero glass containing some text.  Hit F11.  Scroll around.    Notice the weird colors showing through text near the top of the screen.    Does not reproduce in XP. </pre>

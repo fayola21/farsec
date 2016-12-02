@@ -1,0 +1,1 @@
+<title>Issue 34646 -   chromium -    Get client library for server-issued notifications in Chromium tree - Project Hosting on Google Code</title> <pre> It will be put in third_party.  It's fairly small so it should compile cleanly.  It   depends on at least protobuf  and some patching might be needed for   namespace issues. </pre>

@@ -1,0 +1,1 @@
+enhance ichoicerenderer with id->choice object lookup    add object idtochoice(string id) to ichoicerenderer and add class choicerenderer implements ichoicerenderer that encapsulate the default linear searchthen we can remove method added in WICKET-348 to support a custom lookup   

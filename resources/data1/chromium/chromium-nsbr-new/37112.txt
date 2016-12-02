@@ -1,0 +1,1 @@
+<title>Issue 37112 -   chromium -    Inform disk cache of WebKit cache hit - Project Hosting on Google Code</title> <pre> Per Darin  we don't inform the disk cache when there is a hit in the WebKit loader cache.    This is not ideal as a resource in a tab that is left open for a long time may appear to the disk cache   as though it was not recently used. </pre>

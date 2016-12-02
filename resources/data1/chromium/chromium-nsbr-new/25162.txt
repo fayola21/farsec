@@ -1,0 +1,1 @@
+<title>Issue 25162 -   chromium -    Vista Thumbails not displaying while minimizing - Project Hosting on Google Code</title>   1.Open chrome  2.Goto a webpage  3.minimize  4.look at thumbnail      See the open tab      See a grey box with some small dots in the upper left    <b>Please provide

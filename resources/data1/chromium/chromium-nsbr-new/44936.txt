@@ -1,0 +1,1 @@
+<title>Issue 44936 -   chromium -    [pepper] consider changing mouse coordinates to be float instead of int - Project Hosting on Google Code</title> <pre> [pepper] consider changing mouse coordinates to be float instead of int </pre>

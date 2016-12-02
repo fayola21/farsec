@@ -1,0 +1,1 @@
+<title>Issue 44760 -   chromium -    Cut-(Ctrl-X) of URL in Omnibox does not cut the text - Project Hosting on Google Code</title>   1. Alt-D to go to Omnidbox  2. Ctrl-X      text is removed and on clipboard      text is not removed (but it is at least on the clipboard now)    Please provide

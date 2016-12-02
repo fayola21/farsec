@@ -1,0 +1,1 @@
+<title>Issue 20354 -   chromium -    Change absolute paths in preferences file for themes to relative paths - Project Hosting on Google Code</title> <pre> Increase profile portability by making theme paths relative. </pre>

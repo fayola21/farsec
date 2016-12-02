@@ -1,0 +1,1 @@
+<title>Issue 17730 -   chromium -    Text Controls and Button spacing problem - Project Hosting on Google Code</title>   1. Simply go to <a href="http://www.stfc.it/index.php?a=login">http://www.stfc.it/index.php?a=login</a>      Correct spacing between text controls and buttons      There is too many spacing between text controls and buttons.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2211 -   chromium -    Cannot download large files - Project Hosting on Google Code</title>   1. Try to download Solaris 10 DVD iso from Sun.com.  2. It fails in Chrome  but works in Firefox 3.                  Please provide

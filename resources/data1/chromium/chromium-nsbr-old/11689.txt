@@ -1,0 +1,1 @@
+<title>Issue 11689 -   chromium -    Chromium crashes when opening a new tab - Project Hosting on Google Code</title>   1. Start Chromium  2. Open a new tab using a &quot;plus icon&quot;        A new  empty tab should be opened.      Chromium crashes.    <b>Please provide

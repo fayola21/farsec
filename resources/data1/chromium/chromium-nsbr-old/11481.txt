@@ -1,0 +1,1 @@
+<title>Issue 11481 -   chromium -    Overlapping form fields - Project Hosting on Google Code</title>   1. Go to the above URL.  2. See overlapping form fields.  3. Close Chrome  use IE7 :-(      Form fields should be rendered correctly and not overlap      For fields overlap each other and make the form unuseable      <b>Please provide

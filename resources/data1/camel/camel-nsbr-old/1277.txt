@@ -1,0 +1,1 @@
+Apache camel example reportincident dependency removed from pom.xml    Hi Someone has removed the following dependency from the camel pom.xml file : &lt;dependency&gt; &lt;groupId&gt;org.apache.camel&lt;/groupId&gt; &lt;artifactId&gt;camel-example-reportincident&lt;/artifactId&gt; &lt;version&gt;${project.version}&lt;/version&gt; &lt;/dependency&gt;   

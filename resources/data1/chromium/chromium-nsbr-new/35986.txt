@@ -1,0 +1,1 @@
+<title>Issue 35986 -   chromium -    Tiny input fields when we fall back to Mac's Lucida Grande font - Project Hosting on Google Code</title>   1. uninstall ttf-liberation  2. uninstall ttf-mscorefonts-installer        very very small input fields      normal size of input fields    <b>Please provide

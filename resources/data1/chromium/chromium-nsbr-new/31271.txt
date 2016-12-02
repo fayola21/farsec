@@ -1,0 +1,1 @@
+<title>Issue 31271 -   chromium -    Wingding characters displayed after Google search with Google Chrome - Project Hosting on Google Code</title>   1.Do a search using Google with Google Chrome browser            Search results        Page full of wingding type characters as per screen shot          <b>Please provide

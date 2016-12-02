@@ -1,0 +1,1 @@
+<title>Issue 7086 -   chromium -    Chrome frezee when you try to respond an email in yahoo.es - Project Hosting on Google Code</title>   1. Open your yahooo.es acount  2. Try to respond an email  3. chrome freeze      freeze          Please provide

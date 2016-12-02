@@ -1,0 +1,1 @@
+<title>Issue 4975 -   chromium -    GKURL needs a deep copy method. - Project Hosting on Google Code</title> <pre> Our current implementation of the copy method just returns *this. We need   this for WorkerThreads. </pre>

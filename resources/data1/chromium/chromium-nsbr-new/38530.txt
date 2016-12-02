@@ -1,0 +1,1 @@
+<title>Issue 38530 -   chromium -    buildbot waterfall should show revision numbers - Project Hosting on Google Code</title> <pre> The webkit builders do this and I find it makes following where a given builder is much easier.   Attaching a screenshot for reference. CCing people who might be interested in implementing. </pre>

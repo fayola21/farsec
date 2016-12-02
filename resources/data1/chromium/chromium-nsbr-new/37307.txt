@@ -1,0 +1,1 @@
+<title>Issue 37307 -   chromium -    Tab needs to be closed twice to actually close. - Project Hosting on Google Code</title>   1. Close a tab via the X on the tab or using keyboardshortcut          Needs to be done twice otherwise the tab won��_��_��_t close      If you only close the tab once it still remains.      <b>Please provide

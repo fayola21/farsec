@@ -1,0 +1,1 @@
+Netty - Should use ordered thread pool    We should favor using OrderedMemoryAwareThreadPoolExecutor andOrderedDownstreamThreadPoolExecutor to ensure ordering of events in a channel.See nabblehttp://camel.465427.n5.nabble.com/Netty-or-Mina-Async-in-the-same-socket-tp5720478.htmlWe can add an option so people can turn it off  like we did for mina2.   

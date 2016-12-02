@@ -1,0 +1,1 @@
+<title>Issue 43321 -   chromium -    New tabs opening behind the current one - Project Hosting on Google Code</title>   1. Clicking a link with the middle button  OR  2.Right-clicking a link and clicking &quot;New Tab&quot;      A new tab opens over the current one.      A new tab is opened behind the current.    <b>Please provide

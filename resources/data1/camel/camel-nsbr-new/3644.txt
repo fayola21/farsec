@@ -1,0 +1,1 @@
+camel-core-xml - Add getter/sett for endpoints    We have listed @XmlElement(name = 'endpoint'  required = false) private List&lt;CamelEndpointFactoryBean&gt; endpoints;in the camel-spring  but we dont have getter/setter.We should enforce this by adding getter/setter in camel-core-xml which we have for most of the stuff.   

@@ -1,0 +1,1 @@
+<title>Issue 27263 -   chromium -    Flash MP3 Streaming - Project Hosting on Google Code</title>   1. Playing an album      Continuous play of the album      When the moving to next track  it completely stops.  Sometimes it does not even start playing the first one.    <b>Please provide

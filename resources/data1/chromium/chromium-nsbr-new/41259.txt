@@ -1,0 +1,1 @@
+<title>Issue 41259 -   chromium -    MMX is disabled in Chrome ia32 builds - Project Hosting on Google Code</title> <pre> /usr/lib/gcc/x86_64-linux-gnu/4.2.4/include/mmintrin.h:35:3: error: #error   &quot;MMX instruction set not enabled&quot;   </pre>

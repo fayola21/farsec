@@ -1,0 +1,1 @@
+<title>Issue 29935 -   chromium -    Apple-Q key combination does not quit Chrome on the Mac - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.30  OS: Snow Leopard (10.6.2)      1. Open chrome  2. Press Apple-Q  3. Observe browser not close  4. Press Apple-W  5. Observe browser tab(s) closing </pre>

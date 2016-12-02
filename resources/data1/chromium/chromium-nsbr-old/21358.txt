@@ -1,0 +1,1 @@
+<title>Issue 21358 -   chromium -    no pdf reading on line - Project Hosting on Google Code</title>   1.any pdf file able to be open on line gives a black sceen and nothing else   !        What is the expected result?:the ability to read pdf on line      What happens instead? as said: black screen      <b>Please provide

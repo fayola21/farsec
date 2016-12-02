@@ -1,0 +1,1 @@
+<title>Issue 27245 -   chromium -    Chrome Icon not appearing on task bar - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.237.0    I've just installed an update  channel DEV  there is no application icon on   task bar  just the title  icon space is empty. </pre>

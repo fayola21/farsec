@@ -1,0 +1,1 @@
+<title>Issue 45666 -   chromium -    Developer Tools' Help window shows up whenever pressing the ? or / key. - Project Hosting on Google Code</title>   1. Try to enter an expression in the console: x = 1/2;        0.5        The keyboard shortcut help window is displayed(!).  Note that the slash   character       <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 23708 -   chromium -    [Regression] hitting backspace on a textfield takes you back to the previous page - Project Hosting on Google Code</title>   1. Go to any site with a textfield (i.e. gmail.com)  2. In the username field  type something and hit backspace        Previous character is erased      The page navigates to the previous page.    <b>Please provide

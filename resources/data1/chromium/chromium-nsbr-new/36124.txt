@@ -1,0 +1,1 @@
+<title>Issue 36124 -   chromium -    Pin Tab menu item missing - Project Hosting on Google Code</title>   1. Open 1st tab  2. Open 2nd tab  3. Right click on Left tab     =&gt; There is no pin tab menu item to pin the tab. It appears to have   disappeared in this latest release.              <b>Please provide

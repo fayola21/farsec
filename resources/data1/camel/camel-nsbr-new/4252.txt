@@ -1,0 +1,1 @@
+camel-ftp - Using tempFileName option should use the separator option to allow control of path separators in the generated file name    See nabblehttp://camel.465427.n5.nabble.com/FTP-temp-file-not-being-created-correctly-on-Windows-Camel-2-7-2-tp4591581p4591581.html   

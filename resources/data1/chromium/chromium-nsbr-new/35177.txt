@@ -1,0 +1,1 @@
+<title>Issue 35177 -   chromium -    Can`t print with Chrome on Linux and Cups - Project Hosting on Google Code</title>   1. Try to print any page on Linux using a cups printer          sucssessful printing      The program freezes and crashes the hole system      <b>Please provide

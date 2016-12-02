@@ -1,0 +1,1 @@
+<title>Issue 8303 -   chromium -    When u have more than one tab in one window and if u try to close the window it doesn't ask for shall I close all tabs.B'se some times user may do this unknowingly. - Project Hosting on Google Code</title>   1. Don know .I am not a professional programmer.                    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 19585 -   chromium -    High CPU Usage (Especially with Youtube HD.) - Project Hosting on Google Code</title>   1.Open a youtube video site in HD   2.Chrome uses CPU in %100  3.So that chrome is so slow.      Chrome easily can play HD video before this version.      Uses CPU so high up to %100.     <b>Please provide

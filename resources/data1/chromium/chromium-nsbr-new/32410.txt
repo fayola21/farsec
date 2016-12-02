@@ -1,0 +1,1 @@
+<title>Issue 32410 -   chromium -    Implement sync for passwords - Project Hosting on Google Code</title> <pre> Should be blocking <a href="http://code.google.com/p/chromium-os/issues/detail?id=905">http://code.google.com/p/chromium-os/issues/detail?id=905</a>    though I don't have edit privileges there. </pre>

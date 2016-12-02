@@ -1,0 +1,1 @@
+Tez DAG UI not showing due to changed ATS responses    ATS has changed structure of http://server:8188:8188/ws/v1/apptimeline/HIVE_QUERY_ID/&lt;id&gt; where the entire query JSON structure is now represented as a string under 'otherinfo/query'. UI will need to deserialize this string back into JSON and continue.   

@@ -1,0 +1,1 @@
+<title>Issue 33518 -   chromium -    Cannot open .html / .htm files - Project Hosting on Google Code</title>   1. Open any .html / .htm file with Chrome for Mac          The .html file opens      Popup stating: &quot;The document ��_��_��_index.html��_��_��_ could not be opened. Chrome   cannot open files in the ��_��_��_HTML document��_��_��_ format.&quot;    <b>Please provide

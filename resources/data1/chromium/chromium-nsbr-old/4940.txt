@@ -1,0 +1,1 @@
+<title>Issue 4940 -   chromium -    Regression: Sometimes can't re-attach detached tabs - Project Hosting on Google Code</title> <pre>   1. Drag detach the 5th tab from a tabstrip of about 6 tabs  2. Try and drag it back in at around index 1/2.        Notice that you can't at that index  but you can drop it at index 0  or   3/4/5.     </pre>

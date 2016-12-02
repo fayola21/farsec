@@ -1,0 +1,1 @@
+<title>Issue 37852 -   chromium -    C-u views source in password entries - Project Hosting on Google Code</title>   1. Load a page with a password field  2. Type in the password field; press C-u        Clears entered text  as in a non-password field.      View source    <b>Please provide

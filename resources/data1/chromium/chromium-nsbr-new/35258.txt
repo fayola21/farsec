@@ -1,0 +1,1 @@
+<title>Issue 35258 -   chromium -    Wrong binary size file downloaded.  - Project Hosting on Google Code</title>   1. Download The File in zip format.           A file with 120 0 MiB (125824140 bytes)       The downloaded file has 119 9 MiB (125754777 bytes)    <b>Please provide

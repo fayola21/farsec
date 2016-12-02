@@ -1,0 +1,1 @@
+<title>Issue 27287 -   chromium -    drop down lists display blanks - Project Hosting on Google Code</title>   1. Go to http://cs  2. Click 'Language' drop down  3. see what happens        Drop down displays choices.        Drop down displays blanks.    <b>Please provide

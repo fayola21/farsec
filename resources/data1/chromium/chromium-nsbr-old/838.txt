@@ -1,0 +1,1 @@
+<title>Issue 838 -   chromium -    Need keyboard shortcut to follow a link - Project Hosting on Google Code</title>   1. Type control-F to start a search  2. Type some text to search for a link on a page  3. Press enter to follow the link    Expected: Link is followed (like it is in Firefox)    Observed: Nothing happens                Please provide

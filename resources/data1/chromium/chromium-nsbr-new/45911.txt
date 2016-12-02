@@ -1,0 +1,1 @@
+<title>Issue 45911 -   chromium -    What's wrong with this site ? - Project Hosting on Google Code</title>                   Starting the 5.0.375.55  beta version this site doesn't render properly    What's more  in Chrome's task manager the tab doesn't have memory and cpu   usage.    <b>Please provide

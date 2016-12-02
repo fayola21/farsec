@@ -1,0 +1,1 @@
+<title>Issue 30869 -   chromium -    Indian languages like Hindi and Bengali not visible - Project Hosting on Google Code</title>   1. Some Indian languages like Hindi and Bengali are not visible in Google   Chrome  on my website <a href="http://www.comixindia.com">http://www.comixindia.com</a> .                    <b>Please provide

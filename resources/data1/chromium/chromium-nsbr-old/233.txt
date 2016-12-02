@@ -1,0 +1,1 @@
+<title>Issue 233 -   chromium -    Intranet Authentication using Windows credentials - Project Hosting on Google Code</title>   1. log onto a company intranet page that requires AD authentication.          Web Browser supplies (or has the option to) supply login/password used to   log into Windows.      Pop up box for login name and password.    Please provide

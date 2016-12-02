@@ -1,0 +1,1 @@
+<title>Issue 25597 -   chromium -    &quot;Help make Chrome better&quot; checkbox truncated in english - Project Hosting on Google Code</title> <pre> Open the &quot;Under the hood&quot; tab of options and note the &quot;help make google   chrome better&quot; text is truncated in the privacy section. It needs to wrap. </pre>

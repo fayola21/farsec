@@ -1,0 +1,1 @@
+<title>Issue 38396 -   chromium -    biu.ac.il: Encoding problem with Hebrew text - Project Hosting on Google Code</title> <pre>   1. <a href="https://dory.os.biu.ac.il/AIS/">https://dory.os.biu.ac.il/AIS/</a>  2. Note hebrew text displayed in English font bad encoding)     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2227 -   chromium -    Problem with phpmyadmin - Project Hosting on Google Code</title>   1. Surf to a website with phpmyadmin.           Show the full layout.        It only shows a few things.      Please provide

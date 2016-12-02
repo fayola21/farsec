@@ -1,0 +1,1 @@
+<title>Issue 16930 -   chromium -    Download speed is missing from the download shelf - Project Hosting on Google Code</title> <pre> i suggest a tooltip for that to avoid cluttering the UI </pre>

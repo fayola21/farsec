@@ -1,0 +1,1 @@
+<title>Issue 28542 -   chromium -    MediaWiki side-bar appears below content - Project Hosting on Google Code</title>             The side-bar should be vertically flushed with the top of the page.        It starts at the end of the content div.      <b>Please provide

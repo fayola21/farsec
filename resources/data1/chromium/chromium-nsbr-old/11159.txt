@@ -1,0 +1,1 @@
+<title>Issue 11159 -   chromium -    Removed Thumbnail List for New Tab Page = Pet Sematary - Project Hosting on Google Code</title> <pre> Certain pages I remove from my NTP keep coming back. It's as if they're   getting buried in sour ground. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15494 -   chromium -    Implement moles - Project Hosting on Google Code</title> <pre> Toolstrips should have an expanded view (vertically from the bottom) that   allows them to display either semi-permanent or transient UI.   </pre>

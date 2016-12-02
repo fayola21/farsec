@@ -1,0 +1,1 @@
+<title>Issue 3462 -   chromium -    Cannot open files using &quot;Open with&quot; option of windows -- Incorrect parameter is passed - Project Hosting on Google Code</title> <pre>   1. Do a mouse right click on .swf file  2. Select Open with &gt; Google Chrome    What is the expected output?   .swf to be opened in Chrome    What do you see instead?  Doesn't respond       </pre>

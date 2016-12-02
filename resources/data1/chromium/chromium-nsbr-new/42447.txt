@@ -1,0 +1,1 @@
+<title>Issue 42447 -   chromium -    add full-screen as a launch disposition for apps - Project Hosting on Google Code</title> <pre> Perhaps this should be a modifier for launch  or simply another container   type  but it would be cool if you could launch an app into a full-screen   mode. </pre>

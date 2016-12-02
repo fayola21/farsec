@@ -1,0 +1,1 @@
+<title>Issue 11972 -   chromium -    Implement &quot;set as default browser&quot; logic - Project Hosting on Google Code</title> <pre> It's unclear to me what exactly we *can* do here  but I'll note on my system:   - gnome-open lauches URLs   - x-www-browser launches URLs </pre>

@@ -1,0 +1,1 @@
+Camel Splitter eat up exceptions recorded by the underlying Scanner    See http://camel.465427.n5.nabble.com/Trouble-with-split-tokenize-on-linux-td5721677.html for details   

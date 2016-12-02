@@ -1,0 +1,1 @@
+<title>Issue 19078 -   chromium -    red square replace some buttons - Project Hosting on Google Code</title>   1.Open chrome          there some button which are replace by red square on each tab an on close   and other button          <b>Please provide

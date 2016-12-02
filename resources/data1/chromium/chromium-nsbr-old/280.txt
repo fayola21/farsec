@@ -1,0 +1,1 @@
+<title>Issue 280 -   chromium -    Chrome can't display the web site picture normally - Project Hosting on Google Code</title>   1. Visit a web site such as news web site  2. Open a link with picture.          The picture should be display normally.        I can't see the whole picture.It just display a part of picture.    Please provide

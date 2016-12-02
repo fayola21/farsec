@@ -1,0 +1,1 @@
+<title>Issue 9134 -   chromium -    Move windows-specific stuff from BrowserView to BrowserFrameWin - Project Hosting on Google Code</title> <pre> Once we have a BrowserFrameWin  all the windows-specific goop like the flash   window handler  fullscreening etc should move to the frame. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18105 -   chromium -    all bookmarks are gone - Project Hosting on Google Code</title>   1. updating via Chromium Updater          bookmarks as they were before update      everything is gone. no bookmark is saved  even on bookmarks bar    <b>Please provide

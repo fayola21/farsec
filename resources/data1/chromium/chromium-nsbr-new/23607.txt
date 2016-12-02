@@ -1,0 +1,1 @@
+<title>Issue 23607 -   chromium -    MessageEvent.initMessageEvent() is not properly setting the source - Project Hosting on Google Code</title> <pre> fast/dom/init-events.html is failing on windows/linux because   MessageEvent.initMessageEvent() is ignoring the passed-in source argument   (the event.source attribute is still null after calling initMessageEvent()). </pre>

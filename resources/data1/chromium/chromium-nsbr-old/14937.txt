@@ -1,0 +1,1 @@
+<title>Issue 14937 -   chromium -    Alternate nav url infobar - Project Hosting on Google Code</title> <pre> ben explains thusly:    when you type 'cheeze'  the default is to go and search for cheeze. however  it also kicks off a request to see if a hostname exists on the local  network. If found  it shows an infobar that asks if you really meant  http://cheeze </pre>

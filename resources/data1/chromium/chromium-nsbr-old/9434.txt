@@ -1,0 +1,1 @@
+<title>Issue 9434 -   chromium -    X clipboard doesn't work in web contents - Project Hosting on Google Code</title> <pre> Nor pasting to nor copying from the X clipboard does work in the render view. </pre>

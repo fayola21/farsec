@@ -1,0 +1,1 @@
+<title>Issue 17223 -   chromium -    Changing bookmark folder from start popup freezes Chromium - Project Hosting on Google Code</title>   1. Bookmark a page  2. Try to change the folder by clicking the start button again  then   clicking the drop-down  3. Chromium freezes      Chromium offers folders      Chromium freezes    <b>Please provide

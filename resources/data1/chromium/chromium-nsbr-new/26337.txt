@@ -1,0 +1,1 @@
+<title>Issue 26337 -   chromium -    Canvas.getImageData() returns invalid pixel data - Project Hosting on Google Code</title>   1. Open the attached HTML.      The value for Pixel 64 should be ff00.      A garbage value is shown instead. Note that Pixel 63 (starting index 252) is   correct indicating data corruption for array indices &gt;= 256.      <b>Please provide

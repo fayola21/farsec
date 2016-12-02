@@ -1,0 +1,1 @@
+<title>Issue 1348 -   chromium -    Chrome crashes on Windows XP 64-bit SP2 - Project Hosting on Google Code</title>   1. Go to &quot;Options&quot;          - See the Options window.      - The browser crashes and also fails to restart. I have to forcefully   terminate the application (OS crash dialog).    Please provide

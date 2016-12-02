@@ -1,0 +1,1 @@
+<title>Issue 39059 -   chromium -    visual artefact - Project Hosting on Google Code</title>   1. none. the artefact is present right under the ��_��__new tab��_��_��_ button  between   the end of the address bar and the menu  2. here is a screenshot: <a href="http://grab.by/3fZd">http://grab.by/3fZd</a>                <b>Please provide

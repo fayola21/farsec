@@ -1,0 +1,1 @@
+Multiple Endpoints with the Same Port in Restlet Component    It should be possible to have several endpoints using the same port  the more it takes to rely on a HTTP server external to the component.   

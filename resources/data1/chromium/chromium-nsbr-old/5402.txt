@@ -1,0 +1,1 @@
+<title>Issue 5402 -   chromium -    Windows Live Hotmail doesn`t work. - Project Hosting on Google Code</title>   1. Can`t enter text into a mail message body.        What is the expected result? Live Hotmail works with other browsers.      What happens instead?Area is grayed-out.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11598 -   chromium -    View page info... dialog - Project Hosting on Google Code</title> <pre> We should hook up the &quot;view page info&quot; dialog that's available by right-  clicking on a page.    Someone is working on this on Mac  so we should wait for that refactoring to   happen first. </pre>

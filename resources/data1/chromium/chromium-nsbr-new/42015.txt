@@ -1,0 +1,1 @@
+<title>Issue 42015 -   chromium -    no entry for tabbed bookmark manager in task manager - Project Hosting on Google Code</title> <pre> there is no entry for the tabbed bookmark manager extension/tab in the task   manager. This contrasts with other extensions  and with chrome-ui tabs such   as the extensions page. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23346 -   chromium -    ~/Downloads folder spuriously created - Project Hosting on Google Code</title>   1. Set the Download location pref to a location other than $HOME/Downloads  2. Close Chrome  3. Delete ~/Downloads  4. Start Chrome  5. ~/Downloads is recreated        Don't make ~/Downloads        It makes ~/Downloads    <b>Please provide

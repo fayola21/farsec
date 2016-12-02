@@ -1,0 +1,1 @@
+<title>Issue 928 -   chromium -    Google Reader SSL error - Project Hosting on Google Code</title> <pre> Product Version      : beta1           Safari 3: OK!      Firefox 3: OK!           IE 7: OK!    Go to google reader and see a nice invalid SSL page :)    A shame that Chrome does not let me override the SSL trust for this page   so I have to click all the time..... </pre>

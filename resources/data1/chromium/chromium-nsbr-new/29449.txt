@@ -1,0 +1,1 @@
+<title>Issue 29449 -   chromium -    Also bind `/' to `Find in page' (now Ctrl+F) - Project Hosting on Google Code</title> <pre> Just like in Firefox: very handy shortcut. </pre>

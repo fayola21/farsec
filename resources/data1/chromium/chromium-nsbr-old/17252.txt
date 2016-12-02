@@ -1,0 +1,1 @@
+<title>Issue 17252 -   chromium -    Chrome History and gmail - Project Hosting on Google Code</title>   1. Check your gmail with user X account  2. Log out  3. Check your gmail with user account Y ( X != Y)        In the history I should see &quot;gmail&quot; accessed by X        In the history all the X accesses are labelled as Y accesses.    <b>Please provide

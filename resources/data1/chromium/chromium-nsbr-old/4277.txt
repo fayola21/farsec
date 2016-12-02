@@ -1,0 +1,1 @@
+<title>Issue 4277 -   chromium -    Mime type not set - Project Hosting on Google Code</title>   1. Upload XML file (attached)      type set to text/plain or application/octet-stream        mime type has length of 0 using Chrome    Please provide

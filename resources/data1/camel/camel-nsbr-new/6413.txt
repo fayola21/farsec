@@ -1,0 +1,1 @@
+File consumer - Race condition for markerFile read lock strategy    See nabblehttp://camel.465427.n5.nabble.com/File-markerFile-strategy-race-condition-tp5733561.htmlWe should delete the .camelLock file last  as currently we move the processed file first. And there is a very tiny tiny window where another process could potential see the file and pickup it.   

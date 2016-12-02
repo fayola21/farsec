@@ -1,0 +1,1 @@
+<title>Issue 31915 -   chromium -    Enter  Arrow keys not firing the key press event - Project Hosting on Google Code</title>             Both keydown and keypress events should fire      only keydown is firing    <b>Please provide

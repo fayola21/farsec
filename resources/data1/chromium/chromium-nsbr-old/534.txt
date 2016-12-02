@@ -1,0 +1,1 @@
+<title>Issue 534 -   chromium -    Need full screen mode - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)              Firefox 3: OK           IE 7: OK      1. Press F11 key  2. nothing happens      Fullscreen mode activation (no tabs  no URL string  - or autohidden tabs  and URL string)      Nothing.      </pre>

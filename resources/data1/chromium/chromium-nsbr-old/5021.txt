@@ -1,0 +1,1 @@
+<title>Issue 5021 -   chromium -    remove ATL dependencies from wmi_util.cc - Project Hosting on Google Code</title> <pre> It would be nice to remove ATL dependencies from Chromium so that people  can build it with Visual C++ Express.    wmi_util.cc is the one ATL dependency we have in base  so it means that  developers can't even build the smallest pieces of Chromium.   </pre>

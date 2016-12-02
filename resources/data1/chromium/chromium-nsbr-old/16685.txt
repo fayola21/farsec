@@ -1,0 +1,1 @@
+<title>Issue 16685 -   chromium -    Replace IPC_MESSAGE_ROUTED7 with a macro that uses a struct with all the parameters - Project Hosting on Google Code</title> <pre> In worker_messages_internal.h  I've created a macro that takes 7 parameters. Per   jam@chromium.org suggestion  this should be changed to use a specific struct to package   parameters.   </pre>

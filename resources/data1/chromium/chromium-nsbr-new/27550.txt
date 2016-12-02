@@ -1,0 +1,1 @@
+<title>Issue 27550 -   chromium -    App mode has no way to specify window geometry - Project Hosting on Google Code</title>   chromium-browser --app=<a href="http://www.google.com/">http://www.google.com/</a> --geometry=320x240  (or similar)        Chromium opens small window of size 320x240      Chromium uses half the width and the full height of screen    <b>Please provide

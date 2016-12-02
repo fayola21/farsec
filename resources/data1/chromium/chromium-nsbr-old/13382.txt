@@ -1,0 +1,1 @@
+<title>Issue 13382 -   chromium -    &quot;Authorisation Required&quot; dialog has both windows and chrome title bars - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.183.1                    1. Open any site  requiring basic authentication      - dialog box      - see screenshot     </pre>

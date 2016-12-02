@@ -1,0 +1,1 @@
+<title>Issue 2511 -   chromium -    window.scrollTo doesn't work on the merge branch. - Project Hosting on Google Code</title> <pre> LayoutTests/fast/repaint/fixed.html seems to fail because window.scrollTo   doesn't have any effect.   </pre>

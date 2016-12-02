@@ -1,0 +1,1 @@
+<title>Issue 12618 -   chromium -    &quot;Copy link address&quot; doesn't - Project Hosting on Google Code</title>   1.right click on any link  2.select &quot;Copy link address&quot;  3.Paste into another window      The link address would be pasted into the window        The previous contents of the paste buffer are pasted.    <b>Please provide

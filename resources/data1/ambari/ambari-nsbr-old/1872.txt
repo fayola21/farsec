@@ -1,0 +1,1 @@
+Ambari FE is not setting proper value for fs.checkpoint.edits.dir       

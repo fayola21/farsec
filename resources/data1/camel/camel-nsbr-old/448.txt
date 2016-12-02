@@ -1,0 +1,1 @@
+Upgraded to OpenJPA 1.0.2    OpenJPA in release 1.0 and onwards requires a change in the ant build in the pom.xmlIt now requires a persistance.xml file to use.   

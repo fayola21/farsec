@@ -1,0 +1,1 @@
+<title>Issue 43195 -   chromium -    Lose Data on power failure - Project Hosting on Google Code</title> <pre> Chrome Version       : '5.0.375.29 beta'      1. Power failure      Lost of data.    When ever i get power failure on my pc i lose my chrome data like extensions   and themes. I have a Acer Aspire 6920 with Windows 7 on it.   </pre>

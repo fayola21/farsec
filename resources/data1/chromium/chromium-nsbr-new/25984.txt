@@ -1,0 +1,1 @@
+<title>Issue 25984 -   chromium -    [Chrome] Support mapping CanvasArrayBuf to shared memory [20] - Project Hosting on Google Code</title> <pre> Support mapping CanvasArrayBuf to shared memory. Use for command buffer as   well? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 14963 -   chromium -    The recent section of the new new tab page should show more item when expanded - Project Hosting on Google Code</title> <pre> Currently  the recent section of the new new tab page does not change the   number of items shown depending on its size. </pre>

@@ -1,0 +1,1 @@
+rc1 generics - LabelTree    LabelTree.getNodeTextModel requires IModel&lt;Object&gt; and returns IModel&lt;Object&gt;. I was overriding it and returning a Model&lt;String&gt;  but I can't do that anymore. Why not just return IModel&lt;?&gt; ?   

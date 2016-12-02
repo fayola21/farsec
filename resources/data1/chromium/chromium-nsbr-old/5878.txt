@@ -1,0 +1,1 @@
+<title>Issue 5878 -   chromium -    Gmail Compose Tear Off not maximised properly - Project Hosting on Google Code</title>   1. Login to Gmail  2. Click Compose  3. Click on the tearoff icon.  4. Maximise the new window.      Window should maximise properly.      Window does not maximise properly near the bottom - see arrows in image.    Please provide

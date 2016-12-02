@@ -1,0 +1,1 @@
+<title>Issue 28459 -   chromium -    Animated GIFs doesn't appear with defined frequency of images - Project Hosting on Google Code</title>   1. open/load an animated .gif          Animate the .gif with defined frames per second.      The .gif's animation is slower.    <b>Please provide

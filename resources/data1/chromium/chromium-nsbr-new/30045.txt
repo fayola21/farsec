@@ -1,0 +1,1 @@
+<title>Issue 30045 -   chromium -    Generate list of most popular extensions - Project Hosting on Google Code</title> <pre> We now compile a sorted list of extensions loaded based on data in crash   dumps. We should have an list of top extensions used in Chrome overall based   on UMA information and properly compare these two list. </pre>

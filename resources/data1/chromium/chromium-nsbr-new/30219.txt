@@ -1,0 +1,1 @@
+<title>Issue 30219 -   chromium -    Back button in IUI does not work in chrome frame on IE8 - Project Hosting on Google Code</title>   1.visit www.wikiklu.com in chrome frame and back button in frame will not   work. It does work fine in chrome and Safari                    <b>Please provide

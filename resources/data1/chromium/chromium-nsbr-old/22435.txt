@@ -1,0 +1,1 @@
+<title>Issue 22435 -   chromium -    PayPal Shipping Label Bug - Project Hosting on Google Code</title>   1.Printing a shipping label directly from PayPal (Pittney Bowles) will only   produce a &quot;sample label&quot;  not the actual shipping label          shipping label prints      only a &quot;sample label&quot; can be printed    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6262 -   chromium -    Spacebar won't scroll down a page - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.156.1            Firefox 3: OK           IE 7: OK      1. Hit space bar  2. ???  3. Profit!      Space scrolls down  one page at a time.      Nothing  as of new dev-channel release. Works in previous releases of   Google Chrome.   </pre>

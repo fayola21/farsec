@@ -1,0 +1,1 @@
+<title>Issue 34603 -   chromium -    segmentation fault from apt-get upgrade chromium-browser (to 5.0.317) - Project Hosting on Google Code</title>   1. sudo apt-get upgrade (chromium-browser) on Ubuntu 9.04          completion of upgrade to 5.0.317      segmentation fault  Chromium browser now crashes.     <b>Please provide

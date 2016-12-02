@@ -1,0 +1,1 @@
+<title>Issue 20889 -   chromium -    Disable precompiled headers - Project Hosting on Google Code</title> <pre> It is causing more harm than good  especially when define changes.    We need to track how much compile speed regression it caused but I don't   think it will be that large since the code base is now quite large compared   to the precompiled headers. </pre>

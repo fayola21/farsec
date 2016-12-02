@@ -1,0 +1,1 @@
+<title>Issue 45901 -   chromium -    No Accelerator Keys - Project Hosting on Google Code</title>     1. Open any Chromium menu (eg Wrench Menu  context-menus  etc.)    2. Press an alpha-numeric key        An appropriate menu item should be selected.        Nothing.    <b>Please provide

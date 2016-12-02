@@ -1,0 +1,1 @@
+<title>Issue 29669 -   chromium -    Monitor power status on Mac and Linux - Project Hosting on Google Code</title> <pre> Currently we don't appear to detect suspend/resume on Mac and Linux.  I know   this causes some network bugs since we don't flush idle sockets on suspend   for those platforms.  I think this would probably be very useful especially   for Mac. </pre>

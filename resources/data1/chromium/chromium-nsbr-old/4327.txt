@@ -1,0 +1,1 @@
+<title>Issue 4327 -   chromium -    when computer dies  session is not saved - Project Hosting on Google Code</title>   1. when the laptop is suddenly turned off because the battery has a loose   connection  the chrome last chrome session is not saved.  this happened to   me and when i started chrome  it was a new session.                    Please provide

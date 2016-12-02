@@ -1,0 +1,1 @@
+Convert derbynet/sysinfo and derbynet/sysinfo_with_properties to JUnit    I'm guessing these two can be combined into one file   

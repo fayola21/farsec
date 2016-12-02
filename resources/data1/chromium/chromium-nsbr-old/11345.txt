@@ -1,0 +1,1 @@
+<title>Issue 11345 -   chromium -    gopher protocol doesn't work - Project Hosting on Google Code</title>   1. try to visit any gopher url      a gopher menu is displayed      a google search results page is displayed    <b>Please provide

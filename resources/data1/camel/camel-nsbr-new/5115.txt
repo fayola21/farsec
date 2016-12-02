@@ -1,0 +1,1 @@
+CxfBeanDestination should copy the in message header to the out message    User complains about can not access any other headers after the cxfbean in this mail thread&#91;1&#93;.We should let the CxfBeanDestination copy the in message header before it sends the message back.&#91;1&#93;http://camel.465427.n5.nabble.com/Camel-CXF-Drops-Headers-tt5590792.html   

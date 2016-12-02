@@ -1,0 +1,1 @@
+<title>Issue 19273 -   chromium -    Dragging on back/forward button to activate session history too sensitive - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;from About Google Chrome/Chromium&gt;    That's what people keep on telling me  anyway.    Fix coming. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27240 -   chromium -    SVG file larger than browser window size not scrollable - Project Hosting on Google Code</title>   1. Open URL in browser        SVG either scaled to fit or scrollable.      File renders beyond tab extents  no scrollbar available    <b>Please provide

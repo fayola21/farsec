@@ -1,0 +1,1 @@
+<title>Issue 38223 -   chromium -    Chrome Browser some times crashes when trying to install extension for the first time - Project Hosting on Google Code</title>   1. Download an extension and try to install it    What is the expected result?  It should install the extension  Currently some times chrome browser is   getting crashed.      Please provide

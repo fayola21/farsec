@@ -1,0 +1,1 @@
+<title>Issue 16548 -   chromium -    extension toolstrips should not load for application windows - Project Hosting on Google Code</title> <pre> If you install a web application  the extension shelf won't display.    However  toolstrips will still be loaded for this extension as if they are   being displayed. </pre>

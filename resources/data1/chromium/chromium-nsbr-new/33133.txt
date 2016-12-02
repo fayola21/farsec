@@ -1,0 +1,1 @@
+<title>Issue 33133 -   chromium -    Task manager breaks if resized really small - Project Hosting on Google Code</title> <pre> 1. Resize task man to the smallest possible size  2. Resize it back to its normal size    Expected: Should work  Actual: Window is broken after 2 </pre>

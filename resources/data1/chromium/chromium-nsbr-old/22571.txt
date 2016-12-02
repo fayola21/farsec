@@ -1,0 +1,1 @@
+<title>Issue 22571 -   chromium -    Default download directory not obeyed - Project Hosting on Google Code</title> <pre> Here's a screenshot of my options dialog and the save-as dialog that comes   up when I click a download.  Note the different paths. </pre>

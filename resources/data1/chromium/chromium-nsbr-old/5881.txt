@@ -1,0 +1,1 @@
+<title>Issue 5881 -   chromium -    BSOD when Alt-Tabbing between World of Warcraft and Chrome. - Project Hosting on Google Code</title>   1. Open Chrome.  2. Open World of Warcraft(fullscreen) and enter gameplay.  3. Alt-Tab between WoW and Chrome a few times.      Alt-Tab works properly.      Blue Screen of Death     Please provide

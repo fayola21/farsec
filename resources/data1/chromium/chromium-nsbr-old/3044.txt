@@ -1,0 +1,1 @@
+<title>Issue 3044 -   chromium -    Measure setTimeouts - Project Hosting on Google Code</title> <pre> Add a histogram of real-world setTimeout intervals.   Add a histogram of chained setTimeout intervals.    The first case just tells us about what timers are interesting.    The second case tells us about how throttling would potentially effect   websites. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16748 -   chromium -    Cannot open Google home page on 3.0.194.0 - Project Hosting on Google Code</title>   1. On the 3.0.194.0 build(on ubuntu) try to open google home page. Problem  started after automatic update for Chrome was done.          page should open as usual      See the attachment    <b>Please provide

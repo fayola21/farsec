@@ -1,0 +1,1 @@
+<title>Issue 35553 -   chromium -    translate: &quot;Show original&quot; on the infobar that shows a page has been translated - Project Hosting on Google Code</title> <pre>   1. go to a page in another language  2. translate the page via the infobar    The confirmation infobar should have a &quot;Show original&quot; button so that users   can undo a translation.   </pre>

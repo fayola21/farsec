@@ -1,0 +1,1 @@
+<title>Issue 9633 -   chromium -    Disable web fonts by default - Project Hosting on Google Code</title> <pre> Downloadable fonts have not passed security review.     We should disable these by default (hide behind a --enable-web-fonts switch?)   until the security review is passed. </pre>

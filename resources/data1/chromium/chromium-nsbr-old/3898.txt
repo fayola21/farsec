@@ -1,0 +1,1 @@
+<title>Issue 3898 -   chromium -    new v8 made page-cycler-intl2 2-3% slower - Project Hosting on Google Code</title> <pre> Pulling in the new v8 with <a href="/p/chromium/source/detail?r=4210">r4210</a> made the intl2 page cycler slower. It   doesn't seem to have affected the other page cyclers.   </pre>

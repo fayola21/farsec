@@ -1,0 +1,1 @@
+<title>Issue 41791 -   chromium -    Mac: &quot;Check for server certificate revocation&quot; (in Under the Hood  under Security) not yet implemented? - Project Hosting on Google Code</title> <pre> It seems permanently greyed out for me. Remove for M5? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20839 -   chromium -    Problem with spanish translation. - Project Hosting on Google Code</title>   1. Open browser.  2. Click on wrench icon.      Don't show 'amp;'.      If you use spanish version  you see 'amp;' on sites that do not correspond.    <b>Please provide

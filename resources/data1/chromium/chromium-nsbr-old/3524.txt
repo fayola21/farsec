@@ -1,0 +1,1 @@
+<title>Issue 3524 -   chromium -    Alt+D causes a system beep - Project Hosting on Google Code</title>   1. Focus the browser outside of the address bar (such as by clicking on the   content frame)  2. Press Alt+D      The address bar gains focus      The address bar gains focus  but causes a system beep    Please provide

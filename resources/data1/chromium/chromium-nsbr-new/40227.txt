@@ -1,0 +1,1 @@
+<title>Issue 40227 -   chromium -    delay after actions in Chrome 5 under ubuntu 9.10 - Project Hosting on Google Code</title>   Various actions will inconsistently cause this problem.  For example  1. Close a tab using CTRL-W  2. Immediately move the mouse      The mouse should move.      The mouse sometimes doesn't move.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38725 -   chromium -    CSS string substitution is not working - Project Hosting on Google Code</title>   1. Install the attached extension  2. Visit any http:// URL      The webpage's background should be a horribly garish red.      The webpage's background is normal.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6299 -   chromium -    youtube : delete button not seen in table  - Project Hosting on Google Code</title>   1. Login to youtube account  2. Select &quot;My videos&quot; from dropdown under username  3. Observe the list of videos in tabular form      Delete button should be seen      Delete button is not seen as it is going out of table    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 18355 -   chromium -    new webkit tests from merge (46639:46726) - Project Hosting on Google Code</title> <pre> These are new tests:    LayoutTests/http/tests/misc/favicon-loads-with-images-disabled.html = FAIL  LayoutTests/accessibility/input-slider.html = TIMEOUT    Will investigate after merge lands. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 596 -   chromium -    Virtual scrolling with Synaptics Pointing Device works only down but not up - Project Hosting on Google Code</title>   1. open any internet page  2. scroll down  3. scroll back up      the page to be scrolled back up      nothing     Please provide

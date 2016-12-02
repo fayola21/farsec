@@ -1,0 +1,1 @@
+<title>Issue 28370 -   chromium -    Make threading in plugin process more robust - Project Hosting on Google Code</title> <pre> Amanda discovered a race in plugin teardown  since the repeating event is coming in on the UI   thread while IPC handling is happening vi the IO thread. We've band-aided the crash  but we need a   more robust threading fix. </pre>

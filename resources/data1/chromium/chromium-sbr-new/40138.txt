@@ -1,0 +1,1 @@
+<title>Issue 40138 -   chromium -    Security: XSS in chrome://downloads - Project Hosting on Google Code</title> <pre> Download this file:    <a href="http://swiecki.net/a#&lt;img">http://swiecki.net/a#&lt;img</a> src=t onerror=alert(1)&gt;    And view chrome://downloads/ </pre>

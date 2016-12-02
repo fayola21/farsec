@@ -1,0 +1,1 @@
+<title>Issue 17611 -   chromium -    Bookmark bar needs to be ~2 pixels shorter (to move it up) - Project Hosting on Google Code</title> <pre> Bookmark bar items don't look centered.  Looks like ~2 pixels more &quot;up&quot; is needed. </pre>

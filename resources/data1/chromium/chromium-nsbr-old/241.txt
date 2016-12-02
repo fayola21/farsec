@@ -1,0 +1,1 @@
+<title>Issue 241 -   chromium -    GCC 4.3 build - Project Hosting on Google Code</title> <pre> Chromium should build with GCC 4.3. </pre>

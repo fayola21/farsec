@@ -1,0 +1,1 @@
+<title>Issue 2039 -   chromium -    Chrome timers use more power due to timeBeginPeriod(1) - Project Hosting on Google Code</title> <pre> Customer reports that processors use more power when providing high-  resolution timers.     </pre>

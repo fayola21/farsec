@@ -1,0 +1,1 @@
+<title>Issue 6621 -   chromium -    nothing happens when I click to open any mail on my hotmail site or access menu bar above mail list like delete etc - Project Hosting on Google Code</title>   1. opening any of my mail or access menu bar above mail list like delete    new etc ... Nothing happens.                    Please provide

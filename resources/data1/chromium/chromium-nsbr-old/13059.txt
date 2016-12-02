@@ -1,0 +1,1 @@
+<title>Issue 13059 -   chromium -    File Extension missing  - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.28            Firefox 3.x: ok           IE 7: ok      while saving images if you change the file name the image will be saved   without extension. i haven't checked if this problem is with other file   types as well.    i have XP SP3 </pre>

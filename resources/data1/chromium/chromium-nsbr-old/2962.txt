@@ -1,0 +1,1 @@
+<title>Issue 2962 -   chromium -    Need to call ReconsiderProxyAfterError in new HTTP transaction class - Project Hosting on Google Code</title> <pre> Need to call ReconsiderProxyAfterError in new HTTP transaction class   </pre>

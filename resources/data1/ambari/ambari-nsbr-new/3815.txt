@@ -1,0 +1,1 @@
+Remove  Rename actions enabled for 'Default' config group    In the Manager Configuration Groups dialog I selected the Default config-group  and the actions to remove and rename config-group are enabled. These ops are not allowed for Default config-group.   

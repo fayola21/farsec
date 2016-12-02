@@ -1,0 +1,1 @@
+<title>Issue 30453 -   chromium -    Revision 34486 results in startup crashes - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=34486">Revision 34486</a> changed how the themes are getting loaded and now Chrome   crashes at startup if you have a custom theme. There is no crash if you uninstall   the theme. </pre>

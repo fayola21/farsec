@@ -1,0 +1,1 @@
+<title>Issue 2204 -   chromium -    Chrome needs offline browsing capability - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29    Chrome needs the ability to browse offline and retrieve all available   content from the local cache. </pre>

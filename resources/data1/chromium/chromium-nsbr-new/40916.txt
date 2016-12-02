@@ -1,0 +1,1 @@
+<title>Issue 40916 -   chromium -    select remains open when clicked - Project Hosting on Google Code</title>   1. open any page with a &lt;select&gt; element  2. click to open it  3. click it again      it should close      it remains open    <b>Please provide

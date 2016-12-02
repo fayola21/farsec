@@ -1,0 +1,1 @@
+Client driver does not use the query timeout value set using Statement.setQueryTimeout() for subsequent executions using the same statement object    I will attach a repro with more details.   

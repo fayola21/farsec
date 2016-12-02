@@ -1,0 +1,1 @@
+<title>Issue 22340 -   chromium -    Hitting escape should cancel HTTP auth prompt - Project Hosting on Google Code</title> <pre> Yet more emulation of dialog behavior. </pre>

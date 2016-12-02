@@ -1,0 +1,1 @@
+<title>Issue 1688 -   chromium -    Chrome unable to change profile image on GGroups - Project Hosting on Google Code</title>   1. access the URL  2. hit &quot;change&quot; (profile image)  3. see the attached file      To change the image      Need IE or Firefox!??    Please provide

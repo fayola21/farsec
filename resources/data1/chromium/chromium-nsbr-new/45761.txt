@@ -1,0 +1,1 @@
+<title>Issue 45761 -   chromium -    Tab close button experiment - Project Hosting on Google Code</title> <pre> If Scott's experiment in <a title="Tab close button experiment"  href="/p/chromium/issues/detail?id=45743">issue 45743</a> doesn't make us vomit on Windows  then   we need to implement it on Linux  too. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34855 -   chromium -    Alpha in theme frame images rendered as black - Project Hosting on Google Code</title> <pre>   1. Install attached CRX  2. See black background instead of a fully transparent one      The background should be transparent. </pre>

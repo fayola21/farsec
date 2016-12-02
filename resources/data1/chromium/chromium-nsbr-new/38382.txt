@@ -1,0 +1,1 @@
+<title>Issue 38382 -   chromium -    Unable to set Date header in xhr - Project Hosting on Google Code</title>   1. send a xhr to http server with &quot;Date&quot; header set.         Date header appears in the request.      Chrome Refused to set unsafe header &quot;Date&quot;      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 14681 -   chromium -    Chrome Logo Stretched on LinkDoctor page - Project Hosting on Google Code</title>   1. visit <a href="http://weirdrandompeople.com/">http://weirdrandompeople.com/</a> to see LD page  2. Look right  3. See logo is stretched kinda funny    [reported by acd. Mlouie may need to be added]                <b>Please provide

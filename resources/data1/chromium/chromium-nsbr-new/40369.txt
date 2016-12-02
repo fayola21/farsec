@@ -1,0 +1,1 @@
+<title>Issue 40369 -   chromium -    Strange black line/smudge - Project Hosting on Google Code</title>   1. Install chrome dev channel on windows 7  2. Load a chrome window  3. Observe black smudge in top right        No black smudge        Black smudge    <b>Please provide

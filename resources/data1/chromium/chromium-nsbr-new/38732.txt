@@ -1,0 +1,1 @@
+<title>Issue 38732 -   chromium -    Global chrome setting to disable 3d and/or nacl - Project Hosting on Google Code</title> <pre> Global setting to switch on and off 3d and nacl (probably one each). </pre>

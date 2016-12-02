@@ -1,0 +1,1 @@
+<title>Issue 40036 -   chromium -    Plug-in descriptions encoding not handled properly on chrome://plugins - Project Hosting on Google Code</title> <pre>   1. Install a plugin that contains non-ASCII characters  2. Visit chrome://plugins    See screenshot.    This worked in the old about:plugins.   </pre>

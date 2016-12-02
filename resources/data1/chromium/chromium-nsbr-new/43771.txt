@@ -1,0 +1,1 @@
+<title>Issue 43771 -   chromium -    Change tab shape slightly (mac) - Project Hosting on Google Code</title> <pre> like <a title="Change tab shape slightly" class=closed_ref href="/p/chromium/issues/detail?id=40022"> bug 40022 </a>  but for mac </pre>

@@ -1,0 +1,1 @@
+Unable to assign host in HA wizard    STR:1. Open HA wizard2. Proceed to Select Host step3. Try to select host for any master componentResult:nothing changing  js error emerge.   

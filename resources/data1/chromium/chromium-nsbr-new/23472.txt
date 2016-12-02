@@ -1,0 +1,1 @@
+<title>Issue 23472 -   chromium -    Mac pixel tests: Table vertical alignment issue - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/fast/table/vertical-align-baseline.html </pre>

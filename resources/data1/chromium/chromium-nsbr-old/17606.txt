@@ -1,0 +1,1 @@
+<title>Issue 17606 -   chromium -    hash_map's hashing function truncates long longs into longs before hashing. - Project Hosting on Google Code</title> <pre> hash_map&lt;long long  ...&gt; and hash_set&lt;long long&gt;'s hashing functions truncate   long long into just longs and then compute the hash on that.  This seems   wrong. </pre>

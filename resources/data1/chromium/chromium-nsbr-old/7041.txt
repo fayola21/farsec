@@ -1,0 +1,1 @@
+<title>Issue 7041 -   chromium -    Default font sizes to small in some cases - Project Hosting on Google Code</title>   1. visit the above URL  2. Notice the font size      - A legible font size      - The default font is too small    Please provide

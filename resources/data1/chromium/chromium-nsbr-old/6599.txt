@@ -1,0 +1,1 @@
+<title>Issue 6599 -   chromium -    Black bar around chrome version (2.0.157.2) - Project Hosting on Google Code</title>   1. I don't know.       Browser to run.      Browser operates normally but with a black bar all the way around.    Please provide

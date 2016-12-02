@@ -1,0 +1,1 @@
+<title>Issue 2162 -   chromium -    The url provided does not open properly in google chrome but opens in IE 7 - Project Hosting on Google Code</title>   1. type the url provided in address box  2. the complete page should open        Their is login and password field which should be displayed      The login and password field are not displayed    Please provide

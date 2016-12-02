@@ -1,0 +1,1 @@
+<title>Issue 41525 -   chromium -    Restored tabs don't remember position on page - Project Hosting on Google Code</title>   1. Close a tab that is scrolled to  say  the end of the page  2. Restore the tab via Ctrl+Shift+T        Restore the tab  and scroll to the point where the user was reading.      Tab is restored  but scrolled to the top.    <b>Please provide

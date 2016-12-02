@@ -1,0 +1,1 @@
+<title>Issue 22046 -   chromium -    bridge _GTMDevLog and _GTMDevAssert - Project Hosting on Google Code</title> <pre> not sure where they are going  they should be bridged into chromes system. </pre>

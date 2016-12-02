@@ -1,0 +1,1 @@
+<title>Issue 6856 -   chromium -    Omnibox should ignore insert key - Project Hosting on Google Code</title> <pre> I don't know if the right fix here is to ignore the keypress or to set some   flag on the edit that disables overtype mode.    Side note: you can also overtype in various other bogus places  e.g. a   prompt() dialog box. </pre>

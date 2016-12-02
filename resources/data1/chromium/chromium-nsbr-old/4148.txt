@@ -1,0 +1,1 @@
+<title>Issue 4148 -   chromium -    When attaching a file to GMail I press send with a file it does not send the attachment and send an empty email.  - Project Hosting on Google Code</title>   1. Attaching a file to GMAIL       A message to be send with an attachment      An empty message is sent     Please provide

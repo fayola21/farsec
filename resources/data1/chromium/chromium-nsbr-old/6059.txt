@@ -1,0 +1,1 @@
+<title>Issue 6059 -   chromium -    GdkSkia should be moved to Skia - Project Hosting on Google Code</title> <pre> Currently  the GDK-&gt;Skia adapter is in WebCore/platform/graphics/skia/. It   doesn't really belong in WebKit  so we should move it to skia. </pre>

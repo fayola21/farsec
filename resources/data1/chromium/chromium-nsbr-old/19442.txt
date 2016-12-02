@@ -1,0 +1,1 @@
+<title>Issue 19442 -   chromium -    view-source: trailing space on most lines - Project Hosting on Google Code</title>   1. open view-source:<a href="http://crbug.com/">http://crbug.com/</a>  2. Copy paste a chuck into an editor      The source should be exactly the document sent by the server      There are trailing spaces everywhere.      <b>Please provide

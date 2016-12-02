@@ -1,0 +1,1 @@
+<title>Issue 24625 -   chromium -    Compatibility Issue with Adobe Acrobat 8 - Project Hosting on Google Code</title>   1.Click a link from a web site that opens a PDF file          PDF file opens in Adobe Acrobat        Warning messages opens stating it is incombatible with browser and you have   to kill acrobat from task manager to get out.      <b>Please provide

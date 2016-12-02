@@ -1,0 +1,1 @@
+<title>Issue 31939 -   chromium -    Swipe to navigate is broken. - Project Hosting on Google Code</title>   Swipe with three fingers.    What is the expected result? Move forward or back in history.      What happens instead? Nothing.      <b>Please provide

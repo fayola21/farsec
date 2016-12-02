@@ -1,0 +1,1 @@
+JobTracker History Server failed to come up on 1.3.0 stack and the request for service stall is stalled    Attempted to install a cluster with 1.3.0 stack.Service install was all green  but JobTracker History Server failed to come up.The request for the service start is stalled  with no tasks in QUEUED or IN_PROGRESS state  but with some tasks in PENDING state.   

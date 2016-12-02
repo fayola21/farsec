@@ -1,0 +1,1 @@
+Lost heartbeat on host but ganglia shows a heartbeat lost    3 hosts  third-host has only Ganglia monitor and Datanode.I kill the third machine agent. Hosts page correctly shows heartbeat lost.On the services page  ganglia shows 'yellow'  even though the ganglia server host is fine.Ganglia service should considered started if Ganglia Server is started.   

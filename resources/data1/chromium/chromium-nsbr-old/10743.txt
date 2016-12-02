@@ -1,0 +1,1 @@
+<title>Issue 10743 -   chromium -    Password to use incognito - Project Hosting on Google Code</title> <pre> I would like to have a password to allow use of incognito.  The password   control would be from your email address.  If there was a password   implemented then incognito is only accessible if you sign into your email.  -Parent </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36579 -   chromium -    Don't leave space for the menu bar in full screen on non-primary monitor - Project Hosting on Google Code</title> <pre> Right now we have an oddly-large space at the top where the menu bar   would be if there were a menu bar on that monitor </pre>

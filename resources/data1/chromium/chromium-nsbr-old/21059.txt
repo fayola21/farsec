@@ -1,0 +1,1 @@
+<title>Issue 21059 -   chromium -    [http://servicos.ibama.gov.br/cogeq/]: Page rendered wrong on Chrome - Project Hosting on Google Code</title>   1. Open this page: <a href="http://servicos.ibama.gov.br/cogeq/">http://servicos.ibama.gov.br/cogeq/</a>          See the page correctly rendered      Page is showed totally &quot;wrong&quot;     <b>Please provide

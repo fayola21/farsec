@@ -1,0 +1,1 @@
+<title>Issue 12181 -   chromium -    Popup blocker is circumvented on http://thatscricket.oneindia.in/ - Project Hosting on Google Code</title> <pre>   1. Go to <a href="http://thatscricket.oneindia.in/">http://thatscricket.oneindia.in/</a>          Expected: Page about cricket.  What I see: Page about cricket  plus a full-page popup about poker.       </pre>

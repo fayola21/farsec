@@ -1,0 +1,1 @@
+<title>Issue 18207 -   chromium -    Revision info is missing in about:version page on stable channel - Project Hosting on Google Code</title> <pre> Build: Stable (172.39)    In about version page  revision info is missing.    </pre>

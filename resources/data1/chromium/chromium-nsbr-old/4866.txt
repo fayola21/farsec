@@ -1,0 +1,1 @@
+<title>Issue 4866 -   chromium -    Checkbox not shown when Themes Service is stopped. - Project Hosting on Google Code</title>   1. Stoping Theme Services on Windows XP  2. Load chrome and navitage to a page with input 'checkbox' item        Checkbox should be rendered.      There is no visible checkbox    Please provide

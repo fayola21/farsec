@@ -1,0 +1,1 @@
+<title>Issue 2369 -   chromium -    New frames cause 2% (~3ms) startup regression - Project Hosting on Google Code</title> <pre> The new frames have caused a ~3ms startup regression. I'll look to see if I   can defer any non-essential work to try and claim this back. </pre>

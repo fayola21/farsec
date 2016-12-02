@@ -1,0 +1,1 @@
+'wicket' Maven module brings the other three wicket modules as transitive dependencies    The new three-in-one Maven module 'wicket' brings -core  -util and -request as transitive dependencies.This way if the user app depends on 'wicket' then it will get wicket.jar  wicket-util.jar  wicket-request.jar and wicket-core.jar in its WEB-INF/lib/ folder.   

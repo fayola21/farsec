@@ -1,0 +1,1 @@
+<title>Issue 43753 -   chromium -    Crash when opening and closing a bookmark folder in bookmarks bar - Project Hosting on Google Code</title>   1. Start Chromium.  2. Left click to open a folder in bookmarks bar and then close it again.  3. Shutdown Chromium.      A normal shutdown.      Windows Error Reporting.    <b>Please provide

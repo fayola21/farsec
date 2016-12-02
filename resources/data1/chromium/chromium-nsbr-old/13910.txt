@@ -1,0 +1,1 @@
+<title>Issue 13910 -   chromium -    window.opener.navigate doesn't work - Project Hosting on Google Code</title>   1. Open a popup window.  2. Try to execute window.opener.navigate('link') to update main window.      Main windows navigating to informed 'link' parameter.      Nothing.    <b>Please provide

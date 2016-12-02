@@ -1,0 +1,1 @@
+<title>Issue 13593 -   chromium -    Can't switch input methods when focus on input elements. - Project Hosting on Google Code</title>   1. focus on Address bar  press &lt;Ctrl+Space&gt;  2. focus on input element  press &lt;Ctrl+Space&gt;      switch to other input method.      nothing.    <b>Please provide

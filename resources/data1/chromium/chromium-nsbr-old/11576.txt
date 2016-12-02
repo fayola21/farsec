@@ -1,0 +1,1 @@
+<title>Issue 11576 -   chromium -    remove DEFER support from test_expectations.py - Project Hosting on Google Code</title> <pre> The test_expectations.txt file no longer uses DEFER. We should remove the  support from the python code since we don't use it anymore. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 678 -   chromium -    problem with .msg download - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)           Safari 3: FAIL      Firefox 3: OK           IE 7: OK      1. download an a .msg file with a link      donwload a .msg file      download as a &quot;.msg.doc&quot; file      </pre>

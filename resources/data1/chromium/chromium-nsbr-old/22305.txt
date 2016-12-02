@@ -1,0 +1,1 @@
+<title>Issue 22305 -   chromium -    4.0.211.2 bottom bar too big - Project Hosting on Google Code</title>   1. Launch chrome          Not have the bottom bar be the default size.      The bottom bar is huge  and takes screen real estate away.  Doesn't seem   to provide any page info.    <b>Please provide

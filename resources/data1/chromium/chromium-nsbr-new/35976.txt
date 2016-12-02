@@ -1,0 +1,1 @@
+<title>Issue 35976 -   chromium -    Extension NTP override causes omnibox to lose focus - Project Hosting on Google Code</title> <pre> Please add a method that would allow to set focus to address bar.    I wrote a small extension that replaces new tab page with any website  but   omnibox looses focus after redirecting and that's a pretty major issue.    Thanks. </pre>

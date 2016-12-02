@@ -1,0 +1,1 @@
+<title>Issue 23793 -   chromium -    Default browser issue - Project Hosting on Google Code</title>   1. Click on 'Make default browser' button  it puts &quot;chromium-browser&quot; on   KDE settings  instead of &quot;chromium-browser %U&quot;      To see the site opened in Chromium      It downloads the file    <b>Please provide

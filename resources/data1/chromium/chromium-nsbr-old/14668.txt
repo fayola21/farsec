@@ -1,0 +1,1 @@
+<title>Issue 14668 -   chromium -    Aspect ratio of Chrome logo screwed up on 404 pages - Project Hosting on Google Code</title> <pre> Visit a page that gives you the LinkDoctor 404 page.  Look at the Chrome log   and notice how it's horizontally squished.    Also  why does this (ugly) logo differ from the (much prettier) logo on the   New Tab Page? </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36172 -   chromium -    Add automation support for  Returning and Clearing history. - Project Hosting on Google Code</title> <pre> Automation proxy should expose Return and Clear history methods. </pre>

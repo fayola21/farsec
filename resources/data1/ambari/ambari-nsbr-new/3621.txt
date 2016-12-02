@@ -1,0 +1,1 @@
+cleanup dialog for unable to delete host    make dialog according to left mockup   

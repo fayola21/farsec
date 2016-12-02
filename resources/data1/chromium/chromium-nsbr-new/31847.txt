@@ -1,0 +1,1 @@
+<title>Issue 31847 -   chromium -    Cocoa NPAPI support: Send NPCocoaEventWindowFocusChanged events - Project Hosting on Google Code</title> <pre> The Cocoa NPAPI spec calls for sending NPCocoaEventWindowFocusChanged when the plugin's   containing window gains or loses focus; we don't currently send those events. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 42998 -   chromium -    After changing window size  page size remains - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.28 (Official Build 45883) dev    I uploaded a video that shows how happened this issue. Please see it. </pre>

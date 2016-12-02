@@ -1,0 +1,1 @@
+<title>Issue 17361 -   chromium -    empty omni box should show IDS_OMNIBOX_EMPTY_TEXT - Project Hosting on Google Code</title> <pre>   1.create a new tab        The right of the omni box should show IDS_OMNIBOX_EMPTY_TEXT when the   box is empty. </pre>

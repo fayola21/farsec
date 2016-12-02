@@ -1,0 +1,1 @@
+Make it possible to put the optional clauses of a CREATE SEQUENCE statement in the arbitrary order allowed by the SQL Standard    The current syntax for CREATE SEQUENCE requires that the optional clauses appear in a fixed order. The SQL Standard is more flexible here.   

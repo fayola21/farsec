@@ -1,0 +1,1 @@
+<title>Issue 2958 -   chromium -    about: and chrome: don't get added to history - Project Hosting on Google Code</title> <pre> Visit about: and check your history DB.  Nothing has been added.  This   makes inline autocomplete not work for about:  which is really annoying   when it _does_ work for e.g. about:plugins. </pre>

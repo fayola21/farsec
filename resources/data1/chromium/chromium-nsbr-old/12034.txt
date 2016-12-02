@@ -1,0 +1,1 @@
+<title>Issue 12034 -   chromium -    Chrome Tab Bar Color Problems on latest Dev 2.0.180 - Project Hosting on Google Code</title>   1.none            A nice blue tab bar.      It looks bad and the tab bar and buttons are black and not blue after the   latest update. I don't no if this was intended but i hope not.      <b>Please provide

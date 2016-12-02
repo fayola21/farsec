@@ -1,0 +1,1 @@
+Simple language - Have singleton language for better performance    We can optimize the simple language using in eg bean ognl expressions and the likes.   

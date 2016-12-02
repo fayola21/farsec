@@ -1,0 +1,1 @@
+<title>Issue 8167 -   chromium -    Tab switching in options panel is slow - Project Hosting on Google Code</title> <pre>   1. Start Chrome  then switch tabs in the options panel. The tabs    especially under the hood  take a while to display.    It's worth profiling this at some point to see what's going on. </pre>

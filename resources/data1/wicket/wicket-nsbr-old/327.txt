@@ -1,0 +1,1 @@
+Download link does not set Content-Type and Content-Length headers    When using a wicket download link  response headers Content-Type and Content-Length headers are not set.   

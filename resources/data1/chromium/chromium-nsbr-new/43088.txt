@@ -1,0 +1,1 @@
+<title>Issue 43088 -   chromium -    GUTS AJAX call fails on Linux Chrome - Project Hosting on Google Code</title>   1.  Create a new ticket in GUTS  2.  Leave a required field blank  such as Group  3.  Click Submit Request        Validation error message appears  saying field is missing.          Nothing -- submit button appears to not work.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4537 -   chromium -    Consider increasing cache and page size of web db - Project Hosting on Google Code</title> <pre> The cache/page size of the web db was set quite low as it didn't have much   data. Now that we're putting more data there: autofill at a minimum. We   should consider uping the cache/page size. </pre>

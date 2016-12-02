@@ -1,0 +1,1 @@
+BigDataTest.tearDown() doesn't call super.tearDown()    BigDataTest's tearDown() method doesn't call super.tearDown()  causing it to leave statements and connections open and not eligible for gc.   

@@ -1,0 +1,1 @@
+<title>Issue 24628 -   chromium -    still frame is black - Project Hosting on Google Code</title> <pre>   1.  play still2.ogv with looping on    What is the expected output?  A still frame    What do you see instead?  Black   </pre>

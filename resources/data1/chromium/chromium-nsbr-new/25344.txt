@@ -1,0 +1,1 @@
+<title>Issue 25344 -   chromium -    Crash dragging tabs - Project Hosting on Google Code</title> <pre>   1. Open a window and some tabs.  2. Drag a tab out and let go  so a new window is created.  3. Drag it back in and attach it.        Attaches.    Instead  boom.   </pre>

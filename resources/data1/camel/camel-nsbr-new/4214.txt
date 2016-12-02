@@ -1,0 +1,1 @@
+A name should be specified in the karaf features-file    When doing a features:list in karaf  the repository for camel is listed as repo-0  which looks ugly to me. It would be better if it were given a name on the form camel-${pom.version}  similar to the names used by other projects such as Karaf and ActiveMQ.   

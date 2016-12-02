@@ -1,0 +1,1 @@
+<title>Issue 30402 -   chromium -    Installer leaves old files/folders on the temp folder - Project Hosting on Google Code</title> <pre> I found a little over 100 folders created on the temp directory of my home   machine  with names like chrome_30237 and CR_309c.tmp. Some of them are   empty  and some have files in them  but we should cleanup at some point what   we do. </pre>

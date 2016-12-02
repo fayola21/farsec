@@ -1,0 +1,1 @@
+<title>Issue 15126 -   chromium -    primary selection does not repopulate when reselecting same text - Project Hosting on Google Code</title>   1. open Chrome  2. select a word X  3. select some other text Y in other app  4. reselect *the same word* X in Chrome  5. middle click to paste (in chrome or other app)      X should be pasted.      Y is pasted.    <b>Please provide

@@ -1,0 +1,1 @@
+Going back to Customize Services page from the Install page resets certain directory values    Steps to reproduce: Install using non-default directories Upon install failure  go back to Customize Services page from the left nav. Certain directories (NN dirs  SNN dir  DN dirs  Oozie Data Dir  ZK Dir  etc) are reverted back to the default. Other parameters are not reverted back.   

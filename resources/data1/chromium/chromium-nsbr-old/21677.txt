@@ -1,0 +1,1 @@
+<title>Issue 21677 -   chromium -    Chrome fails to download large files - Project Hosting on Google Code</title>   1. download a file that is more than about 50MB.  2. download will finish  but smaller than the original file.        download a file and it is not corrupted.      a downloaded file is small and corrupted.    <b>Please provide

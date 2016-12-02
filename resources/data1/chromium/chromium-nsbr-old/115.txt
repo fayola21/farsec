@@ -1,0 +1,1 @@
+<title>Issue 115 -   chromium -    Can't play videoes from blogger - Project Hosting on Google Code</title>   1. Play a video hosted on blogger          The video should play for it's entire length      The video freezes after 1 second played    Please provide

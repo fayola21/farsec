@@ -1,0 +1,1 @@
+<title>Issue 12097 -   chromium -    No Delete Entry in Context Menu of Omnibar - Project Hosting on Google Code</title>   1. Right-click in the Omnibar      Context menu should have a delete entry after the Paste entries      Nothing  no delete item  only cut    <b>Please provide

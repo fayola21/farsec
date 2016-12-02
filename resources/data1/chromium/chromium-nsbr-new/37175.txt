@@ -1,0 +1,1 @@
+<title>Issue 37175 -   chromium -    upload file to doc.google.com crash - Project Hosting on Google Code</title>   1. login doc.google.com  2. Select a folder in doc.google.com  3. Selsct upload file  4. Select file at computer  5. Select upload      Upload file correct      crashed    <b>Please provide

@@ -1,0 +1,1 @@
+Commons logging must die    In wicket 1.4 (and possibly 1.5) we still depend on commons-logging (and version 1.1 at that)  which not only includes strange logging dependencies from the long departed Avalon project  but also other stuff we really don't want to have. (looking at spring-all-2.5.6 as the main culprit here).   

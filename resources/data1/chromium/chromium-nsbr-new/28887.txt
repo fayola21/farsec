@@ -1,0 +1,1 @@
+<title>Issue 28887 -   chromium -    Aw snap or scratched fonts on http://linux.org.ru - Project Hosting on Google Code</title>   1. Go to <a href="http://linux.or.ru">http://linux.or.ru</a>  2. Register and switch theme to Tango  3. Scroll page down      Everything should work well      We see 'aw snap' page  but sometimes it works with scratched fonts    <b>Please provide

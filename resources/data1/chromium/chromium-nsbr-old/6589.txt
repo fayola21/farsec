@@ -1,0 +1,1 @@
+<title>Issue 6589 -   chromium -    REGRESSION: Download shelf context menu often doesn't appear - Project Hosting on Google Code</title> <pre>   1. Download a file.  2. Click on the download arrow to display the menu.  3. The menu partially fades in but does not become usable. This is not 100%   reproducible.      - The menu should appear and be usable.     </pre>

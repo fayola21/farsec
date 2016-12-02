@@ -1,0 +1,1 @@
+<title>Issue 32214 -   chromium -    SPDY compressor uses too much RAM - Project Hosting on Google Code</title> <pre> Using the zlib standard options  the compressor uses a 32KB window  which   ends up using ~256KB of RAM internally.    Changing the windowBits and memory by switching from deflateInit() to   deflateInit2() we should be able to shrink this to ~40KB.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 7335 -   chromium -    Audio playback fail in Youtube - Project Hosting on Google Code</title>   1. Opening a tab in Youtube (w/ audio/video playback)   2. Having many tabs open  3. With lots of content on them      Audio playback.      No audio.    Please provide

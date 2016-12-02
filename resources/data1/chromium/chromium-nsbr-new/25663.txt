@@ -1,0 +1,1 @@
+<title>Issue 25663 -   chromium -    sports.yahoo.com stats page does not render properly - Project Hosting on Google Code</title>   1. Load this url          Correct layout (see Firefox 3.5 or IE 8)      table with player stats is shifted to the right. and difficult to read.    <b>Please provide

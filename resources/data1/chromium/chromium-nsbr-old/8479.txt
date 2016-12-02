@@ -1,0 +1,1 @@
+<title>Issue 8479 -   chromium -    Javasript alerts no more work in NTP. - Project Hosting on Google Code</title> <pre> Reproduces on DEV: 2.0.168.0 (Official Build 10971) and also trunk  2.0.169.0 (Developer Build 11113)    Try to call any javascript alert in NTP.    It is just ignored.   </pre>

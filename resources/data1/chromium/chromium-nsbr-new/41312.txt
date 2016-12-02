@@ -1,0 +1,1 @@
+<title>Issue 41312 -   chromium -    Chromium keeps loosing content settings - Project Hosting on Google Code</title>     don't know yet  I'm investigating it.      To keep plug-ins disabled.      They are enabled from time to time.    <b>Please provide

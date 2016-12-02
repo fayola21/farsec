@@ -1,0 +1,1 @@
+<title>Issue 644 -   chromium -    Links organizer - Project Hosting on Google Code</title>             I'd like to see a links organizer. When importing the links from IE they   should remain in same order.       When the favorites were imported from IE  the were no longer sorted.  At   least a links organizer to sort links would be appreciated      Please provide

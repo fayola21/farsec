@@ -1,0 +1,1 @@
+<title>Issue 16265 -   chromium -    ctrl + link in google reader does not open a new tab - Project Hosting on Google Code</title>   1. Open google reader and select a post  2. ctrl + click the title in the post        Open the link in a new background tab      A new tab open and close immediately    <b>Please provide

@@ -1,0 +1,1 @@
+Store example Hive Queries somewhere in Ambari that's easily accessible for demo/test purposes    Store example Hive Queries somewhere in Ambari that's easily accessible for demo/test purposes   

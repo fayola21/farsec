@@ -1,0 +1,1 @@
+<title>Issue 28843 -   chromium -    Throttling WebSocket experiment - Project Hosting on Google Code</title> <pre> We need to throttle back the percentage of users who are in the experiment   for this branch before it gets pushed to stable.    We'll set 1% of opt-in users participating the websocket live experiment.  </pre>

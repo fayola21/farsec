@@ -1,0 +1,1 @@
+<title>Issue 12182 -   chromium -    Tab in find bar jumps focus to top of page - Project Hosting on Google Code</title> <pre> ami.fischman@gmail.com reports:    Repro: ctrl-f stringToSearchFor TAB  Expected: tab moves focus forward from the last match  Actual: tab moves focus forward from the top of the page.   </pre>

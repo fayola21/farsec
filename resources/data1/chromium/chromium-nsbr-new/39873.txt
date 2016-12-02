@@ -1,0 +1,1 @@
+<title>Issue 39873 -   chromium -    .sort() on sorted array not idempotent - Project Hosting on Google Code</title>   1. var a = [&quot;23&quot; 23]  2. a.sort() -&gt; [23 &quot;23&quot;]  3. a.sort() -&gt; [&quot;23&quot; 23]        .sort().sort() = .sort()        .sort().sort() != .sort()    <b>Please provide

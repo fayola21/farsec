@@ -1,0 +1,1 @@
+<title>Issue 28767 -   chromium -    Bookmark bar buttons need better truncation - Project Hosting on Google Code</title> <pre> 1. Have bookmarks with long titles.  2. Look at their buttons in the bookmark bar.    There's no gentle truncation  the right edge of the text is simply cut off.    Buttons with long titles should use fade truncation as is used in tab titles. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29581 -   chromium -    Cut and paste on linux doesn't always behave as expected. - Project Hosting on Google Code</title>   1. Copy and paste text with color into pidgin  1. Copy and paste text with color into thunderbird      Text is copied over.      Text + markup is copied or not at all.      <b>Please provide

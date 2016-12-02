@@ -1,0 +1,1 @@
+<title>Issue 15769 -   chromium -    Thumbnails on NNTP should not show tooltips - Project Hosting on Google Code</title> <pre> The thumbnails for NNTP items should not display tooltips. They get in the   way while mousing. The tooltip should only show up on the text label  and   only if the text label is cropped. </pre>

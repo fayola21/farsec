@@ -1,0 +1,1 @@
+<title>Issue 1860 -   chromium -    Right-click in Google Spreadsheets doesn't work w/multiple cells selected - Project Hosting on Google Code</title>   1. Edit a Google Spreadsheet  2. Select multiple cells (rows/columns too)  3. Right-click the selected cells      Context menu displays      Nothing    Please provide

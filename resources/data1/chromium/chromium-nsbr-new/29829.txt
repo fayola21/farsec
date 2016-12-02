@@ -1,0 +1,1 @@
+<title>Issue 29829 -   chromium -    Screen - Project Hosting on Google Code</title>   1. Open the browser          My computer is prepared to tur off the screen after 5 minutes (to save   energy)  and to run screensaver after 6 minutes      The screen never turns off and never shows screensaver    <b>Please provide

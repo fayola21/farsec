@@ -1,0 +1,1 @@
+<title>Issue 15444 -   chromium -    Authentication required dialogue box having a window around it on win XP sp2 - Project Hosting on Google Code</title>   1. refreshing the page  2. recreating the .httacess file on the Linux system        The &quot;authentication required&quot; dialogue not to have a window around it      there is a window (see attachment)    <b>Please provide

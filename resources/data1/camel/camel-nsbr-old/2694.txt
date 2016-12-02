@@ -1,0 +1,1 @@
+HttpEntityConverter should not create a InputStreamEntity by using the GZIPHelper.toGZIPInputStream()    GZIPHelper.toGZIPInputStream() is used for uncompress the zip date and not for compress the data.   

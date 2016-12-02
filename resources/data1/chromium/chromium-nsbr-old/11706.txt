@@ -1,0 +1,1 @@
+<title>Issue 11706 -   chromium -    Linux: find bar ought to display matches on scroll bar - Project Hosting on Google Code</title> <pre> We need the little orange bars on the scroll bar that indicate where in the   page the matches are. </pre>

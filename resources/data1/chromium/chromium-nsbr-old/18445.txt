@@ -1,0 +1,1 @@
+<title>Issue 18445 -   chromium -    Integrate extensions with perfbot - Project Hosting on Google Code</title> <pre> We need to set up the perfbot to monitor extensions. </pre>

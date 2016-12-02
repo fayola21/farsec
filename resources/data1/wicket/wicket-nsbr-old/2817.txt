@@ -1,0 +1,1 @@
+ChoiceGroup's Constructor Should Accept IModel>    This is very similar to ListMultipleChoice's constructor situation. Changing the constructor signature won't break any existing code  but it will make it easier to use (for times when you have a set-based property).   

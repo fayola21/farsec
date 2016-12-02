@@ -1,0 +1,1 @@
+<title>Issue 37047 -   chromium -    Top browser tabs disappear on half window - Project Hosting on Google Code</title>   1.Resizing the chrome browser half side  2.opening more than 10 tabs  3.Changing from one to another                <b>Please provide

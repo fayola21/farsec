@@ -1,0 +1,1 @@
+<title>Issue 718 -   chromium -    Right click context menu requires left click to make selection - Project Hosting on Google Code</title>   1. Right click in any page.  2. Right click on any context menu choice.          Right clicking on a menu item should activate that choice just like left   clicking.        Nothing.    Please provide

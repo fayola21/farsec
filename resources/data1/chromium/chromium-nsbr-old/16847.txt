@@ -1,0 +1,1 @@
+<title>Issue 16847 -   chromium -    http://www.sorting-algorithms.com/ slower on Chrome than Firefox - Project Hosting on Google Code</title> <pre> Probably due to JS timers firing at different speeds?  It's not CPU-bound. </pre>

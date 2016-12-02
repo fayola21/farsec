@@ -1,0 +1,1 @@
+<title>Issue 34680 -   chromium -    ChromeFrame Tests: Safe browsing - Project Hosting on Google Code</title> <pre> Verify that Safe browsing works with chrome frame. Load a known 'bad' site   and make sure that we get a safe browsing interstitial. </pre>

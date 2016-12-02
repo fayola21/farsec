@@ -1,0 +1,1 @@
+<title>Issue 26928 -   chromium -    Clear Browsing Data menu option (under tools) has disappeared - Project Hosting on Google Code</title>   1. Select spanner            - Clearing Browsing Data option should be present        - It isn't    <b>Please provide

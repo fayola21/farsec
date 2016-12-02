@@ -1,0 +1,1 @@
+<title>Issue 15956 -   chromium -    Animated GIFs are not animated - Project Hosting on Google Code</title>   1. View any Animated GIF file in the specified version of Chrome.          The GIF file will move or animate.      Only the first frame of the animation appears stationary.    <b>Please provide

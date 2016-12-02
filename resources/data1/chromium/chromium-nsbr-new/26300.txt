@@ -1,0 +1,1 @@
+<title>Issue 26300 -   chromium -    Chromium crashes in a high repeatable way - Project Hosting on Google Code</title>   1. Clicking on the &quot;other bookmarks&quot; link top right of browswer          Should allow me to open a bookmark      List of bookmark folders appears and Chromium instantly crashes.    <b>Please provide

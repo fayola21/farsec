@@ -1,0 +1,1 @@
+<title>Issue 41483 -   chromium -    http:// is missing - Project Hosting on Google Code</title> <pre> Removing http:// is extremely short sided  and a all around bad idea.    Please restore compatibility with the internet.  Thank you.  </pre>

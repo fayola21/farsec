@@ -1,0 +1,1 @@
+<title>Issue 6650 -   chromium -    Animated gif crashes tab - Project Hosting on Google Code</title>   1. Open the URL provided          Show the animated GIF      Tab crashes    Please provide

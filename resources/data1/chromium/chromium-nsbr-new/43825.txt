@@ -1,0 +1,1 @@
+<title>Issue 43825 -   chromium -    mp4 seek issue - some mp4 files do not seek - Project Hosting on Google Code</title> <pre> Clicking on the time bar seeks to the beginning of the video.  In the testmatrix the following have this behavior  dartmoor2.mp4  tulip2.mp4  mobile2.mp4  bear2.mp4  3dtv2.mp4  birds2.mp4  bear2 is attached. </pre>

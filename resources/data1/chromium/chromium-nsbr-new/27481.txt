@@ -1,0 +1,1 @@
+<title>Issue 27481 -   chromium -    Theme transitions should fade - Project Hosting on Google Code</title> <pre> When a theme changes  the effect should be a cross-fade rather than just   snapping to the new theme. </pre>

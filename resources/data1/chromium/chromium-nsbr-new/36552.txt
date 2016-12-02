@@ -1,0 +1,1 @@
+<title>Issue 36552 -   chromium -    Content scripts reran when navigating to anchors - Project Hosting on Google Code</title> <pre> 1) Make a content script that calls console.log() when run.  2) Put it on a page with anchors (a href=&quot;#foo&quot;).  3) Click the anchors.    Result: multiple lines output to console. </pre>

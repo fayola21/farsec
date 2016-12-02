@@ -1,0 +1,1 @@
+<title>Issue 34172 -   chromium -    Need better way to measure last time chrome was used - Project Hosting on Google Code</title> <pre> Right now we use the last-modified-date of the user data directory. This   could pose problems if some tool scans it or the disk is a FAT32 volume.   </pre>

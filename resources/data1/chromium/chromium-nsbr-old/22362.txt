@@ -1,0 +1,1 @@
+<title>Issue 22362 -   chromium -    Text appears as square boxes. - Project Hosting on Google Code</title>   1. Load page. My Qik page is the worst (<a href="http://qik.com/mrosete">http://qik.com/mrosete</a>)  2. See unreadable fonts        Reeadable text.      Text appears as box with letter &quot;A&quot; rather than readable text.    <b>Please provide

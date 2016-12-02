@@ -1,0 +1,1 @@
+seda component - Support no timeout for task to complete using timeout 0 or negative    See nabblehttp://old.nabble.com/SEDA-Timeout-ts26724664.html   

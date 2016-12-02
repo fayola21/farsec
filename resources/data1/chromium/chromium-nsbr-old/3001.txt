@@ -1,0 +1,1 @@
+<title>Issue 3001 -   chromium -    Handle TLS-intolerant servers - Project Hosting on Google Code</title> <pre> The new HTTP stack needs to handle TLS-intolerant servers gracefully  by retrying with SSL 3.0.    One such server is <a href="https://shirley2.davidson.edu/">https://shirley2.davidson.edu/</a>.     </pre>

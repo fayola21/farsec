@@ -1,0 +1,1 @@
+<title>Issue 21289 -   chromium -    the frame size window in pentaho doesn't work properly - Project Hosting on Google Code</title>   1. when signing into the pentaho community (or enterprise edition)   once   signed in  there is a vertical window divide  clicking to resize does not   work properly.                    <b>Please provide

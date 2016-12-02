@@ -1,0 +1,1 @@
+<title>Issue 9600 -   chromium -    DeleteURLAndFavicon disabled - Project Hosting on Google Code</title> <pre> The test ExpireHistoryTest.DeleteURLAndFavicon was disabled in <a href="/p/chromium/source/detail?r=12921">r12921</a>  because it broken. Reverting patches didn't fix it  nor does it perform any  network IO. </pre>

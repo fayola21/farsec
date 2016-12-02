@@ -1,0 +1,1 @@
+<title>Issue 812 -   chromium -    Profile/login support - Project Hosting on Google Code</title> <pre> Product Suggestion: Allow the user to log into Chrome. Thus I could have   Chrome on two  different machines and when I log into my Chrome  I get the   same settings/bookmarks/history  incl. when I use Chrome on someone else's   computer.      </pre>

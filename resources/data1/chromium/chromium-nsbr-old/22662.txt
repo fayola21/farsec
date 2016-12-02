@@ -1,0 +1,1 @@
+<title>Issue 22662 -   chromium -    Idle Omnibar -&gt; omnibar is not responding / not giving any results - Project Hosting on Google Code</title>   1.<a href="http://www.google.com/search?">http://www.google.com/search?</a>  rlz=1C1GGLS_enUS306US307&amp;sourceid=chrome&amp;ie=UTF-  8&amp;q=bookmark+icon+in+dev+channel                    <b>Please provide

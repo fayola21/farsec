@@ -1,0 +1,1 @@
+<title>Issue 30467 -   chromium -    Add option: external application urls open in new window. - Project Hosting on Google Code</title>   1. Set chrome as the default browser.  2. Start chrome and open a few tabs.  3. Go to another application and click on a URL.      I'd like it to open a new window.      It opens a tab on the existing window.    <b>Please provide

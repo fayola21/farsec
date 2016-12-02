@@ -1,0 +1,1 @@
+<title>Issue 39495 -   chromium -    Download cuts extension - Project Hosting on Google Code</title>   1. click the link  2. download the file  3. run the file        It should save the file as a .avi.torrent        it gets the wrong icon and saves the .avi      <b>Please provide

@@ -1,0 +1,1 @@
+Web Console: NPE when browsing routes with no description    When some of the routes does not have a description NPE will be thrown  because of the code${i.getDescription.getText}To prevent it  just use${i.getDescriptionText}   

@@ -1,0 +1,1 @@
+<title>Issue 31846 -   chromium -    Cocoa NPAPI support: Send NPCocoaEventFlagsChanged events - Project Hosting on Google Code</title> <pre> The Cocoa NPAPI model calls for sending NPCocoaEventFlagsChanged events to the plugin when   modifier keys change; we don't yet do that. </pre>

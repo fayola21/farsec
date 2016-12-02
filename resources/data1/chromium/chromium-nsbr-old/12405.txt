@@ -1,0 +1,1 @@
+<title>Issue 12405 -   chromium -    Omnibox: highlight only the top-level domain and his first subdomain - Project Hosting on Google Code</title> <pre> For better clarity chrome should highlight only the top-level domain and his   first subdomain.    e.g. www.google.com  highlight google.com </pre>

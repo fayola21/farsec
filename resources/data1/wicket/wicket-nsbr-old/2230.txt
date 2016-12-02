@@ -1,0 +1,1 @@
+Nested directory support for ZipResourceStream    It would be nice to have support for nested directories in ZipResourceStream.java   

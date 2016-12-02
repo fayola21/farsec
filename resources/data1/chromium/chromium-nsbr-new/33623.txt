@@ -1,0 +1,1 @@
+<title>Issue 33623 -   chromium -    Cetain arabic characters such as ��_��_��_��_��_��_��__��_��_��_��_��_��_��_��_ are displayed with a boxed ��_��_. This breaks up any arabic webpage. - Project Hosting on Google Code</title>                       <b>Please provide

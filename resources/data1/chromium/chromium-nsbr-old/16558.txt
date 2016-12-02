@@ -1,0 +1,1 @@
+<title>Issue 16558 -   chromium -    [http://sourceforge.net/projects/sevenzip/files/]: Missing horizontal scrollbar - Project Hosting on Google Code</title>   1. Resize window to the smallest size.  2. Go to www.7zip.com  3. Click on download link        Horizontal bar show on bottom of the window.          Horizontal bar is missing.    <b>Please provide

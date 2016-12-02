@@ -1,0 +1,1 @@
+Remove dependency on spring core in PatternBasedPackageScanFilter    The dependency scan is using Springs ANT path matcher but the java code is in camel-core.We should moved that code to camel-spring so camel does not have any dep on spring code at all. (except for JMX annotations  which you is optional to use at runtime)   

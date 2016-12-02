@@ -1,0 +1,1 @@
+<title>Issue 40462 -   chromium -    DevTools stuck in fullscreen - Project Hosting on Google Code</title>   1. Open Chrome  2. Drag Chrome to secondary display  3. ctrl-shift-i (or page menu -&gt; Developer -&gt; Developer Tools)      Developer tools open in windowed state.      Developer tools open in fullscreen mode and cannot leave fullscreen      <b>Please provide

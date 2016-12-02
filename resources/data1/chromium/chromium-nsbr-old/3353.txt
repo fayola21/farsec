@@ -1,0 +1,1 @@
+<title>Issue 3353 -   chromium -    New TAB should open next to current TAB - Project Hosting on Google Code</title>   1. Press CTRL T for opening a new TAB and it opens at the end of the TABs.   It should open next to the current TAB. Also when it is closed  the focus   should return to the previous focussed TAB.                    Please provide

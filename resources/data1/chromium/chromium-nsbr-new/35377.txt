@@ -1,0 +1,1 @@
+<title>Issue 35377 -   chromium -    Can't Move Extension Icons - Project Hosting on Google Code</title>   1. Click and hold to move ext. icons.          they move      nothing    <b>Please provide

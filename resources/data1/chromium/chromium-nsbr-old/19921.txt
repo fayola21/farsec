@@ -1,0 +1,1 @@
+<title>Issue 19921 -   chromium -    Sync is bad on linux - Project Hosting on Google Code</title> <pre>   1. Play the sync video  2. The sync is off.          The visual bip should sync with the sound.    It's worse with ogg videos.    When you seek  it gets even worse. </pre>

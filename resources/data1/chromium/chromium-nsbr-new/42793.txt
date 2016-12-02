@@ -1,0 +1,1 @@
+<title>Issue 42793 -   chromium -    Localized string &quot;Location:&quot; displays garble in zh-TW - Project Hosting on Google Code</title>   1. Launch Chrome with zh-TW UI  2. type &quot;about:plugins&quot; in the Omnibox          The string displays garble.    <b>Please provide

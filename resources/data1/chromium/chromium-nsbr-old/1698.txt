@@ -1,0 +1,1 @@
+<title>Issue 1698 -   chromium -    facebook issues - Project Hosting on Google Code</title>   1. go to facebook  2. try to look through someones pictures        hit next and the next picture of the album shows up      You cant hit next more than twice    Please provide

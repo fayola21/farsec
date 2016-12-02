@@ -1,0 +1,1 @@
+<title>Issue 31852 -   chromium -    Browser Will Not Open - Project Hosting on Google Code</title>   1.chromium-browser        After routine upgrade  browser will not open in Ubuntu 9.10.  Gives the  following prompt:    Inconsistency detected by ld.so: dl-minimal.c: 138: realloc: Assertion `ptr  == alloc_last_block' failed!                <b>Please provide

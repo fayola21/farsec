@@ -1,0 +1,1 @@
+<title>Issue 25020 -   chromium -    Next window shortcut broken - Project Hosting on Google Code</title>   1. Open a new tab  2. Load any web page  3. Try to use Command + ` to change windows      It will go to the next window      Nothing    <b>Please provide

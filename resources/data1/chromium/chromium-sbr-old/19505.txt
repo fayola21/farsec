@@ -1,0 +1,1 @@
+<title>Issue 19505 -   chromium -    Mixed content flash not causing mixed content warnings - Project Hosting on Google Code</title> <pre> When we have mixed content in the form of a swf served over http on an  https page  we are not showing mixed content warnings. This is a bug. See  e.g. <a href="https://ads.youtube.com/">https://ads.youtube.com/</a> </pre>

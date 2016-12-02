@@ -1,0 +1,1 @@
+<title>Issue 12604 -   chromium -    Taskbar flickering while using Chrome - Project Hosting on Google Code</title>   1. Start navigating.  2. Sometimes  when you click on the links or switch between tabs  the   taskbar flickers (it changes from dark -maximized- to lighter colour -  windowed-)    <b>Please provide

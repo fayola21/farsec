@@ -1,0 +1,1 @@
+<title>Issue 30315 -   chromium -    Too small search box on Netlog - Project Hosting on Google Code</title> <pre> Ubuntu910/Chrome 4.0.270    Can't see text in search box on Netlog.       </pre>

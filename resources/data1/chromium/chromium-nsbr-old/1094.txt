@@ -1,0 +1,1 @@
+<title>Issue 1094 -   chromium -    Application initializing issue. - Project Hosting on Google Code</title>   1. Install the application  2. Try to open the application  3. Error message &quot;the application failed to initialize properly&quot;  4.Application has to be closed.                Please provide

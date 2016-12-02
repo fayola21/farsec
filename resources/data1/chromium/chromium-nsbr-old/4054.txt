@@ -1,0 +1,1 @@
+<title>Issue 4054 -   chromium -    Image colors are wrong in linux test shell - Project Hosting on Google Code</title> <pre> E.g.  when the test shell starts up  it loads google.com.  However  the colors in the logo are wrong.    Maybe we're flipping RGB into BGR? </pre>

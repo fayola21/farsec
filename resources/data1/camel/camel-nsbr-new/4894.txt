@@ -1,0 +1,1 @@
+Parameter binding not working with BeanExpression    The parameter binding options available in camel-2.9.0 do not work for BeanExpression. The reason is the fake ognl parser that gets confused about the syntax. We need to align the two scenarios and probably replace the ognl like parsing.   

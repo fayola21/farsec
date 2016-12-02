@@ -1,0 +1,1 @@
+<title>Issue 34536 -   chromium -    bookmark manager is always transparent and can't be accessed on windows 7 pro - Project Hosting on Google Code</title>   1. open bookmark manager                    <b>Please provide

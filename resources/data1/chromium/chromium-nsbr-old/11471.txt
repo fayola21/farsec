@@ -1,0 +1,1 @@
+<title>Issue 11471 -   chromium -    copy in menu desappears [incompatibility with ultramon] - Project Hosting on Google Code</title>   1.start chrome   2. click on page icon   3. Navigate to Copy        Copy highlighted        Copy disappears     <b>Please provide

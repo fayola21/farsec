@@ -1,0 +1,1 @@
+<title>Issue 44323 -   chromium -    site  https://www.mcphee.com/shop/checkout.php not autofilled - Project Hosting on Google Code</title> <pre>   1. go to <a href="https://www.mcphee.com/shop/checkout.php">https://www.mcphee.com/shop/checkout.php</a>  2. choose checkout as guest and continue to get to step 2.    No autofill love :( </pre>

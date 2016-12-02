@@ -1,0 +1,1 @@
+<title>Issue 16903 -   chromium -    Remove code copied from Windows SDK 7.0 - Project Hosting on Google Code</title> <pre> To implement custom JumpList  we need interface declarations defined only in   Windows SDK 7.0 (BETA) and copied them from the SDK since Chromium currently   uses Windows SDK 6.1.  When we update our Windows SDK to 7.0  we need to delete them.   </pre>

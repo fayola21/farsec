@@ -1,0 +1,1 @@
+<title>Issue 34596 -   chromium -    chromium crashes when deleting multiple entries from the bookmark manager - Project Hosting on Google Code</title>   1. Open bookmark manager  2. using ctrl  select multiple bookmarks  3. right click on them  and click delete      It should delete the bookmarks      Chromium closes without warning.    <b>Please provide

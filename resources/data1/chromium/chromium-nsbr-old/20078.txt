@@ -1,0 +1,1 @@
+<title>Issue 20078 -   chromium -    Opening PDFs crashes when nppdf32.dll is missing - Project Hosting on Google Code</title>   1. Install Chrome and Acrobat Reader  2. Delete all instances of nppdf32.dll (in Adobe and Firefox dirs)  3. Open a PDF URL      -&gt; Chrome downloads the PDF file      -&gt; Crash    <b>Please provide

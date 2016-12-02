@@ -1,0 +1,1 @@
+<title>Issue 31673 -   chromium -    L10N: TitleCase Clear Browser History - Project Hosting on Google Code</title> <pre> Dialog isn't in titlecase </pre>

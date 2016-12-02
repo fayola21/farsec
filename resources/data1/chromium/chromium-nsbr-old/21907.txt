@@ -1,0 +1,1 @@
+<title>Issue 21907 -   chromium -    [REGRESSION] Popup doesn't show up - Project Hosting on Google Code</title>   1. Go to <a href="http://robozzle.com/">http://robozzle.com/</a> (it requires Silverlight!)  2. Click on &quot;Forum&quot;  &quot;Wiki&quot; or &quot;Chat&quot; from the top horizontal menu      The popup blocker should show up      Nothing    <b>Please provide

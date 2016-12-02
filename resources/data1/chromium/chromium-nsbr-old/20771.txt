@@ -1,0 +1,1 @@
+<title>Issue 20771 -   chromium -    Chrome not listed on &quot;Browse Happy&quot; - Project Hosting on Google Code</title> <pre> Why is Chrome not listed on  <a href="http://browsehappy.com/browsers/">http://browsehappy.com/browsers/</a>  ? </pre>

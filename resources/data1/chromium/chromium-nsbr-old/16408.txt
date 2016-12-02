@@ -1,0 +1,1 @@
+<title>Issue 16408 -   chromium -    Chrome close tabs bug (chrome version in description fixed) - Project Hosting on Google Code</title>   Sometimes  if you iniicar the browser is open tabs quickly and by the   command CTRL T  Google Chrome closes some tabs      Doesn't close tabs          <b>Please provide

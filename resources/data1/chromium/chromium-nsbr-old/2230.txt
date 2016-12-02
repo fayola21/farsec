@@ -1,0 +1,1 @@
+<title>Issue 2230 -   chromium -    Failed to search the content  in textarea. - Project Hosting on Google Code</title>   1. Open any page which is having some text in textarea.  2. Use CTRL+f to search some string which presents in textarea.   3. Ex: while editing blog posts  i am unable to find the errors in blog   posts.                Please provide

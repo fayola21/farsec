@@ -1,0 +1,1 @@
+<title>Issue 13443 -   chromium -    Shift+Ctrl+Tab should cycle tabs backwards - Project Hosting on Google Code</title>   1. Open at least two tabs  2. Ctrl+Tab cycles forward  3. Shift+Ctrl+Tab doesn't cycle backwards                <b>Please provide

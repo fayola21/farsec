@@ -1,0 +1,1 @@
+<title>Issue 15917 -   chromium -    Chrome can't display mht pages - Project Hosting on Google Code</title>   1. Find a mht file on the internet (or create one by using IE)  2. Try to open this compressed html page with Chrome      To open the page      It shows a save-as dialog    <b>Please provide

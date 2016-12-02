@@ -1,0 +1,1 @@
+<title>Issue 26262 -   chromium -    Extension message port cleanup - Project Hosting on Google Code</title> <pre> The PortData map in renderer_extension_bindings.cc doesn't ever remove dead   ports. We should fix that.    Also  we should check in PostMessage whether the port has been disconnected. </pre>

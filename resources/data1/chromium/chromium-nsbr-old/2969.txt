@@ -1,0 +1,1 @@
+<title>Issue 2969 -   chromium -    LayoutTests/fast/canvas/shadow-offset-7.html layout test fails - Project Hosting on Google Code</title> <pre> These tests say there should be no red  but we render only red. It is   supposed to be green.    Additionally  our sizes are slightly different which is why the simplified   diff fails. This is probably OK. </pre>

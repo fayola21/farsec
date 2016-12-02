@@ -1,0 +1,1 @@
+<title>Issue 19075 -   chromium -    Thumbnail URLs - Project Hosting on Google Code</title>   1. Go to NNTP  2. Right-click a thumbnail        Same drop-down appears as any other image      Treated as just a link    <b>Please provide

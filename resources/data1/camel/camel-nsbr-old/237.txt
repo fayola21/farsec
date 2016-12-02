@@ -1,0 +1,1 @@
+Upgrade geronimo-specs version to 1.1    from 1.0   

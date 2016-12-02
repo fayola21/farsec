@@ -1,0 +1,1 @@
+<title>Issue 37513 -   chromium -    Other Bookmarks menu not working - Project Hosting on Google Code</title>   1. Upgrade to version noted above.  2. Click on &quot;Other Bookmarks&quot; menu located in the address bar.  3. See attached screen shot for resulting view.                <b>Please provide

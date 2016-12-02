@@ -1,0 +1,1 @@
+<title>Issue 20188 -   chromium -    Flakiness dashboard should display hand cursor over builder names - Project Hosting on Google Code</title> <pre> The builder names atop the flakiness dashboard are clickable but don't look   like it because when hovered you get the i-beam cursor. </pre>

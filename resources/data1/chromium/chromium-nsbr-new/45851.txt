@@ -1,0 +1,1 @@
+<title>Issue 45851 -   chromium -    no show of a password-saving option on &quot;GW AH&quot; - Project Hosting on Google Code</title>   1. load the website  2. try to login (above left)      There should be appear a bar in Chrome with the option to save the   password. This does not happen.      nothing    <b>Please provide

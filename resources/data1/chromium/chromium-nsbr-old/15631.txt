@@ -1,0 +1,1 @@
+<title>Issue 15631 -   chromium -    title bar context menu text wrong - Project Hosting on Google Code</title> <pre> on a build from friday  the context menu for the titlebar no longer has the   entry for toggling the custom frame. Instead it says &quot;set as default&quot; with a   checkbox; toggling this toggles the custom frame. </pre>

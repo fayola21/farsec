@@ -1,0 +1,1 @@
+<title>Issue 19699 -   chromium -    Sync flag causes DNS error - Project Hosting on Google Code</title> <pre> 4.0.201.1  Changed shortcut to &quot;C:Documents and Settings****Local   SettingsApplication DataGoogleChromeApplicationchrome.exe&quot; ��_��_��_��_��_��_enable-sync  On startup Chrome attempts to open http://xn--enable-sync-lg3fa/ and reports   a DNS error   </pre>

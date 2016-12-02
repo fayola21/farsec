@@ -1,0 +1,1 @@
+<title>Issue 33850 -   chromium -    Clearing browser data resets extension settings - Project Hosting on Google Code</title> <pre> A user may want to clear data for privacy but does not want to clear   extension settings.    Extension settings/cookies should be excluded from general cookies clearing </pre>

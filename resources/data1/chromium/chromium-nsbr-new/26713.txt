@@ -1,0 +1,1 @@
+<title>Issue 26713 -   chromium -    Add ability to manage local storage  appcache  database (delete  quota  ...) - Project Hosting on Google Code</title> <pre> Need to manage new HTML5 storage APIs similar to how we manage cookies. </pre>

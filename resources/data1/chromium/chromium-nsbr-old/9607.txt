@@ -1,0 +1,1 @@
+<title>Issue 9607 -   chromium -    New Downloads page should show the remaining time left for download. - Project Hosting on Google Code</title>   1. Download a large file  2. Open Download Tab (Ctrl-J)  3. Look for time remaining on download(s)      See time remaining for each in-progress download      Doesn't show remaining time    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17250 -   chromium -    Toolstrips should allow re-ordering of extensions - Project Hosting on Google Code</title> <pre> Now that I have a couple of extensions using toolstrips  I'd like to be able   to drag them around to reorder similar to browser tabs.    Right now I think they just appear in the toolstrip in order of installation? </pre>

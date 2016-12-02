@@ -1,0 +1,1 @@
+<title>Issue 22319 -   chromium -    Quicktime Plugin not loading on Snow Leopard - Project Hosting on Google Code</title>   1. Navigate to a webpage that requires quicktime plugin  2. Quicktime fails to load        Quicktime plugin should run  displaying the video.        no plugin is loaded. videos fail to play    <b>Please provide

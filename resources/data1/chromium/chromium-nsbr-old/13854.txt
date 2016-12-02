@@ -1,0 +1,1 @@
+<title>Issue 13854 -   chromium -    Crashing when attaching images - Project Hosting on Google Code</title>   1.trying to post images on a website forum  2.trying to see what version is installed  3.clicking on help in tool menu  That's what I've tried so far              <b>Please provide

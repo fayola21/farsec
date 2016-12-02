@@ -1,0 +1,1 @@
+<title>Issue 38669 -   chromium -    Glitch - Project Hosting on Google Code</title>   1. Open Chrome  2. ???  3. Profit!      There's no shadow to the right above the URL bar.      There is.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11047 -   chromium -    Canoe web site always crashes - Project Hosting on Google Code</title>   1. Enter the following URL: <a href="http://fr.canoe.ca/">http://fr.canoe.ca/</a>  2. Wait for the web site to load.        The web site should be accessible.      The web site partially loads and crash during loading.    <b>Please provide

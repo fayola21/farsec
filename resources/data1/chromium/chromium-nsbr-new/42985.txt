@@ -1,0 +1,1 @@
+<title>Issue 42985 -   chromium -    We should publish debugging symbols for official Linux builds - Project Hosting on Google Code</title> <pre> We have windows symbols available through here:   <a href="http://build.chromium.org/buildbot/symsrv/">http://build.chromium.org/buildbot/symsrv/</a>  but nothing equivalent for   official Linux builds. </pre>

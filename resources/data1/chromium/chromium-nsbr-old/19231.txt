@@ -1,0 +1,1 @@
+<title>Issue 19231 -   chromium -    font kerning problem while printing - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.6 (Official Build 22526)       Print any page       Page printed without kerning problems :)       Wrong kerning for some letters.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40936 -   chromium -    the new omnibox of  5.0.371.0 is worse - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.371.0 (Official Build 43900) dev       </pre>

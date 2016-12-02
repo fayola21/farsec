@@ -1,0 +1,1 @@
+<title>Issue 41072 -   chromium -    Drag and drop in bookmark manager don't work - Project Hosting on Google Code</title> <pre> I wanted to sort bookmark but it is not possible to arrange for the drag /   drop does not work     </pre>

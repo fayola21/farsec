@@ -1,0 +1,1 @@
+<title>Issue 25246 -   chromium -    Input source doesn't change - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.5 (29425)    OS version               : 10.5.6            1. Launch Chrome  2. Focus on it  3. Press Cmd+Space      Input Source must change      Nothing </pre>

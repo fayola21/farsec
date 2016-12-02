@@ -1,0 +1,1 @@
+<title>Issue 6638 -   chromium -    Visible error on a website; gone when double clicking; again error on reload - Project Hosting on Google Code</title>   1. Open the website  and view the blue and green vertical bars on the right      The bars needs to be non interrupted bar      The bars are interrupted    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 5312 -   chromium -    &lt;space&gt; should scroll by page when content area has focus - Project Hosting on Google Code</title> <pre> IE  Firefox  Safari all support this.  In Chromium it does nothing (maybe   we need to translate it as an accelerator before handing it to WebKit or   something?). </pre>

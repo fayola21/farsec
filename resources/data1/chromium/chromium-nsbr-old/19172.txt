@@ -1,0 +1,1 @@
+<title>Issue 19172 -   chromium -    Mac: shows &quot;Email Page Location&quot; where &quot;Print...&quot; should be in File menu - Project Hosting on Google Code</title> <pre> Chrome Version       : 198.0 (Developer Build 22917)    Summary says it all. Simple nib/xib fix  coming. </pre>

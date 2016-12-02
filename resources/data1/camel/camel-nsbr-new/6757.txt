@@ -1,0 +1,1 @@
+scp task does not respect StrictHostKeyChecking option    The SCP component does not currently do anything with the StrictHostKeyChecking option  as documented. The attached patch fixes this (no test case I'm afraid).   

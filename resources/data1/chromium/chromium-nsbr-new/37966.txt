@@ -1,0 +1,1 @@
+<title>Issue 37966 -   chromium -    Other bookmarks translation in latvian - Project Hosting on Google Code</title> <pre> [Latvian]    [All versions]    [Windows 7 32-bit]    [Other bookmarks translation is Citas gr��_matz��_��_mes (not Citas grmatzmes)]       </pre>

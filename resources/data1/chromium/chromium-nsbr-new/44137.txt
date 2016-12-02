@@ -1,0 +1,1 @@
+<title>Issue 44137 -   chromium -    Video not playing  no sound - Project Hosting on Google Code</title>   1. Hit play.  Looks like it's loading the video  plays the first bit but   doesn't play the entire video.  Can scroll through the video  but can't get   it to play all the way through.  No sound.          Video plays.      It doesn't.    <b>Please provide

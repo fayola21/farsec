@@ -1,0 +1,1 @@
+<title>Issue 25009 -   chromium -    New tab page should have an option to &quot;hide all&quot; UI elements - Project Hosting on Google Code</title> <pre> New tab page should have an option to &quot;hide all&quot; UI elements    I'd really like to have a new tab page that just shows the theme and nothing   else. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37458 -   chromium -    Chrome crashes starting Gears - Project Hosting on Google Code</title>     1. Browse to <a href="https://mail.google.com/mail/#inbox">https://mail.google.com/mail/#inbox</a> with offline gmail enabled        Gmail screen appears          Chrome crashes    <b>Please provide

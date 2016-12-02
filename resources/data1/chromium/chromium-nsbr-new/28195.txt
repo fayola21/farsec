@@ -1,0 +1,1 @@
+<title>Issue 28195 -   chromium -    Chrome installer crashes on Windows with &quot;error 0xffffffff&quot; - Project Hosting on Google Code</title> <pre> See attached screenshot.  This error is 100% reproducible on this computer    with the current  publicly released version of Chrome. </pre>

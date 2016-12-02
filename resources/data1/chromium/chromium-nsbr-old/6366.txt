@@ -1,0 +1,1 @@
+<title>Issue 6366 -   chromium -    New window in profile is not translated well - Project Hosting on Google Code</title> <pre>   Dutch    2.0.156.1    Windows Vista Home Premium    New window in profile  .../Default  .../&lt;New profile&gt; and all dialogs after it     </pre>

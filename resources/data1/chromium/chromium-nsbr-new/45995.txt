@@ -1,0 +1,1 @@
+<title>Issue 45995 -   chromium -    Closing a inactive pinned tab doesn't give any visual feedback to the user - Project Hosting on Google Code</title>   1.Pin a couple of tabs in a window  2.Right-click on an inactive pinned tab  3.Choose 'close tab'      As the tab goes to phantom state  only its favicon should remain visible.       Apparently nothing.     <b>Please provide

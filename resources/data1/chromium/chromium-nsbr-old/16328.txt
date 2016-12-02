@@ -1,0 +1,1 @@
+<title>Issue 16328 -   chromium -    No ability to move multiple tabs - Project Hosting on Google Code</title>   1. If you want to move multiple tabs into or out of a window you can't.          <b>Please provide

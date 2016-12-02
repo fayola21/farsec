@@ -1,0 +1,1 @@
+<title>Issue 7378 -   chromium -    Sandbox registry tests failing on Windows 7. - Project Hosting on Google Code</title> <pre> I haven't looked into what's failing  but the registry integration tests   fail at least on Windows 7 64-bit.   </pre>

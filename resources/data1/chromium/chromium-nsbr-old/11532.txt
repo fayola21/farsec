@@ -1,0 +1,1 @@
+<title>Issue 11532 -   chromium -    web inspector doesn't work - shows about:blank - Project Hosting on Google Code</title> <pre> On the tip of tree  the web inspector is currently just showing about:blank   when you bring it up.    This is blocking extension development work.   </pre>

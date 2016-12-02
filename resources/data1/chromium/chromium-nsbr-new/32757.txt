@@ -1,0 +1,1 @@
+<title>Issue 32757 -   chromium -    Implement PulseAudio backend - Project Hosting on Google Code</title> <pre> It'd be nifty to see if we can code directly to PulseAudio's API instead of   ALSA.    Not sure what the benefits would be  but we'll leave that up to the owner of   this bug :) </pre>

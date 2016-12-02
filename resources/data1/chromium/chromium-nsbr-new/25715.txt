@@ -1,0 +1,1 @@
+<title>Issue 25715 -   chromium -    Text doesn't appear in right way in some menus - Project Hosting on Google Code</title>   1. Go in Options  2. About Chrome  3. You'll see the text in a very bad way        YOu should see the text in a right way          <b>Please provide

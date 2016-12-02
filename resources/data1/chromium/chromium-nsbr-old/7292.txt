@@ -1,0 +1,1 @@
+<title>Issue 7292 -   chromium -    Divs act odd in chrome 2.0 compared to chrome 1.0 - Project Hosting on Google Code</title>   1. Load site  2. Look at the Divs the lines are odd  3. Scrolling does other things to them and selecting it  4. Chrome 1.0 is fine.                Please provide

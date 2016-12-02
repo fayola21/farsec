@@ -1,0 +1,1 @@
+<title>Issue 27025 -   chromium -    Bookmark Issue - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.237.0            When i press on of my bookmark tab's   the chrome open another tab and collapse.    True Fan   thanks. </pre>

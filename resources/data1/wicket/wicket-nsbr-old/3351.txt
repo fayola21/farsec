@@ -1,0 +1,1 @@
+Add class for span with text in wicket-extensions/treetable    Could you  please  add class 'text' for a span with wicket:id='label' to markup in wicket-extensions/org/apache/wicket/extensions/markup/html/tree/table/TreeTable.html as it is done in wicket-extension/org/apache/wicket/extensions/markup/html/tree/table/TreeTable$TreeFragment.html   

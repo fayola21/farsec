@@ -1,0 +1,1 @@
+<title>Issue 5142 -   chromium -    BSOD after sleep - Project Hosting on Google Code</title>   1. Leave Chrome open  2. Put pc to sleep  3. Click key to return from sleep      To be able to use the pc again.      BSOD    Please provide

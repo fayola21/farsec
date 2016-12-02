@@ -1,0 +1,1 @@
+Assessing blob (when its linked to DVD stream  ie large blob) corrupts stream fetched prior to this access.       

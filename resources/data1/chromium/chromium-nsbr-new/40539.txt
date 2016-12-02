@@ -1,0 +1,1 @@
+<title>Issue 40539 -   chromium -    Hitting spacebar when a flash element is focused causes the page to scroll down - Project Hosting on Google Code</title>   1. Go to page with a flash  2. Click on the flash element to give it focus  3. Click the spacebar      Spacebar event is sent to flash      Spacebar event is sent to flash and the page scrolls down.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6940 -   chromium -    Google Chrome can't read proxy configuration unless Internet Explorer is open - Project Hosting on Google Code</title>   1. Close all instances of Internet Explorer  if any are open.  2. Try to load a page in Chrome.      The page should load.      The page doesn't load. Chrome says it can't reach the site.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 558 -   chromium -    Middle scroll wheel only works down - Project Hosting on Google Code</title>   1. Load any web page that is larger than 1 display page  2. Try to use the middle scroll mouse wheel  3. Page scrolls down very quickly but will *NOT* scroll back up with wheel.  Must use arrow keys or scroll bar on right                Please provide

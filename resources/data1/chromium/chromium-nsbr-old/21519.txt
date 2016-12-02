@@ -1,0 +1,1 @@
+<title>Issue 21519 -   chromium -    Auto link BUG in CL description when committing with GCL/GIT - Project Hosting on Google Code</title> <pre> When adding BUG=123 autolink it so it will read <a href="http://crbug.com/123">http://crbug.com/123</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41677 -   chromium -    shortcut for page&gt;developer&gt;javascript-console takes you to history instead - Project Hosting on Google Code</title> <pre> go to PageMenu&gt;Developer&gt;Javascript_Console and notice that the shortcut is   ctrl-shift-J    attempting to press ctrl-shift-J opens browser history  not the javascript   console </pre>

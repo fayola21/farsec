@@ -1,0 +1,1 @@
+RequestLogger doesn't dump its collected data at the end of the request    From an email in users@:Enabling with getRequestLoggerSettings().setRequestLoggerEnabled(true) doesnt show any requests.Seems that the Application.logEventTarget and Application.logResponseTarget are never invoked at all from the wicket-core nevertheless the get overridden in WebApplication???   

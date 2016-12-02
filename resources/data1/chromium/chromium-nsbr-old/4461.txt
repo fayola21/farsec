@@ -1,0 +1,1 @@
+<title>Issue 4461 -   chromium -    Broken Russian text encoding - Project Hosting on Google Code</title>   1. Go to the URL  2. Set your input language to Russian  3. Go to the _��__��__ _____���__��_��_: box and try to input text      Text should be input without a problem      Garbled text is shown    Please provide

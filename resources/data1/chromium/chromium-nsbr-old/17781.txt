@@ -1,0 +1,1 @@
+<title>Issue 17781 -   chromium -    Behavior different with firefox  the auto page script not works. - Project Hosting on Google Code</title>   1.open the url   2.page down a  little.   3. double click the page      In other broswer  the page will slowly page down.         In chrome linux  the page will to the top.    <b>Please provide

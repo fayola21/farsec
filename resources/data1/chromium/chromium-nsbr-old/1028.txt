@@ -1,0 +1,1 @@
+<title>Issue 1028 -   chromium -    Do not stop downloads when closing the corresponding tab/window - Project Hosting on Google Code</title>   1. Download any file  2. Close Chrome during download      Confirmation  download pause or download continues in background.      Download is canceled and no way to resume download.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34427 -   chromium -    error - Project Hosting on Google Code</title> <pre> error &quot;no_modification_allowed_err: dom exception 7&quot; appear when We using   www.allegro.pl auction servis (edit description ) the same error appear in   Safari in the same situation.  </pre>

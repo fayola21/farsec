@@ -1,0 +1,1 @@
+<title>Issue 24535 -   chromium -    Video doesn't play on france2 website (http://jt.france2.fr/20h/) - Project Hosting on Google Code</title>   1. Open URL        What is the expected result? Video should play      What happens instead? Video doesn't play  link &quot;voir la video&quot; visible   instead      <b>Please provide

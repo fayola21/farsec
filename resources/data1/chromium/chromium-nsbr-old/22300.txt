@@ -1,0 +1,1 @@
+<title>Issue 22300 -   chromium -    Chrome crashes with the --enable-sync option - Project Hosting on Google Code</title>   1. Add --enable-sync extention to Chrome shortcut  2. Double click the shortcut        Chrome opens.        Chrome crashes.    <b>Please provide

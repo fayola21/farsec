@@ -1,0 +1,1 @@
+<title>Issue 3227 -   chromium -    Avast! Anti-Virus reports Google Chrome as Trojan - Project Hosting on Google Code</title>   1. Install Avast! Antivirus software (Reported with both 4.8 PRO and free  version of Avast!)  2. Download Google Chrome.  3. Run the installer.      Google Chrome installs      Avast! warns Google Chrome contains Trojan.    Please provide

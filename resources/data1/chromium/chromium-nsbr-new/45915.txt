@@ -1,0 +1,1 @@
+<title>Issue 45915 -   chromium -    Cant able to translate in tamil - Project Hosting on Google Code</title> <pre> Windows Xp    We cant able to translate passage from tamil to any other languages  and also from  any other languages to tamil    please provide that application as soon as possible     </pre>

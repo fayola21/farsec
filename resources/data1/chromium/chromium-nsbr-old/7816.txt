@@ -1,0 +1,1 @@
+<title>Issue 7816 -   chromium -    WYSIWYG Forum Editor doesn't work in Chrome/WebKit - Project Hosting on Google Code</title>   1. Create a new post  2. Ensure Forums WYSIWYG Editor is turned on.  3. Try to create a post with two lines of text. ie:  test  test      Post is created as:  test  test        Post is created as   testtest    Please provide

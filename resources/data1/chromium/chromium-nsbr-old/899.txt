@@ -1,0 +1,1 @@
+<title>Issue 899 -   chromium -    RSS Feeds wont work - Project Hosting on Google Code</title>   1. Get onto a website  2. try to subscribe to an RSS feed.  3. all you get is a line of text and code of the RSS feed        To see some sort of feed format    you get lines of code    Please provide

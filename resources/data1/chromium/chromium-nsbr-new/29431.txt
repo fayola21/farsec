@@ -1,0 +1,1 @@
+<title>Issue 29431 -   chromium -    Bookmarks don't have the same width that History items have. - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.264.0 (33829)  OS version               : 10.6.2    The problem is that the bookmarks menu appears to have a limited width.   That limit seems to be missing in the history menu.    See images attached. </pre>

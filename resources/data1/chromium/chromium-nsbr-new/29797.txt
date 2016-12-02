@@ -1,0 +1,1 @@
+<title>Issue 29797 -   chromium -    bookmark sync text in options window could wrap better - Project Hosting on Google Code</title> <pre> currently it wraps at the gtklabel's default width </pre>

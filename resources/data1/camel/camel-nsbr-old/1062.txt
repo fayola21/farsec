@@ -1,0 +1,1 @@
+PipelineConcurrentTest.java fails randomly    The test fails with an IllegalStateException: Queue full. I believe the reason for this is that there are 10000 messages sent  but the default queue size is 1000. On a fast machine  the queue fills up before the consumer gets a chance to pop the messages from the queue.   

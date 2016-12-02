@@ -1,0 +1,1 @@
+<title>Issue 22657 -   chromium -    The new Chrome version has a really bad memory leak - at least on my machine - running Vista Premium x64. Chrome eats up all of my 9 GB of RAM in less than 2 min. - Project Hosting on Google Code</title>                     <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20351 -   chromium -    Pause for &lt;video&gt; and &lt;audio&gt; has some lag - Project Hosting on Google Code</title> <pre> Play a video or audio file. Pause while playing  you can still hear the sound   goes forward a bit.   </pre>

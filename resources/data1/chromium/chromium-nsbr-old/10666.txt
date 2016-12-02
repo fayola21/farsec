@@ -1,0 +1,1 @@
+<title>Issue 10666 -   chromium -    Select arrow clipping layout test failing on Linux - Project Hosting on Google Code</title> <pre> The following layout test is failing on Linux:    // Linux pixel tests: the select arrow is clipping wrong on one line.  LINUX : chrome/fast/forms/basic_selects.html = FAIL    (This is line 1172 of the test_expectations.txt file </pre>

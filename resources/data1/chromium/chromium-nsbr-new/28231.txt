@@ -1,0 +1,1 @@
+<title>Issue 28231 -   chromium -    Feature Request: Paste primary selection on Ctrl+Shift+Insert - Project Hosting on Google Code</title> <pre> Can we add a Linux-specific shortcut key Ctrl+Shift+Insert to paste the   contents of primary selection clipboard?  (This shortcut key is already used   by Konsole for the same purpose.) </pre>

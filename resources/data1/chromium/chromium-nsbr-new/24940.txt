@@ -1,0 +1,1 @@
+<title>Issue 24940 -   chromium -    History Import Failure - Project Hosting on Google Code</title>   1. First time opening chrome  2. Using the preferences panel to import the history          It will import history from Mozilla Firefox        Chrome crashes    <b>Please provide

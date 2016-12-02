@@ -1,0 +1,1 @@
+<title>Issue 27783 -   chromium -    Allow tabstrip to run multiple concurrent animations - Project Hosting on Google Code</title> <pre> The tabstrip currently only supports running one animation at a time. It   should support running multiple  for improved aesthetics. </pre>

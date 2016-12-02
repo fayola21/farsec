@@ -1,0 +1,1 @@
+<title>Issue 3418 -   chromium -    Change pver from 2.1 to 2.2 for SafeBrowsing - Project Hosting on Google Code</title> <pre> For SafeBrowsing  to get the performance improvements with 0 size chunks   allowed  we need to change pver from 2.1 to 2.2 in the update URL.   </pre>

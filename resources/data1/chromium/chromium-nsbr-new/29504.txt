@@ -1,0 +1,1 @@
+<title>Issue 29504 -   chromium -    Screen corruption (black squares  distortion) since r33865 - Project Hosting on Google Code</title>   1. Install a revision including or after 33865  2. Visit the issue tracker list  3. See screen corruption as attached      Fine rendering      See attached screenshot    <b>Please provide

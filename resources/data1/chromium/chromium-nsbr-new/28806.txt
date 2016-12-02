@@ -1,0 +1,1 @@
+<title>Issue 28806 -   chromium -    dragging a tab to top of screen doesn't maximize window - Project Hosting on Google Code</title>   1. Drag a tab towards the top of the screen          The window should maximize  Not sure if we are implementing this is Linux as it works in Windows.      Nothing    <b>Please provide

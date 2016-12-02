@@ -1,0 +1,1 @@
+<title>Issue 24221 -   chromium -    REGRESSION: chromium crashes when opening a new tab with Ctrl+T - Project Hosting on Google Code</title>     1. open chromium  2. open a new tab by Ctrl+T  3. browser crashes        Open a new tab and not crash.        The browser opens a new tab  but quickly crashes.     <b>Please provide

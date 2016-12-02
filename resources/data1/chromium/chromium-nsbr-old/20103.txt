@@ -1,0 +1,1 @@
+<title>Issue 20103 -   chromium -    Context menu needs multiple clicks to act... - Project Hosting on Google Code</title>   1. Right click on any link  2. Click on any of the commands in the context menu      The action should be run immediately      The browser ignores my clicks and I usually have to click once more and   more...    <b>Please provide

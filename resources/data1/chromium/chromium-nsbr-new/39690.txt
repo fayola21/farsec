@@ -1,0 +1,1 @@
+<title>Issue 39690 -   chromium -    github search crashes - Project Hosting on Google Code</title>   1. Log into github  2. In the search bar  type in anything  say foo              Tab crashes.    <b>Please provide

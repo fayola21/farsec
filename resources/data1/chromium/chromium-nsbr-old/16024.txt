@@ -1,0 +1,1 @@
+<title>Issue 16024 -   chromium -    Implement multichannel audio support - Project Hosting on Google Code</title> <pre> We currently only support 0  1 or 2-channel audio.    It would be nice to support multichannel audio (i.e.  5.1 surround).    This would involve a pretty big change to the underlying audio interfaces   (/src/media/audio). </pre>

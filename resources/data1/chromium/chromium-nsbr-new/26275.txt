@@ -1,0 +1,1 @@
+<title>Issue 26275 -   chromium -    HTMLDialogUIDelegate needs to return const references instead of values - Project Hosting on Google Code</title> <pre> eg. GetDialogTitle()  GetDialogArgs().    Class is in chrome/browser/dom_ui/html_dialog_ui.h. </pre>

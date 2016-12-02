@@ -1,0 +1,1 @@
+<title>Issue 36173 -   chromium -    Add automation support to get Browser history list - Project Hosting on Google Code</title> <pre> We can automate many back/forward manual testcases  if Browser History List  is exposed. </pre>

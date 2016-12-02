@@ -1,0 +1,1 @@
+Customize the Hadoop metrics sink to write to MySQL store    The SqlServerSink should support pushing metrics to MySQL store.This Jira addresses changes needed to support sink to a MySQL store.   

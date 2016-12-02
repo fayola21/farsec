@@ -1,0 +1,1 @@
+<title>Issue 25604 -   chromium -    Browser crashes when clicking/opneing links in current tab - Project Hosting on Google Code</title>   1. Open Chrome browser  2. Click on any link in active window        URL should open in the current window        Google Chrome crashes every time you try to open a link in the same window.    <b>Please provide

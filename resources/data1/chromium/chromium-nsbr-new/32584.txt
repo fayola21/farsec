@@ -1,0 +1,1 @@
+<title>Issue 32584 -   chromium -    can't zoom into SVG - Project Hosting on Google Code</title>   1. open <a href="http://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">http://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg</a>  2. press ctrl+plus      bigger Tux      bigger Tux  but cropped on the right and bottom.    <b>Please provide

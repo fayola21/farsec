@@ -1,0 +1,1 @@
+<title>Issue 27530 -   chromium -    Some js dropdown menu text not displayed - Project Hosting on Google Code</title>   1. Compose a new mail message  2. Select sender address from dropdown menu  3. See that a blank white box is displayed        The list of &quot;from&quot; addresses should be visible        Menu is blank.    <b>Please provide

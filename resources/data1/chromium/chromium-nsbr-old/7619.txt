@@ -1,0 +1,1 @@
+<title>Issue 7619 -   chromium -    chrome automatically downloads iframed '.txt' files - Project Hosting on Google Code</title>   1. Try to visit a site with iframed .txt (or .java) files      A framed text is embedded.      It automatically download the file.    Please provide

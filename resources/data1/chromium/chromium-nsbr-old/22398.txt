@@ -1,0 +1,1 @@
+<title>Issue 22398 -   chromium -    Aptana.com download fails at 40mb - Project Hosting on Google Code</title>   1. Go to aptana.com  2. Attempt to download 32bit version for linux  3. Fails at 40Mb        Should download just fine...        'Finishes' download at ~40Mb but not complete.      <b>Please provide

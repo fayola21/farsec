@@ -1,0 +1,1 @@
+<title>Issue 12961 -   chromium -    Duplicating inspector doesn't work - Project Hosting on Google Code</title> <pre> Go to any web page and bring up inspector.  Click on the icon on top left and select Duplicate.    Should we duplicate the existing inspector or should we disable this?    Chromium 3.0.183.0 (Developer Build 17187) </pre>

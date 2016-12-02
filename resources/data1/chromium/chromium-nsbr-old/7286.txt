@@ -1,0 +1,1 @@
+<title>Issue 7286 -   chromium -    Mid-click home button - Project Hosting on Google Code</title>   1. Click the homepage button with the middle mouse button.          The homepage opens in a new tab.      The homepage button eats my mouse click.    Please provide

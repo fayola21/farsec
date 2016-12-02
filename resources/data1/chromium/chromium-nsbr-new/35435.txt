@@ -1,0 +1,1 @@
+<title>Issue 35435 -   chromium -    tranlator bar bug - Project Hosting on Google Code</title> <pre> Chrome Version       : CHROMIUM 5.0.322.0	38464    Sobre scheme=&quot;file://&quot;  Ao clicar rapidamente em recarregar pagina  a barra de tradu��__��_��_o vai   acumulando... </pre>

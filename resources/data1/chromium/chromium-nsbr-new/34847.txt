@@ -1,0 +1,1 @@
+<title>Issue 34847 -   chromium -    Chrome displays differently than Safari - Project Hosting on Google Code</title>   1. View the above site          The page displays as expected in all browsers except Chrome. Look at the   left side menu      The menu on the left side is pushed out of the container    <b>Please provide

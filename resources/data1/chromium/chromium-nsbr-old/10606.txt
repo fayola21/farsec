@@ -1,0 +1,1 @@
+<title>Issue 10606 -   chromium -    Multi Row Bookmarks Bar - Project Hosting on Google Code</title> <pre> You definitely need to work on creating this ability for Chrome. Other than   that I love what I see! </pre>

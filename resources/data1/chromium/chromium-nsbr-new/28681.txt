@@ -1,0 +1,1 @@
+<title>Issue 28681 -   chromium -    jump list does appear in Windows Server 2008 R2 - Project Hosting on Google Code</title>   1. Right click on taskbar icon          Customized jump list appears as in Windows 7      Default &quot;recent&quot; list appears    <b>Please provide

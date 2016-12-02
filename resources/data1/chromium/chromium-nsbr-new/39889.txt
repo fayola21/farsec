@@ -1,0 +1,1 @@
+<title>Issue 39889 -   chromium -    World icon too small - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.366.0 (Developer Build 43098) // LINUX      1. compare the &quot;world&quot; icon to other icons (like the location icon)      Icons should be same size and &quot;line up&quot; nicely      The &quot;world&quot; icon is one pixel too small   </pre>

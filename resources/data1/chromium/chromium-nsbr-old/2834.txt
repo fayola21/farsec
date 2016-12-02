@@ -1,0 +1,1 @@
+<title>Issue 2834 -   chromium -    Capitalization issue on &quot;Reset to defaults&quot; dialog - Project Hosting on Google Code</title> <pre> See &lt;b1207627&gt;    For some reason  &quot;Reset&quot; is capitalized in the body of the dialog that  appears when you click the &quot;Reset to defaults&quot; button on the options dialog.       </pre>

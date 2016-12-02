@@ -1,0 +1,1 @@
+jaxb prettyPrint does not work    Here is the mail thread with discuss about it. http://www.nabble.com/JAXB-pretty-print-marshaling-td24449564.html   

@@ -1,0 +1,1 @@
+<title>Issue 18394 -   chromium -    Google Map in the wrong side. - Project Hosting on Google Code</title>   1.Just browser..          google MAP should be in the right side.      GOOGLE MAP will stay in the top of the leftl    <b>Please provide

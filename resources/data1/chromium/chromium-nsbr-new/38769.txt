@@ -1,0 +1,1 @@
+<title>Issue 38769 -   chromium -    aero peek preview error in incognito mode - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.360.0 (Developer Build 42189)      1. open 2 or more tabs in incognito mode  2. hover over the area peek icons  3. see the real preview isn't ok (see attached file) </pre>

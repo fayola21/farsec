@@ -1,0 +1,1 @@
+<title>Issue 20280 -   chromium -    chromium dereferences NULL pointer  crashes on startup - Project Hosting on Google Code</title>   1. Start chromium.  2. After a few seconds chromium always crashes without any interaction.        chromium should continue running after startup.      chromium always crashes on startup.    <b>Please provide

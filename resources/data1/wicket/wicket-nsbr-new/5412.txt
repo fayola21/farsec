@@ -1,0 +1,1 @@
+Improve 'mvn jetty:run' to behave as Start.java    Merge Pull Request https://github.com/apache/wicket/pull/59 that updates Jetty 9.0.x and improves 'mvn jetty:run' to support HTTPS as Start.java does.   

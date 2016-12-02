@@ -1,0 +1,1 @@
+<title>Issue 33260 -   chromium -    Add sync for exstension - Project Hosting on Google Code</title> <pre> Is it possible to add sync for exstension like for bookmarks. Could be very   usefull after reinstalling the whole system. Also to have the same exstension   on both computers at home and on work PC...   </pre>

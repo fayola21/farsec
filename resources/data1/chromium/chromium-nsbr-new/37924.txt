@@ -1,0 +1,1 @@
+<title>Issue 37924 -   chromium -    Browser actions resizer gripper is uggy - Project Hosting on Google Code</title> <pre> The gripper area for browser actions should either:    - be invisible and just change the cursor on hover or   - look more like the separator between the browser actions area and the page   menu. </pre>

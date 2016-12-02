@@ -1,0 +1,1 @@
+<title>Issue 15504 -   chromium -    Find plugins in system directories - Project Hosting on Google Code</title> <pre> We only find directories in plugins/ next to the build dirs.    We should instead match whatever Firefox does for finding plugins.    (Filing so I don't forget  ping me if you need pointers to code.) </pre>

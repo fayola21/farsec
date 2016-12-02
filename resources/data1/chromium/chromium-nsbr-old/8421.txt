@@ -1,0 +1,1 @@
+<title>Issue 8421 -   chromium -    The options Standard and HTML are not showing up due to Evangelism - Project Hosting on Google Code</title>   1. Try to list an item for sale in eBay  2. The page where the item description should be entered generates only full HTML code  not the   easy-interface which works in other browsers.                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9780 -   chromium -    Using the menu to print when displaying a full page plugin should send the command somehow to the plugin - Project Hosting on Google Code</title> <pre>   1. Load a PDF in Acrobat reader / Foxit reader  2. Use the Chromium menu to print.      Prints nothing. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26687 -   chromium -    Options to present more thumbs in the main thumbnail view - Project Hosting on Google Code</title> <pre> I have a big screen and would like to see more than 8 thumbnails in the main   startup screen of the application. </pre>

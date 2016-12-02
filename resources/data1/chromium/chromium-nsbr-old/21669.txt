@@ -1,0 +1,1 @@
+<title>Issue 21669 -   chromium -    Could not use middle key on &quot;back&quot; and &quot;forward&quot; button - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.206.1      One expects that chrome opens a new tab for the previous/next page.      No effect.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44358 -   chromium -    closing tabm  hangs chromium - Project Hosting on Google Code</title>   1. open a new tab  2. click on the cross to close it      tab to close      browser hangs    <b>Please provide

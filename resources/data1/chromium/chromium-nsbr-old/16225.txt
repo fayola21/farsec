@@ -1,0 +1,1 @@
+<title>Issue 16225 -   chromium -    Video should work with canvas drawImage - Project Hosting on Google Code</title> <pre> As per HTML5  a &lt;video&gt; is an acceptable argument for &lt;canvas&gt; drawImage() </pre>

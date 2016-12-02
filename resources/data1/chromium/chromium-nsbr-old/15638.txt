@@ -1,0 +1,1 @@
+<title>Issue 15638 -   chromium -    Right click &quot;Save As&quot; does not work for Mac Chrome - Project Hosting on Google Code</title> <pre>   1. Open an incognito window using Mac Chrome  2. Right click on an image and choose save as  3. Notice that no &quot;Save As&quot; dialog appears.     </pre>

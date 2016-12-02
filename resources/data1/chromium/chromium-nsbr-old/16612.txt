@@ -1,0 +1,1 @@
+<title>Issue 16612 -   chromium -    DevTools: Implement breakpoints window - Project Hosting on Google Code</title> <pre> There should be a breakpoint window where I can see all the  breakpoints  and a keyboard binding (Ctrl+Shift+F9) to delete them all  even if the breakpoint window isn't focused. </pre>

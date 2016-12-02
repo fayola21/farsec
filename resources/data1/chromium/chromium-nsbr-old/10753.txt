@@ -1,0 +1,1 @@
+<title>Issue 10753 -   chromium -    Cannot view credit card statement on Capital One website - Project Hosting on Google Code</title>   1.go to website  login  2.click on statements  3.choose appropriate statement and click submit      Another windows should pop up with the requested information      The browser refreshes the page and then nothing happens     <b>Please provide

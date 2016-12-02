@@ -1,0 +1,1 @@
+<title>Issue 26346 -   chromium -    Form repost warning dialog box should be a constrained dialog - Project Hosting on Google Code</title> <pre> The form repost warning dialog box is only waiting for a network request  and   as such it should be a tab-modal sheet not a window modal dialog box. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41281 -   chromium -    Default offline page for extent - Project Hosting on Google Code</title> <pre> For apps  provide a nice looking default offline page using their name and icon.    This should trigger whenever we would normally show a connection error page  and the URL   we're trying to load matches an extension's extent. </pre>

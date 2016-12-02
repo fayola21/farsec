@@ -1,0 +1,1 @@
+<title>Issue 22741 -   chromium -    Sticky droplists - Project Hosting on Google Code</title>   1. Change any for the drop lists            New Value is selected and the droplist will retract        New Value is selected but droplist remains open. Droplist can be closed by   clicking anywhere on the page      <b>Please provide

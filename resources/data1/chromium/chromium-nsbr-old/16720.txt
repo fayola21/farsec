@@ -1,0 +1,1 @@
+<title>Issue 16720 -   chromium -    --load-extension should imply --enable-extensions - Project Hosting on Google Code</title> <pre> It's a common mistake to forget --enable-extensions. </pre>

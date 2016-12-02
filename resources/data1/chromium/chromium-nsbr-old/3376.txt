@@ -1,0 +1,1 @@
+<title>Issue 3376 -   chromium -    Use system title bar font for the title bar of app windows - Project Hosting on Google Code</title> <pre> We should use the normal system title bar font for the title text in app   windows. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13065 -   chromium -    Live Search search provider needs to be changed to Bing (US only) - Project Hosting on Google Code</title>   1. Open Options  2. Try to set default search provider to Bing      Option for Bing instead of Live Search      There's only an option for Live Search    <b>Please provide

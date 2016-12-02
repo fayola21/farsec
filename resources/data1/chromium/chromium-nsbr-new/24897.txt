@@ -1,0 +1,1 @@
+<title>Issue 24897 -   chromium -    Window size can not be adjusted in KDE 3 - Project Hosting on Google Code</title>   1. In Googuntu  if you open Chrome for Linux  window is maximized by default    we can not adjust its size  but we can close the window  minimize it or   maximize it.                    <b>Please provide

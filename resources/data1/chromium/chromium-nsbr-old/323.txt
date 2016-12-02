@@ -1,0 +1,1 @@
+<title>Issue 323 -   chromium -    volume control in pandora - Project Hosting on Google Code</title>   1. Open up your pandora.com radio station  2. Adjust the manual volume knob on keyboard  3. In Firefox  this controlls the volume slider in Pandora. In Chrome  the   volume control controls the computer's main volume (Windows XP)                 Please provide

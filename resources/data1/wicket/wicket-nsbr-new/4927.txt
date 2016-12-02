@@ -1,0 +1,1 @@
+Header can not be set from IRequestCycleListener#onEndRequest()    Due to HeaderBufferingWebResponse a header can no longer be set from IRequestCycleListener#onEndRequest().In 1.4.x this was possible because BufferedWebResponse just passed through all headers to HttpServletResponse.   

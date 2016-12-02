@@ -1,0 +1,1 @@
+<title>Issue 16528 -   chromium -    Submitting a form with target=_blank works only once - Project Hosting on Google Code</title>   1. Create a form with the target=_blank attribute  2. Submit the form  3. Close the new opened tab  4. The form won't submit anymore        form submit    nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6384 -   chromium -    No Action with Hotmail Messages - Project Hosting on Google Code</title>   1. Go to your hotmail account  2. try to click on any message or functions  3. Nothing happens      Should select mail message or function - instead nothing happens    What happens instead? Nothing      Please provide

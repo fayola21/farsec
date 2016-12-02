@@ -1,0 +1,1 @@
+<title>Issue 13675 -   chromium -    Persistent break points - Project Hosting on Google Code</title> <pre> Currently there is no way to create persistent breakpoints surviving loads.    We should implement persistent breakpoints based on some sort of hashing. </pre>

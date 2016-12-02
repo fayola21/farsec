@@ -1,0 +1,1 @@
+<title>Issue 14135 -   chromium -    Add page in bookmarks bar does not work  - Project Hosting on Google Code</title>   1. Enable the bookmarks bar  2. Right-click anywhere on the bookmark bar and select &quot;Add page&quot;       Able to add a page as a bookmark      Nothing.    <b>Please provide

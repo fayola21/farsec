@@ -1,0 +1,1 @@
+<title>Issue 37466 -   chromium -    Form auto-fill should be enabled by default. - Project Hosting on Google Code</title> <pre> Build: 5.0.342.1 and ToT(<a href="/p/chromium/source/detail?r=40643">r40643</a>)    Right now  it is disabled by default.     Please close this  if we changed here intentionally. But I strongly vote  for auto enable. </pre>

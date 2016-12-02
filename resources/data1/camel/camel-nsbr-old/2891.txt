@@ -1,0 +1,1 @@
+URIs for viewing a route as a language clashes with any other possible sub resource for routes (such as status)    rather than: {id}/{lang}we should use something like {id}/lang/{lang}so that it doesn't gobble up: {id}/status or {id}/somethingElse   

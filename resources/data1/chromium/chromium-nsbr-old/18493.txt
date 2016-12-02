@@ -1,0 +1,1 @@
+<title>Issue 18493 -   chromium -    Login not applied to sub-frame documents. - Project Hosting on Google Code</title>   1. Browse to a HTTP-authenticated phpMyAdmin installation.  2. Login.  3. Login again.      The user should expect to only have to enter their login details once.      The user is prompted more than once for login details.    <b>Please provide

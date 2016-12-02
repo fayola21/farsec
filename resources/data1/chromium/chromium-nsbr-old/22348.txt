@@ -1,0 +1,1 @@
+<title>Issue 22348 -   chromium -    Cache problems - Project Hosting on Google Code</title> <pre> Chrome 4.0.212 26451    Problem:  Web sites don't show properly over period of time if using the same sites.    Misc:  Anyway thanks on fixing problems from 209  211 like full screen resize    default browser...   </pre>

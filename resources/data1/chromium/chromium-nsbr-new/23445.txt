@@ -1,0 +1,1 @@
+<title>Issue 23445 -   chromium -    native_scroll_bar_gtk flicker - Project Hosting on Google Code</title> <pre>   1. Build view_examples on linux with GYP_DEFINES=toolkit_views  2. Select Scrollbar tab      scrollbar has flicker effect. Need to investigate why/how this is happening   first.     </pre>

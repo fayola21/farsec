@@ -1,0 +1,1 @@
+<title>Issue 14785 -   chromium -    make build doesn't fall back to copy if hard link fails - Project Hosting on Google Code</title> <pre> I believe with the scons build  every time we need to 'copy' we try to hard  link first  and copy if hard linking fails. With the make build  we only  try to hard link. </pre>

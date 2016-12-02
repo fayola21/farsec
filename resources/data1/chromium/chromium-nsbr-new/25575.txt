@@ -1,0 +1,1 @@
+<title>Issue 25575 -   chromium -    chrome won't tile - Project Hosting on Google Code</title>   1.  open outlook  onenote and chrome  2.right click task bar and click tile horizonally or vertically        open windows will tile      all other windows tile and chrome sits on top without changing it's shape    <b>Please provide

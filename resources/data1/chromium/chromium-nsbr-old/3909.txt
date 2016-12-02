@@ -1,0 +1,1 @@
+<title>Issue 3909 -   chromium -    REGRESSION: Scrollbar behavior no longer sufficiently windows-native - Project Hosting on Google Code</title> <pre> We lost Windows-native snapping behavior as well as the ability to handle   themes with scrollbars whose height and width are not identical.  I need to   fix that stuff upstream. </pre>

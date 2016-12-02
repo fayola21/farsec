@@ -1,0 +1,1 @@
+<title>Issue 45027 -   chromium -    Win7 download status appears in Application shortcut windows - Project Hosting on Google Code</title>   1. Download something inside Chrome while having an application pinned to   the taskbar and currently running.      Download status should only be in Chrome.      It's in both windows.    <b>Please provide

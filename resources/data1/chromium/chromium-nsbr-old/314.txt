@@ -1,0 +1,1 @@
+<title>Issue 314 -   chromium -    No feature to email page link or page to someone - Project Hosting on Google Code</title>   1. I know this is not a bug but should be in the feature list.                     Please provide

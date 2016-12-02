@@ -1,0 +1,1 @@
+<title>Issue 6710 -   chromium -    Ctrl-drag to duplicate tab - Project Hosting on Google Code</title> <pre> A feature request.    Ctrl is well-established in windows as a copying modifier.    Arguably more user-friendly in various ways than dragging the star to the   tabstrip. </pre>

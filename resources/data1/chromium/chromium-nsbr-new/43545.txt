@@ -1,0 +1,1 @@
+<title>Issue 43545 -   chromium -    Impossible to exit on dock icon - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;5.0.396.0 dev&gt;  OS version               : &lt;10.6.3&gt;        1.Launch Chrome  2.Right click on chrome dock icon  3.select Quit in menu produces no effect      Quit the application      Nothing </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21990 -   chromium -    Blank strip at bottom of page - Project Hosting on Google Code</title>   1. Sometimes I have a blank strip in the bottom of the page.  2. If I press F5 to reload the page  this strip usually disappear            <b>Please provide

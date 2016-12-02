@@ -1,0 +1,1 @@
+<title>Issue 2448 -   chromium -    Allow mailto: links to open in Gmail - Project Hosting on Google Code</title> <pre>   have mailto links open Gmail!    or perhaps a google mail application  I hate the fact that if I accidentally click on a mailto: link that it opens FAT outlook...    I'm not sure how to turn this from a &quot;bug&quot; to a &quot;feature&quot; </pre>

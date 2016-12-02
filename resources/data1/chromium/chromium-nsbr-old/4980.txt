@@ -1,0 +1,1 @@
+<title>Issue 4980 -   chromium -    Rename window_delegate accessor on Window to delegate - Project Hosting on Google Code</title> <pre> views::Window has a window_delegate_ member and a window_delegate()   accessor.    For simplicity  these should be called delegate_ and delegate()   respectively.   </pre>

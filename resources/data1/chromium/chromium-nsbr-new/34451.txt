@@ -1,0 +1,1 @@
+<title>Issue 34451 -   chromium -    DevTools: Evaluation result while on a breakpoint is truncated to ~80 chars. - Project Hosting on Google Code</title> <pre> 1. Stop on a breakpoint  2. Evaluate document.body.innerHTML in console    Expected: full inner html string  Actual: only 80 characters are shown. </pre>

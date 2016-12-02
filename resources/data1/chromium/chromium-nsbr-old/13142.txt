@@ -1,0 +1,1 @@
+<title>Issue 13142 -   chromium -    linux: port ButtonSeparatorView  - Project Hosting on Google Code</title> <pre> it's in BookmarkBarView. Currently we use a native separator  which looks   bad on certain system themes  and is not chrome-themable.   </pre>

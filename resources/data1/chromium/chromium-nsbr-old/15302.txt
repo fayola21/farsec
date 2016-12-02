@@ -1,0 +1,1 @@
+<title>Issue 15302 -   chromium -    Ftp connection - login details request window has Windows' style frame in addition to Chrome's frame - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.190.1      1. type an ftp://hostname  2. a login window pops up...    What happens?  See the screenshot attached!   </pre>

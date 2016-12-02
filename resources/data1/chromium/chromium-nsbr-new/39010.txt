@@ -1,0 +1,1 @@
+<title>Issue 39010 -   chromium -    [4004:3000:6290927:ERROR:shell_util.cc(629)] Could not make Chrome default browser. - Project Hosting on Google Code</title> <pre> with --enable-logging    [4004:3000:6290927:ERROR:shell_util.cc(629)] Could not make Chrome default   browser. </pre>

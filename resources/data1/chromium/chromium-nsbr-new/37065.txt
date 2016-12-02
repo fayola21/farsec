@@ -1,0 +1,1 @@
+<title>Issue 37065 -   chromium -    chrome os must boot like http://www.swiftboot.com/ - Project Hosting on Google Code</title> <pre> <a href="http://www.swiftboot.com/">http://www.swiftboot.com/</a> boots far more less than chrome os in linux core.   see the video </pre>

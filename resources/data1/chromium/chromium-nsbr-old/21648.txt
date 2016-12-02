@@ -1,0 +1,1 @@
+<title>Issue 21648 -   chromium -    Multiple page info dialogs - Project Hosting on Google Code</title> <pre>   1. Get a page warning (the triangle with an ! in the URL bar)  like on gmail   with images in mails  2. Click it twice      I get two page info dialogs.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36326 -   chromium -    Chrome converts character on post data - Project Hosting on Google Code</title>   1. Tested many times in different browsers   2. Checked scripts  created stand alone script for testing        ��_��_ Character needs to be remain the same      ��_��_ Character is converted to __ character    <b>Please provide

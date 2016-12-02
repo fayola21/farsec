@@ -1,0 +1,1 @@
+Additional TypeConverters    Add TypeConverters to scala.xml.Elem from String  DOM Document  and DOM Node.   

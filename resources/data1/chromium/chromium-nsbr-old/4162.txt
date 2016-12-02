@@ -1,0 +1,1 @@
+<title>Issue 4162 -   chromium -    invisible auto-scroll cursor - Project Hosting on Google Code</title>   1. go to any page which has an active scroll-bar  2. middle-click to activate auto-scroll  3. gasp in shock and surprise as the cursor disappears      mouse cursor becomes auto-scroll cursor.      mouse cursor disappears.    Please provide

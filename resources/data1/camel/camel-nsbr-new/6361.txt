@@ -1,0 +1,1 @@
+Validations exception should include line/column    When a 'validator:' route step reports exceptions  they should include the line/column location.Here is a small patch that adds support for it.   

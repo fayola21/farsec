@@ -1,0 +1,1 @@
+<title>Issue 43971 -   chromium -    Dynamically created gradients not working - Project Hosting on Google Code</title>   1. Go to the URL above      Should see a gradient fill      See a black box instead    <b>Please provide

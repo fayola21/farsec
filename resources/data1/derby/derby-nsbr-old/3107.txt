@@ -1,0 +1,1 @@
+On client  Clob.free() does not release locators.    On client  Clob.free() does not call the stored procedure to release the locator associated with the Clob. Hence  server-side Clob objects are not freed until the transaction terminates.   

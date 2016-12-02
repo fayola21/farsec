@@ -1,0 +1,1 @@
+<title>Issue 34258 -   chromium -    Bookmark star before URL bar - Project Hosting on Google Code</title>   1. Click on the star icon before the address bar  2. will lead chrome to crash        Bookmark URL      Chromium crashes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2481 -   chromium -    scroll bar problem - Project Hosting on Google Code</title>   1. when we scroll a webpage downwards it occurs properly  but when   scrolling upwards the same webpage it is not happening.                    Please provide

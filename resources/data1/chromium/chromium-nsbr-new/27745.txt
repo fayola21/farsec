@@ -1,0 +1,1 @@
+<title>Issue 27745 -   chromium -    Extra quotes in manifest sample on extensions getting started page - Project Hosting on Google Code</title> <pre> There is an extra set of quotes in the sample manifest.json on this page:    <a href="http://code.google.com/chrome/extensions/getstarted.html">http://code.google.com/chrome/extensions/getstarted.html</a>     </pre>

@@ -1,0 +1,1 @@
+http component - allow failed responses to be returned on the exchange instead of HttpOperationsFailedException    It can be a bit cumbersome to eg handled 404 error codes if it gets thrown back as an exception. Sometimes you want to handle any response from the http producer in the exchange itself.   

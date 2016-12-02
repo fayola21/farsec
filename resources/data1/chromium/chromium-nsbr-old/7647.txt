@@ -1,0 +1,1 @@
+<title>Issue 7647 -   chromium -    Sort fixed portion of encoding menu according to Chrome UI language - Project Hosting on Google Code</title> <pre> See b/1137857.    Currently  we don't sort &quot;Encoding&quot; menu  we should sort the fixed portion  of the menu according to Chrome UI language.     </pre>

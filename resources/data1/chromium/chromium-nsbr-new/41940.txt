@@ -1,0 +1,1 @@
+<title>Issue 41940 -   chromium -    Processor Usage - Project Hosting on Google Code</title>   1.Playing Firm ville in Face book           The Processor &amp; RAM Consumption should be Normal      Processor consumption not going down less than 68% or 70%  RAM usage is up to 55%  2nd Core usage is 95%    <b>Please provide

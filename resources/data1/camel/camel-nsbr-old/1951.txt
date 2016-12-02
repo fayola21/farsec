@@ -1,0 +1,1 @@
+camel-jms consumer endpoint should allow properties such as maxConcurrentConsumers and concurrentConsumers to be managed via JMX       

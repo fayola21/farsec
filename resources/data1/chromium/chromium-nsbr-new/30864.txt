@@ -1,0 +1,1 @@
+<title>Issue 30864 -   chromium -    Chrome incorrectly renders maps.google.com - Project Hosting on Google Code</title>   1. Load URL  2. Displays weird image on the maps layer. See attachment.                  <b>Please provide

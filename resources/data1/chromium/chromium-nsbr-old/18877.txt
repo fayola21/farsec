@@ -1,0 +1,1 @@
+<title>Issue 18877 -   chromium -    Theme Problem  when window not currently selected - Project Hosting on Google Code</title>   1. Open an 'app' with a link  2. Press the task bar to 'mouse out' window      Bar should all be same colour. (see screenshot  this is when the window is   selected)      Bar changes colour under the title text (see screenshot)    <b>Please provide

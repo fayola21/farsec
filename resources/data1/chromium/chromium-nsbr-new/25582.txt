@@ -1,0 +1,1 @@
+<title>Issue 25582 -   chromium -    About box legal block is too far to the left - Project Hosting on Google Code</title> <pre> See attached image. The left edge of the checkbox should line up with the   text above it. </pre>

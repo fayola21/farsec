@@ -1,0 +1,1 @@
+<title>Issue 14213 -   chromium -    se-resize and sw-resize cursors are reversed. - Project Hosting on Google Code</title> <pre>   1. Go to <a href="http://www.echoecho.com/csscursors.htm">http://www.echoecho.com/csscursors.htm</a>  2. Mouse over the se-resize and sw-resize TEST links.        se-resize and sw-resize cursors are reversed.    bug report from adlr@google.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 42676 -   chromium -    full screen in panels doesn't hide title bar - Project Hosting on Google Code</title> <pre> Launch an app in a panel and then hit f11.  You'll see that the title bar   remains  unlike a window. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6251 -   chromium -    facebook.com doesn't show correctly. - Project Hosting on Google Code</title>   1. Open www.facebook.com and log in  2. as you can see the right side frame of the page doesn't look good        i expect the page to show correctly      the frame looks distorted.    Please provide

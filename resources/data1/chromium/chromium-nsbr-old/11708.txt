@@ -1,0 +1,1 @@
+<title>Issue 11708 -   chromium -    No way to delete items from 'Recent Bookmarks' - Project Hosting on Google Code</title>   1. Make a bookmark  2. It will appear in the Recent Bookmarks list  3. No way to clear the list                <b>Please provide

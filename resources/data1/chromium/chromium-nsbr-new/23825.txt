@@ -1,0 +1,1 @@
+<title>Issue 23825 -   chromium -    help menu item is disabled if there are no browser windows opened - Project Hosting on Google Code</title> <pre>   1. close all windows  2. open the help menu        Google Chrome/Chromium Help is disabled.   </pre>

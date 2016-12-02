@@ -1,0 +1,1 @@
+<title>Issue 30357 -   chromium -    Write SSLClientSocketPool - Project Hosting on Google Code</title> <pre> This will allow for late binding of SSL sockets.    Steve  I've assigned this to myself to leave it in my queue  to track the   work I need to do.  Feel free to take it from me if you have time to get it   before I do (I won't until well into Q1). </pre>

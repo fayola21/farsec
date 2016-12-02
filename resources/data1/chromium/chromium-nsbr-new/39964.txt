@@ -1,0 +1,1 @@
+<title>Issue 39964 -   chromium -    mp3 and m4a file playback broken on chrome/linux/ambd64 - Project Hosting on Google Code</title>   1. Try to click on the link above          mp3 file should play from start to finish      the file starts playing for a bit  then skips to 50 secs  then repatidly   plays this a very short part there forever.    <b>Please provide

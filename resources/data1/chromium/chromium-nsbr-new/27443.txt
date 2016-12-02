@@ -1,0 +1,1 @@
+<title>Issue 27443 -   chromium -    pingtest.net doesn't work - Java - Project Hosting on Google Code</title>   1. Go to <a href="http://www.pingtest.net/">http://www.pingtest.net/</a>  2. Click on Begin Test        Packet loss test completes successfully        Packet loss test fails with message &quot;Unable to test&quot;    <b>Please provide

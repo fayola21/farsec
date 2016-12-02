@@ -1,0 +1,1 @@
+<title>Issue 510 -   chromium -    Feature: fast find-in-page missing - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27              Firefox 3: OK      Firefox 3 Accessibility option &quot;Search for text when I start typing&quot; is   missing and wanted in Chromium. </pre>

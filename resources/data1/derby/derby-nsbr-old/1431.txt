@@ -1,0 +1,1 @@
+Typo in link to Simple Example from frameworks/readme.html    There is a small typo in frameworks/readme.html.The link 'see the simple example' links to  ../demo/programs/simple/example.htmlbut it should link to  ../demo/simple/example.htmlbecause there is no 'programs' folder in the 'demo' subtree.I'm attaching a patch for review.   

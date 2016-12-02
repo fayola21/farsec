@@ -1,0 +1,1 @@
+<title>Issue 18451 -   chromium -    download shelf close button doesn't work well in dark themes - Project Hosting on Google Code</title> <pre> I tried the &quot;Glow&quot; theme  while the download shelf was visible.  When I did   that  the 'X' close button disappeared into the background.  I don't know if   this is a bug with the theme or with the shelf.   </pre>

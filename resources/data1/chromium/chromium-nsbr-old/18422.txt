@@ -1,0 +1,1 @@
+<title>Issue 18422 -   chromium -    title of the thumbnail in NNTP should be justified rather than left aligned  - Project Hosting on Google Code</title> <pre> see attached file below </pre>

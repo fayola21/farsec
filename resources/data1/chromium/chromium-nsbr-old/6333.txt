@@ -1,0 +1,1 @@
+<title>Issue 6333 -   chromium -    slider does not move - Project Hosting on Google Code</title>   1. Goto ICIP review page (URL above)  2. Log in  3. Go to reviewer preferences  4. Select 'review category box'  5. Scroll through review categories        Slider moves along with the category options        Slider does not move along      Please provide

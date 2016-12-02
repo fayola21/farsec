@@ -1,0 +1,1 @@
+<title>Issue 20633 -   chromium -    Copying from Omnibar does not work - Project Hosting on Google Code</title>   1. Press Ctrl-L  2. Reset the default selection  select only part of the URL  2. Press Ctrl-C or Ctrl-Ins  3. Paste elsewhere        selected part of the URL is pasted        old contents of the clipboard is pasted    <b>Please provide

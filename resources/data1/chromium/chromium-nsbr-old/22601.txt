@@ -1,0 +1,1 @@
+<title>Issue 22601 -   chromium -    Bookmark bar menu items do not have favicons - Project Hosting on Google Code</title> <pre>   1. Add a folder to the boomark bar  2. Bookmark the page  3. Open the menu    Note that the bookmark item in this menu does not have a favicon.      Show favicons like the bookmark menu and top-level bar items.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31384 -   chromium -    Spaces in custom font (specified as @font-face with base64 src) show up as squares - Project Hosting on Google Code</title>   1. Go to said URL.  2. Notice the title.      Should be something like &quot;Seeing The Details&quot;.      The title shows up as &quot;Seeing[Square]The[Square]Details&quot;.    <b>Please provide

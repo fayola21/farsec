@@ -1,0 +1,1 @@
+<title>Issue 42499 -   chromium -    @font-face fonts garbled on print - Project Hosting on Google Code</title>   1. Print any page that uses remote fonts.      That the remote font prints as shown on screen.      Characters in the remote font are changed to other random characters.    <b>Please provide

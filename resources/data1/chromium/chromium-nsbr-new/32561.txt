@@ -1,0 +1,1 @@
+<title>Issue 32561 -   chromium -    igoogle page refresh every second possible caused by google chat tab! - Project Hosting on Google Code</title>   1. access <a href="http://www.google.com.au/ig">http://www.google.com.au/ig</a>  2. fail google chat connection        remain at igoogle      refresh every second    <b>Please provide

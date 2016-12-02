@@ -1,0 +1,1 @@
+<title>Issue 2910 -   chromium -    Inspect Element does not go directly to selected element - Project Hosting on Google Code</title>   1. Please open the link in the Google Chrome.  2. Right click on one of the elements you want to inspect.  3. Press &quot;Inspect element&quot;.  4. In the inspector page you couldn't see the selected element.                Please provide

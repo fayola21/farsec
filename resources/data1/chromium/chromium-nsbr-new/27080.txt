@@ -1,0 +1,1 @@
+<title>Issue 27080 -   chromium -    Problem attaching the file - Project Hosting on Google Code</title>   1. from gmail try to attach file. most of the time it hands. for me the   problem is same at home or office. I use winxp                    <b>Please provide

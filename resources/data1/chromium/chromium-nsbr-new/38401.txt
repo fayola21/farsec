@@ -1,0 +1,1 @@
+<title>Issue 38401 -   chromium -    Text copy-paste in popup on Mac OS - Project Hosting on Google Code</title> <pre> You can not neither copy any text from the popup (of a browserAction) nor   paste it into a textbox/input elements on Mac. In other words  cmd+c and   cmd+v combinations do not work on Mac.    FYI. On Windows there is no such problem. </pre>

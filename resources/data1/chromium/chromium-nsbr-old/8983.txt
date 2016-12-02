@@ -1,0 +1,1 @@
+<title>Issue 8983 -   chromium -    View source on DOM UI pages (like the new tab page) doesn't work - Project Hosting on Google Code</title> <pre> I think this got broken when I reworked the DOM UIs. </pre>

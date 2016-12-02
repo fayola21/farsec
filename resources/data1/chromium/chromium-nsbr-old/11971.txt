@@ -1,0 +1,1 @@
+<title>Issue 11971 -   chromium -    Port/implement remaining bits of first run experience - Project Hosting on Google Code</title> <pre> See the FirstRun class currently stubbed out in temp_scaffolding_stubs.cc.   </pre>

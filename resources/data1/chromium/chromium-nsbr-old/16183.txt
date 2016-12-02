@@ -1,0 +1,1 @@
+<title>Issue 16183 -   chromium -    Favicons are Distorted - Project Hosting on Google Code</title>   1. Open up www.vmkmagic.com in Chrome and any other browser.  2. Notice the difference between the facicons? The one displayed on Chrome   is distorted.      The same favicon to be displayed for both browsers.      The Chrome favicon is distorted.    <b>Please provide

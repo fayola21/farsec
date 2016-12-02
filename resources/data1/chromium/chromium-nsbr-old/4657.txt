@@ -1,0 +1,1 @@
+<title>Issue 4657 -   chromium -    Save Session Option - Project Hosting on Google Code</title>   1. Need an option to save session similar to what we have in Firefox. May   be add a feature to save session for multiple windows.                     Please provide

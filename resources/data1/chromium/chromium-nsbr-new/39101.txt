@@ -1,0 +1,1 @@
+<title>Issue 39101 -   chromium -    Make plug-in list post notifications of changes - Project Hosting on Google Code</title> <pre> - have DOM UI for new chrome://plugins/ page watch for changes and auto-update  - in general  refactor plug-in list code </pre>

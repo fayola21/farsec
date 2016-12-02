@@ -1,0 +1,1 @@
+<title>Issue 15867 -   chromium -    Tab close box position isn't reliable - Project Hosting on Google Code</title> <pre> Glen says: &quot;Click repeatedly in one spot to close many tabs didn't work   reliably. Sometimes the tabs would resize-relayout.&quot; </pre>

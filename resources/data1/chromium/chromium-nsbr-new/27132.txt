@@ -1,0 +1,1 @@
+<title>Issue 27132 -   chromium -    kerning is not supported in remote fonts (@font-face) - Project Hosting on Google Code</title> <pre> Current version of OTS library (code.google.com/p/ots) does not support   GPOS and kern tables of OpenType.   </pre>

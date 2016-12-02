@@ -1,0 +1,1 @@
+<title>Issue 46240 -   chromium -    &quot;Customize and control Google Chrome&quot; menu has little boxes in front of hotkeys. - Project Hosting on Google Code</title>   1. Open the &quot;Customize and control Google Chrome&quot; menu.        The menu to be displayed without little boxes.          The menu is displayed with little boxes.      <b>Please provide

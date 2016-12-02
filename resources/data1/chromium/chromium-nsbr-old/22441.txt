@@ -1,0 +1,1 @@
+<title>Issue 22441 -   chromium -    The browser crashes around 75% of the time when it opens. - Project Hosting on Google Code</title>   1. Opening browser          The browser opens to the home page  <a href="http://google.com/">http://google.com/</a>      The browser crashes around 75% of the time.    <b>Please provide

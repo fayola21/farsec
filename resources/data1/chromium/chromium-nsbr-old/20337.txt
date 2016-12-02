@@ -1,0 +1,1 @@
+<title>Issue 20337 -   chromium -    Don't suggest or automate downloads starting with periods - Project Hosting on Google Code</title> <pre> Dotfiles are hidden by file browsers.  We should just strip them. </pre>

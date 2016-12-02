@@ -1,0 +1,1 @@
+<title>Issue 20328 -   chromium -    unable to rename folder in BookmarkEditorGtk - Project Hosting on Google Code</title> <pre>   1. star a page  press the edit button  2. press the new folder button  3. try to edit the name of the new folder      Should be able to rename the folder.  evanm says there's some inline edit   command or something.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27093 -   chromium -    chrome icon not displaying in task bar - Project Hosting on Google Code</title>   1. open chrome          there should be the chrome icon visible in the task bar      it is not visible    <b>Please provide

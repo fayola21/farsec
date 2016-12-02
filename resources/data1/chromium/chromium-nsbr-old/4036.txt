@@ -1,0 +1,1 @@
+<title>Issue 4036 -   chromium -    Bookmark Manager columns should support sorting. - Project Hosting on Google Code</title> <pre>   1. Click on any column header [Title/URL] in ListView of Bookmark manager.        What is the expected output?   The corresponding column should be sorted.    What do you see instead?  Nothing happens. </pre>

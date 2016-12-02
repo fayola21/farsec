@@ -1,0 +1,1 @@
+Add converter for Calendar class    Wicket has built in converter for a lot of date/time types (4 in wicket-util  2 in wicket-datetime) but not for Calendar. As Calendar is imho the most usable date/time object in standard java it would be nice if wicket would support it out of box.   

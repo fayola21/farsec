@@ -1,0 +1,1 @@
+<title>Issue 20901 -   chromium -    NNTP: Undo is not working? - Project Hosting on Google Code</title> <pre> According to Glen: it seemed that removing one and undoing the remove only   brought it back for that tab  but not future opened tabs </pre>

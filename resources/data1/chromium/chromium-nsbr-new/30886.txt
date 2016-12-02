@@ -1,0 +1,1 @@
+<title>Issue 30886 -   chromium -    Macbook Pro trackpad guestures - Project Hosting on Google Code</title>   1. Attempt to expand screen font sizes via  Macbook Pro trackpad gestures          I expect to use the trackpad gestures for OSX.6 on my Macbook Pro          <b>Please provide

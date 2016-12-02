@@ -1,0 +1,1 @@
+<title>Issue 32927 -   chromium -    DCHECK hit on showing options - Project Hosting on Google Code</title> <pre> The DCHECK is in EnableDnsPrefetch. Will says the DCHECK can be nuked  so I'm   going to remove it. </pre>

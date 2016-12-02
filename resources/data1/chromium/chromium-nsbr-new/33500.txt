@@ -1,0 +1,1 @@
+<title>Issue 33500 -   chromium -    Latest chromium build on linux crashes with jquery 1.4.1 - Project Hosting on Google Code</title>   1. Not really sure if it's related to my js code  but it works perfectly  with jquery 1.4 and crashes with jquery 1.4.1.      qsd      qsd    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 28061 -   chromium -    Need to implement page action popups on linux - Project Hosting on Google Code</title> <pre> We seem to have forgotten this. Hopefully mostly copying from the browser   action implementation. </pre>

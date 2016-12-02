@@ -1,0 +1,1 @@
+<title>Issue 319 -   chromium -    Text zoom level for a site doesn't persist across newly opened tabs. - Project Hosting on Google Code</title>   1. Open any site  2. Use the text zoom function (Ctrl +)  3. Open a link using the middle mouse button.      The text zoom amount should be the same as the parent page.      It reverts to the default setting    Please provide

@@ -1,0 +1,1 @@
+Change AjaxRequestAttributes#eventPropagation to BUBBLE    AjaxRequestAttributes#eventPropagation should initially be set to BUBBLE to be consistent with jquery.   

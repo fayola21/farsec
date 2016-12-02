@@ -1,0 +1,1 @@
+<title>Issue 26665 -   chromium -    after install by mini_installer can open the chromium - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.234.0 30937 and 4.0.234.0 30941&gt;  Download the new version after 30929 after run mini_installer.exe the   chromium cann't run.... </pre>

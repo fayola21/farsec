@@ -1,0 +1,1 @@
+<title>Issue 8877 -   chromium -    The download-speed has no unit - Project Hosting on Google Code</title>   1. Start a download  2. go to the downloadpage  3. see the speed missing a unit      For example to see '79% at 99746 kB/s'      You get '79% at 99746'.   If it is bytes per second or TB/s you can choose :)    <b>Please provide

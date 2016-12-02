@@ -1,0 +1,1 @@
+<title>Issue 32781 -   chromium -    Heap profiler: display total objects count - Project Hosting on Google Code</title> <pre> It would be useful to have statistics not only for total object sizes  but for   their count  too. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40795 -   chromium -    shadow/separator displaced  - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.366.2    On the middle of the extension bar there is a shadow/separator showing   displaced from where it's supposed to be     </pre>

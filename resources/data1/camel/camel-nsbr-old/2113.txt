@@ -1,0 +1,1 @@
+@Bean - Add method to the annotation so you can configure the method name    Its a bit more trivial for end users to know how to set bean name and method if having two attributes.Otherwise they have to know about you can use dot to separate the ben name for the method name.   

@@ -1,0 +1,1 @@
+<title>Issue 3030 -   chromium -    Disable tabs animation on open/close tab - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.153.1      1. Open new tab  2. Close new tab      Tabs do not animate. At least animation should be turned off/on in options      Tabs animate on open/close. It cannot be turned off    Type-Feature   Area-BrowserUI   </pre>

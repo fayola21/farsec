@@ -1,0 +1,1 @@
+<title>Issue 35211 -   chromium -    leaking ExtensionPopupGtk* objects - Project Hosting on Google Code</title> <pre> 1. press a browser action button that has a popup twice quickly  2. hit DCHECK if you are in debug mode  3. otherwise just leak the first one.    DCHECK is this:    // Only one instance should be showing at a time.    DCHECK(!current_extension_popup_); </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19660 -   chromium -    When you play a single frame Theora video it shows only black frame after the first loop - Project Hosting on Google Code</title> <pre>   1. Open a single frame Theora file (e.g. still2.ogv)  2. Enable looping  3. Play      After the first loop  you only see a black frame  the actual frame should be   displayed instead.       </pre>

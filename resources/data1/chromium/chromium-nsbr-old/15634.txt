@@ -1,0 +1,1 @@
+<title>Issue 15634 -   chromium -    Use of NSWorkspace in icon loader not thread-safe - Project Hosting on Google Code</title> <pre> In the Mac implementation of IconLoader  we currently use NSWorkspace.  However  it is not thread-safe and probably will fail when used off the  main thread.    This bug tracks the work to fix this issue. </pre>

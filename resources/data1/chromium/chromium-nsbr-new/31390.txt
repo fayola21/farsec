@@ -1,0 +1,1 @@
+<title>Issue 31390 -   chromium -    eBay html - Project Hosting on Google Code</title> <pre> When you open an Ebay ads to revise it the description is only in html   language.There should be a tab where you choose to either look at the   description in html or regular text for editing. </pre>

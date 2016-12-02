@@ -1,0 +1,1 @@
+Add a factory method for WebSocketRequestHandler    Add a new factory method to WebSocketSettings for creating instances of WebSocketRequestHandler.   

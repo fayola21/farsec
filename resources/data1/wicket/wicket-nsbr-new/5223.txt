@@ -1,0 +1,1 @@
+AjaxEditableLabel doesn't provide a way to configure Ajax attributes for its Ajax behaviors    AjaxEditableLabel uses EditorAjaxBehavior and LabelAjaxBehavior to change its modes.At the moment there is no way to configure custom Ajax attributes for both behaviors.   

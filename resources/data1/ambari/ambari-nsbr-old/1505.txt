@@ -1,0 +1,1 @@
+Hosts page: add filtering by host status    Show the host status filter at the top of the Hosts table  showing the status and the number of hosts in that status.   

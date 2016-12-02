@@ -1,0 +1,1 @@
+<title>Issue 7965 -   chromium -    Chrome is not maximizing properly - Project Hosting on Google Code</title>   1. Full Vista Aero  2. Change Theme Colour (I picked Frost)  3. Maximize Chrome      Like all Maximized windows.      It's not fully maximized. There's the window border at the bottom right  as    seen in the screenshot.    Please provide

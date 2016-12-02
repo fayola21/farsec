@@ -1,0 +1,1 @@
+<title>Issue 17422 -   chromium -    UI Problem in Other Bookmarks menu - Project Hosting on Google Code</title>   1. On the Homepage click on the other bookmark menu  2. Select any bookmark and drag it some other position        The position should get changed and the menu should remain open      The position does get changed but the menu closes    <b>Please provide

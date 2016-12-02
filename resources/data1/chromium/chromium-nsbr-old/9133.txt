@@ -1,0 +1,1 @@
+<title>Issue 9133 -   chromium -    BrowserFrameWin/BrowserFrame - Project Hosting on Google Code</title> <pre> BrowserFrame must become an interface again since BrowserView may be talking   to a Windows or Gtk implementation.    Rename BrowserFrame to BrowserFrameWin and extract a platform-neutral   interface. </pre>

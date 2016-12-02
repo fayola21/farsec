@@ -1,0 +1,1 @@
+<title>Issue 6017 -   chromium -    cannot configure router Linksys - Project Hosting on Google Code</title>   1. open UI linksys router  2. change settings  3. press save changes      site loaded with cofirming changes  and a button to continue      unexpected result and changes are not made    Please provide

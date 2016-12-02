@@ -1,0 +1,1 @@
+<title>Issue 12768 -   chromium -    Themes need more new tab page properties - Project Hosting on Google Code</title> <pre> - Background alignment  - Need to figure out what happens to the bookmark bar background when   detached  - Specific colors for section links and titles   </pre>

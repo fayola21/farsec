@@ -1,0 +1,1 @@
+<title>Issue 25898 -   chromium -    Move chrome_client_impl.{h cc} into webkit/api/src - Project Hosting on Google Code</title> <pre> Move chrome_client_impl.{h cc} into webkit/api/src    It should be moved to ChromeClientImpl.{h cpp}   </pre>

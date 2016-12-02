@@ -1,0 +1,1 @@
+<title>Issue 18465 -   chromium -    Upstream shift-enter change needs to be mirrored in Chrome code - Project Hosting on Google Code</title> <pre> Chrome needs parity with the following webkit cl:  <a href="http://trac.webkit.org/changeset/46791">http://trac.webkit.org/changeset/46791</a> </pre>

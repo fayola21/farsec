@@ -1,0 +1,1 @@
+<title>Issue 290 -   chromium -    Scroll wheel is inverted. - Project Hosting on Google Code</title>   1. See below.          When using the the scroll wheel  scrolling down should go down  and   scrolling up should go up.      Scrolling up goes down  scrolling down goes up.    Please provide

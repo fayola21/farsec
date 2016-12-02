@@ -1,0 +1,1 @@
+<title>Issue 42376 -   chromium -    google code site doesn't note win7 support - Project Hosting on Google Code</title> <pre> Related URL(s): <a href="http://code.google.com/chrome/chromeframe/">http://code.google.com/chrome/chromeframe/</a>    Given that this page is the first hit for &quot;Chrome Frame&quot; in Google  this   oversight should be corrected. </pre>

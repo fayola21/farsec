@@ -1,0 +1,1 @@
+<title>Issue 7882 -   chromium -    Inspector is broken - Project Hosting on Google Code</title> <pre> It doesn't load. Looks like it's probably getting a javascript error onload.    Did a binary search through releases. It started failing between <a href="/p/chromium/source/detail?r=9761">r9761</a>:<a href="/p/chromium/source/detail?r=9771">r9771</a>. </pre>

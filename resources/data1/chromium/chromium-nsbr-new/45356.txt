@@ -1,0 +1,1 @@
+<title>Issue 45356 -   chromium -    Multiply &quot;Security Cert&quot; Boxes - Project Hosting on Google Code</title>   1. Goto HTTPS site  2. Click the shield  3. It opens a a box with the cert info  4. Click it again  opens a new box... same info      Current box updates          <b>Please provide

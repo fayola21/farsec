@@ -1,0 +1,1 @@
+<title>Issue 6202 -   chromium -    REGRESSION: Animated GIFs don't animate - Project Hosting on Google Code</title> <pre> They just sit there.  At least some of them.  I probably broke this  am   hoping my changes to WebKit on <a title="Chrome Frame should have password manager and autofill infobar"  href="/p/chromium/issues/detail?id=22995">bug 22995</a> will fix it. </pre>

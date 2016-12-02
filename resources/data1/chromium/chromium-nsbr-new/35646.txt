@@ -1,0 +1,1 @@
+<title>Issue 35646 -   chromium -    Tumblr is crashing  - Project Hosting on Google Code</title> <pre> Chrome Version: 5.0.307.7  URLs: <a href="http://www.tumblr.com/">http://www.tumblr.com/</a>      1. Edit Tumblr blog    When editing my Tumblr blog and using cursor keys Chrome crashed.   </pre>

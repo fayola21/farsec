@@ -1,0 +1,1 @@
+Bean component should propagate headers    When doing a route an you invoke a bean that sets a response on the OUT body it does not propagate the headers from the IN body.   

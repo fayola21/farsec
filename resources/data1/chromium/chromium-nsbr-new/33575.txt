@@ -1,0 +1,1 @@
+<title>Issue 33575 -   chromium -    Browser doesn't work with newest beta YouTube layout - Project Hosting on Google Code</title>   1.Clicking the link for newest youtube layout  2.Trying to watch a video.        Video plays.      Browser is convinced latest flash isn't installed. Until another browser   manages to play it  and then it works in Chrome.    <b>Please provide

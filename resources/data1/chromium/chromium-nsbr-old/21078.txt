@@ -1,0 +1,1 @@
+<title>Issue 21078 -   chromium -    New tab is slow when no other new tab is open - Project Hosting on Google Code</title>   1. Make sure that there is no other new tab open in Chrome.  2. Open new tab (either from Ctrl+T  Plus icon  or from the &quot;New Tab&quot; in   the Wrench menu)      New tab opens fast.      It opens slowly.    <b>Please provide

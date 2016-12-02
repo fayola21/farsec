@@ -1,0 +1,1 @@
+Remove unused parameter in splitmessages    splitmessages requires three parameters  but it only uses two of them. A comment in the class describing the parameters  only describe the first two of them: /** arg&#91;0&#93; is the destination directory arg&#91;1&#93; is the source file. */The third  unused parameter should be removed.   

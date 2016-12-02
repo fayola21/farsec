@@ -1,0 +1,1 @@
+Simplify Local Repo setup in installer UI    Enhance the UI to use stacks API to give user a choice of stacks and be able to customize repository locations.   

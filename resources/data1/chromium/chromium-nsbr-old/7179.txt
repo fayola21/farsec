@@ -1,0 +1,1 @@
+<title>Issue 7179 -   chromium -    Google Toolbar option missing from Import bookmarks &amp; settings - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.159.0          1. The [Wrench menu] &gt; Import bookmarks &amp; settings...  2. 'From' dropdown box    I have bookmarks imported when using a previous release  but now the option   is missing.     </pre>

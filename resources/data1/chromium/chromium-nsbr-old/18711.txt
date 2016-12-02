@@ -1,0 +1,1 @@
+<title>Issue 18711 -   chromium -    chrome extensions should validate callback param and event param types in debug builds - Project Hosting on Google Code</title> <pre> the extension_api.json can define function callback param &amp; event types. the   extension_process_bindings.js should validate those callback types in debug   builds. </pre>

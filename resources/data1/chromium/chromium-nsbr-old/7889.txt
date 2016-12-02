@@ -1,0 +1,1 @@
+<title>Issue 7889 -   chromium -    Inspect Element is displaying a blank page. - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.165.0 10091  URLs (if applicable) : ANY      1. Open any website.   2. Right click and click on Inspect Element.      Hierarchy of dom elements to be displayed.      Blank page is displayed.   </pre>

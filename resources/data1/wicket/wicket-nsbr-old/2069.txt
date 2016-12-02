@@ -1,0 +1,1 @@
+KittenCaptcha filter declared twice in wicket-examples web.xml       

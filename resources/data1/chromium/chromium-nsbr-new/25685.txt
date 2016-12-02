@@ -1,0 +1,1 @@
+<title>Issue 25685 -   chromium -    Autos view while debugging - Project Hosting on Google Code</title> <pre> Visual studio has this great feature that it shows the relevant   variables/objects to the currently highlighted statement when you are   debugging. </pre>

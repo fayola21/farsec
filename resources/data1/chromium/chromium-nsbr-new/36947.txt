@@ -1,0 +1,1 @@
+<title>Issue 36947 -   chromium -    Content settings: Remember window sizes of settings and exception dialogs - Project Hosting on Google Code</title> <pre> Content settings: Remember window sizes of settings and exception dialogs </pre>

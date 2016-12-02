@@ -1,0 +1,1 @@
+FormComponentPanel should not add a name attribute    FormComponent adds a name attribute in onComponentTag. This behaviour is inherited by FormComponentPanel  but is not valid for the latter. Often a FormComponentPanel is a div or span  for which the name attribute is not allowed.   

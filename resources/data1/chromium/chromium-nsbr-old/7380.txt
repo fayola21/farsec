@@ -1,0 +1,1 @@
+<title>Issue 7380 -   chromium -    More recently closed and less recent bookmarks in New Tab page - Project Hosting on Google Code</title>   1. start a new tab          the recently closed list should be longer      only three items for recently closed list  while nine items for recent   bookmarks list.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11476 -   chromium -    Ctl+&amp;lt;number&amp;gt; doesn't switch tabs - Project Hosting on Google Code</title> <pre> I use this all the time on Windows.    We might need to use alt -- should check what Firefox does.  : </pre>

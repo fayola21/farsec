@@ -1,0 +1,1 @@
+<title>Issue 45316 -   chromium -    Add policy for disabling DataSync - Project Hosting on Google Code</title> <pre> Once the policy abstraction is complete  we need to implement a policy to   suppress/disable preference sync. </pre>

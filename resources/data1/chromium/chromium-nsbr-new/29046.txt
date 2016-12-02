@@ -1,0 +1,1 @@
+<title>Issue 29046 -   chromium -    Use system libxml - Project Hosting on Google Code</title> <pre> Chromium should support using the system libxml  using the existing  mechanism generated for third party bits. </pre>

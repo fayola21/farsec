@@ -1,0 +1,1 @@
+<title>Issue 19772 -   chromium -    &quot;sign in&quot; button on sync setup wizard shifts a bit to the right after clicked - Project Hosting on Google Code</title> <pre> [that's pretty much it...] </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9346 -   chromium -    In blank new tab  bookmark line disappear while loading a new page - Project Hosting on Google Code</title>   1. Open a blank new tap  2. Enter a new url and load it      The bookmarks at the top should stay there while loading        The bookmarks disappear  and everything in the page shifts up    <b>Please provide

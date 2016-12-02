@@ -1,0 +1,1 @@
+<title>Issue 11105 -   chromium -    No rich text with yahoo mailing - Project Hosting on Google Code</title>   1. Write a mail with Yahoo! mail          To have rich text features      no rich text feature (no option to edit my mail texts)     <b>Please provide

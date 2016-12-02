@@ -1,0 +1,1 @@
+<title>Issue 34780 -   chromium -    Theme install failure should show infobar - Project Hosting on Google Code</title> <pre> When a theme fails to install (it's corrupt  it doesn't contain all   referenced images  etc)  no notice is given to the user  who's probably wtf-  ing. </pre>

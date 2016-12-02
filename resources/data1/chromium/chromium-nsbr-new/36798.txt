@@ -1,0 +1,1 @@
+<title>Issue 36798 -   chromium -    Update mac tabstrip to support mini-tabs - Project Hosting on Google Code</title> <pre> The mac tabstrip needs to be updated to support mini-tabs. See the patches   in 32845 for specifics. </pre>

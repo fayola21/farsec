@@ -1,0 +1,1 @@
+Add getter method for routeCollection property in RouteBuilder class    I need to stop a RouteBuilder. A solution for this issue could be access to routeCollection property in RouteBuilder class.   

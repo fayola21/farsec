@@ -1,0 +1,1 @@
+<title>Issue 35537 -   chromium -    High CPU usage and empty content while loading electro.pl website. - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.89 (38071)  URL :www.electro.pl    Behavior in Firefox 3.x: OK      1. Try to load www.electro.pl website       </pre>

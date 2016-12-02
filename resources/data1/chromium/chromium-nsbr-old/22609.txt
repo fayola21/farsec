@@ -1,0 +1,1 @@
+<title>Issue 22609 -   chromium -    4.0.211.4 still not able to sync bookmarks and crashing when using xmarks alpha - Project Hosting on Google Code</title> <pre> Chrome Version       :  4.0.211.4                     1. goto beta.xmarks.com and install chrome bookmark sync it crashes  immediately out   </pre>

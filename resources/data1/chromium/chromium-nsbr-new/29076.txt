@@ -1,0 +1,1 @@
+<title>Issue 29076 -   chromium -    DevTools: Loading http://www.google.com/ shows two requests for nav_logo7.png.  - Project Hosting on Google Code</title> <pre> Loading <a href="http://www.google.com/">http://www.google.com/</a> shows two requests for nav_logo7.png.  </pre>

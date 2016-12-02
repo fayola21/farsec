@@ -1,0 +1,1 @@
+<title>Issue 42260 -   chromium -    App launcher is too tall - Project Hosting on Google Code</title> <pre> When I hide &quot;Most Visited&quot; and &quot;Recently closed&quot; on the NTP the app launcher   popup is too tall (see screenshot). We should size the popup based on the   content. </pre>

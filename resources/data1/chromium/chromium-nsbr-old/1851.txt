@@ -1,0 +1,1 @@
+<title>Issue 1851 -   chromium -    Touchpad Scroll - Project Hosting on Google Code</title>   1. Have an acer 4720z laptop.  2. Install and run Chrome.  3. Try to scroll a page using the Touchpad.       Page scroll up and down.       Page only scrolls down. Scrolling up does not work.    Please provide

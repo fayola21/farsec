@@ -1,0 +1,1 @@
+<title>Issue 38467 -   chromium -    middle click doesnt open new tab - Project Hosting on Google Code</title>   1. click on the Attachments link with middle mouse      to open on a new tab in background  like Chromium 4 and FF do.      a pop up shows  but now new tab.    <b>Please provide

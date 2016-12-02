@@ -1,0 +1,1 @@
+<title>Issue 2016 -   chromium -    Chrome stalls XHRs in order to sniff mime-type - Project Hosting on Google Code</title>   1. Go to <a href="http://www.pushlets.com/">http://www.pushlets.com/</a> -&gt; demos -&gt; HTTP-push and run the first demo.          A pop-up occures that streams a counter.      A pop-up occures that does nothing.    Please provide

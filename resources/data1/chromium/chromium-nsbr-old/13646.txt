@@ -1,0 +1,1 @@
+<title>Issue 13646 -   chromium -    Issue with google chrome options  - Project Hosting on Google Code</title> <pre> Chrome Version:3.0.183.1    Issues:    1.Home page not setting.   2.Home icon is not appearing.  3.Google chrome is the default browser   but it says it's default.  4.Default search   Manage button has no response onclick.    Snapshot attached  </pre>

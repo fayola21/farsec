@@ -1,0 +1,1 @@
+<title>Issue 44340 -   chromium -    first day fast  now very slow - Project Hosting on Google Code</title>   1.whenever I launch chrome as my browser  2.every time I type a web address or select from my favorites bar a new website - crawls there              get the page but acts like dial up - takes forever    <b>Please provide

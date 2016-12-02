@@ -1,0 +1,1 @@
+Investigate why setting a login timeout causes NativeAuthenticationServiceTest to fail when run in a suite    See DERBY-6094 for the details of this problem.   

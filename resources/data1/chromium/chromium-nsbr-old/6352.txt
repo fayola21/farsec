@@ -1,0 +1,1 @@
+<title>Issue 6352 -   chromium -    Excessive HOSTS Access - Project Hosting on Google Code</title>   1. Open a new tab / Open a page / Click a link / Hover mouse / Almost   anything      Nothing.        HOSTS file is thrashed (read for almost every action).      Please provide

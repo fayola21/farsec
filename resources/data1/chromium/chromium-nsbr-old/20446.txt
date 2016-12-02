@@ -1,0 +1,1 @@
+<title>Issue 20446 -   chromium -    OSX Omnibox popup is too far from field  corners are too wide. - Project Hosting on Google Code</title> <pre> Using Pixies.app on Mac and Magnifier on Windows  I've determined these things.  Am so awesome.   </pre>

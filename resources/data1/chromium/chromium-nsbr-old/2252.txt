@@ -1,0 +1,1 @@
+<title>Issue 2252 -   chromium -    Mcafee - Cant connect to the server - Project Hosting on Google Code</title>   1. Disable to the Access Protection in Mcafee and Chrome starts working.           Chrome snaps back to perfect.       Chrome is not being able to connect to any web pages.     Please provide

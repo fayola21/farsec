@@ -1,0 +1,1 @@
+<title>Issue 24580 -   chromium -    Mail.app didn't notice Chromium - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.4    OS version               : MacOSX SL 10.6.1    I have Chromium as my default browser. But when I click a link in Mail.app  it   opens in Safari. </pre>

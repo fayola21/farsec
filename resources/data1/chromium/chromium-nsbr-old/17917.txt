@@ -1,0 +1,1 @@
+<title>Issue 17917 -   chromium -    Regression: audio stops playing after a seek - Project Hosting on Google Code</title> <pre> Seeking can occasionally cause the audio to cut out in Chrome while playing   &lt;video&gt; or &lt;audio&gt;    Does not happen in the test media player  hinting at a Chrome-specific issue   with the audio IPC layer. </pre>

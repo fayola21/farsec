@@ -1,0 +1,1 @@
+<title>Issue 43570 -   chromium -    Font rendering ignores Gnome system settings - Project Hosting on Google Code</title>   1. View any website            Font rendering matches Gnome system settings          Font rendering doesn't match Gnome system settings - full hinting seems to   be used      <b>Please provide

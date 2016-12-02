@@ -1,0 +1,1 @@
+<title>Issue 5404 -   chromium -    Show More Status Bar (When Necessary for URL - Project Hosting on Google Code</title> <pre> As a web developer  the status bar does not show enough of the URL. I need   to see where the url points without having to look at the source. Pretty   simple  but a real necessity for me. </pre>

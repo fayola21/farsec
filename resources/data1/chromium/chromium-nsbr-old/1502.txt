@@ -1,0 +1,1 @@
+<title>Issue 1502 -   chromium -    Add -webkit-interpolation-mode CSS for specifying scaling algorithm - Project Hosting on Google Code</title>   1. use HTML to rescale an image (e.g. pixel art) by an integral factor like   200% or 300%      A crisp (linear) resizing.      A blurry (bilinear or bicubic) resizing.    Please provide

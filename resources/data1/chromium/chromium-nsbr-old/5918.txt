@@ -1,0 +1,1 @@
+<title>Issue 5918 -   chromium -    &quot;Download Google Talk&quot; link doesn't work - Project Hosting on Google Code</title>   1. <a href="http://www.google.com/talk/">http://www.google.com/talk/</a>  2. Click the download button  3. Watch nothing happen        Download should start        Nothing    Please provide

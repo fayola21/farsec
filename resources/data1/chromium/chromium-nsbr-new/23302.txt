@@ -1,0 +1,1 @@
+<title>Issue 23302 -   chromium -    Can't type text into private messages on Facebook - Project Hosting on Google Code</title>   1. Log into Facebook  2. Click on a friend  3. Click on &quot;Send ___ a message&quot;  4. Dialog appears. Type in subject.  5. Click on body area.  No cursor appears.  Type. Nothing appears.        Text appears        nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6276 -   chromium -    Feature Request: Expand context menu for tabs - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.156.1                     IE 7: FAIL      1. Hold 'SHIFT' key then right click  2. an expanded or alternative context menu should appear.   </pre>

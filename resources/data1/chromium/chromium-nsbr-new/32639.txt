@@ -1,0 +1,1 @@
+<title>Issue 32639 -   chromium -    Support cmd-k on Mac (synonym for cmd-opt-f or Windows' ctrl-k) - Project Hosting on Google Code</title> <pre> Firefox uses cmd-k for &quot;focus search&quot;.  We support ctrl-k on Windows and   Safari's cmd-opt-f on Mac  but not cmd-k.  We should probably just support   this. </pre>

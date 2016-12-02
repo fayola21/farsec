@@ -1,0 +1,1 @@
+<title>Issue 23594 -   chromium -    Cannot set Chrome as default browser in Open SuSe  - Project Hosting on Google Code</title>   1. Go to option &gt; Basics  2. Click on the &quot;Make google chrome my default browser&quot;        Chrome becomes default browser      nothing    <b>Please provide

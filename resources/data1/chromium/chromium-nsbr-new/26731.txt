@@ -1,0 +1,1 @@
+<title>Issue 26731 -   chromium -    &quot;Copy Email Address&quot; doesn't work properly - Project Hosting on Google Code</title>   1. Right-click on an email address  choose &quot;Copy Email Address&quot;   2. Paste the email address        the email address is pasted        the email address including the mailto: part is pasted.    <b>Please provide

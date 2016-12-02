@@ -1,0 +1,1 @@
+<title>Issue 5324 -   chromium -    Back and Forward buttons not working on Dell Bluetooth Mouse - Project Hosting on Google Code</title>   1. Use Dell Bluetooth mouse          Back or Forward using back and forward buttons.      Nothing.    Please provide

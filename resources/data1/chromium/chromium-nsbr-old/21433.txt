@@ -1,0 +1,1 @@
+<title>Issue 21433 -   chromium -    Rename chrome.extension.getTabContentses() =&gt; getExtensionTabs(). - Project Hosting on Google Code</title> <pre> Nobody understand what it does as currently named.    We will of course need to alias the current name. </pre>

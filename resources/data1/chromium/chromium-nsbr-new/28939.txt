@@ -1,0 +1,1 @@
+<title>Issue 28939 -   chromium -    Typing on address line locks up system - hard power off required to return to normal operation - Project Hosting on Google Code</title>   1. try to enter a search term  2. try to enter a web address          Either return search results or the website that is entered.        Complete and total system lockup.    <b>Please provide

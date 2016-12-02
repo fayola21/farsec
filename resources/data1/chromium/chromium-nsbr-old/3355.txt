@@ -1,0 +1,1 @@
+<title>Issue 3355 -   chromium -    Need to import Bookmarks and settings including keyword searching from Opera - Project Hosting on Google Code</title>   1. Currently there is no way to import from Opera. I had to import into   Firefox and then into Chrome. This is not acceptable.                    Please provide

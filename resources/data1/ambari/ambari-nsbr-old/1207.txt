@@ -1,0 +1,1 @@
+Remove /hdp as the httpd conf for any of the nagios urls - should replace it with ambarinagios or something else.    Remove /hdp as the httpd conf for any of the nagios urls - should replace it with ambarinagios or something else.   

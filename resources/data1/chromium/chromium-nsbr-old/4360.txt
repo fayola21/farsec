@@ -1,0 +1,1 @@
+<title>Issue 4360 -   chromium -    Enable HTML5 name/value storage APIs (DOM storage/Localstorage) - Project Hosting on Google Code</title> <pre> Enable HTML5 name/value storage APIs    <a href="http://www.w3.org/TR/html5/structured.html#storage">http://www.w3.org/TR/html5/structured.html#storage</a>   </pre>

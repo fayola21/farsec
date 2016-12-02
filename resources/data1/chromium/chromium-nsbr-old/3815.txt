@@ -1,0 +1,1 @@
+<title>Issue 3815 -   chromium -    Find-in bar: String format 'n of n' is wrong in Hindi Chrome. - Project Hosting on Google Code</title> <pre> Build: 0.3.154.9 (4058)      1. Set your sys locals to Hindi.  2. Install Google chrome on clean profile.  3. Ctrl + f to find-in bar and search for a word.    Notice the status 'n' of 'n' is wrong.    See the attached screenshot. </pre>

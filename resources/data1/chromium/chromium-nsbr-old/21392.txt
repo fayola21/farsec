@@ -1,0 +1,1 @@
+<title>Issue 21392 -   chromium -    Don't inject content scripts in incognito pages - Project Hosting on Google Code</title> <pre> Right now we suspect content scripts run in incognito mode. We'd like  extensions to be disabled in incognito mode for now. </pre>

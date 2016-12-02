@@ -1,0 +1,1 @@
+<title>Issue 3344 -   chromium -    bug when opening new tab - Project Hosting on Google Code</title>   1. open any site  2. click at some link with the midle mouse botton  3. sometimes the new tab will not open and the link will be opened in the   same tab       a new tab with the site of the link should be oppened       sometimes it just open in the same tab    Please provide

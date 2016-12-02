@@ -1,0 +1,1 @@
+<title>Issue 17501 -   chromium -    dragging an image to the bookmark bar - Project Hosting on Google Code</title> <pre> when you drag an image to the bookmark bar it creates two copies of it </pre>

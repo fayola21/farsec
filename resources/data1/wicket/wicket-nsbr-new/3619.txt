@@ -1,0 +1,1 @@
+Application_pt.properties    I had my portuguese partner look at the Application_pt_BR.properties file ason her portuguese laptop the standard english messages showed up. Accordingto her the pt_BR file is also completely valid forApplicaiton_pt.properties. Can I suggest the file is just copied over tothat name?   

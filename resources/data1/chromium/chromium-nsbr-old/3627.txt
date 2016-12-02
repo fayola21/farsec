@@ -1,0 +1,1 @@
+<title>Issue 3627 -   chromium -    Use a better class name for chrome windows - Project Hosting on Google Code</title> <pre> Currently many of our windows end up with a class name of   HWNDViewContainer_0. This is hardly userful to apps that care about this   information. </pre>

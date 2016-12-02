@@ -1,0 +1,1 @@
+<title>Issue 44872 -   chromium -    Unmanaged CSS colors - Project Hosting on Google Code</title>   1. Use a wide-gamut monitor (or monitor with non-sRGB color profile  2. View any webpage with CSS colors        Correct  color-managed CSS colors displayed.      Incorrect  over-saturated CSS colors displayed.    Please provide

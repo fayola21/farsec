@@ -1,0 +1,1 @@
+<title>Issue 9859 -   chromium -    Regression: Omnibox auto-complete suggestion is broken non-Latin languages - Project Hosting on Google Code</title>   1.copy and paste &quot;_��_��_��_��_��_&quot; without quotation mark into address bar  2.press enter and try to search        should automatic search in Google      leads to a weird website    <b>Please provide

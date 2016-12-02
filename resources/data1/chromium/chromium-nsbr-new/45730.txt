@@ -1,0 +1,1 @@
+<title>Issue 45730 -   chromium -    FF Import is throwing an InvalidHandle exception - Project Hosting on Google Code</title> <pre> GetFirefoxInstallPathFromRegistry is throwing an InvalidHandle exception  and   returning the empty string instead of the proper directory from the registry   key. </pre>

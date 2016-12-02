@@ -1,0 +1,1 @@
+<title>Issue 45959 -   chromium -    Arabic font seem as squares - Project Hosting on Google Code</title>   1.view any web site that contain arabic fonts   2.I use Windows 7      squares instead of font          <b>Please provide

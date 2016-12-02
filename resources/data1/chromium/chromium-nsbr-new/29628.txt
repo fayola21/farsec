@@ -1,0 +1,1 @@
+<title>Issue 29628 -   chromium -    The grey &quot;installing...&quot; bubble before extension install dialog must die - Project Hosting on Google Code</title> <pre> It makes me want to stab myself everytime I see it. It should only happen for   themes. </pre>

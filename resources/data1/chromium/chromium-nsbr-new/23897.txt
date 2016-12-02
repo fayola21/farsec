@@ -1,0 +1,1 @@
+<title>Issue 23897 -   chromium -    Implement popups on linux - Project Hosting on Google Code</title> <pre> See windows  <a title="browser actions: implement popups" class=closed_ref href="/p/chromium/issues/detail?id=23596"> bug 23596 </a> .    Note that this is blocked on the extensions team deciding whether we're going   ahead with browser actions. </pre>

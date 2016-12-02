@@ -1,0 +1,1 @@
+<title>Issue 44057 -   chromium -    DevTools: Docked-Mode minimization/maximization - Project Hosting on Google Code</title> <pre> Docked-Mode minimization/maximization: Having to resize the window is annoying  very   annoying. </pre>

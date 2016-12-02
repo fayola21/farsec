@@ -1,0 +1,1 @@
+<title>Issue 2805 -   chromium -    DCHECK when deleting all the cache. - Project Hosting on Google Code</title> <pre> disk_cache::Stats::Init allows two histograms to exist with the same name   for a short period of time  so a DCHECK triggers when the second one is   created. </pre>

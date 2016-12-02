@@ -1,0 +1,1 @@
+<title>Issue 34411 -   chromium -    Upstream glue/devtools/*.js into WebKit/chromium/src - Project Hosting on Google Code</title> <pre> The JavaScript files is a part of DevTools implementation and should live close   to its C++ counterparts which it heavily depends on. </pre>

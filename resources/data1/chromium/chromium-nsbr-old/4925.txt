@@ -1,0 +1,1 @@
+<title>Issue 4925 -   chromium -    Bank ID with java does not work. - Project Hosting on Google Code</title>   1. Try to logg inn to your bankaccount.      To be able to fill in my password and logg into my bankaccount.      I get a error at the BANK ID javapage. It says I should reload the page    but nothing changes.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22033 -   chromium -    Improve URL logging in crash reporting - Project Hosting on Google Code</title> <pre> We log URL through breakpad when Chrome is crashed. But it does not work   reliably most of the time. We need to improve that.   </pre>

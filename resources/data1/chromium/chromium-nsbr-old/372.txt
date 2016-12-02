@@ -1,0 +1,1 @@
+<title>Issue 372 -   chromium -    F6 should do tabbing between frames - Venkat - Project Hosting on Google Code</title>   1. Navigate to any webpage.  2. Hit F6 continuously.        1st F6 should select the entire text in Omnibox and then after should do   tabbing among frames      Always selects text in Omnibox    Venkat Yellapu    Please provide

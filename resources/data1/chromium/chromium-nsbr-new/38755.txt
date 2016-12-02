@@ -1,0 +1,1 @@
+<title>Issue 38755 -   chromium -    Chome's tabs only resize after closing tabs once you move cursor off the tabs list - Project Hosting on Google Code</title>   1. Open 15 or so tabs  2. Close 5 tabs  3. They don't automatically resize  you have to move the cursor off the   tabs list  only then will they resize      The tabs should resize      nothing    <b>Please provide

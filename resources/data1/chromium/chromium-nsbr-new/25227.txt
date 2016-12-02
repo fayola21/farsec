@@ -1,0 +1,1 @@
+<title>Issue 25227 -   chromium -    Maximized opaque frame sized beyond the screen bounds. - Project Hosting on Google Code</title> <pre> Browser window maximizes beyond bounds of monitor (on Win7 w/ a theme   applied)    4.0.223.5 (Developer Build 29415) </pre>

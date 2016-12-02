@@ -1,0 +1,1 @@
+<title>Issue 36791 -   chromium -    chrome.tabs.update() doesn't work on pinned tabs - Project Hosting on Google Code</title> <pre> Chrome Version       : chrome.tabs.getSelected    It seems that calling chrome.tabs.update() and supplying new url for the tab   doesn't work on pinned tabs      Tab should navigate to the new URL supplied      Nothing   </pre>

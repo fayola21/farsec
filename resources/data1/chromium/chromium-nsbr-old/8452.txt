@@ -1,0 +1,1 @@
+<title>Issue 8452 -   chromium -    TurboTax Online does not support Chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : all  URLs (if applicable) : <a href="http://turbotax.intuit.com/">http://turbotax.intuit.com/</a>    Chrome fails TurboTax's System Compatibility Check because it is not listed   as one of the supported browsers. </pre>

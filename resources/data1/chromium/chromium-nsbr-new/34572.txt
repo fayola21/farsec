@@ -1,0 +1,1 @@
+<title>Issue 34572 -   chromium -    Add support for remembering a decision to allow/block cookies - Project Hosting on Google Code</title> <pre> Add support for remembering a decision to allow/block cookies    This is a bit tricky since we could have some other set-cookie prompts in   flight. </pre>

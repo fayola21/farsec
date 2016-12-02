@@ -1,0 +1,1 @@
+<title>Issue 34214 -   chromium -    Chrome won't save passwords - Project Hosting on Google Code</title>   1.Open a website  that requires username and password.  2.Log-in.      Chrome should ask  wheter to save the password or not      Nothing (well  the login succeeds of course  but you have to reenter the   passwort every time)    <b>Please provide

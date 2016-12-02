@@ -1,0 +1,1 @@
+<title>Issue 33403 -   chromium -    Auto completion feature for inspector console is broken - Project Hosting on Google Code</title> <pre> This happens on Google Chrome 5.0.307.1 (Official Build 37331) and Chromium	  5.0.309.0 (Developer Build 37410) </pre>

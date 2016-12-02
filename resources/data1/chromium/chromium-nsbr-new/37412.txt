@@ -1,0 +1,1 @@
+<title>Issue 37412 -   chromium -    &lt;link&gt; dom object has display set to 'none' by default - Project Hosting on Google Code</title>   1. just click on the URL and the tabs are not showing up  while in Firefox it   displayed as normal.          Tabs showing up      All tabs are hidden    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39183 -   chromium -    Component extensions should be able to access chrome://theme/ URLs - Project Hosting on Google Code</title> <pre> Since component extensions are part of the browser they should be able to   access chrome://theme/ URLs so we do not have to have a copy of the images   used be the component extesnions. </pre>

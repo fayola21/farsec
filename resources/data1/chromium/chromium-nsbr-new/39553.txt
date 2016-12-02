@@ -1,0 +1,1 @@
+<title>Issue 39553 -   chromium -    Middle click removes download from download bar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.364.0 (42769)         Start download       Downlaod in the download bar is removed from the bar  if it's the last item   in the download bar then the bar is closed.       Nothing at all. </pre>

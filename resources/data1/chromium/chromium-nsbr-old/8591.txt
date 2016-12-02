@@ -1,0 +1,1 @@
+<title>Issue 8591 -   chromium -    Remove Exception for Auto Password Save crashes Chrome - Project Hosting on Google Code</title>   1. Options -&gt; Minor Tweaks -&gt; Exceptions  2. Remove or Remove all crashes Chrome        Exception removed      Exception is removed  but Chrome crashes (at least with ability to Restore   Windows  uff :)    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 7345 -   chromium -    Implement HTMLAppletElement.prototype.getString - Project Hosting on Google Code</title> <pre> We don't have bindings for this method which makes  LayoutTests/fast/dom/java-applet-calls.html fail. </pre>

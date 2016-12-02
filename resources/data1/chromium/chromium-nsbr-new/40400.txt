@@ -1,0 +1,1 @@
+<title>Issue 40400 -   chromium -    Select Boxes - Broken Feature - Project Hosting on Google Code</title>   1. Using a select box  2. Up/Down Arrow keys  Home/End keys  3. Submit      Select the option I want and submit  going to next page      Tab crashes    <b>Please provide

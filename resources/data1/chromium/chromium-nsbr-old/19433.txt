@@ -1,0 +1,1 @@
+<title>Issue 19433 -   chromium -    Saved passwords dialog is too small by default - Project Hosting on Google Code</title>   1. Go to Option -&gt; Personal Stuff -&gt; Show Saved passwords  2. The dialog box is too small.      The box opens up larger.      It opens up rather small.    <b>Please provide

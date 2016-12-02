@@ -1,0 +1,1 @@
+XHTML validation failure for DatePicker    org.apache.wicket.extensions.yui.calendar.DatePicker code generates an img tag that is missing the alt tag  which breaks XHTML validation.   

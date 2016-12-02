@@ -1,0 +1,1 @@
+wicket-examples source code view is not resizable    The wicket-examples source code view is not resizable  and is rather small on larger screens.   

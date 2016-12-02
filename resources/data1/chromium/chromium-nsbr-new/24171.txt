@@ -1,0 +1,1 @@
+<title>Issue 24171 -   chromium -    browser action: popup should run modally - Project Hosting on Google Code</title> <pre> Similarly to page and wrench menus  you should be able to click  hold and   drag into a browser action popup.  Likewise  if you click and release  moving   your mouse over the rest of the UI shouldn't activate hover events. </pre>

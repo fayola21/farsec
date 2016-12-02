@@ -1,0 +1,1 @@
+<title>Issue 16041 -   chromium -    Popup blocker bubble close button needs polish - Project Hosting on Google Code</title> <pre> the close button for the popup blocker bubble needs some love:    - rollover behavior  - clicking it shouldn't depress chunkily    Basically it should look and feel like the close button on the tabs on the  tab strip. </pre>

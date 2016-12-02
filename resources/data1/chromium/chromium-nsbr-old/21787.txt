@@ -1,0 +1,1 @@
+<title>Issue 21787 -   chromium -    Adjust sharding of layout tests to increase throughput - Project Hosting on Google Code</title> <pre> Layout tests are still too slow. Adjust the split among the test bots  since   some batches take much longer than others  and perhaps add more machines to   help.   </pre>

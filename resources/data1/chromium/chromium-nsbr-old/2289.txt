@@ -1,0 +1,1 @@
+<title>Issue 2289 -   chromium -    Facebook app KonnectFour cannot make a move - Project Hosting on Google Code</title>   1. Install KonnectFour application on Facebook  2. Start a game  3. Try to make a move      Should be able to see a token and drop into the chosen slot      No token appears  user is not able to make a move    Please provide

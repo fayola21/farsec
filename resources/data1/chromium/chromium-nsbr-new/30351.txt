@@ -1,0 +1,1 @@
+<title>Issue 30351 -   chromium -    Revision number is replaced with string 'stable' in about dlg. - Project Hosting on Google Code</title> <pre> Build: 4.0.269.0 (Official Build 34401)    Bring up about dialog.    See shown in the screenshot  revision number is replaced with   string 'stable'.    Marking this as dev blocker. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16120 -   chromium -    Ctrl+A misbehaves in Gmail on Linux - Project Hosting on Google Code</title>   1. Open gmail  2. Click into search box  3. Start typing  4. Press Ctrl+A      All text in the search box is selected      Everything on the page is selected    <b>Please provide

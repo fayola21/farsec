@@ -1,0 +1,1 @@
+<title>Issue 12972 -   chromium -    Button &quot;Continue&quot; not acting in a page - Project Hosting on Google Code</title>   1. Use the URL above and search for any doctor  2. In the list prompted  select one and click on Continue  3. Nothing happens.       Go to the next page      Nothing. Stuck on the page as if the script behind the button wasn't fired    <b>Please provide

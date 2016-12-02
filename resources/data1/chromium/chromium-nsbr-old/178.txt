@@ -1,0 +1,1 @@
+<title>Issue 178 -   chromium -    Autohide Startmenu not restoring with mouseover - Project Hosting on Google Code</title>   1. Open Chrome  2. Full Screen Window  3. Try and un-auto-hide start menu      Start menu appears like normal.      Nothing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 8118 -   chromium -    Profile no longer in Wrench [Chromium] - Project Hosting on Google Code</title> <pre> I downloaded today Chromium 2.0.167.0 (Build 10461) and noticed that   profile is gone from the wrench menu </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39728 -   chromium -    Close  Minimize  Maximize buttons highlight when mousing over shortcuts - Project Hosting on Google Code</title>   1. Open Chrome on Mac OS and mouse over a quick shortcut  2. You should see the window control buttons 'light up'  3. Other browsers such as safari do not do this (see attached files)                <b>Please provide

@@ -1,0 +1,1 @@
+Ajax support for multipart forms broken in a nested form    Ajax support for multipart forms broken in case of using a nested multipart form. The file does not get uploaded  uploadField.getFileUpload() returns null.   

@@ -1,0 +1,1 @@
+<title>Issue 6939 -   chromium -    Strange Tab beha - Project Hosting on Google Code</title> <pre> Chrome 2.0.158.0    1. The tabs are cut at the top  2. When you open a link with middle click all tabs are getting smaller </pre>

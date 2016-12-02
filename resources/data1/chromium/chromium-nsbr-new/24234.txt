@@ -1,0 +1,1 @@
+<title>Issue 24234 -   chromium -    AboutWindowController crashes when link clicked and no window open. - Project Hosting on Google Code</title> <pre>   1. Bring up About window.  2. Close any open browser windows.  3. Click on &quot;Terms of Service&quot;        Chrome crashes.    http://crash/reportdetail?reportid=37a4be3eb10b59cf </pre>

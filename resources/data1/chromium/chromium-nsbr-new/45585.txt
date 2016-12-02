@@ -1,0 +1,1 @@
+<title>Issue 45585 -   chromium -    Chrome should drop down an autocomplete list of about: and chrome: urls in the omnibox  like Opera does. - Project Hosting on Google Code</title>   1. Type 'about:' or 'chrome:' into the omnibox      A drop down auto-complete list of about: and chrome: urls      Nothing    <b>Please provide

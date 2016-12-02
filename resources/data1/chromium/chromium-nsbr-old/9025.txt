@@ -1,0 +1,1 @@
+<title>Issue 9025 -   chromium -    Download shelf should be per window  not per tab - Project Hosting on Google Code</title> <pre> Currently users are reluctant to close/navigate a tab for fear of losing   their download. </pre>

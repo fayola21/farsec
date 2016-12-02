@@ -1,0 +1,1 @@
+<title>Issue 36148 -   chromium -    SSL Certification error on any https website - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.322.2    Since recent update any HTTPS website including Google websites throws a Security red screen   warning that the certificate is not trusted. </pre>

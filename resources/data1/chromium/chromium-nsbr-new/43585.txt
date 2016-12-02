@@ -1,0 +1,1 @@
+<title>Issue 43585 -   chromium -    Shouldn't re-prepend scheme on copying incomplete hostname - Project Hosting on Google Code</title> <pre> Navigate to www.google.com.  Select &quot;www.google.co&quot;.  Copy + paste.  You get   http:// re-added.    We shouldn't be prepending the scheme when the selected hostname doesn't   match the permanent text's hostname. </pre>

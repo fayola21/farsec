@@ -1,0 +1,1 @@
+CryptoMapper ignores the IProvider argument    CryptoMapper takes a IProvider&lt;ICrypt&gt; argument  and has a default ApplicationCryptoProvider  but always ignored the configured crypto provider and directly retrieves the application crypto provider.   

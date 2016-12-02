@@ -1,0 +1,1 @@
+<title>Issue 20634 -   chromium -    Right-click button opens Developer Tools - Project Hosting on Google Code</title>   1. Install extension which adds a button to the lower menu bar (e.g. Xmarks   for Chrome).  2. Right-click the (Xmarks) button on the lower bar.      Nothing (yet).      It will open Developer Tools window.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4288 -   chromium -    64 Bit: Browser Process favicon issue in Task manager - Project Hosting on Google Code</title> <pre> OS: 64-bit vista machine.    Build: Live and ToT      1. Launch Chrome Task manager (Alt+ Esc )  2. Notice the browser process favicon.    See the attached screenshot. </pre>

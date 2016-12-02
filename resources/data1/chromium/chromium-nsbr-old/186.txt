@@ -1,0 +1,1 @@
+<title>Issue 186 -   chromium -    New Facebook switch story_options on profile Javascript error? - Project Hosting on Google Code</title>   1. view a facebook profile  2. click [edit] adjust story option to full  short  one-line  3. does not work in chrome browser                Please provide

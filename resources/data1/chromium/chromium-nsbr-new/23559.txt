@@ -1,0 +1,1 @@
+<title>Issue 23559 -   chromium -    NTP doesn't update on theme change - Project Hosting on Google Code</title> <pre> 1. load a NTP  2. switch themes  3. NTP doesn't update (you have to refresh)    it ought to be easy to force a refresh on any open NTP on theme change  no? </pre>

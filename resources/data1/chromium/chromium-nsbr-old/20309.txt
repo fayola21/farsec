@@ -1,0 +1,1 @@
+<title>Issue 20309 -   chromium -    number caculate error on gmail homepage - Project Hosting on Google Code</title>   1.visit <a href="http://mail.google.com/">http://mail.google.com/</a>  2.find text &quot;over xxxx.xxxxxx MB free space (still growing)&quot;        the correct number and growing      a fix number of 2757.272164 MB    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15706 -   chromium -    Wishlist: search boxes on NNTP - Project Hosting on Google Code</title> <pre> Please  bring back the search boxes on the NTP. Also  see <a title="Wishlist: Allow user to manage search engine shown on the new tab page" class=closed_ref href="/p/chromium/issues/detail?id=9205"> bug 9205 </a>. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45633 -   chromium -    Blank space where Browser Action grippy used to be within incognito windows. - Project Hosting on Google Code</title> <pre> See attached image for visual explanation. </pre>

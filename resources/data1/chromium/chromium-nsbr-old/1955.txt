@@ -1,0 +1,1 @@
+<title>Issue 1955 -   chromium -    Feature Request: Please add snapshot build to the about page - Project Hosting on Google Code</title>   1. Download Snapshot  2. View About Page  3. Unable to tell if update finished      It would be handy to show the build in the about page.      Arbitrary Version Number not apparently related to build number    Please provide

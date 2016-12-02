@@ -1,0 +1,1 @@
+<title>Issue 5079 -   chromium -    Incorrect &quot;Active match ordinal&quot; count on gmail and when navigating on frames - Project Hosting on Google Code</title> <pre>   1. Open an email in gmail  2. Search for a letter in the email  3. Notice that the active match ordinal (1 in 5) isn't accurate.     </pre>

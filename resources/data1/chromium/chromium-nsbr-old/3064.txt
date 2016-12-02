@@ -1,0 +1,1 @@
+<title>Issue 3064 -   chromium -    Comcast doesn't recognize this browser  but the site works - Project Hosting on Google Code</title> <pre> Not a bug per se  but the home page site of Comcast gives an &quot;update   browser&quot; message.  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5498 -   chromium -    After disabling &quot;Show PDF in browser in Adobe Reader&quot; Chrome will say &quot;There was an error opening this document. The file cannot be found&quot; - Project Hosting on Google Code</title>   1. Disable &quot;Show PDF in browser in Adobe Reader&quot;  2. Start Chrome  3. Click on any link that has a PDF                Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34492 -   chromium -    Add automation support for adding/deleting/editing bookmarks - Project Hosting on Google Code</title> <pre> Automation Proxy currently only supports hiding/showing the bookmark bar. Need support for adding/deleting bookmarks  fetching/editing  and   so on. </pre>

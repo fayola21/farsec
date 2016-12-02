@@ -1,0 +1,1 @@
+<title>Issue 16786 -   chromium -    [regression] drag-scrolling long windows very janky - Project Hosting on Google Code</title> <pre> scroll by clicking and dragging on the scrollbar. The scrollbar should stay   pretty much wherever your mouse is (it does on windows chrome). Instead it   lags behind by a significant amount. </pre>

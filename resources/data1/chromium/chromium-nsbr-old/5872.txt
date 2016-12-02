@@ -1,0 +1,1 @@
+<title>Issue 5872 -   chromium -    Cant Reply to Messages in Rogers Yahoo Email - Project Hosting on Google Code</title>   1.Go to Rogers Yahoo Mail  2.Choose email message  3.Click Reply        To be able to reply to an email          Doesnt allow you to replay. You cant type anything what so ever  Cant Reply   or forword.      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 25150 -   chromium -    cant read malayalam in google chrome - Project Hosting on Google Code</title> <pre> [malayalam]    I cant read malayalam in google chrome   </pre>

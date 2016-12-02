@@ -1,0 +1,1 @@
+Support for Binary Files in HttpProducer    Presently  the HTTP Component doesn't support transferring binary files. The attached patch adds support. Tested successfully using a file -&gt; http route with a PUT.   

@@ -1,0 +1,1 @@
+<title>Issue 44398 -   chromium -    DevTools: Copy paste does not work - Project Hosting on Google Code</title> <pre> With the scripts panel open and the console open. Copy some text in the   source code and try to paste it into the command line. </pre>

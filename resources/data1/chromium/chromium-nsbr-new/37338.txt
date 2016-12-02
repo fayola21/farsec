@@ -1,0 +1,1 @@
+<title>Issue 37338 -   chromium -    AX: Mac: tab buttons do not need AXHelp - Project Hosting on Google Code</title> <pre> Tab buttons do not need AXHelp. They just need the AXTitle </pre>

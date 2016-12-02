@@ -1,0 +1,1 @@
+<title>Issue 34486 -   chromium -    Facebook chat sound is constantly being downloaded as a file - Project Hosting on Google Code</title>   1.Start facebook chat  2.Wait for replay from antoher user  3.Observe that pop.mp3 sound is downloaded      play the sound instead download sound      pop.mp3 downloades    <b>Please provide

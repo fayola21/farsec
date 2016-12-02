@@ -1,0 +1,1 @@
+<title>Issue 23468 -   chromium -    Pixel tests: SVG empty trailing tspan causes text to not show up - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/svg/batik/text/textPosition.svg  LayoutTests/svg/batik/text/xmlSpace.svg   </pre>

@@ -1,0 +1,1 @@
+Correct javadoc for Fragment    The Fragment constructors without markupProvider argument have been deprecated but the example in the class javadoc's is still using it.   

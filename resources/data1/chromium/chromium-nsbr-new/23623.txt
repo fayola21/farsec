@@ -1,0 +1,1 @@
+<title>Issue 23623 -   chromium -    Heap profiler show 100+% usage  - Project Hosting on Google Code</title> <pre>   1.Open gmail   2.Open DevTools  3.Generate a heap profile       Usage in the 0-100% range - not above        Observed on Linux. Not tested on Win+Mac   </pre>

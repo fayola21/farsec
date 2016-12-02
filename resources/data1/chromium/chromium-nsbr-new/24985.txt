@@ -1,0 +1,1 @@
+<title>Issue 24985 -   chromium -    bookmark bar &quot;off the side&quot; menu (chevron) not functional - Project Hosting on Google Code</title> <pre> Add bookmarks.  Shrink window so chevron shows.  Note it overlaps with buttons so it is difficult to   use.   </pre>

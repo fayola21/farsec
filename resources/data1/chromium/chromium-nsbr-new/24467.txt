@@ -1,0 +1,1 @@
+<title>Issue 24467 -   chromium -    Browser action popups should never take more than 200ms to display - Project Hosting on Google Code</title> <pre> If we don't have anything from the renderer  we should just display a blank   bubble while we wait  then resize when we finally get back dimensions. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6174 -   chromium -    REGRESSION: Caption buttons drawn inactive in Aero - Project Hosting on Google Code</title> <pre> (Magic browzr)    In Aero  the caption buttons are always drawn as if the window is inactive.    They hover properly  but don't draw their unhovered state properly for an   active window. </pre>

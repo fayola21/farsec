@@ -1,0 +1,1 @@
+<title>Issue 25023 -   chromium -    Chrome hangs when trying to enter an ftp site (ftp://ftp.pdcresearch.com.ar/) - Project Hosting on Google Code</title>   1. go to ftp.pdcresearch.com.ar  2. chrome will hung and you can't do nothing rather than closing it.      You can see a login window.      It hungs.    <b>Please provide

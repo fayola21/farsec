@@ -1,0 +1,1 @@
+<title>Issue 41857 -   chromium -    Youtube erroneously tells me to &quot;go upgrade&quot; Flash - Project Hosting on Google Code</title>   1. Try to watch a Youtube video with Flash 10.0.45.2 installed.      The video plays.      The video is replaced with a large &quot;Go upgrade!&quot; link.    <b>Please provide

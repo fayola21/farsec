@@ -1,0 +1,1 @@
+<title>Issue 28686 -   chromium -    POPUP on secure sites Chrome 2 and 4 - Project Hosting on Google Code</title>   1. Open the site  2. Click F Connect          Open a popup window and enable Facebook connect        Nothing happens  not even notification that a popup was blocked    <b>Please provide

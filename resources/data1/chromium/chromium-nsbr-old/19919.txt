@@ -1,0 +1,1 @@
+<title>Issue 19919 -   chromium -    Can not startup with enable-extensions argument - Project Hosting on Google Code</title>   1.start chrome with --enable-extensions argument  2.the browser won't startup                  <b>Please provide

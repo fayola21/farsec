@@ -1,0 +1,1 @@
+<title>Issue 9330 -   chromium -    Printing GMail emails results in cut off edges on bottom and right edges - Project Hosting on Google Code</title>   1.Open an email (mine is 5 pages long)  2.Click Print All  3.Let it print      A page without the bottom and right edges of text cut short      The edges are cut short and text is missing    <b>Please provide

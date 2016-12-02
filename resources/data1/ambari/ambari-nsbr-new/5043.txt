@@ -1,0 +1,1 @@
+oozie-site.xml defaults need to be updated for 2.1 stack    oozie-site.xml needs the following two services added to the list of services:org.apache.oozie.service.XLogStreamingService (needed to display logs)org.apache.oozie.service.JobsConcurrencyService (needed to run Recovery Service - for example  this would handle jobs that are dangling and stuck in RUNNING state)   

@@ -1,0 +1,1 @@
+<title>Issue 8091 -   chromium -    Wishlist: Autocopy - Project Hosting on Google Code</title>               Select text and it's automatically copied plain text to the clipboard. Like   Linux.            Please provide

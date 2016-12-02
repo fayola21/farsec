@@ -1,0 +1,1 @@
+<title>Issue 44299 -   chromium -    Drop-down menu don't work in Cisco Call Manager web interface - Project Hosting on Google Code</title>   1. Get the 7-th (last) version of Cisco Call Manager (or Cisco Presence   Server). Login to it.  2. Try to execute any administration task on it          Drop-down menus are visible and selectable.        Nothing.    <b>Please provide

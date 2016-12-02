@@ -1,0 +1,1 @@
+<title>Issue 2048 -   chromium -    Google page is not showing up properly some time in Chrome - Project Hosting on Google Code</title> <pre>   1. Google page is not showing up properly some time in Chrome  2. Also happening in Safari. IE and FF works fine  3. Page should show up properly in Chrome    See Attached Screen Shot  --------------------------- </pre>

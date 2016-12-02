@@ -1,0 +1,1 @@
+<title>Issue 7510 -   chromium -    Taskbar not accessible (auto-hide) when Chrome is maximized. - Project Hosting on Google Code</title>   1. Auto-hide taskbar  2. Use Windows Classic theme  3. Maximize Chrome      The taskbar shows when hovering near the bottom of the screen      The taskbar does not show when hovering near the bottom of the screen.    <b>Please provide

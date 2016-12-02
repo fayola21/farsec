@@ -1,0 +1,1 @@
+<title>Issue 1923 -   chromium -    Dope War of Facebook - Project Hosting on Google Code</title>   1. Log in your account in facebook  2. Add a application named Dope War  3. and start to play it no buttons will be clicked...      simply click of buttons and pages display       but buttons are not clicked and nothing of that page works..    Please provide

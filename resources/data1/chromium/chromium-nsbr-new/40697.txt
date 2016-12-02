@@ -1,0 +1,1 @@
+<title>Issue 40697 -   chromium -    Themes which paint only an overlay image are broken - Project Hosting on Google Code</title> <pre> After one of my planned changes goes in  themes which paint only an overlay image over the   standard window background will probably be broken on Mac.  I don't know if any such themes   exist in real life. </pre>

@@ -1,0 +1,1 @@
+Integer overflow in AbstractToolbar    private static int counter = 0;This counter will overflow anytime... Please remove static.   

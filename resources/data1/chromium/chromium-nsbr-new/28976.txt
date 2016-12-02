@@ -1,0 +1,1 @@
+<title>Issue 28976 -   chromium -    bookmark bar menus should use a shared controller/utility - Project Hosting on Google Code</title> <pre> Each platform has it's own impl of handling the context menus on the   bookmark bar  it would be nice to share the right click menus so they stay in   sync and we don't have three copies of almost the same thing to update. </pre>

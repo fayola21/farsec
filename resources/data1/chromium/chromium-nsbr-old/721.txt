@@ -1,0 +1,1 @@
+<title>Issue 721 -   chromium -    Content Not Playing - Project Hosting on Google Code</title>   1. Once I sign in and try to play the online course it fails  2. I'm guessing its some kind of flash /ajax/java player        The course player loads the content.      &quot;Please wait&quot; scrolls constantly    Please provide

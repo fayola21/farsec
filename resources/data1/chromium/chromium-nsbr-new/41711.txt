@@ -1,0 +1,1 @@
+<title>Issue 41711 -   chromium -    buildbot.status.builder.BuilderStatus.getLastFinishedBuild() is deeply broken - Project Hosting on Google Code</title> <pre> It should do a loop instead of checking the last top two. It fails with   simultaneous builds otherwise. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29733 -   chromium -    Need a way to provide customized context menu for extensions - Project Hosting on Google Code</title> <pre> An extension should be able to provide the complete context menu or extend   the built in context menu. </pre>

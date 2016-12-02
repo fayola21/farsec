@@ -1,0 +1,1 @@
+<title>Issue 27982 -   chromium -    New Chrome stability worst than previous version - Project Hosting on Google Code</title>   1. Access www.google.com  2. Continue to get 'Aw Snap'  3. Reload of page works momentarily.      - Dont 'Aw Snap' if everything is fine.      Productivity loss.    <b>Please provide

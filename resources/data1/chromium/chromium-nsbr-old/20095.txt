@@ -1,0 +1,1 @@
+<title>Issue 20095 -   chromium -    Scrolling slow; not smooth like firefox - Project Hosting on Google Code</title>   1.Any webpage; very noticeable in a large page           Smooth scrolling like firefox. This is very noticeable in a large page   like distrowatch.com        Jerky uneven scroll on a web page    <b>Please provide

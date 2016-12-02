@@ -1,0 +1,1 @@
+<title>Issue 35338 -   chromium -    implement edit mode for history page - Project Hosting on Google Code</title> <pre> There should be an edit mode for history which adds checkboxes and a delete   button similar to google search history. </pre>

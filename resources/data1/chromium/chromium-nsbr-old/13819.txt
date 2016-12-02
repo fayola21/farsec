@@ -1,0 +1,1 @@
+<title>Issue 13819 -   chromium -    Google chrome crashe - while opening settings menu - Project Hosting on Google Code</title>   1.clicking the settings icon.          To show the options and its sub menus      It crashes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40595 -   chromium -    Too much horizontal space around action icon in new omnibox - Project Hosting on Google Code</title> <pre> On the Mac  when the globe/lock/magnifying glass was moved to the left of  the URL  too much whitespace was left to the right and left of the icon. It  looks odd and doesn't match the windows version (which looks good).     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13866 -   chromium -    Browser crash - Project Hosting on Google Code</title>   1.selecting page and chrome customization menus          select various options and controls      chrome crashes    <b>Please provide

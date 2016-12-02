@@ -1,0 +1,1 @@
+<title>Issue 24820 -   chromium -    email problems - Project Hosting on Google Code</title>   1.  try to attach a file in a yahoo email  2.  click on attach  3.  email disappears      I am trying to send an email with an attachment in yahoo mail.        when I click on attach  the entire email disappears and a blank email form   appears instead    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2980 -   chromium -    Need a setStopProvisionalFrameLoads on layoutTestController - Project Hosting on Google Code</title> <pre> The layout test LayoutTests/fast/loader/stop-provisional-loads.html fails   because we don't have layoutTestController.setStopProvisionalFrameLoads   implemented.     </pre>

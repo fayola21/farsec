@@ -1,0 +1,1 @@
+<title>Issue 6198 -   chromium -    Tabs dissapear when window is maximized after dragging tab out of main window. - Project Hosting on Google Code</title>   1. Open Chrome  2. Create new tab  3. Drag tab out of original window to create a new window.  4. Maximize the new window      Tabs show up normally like in the main window      The tab bar is missing.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12902 -   chromium -    Need unit test for clear_browsing_data_controller - Project Hosting on Google Code</title> <pre> chrome/browser/cocoa/clear_browsing_data_controller needs a unit test   which means some of its internals need to be re-factored and exposed so  that they can be tested w/out hitting the modal dialog in -runModalDialog. </pre>

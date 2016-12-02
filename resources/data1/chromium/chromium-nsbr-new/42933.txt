@@ -1,0 +1,1 @@
+<title>Issue 42933 -   chromium -    No bookmark manager keyboard shortcut (available in Google Chrome but not Chromium) - Project Hosting on Google Code</title>   1.Search for a keyboard shortcut to open the bookmark manager.          Find a keyboard shorcut to open bookmark manager.      No shortcut found.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32998 -   chromium -    chrome does not work with yahoo mail - Project Hosting on Google Code</title> <pre> would not delete email  crashed yahoo mail.  Had to exit tab and reload  program.      Bailed on Chrome  will be back when you fix the bugs.  Nice product   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12211 -   chromium -    Add a page cycler bot running on slower hardware - Project Hosting on Google Code</title> <pre> Add a page cycler bot running on slower hardware    Our current page cycler runs on fairly fast hardware.  That probably   minimizes the impact of CPU intensive code. </pre>

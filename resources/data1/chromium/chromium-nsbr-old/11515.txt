@@ -1,0 +1,1 @@
+<title>Issue 11515 -   chromium -    Linux: persistent findbar occlusion problems - Project Hosting on Google Code</title> <pre>   1. open find bar  2. type &quot;m&quot; in url bar  3. try to open find bar again  4. facepalm   </pre>

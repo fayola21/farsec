@@ -1,0 +1,1 @@
+<title>Issue 25983 -   chromium -    GPU-translucent windowless GPU (12) - Project Hosting on Google Code</title> <pre> Support translucent windowless GPU plugin with video memory readback or   otherwise   </pre>

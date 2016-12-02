@@ -1,0 +1,1 @@
+<title>Issue 46206 -   chromium -    Google.com text field focus and auto suggest broken - Project Hosting on Google Code</title>   1. Go to google.com  2. Focus is not in the google search box  3. Once you start typing  auto-suggest doesn't work      Focus is on the google search box and auto-suggest works      Auto-suggest is broken    <b>Please provide

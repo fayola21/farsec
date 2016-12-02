@@ -1,0 +1,1 @@
+<title>Issue 2604 -   chromium -    Visual Studio 2008 compilation problem - Project Hosting on Google Code</title>   1. Loading Chromium solution file and trying to compile          Successful compilation.      Compilation failed.    Please provide

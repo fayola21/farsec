@@ -1,0 +1,1 @@
+<title>Issue 22692 -   chromium -    Display of XML family in Chrome (XML  XSD  WSDL) etc... - Project Hosting on Google Code</title>   1. Open any XML family member (XML  XSD  WSDL) in IE 6+ It lists the XML   with human readable  2. Open the same XML family member in Google Chrome.. Its just junk.                  <b>Please provide

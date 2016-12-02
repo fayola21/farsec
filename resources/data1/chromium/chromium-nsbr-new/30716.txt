@@ -1,0 +1,1 @@
+<title>Issue 30716 -   chromium -    [Mac] missing focus ring in omnibox - Project Hosting on Google Code</title> <pre> The omnibox has lost its focus ring! Oh noes! Regression! </pre>

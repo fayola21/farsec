@@ -1,0 +1,1 @@
+<title>Issue 18558 -   chromium -    Crash after right click on gmail opened tasks - Project Hosting on Google Code</title>   1. sign in gmail  2. click tasks to open tasks list  3. Right click on some task (Some times it takes two or three right clicks)  4. Browser crash      Popup menu.      Browser crash    <b>Please provide

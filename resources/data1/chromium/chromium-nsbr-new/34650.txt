@@ -1,0 +1,1 @@
+<title>Issue 34650 -   chromium -    telmopena@hotmail.com - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;from cf:about:version&gt;            1.No existe carpetas para favoritos.    2.No hay barra de herramientas.    3.La reproducci��__n de videos sigue fallando como en otros navegadores.           </pre>

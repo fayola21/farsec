@@ -1,0 +1,1 @@
+<title>Issue 309 -   chromium -    MySpace captcha fails everytime. - Project Hosting on Google Code</title>   1. Update user's profile information.  2. Attempt to submit it.  3. If a captcha pops up  you're likely stuck.      Profile updates after captcha is confirmed.      Page refreshes with a new captcha upon submission.    Please provide

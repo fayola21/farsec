@@ -1,0 +1,1 @@
+<title>Issue 31631 -   chromium -    shift-click sometimes opens links in tabs instead of new windows  especially in gmail - Project Hosting on Google Code</title>   1. open gmail  2. go to a mail message with a link in it  3. shift-click the link      The link is opened in a new window      The link is opened in a new tab    <b>Please provide

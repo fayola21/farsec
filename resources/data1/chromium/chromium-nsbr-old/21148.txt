@@ -1,0 +1,1 @@
+<title>Issue 21148 -   chromium -    Gmail compose rendering issue with attach file link. - Project Hosting on Google Code</title> <pre> ToT (r 25564)    -Login to Google internet email a/c and click on compose link.    see the screenshot  fo attach file link !!! </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31 -   chromium -    &quot;Become a fan&quot; on facebook does not work - Project Hosting on Google Code</title>   1. Login to facebook  2. Search for &quot;Google Chrome&quot;  3. Try to click on &quot;Become a fan&quot;      Some javascript should do something and facebook would make you a fan of   Google Chrome.      Nothing.    Please provide

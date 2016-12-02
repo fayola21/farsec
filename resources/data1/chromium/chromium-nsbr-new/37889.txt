@@ -1,0 +1,1 @@
+<title>Issue 37889 -   chromium -    Mac: when there's no theme  the floating bar in fullscreen mode should have a gradient - Project Hosting on Google Code</title> <pre> Being the idiot that I am  I'll take this. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15640 -   chromium -    Dragging images to the desktop does not work in Mac Chrome - Project Hosting on Google Code</title> <pre>   1. Load a page with an image  2. Attempt to drag the image to the desktop  3. Notice that you don't get the image saved to the desktop     </pre>

@@ -1,0 +1,1 @@
+Strange IResourceStream type hierarchy    Current type hierarchy looks likeIResourceStream IStringResourceStream AbstractResourceStream AbstractStringResourceStreamIt propobly should rather beIResourceStream AbstractResourceStream IStringResourceStream AbstractStringResourceStream   

@@ -1,0 +1,1 @@
+<title>Issue 26072 -   chromium -    Cannot set Chromium as Standard Browser under Vista/7 - Project Hosting on Google Code</title>   1. Open options dialog  2. Try to set as standard browser  3. You read (even as started as admin): Chromium cannot determine or set   default browser      Should be possible to set default browser how at WinXP      <b>Please provide

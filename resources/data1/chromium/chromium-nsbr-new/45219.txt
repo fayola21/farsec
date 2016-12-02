@@ -1,0 +1,1 @@
+<title>Issue 45219 -   chromium -    Chrome French 5.0.375.55 in the Customize Synchronisation box  the text is truncated  - Project Hosting on Google Code</title> <pre>   French      5.0.375.55      Windows XP SP3      in the Customize Synchronisation box  the text is trunkated        </pre>

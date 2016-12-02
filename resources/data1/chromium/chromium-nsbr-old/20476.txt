@@ -1,0 +1,1 @@
+<title>Issue 20476 -   chromium -    Performance degradation Chrome 2 &amp; 3 (latest)  - Project Hosting on Google Code</title>   1.Opening tabs (more than one)  2.Using first tab while others load        Be able to scroll &amp; read first tab while other-(others) are loading.      All open tabs are &quot;frozen &quot; until the last tab fully loads page.    <b>Please provide

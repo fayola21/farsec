@@ -1,0 +1,1 @@
+camel-stream should not close stream after each write    The StreamProducer in camel-stream closes the stream after every write  which significantly affects performance.   

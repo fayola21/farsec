@@ -1,0 +1,1 @@
+<title>Issue 21680 -   chromium -    Translation inaccuracy - Project Hosting on Google Code</title> <pre> [LT]    [2.0.172.43]    [Vista]    [...paspauskite &quot;Atstatyti&quot; (press &quot;Restore&quot;) &lt;&gt; &quot;Atkurti&quot; on the button]    [for &quot;Restore&quot; ir better &quot;Atkurti&quot; - the same like on the button]   </pre>

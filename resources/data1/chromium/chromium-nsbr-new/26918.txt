@@ -1,0 +1,1 @@
+<title>Issue 26918 -   chromium -    Google Reader settings screen fails to load - Project Hosting on Google Code</title>   1. Click the settings link within Google Reader.           To see the Google Reader settings screen.      Page indicates that it is loading but never appears.     <b>Please provide

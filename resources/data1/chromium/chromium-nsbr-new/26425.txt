@@ -1,0 +1,1 @@
+<title>Issue 26425 -   chromium -    Can't open PDF - Project Hosting on Google Code</title> <pre> Go anywhere and try to open a PDF file.    First of all  you can't OPEN anything  you have to save it.  That is a   serious issue.  Second of all  you can't open/save PDFs at all.  The browser just freezes up. </pre>

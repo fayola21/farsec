@@ -1,0 +1,1 @@
+<title>Issue 33829 -   chromium -    Permanent cookies expire after a few days - Project Hosting on Google Code</title>   1. Save postcode in ebay when sorting by price and postage (just an   example)  2. Wait 3 or 4 days.        Chrome should remember the information.      Chrome will ask for information again that was once saved in the cookie.      <b>Please provide

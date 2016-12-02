@@ -1,0 +1,1 @@
+<title>Issue 20929 -   chromium -    Make extensions appear on left  bookmarks on right  for extensions on top - Project Hosting on Google Code</title> <pre> As discussed  the extension toolstrips should appear on the left  and the   bookmarks should appear on the right  because bookmarks have better overflow   UI. </pre>

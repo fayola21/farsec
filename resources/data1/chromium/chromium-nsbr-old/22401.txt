@@ -1,0 +1,1 @@
+<title>Issue 22401 -   chromium -    Crashes after adding  --enable-sync - Project Hosting on Google Code</title>   1. Relaunch of browser with the --enable-sync causes app to crash  2. Removal of extension allows for app to launch and run normally                <b>Please provide

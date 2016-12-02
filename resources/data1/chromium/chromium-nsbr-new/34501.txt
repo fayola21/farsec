@@ -1,0 +1,1 @@
+<title>Issue 34501 -   chromium -    Seccomp sandbox fails when logging occurs - Project Hosting on Google Code</title> <pre> chrome --enable-seccomp-sandbox --log-level=0    Page fails to start.  Markus says logging *ought* to work  so this needs   investigation. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2872 -   chromium -    Overlapping tabs in Vista - Project Hosting on Google Code</title>   1. Open Chromium  2. Open 10-20 Tabs  3. Maximize Chromium if its not      The tabs will resize so you can click on minimize/maximize/close buttons      The tabs overlap over the minimize/maximize/close buttons    Please provide

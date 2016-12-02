@@ -1,0 +1,1 @@
+<title>Issue 18573 -   chromium -    Spacing on page/wrench menu items is wrong - Project Hosting on Google Code</title> <pre> The page menu icon is too close to the end of the address bar.  There is not enough spacing between the two icons or the right edge of the   toolbar. Compare to Windows/Linux. </pre>

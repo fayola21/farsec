@@ -1,0 +1,1 @@
+<title>Issue 28168 -   chromium -    add a use_system_yasm flag into ffmpeg.gyp to make ubuntu packaging easier. - Project Hosting on Google Code</title> <pre> We need to allow ffmpeg to be built without also building yasm to make   Ubuntu packaging sane. </pre>

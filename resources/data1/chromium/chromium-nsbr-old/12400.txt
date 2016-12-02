@@ -1,0 +1,1 @@
+<title>Issue 12400 -   chromium -    Sluggish scrolling on fixed background webpages - Project Hosting on Google Code</title>   1. Any website that uses the &quot;background-attachment: fixed;&quot; element in its   stylesheet.                Smooth scrolling.        Heavy  sluggish scrolling  almost as if the browser is using too much CPU.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30215 -   chromium -    Loading same Flash video in two tabs has errors - Project Hosting on Google Code</title>   1. Open <a href="http://www.youtube.com/watch?v=jFgBgU9CcCQ">http://www.youtube.com/watch?v=jFgBgU9CcCQ</a> in two tabs        Both videos play        Only the first tab plays    <b>Please provide

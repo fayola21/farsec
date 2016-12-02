@@ -1,0 +1,1 @@
+<title>Issue 43847 -   chromium -    XML tree extention crasher for big XML file - Project Hosting on Google Code</title>   1. Navigate to big XML file  2. XML tree extention will start parsing the XML  3. All domain tabs will crash      XML is parsed and nicely shown      All domain tabs fail    <b>Please provide

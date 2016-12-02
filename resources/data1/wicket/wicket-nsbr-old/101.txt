@@ -1,0 +1,1 @@
+Lazy-registration fails for mounted resources.    If you mount a CSS resource which has background image url() links  the lazy-resolution code in SharedResourceRequestTarget doesn't search class aliases when it tries to locate the image  which is rather annoying.   

@@ -1,0 +1,1 @@
+<title>Issue 9115 -   chromium -    Implement WidgetGtk - Project Hosting on Google Code</title> <pre> The Widget interface needs to be fully implemented in WidgetGtk. See   WidgetWin as a general reference. </pre>

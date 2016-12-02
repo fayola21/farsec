@@ -1,0 +1,1 @@
+<title>Issue 20647 -   chromium -    chrome://&lt;&gt; pages don't auto-complete in Omnibox - Project Hosting on Google Code</title>   1. Open chrome://history first time  2. Next time  as you start typing chr...it should auto-complete the URL                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 23179 -   chromium -    New Tabs do not open - Project Hosting on Google Code</title> <pre> Chrome Version       : Build 27328  URLs (if applicable) : gmail.com      1. command-t to open new tab  file&gt;new tab        new tab        no new tab visibly opens  though present tab appears to shrink to accomodate more tabs   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 46116 -   chromium -    test_shell and test_shell_tests fail to link when WTF_USE_ACCELERATED_COMPOSITING is defined  - Project Hosting on Google Code</title> <pre> Linker reports unresolved symbols from the GLES2 C library.   </pre>

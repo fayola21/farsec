@@ -1,0 +1,1 @@
+<title>Issue 37230 -   chromium -    Gmail throbber / favicon unstable - Project Hosting on Google Code</title>   1. Visit gmail account            Throbber and favicon (gmail app) show correctly        1. Proper hrobber sometimes shows  sometimes not (reverts to default).  2. Gmail favicon in app version changes to default favicon    <b>Please provide

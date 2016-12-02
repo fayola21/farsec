@@ -1,0 +1,1 @@
+<title>Issue 15671 -   chromium -    Chrome closes when last tab closed - Project Hosting on Google Code</title>   1. Start Chrome  2. Close Last Tab  3. Chrome Closes       When I close a webpage I expect the browser to remain open. Perhaps showing   the same content as a new tab. Or just not allow the last tab to be closed.      The browser closes    <b>Please provide

@@ -1,0 +1,1 @@
+Read timeout issues in Oracle JDBC connections where read has a long timeout    Read timeout issues in Oracle JDBC connections where read has a long timeout. This happens when the read timeout is too long. In order to set appropriate timeout  add specially prefixed values in ambari.properties   

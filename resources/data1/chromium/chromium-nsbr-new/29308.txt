@@ -1,0 +1,1 @@
+<title>Issue 29308 -   chromium -    Allow braces in search engine URLs - Project Hosting on Google Code</title> <pre> You can't create a URL containing braces as a search engine.  You can hack   around it with %7B and %7D but we should just allow them if they're not   wrapping a reserved word.   </pre>

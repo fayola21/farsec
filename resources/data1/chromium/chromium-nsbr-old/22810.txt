@@ -1,0 +1,1 @@
+<title>Issue 22810 -   chromium -    Middle clicking a link should not trigger an onpaste event - Project Hosting on Google Code</title> <pre>   1. Middle click a link on a page that has a body onpaste handler      Expected: Link opens in new tab.  Result: Onpaste handler triggers and link opens in new tab.   </pre>

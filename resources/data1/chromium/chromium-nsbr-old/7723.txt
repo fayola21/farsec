@@ -1,0 +1,1 @@
+<title>Issue 7723 -   chromium -    No cursor in history search text box - Project Hosting on Google Code</title>   1. Type ctl-H to get history window  2. Click in &quot;Search History&quot; text box.        A vertical line cursor appears  so I know that the application is working   and text I type will appear where the cursor is.        Nothing.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36789 -   chromium -    Menu extension does not appear - Project Hosting on Google Code</title>   1.install new version  2.go to tools and extension  3.there is a blank page      page of the installed extension      Blank page    <b>Please provide

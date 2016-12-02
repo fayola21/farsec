@@ -1,0 +1,1 @@
+<title>Issue 17808 -   chromium -    &lt;video&gt;/&lt;audio&gt; crashes with default controls on and witout src - Project Hosting on Google Code</title> <pre>   1. Open a page with &lt;video controls&gt;&lt;/video&gt;  2. Click on play/pause a few times  3. Move over the controls again  then it crashes      It should not crash.       </pre>

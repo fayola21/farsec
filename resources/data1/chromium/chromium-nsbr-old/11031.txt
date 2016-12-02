@@ -1,0 +1,1 @@
+<title>Issue 11031 -   chromium -    alt command doesn't display the alt words in quotes but rather the web site name - Project Hosting on Google Code</title>   1. put the cursor over an image in the navigation pane          You should get a descriptive comment about the image.      You get the name of the web site.    <b>Please provide

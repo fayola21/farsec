@@ -1,0 +1,1 @@
+<title>Issue 18348 -   chromium -    bookmark bar button ought to center favicon when label is empty - Project Hosting on Google Code</title> <pre> if you make the label on a bookmark empty you can have a cool little button   that takes up very little space. (Users do do this.) Currently the icon is   rendered too far left (noticeable when hovering). </pre>

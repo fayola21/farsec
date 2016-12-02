@@ -1,0 +1,1 @@
+<title>Issue 9393 -   chromium -    The bookmarks title in the bubble should be left justified  - Project Hosting on Google Code</title> <pre> TOT.    I don't think it never worked.    -Navigate to a webpage which has long title (eg: cnn.com)  -Ctrl+d to show up the bookmark bubble.    Observe  the title name is right justified instead of left.  </pre>

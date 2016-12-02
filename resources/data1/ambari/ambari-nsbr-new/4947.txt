@@ -1,0 +1,1 @@
+Change Hive alerts to move away from Hive metadata queries to port checks    1) remove 'Hive Metastore status' alert2) add 'Hive Metastore process' alert3) add 'HiveServer2 process' alert   

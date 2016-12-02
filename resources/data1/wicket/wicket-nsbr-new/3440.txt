@@ -1,0 +1,1 @@
+org.apache.wicket.util.collections.MostRecentlyUsedMap getRemovedValue method returns Object not V    org.apache.wicket.util.collections.MostRecentlyUsedMap getRemovedValue method: public Object getRemovedValue() { return removedValue; }but should be: public V getRemovedValue() { return removedValue; }   

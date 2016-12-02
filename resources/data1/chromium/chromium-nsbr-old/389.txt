@@ -1,0 +1,1 @@
+<title>Issue 389 -   chromium -    ftp sites not working - Project Hosting on Google Code</title>   1. try opening the url mentioned  2. it'll error out                  Please provide

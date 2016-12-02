@@ -1,0 +1,1 @@
+<title>Issue 14903 -   chromium -    Find bar layout/metrics - Project Hosting on Google Code</title> <pre> Sez ben: &quot;edge metrics/spacing don't match windows  and they look really  bad. left/right edge margins should match top/bottom&quot;    Basically  make it look like on windows. </pre>

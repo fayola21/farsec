@@ -1,0 +1,1 @@
+<title>Issue 45050 -   chromium -    Unpinning a closed pinned tab opens the tab - Project Hosting on Google Code</title>   1. Pin a tab  2. Close the tab (the favicon will stay in the pinned tab area)  3. Right-click the favicon and select 'unpin'      The favicon disappears from the pinned tab area      The tab opens as a full (unpinned) tab    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27301 -   chromium -    No bookmarks text isn't aligned with other bookmarks button - Project Hosting on Google Code</title> <pre> The baseline for the message and the button text aren't align.  the amount   out depends on if it is docked on the toolbar or floating in the new tab page. </pre>

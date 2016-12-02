@@ -1,0 +1,1 @@
+<title>Issue 28227 -   chromium -    Let's not show the dangerous download roadblock for downloads off the gallery - Project Hosting on Google Code</title> <pre> That was only needed to prevent clickjacking attacks from evil webpages    which we are not concerned with on the gallery. </pre>

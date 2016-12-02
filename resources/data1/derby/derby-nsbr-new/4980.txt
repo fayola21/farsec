@@ -1,0 +1,1 @@
+Replication tests lose derby.log for slave    After running ReplicationRun_Local_3_p1 I notice that of the two directories created  db_master and db_slave  only db_master contains a derby.log file. This is not so nice  since the log file is sometimes needed for test debugging   

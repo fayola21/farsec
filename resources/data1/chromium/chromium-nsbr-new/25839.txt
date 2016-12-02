@@ -1,0 +1,1 @@
+<title>Issue 25839 -   chromium -    Failing to launch Chrome or having Chrome launch and exit at startup triggers an hour long white screen of death - Project Hosting on Google Code</title> <pre> When Chrome fails to launch or exits out from under Chrome Frame  we should show something other   than the white screen of death. </pre>

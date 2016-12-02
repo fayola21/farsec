@@ -1,0 +1,1 @@
+<title>Issue 23045 -   chromium -    youtube flash problems (fullscreen  HD) - Project Hosting on Google Code</title>   1.click the HD button  2.click the fullscreen button        The expected result is to see HD flash videos  in normal size or in   fullscreen.      HD doesn't work  or works-not always-after several times  full screen   doesn't work at all.     <b>Please provide

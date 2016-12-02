@@ -1,0 +1,1 @@
+<title>Issue 43678 -   chromium -    Right-click works sporadically on Mac - Project Hosting on Google Code</title>   1. Right-click on any part of the page to open the context menu (to &quot;open in a new tab&quot; or   &quot;inspect an element &quot; etc)  2. I usually have to right-click 1-6 times to get the context menu to appear                <b>Please provide

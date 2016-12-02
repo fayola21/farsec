@@ -1,0 +1,1 @@
+<title>Issue 1991 -   chromium -    Google Spreadsheets cells do not align across the screen - Project Hosting on Google Code</title>   1. Open Spreadsheet  2. Scroll  3. See misaligned rows    What is the expected result? Rows will align      What happens instead? Rows do not align      Please provide

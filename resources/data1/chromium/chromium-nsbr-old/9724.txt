@@ -1,0 +1,1 @@
+<title>Issue 9724 -   chromium -    Wishlist: &quot;duplicate page&quot; feature needed - Project Hosting on Google Code</title> <pre> I want to suggest duplicate page feature. Sometimes it's extremely needed to   make a copy of current visible page and to continue browsing. This option is   already included in Opera and was really useful.  </pre>

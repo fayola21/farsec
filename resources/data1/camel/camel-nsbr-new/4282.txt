@@ -1,0 +1,1 @@
+Camel archetypes and examples should enable JMX for ActiveMQ    The camel-activemq archetype setup an embedded AMQ broker which has JMX disabled.We should check all our examples and archetypes that JMX is enabled for AMQ when its embedded.As it may confuse end users that they can see Camel in JMX  but not AMQ.   

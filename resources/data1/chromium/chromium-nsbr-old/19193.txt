@@ -1,0 +1,1 @@
+<title>Issue 19193 -   chromium -    omnibox blocks ctrl-* commands - Project Hosting on Google Code</title>   1.Open a new tab or click in the omnibox  2.Hit ctrl-k  ctrl-t  ctrl-w  etc.        Expect ? search to appear  new tab to open  current tab to close.      Nothing in all cases.  These commands should be global and never captured.    <b>Please provide

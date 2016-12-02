@@ -1,0 +1,1 @@
+<title>Issue 8897 -   chromium -    Crash when clicking 'Control the current page' button twice in a row - Project Hosting on Google Code</title>   1.  Click the 'Control the current page button' to open the menu  2.  Click the button again to close it  3.  Watch browser crash!      Menu should close normally.      Browser crashes.    <b>Please provide

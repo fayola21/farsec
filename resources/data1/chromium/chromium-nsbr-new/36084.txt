@@ -1,0 +1,1 @@
+<title>Issue 36084 -   chromium -    Move download shelf to a panel - Project Hosting on Google Code</title> <pre> To be more consistent with Chrome OS  we should use the panel UI to show   downloads rather than the shelf.   </pre>

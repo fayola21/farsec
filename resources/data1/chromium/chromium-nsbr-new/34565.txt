@@ -1,0 +1,1 @@
+<title>Issue 34565 -   chromium -    Chromium crash - Project Hosting on Google Code</title>   1. Run Chromium          /var/log/syslog:  kernel: [182191.035418] chromium-browse[32086]: segfault at 0 ip 083e1597  sp 05854270 error 4 in chromium-browser[8048000+2115000]          <b>Please provide

@@ -1,0 +1,1 @@
+Static id counter AbstractToolbar prevents stable component paths for testing    see summary   

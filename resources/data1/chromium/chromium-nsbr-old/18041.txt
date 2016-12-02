@@ -1,0 +1,1 @@
+<title>Issue 18041 -   chromium -    first suggestion in autocomplete dropdown is focused by default - Project Hosting on Google Code</title> <pre> title. This doesn't happen on windows. This fights with the user and is very   annoying. I bet we are doing something wrong with focus. </pre>

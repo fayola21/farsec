@@ -1,0 +1,1 @@
+The status of App Timeline Server affect the health status of YARN service.    When stopping ATS  YARN service indicator blinks red giving the idea that YARN is going down and become solid red after that. YARN service should not be indicated as STOPPED if ATS is down.   

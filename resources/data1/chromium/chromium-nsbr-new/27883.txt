@@ -1,0 +1,1 @@
+<title>Issue 27883 -   chromium -    SharedWorkers should not span incognito windows - Project Hosting on Google Code</title> <pre> Currently  incognito windows share shared workers with non-incognito   windows. We should push the incognito status down into the worker code. </pre>

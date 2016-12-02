@@ -1,0 +1,1 @@
+camel-jms - JmsPollingConsumer use the constant fields from JmsTemplate for receiveNoWait etc    See nabblehttp://camel.465427.n5.nabble.com/JmsPollingConsumer-and-method-receiveNoWait-has-incorrect-timeout-value-tp5722817.html   

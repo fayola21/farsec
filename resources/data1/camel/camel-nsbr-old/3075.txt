@@ -1,0 +1,1 @@
+Simple language - Allow unlimited usage of and or operators in expression    The simple language currently only allows using and or or operators once in the expression. We should allow unlimited usages of those.   

@@ -1,0 +1,1 @@
+<title>Issue 13620 -   chromium -    Empty element's ending tag is not shown by inspector - Project Hosting on Google Code</title> <pre> Go to http://go/empty_script.html  Bring up inspector  In head  there is an empty script element    Expected: To show ending script tag    Actual: No end tag will be seen if an element is empty   </pre>

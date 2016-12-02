@@ -1,0 +1,1 @@
+<title>Issue 38607 -   chromium -    Close Chrome - Project Hosting on Google Code</title> <pre> For some reason  whenever I completely close Chrome  it will keep my   passwords from the tabs which were open. If there is any way to fix this    please email me at mhussain0906@hotmail.com    Thank you for your help! </pre>

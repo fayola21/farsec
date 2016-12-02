@@ -1,0 +1,1 @@
+<title>Issue 22795 -   chromium -    Chrome frame causes &lt;!DOCTYPE HTML&gt; to become invalid - Project Hosting on Google Code</title>   1.create an html document with &lt;!DOCTYPE HTML&gt;  2.add the chrome frame &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;chrome=1&quot;&gt;  3.validate      valid html      invalid html    <b>Please provide

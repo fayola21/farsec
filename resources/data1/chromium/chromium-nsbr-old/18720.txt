@@ -1,0 +1,1 @@
+<title>Issue 18720 -   chromium -    Thumbnail border color is not themable - Project Hosting on Google Code</title> <pre>   1. Use a non bluish theme  2. Go to the new tab page    The color of the border should be read from the theme. We have the hover   color in the theme but not the non hover color.    The same color is now used for the &quot;Recently closed bar&quot;   </pre>

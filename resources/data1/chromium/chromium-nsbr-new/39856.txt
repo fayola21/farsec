@@ -1,0 +1,1 @@
+<title>Issue 39856 -   chromium -    Cancelling exit likely causes problems with pinned tabs and session restore - Project Hosting on Google Code</title> <pre> I suspect if an exit is canceled because of unload handlers session restore   and pinned tab state is likely screwed. </pre>

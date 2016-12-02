@@ -1,0 +1,1 @@
+<title>Issue 20596 -   chromium -    In Ubuntu 9.04 crash when click on torrent link - Project Hosting on Google Code</title>   1. go to page <a href="http://slackware.com/getslack/torrents.php">http://slackware.com/getslack/torrents.php</a>  2. click on 'Slackware 13.0 x86_64 DVD ISO (everything)'  3. Crash (chromium just dissapear)                <b>Please provide

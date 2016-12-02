@@ -1,0 +1,1 @@
+<title>Issue 2551 -   chromium -    arrows on the scrollbars disappear - Project Hosting on Google Code</title> <pre> The buttons on the scrollbars sometimes disappear. They still work   correctly though. See attached screenshot  [reported by john pelly]    </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20668 -   chromium -    implement extension packing on mac - Project Hosting on Google Code</title> <pre> See the --pack-extension feature of chrome.exe on Windows.    The main work here is implementing base/crypto/signature_creator.* on mac. </pre>

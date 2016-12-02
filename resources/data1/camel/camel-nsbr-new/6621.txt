@@ -1,0 +1,1 @@
+Add ability to connect to SQS queue of different owner    Unable to connect to Amazon SQS queue owned by a different account. In B2B scenario  would like to have different accounts for owner  writer  and reader of a queue.   

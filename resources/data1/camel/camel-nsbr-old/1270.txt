@@ -1,0 +1,1 @@
+Starting Camel using Main from camel:run or Main.class - countdown latch is hanging    The countdown latch in MainSupport is not completed when Main is stopping.Then we have a hanging thread. Can bee seen using ctrl + /   

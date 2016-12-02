@@ -1,0 +1,1 @@
+<title>Issue 21815 -   chromium -    EM values below 0.08 are not respected - Project Hosting on Google Code</title>   1. Use an EM value below 0.08 and Chrome appears to drop the value      The EM value should be rounded up to 0.1 or an acceptable value      The object is not rendered correctly    <b>Please provide

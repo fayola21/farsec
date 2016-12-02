@@ -1,0 +1,1 @@
+<title>Issue 36440 -   chromium -    Chrome crush at webpage has Frameset - Project Hosting on Google Code</title>   1. open web-page which has Frameset  2. drag a image by mouse    in my case Visual studio runtime debuger display error message   &quot;unhandle exception ... from chrome.dll&quot;       <b>Please provide

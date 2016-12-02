@@ -1,0 +1,1 @@
+<title>Issue 39099 -   chromium -    Chrome should not render the Helvetica font if it's not installed - Project Hosting on Google Code</title>   1. Visit the site listed above  2. Scroll down to the comments section      Fonts should look good.      Fonts look atrociously bad.    <b>Please provide

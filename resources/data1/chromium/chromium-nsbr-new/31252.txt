@@ -1,0 +1,1 @@
+<title>Issue 31252 -   chromium -    http/tests/security/listener/xss-inactive-closure.html fails - Project Hosting on Google Code</title> <pre> We need to change this to match Safari's behavior - instead of deleting the   entire document object  we should probably be creating a new object for the   frame to point to and leave the parent pointing to the old copy. </pre>

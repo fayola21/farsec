@@ -1,0 +1,1 @@
+<title>Issue 36698 -   chromium -    Browser Actions container resize cursor should stick when moved outside of the toolbar - Project Hosting on Google Code</title> <pre> Currently it changes to the default pointer when hovered anywhere else  even   though it uses a nested run loop that dequeues the relevant mouse events   (MouseDragged  MouseUp). </pre>

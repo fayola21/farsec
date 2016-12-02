@@ -1,0 +1,1 @@
+<title>Issue 19479 -   chromium -    middle click not opening url from clipboard - Project Hosting on Google Code</title>   1. Get any URL in clipboard or primary paste buffer  2. Middle click inside Chromium window  avoid any active elements        URL from clipboard should be opened in current tab        Nothing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22532 -   chromium -    Enhance our portable NTLM implementation to support NTLMv2 - Project Hosting on Google Code</title> <pre> We have a portable NTLM implementation  in  net/http/http_auth_handler_ntlm_portable.{h cc}  that is used  for all non-Windows platforms.  That implementation doesn't  support NTLMv2 yet. </pre>

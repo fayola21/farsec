@@ -1,0 +1,1 @@
+<title>Issue 1151 -   chromium -    Instead of playing 'new email sound' just downloads the sound. - Project Hosting on Google Code</title>   1. turn sounds on in web gmail  2. send an email to self  3. sound downloads instead of playing      should play sound      downloads it instead    Please provide

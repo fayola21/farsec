@@ -1,0 +1,1 @@
+<title>Issue 33732 -   chromium -    Continue crash enabling favorite sync - Project Hosting on Google Code</title>   1. Open Chrome from first computer  2. Sync favorite  3. Open Chrome from second computer  4. On startup chrome crash   5. When reopen chrome crash in continuos        Chrome don't crash        Continue Chrome crash    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 18294 -   chromium -    Find box retains focus across tab switches - Project Hosting on Google Code</title> <pre> Open two tabs.  Hit ctl-F to find in one.  Hit ctl-tab to switch to the   other.  Type some other text.    Result: searches on the tab  despite no find box visible.  Expected: does not search. </pre>

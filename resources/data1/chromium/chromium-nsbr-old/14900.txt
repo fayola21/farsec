@@ -1,0 +1,1 @@
+<title>Issue 14900 -   chromium -    Grow the window  don't shrink the content area - Project Hosting on Google Code</title> <pre> When we display a bar (info  bookmark  download  etc) we currently shrink  the content area to match. We should instead grow the window so the content  area doesn't change size. </pre>

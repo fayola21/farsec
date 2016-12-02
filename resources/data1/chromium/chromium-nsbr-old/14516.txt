@@ -1,0 +1,1 @@
+<title>Issue 14516 -   chromium -    Enable SDCH on Mac/Linux - Project Hosting on Google Code</title> <pre> The underlying code is all building (I think)  but the enabling calls in   browser_main need to be removed from platform ifdefs.    I'll test out a build  and if it works  submit a CL. </pre>

@@ -1,0 +1,1 @@
+camel-mina - codec options should fail if not possible to find i registry    If you configure the codec option on camel-mina and you eg make a spelling mistake camel will default to Mina default protocol if not found. We should throw an exception instead so end user knows about this and can fix his spelling mistake.   

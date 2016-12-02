@@ -1,0 +1,1 @@
+<title>Issue 32052 -   chromium -    Crash on &quot;About Google Chrome&quot; dialog in 4.0.228.1 - Project Hosting on Google Code</title>   1. Options -&gt; About User Chrome  2. See popup with version.  3. Move focus away from Chrome.      Anything not involving a crash.      Chrome crashes.    <b>Please provide

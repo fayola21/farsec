@@ -1,0 +1,1 @@
+<title>Issue 34979 -   chromium -    Settings window small for content. - Project Hosting on Google Code</title> <pre>   Russian      5.0.317.2 (build 38193) dev      Windows XP sp3      Text is ok  but settings window small for content.       </pre>

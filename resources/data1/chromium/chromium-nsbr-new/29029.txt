@@ -1,0 +1,1 @@
+<title>Issue 29029 -   chromium -    Can't drag a bookmark into search field - Project Hosting on Google Code</title>   1. Have at least one bookmark  2. Open bookmark manager  3. Select the bookmark and drag to the search field       The bookmark link will get populated in the search field      Nothing    <b>Please provide

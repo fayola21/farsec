@@ -1,0 +1,1 @@
+<title>Issue 41026 -   chromium -    Window will resize smaller than usable and the window buttons mess up - Project Hosting on Google Code</title>   1. Open chrome  2. Resize the window smaller from the left side      the window stops resizing when its unusably small  or the window controls   are holding it open      see attachement    <b>Please provide

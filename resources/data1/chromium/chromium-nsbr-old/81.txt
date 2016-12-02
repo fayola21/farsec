@@ -1,0 +1,1 @@
+<title>Issue 81 -   chromium -    Doesn't work well with dual monitors - Project Hosting on Google Code</title>   1. Drag Chrome onto monitor 2.  2. Hit maximise        The browser should maximize into a window that fits the 2nd monitor's screen.      The browser instead stretches over onto monitor 1.    Please provide

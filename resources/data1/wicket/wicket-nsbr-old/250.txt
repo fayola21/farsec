@@ -1,0 +1,1 @@
+Support  src attribute by Link (TextTemplateLink)    The Link class has support for the href proper elements and elements for generating an onclick handler. For the TextTemplateLInk this is not enough  as binding it to a &lt;script&gt; tag results in an onclick handler. As in the &lt;head&gt; tag it is impossible to click on anything  this doesn't work.   

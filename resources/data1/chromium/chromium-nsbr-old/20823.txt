@@ -1,0 +1,1 @@
+<title>Issue 20823 -   chromium -    Aw Snap! text mis-clipped - Project Hosting on Google Code</title> <pre> 1. do about:crash  2. Note that bottom of the Aw  Snap! text is clipped    I'm on <a href="/p/chromium/source/detail?r=25076">r25076</a>  </pre>

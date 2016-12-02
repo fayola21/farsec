@@ -1,0 +1,1 @@
+<title>Issue 8783 -   chromium -    Can't set display none to a legend element - Project Hosting on Google Code</title>   1.Create a legend element  2.Set display:none either with css or html inner style        Can't see the element      The legend element will re-stay in the page    <b>Please provide

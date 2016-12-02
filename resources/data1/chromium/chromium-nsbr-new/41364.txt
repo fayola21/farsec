@@ -1,0 +1,1 @@
+<title>Issue 41364 -   chromium -    Extension install dialog text doesn't wrap - Project Hosting on Google Code</title> <pre> See screenshot.    xmonad  build from the buildbot.  Chromium 5.0.377.0 (Developer Build 44379) </pre>

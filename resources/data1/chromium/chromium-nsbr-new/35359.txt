@@ -1,0 +1,1 @@
+<title>Issue 35359 -   chromium -    The URLRequestTestHTTP.ProxyTunnelRedirectTest consistently hangs on the builder - Project Hosting on Google Code</title> <pre> This test runs via chrome_frame_net_tests and consistently hangs on the   ChromeFrame builder. It works fine on my machine though with the latest tree.    Disabling and assigning to Tommi for investigation </pre>

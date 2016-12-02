@@ -1,0 +1,1 @@
+<title>Issue 4384 -   chromium -    window not fully maximized (free space left on the right side) - Project Hosting on Google Code</title>   1. Set Chrome to full screen  2. Set the taskbar to auto-hide          Chrome is full screen and the taskbar will popup when I put my mousepointer    on it.    Chrome is not fullscreen (see screenshot)    Please provide

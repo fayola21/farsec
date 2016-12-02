@@ -1,0 +1,1 @@
+<title>Issue 37918 -   chromium -    'Reset to defaults' should enable native translate - Project Hosting on Google Code</title> <pre> Build: 5.0.342.3  OS:XP    -Disable 'Translate' [Native translate] under Options/Under the hood.  -Click on 'Reset to Defaults' button.    Issue:  The translate is not enabled. </pre>

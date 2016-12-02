@@ -1,0 +1,1 @@
+<title>Issue 9994 -   chromium -    Korean Fonts Fail to Load - Project Hosting on Google Code</title>   1.Open the Web Page          Korean Font on first line of page should be rendered properly if the   windows language pack is loaded      Boxes are substituted for improperly rendered text    <b>Please provide

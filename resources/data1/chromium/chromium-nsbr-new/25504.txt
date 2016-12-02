@@ -1,0 +1,1 @@
+<title>Issue 25504 -   chromium -    On javascript cursor change  cursor will not change until mouse moves (only browser with bug) - Project Hosting on Google Code</title>   1.Create a script to change the cursor  2.or hide a div with a link but don't move the mouse  3. nothing happens until mouse moves                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39501 -   chromium -    Content Scripts do not allow Conditionally Defined Functions - Project Hosting on Google Code</title>   if( true ){  	function abc(){  		alert('abc1');  	}  }else{  	function abc(){  		alert('abc2');  	}  }  abc();//always alerts abc2 even though logically impossible      a dialog with abc1      a dialog with abc2    <b>Please provide

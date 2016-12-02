@@ -1,0 +1,1 @@
+<title>Issue 39804 -   chromium -    geolocation: Implement cancelGeolocationPermissionRequestForFrame - Project Hosting on Google Code</title> <pre> Placeholder for tracking webkit bug <a href="https://bugs.webkit.org/show_bug.cgi?">https://bugs.webkit.org/show_bug.cgi?</a>  id=34962 integration into Chrome.   </pre>

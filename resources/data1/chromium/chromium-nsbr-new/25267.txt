@@ -1,0 +1,1 @@
+<title>Issue 25267 -   chromium -    aw  snap! page doesn't display help text - Project Hosting on Google Code</title> <pre>   1. navigate to about:crash        After the Aw  snap! text  there should be a line that suggests navigating to   a new page or reloading the page.  That text appears to be missing.  Perhaps   one of the skia text changes is responsible? </pre>

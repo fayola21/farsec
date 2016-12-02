@@ -1,0 +1,1 @@
+<title>Issue 20149 -   chromium -    UMA crash stats on Linux are way too high - Project Hosting on Google Code</title> <pre> The crash stats we have on Linux are so high they're surely wrong.  I suspect agl may already have the fix in hand. </pre>

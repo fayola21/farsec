@@ -1,0 +1,1 @@
+<title>Issue 43224 -   chromium -    Set up sync ignores return key on password/email fields. - Project Hosting on Google Code</title> <pre> Build: ToT (r 46352)  OS: XP    -Bring up set up sync dialog.  -Enter user name/password.  -While keyboard focus is on Password/Username field  hit return key to sign-n    Issue:  Does nothing. Return key is ignored over there. </pre>

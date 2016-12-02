@@ -1,0 +1,1 @@
+<title>Issue 29983 -   chromium -    Allow dev channel installation side by side with google pack installation - Project Hosting on Google Code</title> <pre> I have a system with multiple users.  I want to use chrome beta but I don't   want my other users to use chrome beta.    Allow local installations to co-exists with google pack installations of   chrome.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40612 -   chromium -    WebCore::WebGLArrayInternal::bufferAttrGetter ReadAV@NULL (2c8f6e11b0daea00b237a5ee6449fdc4) - Project Hosting on Google Code</title> <pre> &lt;script&gt;  a=new WebGLUnsignedShortArray()  a.buffer  &lt;/script&gt;    It aslo work with   x=new WebGLByteArray  x=new WebGLShortArray  x=new WebGLUnsignedIntArray </pre>

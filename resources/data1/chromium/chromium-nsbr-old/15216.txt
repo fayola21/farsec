@@ -1,0 +1,1 @@
+<title>Issue 15216 -   chromium -    REGRESSION: Cancelling to print a doc will popup an alert message - Project Hosting on Google Code</title> <pre>   1. Go to any web page  2. Hit Ctrl+P  3. Click Cancel    Issue: An alert message saying something went wrong will popup    Chromium 3.0.191.0 (Developer Build 19118)   </pre>

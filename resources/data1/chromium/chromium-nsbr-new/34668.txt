@@ -1,0 +1,1 @@
+<title>Issue 34668 -   chromium -    When the cookie policy is ASK  only prompt on setItem for LocalStorage - Project Hosting on Google Code</title> <pre> Only check content settings on setItem for LocalStorage </pre>

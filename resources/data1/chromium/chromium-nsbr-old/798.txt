@@ -1,0 +1,1 @@
+<title>Issue 798 -   chromium -    chrome not support TABLETS - Project Hosting on Google Code</title> <pre> There appears to be no support for Vista's tablet PC functionality: Input   fields on pages don't display the TIP and pen flicks don't work properly           </pre>

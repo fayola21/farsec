@@ -1,0 +1,1 @@
+<title>Issue 44863 -   chromium -    Pasting Link in Hotmail doesn't work - Project Hosting on Google Code</title>   1. copy article link from NY Times Reader software (a function)  2. put in hotmail... and it is just text... not a link                  <b>Please provide

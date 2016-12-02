@@ -1,0 +1,1 @@
+CXF - Feedback from Eduard on problems with CXF over JMS    See user forum:http://www.nabble.com/Fwd%3A-Using-Apache-Camel-as-Transport-for-Apache-CXF-with-SOAP-over-JMS-td18314917s22882.html   

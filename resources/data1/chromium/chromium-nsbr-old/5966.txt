@@ -1,0 +1,1 @@
+<title>Issue 5966 -   chromium -    not (always) animating *.gif - Project Hosting on Google Code</title>   1. Somtimes they are animating sometimes they dont.                    Please provide

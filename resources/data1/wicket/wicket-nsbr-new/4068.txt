@@ -1,0 +1,1 @@
+Assume that form.onsubmit() without explicit return value means that submit should proceed    If &lt;form&gt;'s onsubmit handler doesn't return a boolean value that specifies whether the form submit should actually happen then assume that it should happen.   

@@ -1,0 +1,1 @@
+Tez DAG Operator hover text not wrapping wide content    When a Hive Tez DAG operator has a plan with very wide content  the text is not wrapped and hence bleeds out of the hover box. An additional problem is that this causes the hover to lose focus and hence close - thereby user cannot even see the hover (opens &amp; closes almost instantly).   

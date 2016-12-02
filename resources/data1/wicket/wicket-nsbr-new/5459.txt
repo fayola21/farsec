@@ -1,0 +1,1 @@
+Use method chaining where it makes sense    It's quite inconvinient to have Component.setMetaData which return void.For stacking purposes it'll be better to make this method return 'this'.   

@@ -1,0 +1,1 @@
+<title>Issue 46014 -   chromium -    Can not insert links in a post - Project Hosting on Google Code</title>               Write a post on a blog by adding a link        When I log into my site  add a post (news)  I would add a link in the post to send the reader to a site  but that does not let me. I send you a screenshot.    <b>Please provide

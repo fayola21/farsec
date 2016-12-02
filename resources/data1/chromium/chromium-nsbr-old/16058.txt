@@ -1,0 +1,1 @@
+<title>Issue 16058 -   chromium -    Replace InitializationComplete() with a callback that is passed in via Initialize() - Project Hosting on Google Code</title> <pre> We should ditch FilterHost::InitializationComplete() completely.  We're   reduce coupling if we use a regular callback instead. </pre>

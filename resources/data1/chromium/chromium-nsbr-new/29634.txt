@@ -1,0 +1,1 @@
+<title>Issue 29634 -   chromium -    manifest.json doesn't support single-quoted strings - Project Hosting on Google Code</title> <pre> An extension's manifest.json accepts &quot;key&quot;: &quot;value&quot;  but not 'key': 'value'. </pre>

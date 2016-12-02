@@ -1,0 +1,1 @@
+<title>Issue 21215 -   chromium -    Cannot open malayalam sites - Project Hosting on Google Code</title> <pre>     i cant open malayalam sites  fonts r look like english. how can i see   malayalam fonts in this gchrom. </pre>

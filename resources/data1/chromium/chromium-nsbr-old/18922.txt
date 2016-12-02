@@ -1,0 +1,1 @@
+<title>Issue 18922 -   chromium -    Alt+D does not select omnibox - Project Hosting on Google Code</title>   1.Start GC and 'un-focus' the address bar/omnibox  2.Use Alt-D keystroke to focus address bar/omnibox      - Focus should be given to the address bar  ready to type a URL/search   query      - Nothing    <b>Please provide

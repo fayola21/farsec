@@ -1,0 +1,1 @@
+<title>Issue 28218 -   chromium -    show close box on hover over item in form autocomplete list - Project Hosting on Google Code</title> <pre> shift+delete for items in the autocomplete list isn't very discoverable. We   should show a close box on hover over an item in the list.   </pre>

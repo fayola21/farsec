@@ -1,0 +1,1 @@
+<title>Issue 6136 -   chromium -    holding down control key enlarges or shrinks the page/font size... sometimes - Project Hosting on Google Code</title>   1. unknown  2. hold down control key        font size should not change      the text on the page shrank    Please provide

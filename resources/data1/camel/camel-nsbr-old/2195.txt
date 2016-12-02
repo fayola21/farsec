@@ -1,0 +1,1 @@
+camel-cxf - CxfProducer should check parameters more strictly to ensure we have the number of parameters required    The method getParams in CxfProducer does not check for correct number of parameters and that we have data when its mandatory.   

@@ -1,0 +1,1 @@
+<title>Issue 31441 -   chromium -    NiceToHave: chrome extensions api  - Project Hosting on Google Code</title> <pre> Ability to manipulate other elements of chrome is not available.   For example  on Firefox  I'm able to manipulate the displayed menus on   right click.   At the moment  it is impossible to add stuff to menus in tabs or on   the page.    Thanks </pre>

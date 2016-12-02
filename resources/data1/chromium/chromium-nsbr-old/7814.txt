@@ -1,0 +1,1 @@
+<title>Issue 7814 -   chromium -    Text cursor doesn't show in some fields - Project Hosting on Google Code</title>   1. Create a bookmark (ctrl+D)  2. Attempt to edit text      The (blinking text) cursor shows when clicking on text      It doesn't show    <b>Please provide

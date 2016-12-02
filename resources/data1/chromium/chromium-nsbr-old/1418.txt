@@ -1,0 +1,1 @@
+<title>Issue 1418 -   chromium -    Browser crashes when &quot;:%&quot; is entered in omnibox - Project Hosting on Google Code</title>   1. Type &quot;:%&quot; in the omni box  2. Browser crashes       should go to the default search engine      browser crashes    Please provide

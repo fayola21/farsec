@@ -1,0 +1,1 @@
+<title>Issue 4816 -   chromium -    Google Chrome freezes  entire system freezes and can only be repaired by unplugging and replugging computer. - Project Hosting on Google Code</title>   1. Happens at random                    Please provide

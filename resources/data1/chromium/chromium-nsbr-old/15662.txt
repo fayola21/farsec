@@ -1,0 +1,1 @@
+<title>Issue 15662 -   chromium -    can not use some shortcut in google reader - Project Hosting on Google Code</title>   1. open reader.google.com  2. press &quot;shift+s&quot; to share a item      share a item      star a item    <b>Please provide

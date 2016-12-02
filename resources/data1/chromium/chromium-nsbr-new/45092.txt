@@ -1,0 +1,1 @@
+<title>Issue 45092 -   chromium -    Flash player doesn't work on most sites - Project Hosting on Google Code</title>   1.Install Flash either from Canonical's partner repository or multiverse.  2.Open Chromium.  3.Open a page with Flash on it (like Youtube).      To have Flash working.      The plugin works.    <b>Please provide

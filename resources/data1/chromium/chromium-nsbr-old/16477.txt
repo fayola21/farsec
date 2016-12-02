@@ -1,0 +1,1 @@
+<title>Issue 16477 -   chromium -    Themes should be applied to all sub windows. - Project Hosting on Google Code</title> <pre> Right now  we apply themes only for Chrome browser windows.     We should apply themes for all sub windows  including but not limited to   Gears/Options/About Chrome/etc.. windows.   </pre>

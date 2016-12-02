@@ -1,0 +1,1 @@
+<title>Issue 27162 -   chromium -    need a confirmation dialog for extension uninstall (or an &quot;undo&quot;) - Project Hosting on Google Code</title> <pre> from product review:  Uninstalling an extension needs some &quot;oops&quot; protection.  You should either   get a &quot;Are you sure you want to...&quot; confirmation dialog or a way to undo an   uninstall. </pre>

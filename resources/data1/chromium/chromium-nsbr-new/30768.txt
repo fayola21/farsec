@@ -1,0 +1,1 @@
+<title>Issue 30768 -   chromium -    Ukraine spell check dictionary - Project Hosting on Google Code</title> <pre> [Language]Ukraine    [Version number]4.0.266    [OS details]XP    Not support Ukraine spell check   </pre>

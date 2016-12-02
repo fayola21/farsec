@@ -1,0 +1,1 @@
+<title>Issue 4115 -   chromium -    Linux test shell doesn't handle focus properly - Project Hosting on Google Code</title> <pre> 1. Start test shell.  2. Try clicking on a text entry widget.    We haven't told GTK it can get focus  nor plumbed through the appropriate  events. </pre>

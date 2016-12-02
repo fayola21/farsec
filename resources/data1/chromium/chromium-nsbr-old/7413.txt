@@ -1,0 +1,1 @@
+<title>Issue 7413 -   chromium -    Crash chrome with about:config - Project Hosting on Google Code</title>   1. Open a fresh chrome.  2. Enter about:config in address bar  press enter.  3. Click the back button.    CRASH!!!                Please provide

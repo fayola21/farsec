@@ -1,0 +1,1 @@
+<title>Issue 15848 -   chromium -    Thumbnails on NNTP don't have spacing in between - Project Hosting on Google Code</title>   0. Launch Chrome with a new new tab option  1. Open a few new chrome windows using CTRL+N      Thumbnails have spacing in between.          The thumbnails don't have any spacing in between.  See screenshot.    <b>Please provide

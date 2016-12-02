@@ -1,0 +1,1 @@
+<title>Issue 45647 -   chromium -    Name lost when address dragged into the bookmarks - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.408.1      1. Open any URL  2. Drag the address to the bookmark bar or &quot;Other bookmarks&quot;      The address is saved  with its icon and name      Only the icon is saved  leaving the name field empty. </pre>

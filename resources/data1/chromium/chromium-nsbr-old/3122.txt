@@ -1,0 +1,1 @@
+<title>Issue 3122 -   chromium -    Google Gadget Editor in iGoogle - Project Hosting on Google Code</title>   1. install <a href="http://www.google.com/ig/directory?">http://www.google.com/ig/directory?</a>  hl=en&amp;url=www.google.com/ig/modules/gge.xml   2. Try it in chrome  3. Cant load any gadget                Please provide

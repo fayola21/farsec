@@ -1,0 +1,1 @@
+<title>Issue 36768 -   chromium -    Copy / Paste inside extensions doesn't work - Project Hosting on Google Code</title>   1. Install any extension with a popup window  2. Select som text in the extension popup  3. Copy the selected text. (cmd+c)      The text should be in system clipboard      Nothing    Please provide

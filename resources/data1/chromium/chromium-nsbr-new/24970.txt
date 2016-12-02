@@ -1,0 +1,1 @@
+<title>Issue 24970 -   chromium -    ChromeOS status area needs to respect icognito mode background - Project Hosting on Google Code</title> <pre> <a href="http://code.google.com/p/chromium-os/issues/detail?id=145">http://code.google.com/p/chromium-os/issues/detail?id=145</a> </pre>

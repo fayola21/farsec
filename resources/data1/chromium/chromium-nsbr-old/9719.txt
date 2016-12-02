@@ -1,0 +1,1 @@
+<title>Issue 9719 -   chromium -    Buttons in WordPress are messed up - Project Hosting on Google Code</title>   1. Load a new post page in WordPress Self Hosted Blog  2. Type some content   3. The text on the button disappears as shown in the attached file.       Buttons should have visible text      Text disappears    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44333 -   chromium -    Logitech wheel buttons not scrolling - Project Hosting on Google Code</title>   1. Click cruise buttons above and below wheel on Logitech mouse          Page scrolling up and down at line speed specified.      No scrolling. Scroll wheel scrolls. Scroll buttons don't work.  Erratic behaviour. Sometimes scroll buttons work.    <b>Please provide

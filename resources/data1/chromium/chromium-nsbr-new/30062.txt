@@ -1,0 +1,1 @@
+<title>Issue 30062 -   chromium -    buttons in Flash verses HTML - Project Hosting on Google Code</title> <pre> When I roll my mouse over a button made in Flash  the mouse doesn't turn   into the hand icon; it remains a button.    However  when I roll my mouse over a button made in Dreamweaver  the   arrow does turn into a hand.      </pre>

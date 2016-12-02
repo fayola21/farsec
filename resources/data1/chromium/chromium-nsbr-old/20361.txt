@@ -1,0 +1,1 @@
+<title>Issue 20361 -   chromium -    About dialog blocks parent window. - Project Hosting on Google Code</title>   1. Open About dialog  2. Try to switch back to the parent window  3. ???????  4. PROFIT!!!      Main windows must be accessible.      FAIL!    <b>Please provide

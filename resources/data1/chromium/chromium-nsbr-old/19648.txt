@@ -1,0 +1,1 @@
+<title>Issue 19648 -   chromium -    Copy/Ctrl+C is broken in Omnibox - Project Hosting on Google Code</title> <pre> ToT (r 23643)    -Navigate to a webpage and select the URL.  -Ctrl+c or right click on the omnibox and say 'copy' from the interstitial  context menu.    Expected:  The url should be copied into clipboard.    Result:  Does nothing.    PS: Works fine on Mac. </pre>

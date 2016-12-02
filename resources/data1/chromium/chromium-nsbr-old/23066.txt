@@ -1,0 +1,1 @@
+<title>Issue 23066 -   chromium -    Desktop Notifications for MacOS - Project Hosting on Google Code</title> <pre> desktop notifications support in pages (landing soon for windows)  should  be extended to mac with support for growl if installed.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2357 -   chromium -    Visited link system should use SharedMemory rather than Windows APIs - Project Hosting on Google Code</title> <pre> VisitedLinkMaster/Slave should use our platform-independent SharedMemory   API rather than Win32 directly. </pre>

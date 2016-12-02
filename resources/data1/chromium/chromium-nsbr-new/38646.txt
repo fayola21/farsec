@@ -1,0 +1,1 @@
+<title>Issue 38646 -   chromium -    Page freezes when dragging text - Project Hosting on Google Code</title>   1. Highlight some text  2. Drag it      ability to drag it somewhere      current web page freezes    <b>Please provide

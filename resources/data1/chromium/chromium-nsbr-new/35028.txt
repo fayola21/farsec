@@ -1,0 +1,1 @@
+<title>Issue 35028 -   chromium -    Bookmarks button should be unthemed. - Project Hosting on Google Code</title> <pre> Build: ToT(r 38367)    -Apply a theme.  -Exit Chrome and restart the browser window.  -'Reset to default theme' from Options/Personal Stuff tab.    As shown in the screenshot  the bookmarks button is not unthemed.           </pre>

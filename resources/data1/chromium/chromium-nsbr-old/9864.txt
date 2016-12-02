@@ -1,0 +1,1 @@
+<title>Issue 9864 -   chromium -    Ctrl+B does not work when editting element with -webkit-user-modify:read-write; - Project Hosting on Google Code</title>   1. Edit an element that has as css: -webkit-user-modify:read-write;  2. Press Ctrl+B.       The bookmark bar should appear/disappear.       Nothing    <b>Please provide

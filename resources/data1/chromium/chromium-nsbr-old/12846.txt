@@ -1,0 +1,1 @@
+<title>Issue 12846 -   chromium -    gmail window keeps coming to front - Project Hosting on Google Code</title> <pre>   1. Create a window with gmail  2. Create a window without gmail  3. wait a bit  notice the window with gmail is made front without you doing   anything     </pre>

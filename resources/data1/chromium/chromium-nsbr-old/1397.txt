@@ -1,0 +1,1 @@
+<title>Issue 1397 -   chromium -    Master password is missing - Project Hosting on Google Code</title> <pre> Master password setup is missing where we can authenticate the used to show   the stored passwords. </pre>

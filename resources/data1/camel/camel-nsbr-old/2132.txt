@@ -1,0 +1,1 @@
+camel-jms - Sending Object message should fail if payload cannot be converted to serializable    If not a null message is created and send.See nabble:http://old.nabble.com/JPA%3A-Could-not-pass-Object-from-jpa-to-jms-to26160124.html   

@@ -1,0 +1,1 @@
+<title>Issue 17536 -   chromium -    Labels/tags for bookmarks - Project Hosting on Google Code</title>       Ability to add tags/labels to bookmarks  so that organization is made   easier.      No such option.    <b>Please provide

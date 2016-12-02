@@ -1,0 +1,1 @@
+<title>Issue 34257 -   chromium -    Blogger Gadgets - Project Hosting on Google Code</title>   1. Log in Blogger  2. To click on &quot;Layout&quot; and on &quot;Page elements&quot;  3. Try to move the gadgets block      Fix the gadget block in the desired place.      The gadgets block don't move. Sometimes it moves  but to different places.    <b>Please provide

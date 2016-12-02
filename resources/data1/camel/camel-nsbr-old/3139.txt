@@ -1,0 +1,1 @@
+Use ActiveMQUuidGenerator as the default uuid generator as its faster than the JDK UUID generator    The Java UUID is too slow. Switching back to AMQ based will improve performance.We should just have to switch to use the JDK UUID for the camel-gae component as it cannot use the AMQ based.   

@@ -1,0 +1,1 @@
+<title>Issue 9017 -   chromium -    Bookmark bar drag animations - Project Hosting on Google Code</title> <pre> Dragging items around on the bookmark bar should result in animations on   pickup and drop. Bonus points for animating the contents of menus in   similar way. </pre>

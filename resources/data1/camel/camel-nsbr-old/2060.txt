@@ -1,0 +1,1 @@
+Camel Bean component should not remember the last called method name if the bean's method name is not explicitly specified.    Here is the mail thread which discuses this issue. http://www.nabble.com/Bean-endpoint-in-a-route-is-holding-reference-to-the-last-used-methodName-and-does-not-invoke-Camel%27s-Bean-binding-tp25838095p25838095.html   

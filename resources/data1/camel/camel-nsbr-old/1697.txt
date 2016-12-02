@@ -1,0 +1,1 @@
+Java DSL for multicast  split  aggregate does not use block explicit    When using one of the EIP that uses a nested route for sub processing  typically EIPs that does some sort of aggregation such as multicast (for aggregating a response) split aggregateAnd maybe a few othersThey should use pushBlock so the end() DSL to indicate end of sub route works correctly in Java DSL.   

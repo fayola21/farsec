@@ -1,0 +1,1 @@
+<title>Issue 18779 -   chromium -    When I begin a download  every download  the initial download speed is uncorrect. - Project Hosting on Google Code</title>   1.click a download link  2.watch the wrong time on the lower bar      --          <b>Please provide

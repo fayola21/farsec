@@ -1,0 +1,1 @@
+<title>Issue 34389 -   chromium -    IE crashes if we close a ChromeFrame tab quickly enough - Project Hosting on Google Code</title> <pre> Set OptinUrls to * for this test.  Go to msn.com  Open the links on the page in new windows.  Try closing the windows quickly enough before the content finishes loading.  Observe a crash in IE.   </pre>

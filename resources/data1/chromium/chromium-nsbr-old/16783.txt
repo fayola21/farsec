@@ -1,0 +1,1 @@
+<title>Issue 16783 -   chromium -    bookmark bubble needs gtk theming - Project Hosting on Google Code</title> <pre> Dunno if you have thought about this one yet. When the gtk theme is selected   we can probably just not set the background color. I dunno where to get the   border color from. </pre>

@@ -1,0 +1,1 @@
+suites.All fails to run on Jvm 1.5 when built with JDK 1.5 (Failed to invoke suite(): .jdbc4._Suite)    Further  the following methods are only called from the reset(3):

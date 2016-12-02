@@ -1,0 +1,1 @@
+<title>Issue 20175 -   chromium -    Should not be able to uninstall extensions in Incognito mode. - Project Hosting on Google Code</title> <pre>   -Try to install extensions from InCognito window.    You can't.    PS: But user can uninstall them thr InCognito window.   </pre>

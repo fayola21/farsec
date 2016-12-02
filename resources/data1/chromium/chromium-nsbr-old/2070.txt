@@ -1,0 +1,1 @@
+<title>Issue 2070 -   chromium -    touch pad does not scrowl up - Project Hosting on Google Code</title>   1. from an vista based aces aspire 5610 run your finder up and down the   touch pad. this is the functional equivalent of the mouse scroll wheel.           When you move down Chrome scrolls down  moving up does not scroll up.      It does not scroll up.    Please provide

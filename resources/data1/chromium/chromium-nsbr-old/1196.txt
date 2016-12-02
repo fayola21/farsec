@@ -1,0 +1,1 @@
+<title>Issue 1196 -   chromium -    Rich Text Editing Tab Doesn't display in Chrome - Project Hosting on Google Code</title>   1. Select Edit button   2. Rich Text Edit tab does not display                  Please provide

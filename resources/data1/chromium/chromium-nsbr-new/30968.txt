@@ -1,0 +1,1 @@
+<title>Issue 30968 -   chromium -    style writing-mode:tb-rl; - Project Hosting on Google Code</title>   1.style sheet tag style=&quot;writing-mode:tb-rl;&quot;is not displayed precisely          A writing from top to bottom      Nothing    <b>Please provide

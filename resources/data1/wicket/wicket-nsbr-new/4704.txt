@@ -1,0 +1,1 @@
+Allow using custom CSS classes for the selected and last TabbedPanel tabs    Make it possible to use custom CSS classes for the selected and last tab in TabbedPanel   

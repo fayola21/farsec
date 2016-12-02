@@ -1,0 +1,1 @@
+<title>Issue 29386 -   chromium -    Chrome bookmarks (both local and bookmark sync service) should be synced with Web History Bookmarks - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.256.0 (Developer Build 32804)  URLs (if applicable) : <a href="http://www.google.com/bookmarks/">http://www.google.com/bookmarks/</a>          As summary said. </pre>

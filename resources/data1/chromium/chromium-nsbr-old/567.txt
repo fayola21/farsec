@@ -1,0 +1,1 @@
+<title>Issue 567 -   chromium -    Remember zoom ratio on a per-hostname basis - Project Hosting on Google Code</title>   1. display a webpage  2. change the zoom ratio  3. close the tab  4. go back to the same page      chrome should remember the applied zoom ratio      chrome doesn't    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 41891 -   chromium -    Double click doesn't close the dropdown / select list - Project Hosting on Google Code</title>   1. Find any dropdown.  2. Click twice on it.      First click should open the list - that does work.  Second click should close the list - that doesn't work.      Second click should close the list - that doesn't work.    <b>Please provide

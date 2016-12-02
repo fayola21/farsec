@@ -1,0 +1,1 @@
+setEnabled() does not work on YUI DateField    Calling setEnabled(false) on a YUI DateField component doesn't seem to have any effect. The date field remains editable and the changes get propagated to the underlying model on submit.   

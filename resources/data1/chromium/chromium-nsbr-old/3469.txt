@@ -1,0 +1,1 @@
+<title>Issue 3469 -   chromium -    Flash here doesn't work  youtube does - Project Hosting on Google Code</title>   1. Go here <a href="http://www.footytube.com/2008/10/15/belarus-v-england/">http://www.footytube.com/2008/10/15/belarus-v-england/</a>  2. And the flash does not appear  only white        A video plays      Nothing  white screen over flash    Please provide

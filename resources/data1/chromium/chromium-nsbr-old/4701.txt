@@ -1,0 +1,1 @@
+<title>Issue 4701 -   chromium -    Chrome doesn't work as default browser on Vista - Project Hosting on Google Code</title>   1. Set Chrome browser as default through Chrome options.  2. Go to Start menu and click &quot;Internet&quot;.      New window or tab in Chrome opens.      Nothing.    Please provide

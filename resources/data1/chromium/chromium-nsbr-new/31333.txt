@@ -1,0 +1,1 @@
+<title>Issue 31333 -   chromium -    about:memory isn't translated - Project Hosting on Google Code</title> <pre>   Dutch (NL-nl)    4.0.266.0    Windows Vista Home Premium SP2 (language: dutch)    about:memory    Not a single string on this page is translated </pre>

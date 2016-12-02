@@ -1,0 +1,1 @@
+camel-example-etl - bug in sample about type converter       

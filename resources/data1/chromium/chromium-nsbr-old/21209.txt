@@ -1,0 +1,1 @@
+<title>Issue 21209 -   chromium -    Print Button - Project Hosting on Google Code</title> <pre> Please provide a print button. I know a bookmark can be made for this using   javascript  but I don't want to do this. I want a REAL button on the   interface. </pre>

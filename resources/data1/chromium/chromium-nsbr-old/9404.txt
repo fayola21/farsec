@@ -1,0 +1,1 @@
+<title>Issue 9404 -   chromium -    Move Animation to chrome/views - Project Hosting on Google Code</title> <pre> In the interests of reducing the dependencies on chrome/common  animation   should be moved to chrome/views  the only place that uses it. </pre>

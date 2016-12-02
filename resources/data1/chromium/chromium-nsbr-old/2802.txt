@@ -1,0 +1,1 @@
+<title>Issue 2802 -   chromium -    Tabs Refresh all button (like Safari) - Project Hosting on Google Code</title>   1. it is not a problem but nice to have feature to be able to refresh all   open tabs at a time like Safari does.            NA    NA    Please provide

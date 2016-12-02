@@ -1,0 +1,1 @@
+<title>Issue 25238 -   chromium -    &quot;Paste as plain text&quot; should appear on context menu - Project Hosting on Google Code</title> <pre> Ctrl-shift-v is rad.  Hard to discover though since we don't surface it   anywhere in the UI.  It seems like it should be a context menu option when   &quot;Paste&quot; is a context menu option. </pre>

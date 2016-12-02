@@ -1,0 +1,1 @@
+<title>Issue 10847 -   chromium -    Close multiple tabs - Project Hosting on Google Code</title> <pre> If you select to close multiple tabs can google chrome ask &quot;Are you sure   you want to close all tabs?&quot; Which I found really helpful in regular   Google. </pre>

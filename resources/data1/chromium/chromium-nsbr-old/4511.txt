@@ -1,0 +1,1 @@
+<title>Issue 4511 -   chromium -    Background of version in about dialog is gray - Project Hosting on Google Code</title> <pre>   1. Wrench-&gt;About ...  2. Notice the background of the version string is gray        No gray.         </pre>

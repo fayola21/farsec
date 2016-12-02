@@ -1,0 +1,1 @@
+create a TransactionErrorHandler so you can easily  use a transaction & rollback on a route - with redeliveryDelay to just fail the route if it can't be processed       

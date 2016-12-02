@@ -1,0 +1,1 @@
+<title>Issue 11296 -   chromium -    Facebook find friends crashes chromium in IOBuffer::data() - Project Hosting on Google Code</title> <pre>     1. Log in to facebook.com  2. Go to friends -&gt; find friends  3. Renderer crash in IOBuffer::data().     </pre>

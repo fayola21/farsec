@@ -1,0 +1,1 @@
+<title>Issue 35719 -   chromium -    Element focus and css problem - Project Hosting on Google Code</title>   1. Create page with an input element.  2. Focus the element with javascript.  3. Set float attribute to element.      The element remains focused.      The element is unfocused. (But the inputs border remains colored)    <b>Please provide

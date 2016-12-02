@@ -1,0 +1,1 @@
+<title>Issue 8258 -   chromium -    Drag images for bookmarks and menus look bad - Project Hosting on Google Code</title> <pre> My transparency patch made the drag images for bookmarks and menus look   like a black square. The text should look good instead. </pre>

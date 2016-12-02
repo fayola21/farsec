@@ -1,0 +1,1 @@
+<title>Issue 16361 -   chromium -    NNTP: Scroll bars shows up with Thumbnail's drag and drop. - Project Hosting on Google Code</title> <pre>   - In NNTP  drag a thumbnail to bottom-right corner of the window and hold the   thumbnail.    Notice both vertical and horizontal scroll bars shows up. This happens in   both the cases (when window is maximize/un-maximize'd) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27407 -   chromium -    extension examples should have zip files created automatically - Project Hosting on Google Code</title> <pre> We should make it easy for developers to download extension examples.  Today    we reference the svn directory that they're checked into  which requires   manually downloading multiple files. </pre>

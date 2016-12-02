@@ -1,0 +1,1 @@
+<title>Issue 17968 -   chromium -    Tooltips star and end not encoded properly - Project Hosting on Google Code</title>   1. Go to the url  2. Hover over the logo      Tooltip appears normally      Square characters are placed before/after tooltip. See screenshot    <b>Please provide

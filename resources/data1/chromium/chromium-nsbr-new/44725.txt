@@ -1,0 +1,1 @@
+<title>Issue 44725 -   chromium -    Restart and restore capability - Project Hosting on Google Code</title> <pre> crbug.com/27941 calls for a restart button in a dialog. It should be possible   to shut down and restart the browser  restoring all the open windows and   tabs. </pre>

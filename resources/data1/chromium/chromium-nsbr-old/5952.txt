@@ -1,0 +1,1 @@
+<title>Issue 5952 -   chromium -    sirius player don't work. screw chrome. back to ie for now. - Project Hosting on Google Code</title>   1. go to sirius  2. select listen online  3. no media will load or play                Please provide

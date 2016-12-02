@@ -1,0 +1,1 @@
+<title>Issue 36981 -   chromium -    'BadWindow' crash triggered by moving tab out of tab bar - Project Hosting on Google Code</title>   1. open a tab or two  2. drag one out of the tab bar and place it anywhere outside the tab bar  3. chromium crashes      Have a new tab on a new window      crash immediately    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36113 -   chromium -    fast/css/first-letter-first-line-hover.html fails after WebKit roll - Project Hosting on Google Code</title> <pre>   1. run layout test fast/css/first-letter-first-line-hover.html  2. see non-trivial error (hovered element has wrong color)          Element should be green (according to description)  is red.         </pre>

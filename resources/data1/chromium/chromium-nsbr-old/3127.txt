@@ -1,0 +1,1 @@
+<title>Issue 3127 -   chromium -    Mouse scrolling not working - Project Hosting on Google Code</title> <pre> Hi     I'm Using Compaq presario laptop  in which the mouse scrolling is not   working in Google chrome browser..    Kindly work on it... </pre>

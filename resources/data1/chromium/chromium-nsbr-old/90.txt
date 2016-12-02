@@ -1,0 +1,1 @@
+<title>Issue 90 -   chromium -    forward slash does not open search to find text within page - Project Hosting on Google Code</title>   1. Open a webpage with test  2. Press the forward slash button        Enter text search mode (Vim search mode!!!)      NOTHING. NOTHING!    I CAN HAZ ViM SEARCHEZ NOW  PLZ?    Please provide

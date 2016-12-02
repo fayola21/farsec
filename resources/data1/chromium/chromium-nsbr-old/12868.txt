@@ -1,0 +1,1 @@
+<title>Issue 12868 -   chromium -    Linux: Reopen closed tab shows as &quot;R&amp;amp;eopen&quot; - Project Hosting on Google Code</title>   1. Open a few tabs in Chrome  2. Close one of the tabs  3. Right click on any of the tabs to reopen recently closed tab            The menu is &quot;R&amp;open closed tab&quot; instead of &quot;Reopen&quot;    <b>Please provide

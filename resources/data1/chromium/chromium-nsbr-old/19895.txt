@@ -1,0 +1,1 @@
+<title>Issue 19895 -   chromium -    replace use of pthreads with chrome threads - Project Hosting on Google Code</title> <pre> The syncapi was built using pthreads and we dynamically link pthreads.dll.    We should be able to get everything we need from equivalent Chrome base;   threads  condition variables  locks  etc. </pre>

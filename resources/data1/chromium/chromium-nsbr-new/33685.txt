@@ -1,0 +1,1 @@
+<title>Issue 33685 -   chromium -    selected tab was gray with Classic theme selected - Project Hosting on Google Code</title>   1. Select Classic theme months ago  2. Restart Chrome after 5.0.307.1 upgrade        Tabs are blue.          Selected tab is gray.      <b>Please provide

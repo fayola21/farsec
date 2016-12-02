@@ -1,0 +1,1 @@
+<title>Issue 45277 -   chromium -    document.cloneNode always returns NULL - Project Hosting on Google Code</title>   1. Open testcase      document.cloneNode() should return a cloned document like in mozilla.      document.cloneNode() always returns NULL.    <b>Please provide

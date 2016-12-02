@@ -1,0 +1,1 @@
+<title>Issue 40269 -   chromium -    strange things showing on the UI - Project Hosting on Google Code</title>   1. The issue is always present when chrome is open      Default user interface      Some sort of strange graphical artefact     <b>Please provide

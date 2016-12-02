@@ -1,0 +1,1 @@
+<title>Issue 41260 -   chromium -    Chrome show overlapping where box appears from the mouse roll. - Project Hosting on Google Code</title>   1.Go to the link  2.Scroll your mouse to any of the contestant's names  3.You'll see that the box is being partially overlapped by the graph.      I see the whole box      Some part of the box is overlapped    <b>Please provide

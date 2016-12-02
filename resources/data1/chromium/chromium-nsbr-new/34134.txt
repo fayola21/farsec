@@ -1,0 +1,1 @@
+<title>Issue 34134 -   chromium -    [Windows]Font size of location bar should be customizable. - Project Hosting on Google Code</title>   1.Change &quot;Message Box&quot; font setting of your desktop.  2.Start Google Chrome          Used font should be changed (font-name  size  etc.)        Font size is ignored. It is always &quot;10.5&quot;.    <b>Please provide

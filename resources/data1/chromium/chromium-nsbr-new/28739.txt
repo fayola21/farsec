@@ -1,0 +1,1 @@
+<title>Issue 28739 -   chromium -    gmail loader freezes - Project Hosting on Google Code</title>   1. Enter gmail.com  2. enter username and password and see freeze...                  <b>Please provide

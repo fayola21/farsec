@@ -1,0 +1,1 @@
+<title>Issue 41960 -   chromium -    HTTP only cookies - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;5.0.375.9 (Official Build 44625) dev&gt;        1. Calling document.cookie (from content script)        Receive all cookies from specified URL        Receive only the cookies save on PC  http-only cookies are not retrieved.   </pre>

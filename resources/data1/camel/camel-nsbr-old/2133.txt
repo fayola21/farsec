@@ -1,0 +1,1 @@
+The converter's MandatoryConvert method doesn't throw the exception when the value is null       

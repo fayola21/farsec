@@ -1,0 +1,1 @@
+<title>Issue 11946 -   chromium -    Mirrored cursor just before address in omnibox - Project Hosting on Google Code</title>   1. Move your mouse just left of the url in the omnibox  so there is 1 pixel   between the mouse and the url       Just to show my normal shadowed mouse       I see a mirrored shadowless mouse    <b>Please provide

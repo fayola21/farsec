@@ -1,0 +1,1 @@
+<title>Issue 15423 -   chromium -    Destroy GtkSockets when plugin is destroyed - Project Hosting on Google Code</title> <pre> It appears the plugin GtkSockets aren't getting destroyed when I navigate   away from a page.  Needs more investigations. </pre>

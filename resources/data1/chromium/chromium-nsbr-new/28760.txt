@@ -1,0 +1,1 @@
+<title>Issue 28760 -   chromium -    Help bubble in gmail disappears on keyup - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.294.12      1. Open gmail  2. Hit shift-?        Help bubble should appear and stay around until &lt;esc&gt; is pressed.        It disappears on shift-up </pre>

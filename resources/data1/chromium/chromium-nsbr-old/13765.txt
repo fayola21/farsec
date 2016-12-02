@@ -1,0 +1,1 @@
+<title>Issue 13765 -   chromium -    Omnibox is not reganing focus  after dismissing find-in bar. - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=18056">r18056</a>)    -Keep focus on Omnibox.  -Ctrl+f to Find-In bar and Esc to dismiss it.    Omnibox should regain keyboard focus. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16952 -   chromium -    shortcut to launch bookmark manager not implemented - Ctrl + Shft + B - Project Hosting on Google Code</title> <pre> 3.0.194.1 (Official Build 20781)      1. Launch Bookmark manager through shortcut Ctrl + Shift + B    What is the expected output?  bookmark manager launches    What do you see instead?  shortcut not implemented       </pre>

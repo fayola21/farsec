@@ -1,0 +1,1 @@
+<title>Issue 13179 -   chromium -    text files display as a video/play button - Project Hosting on Google Code</title>   1. go to a URL outputting plain text          display text file      a dark gray screen appears with a play button and progress bar (See   attached screenshot)    <b>Please provide

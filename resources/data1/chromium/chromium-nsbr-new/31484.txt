@@ -1,0 +1,1 @@
+<title>Issue 31484 -   chromium -    PDF's do not load - Project Hosting on Google Code</title>   1. Anytime I click a link or try to open any PDF in the chrome browser          I expect it to load the PDF file or page.       Blank screen  hangs    <b>Please provide

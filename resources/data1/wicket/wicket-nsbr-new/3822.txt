@@ -1,0 +1,1 @@
+some jmx values are not working since they require wickets filter environment (application  session  etc.)       

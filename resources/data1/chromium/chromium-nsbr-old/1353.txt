@@ -1,0 +1,1 @@
+<title>Issue 1353 -   chromium -    Chrome not able to display tabs that firefox  IE can - Project Hosting on Google Code</title>   1. Go to www.hdfcbank.com  2. Select HDFC Netbanking  3. Login with your credentials      Account information should open up with tabs at the top.      chrome is not able to display tabs at the top    Screenshots attached.  Please provide

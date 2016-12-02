@@ -1,0 +1,1 @@
+Adding routes straight from XML should have Camel prepare the RouteDefintion as its done like in camel-spring    camel-spring does some preparation on the XML routes before they are added to CamelContext.When end users loads the XML routes themself using JAXB and add it straight to CamelContext  we should let camel-core prepare the routes as well.   

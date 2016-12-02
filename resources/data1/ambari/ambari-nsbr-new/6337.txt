@@ -1,0 +1,1 @@
+Hosts page. Incorrect total number of hosts after filtering by installed component    STR1. Go to hosts page2. Filter by Components. Check DATANODE3. At Bottom right corner I see Show 10 | 1-10 of 10   

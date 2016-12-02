@@ -1,0 +1,1 @@
+<title>Issue 6615 -   chromium -    Page source font too small to read - Project Hosting on Google Code</title>   1. Load any web site  2. Right click on blank area of page and select &quot;View source&quot;  3. Check font size of source page.        Font should be of a readable size (10pt or 12pt).           Font is &quot;Monaco&quot; set at 7.5pt      Please provide

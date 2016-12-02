@@ -1,0 +1,1 @@
+XML Signature Component: Stream not closed in XmlSignerHelper.getXslTransform(String path)    Component camel-xmlsecurity: InputStream is not closed after it is read in method XmlSignerHelper.getXslTransform(String path)   

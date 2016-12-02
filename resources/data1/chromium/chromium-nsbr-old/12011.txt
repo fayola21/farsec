@@ -1,0 +1,1 @@
+<title>Issue 12011 -   chromium -    Remove the option for javascript debugger instead of disabling it - Project Hosting on Google Code</title> <pre> JavaScript debugger can't be launched either by using shortcut Ctrl+Shift+L   or through Page &gt; Developer &gt; JavaScript Debugger    Chromium: 2.0.181.0 (Developer Build 16108) </pre>

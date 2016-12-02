@@ -1,0 +1,1 @@
+<title>Issue 38260 -   chromium -    Win: AutoFill needs to obfuscate the saved credit card info in the AutoFill dialog - Project Hosting on Google Code</title> <pre> The CC# should be obfuscated the same as in the preview string   (************1234).  Newly-entered or edited CC#s will not be obfuscated. </pre>

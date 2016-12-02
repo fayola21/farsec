@@ -1,0 +1,1 @@
+<title>Issue 32731 -   chromium -    Task manager should be openable even if no browser windows are open - Project Hosting on Google Code</title> <pre> View-&gt;Developer-&gt;Task Manager should be active even if no browser   windows are around. It can still be used to look at resources required by the   browser process and extension process. </pre>

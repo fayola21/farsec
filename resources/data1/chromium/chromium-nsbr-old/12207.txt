@@ -1,0 +1,1 @@
+<title>Issue 12207 -   chromium -    Keyboard shortcuts in gmail brings focus to the address bar - Project Hosting on Google Code</title>   1. Log in to gmail.   2. Open an email.  3. Press the &quot;u&quot; button.      That the focus does not go to the address bar.      It does.    <b>Please provide

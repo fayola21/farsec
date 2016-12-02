@@ -1,0 +1,1 @@
+<title>Issue 7764 -   chromium -    Chrome occasionally cuts Google Search results page bottom - Project Hosting on Google Code</title>   1. Do a search in Google          The bottom of the page should always be shown      Sometimes the bottom of the page is not shown    Please provide

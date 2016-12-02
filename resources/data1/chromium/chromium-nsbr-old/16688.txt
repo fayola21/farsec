@@ -1,0 +1,1 @@
+<title>Issue 16688 -   chromium -    Options &gt; Personal Stuff: D in Browsing data should not be capitalized - Project Hosting on Google Code</title> <pre> In the &quot;Personal Stuff&quot; tab of the options panel  &quot;Browsing Data&quot; should not   have a capital D. </pre>

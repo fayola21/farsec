@@ -1,0 +1,1 @@
+<title>Issue 14919 -   chromium -    No animation when closing tabs - Project Hosting on Google Code</title> <pre> Win has animations when tabs are closed. We appear to not. Make it so. </pre>

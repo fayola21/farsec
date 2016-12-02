@@ -1,0 +1,1 @@
+<title>Issue 925 -   chromium -    St George Internet Banking screen is incorrect - Project Hosting on Google Code</title>   1. Load URL            The screen is rendered incorrect. As shown in the file  chrome-stgeorge_firefox.jpg  this is how the screen should be drawn.           Please provide

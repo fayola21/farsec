@@ -1,0 +1,1 @@
+RetryWhile is missing on the errorHandler DSL    You can only use retryWhile on the onException. It should be possible from errorHandler as well.   

@@ -1,0 +1,1 @@
+The user is not always redirected to the login page when unauthenticated    1. Try to enable HA with fail on 9th step for Start All services2. Use link http://&lt;host&gt;:8080/#/main/admin/highAvailability/enable/step13. HA Wizard is shown without previously loaded Login Page (see url and js errors in attached screenshot)Expexted result:Login Page should be loaded firts.   

@@ -1,0 +1,1 @@
+<title>Issue 11103 -   chromium -    Proxy problem - Project Hosting on Google Code</title> <pre> Hi. I'm a computer engineer at Turkish Airlines. We use a proxy server   while we connect to the internet. And We have to use domain username and   password to do this. But Google chrome want username and password for   every single connection.    Please solve this problem. </pre>

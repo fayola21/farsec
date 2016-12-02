@@ -1,0 +1,1 @@
+<title>Issue 39679 -   chromium -    Chrome loads a page really slow - Project Hosting on Google Code</title>   1. Load the page  2. Try to scroll while loading        Page loads withing fractions of a second.        Page load lasts several seconds; scroll is not possible during load.    <b>Please provide

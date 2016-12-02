@@ -1,0 +1,1 @@
+<title>Issue 2471 -   chromium -    Incognito icon not visible on vista frame windows - Project Hosting on Google Code</title> <pre>   1. Open a new window off the record (Vista  with the Aero Glass frame)  2. note that there's no icon in the top left       </pre>

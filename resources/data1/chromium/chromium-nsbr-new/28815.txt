@@ -1,0 +1,1 @@
+<title>Issue 28815 -   chromium -    Text overlaps incorrectly with high Unicode characters present - Project Hosting on Google Code</title> <pre> See attached file.  The text should not overlap.    I'm seeing this on Linux x64.  Maybe it's a harfbuzz issue? </pre>

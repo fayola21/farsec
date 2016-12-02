@@ -1,0 +1,1 @@
+<title>Issue 13378 -   chromium -    live.com : menu is getting displayed in 2 lines - Project Hosting on Google Code</title>   1. Login to live.com  2. Click on photos link on top  3. Click on album under recent albums      no layout issue      menu is getting displayed in 2 lines    Also happening on mac and linux    <b>Please provide

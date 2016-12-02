@@ -1,0 +1,1 @@
+<title>Issue 32740 -   chromium -    &quot;Recently Added&quot; loses its star on clicking folder - Project Hosting on Google Code</title> <pre> - open bookmark manager  - click &quot;recently added&quot; folder    expected:  - should still have a star icon    actual:  - returns to using a &quot;folder&quot; icon until you close and reopen the window </pre>

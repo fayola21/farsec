@@ -1,0 +1,1 @@
+<title>Issue 16479 -   chromium -    Themes should be applied to Bookmarks manager - Project Hosting on Google Code</title> <pre> This is not dupe of <a title="Themes should be applied to all sub windows." class=closed_ref href="/p/chromium/issues/detail?id=16477"> issue 16477 </a>  as B'manager is like a browser window.    Currently  theme is not applied to B'manager.   </pre>

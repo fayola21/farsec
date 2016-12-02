@@ -1,0 +1,1 @@
+<title>Issue 9065 -   chromium -    Rotated Hindi text isn't vertically aligned properly - Project Hosting on Google Code</title> <pre> Our Skia font rendering path for complex text doesn't align text vertically   properly.    Testcase attached. </pre>

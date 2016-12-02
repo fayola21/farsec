@@ -1,0 +1,1 @@
+<title>Issue 2583 -   chromium -    &quot;Save attachement&quot; in Gmail. When I want to just &quot;open&quot; a video attachment in Gmail WITHOUT saving it  I dont have this option... - Project Hosting on Google Code</title>   1. Add a command for &quot;Open this attachment&quot; when clicking on the file                    Please provide

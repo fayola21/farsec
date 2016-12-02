@@ -1,0 +1,1 @@
+<title>Issue 9417 -   chromium -    Command-click doens't open link in new window - Project Hosting on Google Code</title> <pre> 1. load any page  2. cmd-click a link on that page    expected:    - page loads in new tab.    actual:    - page loads in current tab.    We should figure out where this is getting lost and hook it up. </pre>

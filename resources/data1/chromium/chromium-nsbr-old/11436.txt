@@ -1,0 +1,1 @@
+<title>Issue 11436 -   chromium -    Default browser info bar should be localized. - Project Hosting on Google Code</title> <pre>   'Chrome is not your default browser' info bar should be localized. Right   now it is not.    -Launch Chrome for any non-English languages.    Notice the info bar shows up in ENG only. </pre>

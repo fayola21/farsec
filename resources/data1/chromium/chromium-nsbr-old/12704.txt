@@ -1,0 +1,1 @@
+<title>Issue 12704 -   chromium -    web page display incorrectly since Chrome version 2.x - Project Hosting on Google Code</title>   1. just enter to this page          display correctly as IE 7  Safari 3 and Chrome previous version (ver 1.x)      display in wrong style    <b>Please provide

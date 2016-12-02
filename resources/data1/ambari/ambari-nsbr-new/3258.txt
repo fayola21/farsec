@@ -1,0 +1,1 @@
+Provide UI page to enable/disable experimental functionality    We have various experimental functionality provided in UI. We need an easy UI page http://server:8080/#/experimental to enable/disable these functionalities.This will make it easy for users to test these functionalities and give feedback.Refresh of Ambari UI will clear the changes.   

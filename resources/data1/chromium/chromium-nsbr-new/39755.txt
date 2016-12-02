@@ -1,0 +1,1 @@
+<title>Issue 39755 -   chromium -    Calling tabs.create from an Infobar results in crash - Project Hosting on Google Code</title> <pre> Open an Extension infobar.  Click on a link which does tabs.create.  Observe a crash.    I have found the cause and I have a fix. </pre>

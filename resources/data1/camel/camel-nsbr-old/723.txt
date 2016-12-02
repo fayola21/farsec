@@ -1,0 +1,1 @@
+CXF - wrapper/unwrapper - camel-cxf should be smarter    Willem knows what this is. See chat log on the july-15-2008.Basically getBody() should be smart in what kind of situation you are using CXF.   

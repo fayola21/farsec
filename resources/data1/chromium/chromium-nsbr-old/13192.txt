@@ -1,0 +1,1 @@
+<title>Issue 13192 -   chromium -    Index menu bar is missing in Chrome 3.0.182.3 version. - Project Hosting on Google Code</title>   1. This is employer website and needs restricted credentials.           The left side menu bar under 'Navigator' should appear.      The left side menu bar should appear.      <b>Please provide

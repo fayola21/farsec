@@ -1,0 +1,1 @@
+<title>Issue 37749 -   chromium -    view-source: miss content after &lt;script&gt; - Project Hosting on Google Code</title>   1. open attached HTML  2. open &quot;View Page Source&quot; from context menu      all file content  which incloudes &lt;/script&gt; shown.      &quot;&lt;script&gt;&quot; is shown  but following content isn't.     <b>Please provide

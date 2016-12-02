@@ -1,0 +1,1 @@
+<title>Issue 22685 -   chromium -    Gears and Chrome Frame single install - Project Hosting on Google Code</title> <pre> Chrome Frame Version       : 4.0.211.7    It would be very nice indeed if we could have a single gears and chrome  frame installer.   </pre>

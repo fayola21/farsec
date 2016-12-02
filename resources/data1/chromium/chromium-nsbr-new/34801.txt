@@ -1,0 +1,1 @@
+<title>Issue 34801 -   chromium -    Automated system-level testing of Negotiate and NTLM support - Project Hosting on Google Code</title> <pre> Ideally we will have a buildbot activated test which tests Negotiate and   NTLM with a server running Active Directory and IIS  as well as a server   with Apache and a KDC. </pre>

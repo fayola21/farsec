@@ -1,0 +1,1 @@
+<title>Issue 7950 -   chromium -    Google Chrome is not working well with www.hotmail.com - Project Hosting on Google Code</title>   1. Chrome is not working with with hotmail account  when we try to open the   mail it stuck like a image. So i have to use Internet explorer for my that   task.                    Please provide

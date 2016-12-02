@@ -1,0 +1,1 @@
+<title>Issue 28101 -   chromium -    Hyperlinks not displayed in status bar - Project Hosting on Google Code</title>   1. Load any website  2. Hover over any text hyperlinks or image hyperlinks        Chrome should display the hyperlink in status bar      The status bar does not display any hyperlink and stays blank.    <b>Please provide

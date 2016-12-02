@@ -1,0 +1,1 @@
+<title>Issue 21452 -   chromium -    Chrome unexpectedly quits when i do ctrl+f - Project Hosting on Google Code</title>   1. press ctrl+f to find a word in a page  2. browser unexpectedly quits        Chromium will give me a dialog for putting in the word i want to search for      Chrome unexpectedly quits    <b>Please provide

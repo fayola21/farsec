@@ -1,0 +1,1 @@
+<title>Issue 28110 -   chromium -    &lt;select&gt; doesn't work with page or browser action popups - Project Hosting on Google Code</title> <pre> When you try to activate the select element  the popup dismisses. </pre>

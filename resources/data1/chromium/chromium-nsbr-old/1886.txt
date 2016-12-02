@@ -1,0 +1,1 @@
+<title>Issue 1886 -   chromium -    Stock Price not shown for tickers specified in Chrome address bar - Project Hosting on Google Code</title>   1. type GOOG or any other ticker symbol in address bar  2. Press Enter        Google search results should show Stock Price at top      shows regular search results    <b>Please provide

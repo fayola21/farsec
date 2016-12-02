@@ -1,0 +1,1 @@
+<title>Issue 26437 -   chromium -    Can't set up bookmark sync on Mac - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.223.11    OS version               : 10.6.1        1. Open chrome  2. Click start now which is located right of &quot;Bookmark Sync&quot;  3. Observer that nothing happens.      I should get the bookmark sync start up dialog. </pre>

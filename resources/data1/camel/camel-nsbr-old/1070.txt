@@ -1,0 +1,1 @@
+org.apache.camel.Message - hasAttachments is buggy    I must use if (exchange.getIn().getAttachments().size() &gt; 0) {Instead of if (exchange.getIn().hasAttachments()) {As the latter always returns false. Or at least returns false even though the size is &gt; 0   

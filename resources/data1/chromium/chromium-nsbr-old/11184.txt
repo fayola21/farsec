@@ -1,0 +1,1 @@
+<title>Issue 11184 -   chromium -    Fonts disappear from page - Project Hosting on Google Code</title> <pre> <a href="http://fedoraproject.org/get-prerelease">http://fedoraproject.org/get-prerelease</a>    Highlight and unhighlight the text in the green boxes a few times.  The text will disappear.  You might have to fiddle with it a bit.   </pre>

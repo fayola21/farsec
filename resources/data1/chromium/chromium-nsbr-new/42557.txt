@@ -1,0 +1,1 @@
+<title>Issue 42557 -   chromium -    libevent credit is missing from Mac version - Project Hosting on Google Code</title> <pre> One of the libevent developers tells me libevent is used in the Mac version   but is not porperly credited. </pre>

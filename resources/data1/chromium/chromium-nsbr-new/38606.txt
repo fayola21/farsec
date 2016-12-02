@@ -1,0 +1,1 @@
+<title>Issue 38606 -   chromium -    Chromium crash when click the background on the website (blogiseverything) a few times - Project Hosting on Google Code</title>   1.Go <a href="http://www.blogiseverything.com">http://www.blogiseverything.com</a>  2.Click the blue background like 3 times      Nothing      Crash. Appear the Aw  Snap! page    <b>Please provide

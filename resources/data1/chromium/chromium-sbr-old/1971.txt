@@ -1,0 +1,1 @@
+<title>Issue 1971 -   chromium -    omnibox shouldn't highlight subdomain - Project Hosting on Google Code</title>   1. Navigate to any URL  2. Look at the way the omnibar highlights the URL        The domain name should be highlighted  but not the subdomain        The subdomain is highlighted    Please provide

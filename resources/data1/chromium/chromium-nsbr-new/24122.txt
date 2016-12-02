@@ -1,0 +1,1 @@
+<title>Issue 24122 -   chromium -    double free in browser action popup - Project Hosting on Google Code</title> <pre> The border widget was a scoped_ptr and was set up to delete itself on   destroy  so it was being freed twice. </pre>

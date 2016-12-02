@@ -1,0 +1,1 @@
+JmsToJmsTransactedSecurityTest in camel-jms fails every now and then    Test JmsToJmsTransactedSecurityTest fails every now and then because of JMS message redelivery. When the entire test class is executed  it sometimes happens that the message that failed at testJmsSecurityFailure test method pops up in the assertions of testJmsSecurityOK.   

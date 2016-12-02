@@ -1,0 +1,1 @@
+<title>Issue 25906 -   chromium -    Standardize on the puzzle piece icon throughout the extensions system - Project Hosting on Google Code</title> <pre> Places we need to change:    * The header icon on chrome://extensions/  * The default icon in the install dialog   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30124 -   chromium -    Embedded Audio: Player not visible  won't play - Project Hosting on Google Code</title>   1. Go to a website with embedded audio.   2. Player is not visible  and audio will not play.                   <b>Please provide

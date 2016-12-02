@@ -1,0 +1,1 @@
+<title>Issue 1685 -   chromium -    Download Manager Integration not available - Project Hosting on Google Code</title>   1. Navigate to options  2. There is no option available to use your own download manager.        I should be able to use my own download manager such as Free Download  Manager or GetRight.        I have no easy alternative to the above.    Please provide

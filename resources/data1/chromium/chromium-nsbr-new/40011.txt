@@ -1,0 +1,1 @@
+<title>Issue 40011 -   chromium -    Need a cross-platform Yes/No MessageBox() - Project Hosting on Google Code</title> <pre> In some rare instances we prompt before continuing.    We ought to refactor code so that we use a shared implementation.  Grep the code for MessageBox() to find examples of where we just call the   Windows-native function directly. </pre>

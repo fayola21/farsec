@@ -1,0 +1,1 @@
+<title>Issue 38313 -   chromium -    Sandbox validation tests run with no errors even if policies malfunction. - Project Hosting on Google Code</title> <pre> During the port to x64 we realized that the validation tests were passing    even before IPC was enabled.    Validation tests should have a way to differentiate 'access denied' from   general IPC malfunction.     </pre>

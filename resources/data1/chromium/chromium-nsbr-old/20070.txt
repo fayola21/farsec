@@ -1,0 +1,1 @@
+<title>Issue 20070 -   chromium -    Chrome didn't import Firefox bookmarks icons. - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.39        1. Install Chrome  2. Import Firefox 1.9.1.3497 bookmarks  3. Chrome wont import bookmarks icons      To have each bookmark with its icon       </pre>

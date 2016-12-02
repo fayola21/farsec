@@ -1,0 +1,1 @@
+<title>Issue 11977 -   chromium -    Implement RenderWidgetHostViewGtk::DidBecomeSelected - Project Hosting on Google Code</title> <pre> On Windows  this tracks a &quot;hidden&quot; flag and also forwards WasRestored() to   the RWH.  The latter seems especially important.  Needs more analysis. </pre>

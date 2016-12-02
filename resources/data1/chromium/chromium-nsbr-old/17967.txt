@@ -1,0 +1,1 @@
+<title>Issue 17967 -   chromium -    Should be possible to step out of recursive function - Project Hosting on Google Code</title> <pre>   1. Open attached file.  2. Open devtools window.  3. Set breakpoint on line 10.  4. Click the button. Observe debugger is paused at line 10.  5. Now try to step out.      Step in happens instead of step out. </pre>

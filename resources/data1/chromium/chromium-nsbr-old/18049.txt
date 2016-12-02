@@ -1,0 +1,1 @@
+<title>Issue 18049 -   chromium -    Quickly dragging a tab down out of the GTK tab strip causes a crash - Project Hosting on Google Code</title> <pre> We get the following error from GTK:    Gtk: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget    event)' failed    and then a backtrace which doesn't really help solve the problem. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19590 -   chromium -    Bookmark sync: Nothing happens - Project Hosting on Google Code</title>   1. Start chrome with --enable-sync  2. Click on Wrench -&gt; Sync my Bookmarks  3. Click on Wrench -&gt; Options -&gt; Synchonize my bookmarks      * A login window should open  or it should start syncing my bookmarks.      * Nothing visible.    <b>Please provide

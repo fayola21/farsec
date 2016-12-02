@@ -1,0 +1,1 @@
+nagios shows service status critical if hbase is not installed       

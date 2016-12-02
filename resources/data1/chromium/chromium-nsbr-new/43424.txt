@@ -1,0 +1,1 @@
+<title>Issue 43424 -   chromium -    Occasional White-space at the bottom of a page using jQuery scripts. - Project Hosting on Google Code</title>   1. visit a page using jQuery 1.4+  only occasional.          a white gap at the bottom of page  will usually go away with a refresh.      n/a see above    <b>Please provide

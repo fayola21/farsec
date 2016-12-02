@@ -1,0 +1,1 @@
+<title>Issue 34081 -   chromium -    Implement power_save_blocker on Mac and remove power_save_blocker_stub - Project Hosting on Google Code</title> <pre> <a title="Implement power_save_blocker on Linux and remove power_save_blocker_stub"  href="/p/chromium/issues/detail?id=33605">bug 33605</a> for Mac </pre>

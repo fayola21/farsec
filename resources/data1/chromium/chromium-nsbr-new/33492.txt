@@ -1,0 +1,1 @@
+<title>Issue 33492 -   chromium -    Youtube videos go completely black while the video plays - Project Hosting on Google Code</title>   1. Try to watch a video          Video plays normally      You see video controls for an instant then they disappear leaving the video    just a black box. You hear the audio.    <b>Please provide

@@ -1,0 +1,1 @@
+Spring DSL - errorHandlerRef should only be support on camel context or route    It just makes it to confusing you can set it on a processor definition in the middle of a route.Only these 2 xml tags should support it camelContext route   

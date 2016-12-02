@@ -1,0 +1,1 @@
+<title>Issue 16631 -   chromium -    Chrome With Synergy Pasting Issue - Project Hosting on Google Code</title>   1. Copy content from Chome (via ctrl+C).  2. Attempt to paste content onto another computer (via synergy)      Content is pasted.      &quot;&gt;&quot; is pasted.    <b>Please provide

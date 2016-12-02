@@ -1,0 +1,1 @@
+<title>Issue 15552 -   chromium -    Typing in a select element doesn't work when it's open - Project Hosting on Google Code</title>   1. Open the attached HTML document.  2. Click the select element to open it.  3. Type 'an' to select 'anteater'      'anteater' should be selected.      The selection doesn't change.    <b>Please provide

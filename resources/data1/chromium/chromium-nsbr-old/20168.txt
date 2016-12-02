@@ -1,0 +1,1 @@
+<title>Issue 20168 -   chromium -    Make the Google Chrome package Depend on flash plugin - Project Hosting on Google Code</title> <pre> Can we make it so users will get flash by default if they don't know what   they are doing?  Maybe that's Depends: or Recommends:    What do you think? </pre>

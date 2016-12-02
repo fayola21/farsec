@@ -1,0 +1,1 @@
+<title>Issue 38175 -   chromium -    menus stops appearing - Project Hosting on Google Code</title>   1.Simply click on a menu that opens into the window  2.right click menus work as well        That a menu will open         screen stays blank until you mouse over where the menu should be.    <b>Please provide

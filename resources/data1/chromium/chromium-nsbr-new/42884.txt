@@ -1,0 +1,1 @@
+<title>Issue 42884 -   chromium -    HTML5 demo eats 100% cpu - Project Hosting on Google Code</title>   1. Go to the HTML demo <a href="http://apirocks.com/html5/html5.html#slide10">http://apirocks.com/html5/html5.html#slide10</a>        The demo should work.        Chrome eats 100% cpu even on slides which do nothing. The demo is unusable.    <b>Please provide

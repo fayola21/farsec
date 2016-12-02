@@ -1,0 +1,1 @@
+<title>Issue 21153 -   chromium -    Delete bookmark from bookmark bar = crash - Project Hosting on Google Code</title>     1. Right click on any bookmark in the bar and choose delete        The selected bookmark is deleted        Chrome crashes  after restart bookmark remains    <b>Please provide

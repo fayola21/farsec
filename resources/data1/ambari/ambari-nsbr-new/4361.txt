@@ -1,0 +1,1 @@
+Rolling restart failure tolerance should be percentage values    Currently when we make rolling restart API calls  the task_failure_tolerance value is given as count of hosts. Rather it should be percentage of total hosts.   

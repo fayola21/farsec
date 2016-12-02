@@ -1,0 +1,1 @@
+<title>Issue 12686 -   chromium -    Extensions need a port-closed message - Project Hosting on Google Code</title> <pre> We should notify renderers when the other side of a message port has been   closed.    We should also close ports when a frame navigates.  Right now they're only   removed from the global list when one of the renderers dies. </pre>

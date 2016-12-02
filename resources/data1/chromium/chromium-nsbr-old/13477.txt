@@ -1,0 +1,1 @@
+<title>Issue 13477 -   chromium -    Import settings should support iceweasel (firefox for debian) - Project Hosting on Google Code</title>   1. cuztomize and control google crome/ importbookmarks &amp; settings...  in the from:    do not know the iceweasel browser (firefox for debian)                    <b>Please provide

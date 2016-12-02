@@ -1,0 +1,1 @@
+<title>Issue 1649 -   chromium -    export bookmarks and settings - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (1798)                Users should be able to export their bookmarks and settings (as a backup or   as a way to transfer their environments to another computer).       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45825 -   chromium -    Chrome menu (alt + F) looks weird - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0 (Official Build 48573) dev    Chrome Menu looks weird as if broken. On the left there is lot of space   wasted. and on the right before the shortcut keys there appears a small box.    Check the screenshot of the same.   </pre>

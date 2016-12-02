@@ -1,0 +1,1 @@
+<title>Issue 36491 -   chromium -    Chromium crashes when selecting text and moving mouse to the left outside of text box  - Project Hosting on Google Code</title>   1.Go on twitter and search something  2.Hover the mouse over the last letter  3.Click and drag to the left        Text will become selected      It crashes    <b>Please provide

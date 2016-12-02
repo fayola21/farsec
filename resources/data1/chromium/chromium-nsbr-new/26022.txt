@@ -1,0 +1,1 @@
+<title>Issue 26022 -   chromium -    Google Reader Settings page does not load - Project Hosting on Google Code</title>   1. go to www.google.com/reader  2. click on Settings link at top  3. loading goes into perpetuity      the page loads?      nothing    <b>Please provide

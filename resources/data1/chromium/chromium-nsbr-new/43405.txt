@@ -1,0 +1,1 @@
+<title>Issue 43405 -   chromium -    Browser process eating 100% cpu  all tabs locked up   - Project Hosting on Google Code</title>   1. Use Chrome        Chrome does not lock up and eat all the cpu.        Chrome does lock up and eat all the cpu.    <b>Please provide

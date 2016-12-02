@@ -1,0 +1,1 @@
+<title>Issue 448 -   chromium -    Select Box Colors are not visible on the selected item - Project Hosting on Google Code</title>   1. Create a selectbox with items that have a colour   2. select a colored item like a blue one  3. as you might see the color is no longer visible  firefox ha(s/d) this   issue too.                Please provide

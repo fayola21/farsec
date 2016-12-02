@@ -1,0 +1,1 @@
+<title>Issue 43896 -   chromium -    Clickable Buttons Sometimes Do Not Show - Project Hosting on Google Code</title>   1.  Every 10-20 openings of Chrome  2.  I usually notice it in Gmail first  but it also happens on several      office supply stores.    3.  Restarting the computer doesn't help; it seems to happen at random                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26142 -   chromium -    Loading message catalogs for already installed extensions is missing - Project Hosting on Google Code</title> <pre>   1. Install extension with l10n  2. Close Chrome  3. Open Chrome      Extension should be localized  but it's not.       </pre>

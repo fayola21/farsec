@@ -1,0 +1,1 @@
+<title>Issue 44914 -   chromium -    Don't use big icons in normal tabs - Project Hosting on Google Code</title> <pre> After playing with this for awhile  I think we've come to the agreement that the tab strip looks   bad with a mix of large and small icons. Therefore we should not use the big icons on normal   tabs. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19006 -   chromium -    Omnibox suggests escaped characters - Project Hosting on Google Code</title> <pre> tested using chrome 3.0.198.0 (Developer Build 22864)    steps:  1. type &quot;microsoft.com in the omnibox    see attached screenshot... </pre>

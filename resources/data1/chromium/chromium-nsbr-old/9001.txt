@@ -1,0 +1,1 @@
+<title>Issue 9001 -   chromium -    Need our own text drawing routines in Chrome UI - Project Hosting on Google Code</title> <pre> Using this bug to block several languages showing as boxes in Omnibox or   other Chrome UI boxes like Find-in-page bar.     </pre>

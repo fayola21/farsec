@@ -1,0 +1,1 @@
+DateField.newDateTextField's parameters should be generified    protected DateTextField newDateTextField(String id  PropertyModel&lt;Date&gt; dateFieldModel) { return DateTextField.forShortStyle(id  dateFieldModel); }   

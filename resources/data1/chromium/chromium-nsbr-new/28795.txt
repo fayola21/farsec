@@ -1,0 +1,1 @@
+<title>Issue 28795 -   chromium -    NTP: Clicking on bookmark sync in the promo banner does nothing if bookmark sync is already turned on - Project Hosting on Google Code</title> <pre>   1. Create a new profile  2. Enable bookmark sync  3. On the NTP click the bookmark sync in the bottom promo        Something should happen. Right now nothing happens.       </pre>

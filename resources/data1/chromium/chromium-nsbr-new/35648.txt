@@ -1,0 +1,1 @@
+<title>Issue 35648 -   chromium -    Mac OSX 'Pin Tab' no longer available - Project Hosting on Google Code</title>   1. Open a new tab and go to a URL  2. ctrl-click or right-click on tab  3. no longer able to 'Pin Tab'        In the context menu  under 'Reload' and 'Duplicate' should be an option to   'Pin Tab'        It is no longer available.    <b>Please provide

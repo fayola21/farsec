@@ -1,0 +1,1 @@
+<title>Issue 24978 -   chromium -    Ctrl-Tab should cycle between notebook pages in dialogs - Project Hosting on Google Code</title> <pre> I believe that Ctrl-Tab cycles between notebook pages in tabbed dialogs in   Windows apps.  The Linux Views port should probably support this as well. </pre>

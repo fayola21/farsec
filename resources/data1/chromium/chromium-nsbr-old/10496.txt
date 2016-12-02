@@ -1,0 +1,1 @@
+<title>Issue 10496 -   chromium -    Gmail thread list entries too tall -- font metrics wrong? - Project Hosting on Google Code</title> <pre> The list of subjects in gmail is spaced out too wide.  It looks like the font metrics are wrong. </pre>

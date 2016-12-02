@@ -1,0 +1,1 @@
+<title>Issue 11452 -   chromium -    Gmail &quot;More actions&quot; popup positioned incorrectly with full page zoom. - Project Hosting on Google Code</title> <pre> Go to Gmail and press Control-plus to zoom in.    Now click on &quot;More actions&quot;. The popup will be positioned incorrectly. I   think this is a WebKit bug. </pre>

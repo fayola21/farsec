@@ -1,0 +1,1 @@
+<title>Issue 15955 -   chromium -    enable 3d graphics using extensions - Project Hosting on Google Code</title> <pre> make all 3d functions and features available using extensions    for example  <a href="http://arenalive.zexos.org/">http://arenalive.zexos.org/</a> and other open source 3d engines. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25590 -   chromium -    Next/prev buttons and match count flicker while typing in find box - Project Hosting on Google Code</title> <pre> Type text in the find box... note that the next/prev buttons and the match   count text flicker while typing. </pre>

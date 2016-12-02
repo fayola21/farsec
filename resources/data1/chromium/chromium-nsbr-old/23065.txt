@@ -1,0 +1,1 @@
+<title>Issue 23065 -   chromium -    Workers should support Notifications - Project Hosting on Google Code</title> <pre> This is a placeholder bug for future work: desktop notifications support  (landing soon in pages) should be extended to workers.   </pre>

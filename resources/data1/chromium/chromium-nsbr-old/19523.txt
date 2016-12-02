@@ -1,0 +1,1 @@
+<title>Issue 19523 -   chromium -    enter clears URL bar - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.202.0 (Developer Build 23308)      1. Visit a webpage.  2. Attempt to reload webpage by selecting URL.  3. Press enter      The URL remains in the URL entry bar and the page reloads.      The URL disappears! Presto!   </pre>

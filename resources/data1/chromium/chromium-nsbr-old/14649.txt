@@ -1,0 +1,1 @@
+<title>Issue 14649 -   chromium -    frame should use inactive color when not the active (focused) window - Project Hosting on Google Code</title> <pre> We need to hook up window focus/blur events to the background color of the   window. </pre>

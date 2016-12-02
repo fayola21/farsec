@@ -1,0 +1,1 @@
+<title>Issue 15027 -   chromium -    Google code search box doesn't execute default form action when pressing Enter - Project Hosting on Google Code</title>   1. Type a query in the search box on Google Code  2. Press Enter to submit        Default form action posts search query (i.e. clicks Search for you)      Nothing    <b>Please provide

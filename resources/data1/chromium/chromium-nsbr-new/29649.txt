@@ -1,0 +1,1 @@
+<title>Issue 29649 -   chromium -    Screen is blurry and unreadable - Project Hosting on Google Code</title>   1. Load a page    What is the expected result? Page loads and is readable      What happens instead? Page is blurry and unreadable      <b>Please provide

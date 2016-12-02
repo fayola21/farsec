@@ -1,0 +1,1 @@
+<title>Issue 6789 -   chromium -    Alternate Error Page URL should be updated on a listener for the Google base URL change - Project Hosting on Google Code</title> <pre> We have a notification that fires when the base URL changes  and a function   to update the alternate error page URL  we need to hook the two together. </pre>

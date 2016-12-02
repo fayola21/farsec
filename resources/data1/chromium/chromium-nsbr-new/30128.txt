@@ -1,0 +1,1 @@
+<title>Issue 30128 -   chromium -    Dutch: Close tab menu title should be &quot;Sluit tabblad&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Close tab menu item in the menu Archief is localized as &quot;Tabblad   sluiten&quot;. The correct localization on the Mac is &quot;Sluit tabblad&quot;.   </pre>

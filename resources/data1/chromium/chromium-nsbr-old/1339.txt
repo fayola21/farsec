@@ -1,0 +1,1 @@
+<title>Issue 1339 -   chromium -    Hotmail new message functions not available - Project Hosting on Google Code</title>   1. create new message  2. reply to message      What is the expected result? Font editing toolbar missing.            Please provide

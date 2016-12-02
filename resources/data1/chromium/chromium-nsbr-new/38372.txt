@@ -1,0 +1,1 @@
+<title>Issue 38372 -   chromium -    Chromium remains open with no tabs at all - Project Hosting on Google Code</title>   1. open some tabs  2. close all      chromium exiting      chromium still with zero tabs    <b>Please provide

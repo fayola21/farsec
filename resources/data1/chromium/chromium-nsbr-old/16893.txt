@@ -1,0 +1,1 @@
+<title>Issue 16893 -   chromium -    about:linux-splash appears with each external url - Project Hosting on Google Code</title>   1. click on an url outside chromium (eg chat or irc)  with chromium as default browser and already running      tab for url to open      tab for url plus about:linux-splash    <b>Please provide

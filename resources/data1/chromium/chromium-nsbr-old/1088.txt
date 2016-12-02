@@ -1,0 +1,1 @@
+<title>Issue 1088 -   chromium -    javascript links on facebook.com not working - Project Hosting on Google Code</title>   1. Browse facebook.com  2. click on &quot;add as friend&quot; link on right side pane.      link doesn't work.          Please provide

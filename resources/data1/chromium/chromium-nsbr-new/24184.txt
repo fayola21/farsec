@@ -1,0 +1,1 @@
+<title>Issue 24184 -   chromium -    Tabstrip bottom border is missing. - Project Hosting on Google Code</title> <pre> From &lt;b/2139086&gt;    -Navigate to any webpage in IE7.x using CF.    As shown in the screenshot  bottom border of the tabstrip is missing.    Feel free to close it  if it is intended to work. </pre>

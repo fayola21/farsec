@@ -1,0 +1,1 @@
+Externalize message resources for the welcome page.  Update styles on various pages.       

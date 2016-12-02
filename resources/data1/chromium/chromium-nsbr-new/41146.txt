@@ -1,0 +1,1 @@
+<title>Issue 41146 -   chromium -    lost http from omnibar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.374.0 (44177) Ubuntu                    1. open code.google.com/p/chromium/      omnibar shows &quot;code.google.com/p/chromium/&quot;      to see *http://*code.google.com/p/chromium/ </pre>

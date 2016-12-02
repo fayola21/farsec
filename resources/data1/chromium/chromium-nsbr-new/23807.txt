@@ -1,0 +1,1 @@
+<title>Issue 23807 -   chromium -    Netlog problems - Project Hosting on Google Code</title> <pre> Chrome 4.0.221.5 27968    Problem:  Search box is to small to see what is typed in  <a href="http://en.netlog.com/">http://en.netlog.com/</a>  <a href="http://www.apple.com/">http://www.apple.com/</a>    Anyway thanks on this last build whatever i try it just works!        </pre>

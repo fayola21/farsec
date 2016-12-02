@@ -1,0 +1,1 @@
+<title>Issue 36317 -   chromium -    [GPU] Allow creation of offscreen OpenGL context - Project Hosting on Google Code</title> <pre> Needed for OpenGL and eventually for Pepper when we start doing GPU   compositing. </pre>

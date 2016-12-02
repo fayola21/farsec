@@ -1,0 +1,1 @@
+<title>Issue 26127 -   chromium -    Form state lost on reload - Project Hosting on Google Code</title> <pre>   1. Go to a page with an input field  enter some text  2. click reload  3. the form state should persist             </pre>

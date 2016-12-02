@@ -1,0 +1,1 @@
+<title>Issue 19234 -   chromium -    Images in Chrome - Project Hosting on Google Code</title> <pre> I want to know how exactly the images are stored in CHROME. Could anyone  help me in answering my question.    The latest image of the website is stored in the Images section. How is it  done. What technology is used behind it..? </pre>

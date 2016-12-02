@@ -1,0 +1,1 @@
+<title>Issue 45068 -   chromium -    on click on tab  it closes tab window. - Project Hosting on Google Code</title> <pre> Chrome Version       : dev beta        1.click any web page from bookmark which will open new tab in chrome   explorer.  2.click in the tab causes the newly opened tab to be closed.   </pre>

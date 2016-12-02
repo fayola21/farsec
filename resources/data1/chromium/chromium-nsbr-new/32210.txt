@@ -1,0 +1,1 @@
+<title>Issue 32210 -   chromium -    Create oauth library for chrome extension developer - Project Hosting on Google Code</title> <pre> We need an oauth library to make it easier for developers to write   extensions that access services that support oauth. </pre>

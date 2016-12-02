@@ -1,0 +1,1 @@
+<title>Issue 45597 -   chromium -    Check for success/failure in BufferData  TexImage2D  etc. - Project Hosting on Google Code</title> <pre> We need to call glGetError after a call to BufferData  TexImage2D to make   sure it succeeded.  If it failed  we need to mark that buffer/texture as zero   size. </pre>

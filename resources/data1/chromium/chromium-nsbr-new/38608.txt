@@ -1,0 +1,1 @@
+<title>Issue 38608 -   chromium -    Google chrome repository takes 5 minutes to send the response headers - Project Hosting on Google Code</title>   1. Install google chrome  2. run: apt-get update      It should finish in 5 secs.      It needs 5 minutes.    <b>Please provide

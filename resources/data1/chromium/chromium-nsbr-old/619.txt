@@ -1,0 +1,1 @@
+<title>Issue 619 -   chromium -    Anchor Links not always opening properly - Project Hosting on Google Code</title>   1. Open the link or any link that has an anchor  2. ????  3. Profit      The anchor point should be on the top of the browser area.        It's above the browser area.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13041 -   chromium -    Captcha dose not appear on Digg - Project Hosting on Google Code</title>   1.Trying to leave a comment on Digg  2.The Captcha Image keeps loading forever      The Image should appear      It dose not    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 16220 -   chromium -    Some histograms absent on Mac/Linux - Project Hosting on Google Code</title> <pre> Visit about:histograms and look for &quot;WebCoreCache&quot;.  On Windows you get   several entries.  On Mac and Linux  there's nothing.    (These would be useful for anti-jank efforts.) </pre>

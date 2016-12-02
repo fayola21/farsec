@@ -1,0 +1,1 @@
+Javadoc error in QueryStringUrlCodingStrategy    The javadoc uses this as an example:mount(new QueryStringRequestTargetUrlCodingStrategy('/admin/productmanagement'  admin.ProductManagement.class));This does not work. It should say this instead:mount(new QueryStringUrlCodingStrategy('/admin/productmanagement'  admin.ProductManagement.class));   

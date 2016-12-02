@@ -1,0 +1,1 @@
+<title>Issue 5135 -   chromium -    Integrate v8 scons build into rest of Chrome build - Project Hosting on Google Code</title> <pre> Currently during Chromium's build we shell out to scons to build v8.  This  is especially bad for incremental development.  We should instead just pull  in the v8 SConscript directly. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45619 -   chromium -    'about:' displays the about:version page. - Project Hosting on Google Code</title>   1. Type 'about:' in the Omnibox.        Well  I don't really expect the about:version page to come up when I type   'about:'.          You get the about:version page.    <b>Please provide

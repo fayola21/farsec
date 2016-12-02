@@ -1,0 +1,1 @@
+<title>Issue 45049 -   chromium -    Don't hide bookmark bar folder dropdown when user middle clicks one of the items in it - Project Hosting on Google Code</title>   1.Open a bookmarks folder  2.Open one of the websites listed there in new tab        The bookmark folder should remain opened      The bookmark folder closes     <b>Please provide

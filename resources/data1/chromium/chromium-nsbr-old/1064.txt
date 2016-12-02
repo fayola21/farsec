@@ -1,0 +1,1 @@
+<title>Issue 1064 -   chromium -    Full screen with two screens - Project Hosting on Google Code</title>   1. Two screens on the same computer : main screen 1920x1200  second one   1280x1024  2. Full screen on google chrome  on the second one  3. The automatic resize takes the main screen size  insted of the second   screen                Please provide

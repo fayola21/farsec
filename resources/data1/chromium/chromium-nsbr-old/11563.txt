@@ -1,0 +1,1 @@
+<title>Issue 11563 -   chromium -    linux: omnibox doesn't save its contents when you switch tabs - Project Hosting on Google Code</title> <pre>   1. type &quot;asdfasdfasdf&quot; in the omnibox  2. switch tabs  either by clicking or one of our many accelerators  3. switch back to that tab. Your &quot;asdfasdfasdf&quot; is gone!   </pre>

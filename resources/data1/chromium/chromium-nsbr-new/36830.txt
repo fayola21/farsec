@@ -1,0 +1,1 @@
+<title>Issue 36830 -   chromium -    Dragging selected text crashes Chrome - Project Hosting on Google Code</title>   1. Load any webpage  2. Select a piece of text  3. Drag it with the mouse    Chrome crashes immediately.    <b>Please provide

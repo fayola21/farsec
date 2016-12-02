@@ -1,0 +1,1 @@
+<title>Issue 12601 -   chromium -    Javascipt page wont load under chome 2  works under chome 1 - Project Hosting on Google Code</title>   1. Just go to the URL above  it loads under chrome 1 and IE  2. Under chrome 2 I only see the source code        I would expect to see the web site      It just shows source code    <b>Please provide

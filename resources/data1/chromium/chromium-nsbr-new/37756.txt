@@ -1,0 +1,1 @@
+<title>Issue 37756 -   chromium -    Reported unsafe JavaScript event with iframe when domains/protocols/ports muatch - Project Hosting on Google Code</title>   1. Open the URL above.  2. For a second you will see a flash of the IFrame.  3. Then it will go away.      The iFrame should stay       It goes away.    <b>Please provide

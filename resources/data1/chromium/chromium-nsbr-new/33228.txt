@@ -1,0 +1,1 @@
+<title>Issue 33228 -   chromium -    Alt-Gr + symbol on AZERTY keyboard (French) does not work in web forms (here  for example) - Project Hosting on Google Code</title>   1. type Alt-Gr + ( ~ # { [ | `  ^ @ ] } ��_��_ ��_��_ ) in a form        Alt-GR + keystroke types symbol in form      nothing    <b>Please provide

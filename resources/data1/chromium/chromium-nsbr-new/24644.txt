@@ -1,0 +1,1 @@
+<title>Issue 24644 -   chromium -    Implement badges for page actions - Project Hosting on Google Code</title> <pre> Page actions should have badges  just like browser actions. </pre>

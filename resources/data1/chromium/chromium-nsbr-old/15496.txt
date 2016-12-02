@@ -1,0 +1,1 @@
+<title>Issue 15496 -   chromium -    Image and Content overlap - Project Hosting on Google Code</title>   1.Navigate to the URL  2. The image overlaps the content        Image should not overlap the content        The image overlaps the content      <b>Please provide

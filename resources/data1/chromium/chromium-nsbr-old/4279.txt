@@ -1,0 +1,1 @@
+<title>Issue 4279 -   chromium -    Feature: A seperate button to update Google Chrome  - Project Hosting on Google Code</title> <pre> A separate button to update Google Chrome like in Firefox would be nice. </pre>

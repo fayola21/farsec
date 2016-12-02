@@ -1,0 +1,1 @@
+<title>Issue 27912 -   chromium -    Wrong string in the uninstall dialog of Extensions. - Project Hosting on Google Code</title> <pre>   -Try to uninstall an extension.    See the attached screenshot. Install should be replaced by Uninstall            </pre>

@@ -1,0 +1,1 @@
+<title>Issue 27329 -   chromium -    Crash during tab dragging - Project Hosting on Google Code</title> <pre> As seen by http://crash/reportdetail?reportid=62213eca87734e6a and   http://crash/reportdetail?reportid=c2b3a8d9ec68f294 . This can happen when   changing a tabbed from non-pinned to pinned as we're requesting a tab from   the source tab strip and it may be empty. </pre>

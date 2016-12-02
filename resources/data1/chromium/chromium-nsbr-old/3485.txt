@@ -1,0 +1,1 @@
+<title>Issue 3485 -   chromium -    Crash During Detaching Tab - Project Hosting on Google Code</title>   1. Detach any tab        Detached tab appearing as a separated window.        Program crash.    Please provide

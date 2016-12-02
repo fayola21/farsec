@@ -1,0 +1,1 @@
+Camel stream producer never close the stream of file    When I was working on CAMEL-6147  I found the file stream is never closed  even it met the close condition.   

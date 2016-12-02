@@ -1,0 +1,1 @@
+<title>Issue 11451 -   chromium -    Linux: select file dialog ought to remember the last directory - Project Hosting on Google Code</title> <pre> 1. post to a bug on this site.  2. click Attach a file multiple times  3. the file select dialog doesn't remember the directory you last uploaded from </pre>

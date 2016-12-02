@@ -1,0 +1,1 @@
+<title>Issue 1205 -   chromium -    Consider adding graphical &quot;delete result&quot; target to omnibox dropdown - Project Hosting on Google Code</title> <pre> See IE8 UI. </pre>

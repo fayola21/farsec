@@ -1,0 +1,1 @@
+<title>Issue 33440 -   chromium -    Tab duplicate is broken on Chrome-OS - Project Hosting on Google Code</title> <pre> Build: Chromium 5.0.308.0    -Navigate to a page (say google home page)  -Duplicate the page.    Issue: Blank blue page is navigated. It needs repaint method to get the   duplicated page (eg: switch to another tab and come back to duplicated tab)     </pre>

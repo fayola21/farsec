@@ -1,0 +1,1 @@
+<title>Issue 12067 -   chromium -    tracking mouse events in a RenderViewHost - Project Hosting on Google Code</title> <pre> As a container for a RenderViewHost  there should be a way to track enough   mouse events so that it's possible to implement simple hover/tracking   behavior.  Right now  all mouse events get eaten by the RVH. </pre>

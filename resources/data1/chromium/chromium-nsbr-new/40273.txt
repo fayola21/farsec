@@ -1,0 +1,1 @@
+<title>Issue 40273 -   chromium -    new Date() is not local timezone  differs from FF - Project Hosting on Google Code</title>   1. in the javascript console type 'new Date();'  2. look at output  it is GMT (+0100)  3. in Firefox 3.6 it is the local timezome (+0500)      I think the local timezone is expected.      Get GMT    <b>Please provide

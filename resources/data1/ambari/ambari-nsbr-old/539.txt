@@ -1,0 +1,1 @@
+Create a spec file with less dependencies for HMC    Simplify process for users that want to use different dependencies for PHP and Ruby.e.g PHP-5.3  ruby-1.8.7   

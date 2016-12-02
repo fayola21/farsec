@@ -1,0 +1,1 @@
+<title>Issue 14899 -   chromium -    no lock icon for ssl - Project Hosting on Google Code</title> <pre> Omnibox lacks a lock icon when visiting an SSL site.    Cole: we need a pdf lock icon. </pre>

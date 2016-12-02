@@ -1,0 +1,1 @@
+<title>Issue 12257 -   chromium -    'Attach a file' on Gmail blocks window - Project Hosting on Google Code</title>   1. Open Gmail  2. Compose new mail  3. Click link to attach a file      File picker opens      File picker is not shown  all mouse or keyboard input on that window   (including switching to other tabs) results only in a *ding* error sound.    <b>Please provide

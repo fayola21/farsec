@@ -1,0 +1,1 @@
+<title>Issue 8605 -   chromium -    Linux shutdown crash when using wrench -&gt; exit. - Project Hosting on Google Code</title> <pre> Looks like we aren't cleaning up the BrowserList properly  and we die with   a NULL pointer.  Closing the window with the X seems to shutdown fine. </pre>

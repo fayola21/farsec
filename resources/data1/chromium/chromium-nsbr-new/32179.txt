@@ -1,0 +1,1 @@
+<title>Issue 32179 -   chromium -    Top of &quot;New Tab&quot; button is cut off - Project Hosting on Google Code</title>   1. Open Chromium  2. Look at new tab button      New Tab button should be centered in the tabstrip.      New Tab button is jammed against the top of the tabstrip and the top of the   button is cut off.    <b>Please provide

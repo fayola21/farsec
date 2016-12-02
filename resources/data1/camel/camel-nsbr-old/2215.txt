@@ -1,0 +1,1 @@
+CaseInsensitiveMap should be serializable    CaseInsensitiveMap should be fully serializableSee nabblehttp://old.nabble.com/DataSet-header-%7BCamelDataSetIndex%3D0%7D-causes-failure-to26487985.html   

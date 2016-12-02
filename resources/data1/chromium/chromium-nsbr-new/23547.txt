@@ -1,0 +1,1 @@
+<title>Issue 23547 -   chromium -    bookmarks from the menu should open in the front window  even if it is incognito - Project Hosting on Google Code</title> <pre>   1. Open an incognito window  2. Choose a bookmark from the menu      Expected:Bookmark opens in incognito window  Actual: Bookmarks spawns a new window   </pre>

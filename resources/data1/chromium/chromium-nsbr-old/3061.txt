@@ -1,0 +1,1 @@
+<title>Issue 3061 -   chromium -    Unable to open local files in links with file:// - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.30                 IE 7: OK      1. Click in a link to a local file file://...  2. The link is not opened.      Link is opened.      Link is not opened.   </pre>

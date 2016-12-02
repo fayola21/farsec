@@ -1,0 +1,1 @@
+Can't get the soap header when the camel-cxf endpoint working in the PAYLOAD data fromat    When I added a unit test to show how to get the SOAP header from a PAYLOAD camel-cxf endpoint   I found the soap header stuff is not working.   

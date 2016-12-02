@@ -1,0 +1,1 @@
+<title>Issue 11679 -   chromium -    Linux UI is broken because of themes - Project Hosting on Google Code</title> <pre> Because we shifted to transparent images the Linux UI renders horribly.    Because hover images are generated on the fly  tab_renderer_gtk.cc needs to   be updated (it was depending on images that no-longer exist) </pre>

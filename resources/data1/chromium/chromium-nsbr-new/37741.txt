@@ -1,0 +1,1 @@
+<title>Issue 37741 -   chromium -    windows crash    - Project Hosting on Google Code</title>   1.hold the left button on a tab  and drag out  2.release the button outside.    in spanish:  arrastrar una pesta��_��_a hacia afuera clikeando con el bot��__n izquierdo  soltar el boton.        the page in the tab should be placed in a new window      chrome crash    <b>Please provide

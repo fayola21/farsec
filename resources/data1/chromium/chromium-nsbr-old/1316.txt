@@ -1,0 +1,1 @@
+<title>Issue 1316 -   chromium -    Scroll Wheel to switch tabs? - Project Hosting on Google Code</title> <pre> It's a bit of a GTK-ism  but IMHO it would be neat if a scroll wheel event    when the mouse is over the tab strip  would switch tabs. Specifically    scroll wheel up would be equivalent to Ctrl-PgUp  and scroll wheel down be   Ctrl-PgDn.   </pre>

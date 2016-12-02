@@ -1,0 +1,1 @@
+<title>Issue 12634 -   chromium -    Address bar text is white-on-white when using white-on-black style theme in Windows appearence settings. - Project Hosting on Google Code</title>   1. Set a white-on-black colour scheme in Windows appearence settings          Address bar text should not be white-on-white.        Address bar text is white-in-white.      <b>Please provide

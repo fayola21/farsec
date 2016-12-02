@@ -1,0 +1,1 @@
+OOS status for component on host detail page makes button too big       

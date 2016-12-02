@@ -1,0 +1,1 @@
+<title>Issue 4865 -   chromium -    Chrome crashes ALWAYS when using comboboxes - Project Hosting on Google Code</title>   1. Open a web site that uses comboboxes (e.g. www.wired.com)  2. Try to select an item in the combobox  3. Chrome crashes      Selection from combobox works      Chrome crashes    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 33074 -   chromium -    Remove &quot;open frame in new xxx&quot; context menu options - Project Hosting on Google Code</title> <pre> Per <a title="No option to reload framed page" class=closed_ref href="/p/chromium/issues/detail?id=3858"> bug 3858 </a> comment 6  these are low utility. </pre>

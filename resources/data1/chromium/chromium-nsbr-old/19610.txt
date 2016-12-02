@@ -1,0 +1,1 @@
+<title>Issue 19610 -   chromium -    Javascript console doesn't display Numbers - Project Hosting on Google Code</title>   1. Launch Google Chrome  2. Open the Javascript Console (Ctrl + Shift + J)  3. Type in 1 / 2      0.5      Nothing is displayed.    <b>Please provide

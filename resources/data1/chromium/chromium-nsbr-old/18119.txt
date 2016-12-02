@@ -1,0 +1,1 @@
+<title>Issue 18119 -   chromium -    Implement certificate viewer UI - Project Hosting on Google Code</title> <pre> The page info dialog should have a button for viewing the SSL certificate   when the page is served over HTTPS.   </pre>

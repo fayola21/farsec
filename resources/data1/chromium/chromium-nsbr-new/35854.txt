@@ -1,0 +1,1 @@
+<title>Issue 35854 -   chromium -    Incognito Tabs - Project Hosting on Google Code</title>   1. Right click on a link or Bookmark  2. Click open in &quot;Incognito Tab&quot;  3. A tab opens up like a Incognito window. But next to all the other   Chrome/Chromium tabs. But really is unlinked from the rest.          Only Incognito Windows are available    <b>Please provide

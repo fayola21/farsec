@@ -1,0 +1,1 @@
+<title>Issue 27109 -   chromium -    Icons/favicons not working in task bar on Windows - Project Hosting on Google Code</title>   No matter what URLs I visit  the Chrome icon in my taskbar always remains   broken. Tried rebooting  removing Chrome  etc etc. Nothing fixes it.      Should look like the websites favicon      See attached file.    <b>Please provide

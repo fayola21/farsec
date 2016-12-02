@@ -1,0 +1,1 @@
+<title>Issue 26073 -   chromium -    Implement CanvasGLContextAttributes - Project Hosting on Google Code</title> <pre> Implement CanvasGLContextAttributes  in particular antialiasing if   GL_EXT_framebuffer_multisample is available </pre>

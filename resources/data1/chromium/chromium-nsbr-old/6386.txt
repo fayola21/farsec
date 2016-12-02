@@ -1,0 +1,1 @@
+<title>Issue 6386 -   chromium -    Import bookmarks from IE does not keep original structure - Project Hosting on Google Code</title>   1. Bookmark Manager  2. Tools -&gt; Import Bookmarks                  Please provide

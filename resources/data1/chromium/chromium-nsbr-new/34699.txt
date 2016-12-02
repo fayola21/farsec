@@ -1,0 +1,1 @@
+<title>Issue 34699 -   chromium -    Chrome crash when turn on Sogou IME right after browser launch - Project Hosting on Google Code</title>   1.__��_��__��_Google chrome��___��_��__��__��__��__��_��_��__��__��_��_��_��_��__��_��_��_��___��_                _��_��_��___��_��_��___��____��__��__��___��__��_��___��_    <b>Please provide

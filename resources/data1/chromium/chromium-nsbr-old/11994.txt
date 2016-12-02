@@ -1,0 +1,1 @@
+<title>Issue 11994 -   chromium -    when maximized the tabs background is black - Project Hosting on Google Code</title>   1.open the browser window  2.maximize the window        a blue background behind the tabs      there is a black background behind the tabs    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24111 -   chromium -    Tabs opened from extensions via window.open should not share the extension process - Project Hosting on Google Code</title> <pre> 1. Install gmail checker  2. click  3. open task manager  4. gmail is in same process with gmail checker </pre>

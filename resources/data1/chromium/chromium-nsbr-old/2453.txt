@@ -1,0 +1,1 @@
+<title>Issue 2453 -   chromium -    Window frame control buttons don't work when mazimized in MagicBrowzr - Project Hosting on Google Code</title> <pre> The buttons don't seem to hit test properly when the window is maximized.   Double-clicking on any of them will restore the window  just like double-  clicking on a blank area of the title bar. </pre>

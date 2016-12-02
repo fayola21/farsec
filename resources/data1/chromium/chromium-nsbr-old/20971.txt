@@ -1,0 +1,1 @@
+<title>Issue 20971 -   chromium -    Chrome outputs non-standard HTML on Save Page As... - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.203.2                   IE 7: FAIL           IE 8: FAIL      1. Save a page as  complete page    Chrome outputs UPPERCASE tags in the HTML. Which is absolutely non-standard! </pre>

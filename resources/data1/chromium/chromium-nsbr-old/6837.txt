@@ -1,0 +1,1 @@
+<title>Issue 6837 -   chromium -    border of &lt;td&gt; not displayed when border-color and border-style are used in CSS - Project Hosting on Google Code</title>   1. create a HTML table  2. specify a css style to the border of a &lt;td&gt;        we see the border      The border doesn't appear    Please provide

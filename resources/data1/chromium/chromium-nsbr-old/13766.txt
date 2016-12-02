@@ -1,0 +1,1 @@
+<title>Issue 13766 -   chromium -    Chrome 2.x has problems with bbLean Windows shell replacement - Project Hosting on Google Code</title>   1.Install bblean  2.Open google chrome whatever is just from 2.x to 3.x  3.you can see the title bar problem      just as fine as 1.x of chrome          <b>Please provide

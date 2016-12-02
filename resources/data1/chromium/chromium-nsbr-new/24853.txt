@@ -1,0 +1,1 @@
+<title>Issue 24853 -   chromium -    Manage button not present in &quot;Default search&quot; section - Project Hosting on Google Code</title>   1. Click the wrench menu .  2. Select Options.  3. Click the Basics tab.  4. Click Manage in the 'Default search' section.      There s/b a [Manage] button visible      No such button appears on the dialog.    <b>Please provide

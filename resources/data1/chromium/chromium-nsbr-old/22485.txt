@@ -1,0 +1,1 @@
+<title>Issue 22485 -   chromium -    Import feature doesn't work at all on oxh - Project Hosting on Google Code</title>   1.install on osx  2.try to import bookmarks or passwords or anything        I expect to be able to select the option to import bookmarks from firefox   or safari  neither works.      it's just greyed out.  nothing happens.    <b>Please provide

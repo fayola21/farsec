@@ -1,0 +1,1 @@
+<title>Issue 43292 -   chromium -    100% CPU usage - Project Hosting on Google Code</title>   1. go to URL          near zero CPU usage      renderer has 100% CPU usage    <b>Please provide

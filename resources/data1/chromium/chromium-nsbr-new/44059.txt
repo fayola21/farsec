@@ -1,0 +1,1 @@
+<title>Issue 44059 -   chromium -    DevTools: XHR Deep Inspection. - Project Hosting on Google Code</title> <pre> XHR Deep Inspection in DevTools: It is really useful in Firebug for debugging ajax  how could you   have missed it there?. Yes I know one can go to Resources&gt;XHR but its just not the same. </pre>

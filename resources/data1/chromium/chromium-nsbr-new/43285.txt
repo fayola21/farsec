@@ -1,0 +1,1 @@
+<title>Issue 43285 -   chromium -    Click on checkbox does not focus on checkbox - Project Hosting on Google Code</title>   1. Click on second checkbox  2. Hit Tab  Hit Space        second and third check box are selected      first and second check box are selected    <b>Please provide

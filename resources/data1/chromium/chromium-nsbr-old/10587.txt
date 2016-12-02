@@ -1,0 +1,1 @@
+<title>Issue 10587 -   chromium -    Switch between flash plugins on Linux  - Project Hosting on Google Code</title> <pre> Hi  I know Linux version isn't supported yet  but I would like to request a  feature:   Be able to switch between flash plugins like Adobe Flash  Gnash  Swfdec..  Will be even better if we could switch without be necessary restart the  browser. </pre>

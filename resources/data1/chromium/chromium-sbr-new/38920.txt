@@ -1,0 +1,1 @@
+<title>Issue 38920 -   chromium -    extensions can circumvent access restrictions by over-writing chromeHidden.event.dispatchJSON - Project Hosting on Google Code</title> <pre> access restrictions are currently implemented in javascript which can be   over-written by any extension. </pre>

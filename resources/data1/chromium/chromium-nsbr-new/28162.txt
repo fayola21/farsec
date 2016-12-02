@@ -1,0 +1,1 @@
+<title>Issue 28162 -   chromium -    Need to point code.google.com/chrome/extensions at trunk - Project Hosting on Google Code</title> <pre> We're going to be making several last minute changes to the docs and don't   want to wait for a dev channel push. </pre>

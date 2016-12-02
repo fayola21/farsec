@@ -1,0 +1,1 @@
+<title>Issue 4994 -   chromium -    marging of a table will push it out of the div - Project Hosting on Google Code</title>   1. put a table in a div  2. give table margin (top)  3. table breaks out of div      margin happens within the div (looking like padding of that div)      table breaks out of div (this only happens in chrome)    Please provide

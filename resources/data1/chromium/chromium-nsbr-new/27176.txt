@@ -1,0 +1,1 @@
+<title>Issue 27176 -   chromium -    ChromeFrame diff installer is not working - Project Hosting on Google Code</title> <pre>   1. install 223.14 full installer.  2. install 237 diff installer on top      What is the expected output?  ChromeFrame should auto update to 237.    What do you see instead?  ChromeFrame is not auto updated.         </pre>

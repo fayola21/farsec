@@ -1,0 +1,1 @@
+<title>Issue 24560 -   chromium -    Mac: Bookmark Menu completely translucent - Project Hosting on Google Code</title>   1. Open Chromium. Bookmark Menu completely translucent/see-through.  2. Close Bookmark Menu.  3. Open Bookmark Menu. Still translucent.        Bookmark Menu should not be see-through.          Bookmark Menu is completely see-through.      <b>Please provide

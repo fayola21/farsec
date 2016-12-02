@@ -1,0 +1,1 @@
+<title>Issue 22322 -   chromium -    Some websites cause 50% CPU usage - Project Hosting on Google Code</title>   1. Download dev channel  2. open www.friendfeed.com  3. check the CPU usage                <b>Please provide

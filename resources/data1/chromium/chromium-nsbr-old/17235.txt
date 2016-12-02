@@ -1,0 +1,1 @@
+<title>Issue 17235 -   chromium -    Feature request : ability to detect browser states (NORMAL  POPUP  APPLICATION) from javascript - Project Hosting on Google Code</title> <pre> It would be very useful to be able to detect from a webpage's script  whether the page is running inside a NORMAL state (tab)  a popup window or  an APPLICATION. </pre>

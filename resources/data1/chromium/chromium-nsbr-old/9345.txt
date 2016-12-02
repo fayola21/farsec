@@ -1,0 +1,1 @@
+<title>Issue 9345 -   chromium -    Chrome crashes while managing bookmarks - Project Hosting on Google Code</title>   1. Open bookmark manager  2. create  move or delete some folders or bookmarks  3. chrome crashes totally...                <b>Please provide

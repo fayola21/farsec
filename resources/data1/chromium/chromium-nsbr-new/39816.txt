@@ -1,0 +1,1 @@
+<title>Issue 39816 -   chromium -    [GTK] geolocation: implement the location content settings page - Project Hosting on Google Code</title> <pre> Port <a href="http://codereview.chromium.org/1526004">http://codereview.chromium.org/1526004</a> to GTK </pre>

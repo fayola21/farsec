@@ -1,0 +1,1 @@
+<title>Issue 1160 -   chromium -    wishlist: minimize to tray - Project Hosting on Google Code</title> <pre> minimize to tray instead of closing  like minimize to tray addons </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11881 -   chromium -    The background of tab bar it's black instead of blue just when chrome is maximized! - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0      See screenshots atached for more! </pre>

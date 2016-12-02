@@ -1,0 +1,1 @@
+Security Wizard: navigation not locked down  causes artifacts  and other unwanted side effects       

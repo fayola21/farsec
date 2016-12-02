@@ -1,0 +1,1 @@
+<title>Issue 13670 -   chromium -    Chrome conflicts with game. - Project Hosting on Google Code</title>   1. Open up the game called FlyFF in window mode.  2. Open up Chrome  3. (2 and 1 can be in reverse order.)      Chrome will load pages  etc.      The about:blank screen keeps appearing. Chrome doesnt respond on clicks in   the preview window.    <b>Please provide

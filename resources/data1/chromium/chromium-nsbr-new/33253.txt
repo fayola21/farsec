@@ -1,0 +1,1 @@
+<title>Issue 33253 -   chromium -    Developers would like to get sample code in zip file - Project Hosting on Google Code</title> <pre> received developer feedback that they would like to receive samples in zip   file  this can be part of the sample page automation  but I file it separately    though.    *this isn't sample  but easier to track by labeling it sample*   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1399 -   chromium -    Infragistics for ASP.NET 2008.2 widgets are not rendered properly - Project Hosting on Google Code</title>   1. Try to open the page. The accordion widget is not shown properly.            Correct rendered accordion widget. (Try opening url with ie7)        Text  Links and some graphics which are not behaving correctly.    Please provide

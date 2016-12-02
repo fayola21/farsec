@@ -1,0 +1,1 @@
+<title>Issue 22324 -   chromium -    Chrome crashing at startup with --enable-sync - Project Hosting on Google Code</title>   1. Start Chrome with the --enable-sync flag  2. ??  3. Crash!      It should launch      It crashes    <b>Please provide

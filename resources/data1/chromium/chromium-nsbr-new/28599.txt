@@ -1,0 +1,1 @@
+<title>Issue 28599 -   chromium -    chrome.windows has no way to distinguish browser window from app/window.open navigationless window - Project Hosting on Google Code</title> <pre> the window object needs a property which designates it's type. </pre>

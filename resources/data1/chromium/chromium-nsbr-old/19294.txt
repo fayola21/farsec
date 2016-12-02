@@ -1,0 +1,1 @@
+<title>Issue 19294 -   chromium -    Chrome will continuously deiconify when an alert box is present - Project Hosting on Google Code</title>   1. javascript:alert(&quot;Hello world&quot;);  2. Iconify chrome      Chrome remains iconified.      Chrome immediately deiconifies.      <b>Please provide

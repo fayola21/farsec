@@ -1,0 +1,1 @@
+<title>Issue 44311 -   chromium -    SVG+Video tag - problems with scripting - Project Hosting on Google Code</title>   1.Visiting the URL given above          Video displayed inside scaleable frames defined in the SVG  muting videos   in response to click on frames      Both videos displayed in the top-left corner.    <b>Please provide

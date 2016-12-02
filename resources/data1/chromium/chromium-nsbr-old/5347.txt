@@ -1,0 +1,1 @@
+<title>Issue 5347 -   chromium -    DIV placement issue - Project Hosting on Google Code</title>   1. Screen resolution 1024*768  2. Open the URL  scroll down to India  3. Click India. The popup div is not placed in the center  4. Attached are screen shots of Crome and Firefox                Please provide

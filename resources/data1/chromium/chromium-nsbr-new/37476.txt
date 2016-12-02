@@ -1,0 +1,1 @@
+<title>Issue 37476 -   chromium -    Wrong translation in search box - Project Hosting on Google Code</title> <pre> [Language]Chinese Simplified    [Version number]4.0.249.89    [OS details]Windows Vista SP1      In the search box which appears after CTRL-F    The Chinese translation of Found should be ��_��_��__��_��_��__�_ѕ�_��__��_  Now it is _��__��__��ѕ�_     </pre>

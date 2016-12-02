@@ -1,0 +1,1 @@
+<title>Issue 12253 -   chromium -    Go button does nothing - Project Hosting on Google Code</title> <pre> - launch Chromium  - type &quot;google.com&quot; in the omnibox  - click &quot;go&quot; button at the right of the box    Expected:  - load google.com    Actual:  - nothing happens. Something has regressed with the omnibox  this used to work. </pre>

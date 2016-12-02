@@ -1,0 +1,1 @@
+<title>Issue 6081 -   chromium -    SVG should support blur - Project Hosting on Google Code</title> <pre> FF3: ok  IE 7: not ok  Safari 3.1: not ok      Load the following testcase     What is the expected output?   Text is blurred out    What do you see instead?  Text appears normal         </pre>

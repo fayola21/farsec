@@ -1,0 +1,1 @@
+<title>Issue 12788 -   chromium -    tab preview in windows 7 taskbar - Project Hosting on Google Code</title> <pre> IE 8 shows tab preview when mouse is moved over it's icon in taskbar and   that's a great feature. it would be so great if chrome supports it too. </pre>

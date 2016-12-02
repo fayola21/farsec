@@ -1,0 +1,1 @@
+<title>Issue 15761 -   chromium -    BrowserThemeProvider::GetNSColorTint uses HSB rather than HSL - Project Hosting on Google Code</title> <pre> Tints are HSL but Cocoa uses HSB. This discrepancy must be evaluated and  then either fixed or accepted. </pre>

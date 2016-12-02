@@ -1,0 +1,1 @@
+<title>Issue 23046 -   chromium -    download item menus and download mgr share strings - Project Hosting on Google Code</title> <pre> The menu items off a download item and the links in the download manager   html should be different string ids since the different contexts could need   different phrasing. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13787 -   chromium -    wrench-&gt;about leads to a crash - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.189.0 (Developer Build 18083)    the version of chrome      crash    this also happens from the wrench  if you do about:version it works fine </pre>

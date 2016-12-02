@@ -1,0 +1,1 @@
+ProtocolTest doesn't clean up its test resources    ProtocolTest doesn't clean up its test resources. A tearDown method should be added to make the referenced instances eligable for garbage collection. The test class instances currenlty retain more than 10 MB on the heap.   

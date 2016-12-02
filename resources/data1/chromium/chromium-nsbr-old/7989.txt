@@ -1,0 +1,1 @@
+<title>Issue 7989 -   chromium -    Middle click don't work with GMail - Project Hosting on Google Code</title>   1. Log into GMail  2. Click with middle-button any of Inbox  Draft  Trash...      A new tab opened      The same as right-click.    Please provide

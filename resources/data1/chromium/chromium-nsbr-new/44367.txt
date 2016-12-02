@@ -1,0 +1,1 @@
+<title>Issue 44367 -   chromium -    Setup Shader Translator with correct constants and error handling - Project Hosting on Google Code</title> <pre> The Shader Translator needs the correct constants passed in instead of the   hardcoded ones it has now. It also needs to report the errors through GL </pre>

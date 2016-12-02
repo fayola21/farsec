@@ -1,0 +1,1 @@
+<title>Issue 17329 -   chromium -    chrome hangs occasionally when exiting. - Project Hosting on Google Code</title>   1. export GTK_IM_MODULE=scim-bridge  2. Run chrome and then close the window.  3. Repeat above step for several times.        chrome exits immediately without hang.      The chrome hangs occasionally when exiting.    <b>Please provide

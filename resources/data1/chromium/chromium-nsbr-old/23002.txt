@@ -1,0 +1,1 @@
+<title>Issue 23002 -   chromium -    Chrome Frame needs support for launching and managing file:// URLS - Project Hosting on Google Code</title>   1. Try to launch a web page with the GCF &lt;meta&gt; tag from a 'file://' URL  2. GCF doesn't load        GCF would load        GCF doesn't load    <b>Please provide

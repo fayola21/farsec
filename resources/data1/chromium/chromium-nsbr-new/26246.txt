@@ -1,0 +1,1 @@
+<title>Issue 26246 -   chromium -    chrome crashes when adding a link to a letter in gmail - Project Hosting on Google Code</title>   1. in Gmail write a letter with more then one word in Hebrew  2. select the a word   3. click on the link butten       not crashing  opening a link window      chrome crashes    <b>Please provide

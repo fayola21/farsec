@@ -1,0 +1,1 @@
+Intermittent bug in InterruptResilienceTest    Knut saw an error on the nightly test on Windows 2003: apparently an interrupt happened when waiting for a lock. Cf. enclosure test.log.   

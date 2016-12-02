@@ -1,0 +1,1 @@
+<title>Issue 2937 -   chromium -    Save Bookmarks in several folders - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.153.1    Is that correct  that i can save a website in only 1 Bookmark folder?    It would help me  if i can save some bookmarks in 2 or more folders  is   that possible? (like in Firefox 3)   </pre>

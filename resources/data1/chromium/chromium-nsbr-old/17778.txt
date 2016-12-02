@@ -1,0 +1,1 @@
+<title>Issue 17778 -   chromium -    when one tab crash  other tab crashes too / cant close individual tab - Project Hosting on Google Code</title>   1. load some new tab content  2. close the tab        tab closes      wont close    <b>Please provide

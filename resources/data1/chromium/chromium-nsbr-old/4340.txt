@@ -1,0 +1,1 @@
+<title>Issue 4340 -   chromium -    Can not comment on flickr - Project Hosting on Google Code</title>   1. log in  2. type something in a comment box  3. click comment  nothing happens      The page should reload and the comment should be posted to the image page        Nothing      Please provide

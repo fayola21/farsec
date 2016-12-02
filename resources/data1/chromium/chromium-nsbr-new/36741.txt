@@ -1,0 +1,1 @@
+<title>Issue 36741 -   chromium -    Enable extension promo on NTP for all locales in 249 branch - Project Hosting on Google Code</title> <pre> For 4.1 build. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39143 -   chromium -    rendering error - Project Hosting on Google Code</title>     1. Start browser        proper rendering        strange rendering in top-right corner  (see attached screenshot)    <b>Please provide

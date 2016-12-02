@@ -1,0 +1,1 @@
+<title>Issue 20255 -   chromium -    AirTran.com compatibility problem - Project Hosting on Google Code</title> <pre> See attached file for full user report.    The page layout is really different to IE7.  The user could not tab between entry fields.  The user was unable to complete the transaction using Google Chrome.   </pre>

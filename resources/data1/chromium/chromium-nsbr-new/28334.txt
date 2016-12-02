@@ -1,0 +1,1 @@
+<title>Issue 28334 -   chromium -    Gdk-WARNING **: XID collision  trouble ahead - Project Hosting on Google Code</title> <pre> We print    Gdk-WARNING **: XID collision  trouble ahead  while running plugins sometimes.    I need to investigate what that means. </pre>

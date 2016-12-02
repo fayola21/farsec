@@ -1,0 +1,1 @@
+SelectOptions with #setRecreateChoices(true) loses selection on form errors    Having SelectOptions#setRecreateChoices(true)  on every render each choice is represented by a new SelectOption instance with a new UUID.If the form has submit errors  no UUID will match the RAW-Input of the Select. Thus the selection is lost.   

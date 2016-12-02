@@ -1,0 +1,1 @@
+<title>Issue 20012 -   chromium -    end process from task manager doesn't work in Fedora 11  Ubuntu 9.04  Open SuSe 11.1 - Project Hosting on Google Code</title>   1. Open a tab in Chrome  2. Bring up task manager  3. Select any process and click on end process button      process will get killed      nothing    <b>Please provide

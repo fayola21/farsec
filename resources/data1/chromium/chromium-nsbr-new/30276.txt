@@ -1,0 +1,1 @@
+<title>Issue 30276 -   chromium -    Back and Forward Buttons On Mouse Don't Work - Project Hosting on Google Code</title>   1. Just got google chrome and forward and back buttons on mouse don't work          The browser doesn't respond to the buttons       I have to move up and click the ones in the browser  which is slower    <b>Please provide

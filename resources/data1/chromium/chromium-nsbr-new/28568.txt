@@ -1,0 +1,1 @@
+<title>Issue 28568 -   chromium -    Proxy change does not work on ChromiumOS - Project Hosting on Google Code</title>   1. not able to change proxy settings. no UI appears even after clicking the  button.                    <b>Please provide

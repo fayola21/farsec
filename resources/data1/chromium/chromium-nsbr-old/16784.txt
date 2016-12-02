@@ -1,0 +1,1 @@
+<title>Issue 16784 -   chromium -    [linux?]  dropdown menus broken - Project Hosting on Google Code</title>   1. click on Template menu on above page)  2. try to click on a template      template to be selected and take effect      click goes through menu and menu remains visible!    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 29616 -   chromium -    Crash on Idle. - Project Hosting on Google Code</title>   1. I sometimes come back to my system and Chrome as crashed while it was idle.      Guess?      I see this error:    First-chance exception at 0x7660ec68 (user32.dll) in chrome.exe: 0xC0000005: Access violation writing   location 0x000c8f48.    <b>Please provide

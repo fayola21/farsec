@@ -1,0 +1,1 @@
+<title>Issue 34279 -   chromium -    Doteasy web creator - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;from About Google Chrome/Chromium or  'about:version'&gt;            1.Go into your doteasy.com account   2.Launch the doteasy web creator  3.Try to built your web site using web creator with google chrome: you will  not be able   </pre>

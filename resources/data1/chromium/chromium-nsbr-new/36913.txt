@@ -1,0 +1,1 @@
+<title>Issue 36913 -   chromium -    Add a FAQ entry to show how to obtain current Chrome versions - Project Hosting on Google Code</title> <pre> Some of our documentation mentions specific versions of chrome.  Add info to   the developer FAQ on how to check which versions of Chrome are deployed to   which channels. </pre>

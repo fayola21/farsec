@@ -1,0 +1,1 @@
+<title>Issue 1564 -   chromium -    Auto-Hide task bar on Windows Vista does not appear - Project Hosting on Google Code</title>   1. Start Chrome on Windows Vista with the Taskbar/Start Bar on auto-hide  2. Place your mouse at the bottom of the screen  3. Watch as it does not appear                Please provide

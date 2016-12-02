@@ -1,0 +1,1 @@
+<title>Issue 21584 -   chromium -    Bookmark sync is not working - Project Hosting on Google Code</title> <pre> Chromium Version       : 4.0.208.0 (25971)    Bookmark sync button/menu shows no action. I click it but no response as if I   am clicking dummy button. In fresh installation as well as old. I've tried   clicking it after and before login to Google account. </pre>

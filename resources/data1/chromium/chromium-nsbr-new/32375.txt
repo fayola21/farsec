@@ -1,0 +1,1 @@
+<title>Issue 32375 -   chromium -    Google Chrome Aero - Project Hosting on Google Code</title> <pre> Google Chrome aero feature DEV has stopped working. Only themes such as the   default is working  all other default color themes block aero from showing   up. This problem has started 2 versions ago  please fix it... </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15882 -   chromium -    bookmark bar padding cleanups - Project Hosting on Google Code</title> <pre> - bookmark bar too tall  - button item padding wrong    source: Ben/Glen UI review </pre>

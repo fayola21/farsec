@@ -1,0 +1,1 @@
+<title>Issue 17300 -   chromium -    webkit/tools/test_shell/test_shell.cc should not include V8Proxy.h - Project Hosting on Google Code</title> <pre> test_shell.cc should not include V8Proxy.h. Instead  we should expose  V8Proxy::processConsoleMessages() through a function in WebKit.h </pre>

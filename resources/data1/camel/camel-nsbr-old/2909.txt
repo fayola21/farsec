@@ -1,0 +1,1 @@
+Oracle AQ does not support the JMSReplyTo property and therefore throws a 'JMS-102: Feature not supported' exception when the JMS provider tries to get it.    Oracle AQ does not support the JMSReplyTo property and therefore throws a 'JMS-102: Feature not supported' exception when the JMS provider tries to get it.   

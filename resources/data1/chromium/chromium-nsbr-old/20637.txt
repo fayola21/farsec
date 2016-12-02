@@ -1,0 +1,1 @@
+<title>Issue 20637 -   chromium -    Developer Tools opens blank - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.203.2  URLs (if applicable) :Several tried    The Developer Tools window opens blank. Was working fine 2 days ago.  chrome://devtools/devtools.html opens blank. </pre>

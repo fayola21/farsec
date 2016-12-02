@@ -1,0 +1,1 @@
+<title>Issue 4183 -   chromium -    The Chrome can't open the wdows live hotmail text(mail)editor - Project Hosting on Google Code</title>   1. the chrome doesnt open the new text editor of the new interface of the   windows live hotmail          to use my hotmail in the chrome!        i need to use others browsers.    Please provide

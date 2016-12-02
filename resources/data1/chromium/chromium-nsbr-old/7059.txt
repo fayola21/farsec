@@ -1,0 +1,1 @@
+<title>Issue 7059 -   chromium -    Password Auto-fill should not set keyboard focus to password field - Project Hosting on Google Code</title> <pre> We should focus the username field instead  which allows quicker swapping   between saved logins or pressing enter to submit.     </pre>

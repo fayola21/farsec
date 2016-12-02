@@ -1,0 +1,1 @@
+<title>Issue 18526 -   chromium -    regression: after failing at autodetect  chromium tries it again - Project Hosting on Google Code</title> <pre> This is a regression from <a href="/p/chromium/source/detail?r=22485">r22485</a>. </pre>

@@ -1,0 +1,1 @@
+Alert table on the right needs to be tied visually/verbally to the context/content it is displaying    Currently in Dashboard when service entry is clicked  right side alerts table caption does not indicate that it is showing alerts related to that service. So Cpation of the table should change indicating the corresponding service name.   

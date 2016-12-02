@@ -1,0 +1,1 @@
+<title>Issue 21146 -   chromium -    Omnibox2 dropdown has bad antialiasing in corners - Project Hosting on Google Code</title> <pre> Open the omnibox dropdown and leave your selection on the first row.  Look   closely at the upper left and right corners and notice what looks like a bad   seam between border and contents. </pre>

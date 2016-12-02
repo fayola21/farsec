@@ -1,0 +1,1 @@
+Ambari-DDL-Postgres-CREATE.sql fix for CLUSTER.OPERATE       

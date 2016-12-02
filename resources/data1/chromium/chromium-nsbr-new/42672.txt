@@ -1,0 +1,1 @@
+<title>Issue 42672 -   chromium -    measure install dropoff from different permission dialog messages - Project Hosting on Google Code</title> <pre> We should collect histograms to see what the effect is of the various levels   of warnings on people clicking through to install extensions. </pre>

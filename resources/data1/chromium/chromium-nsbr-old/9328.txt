@@ -1,0 +1,1 @@
+<title>Issue 9328 -   chromium -    GMail's Quote Selected Text labs extension does not work - Project Hosting on Google Code</title>   1. Enable Quote Selected Text in GMail labs  2. Select some text in your mail and hit 'r'         You should only see the selected text in the text area.        You see the whole message.    <b>Please provide

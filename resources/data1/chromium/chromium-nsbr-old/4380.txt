@@ -1,0 +1,1 @@
+<title>Issue 4380 -   chromium -    Rename README.google files to README.chromium - Project Hosting on Google Code</title> <pre> As the summary says. README.google files should be renamed to   README.chromium. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13047 -   chromium -    printing problem - Project Hosting on Google Code</title>   1.When I print a htm. invoice by right clicking in google chrome there is a   35-40mm border around the edge which is way to big  in version 1.0.154.65   there is only a 15-20mm border around  I have the same problem in version   2.0.172.28 also.                    <b>Please provide

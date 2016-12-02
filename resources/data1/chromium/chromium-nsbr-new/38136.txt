@@ -1,0 +1,1 @@
+<title>Issue 38136 -   chromium -    Bookmarking = crash - Project Hosting on Google Code</title>   1. Click star to bookmark page  2. Click down arrow to edit folder      What is the expected result? Drop down list to change  destination folder      What happens instead? Crash      <b>Please provide

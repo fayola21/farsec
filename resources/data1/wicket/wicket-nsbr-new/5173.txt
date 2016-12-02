@@ -1,0 +1,1 @@
+Make ThrottlingSettings mutable    ThrottlingSettings can be modifiable so if an Ajax behavior sets some default throttling setting then a component using this behavior can just change the delay or postpone flag without the need to set a completely new one.   

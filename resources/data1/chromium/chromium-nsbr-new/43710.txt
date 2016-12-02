@@ -1,0 +1,1 @@
+<title>Issue 43710 -   chromium -    Extensions settings and history reset on close - Project Hosting on Google Code</title>   1. Install some extensions and fill out the settings  2. Close chrome and then open it again      Extensions and History do not reset.      It resets.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17771 -   chromium -    Crash on exiting - Project Hosting on Google Code</title> <pre> Chromium	3.0.196.0 (Developer Build 0)  WebKit	532.0  V8	1.2.14  User Agent	Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.0  (KHTML  like Gecko) Chrome/3.0.196.0 Safari/532.0    Chromium crashes on exiting. There's additional information in attachment. </pre>

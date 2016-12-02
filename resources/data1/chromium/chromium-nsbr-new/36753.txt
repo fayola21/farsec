@@ -1,0 +1,1 @@
+<title>Issue 36753 -   chromium -    Chrome crashes if a URL is dragged - Project Hosting on Google Code</title>   1. Highlight a link.  2. Drag it.      I should be able to drag it anywhere (like on the tab to go to that URL or beside a tab to open it on a new tab).      Chrome crashes    <b>Please provide

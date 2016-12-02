@@ -1,0 +1,1 @@
+<title>Issue 22735 -   chromium -    Browser crashes when login on iGoogle - Project Hosting on Google Code</title>   1. Go to the url above  2. Put your login into the login box  3. Push the &quot;tab&quot; button        I am supposed to be connected to iGoogle        An error page appears (see the attached file for the error message)    <b>Please provide

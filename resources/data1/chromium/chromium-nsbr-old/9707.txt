@@ -1,0 +1,1 @@
+<title>Issue 9707 -   chromium -    Unable to close Ctrl+F bar by retyping Ctrl+F - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.2      1. Type Ctrl+F on any page  2. Type it again      The find box should disappear by typing Ctrl+F the second time.      The box remains open. </pre>

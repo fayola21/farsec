@@ -1,0 +1,1 @@
+<title>Issue 38846 -   chromium -    Flash does not register clicks - Project Hosting on Google Code</title>   1. Start google chrome.  2. Go to a youtube video.  3. Click pause button or any other button.        Click should be detected and the video paused.        Nothing.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 19849 -   chromium -    Can't copy text from address bar - Project Hosting on Google Code</title>   1. Copy text from address bar(using ctrl+C or context menu)  2. Try to past copied text                  <b>Please provide

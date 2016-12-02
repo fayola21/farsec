@@ -1,0 +1,1 @@
+<title>Issue 41843 -   chromium -    Use new infobar style everywhere - Project Hosting on Google Code</title> <pre> Currently some of our infobars use the old infobar style (e.g. Autofill). We   should update them to look more like the translate infobar. It's blue instead   of yellow and the buttons are not right aligned. </pre>

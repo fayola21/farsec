@@ -1,0 +1,1 @@
+<title>Issue 30269 -   chromium -    Detect and ignore double clicks on DL'd items in DL bar - Project Hosting on Google Code</title>   1. Download Something  2. Double click the item in the download bar  3. Have two copies of whatever it was opened      Download is opened/executed once      Twice    <b>Please provide

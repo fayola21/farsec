@@ -1,0 +1,1 @@
+<title>Issue 13462 -   chromium -    Blank address bar on mac - Project Hosting on Google Code</title>   1. Make a new tab  2. Drag off the tab bar  3. Release as new window      New window with tab comes out  looking the same as before      The address bar is blank unless it has focus  every time you click out  the   bar goes blank again    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22573 -   chromium -    Text selectable in the about box. - Project Hosting on Google Code</title> <pre> This may not actually be a bug  but filing because of discussion in   codereview.    (Filled after <a href="http://codereview.chromium.org/216028">http://codereview.chromium.org/216028</a> ). </pre>

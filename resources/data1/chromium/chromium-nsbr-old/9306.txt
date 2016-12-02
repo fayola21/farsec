@@ -1,0 +1,1 @@
+<title>Issue 9306 -   chromium -    Selecting text and right click - Project Hosting on Google Code</title>   1. Open a page  2. select some text  3. right click and it won't let you copy the text or search the text using   google      Copy and search in google is expected      selected text isn't selected anymore    <b>Please provide

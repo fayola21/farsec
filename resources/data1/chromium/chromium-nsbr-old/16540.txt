@@ -1,0 +1,1 @@
+<title>Issue 16540 -   chromium -    Browser doesn't save some cookies upon close and reopening - Project Hosting on Google Code</title>   1. Log into iGoogle or Facebook  2. Close Chrome  3. Open Chrome  hve to relog-in to iGoogle and Facebook      I should remain signed-in.      I must resign-in.    <b>Please provide

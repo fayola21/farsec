@@ -1,0 +1,1 @@
+<title>Issue 9695 -   chromium -    Right clicking selected text deselects drag-selected text - Project Hosting on Google Code</title>   1. Drag-select any text  2. Right click on the selected text                <b>Please provide

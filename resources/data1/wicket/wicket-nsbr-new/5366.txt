@@ -1,0 +1,1 @@
+ResourceAggregator looses information about priority/filtering/... when using a bundle    If a resource reference is part of a bundle and this resource reference is rendered with PriorityHeaderItem then the bundle is not rendered with priority.   

@@ -1,0 +1,1 @@
+<title>Issue 2924 -   chromium -    Don't let IME candidate window overwrite the autocomplete popup - Project Hosting on Google Code</title> <pre> See &lt;b1111369&gt;    When opening the AutocompletePopup  we should call ImmSetCandidateWindow()  on the edit's IME context and exclude the popup from the display area.      </pre>

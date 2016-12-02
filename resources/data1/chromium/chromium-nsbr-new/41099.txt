@@ -1,0 +1,1 @@
+<title>Issue 41099 -   chromium -    in Gnome (fedora 12) + Avant Window Navigator development buttons not working - Project Hosting on Google Code</title>   1. make chrome window max size      to work      can't press buttons of dev-bar (bottom left corner)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27359 -   chromium -    Temporarily remove i18n fallback logic for extension resource resolution - Project Hosting on Google Code</title> <pre> The fallback logic is expensive for extension resource resolution because it   must do an extra file stat. Since we don't need this for Chrome 4  we should   disable it. </pre>

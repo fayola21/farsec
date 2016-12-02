@@ -1,0 +1,1 @@
+<title>Issue 19027 -   chromium -    Search boxes are out of place - Project Hosting on Google Code</title>   1.Click on Advanced search on first web page  2.Advanced search page opens        There are various search boxes that are in order      Search boxes are out of place an covering other search boxes.    <b>Please provide

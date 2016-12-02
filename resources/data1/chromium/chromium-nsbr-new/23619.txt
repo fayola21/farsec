@@ -1,0 +1,1 @@
+<title>Issue 23619 -   chromium -    Timemachine needs to backup around 50mb of chrome every hour - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.212.1  OS version               : 10.6.1      Browse a bit  watch timemachine backup      Create inremental backups of the caches/history  Or don't backup the cache at all     </pre>

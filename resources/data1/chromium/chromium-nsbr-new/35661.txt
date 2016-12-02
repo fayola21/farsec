@@ -1,0 +1,1 @@
+<title>Issue 35661 -   chromium -    Extension crash when alert is called within an options page - Project Hosting on Google Code</title> <pre>         here is extensions bug    load the extensions  then click option page //here alert(1)   click yes  then step follow the picture    at last the chrome will crash </pre>

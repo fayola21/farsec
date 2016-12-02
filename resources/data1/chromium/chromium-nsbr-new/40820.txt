@@ -1,0 +1,1 @@
+<title>Issue 40820 -   chromium -    &lt;select&gt; keeps focus ring while showing dropdown - Project Hosting on Google Code</title> <pre>   1. click on a &lt;select&gt; box  2. dropdown appears  3. &lt;select&gt; widget on page still has the focus ring    Regression  but maybe not that crucial. </pre>

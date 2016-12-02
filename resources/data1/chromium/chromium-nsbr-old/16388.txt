@@ -1,0 +1,1 @@
+<title>Issue 16388 -   chromium -    Startup does too many layouts/moves of browser chrome - Project Hosting on Google Code</title> <pre> StopAutocomplete() gets hit like a dozen times during app startup (with just   the new tab page showing).  This might indicate something that could be   avoided to speed startup times slightly. </pre>

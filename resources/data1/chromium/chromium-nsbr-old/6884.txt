@@ -1,0 +1,1 @@
+<title>Issue 6884 -   chromium -    I'm not able to use my yahoo mail - Project Hosting on Google Code</title>   1. Using the new version of yahoo mail  2. When I open the window for writing a new mail    3. I can open the window  but I can't write anything(somethimes the window  is empty)      Compose and send e-mail      I can't compose and send e-mail    Please provide

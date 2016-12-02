@@ -1,0 +1,1 @@
+<title>Issue 39824 -   chromium -    Minimized chrome still displays tabs as windows - Project Hosting on Google Code</title>   1. Open some tabs in chrome  2. Run a program in fullscreen (i.e. VLC)  3. Minimize chrome      Fully minimized chrome      Attached Screenshot    <b>Please provide

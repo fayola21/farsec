@@ -1,0 +1,1 @@
+<title>Issue 224 -   chromium -    Hidden Windows taskbar can't be retrieved while in Chrome. - Project Hosting on Google Code</title>   1. When you dock the Windows taskbar to the right side of the screen and   auto-hide  you can't make the taskbar appear by mousing over the right   margin of the screen while in Chrome.                    Please provide

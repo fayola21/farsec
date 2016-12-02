@@ -1,0 +1,1 @@
+<title>Issue 39800 -   chromium -    Chrome incorrect internal time Mac OSX - Project Hosting on Google Code</title> <pre> For example upon entering Facebook schedule of events shown does not correspond to reality. </pre>

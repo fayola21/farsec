@@ -1,0 +1,1 @@
+<title>Issue 24990 -   chromium -    Menu Bar says &quot;Google Chrome Helper&quot; - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.5    OS version               : 10.5.8 </pre>

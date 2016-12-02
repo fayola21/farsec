@@ -1,0 +1,1 @@
+<title>Issue 31545 -   chromium -    update libpng to 1.4 - Project Hosting on Google Code</title> <pre> libpng 1.2 no longer gets security/stability fixes. </pre>

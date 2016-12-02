@@ -1,0 +1,1 @@
+<title>Issue 5607 -   chromium -    Chromium ignores accesskey attributes. - Project Hosting on Google Code</title>   1. Find some link anchor with accesskey attribute.  2. Select link with accesskey(ALT + &lt;accesskey&gt;)    Please provide

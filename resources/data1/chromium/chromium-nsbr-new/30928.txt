@@ -1,0 +1,1 @@
+<title>Issue 30928 -   chromium -    support for @sourceURL comment for named eval() / Function() support in devtools - Project Hosting on Google Code</title>   1. run some code with a named eval()  like a dojo 1.4 sample        expect to see the eval()'d source show up in devtools drop-down for   scripts        the scripts don't appear in the drop-down    <b>Please provide

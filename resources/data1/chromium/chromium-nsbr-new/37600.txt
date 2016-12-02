@@ -1,0 +1,1 @@
+<title>Issue 37600 -   chromium -    Find in page: a character comes back with tabbing - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.1.249.1025      1. Erase all character on find bar.  2. Move to the other tab.  3. Go back to original tab.      It should be blank?      A character deleted is still left on find bar.     </pre>

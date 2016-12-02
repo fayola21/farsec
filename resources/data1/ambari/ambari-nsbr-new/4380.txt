@@ -1,0 +1,1 @@
+Hosts API-calls    For each host:P0: Start All Components Stop All ComponentsP1: Restart All Components   

@@ -1,0 +1,1 @@
+<title>Issue 31585 -   chromium -    Patch to make earthy theme text more readable - Project Hosting on Google Code</title> <pre> I have no idea if the theme devs will take patches or how to contact them  but   here are some change that I think make the Earthy theme more readable. </pre>

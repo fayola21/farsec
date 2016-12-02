@@ -1,0 +1,1 @@
+<title>Issue 29534 -   chromium -    Linux source view looks blurry - Project Hosting on Google Code</title> <pre> OS: Ubuntu 9.10  Chrome Version: 4.0.266.0 (33936)      Firefox 3.x: OK   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6119 -   chromium -    Can't re-open a closed tab when incognito - Project Hosting on Google Code</title>   1. Open a tab when incognito  2. close the tab  3. Perform the Ctrl+Shift+T command      The recently closed tab re-opens      Nothing    Please provide

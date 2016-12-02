@@ -1,0 +1,1 @@
+<title>Issue 42640 -   chromium -    Implement Windows group policy implementation - Project Hosting on Google Code</title> <pre> Once the preference abstraction and policy abstractions are complete  we   should implement the underlying Windows Group Policy behavior for centrally-  managed preferences.     </pre>

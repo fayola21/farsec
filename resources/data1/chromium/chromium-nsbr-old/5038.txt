@@ -1,0 +1,1 @@
+<title>Issue 5038 -   chromium -    CSS list-style: circle url(); does not return circled LI as at other browsers - Project Hosting on Google Code</title>   1. CSS list-style with defined style AND blank url() like  &quot; LI {list-style: circle url();}&quot;      Should produce LI with circle list style      Produce LI without circle    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44825 -   chromium -    Exit full screen button missing - Project Hosting on Google Code</title>   1. enter full screen mode  2. wait until the button &quot;Exit full screen (F11)&quot; disappears  3. move mouse to top edge of screen       the button should reappear       nothing    <b>Please provide

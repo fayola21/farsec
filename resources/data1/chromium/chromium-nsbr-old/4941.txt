@@ -1,0 +1,1 @@
+<title>Issue 4941 -   chromium -    Crash and unresponsive when downloading file to a new folder - Project Hosting on Google Code</title>   1. Click link to a file download  2. In select folder dialog  create a new folder for the file and click ok  3. Chrome then crashes after a brief pause    WinXP SP3  Kaspersky Internet Security                Please provide

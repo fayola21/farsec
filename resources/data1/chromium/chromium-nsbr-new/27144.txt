@@ -1,0 +1,1 @@
+<title>Issue 27144 -   chromium -    Install location: Program files go in 'Program Files' - Project Hosting on Google Code</title>   1. Try to install Google Chrome  2. Check the location of the program files          The program files are located in the 'c:program files' directory        The program files are located in the users profile directory    <b>Please provide

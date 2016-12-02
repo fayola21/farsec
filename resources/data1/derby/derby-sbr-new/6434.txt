@@ -1,0 +1,1 @@
+Incorrect privileges may be required for INSERT and DELETE statements.    This issue is a place to address problems with INSERT and DELETE statements similar to the problems affecting UPDATE statements recorded on DERBY-6429. In particular  DERBY-6432 and DERBY-6433 list some of the problems with INSERT statements.   

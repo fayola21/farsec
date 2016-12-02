@@ -1,0 +1,1 @@
+<title>Issue 926 -   chromium -    Font size getting smaller - Project Hosting on Google Code</title>   1. Go to the url      The fonts look all the same size in every reply      The font gets smaller after each reply    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 5340 -   chromium -    Mouse buttons (back  forward) don't work with Logitech Mouse - Project Hosting on Google Code</title>   1. Go to any page on the web  2. Go to any other page on the web  3. Try to use the mouse back button to go back to the original page      The browser should navigate back to the previous page.      Nothing.    Please provide

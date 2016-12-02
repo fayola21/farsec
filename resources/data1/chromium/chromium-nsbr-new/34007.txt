@@ -1,0 +1,1 @@
+<title>Issue 34007 -   chromium -    Orkut not opening up - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;5.0.307.1 dev&gt;  URL : www.orkut.com  Behavior in Safari 3.x/4.x : haven't tried  Behavior in Firefox 3.x: opens without any issue      1. visiting Orkut.com       </pre>

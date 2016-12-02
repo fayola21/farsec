@@ -1,0 +1,1 @@
+<title>Issue 26780 -   chromium -    Numeric keypad pageup / pagedown do not work (Ubuntu 9.10 / Gnome) - Project Hosting on Google Code</title>   1. Page up or page down using numpad            Page up or page down on a page with a scrollbar        Nada    <b>Please provide

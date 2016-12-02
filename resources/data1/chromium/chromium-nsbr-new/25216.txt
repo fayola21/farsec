@@ -1,0 +1,1 @@
+<title>Issue 25216 -   chromium -    implement popups for page actions - Project Hosting on Google Code</title> <pre> As part of reconciling page action and browser action APIs (<a title="Make page actions API more like browser actions API" class=closed_ref href="/p/chromium/issues/detail?id=24635"> issue 24635 </a>)  we   should implement popups for page actions. </pre>

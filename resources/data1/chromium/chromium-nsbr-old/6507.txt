@@ -1,0 +1,1 @@
+<title>Issue 6507 -   chromium -    Chrome uses incorrect plug-in - Project Hosting on Google Code</title>   1. Install Acrobat Pro v8.x and Acrobat Reader v9.x  2. Ensure Acrobat Pro is the default pdf handler  3. Click any pdf link      pdf plugin v8.x should be invoked      pdf plugin v9.x is invoked    Please provide

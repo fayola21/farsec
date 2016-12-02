@@ -1,0 +1,1 @@
+<title>Issue 39527 -   chromium -    Pin tabs feature missing - Project Hosting on Google Code</title>   1. Right-click on a tab in the top tab bar  2. Review drop-down menu        There exists a &quot;pin tab&quot; item somewhere in this menu  which activates the   pin tabs feature for that tab.      There is no such item.      <b>Please provide

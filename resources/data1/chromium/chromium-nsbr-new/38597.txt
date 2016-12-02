@@ -1,0 +1,1 @@
+<title>Issue 38597 -   chromium -    Tabs stay docked in desktop area - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.356.0  URLs (if applicable) : Any  Other browsers tested: N/A      1. Open Chrome Dev Build  2. Create Tabs        Tabs not to show in desktop      Tabs showed on the bottom left corner of the desktop on top of start menu.   </pre>

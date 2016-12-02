@@ -1,0 +1,1 @@
+<title>Issue 23268 -   chromium -    Browser actions: Implement badge - Project Hosting on Google Code</title> <pre> You should be able to call browserAction.setBadge() to set a visible numeric   badge on the extension. </pre>

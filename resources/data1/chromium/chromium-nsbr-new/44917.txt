@@ -1,0 +1,1 @@
+<title>Issue 44917 -   chromium -    Option tag not affected by font styles. - Project Hosting on Google Code</title>   1.Create a simple HTML with &lt;select&gt; tag.  2.Add a &lt;option&gt; child to it with some font-styling (in my example I wanted   the text to be bold).      Expected is to see bold text.      Text remains unchanged.    <b>Please provide

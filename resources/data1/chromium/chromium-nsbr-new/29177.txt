@@ -1,0 +1,1 @@
+<title>Issue 29177 -   chromium -    Calendar reloading - Project Hosting on Google Code</title> <pre> When I try to open the corporate calendar it keeps re-loading to infinity. It    stops only after I clear the cookies. After i restart the browser it reloads   constantly for ages. I'm using Chrome 4. </pre>

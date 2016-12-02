@@ -1,0 +1,1 @@
+<title>Issue 865 -   chromium -    Google Talk Interoperability - Project Hosting on Google Code</title>   1. Attempt to drag an image from Chrome  2. Attempt to drop image into Google Talk conversation      The image will be inserted into the conversation if the other user is using   a client that supports this.      The drop does not work.    Please provide

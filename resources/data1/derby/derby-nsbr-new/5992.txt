@@ -1,0 +1,1 @@
+Use BaseTestCase.execJavaCmd() to start process from NetworkServerTestSetup    NetworkServerTestSetup invokes Runtime.exec(String[]) manually when it needs to start a sub-process. It should use BaseTestCase.execJavaCmd(). In addition to reducing the amount of code  it would make the server processes pick up the flags they need to work well with EMMA and JaCoCo.   

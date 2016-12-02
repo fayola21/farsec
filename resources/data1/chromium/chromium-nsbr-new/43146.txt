@@ -1,0 +1,1 @@
+<title>Issue 43146 -   chromium -    igoogle memory usage - Project Hosting on Google Code</title>   1. Load igoogle.com  2. Let sit for several days/hours.      A reasonably amount of RAM is used for a single page.      RAM usage is constantly going up.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 31712 -   chromium -    enforce extension permissions at the browser level - Project Hosting on Google Code</title> <pre> They're currently only enforced at the renderer.  Given our current   permissions  this isn't a huge deal  but as the extension API surface area   grows  this will become a bigger deal.   </pre>

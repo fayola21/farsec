@@ -1,0 +1,1 @@
+<title>Issue 12433 -   chromium -    feature request: need mechanism change hokey [hotkey remap] [hotkey manager] - Project Hosting on Google Code</title>   1. I want [for example] change hotkey Ctrl-Shift-T (Open previous close   page) to Ctrl-Z.        <b>Please provide

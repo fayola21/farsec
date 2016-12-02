@@ -1,0 +1,1 @@
+<title>Issue 45736 -   chromium -    Tab animation with full tabstrip is flickery - Project Hosting on Google Code</title> <pre> On at least Vista+  the tab strip animation is flickery with a full tabstrip.   It seems to snap between states jarringly. Glen thought this might be related   to the transparency mask that was applied over background tabs. </pre>

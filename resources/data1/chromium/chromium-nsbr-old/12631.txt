@@ -1,0 +1,1 @@
+<title>Issue 12631 -   chromium -    [Feature] pin a shortcut to the taskbar in windows 7 - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.181.1&gt;          Consider adding an option in &quot;create an application shortcut&quot; to pin shortcut   s to the taskbar in windows 7  Much Appreciated </pre>

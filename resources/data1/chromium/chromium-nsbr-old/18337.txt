@@ -1,0 +1,1 @@
+<title>Issue 18337 -   chromium -    Linux problems building .so's on 64-bit (fPIC). - Project Hosting on Google Code</title> <pre> When compiling on 64-bit  when we try to build .so (like the test plugins)    we get errors about fPIC.  I am currently working on understanding the   complete differences between 32-bit and 64-bit DSOs. </pre>

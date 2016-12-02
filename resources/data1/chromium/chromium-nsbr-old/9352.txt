@@ -1,0 +1,1 @@
+<title>Issue 9352 -   chromium -    URL field not focused by default when creating a new tab - Project Hosting on Google Code</title> <pre> I broke this when refactoring the DOM UI. </pre>

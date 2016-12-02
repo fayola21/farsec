@@ -1,0 +1,1 @@
+<title>Issue 24881 -   chromium -    You should be able to use (slightly) bigger icons in browser actions (and maybe page actions) - Project Hosting on Google Code</title> <pre> Glen and Cole claim the max size is 19  and that page and browser actions are   the same. When I measured it on the mocks  it looked more like 21 and that   page actions were smaller. </pre>

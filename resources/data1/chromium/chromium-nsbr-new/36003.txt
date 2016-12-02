@@ -1,0 +1,1 @@
+<title>Issue 36003 -   chromium -    Merging two contacts in Google Voice or Mail generates Aw Snap - Project Hosting on Google Code</title>   1. Select two contacts. I did so from a search  if that matters  2. Click &quot;Merge these 2 contacts&quot;      Return to contacts page with newly merged entry selected      Aw Snap page    <b>Please provide

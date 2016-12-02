@@ -1,0 +1,1 @@
+<title>Issue 40662 -   chromium -    Pinned tabs not restored on mac - Project Hosting on Google Code</title> <pre> There's code to restore pinned tabs when the user exits chrome. This doesn't   appear to be working on the mac side (from <a href="http://crbug.com/32845">http://crbug.com/32845</a> comment   141. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17940 -   chromium -    96k audio on vista clicks - Project Hosting on Google Code</title> <pre>   1. use vista64  2. play color2.ogv in the test grid    What is the expected output?  should play audio properly  with no clicks    What do you see instead?  clicks/noise.     </pre>

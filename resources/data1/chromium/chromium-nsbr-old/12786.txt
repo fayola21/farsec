@@ -1,0 +1,1 @@
+<title>Issue 12786 -   chromium -    divs with scrollbars turn black when fadeing the div above it - Project Hosting on Google Code</title>   1.click on the div          the scroll bars to not be black.. in chrome the bars are black. all other   browsers are fine        scroll bar turns black      <b>Please provide

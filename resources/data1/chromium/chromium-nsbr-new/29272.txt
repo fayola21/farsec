@@ -1,0 +1,1 @@
+<title>Issue 29272 -   chromium -    Crash on restore last tabs after exiting on error - Project Hosting on Google Code</title>   1. Chromium crashed after being upgrade two versions ago  2. On reopen asks if wish to reload tabs  3. On confirmation starts to reload and crashes again                <b>Please provide

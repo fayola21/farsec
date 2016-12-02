@@ -1,0 +1,1 @@
+<title>Issue 6731 -   chromium -    We should have unit tests for the SafeBrowsingBlockingPage class - Project Hosting on Google Code</title> <pre> The SafeBrowsingBlockingPage has been the source of several top crashers in   the past.  We should have unit tests for it. </pre>

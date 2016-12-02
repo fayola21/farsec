@@ -1,0 +1,1 @@
+<title>Issue 37367 -   chromium -    SPDY: Downloading rather than rendering page when proceeding past certificate error - Project Hosting on Google Code</title> <pre> We download the page rather than rendering it when we try to proceed past a   certificate error. </pre>

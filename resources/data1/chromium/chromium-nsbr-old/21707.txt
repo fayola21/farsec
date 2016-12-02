@@ -1,0 +1,1 @@
+<title>Issue 21707 -   chromium -    about downloading limit - Project Hosting on Google Code</title>   1.download a file larger than 20MB(or so)  2.same goes for flash video      file stop downloading at 20MB(or so)  stop downloading flash video  even if the file is not completed    <b>Please provide

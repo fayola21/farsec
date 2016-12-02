@@ -1,0 +1,1 @@
+StringValidator should set 'minlength' attribute to input and textarea    At the moment StringValidator sets 'maxlength' to input elements.According to http://www.w3.org/TR/html5/forms.html#the-maxlength-and-minlength-attributes maxlength could be set also to textarea elements.And there is 'minlength' attribute that could also be set automatically by Wicket.   

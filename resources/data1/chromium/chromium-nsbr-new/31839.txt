@@ -1,0 +1,1 @@
+<title>Issue 31839 -   chromium -    Uploading photos page wants to install java every time no matter what  everything is up to date. - Project Hosting on Google Code</title>             java window opens with a file browser to select the photos to upload.      directed to site on how to install the latest java version from software   update.     <b>Please provide

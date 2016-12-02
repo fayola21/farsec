@@ -1,0 +1,1 @@
+<title>Issue 41882 -   chromium -    Bookmarks reappear after they are deleted - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.9 beta  Other browsers tested: Not Tested      1. Delete a bookmark  2. Wait a few minutes  3. The bookmark will reappear      Bookmarks that are deleted will remain deleted.      Bookmarks reappear. </pre>

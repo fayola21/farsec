@@ -1,0 +1,1 @@
+<title>Issue 6915 -   chromium -    No more can set Chromium as my default browser - Project Hosting on Google Code</title> <pre> 2.0.158.0 (Developer Build 8533)    Try to set Chromium as your default browser. You can't. </pre>

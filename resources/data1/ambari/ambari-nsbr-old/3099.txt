@@ -1,0 +1,1 @@
+Cannot change JMX ports using Ambari configuration API    Ambari 1.2.5  attached the configs to the cluster  in order to provide ability for override behavior at the service and host component levels.The JMX ports read from the service configs can no longer be modified from their default values since the existing code reads the service configurations which do not exist.   

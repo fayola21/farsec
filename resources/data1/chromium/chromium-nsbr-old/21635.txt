@@ -1,0 +1,1 @@
+<title>Issue 21635 -   chromium -    Unload entire extension when part of it crashes - Project Hosting on Google Code</title> <pre> Unload entire extension when part of it crashes - to make its state   consistent.    I had that in one CL  but there are problems with how ExtensionsService   shuts down on different threads. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 26867 -   chromium -    scrolling in the option dialog leaves random noise in the dialog - Project Hosting on Google Code</title> <pre> Scroll under the hood slowly and the download path can leak into the outer   frame.   </pre>

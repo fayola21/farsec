@@ -1,0 +1,1 @@
+<title>Issue 1187 -   chromium -    Loading about:% crashes chrome - Project Hosting on Google Code</title>   1. Started Chrome  2. Entered about:% in the address bar  3. Pressed enter        Chrome should have displayed a blank page or a &quot;This page cannot be found&quot;   pagge        Chrome Crashes.    Please provide

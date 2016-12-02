@@ -1,0 +1,1 @@
+<title>Issue 4702 -   chromium -    Application shortcut for specific URL is not created - Project Hosting on Google Code</title>   1. Click &quot;Create application shortcuts...&quot;  2. Click &quot;OK&quot;        Shortcut created on desktop and launched.      Nothing.    Please provide

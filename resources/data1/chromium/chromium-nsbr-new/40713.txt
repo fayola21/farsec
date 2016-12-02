@@ -1,0 +1,1 @@
+<title>Issue 40713 -   chromium -    Drag files from your OS into Google docs as an import feature - Project Hosting on Google Code</title> <pre> It would be very helpful to add a feature where you could select a number of   files from windows explorer or similar  into a folder on the google docs   explorer view. </pre>

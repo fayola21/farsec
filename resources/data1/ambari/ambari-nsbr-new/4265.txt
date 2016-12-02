@@ -1,0 +1,1 @@
+Add env AMBARI_JVM_ARGS to ambari-server start    Useful if you want to set AMBARI_JVM_ARGS in the environment. For example: Setting http proxy that Ambari Serverexport AMBARI_JVM_ARGS='-Dhttp.proxyHost=the.proxy.host -Dhttp.proxyPort=1234'ambari-server start   

@@ -1,0 +1,1 @@
+FilteredAbstractColumn unary constructor expects Model instead of IModel    We have this now:public FilteredAbstractColumn(Model displayModel) { super(displayModel); }Here's the super constructor it delegates to:public AbstractColumn(IModel displayModel) { this(displayModel  null); }So I really don't see why the FilteredAbstractColumn would need Model descendants specifically.   

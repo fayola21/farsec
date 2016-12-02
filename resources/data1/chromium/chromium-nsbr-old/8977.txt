@@ -1,0 +1,1 @@
+<title>Issue 8977 -   chromium -    [cbssports.com] Doesn't allow Chrome to use Silverlight - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.169.1                  1.Goto March Madness cbssportsline.com  2. Launch watch now      It should open the silverlight plugin and allow the video to play.      says browser is not supported       </pre>

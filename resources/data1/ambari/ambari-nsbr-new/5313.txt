@@ -1,0 +1,1 @@
+Icon 'Asterisk' on 'Assign Masters'/-Slaves steps does not display with 8-bit depth       

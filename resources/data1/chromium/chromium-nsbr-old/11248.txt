@@ -1,0 +1,1 @@
+<title>Issue 11248 -   chromium -    Linux Bookmark Bar Metabug - Project Hosting on Google Code</title> <pre> This metabug tracks all issues related to the item &quot;bookmarks bar and  bookmarks button (star)&quot; on the Chrome Multi-platform Dev feature plan  spreadsheet. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13964 -   chromium -    Middle Mouse Button Paste - Project Hosting on Google Code</title>   1. open xterm  2. select text with left mouse button  3. use middle mouse button (to no effect) to paste selected.        Text should be pasted into chromium.        Nothing    <b>Please provide

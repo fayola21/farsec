@@ -1,0 +1,1 @@
+<title>Issue 41893 -   chromium -    The new Bookmark manager sucks - Project Hosting on Google Code</title>   1.Open the Bookmark Manager    Usable Bookmark manager      A weird web page opens  in which it is very non-obvious how to rearrange   the bookmarks    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 29702 -   chromium -    Chrome gets crashed on loading Spell Checker of Yahoo Mail - Project Hosting on Google Code</title>   1. Open yahoo mail.  2. read a mail  reply to the mail.  3. write some english and right click on a wrong spell word for suggestion      Exception &quot;Whoa  Chrome got crash!&quot;.                <b>Please provide

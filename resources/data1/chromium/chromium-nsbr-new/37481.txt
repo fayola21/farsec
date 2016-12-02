@@ -1,0 +1,1 @@
+<title>Issue 37481 -   chromium -    Feature request: Option to disable all omnibox popup suggestions - Project Hosting on Google Code</title> <pre> Chrome Version : 5.0.345.0 (40707)    Or fix the &quot;omnibox-popup-count=0&quot; bug. Please! </pre>

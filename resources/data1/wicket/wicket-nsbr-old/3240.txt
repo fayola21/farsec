@@ -1,0 +1,1 @@
+AnnotationsRoleAuthorizationStrategy isInstantiationAuthorized package==false  class==true returns true    In the class AnnotationsRoleAuthorizationStrategy's isInstantiationAuthorized method ifthe package authorization is false but the class authorization is true  then the userwill be authorized.Maybe  check the class authorization only if the authorized variable is true.   

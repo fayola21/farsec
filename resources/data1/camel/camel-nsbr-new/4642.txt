@@ -1,0 +1,1 @@
+Do not print javax.jms.Message in toString in camel-jms    See nabblehttp://camel.465427.n5.nabble.com/ExchangeTimedOutException-not-properly-constructed-by-Camel-2-7-1-exposing-exchange-data-tp4971556p4971556.htmlThere may be details in the JMS message you do not want to show in logs unintended.   

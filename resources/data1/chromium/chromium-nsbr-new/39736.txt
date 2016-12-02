@@ -1,0 +1,1 @@
+<title>Issue 39736 -   chromium -    enable interactive ui tests for chromeos - Project Hosting on Google Code</title> <pre> interactive_ui_tests is broken for chromeos. (it's never enabled)  We need to fix and to have bots. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16593 -   chromium -    Google chrome crashes if you open a new tab - version - 3.0.193.0 - Project Hosting on Google Code</title>   1. Open a new tab by clicking plus sign   2.Browser crashes        Should open a new window      Browser Chrashes.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 29322 -   chromium -    Cannot access ftp://sourceware.org - Project Hosting on Google Code</title> <pre> Trying to access <a href="ftp://sourceware.org">ftp://sourceware.org</a> causes the ftp network stack to go to   a read state when there's no more data to read. We're parsing the ftp   response wrong on a corner case. </pre>

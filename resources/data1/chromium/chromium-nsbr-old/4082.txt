@@ -1,0 +1,1 @@
+<title>Issue 4082 -   chromium -    incompatibility: http://www.receita.fazenda.gov.br/ - Project Hosting on Google Code</title>   1. Access the main site. It's showed a message informing the incompatibility with browser.  2. Lots of features aren't showed.        For exemple  an drop-down menu  on top of page. Some text of menu are   hidden too.        -    Please provide

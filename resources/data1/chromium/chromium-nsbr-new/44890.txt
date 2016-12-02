@@ -1,0 +1,1 @@
+<title>Issue 44890 -   chromium -    Chrome crashes after the system is set to sleep. - Project Hosting on Google Code</title>   1. Start chrome.  2. Sleep your system.  3. Resume your system.      Chrome continues working without crashing.      Chrome crashes.    <b>Please provide

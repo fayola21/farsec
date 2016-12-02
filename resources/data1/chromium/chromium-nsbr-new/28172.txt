@@ -1,0 +1,1 @@
+<title>Issue 28172 -   chromium -    Gmail issue with Chrome. - Project Hosting on Google Code</title>   1.Open Gmail.com        Gmail.com should open and user should be able to enter user name      Takes few seconds to enable username text box. even though text box can be   see.    <b>Please provide

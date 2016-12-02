@@ -1,0 +1,1 @@
+<title>Issue 5323 -   chromium -    Remove platform ifdefs from sandbox.h - Project Hosting on Google Code</title> <pre> sandbox/src/sandbox.h shouldn't have platform defines nor dependencies on  build/build_config.h. Instead  remove them and wrap any uses with the  appropriate platform defines. </pre>

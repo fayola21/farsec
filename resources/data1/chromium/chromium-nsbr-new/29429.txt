@@ -1,0 +1,1 @@
+<title>Issue 29429 -   chromium -    store raw perf test output with perf test results - Project Hosting on Google Code</title> <pre> It would be useful to see the raw perf test output when diagnosing some perf-  related issues.  We should store that output and link to it from each perf   test result. </pre>

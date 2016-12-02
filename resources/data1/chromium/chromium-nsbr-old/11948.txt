@@ -1,0 +1,1 @@
+<title>Issue 11948 -   chromium -    Black window top bar when browser is maximized... - Project Hosting on Google Code</title>   1. Open the browser  2. Maximize the window (you'll notice a black top part in the window)      - The window should stay blue  as expected.      - The window turns black    <b>Please provide

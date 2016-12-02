@@ -1,0 +1,1 @@
+camel-yammer - Endpoint yammer:current throwns JsonMappingException exception    Getting org.codehaus.jackson.map.JsonMappingException: Can not deserialize instance of java.util.ArrayList out of START_OBJECT tokenwhen trying to return the current user using yammer:current. Workaround is to just add ?useJson=true and do marshaling manually. Fixing on master shortly.   

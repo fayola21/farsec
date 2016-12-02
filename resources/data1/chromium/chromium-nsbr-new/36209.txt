@@ -1,0 +1,1 @@
+<title>Issue 36209 -   chromium -    Add support to Get/Remove items from task manager. - Project Hosting on Google Code</title> <pre> Following methods need to be exposed via AutomationProxy in order to add  task manager related ui tests:  - Get task manager list  - Remove items from task manager </pre>

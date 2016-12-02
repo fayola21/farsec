@@ -1,0 +1,1 @@
+<title>Issue 28421 -   chromium -    Move --type=renderer to be the first argument again - Project Hosting on Google Code</title> <pre> It used to be first but now --channel has moved before it. It's nice to see it   first in the output of &quot;ps aux&quot; for instance so you can pick out the renderers   from the zygote and plugin processes. </pre>

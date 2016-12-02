@@ -1,0 +1,1 @@
+Use java.util.concurrent in TransactionTable to improve scalability    Running scalability tests with the client and buffer manager from DERBY-2911 shows that access to the TransactionTable.trans (a Hashtable) and XactFactory.tranId (a shared long) are the next major sources of contention.   

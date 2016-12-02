@@ -1,0 +1,1 @@
+<title>Issue 18986 -   chromium -    Theme install infobar should say &quot;undo&quot;  not &quot;back to default&quot; - Project Hosting on Google Code</title> <pre> And of course  that is what it should do too.    Code was recently added that allows us to get the ID of the currently installed   theme. This can be used by ExtensionInstallUI to implement undo. </pre>

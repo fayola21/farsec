@@ -1,0 +1,1 @@
+<title>Issue 32159 -   chromium -    REGRESSION: New tab button is incorrectly positioned in the Vista frame - Project Hosting on Google Code</title> <pre> REGRESSION: New tab button is incorrectly positioned in the Vista frame    Observed using 4.0.297.0 (Developer Build 36095) </pre>

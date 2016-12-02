@@ -1,0 +1,1 @@
+<title>Issue 7036 -   chromium -    new tabs zero width  show no text - Project Hosting on Google Code</title>   1. Launch Chrome. First tab shows text fine  e.g. Gmail - Inbox (4)  2. Right-click a link to open a page in a new tab.  3. Initial tab  new tab  and subsequent new tabs have no text.      Tabs show text      Tabs show no text    Please provide

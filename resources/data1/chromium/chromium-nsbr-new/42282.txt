@@ -1,0 +1,1 @@
+<title>Issue 42282 -   chromium -    Refactor cr.ui.SplitPane into cr.ui.Splitter - Project Hosting on Google Code</title> <pre> I have a need for splitter in a multi pane view and SplitPane already works.   It just needs to be packaged slightly differently. </pre>

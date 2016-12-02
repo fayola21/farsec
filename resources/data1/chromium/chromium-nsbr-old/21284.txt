@@ -1,0 +1,1 @@
+<title>Issue 21284 -   chromium -    Iframe shims over a plugin in an iframe dont work - Project Hosting on Google Code</title>   1. Create an iframe containing a plugin (eg the GEPlugin)  2. Place a div in front of an iframe shim in the top window        The div's contents should appear        The div's contents are hidden behind the plugin    <b>Please provide

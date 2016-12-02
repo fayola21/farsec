@@ -1,0 +1,1 @@
+<title>Issue 2396 -   chromium -    Highlight and drag URL bug/problem - Project Hosting on Google Code</title>   1. Highlight and drag this to tab bar: <a href="http://www.google.com">http://www.google.com</a>  2. Highlight and drag this to tab bar: www.google.com        Should open new tab and go to that site.      Only the first one works.    Please provide

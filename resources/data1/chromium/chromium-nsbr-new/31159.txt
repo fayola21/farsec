@@ -1,0 +1,1 @@
+<title>Issue 31159 -   chromium -    GMail + Chrome on Mac OSX is sick - Project Hosting on Google Code</title>   1. load gmail  2. compose an email        Should be quick      Wait for half minute or so  and display this error message. I recently   encountered this issue all the time on Mac.    <b>Please provide

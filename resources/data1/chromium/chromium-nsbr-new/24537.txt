@@ -1,0 +1,1 @@
+<title>Issue 24537 -   chromium -    Rare crash with last.fm on Ubuntu - Project Hosting on Google Code</title>   1.Download last.fm App in ubuntu  2.create account  3.wait half minute      System freez  harddrive indication LED stays on      Google chrome rescue��s tab    <b>Please provide

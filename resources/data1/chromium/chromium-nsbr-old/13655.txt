@@ -1,0 +1,1 @@
+<title>Issue 13655 -   chromium -    Typing text in gmail experiences large lag - Project Hosting on Google Code</title>   1. Open GMail.  Work in it for an hour or two  2. Write a message.  3. Notice that there is a 3-5s lag between pressinga key and it appearing   the in draft message.        No lag.      Large lag between typing and text appearing  <b>Please provide

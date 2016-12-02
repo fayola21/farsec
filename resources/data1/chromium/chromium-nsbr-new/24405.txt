@@ -1,0 +1,1 @@
+<title>Issue 24405 -   chromium -    History tab hangs  no result  high cpu - Project Hosting on Google Code</title>   1. Press Ctrl-H to access the history tab          The browsing history should show      Hothing. It says &quot;loading&quot; forever and causes high cpu from that tab.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1471 -   chromium -    URL works in IE  but fails in Chrome: http://www.minsk.gov.by/forum/9/542/#26122 - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)  URLs (if applicable) : <a href="http://www.minsk.gov.by/forum/9/542/#26122">http://www.minsk.gov.by/forum/9/542/#26122</a>   </pre>

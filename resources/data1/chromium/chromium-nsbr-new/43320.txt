@@ -1,0 +1,1 @@
+<title>Issue 43320 -   chromium -    installation issue error code 3 - Project Hosting on Google Code</title>   1. goto google.co.uk/chrome  2. click install beta  3. error 3 appears saying already installed      beta should be installed and run      current stable version runs but removes extensions    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6857 -   chromium -    Support PgUp/PgDn in Omnibox for &quot;first entry/last entry&quot; - Project Hosting on Google Code</title> <pre> As in other browsers  we should support PgUp/PgDn to mean &quot;first/last   autocomplete popup entry&quot;.  Right now they behave like Home/End. </pre>

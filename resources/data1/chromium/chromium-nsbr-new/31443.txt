@@ -1,0 +1,1 @@
+<title>Issue 31443 -   chromium -    NiceToHave: chrome extensions api chrome.browserActions functions - Project Hosting on Google Code</title> <pre> Please add get functions to chrome.browserAction   .getBadgeText   .getTitle   etc.   It is needed if you would like to update the text instead of replacing   it.     Thanks </pre>

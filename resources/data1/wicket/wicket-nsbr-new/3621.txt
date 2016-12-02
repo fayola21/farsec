@@ -1,0 +1,1 @@
+Wicket do not test the 'buffer response' property in IRequestCycleSettings when creating the WebResponse in WebApplication    Wicket always create a buffered response. In 1.4 is was configurable.   

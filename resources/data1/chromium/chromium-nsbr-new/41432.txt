@@ -1,0 +1,1 @@
+<title>Issue 41432 -   chromium -    cursor disappear when click text box  not able to type anything - Project Hosting on Google Code</title>   1. when click text box  cursor appear once and disappear.  2. not able to type anything.        -cursor is there  and able to type.      -text box is highlighted  cursor disappear  not able to type anything.    <b>Please provide

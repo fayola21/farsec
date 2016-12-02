@@ -1,0 +1,1 @@
+<title>Issue 45762 -   chromium -    Remove omnibox ears. - Project Hosting on Google Code</title> <pre> Mac version of <a title="Remove omnibox ears."  href="/p/chromium/issues/detail?id=45745">issue 45745</a> </pre>

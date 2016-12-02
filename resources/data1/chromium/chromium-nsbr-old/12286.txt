@@ -1,0 +1,1 @@
+<title>Issue 12286 -   chromium -    Double-clicking in tab strip doesn't minimize window - Project Hosting on Google Code</title> <pre> - launch chromium make sure you have a window open  - double-click the titlebar    Expected:  - window minimizes to the Dock    Actual:  - nothing happens.    I swear this used to work  but maybe it never did. </pre>

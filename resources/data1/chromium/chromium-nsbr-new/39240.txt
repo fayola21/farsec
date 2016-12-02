@@ -1,0 +1,1 @@
+<title>Issue 39240 -   chromium -    Pass tools/licenses.py - Project Hosting on Google Code</title> <pre> This new script checks that the licensing information is clear on all of our   third-party code.  Once we pass  we will make passing it a prerequisite for   checking in. </pre>

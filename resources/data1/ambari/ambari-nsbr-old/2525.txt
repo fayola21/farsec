@@ -1,0 +1,1 @@
+Add helpful message when not able to download jdk with setup options for the user to be able to specify the jdk.    Add helpful message when not able to download jdk with setup options for the user to be able to specify the jdk.   

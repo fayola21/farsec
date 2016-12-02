@@ -1,0 +1,1 @@
+<title>Issue 15068 -   chromium -    NNTP thumbnails icon shows 3 across  but page displays 4 - Project Hosting on Google Code</title> <pre> The little icon is a 3x2 grid  but the page shows 4x2. </pre>

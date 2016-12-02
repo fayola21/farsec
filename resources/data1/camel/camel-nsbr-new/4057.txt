@@ -1,0 +1,1 @@
+continued(true) doesn't work when is invoked for the second time in the Camel flow    When Camel flow contains error handling as continued(true)  it is not invoked when the error occurs for the second time (even in different onException).What is more the exception is not handled even by global onException and Camel flow is interruped.   

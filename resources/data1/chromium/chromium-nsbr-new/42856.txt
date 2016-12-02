@@ -1,0 +1,1 @@
+<title>Issue 42856 -   chromium -    EV bubble should clamp to max width - Project Hosting on Google Code</title> <pre> Visit <a href="https://www.barbican.org.uk/eticketing/index.asp">https://www.barbican.org.uk/eticketing/index.asp</a> in Firefox and Chrome.    Note how in Firefox  the absurdly long cert holder name is elided.  We should   do that too. </pre>

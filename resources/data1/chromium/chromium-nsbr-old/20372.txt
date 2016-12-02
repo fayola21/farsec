@@ -1,0 +1,1 @@
+<title>Issue 20372 -   chromium -    gmail print pdf view doesn't work - Project Hosting on Google Code</title>   1. open an email with a PDF attachment  2. click view PDF link  3. click print (activates download not print)      document should print      pdf document goes to download    <b>Please provide

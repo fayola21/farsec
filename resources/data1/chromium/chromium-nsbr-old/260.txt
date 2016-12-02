@@ -1,0 +1,1 @@
+<title>Issue 260 -   chromium -    Open button - Project Hosting on Google Code</title>   1. I did a document download  2. Then  the browser didn't show-me the open button  just the save box.        To show the open button.        Opened the save dialog box.    Please provide

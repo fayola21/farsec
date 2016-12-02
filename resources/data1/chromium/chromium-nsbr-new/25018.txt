@@ -1,0 +1,1 @@
+<title>Issue 25018 -   chromium -    Shifted min/max/close buttons - Project Hosting on Google Code</title>   1. Open Google Chrome on Window Vista      -      -    <b>Please provide

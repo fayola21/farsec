@@ -1,0 +1,1 @@
+<title>Issue 8505 -   chromium -    Cant upgrade to 2.0.168.0 from either 2.0.168.0 or from 1.0.154.48 - Project Hosting on Google Code</title>   1. Using the option &quot;about google chrome&quot; and press &quot;update now&quot;          Upgrading      It fails with the error: Update server not available (error 7)    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39958 -   chromium -    preference sync falls into unrecoverable error if new pref is encountered - Project Hosting on Google Code</title> <pre> this seems quite bad  but I'm not sure what the right thing to do is.  Can we    sync it under syncapi and instead ignore any pref item that isn't in   synced_preferences_? </pre>

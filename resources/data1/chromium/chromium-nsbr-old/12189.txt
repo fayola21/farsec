@@ -1,0 +1,1 @@
+<title>Issue 12189 -   chromium -    Retrieving the proxy settings on windows can block IO thread for seconds. - Project Hosting on Google Code</title>   1. Open Browser  2. 3 - 4 Tabs  3. keeps freezing and unresponsive        not freezing      freeze + unresponsive      <b>Please provide

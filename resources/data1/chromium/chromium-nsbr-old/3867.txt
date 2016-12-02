@@ -1,0 +1,1 @@
+<title>Issue 3867 -   chromium -    Objects not created or called in order!! - Project Hosting on Google Code</title>   1. change value in left select into 2  2. observe order in right select  3. order in right select is not the way it was entered in the javascript   array     What is the expected result? A B C D      What happens instead? A C D B      Please provide

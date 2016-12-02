@@ -1,0 +1,1 @@
+<title>Issue 17716 -   chromium -    Tabs are the wrong color - Project Hosting on Google Code</title> <pre> Tabs are slightly darker than the toolbar below them  and there's a visible   line separating them because of this. </pre>

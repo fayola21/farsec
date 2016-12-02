@@ -1,0 +1,1 @@
+derbyclient.jar is not a complete OSGi bundle    The manifest in derbyclient.jar is incomplete for usage in OSGi. There are no packages exported. This appears to only be a problem in standalone equinox (outside of eclipse). Note that I did not try other OSGi containers.The fix is relatively simple. Adding the Export-Package manifest header should take care of the problem.   

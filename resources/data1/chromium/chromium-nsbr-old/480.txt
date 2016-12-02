@@ -1,0 +1,1 @@
+<title>Issue 480 -   chromium -    No option for clearing Download History at once. - Project Hosting on Google Code</title>             Expected an option to clear all the Download history at once.      Had to clear by clicking &quot;Remove&quot; one by one.    Please provide

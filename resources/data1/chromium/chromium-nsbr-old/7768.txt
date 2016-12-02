@@ -1,0 +1,1 @@
+<title>Issue 7768 -   chromium -    Middle click to open in new tab not working with orkut - Project Hosting on Google Code</title>   1. Log into orkut  2. Middle click any link      Link opens in new tab      Link opens in current tab    Please provide

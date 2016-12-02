@@ -1,0 +1,1 @@
+<title>Issue 36955 -   chromium -    Dropping bookmark on folder should put bookmark into that folder - Project Hosting on Google Code</title> <pre>   1. Drag bookmark  2. Drop it on a folder in the bookmark bar        Bookmark vanishes in that folder (and goes to the end of stuff in that folder).        Bookmark is placed next to folder  still on the bar. </pre>

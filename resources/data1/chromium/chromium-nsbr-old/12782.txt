@@ -1,0 +1,1 @@
+<title>Issue 12782 -   chromium -    Title Bar font smaller than usual - Project Hosting on Google Code</title>   1. Using 1200*800      Title Bar font should normal than last version 2.x something?      Title Bar font smaller than usual    <b>Please provide

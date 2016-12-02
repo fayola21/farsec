@@ -1,0 +1,1 @@
+<title>Issue 39906 -   chromium -    Change inactive toast timeout to 30 days instead of 3000 - Project Hosting on Google Code</title> <pre> Just in case you don't already have a bug for this  we should modify the   timeout to be 30 days instead of 3000.      Also  I'm assuming we want to merge this back to 249. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37131 -   chromium -    About Google Chrome crash for side by side channel - Project Hosting on Google Code</title> <pre>   1. Build Google Chrome  2. Run mini_installer.exe --chrome-sxs to install side by side Chrome  3. Launch side by side chrome  open wrench  about google chrome.    Crash     </pre>

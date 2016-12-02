@@ -1,0 +1,1 @@
+<title>Issue 20506 -   chromium -    Tips link text invisible in some themes - Project Hosting on Google Code</title> <pre> Tips link text uses the same color as &quot;Recently Closed&quot; links; this makes it   invisible in some themes (Dots  Topography).  Do not change color for links;   just underline. </pre>

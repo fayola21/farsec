@@ -1,0 +1,1 @@
+<title>Issue 908 -   chromium -    Touchpad won't scroll up - Project Hosting on Google Code</title>   1. Compaq nc4200 laptop with Synaptics Touch Pad v6.2          I expect to be able to scroll up using the touch pad on the laptop      Nothing  it will not scroll up      Please provide

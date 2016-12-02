@@ -1,0 +1,1 @@
+Hosts Components filter on Service summary page doesn't work    When user clicks on some component filter on Service summary page  it opens hosts page  but filter is not applied.   

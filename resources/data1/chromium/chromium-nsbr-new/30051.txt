@@ -1,0 +1,1 @@
+<title>Issue 30051 -   chromium -    Improper font rendering in Linux - Project Hosting on Google Code</title>   1. Browse to given URL in chromium under linux      Bold hindi fonts should be rendered correctly.      Bold hindi text shows up as boxes (font rendering issue)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 732 -   chromium -    Drag-n-Drop of tabs to Bookmarks Bar not working. - Project Hosting on Google Code</title>             When dragged the tag to the bookmarks bar  expected result is to add the   dragged tag to the bookmarks bar.      The dragged tag opens in a new window.    Please provide

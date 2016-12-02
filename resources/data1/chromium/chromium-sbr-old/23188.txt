@@ -1,0 +1,1 @@
+<title>Issue 23188 -   chromium -    Gears DLL is not marked at NX compatible - Project Hosting on Google Code</title> <pre> gears.dll is not marked as NX (no execute) compatible thus the heaps and the   stacks are marked as no-execute.     Upon a stack or heap overflow  malicious code can be executed from the stack   or heap making exploits much simpler.   </pre>

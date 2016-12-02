@@ -1,0 +1,1 @@
+<title>Issue 35475 -   chromium -    Translate: ping translate api occassionally for new language pairs - Project Hosting on Google Code</title> <pre> This requires specing an API to get translation pairs and then calling it to   check for new available translation pairs for the infobar.   </pre>

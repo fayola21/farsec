@@ -1,0 +1,1 @@
+<title>Issue 35676 -   chromium -    Bad positioning if 'search' image on MSDN site - Project Hosting on Google Code</title>   1. Insert the URL  2. display page  3. Look at the top left corner.      the search image is supposed to be next to the search box.        the search image is BELOW the search box.    <b>Please provide

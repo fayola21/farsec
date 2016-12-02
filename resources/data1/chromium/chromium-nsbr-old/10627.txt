@@ -1,0 +1,1 @@
+<title>Issue 10627 -   chromium -    [mmb] autoscroll- mouse position jumps...stupid behavior - Project Hosting on Google Code</title>   1. [mmb] page  2. mouse pointer position is still nudged a few pixels  3. looks rubbish... and is pretty noob development                <b>Please provide

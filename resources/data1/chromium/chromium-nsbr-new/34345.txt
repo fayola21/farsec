@@ -1,0 +1,1 @@
+<title>Issue 34345 -   chromium -    The heading line of the tab turns white for the current tab  deleting the heading  but leaving the icon - Project Hosting on Google Code</title>   1.  Load Chrome  2.  look at Tab  3.  Notice that Tab turns white and the Tab heading is deleted.  Only the   icon remains.                  <b>Please provide

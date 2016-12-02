@@ -1,0 +1,1 @@
+<title>Issue 16726 -   chromium -    On first run  should register with OpenWith list - Project Hosting on Google Code</title> <pre> Upon first run  Chrome does not register itself with the OpenWith List  even   if it is set as the default browser.      Since this list is in HKCU and does not require elevation  Chrome can be   added to the OpenWith list. </pre>

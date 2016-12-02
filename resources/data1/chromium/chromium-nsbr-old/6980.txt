@@ -1,0 +1,1 @@
+<title>Issue 6980 -   chromium -    Open a new tab causes it to resize wrong - Project Hosting on Google Code</title>   1. Open a new tabs  2. In one of the tabs  right click a link and open in new tab        It should keep the current tabs resized correctly        It shrinks to a stupid size.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37895 -   chromium -    Auto Translate Problem - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.351.0 build 41211    The auto translate feature  dosent work at all... </pre>

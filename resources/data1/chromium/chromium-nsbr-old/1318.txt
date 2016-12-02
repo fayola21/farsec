@@ -1,0 +1,1 @@
+<title>Issue 1318 -   chromium -    Keyword editor doesn't visually indicate bad keyword - Project Hosting on Google Code</title> <pre>   1. Try and create a new keyword with a name already in use.  2. The checkbox next to the keywords remains checked when it should change   to indicate the keyword is invalid.        Something other than a check next to the keyword.      </pre>

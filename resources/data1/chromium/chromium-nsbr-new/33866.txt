@@ -1,0 +1,1 @@
+<title>Issue 33866 -   chromium -    Open all bookmarks option - Project Hosting on Google Code</title> <pre> Please add option  &quot;Open all bookmarks&quot;  at bottom of bookmarks inside a folder.    This would make browsing much easier instead of having to right click on the   folder  then click on context menu option. </pre>

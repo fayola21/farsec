@@ -1,0 +1,1 @@
+<title>Issue 42468 -   chromium -    Chrome won't start from shortcut after update - Project Hosting on Google Code</title>   1. Updating Chrome to this version  2. Launching it from the shortcut      - Chrome should start      - Chrome won't start    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 23762 -   chromium -    Backspace goes one page back no matter what - Project Hosting on Google Code</title>   1. Typing anything in a textbox and pressing backspace           A character should be deleted      the browser loads the previous page; it goes back    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 15483 -   chromium -    onerror should be invoked when JS hits a runtime error - Project Hosting on Google Code</title> <pre> this bug has to be fixed in Webkit:  <a href="https://bugs.webkit.org/show_bug.cgi?id=25150">https://bugs.webkit.org/show_bug.cgi?id=25150</a> </pre>

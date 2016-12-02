@@ -1,0 +1,1 @@
+<title>Issue 29572 -   chromium -    tapuz.co.il: ___��__��__��__��_ button is placed wrong in Chrome/Mac - Project Hosting on Google Code</title> <pre>   1. Navigate to <a href="http://www.tapuz.co.il/chat/">http://www.tapuz.co.il/chat/</a>  2. Click on ___��__��__��__��_ _��____��__��____��_  3. See screenshot </pre>

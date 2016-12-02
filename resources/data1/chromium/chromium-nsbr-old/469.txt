@@ -1,0 +1,1 @@
+<title>Issue 469 -   chromium -    Support SOCKS proxy - Project Hosting on Google Code</title>   1. Set Proxy to use socks only in internet settings. HTTP  Secure and FTP  left blank.  2. Restart IE if it is running to make sure setings take.  3. Check IP Address e.g. ip-adress.com        IP Address of proxy should be shown        Normal IP address shown    Please provide

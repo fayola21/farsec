@@ -1,0 +1,1 @@
+<title>Issue 24464 -   chromium -    Take English out of the disk image - Project Hosting on Google Code</title> <pre> We need to get the &quot;Applications&quot; string out of the disk image  because it's   not localizable.    We should have some sort of pictorial background for the disk image to   indicate that the app should be dragged to the folder. </pre>

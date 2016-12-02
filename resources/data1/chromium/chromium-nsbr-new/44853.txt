@@ -1,0 +1,1 @@
+<title>Issue 44853 -   chromium -    asking for plugin does not tell you which plugin to install - Project Hosting on Google Code</title>   1. asking for plugin does not tell you which plugin to install                    <b>Please provide

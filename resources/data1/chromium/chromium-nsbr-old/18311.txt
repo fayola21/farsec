@@ -1,0 +1,1 @@
+<title>Issue 18311 -   chromium -    Status bubble should move out of the way of the mouse - Project Hosting on Google Code</title> <pre> When my mouse moves over a link towards the bottom of the browser window    the status bubble is supposed to slide out of the way  however currently it   just disappears. </pre>

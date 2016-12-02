@@ -1,0 +1,1 @@
+<title>Issue 24673 -   chromium -    Addition of Custom search engine failed - Project Hosting on Google Code</title>   Cant add a new search engine from Manage of chrome preferences.      should get added      When i provide keyword   url and other details which are required and  click   OK button it does nothing. It failed to add to the list.      <b>Please provide

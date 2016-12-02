@@ -1,0 +1,1 @@
+<title>Issue 3609 -   chromium -    Mouse scroll up does not work - Project Hosting on Google Code</title>   1. You can scroll down  2. You cannot scroll backup  3. This is referring to the Synaptics touch pad      Scrolling up      Nada -- nothing    Please provide

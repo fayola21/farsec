@@ -1,0 +1,1 @@
+<title>Issue 27433 -   chromium -    Update references of &quot;Chrome Extensions&quot; to &quot;Google Chrome Extensions&quot; in Extension Docs - Project Hosting on Google Code</title> <pre> Update references of &quot;Chrome Extensions&quot; to &quot;Google Chrome Extensions&quot; in  Extension Docs </pre>

@@ -1,0 +1,1 @@
+<title>Issue 13991 -   chromium -    Cannot open downloaded files via links on download page - Project Hosting on Google Code</title> <pre>   1. Download a file (i.e. pdf file)  2. Open the downloads tab (ctrl + j)  3. Click on the file        The file should have opened in a pdf reader  as though someone ran xdg-open  /path/to/file. Instead nothing seems to happen?     </pre>

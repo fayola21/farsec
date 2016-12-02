@@ -1,0 +1,1 @@
+<title>Issue 42932 -   chromium -    arabic language show like Symbol If any Post quoted - Project Hosting on Google Code</title>   1.If any Post quoted appear Symbol          Must show that the Arabic language correctly      Appeared in the form of boxes    <b>Please provide

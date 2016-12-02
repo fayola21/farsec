@@ -1,0 +1,1 @@
+LOBStreamControl.truncate() doesn't delete temporary files    If LOBStreamControl.truncate() reduces the size of the lob so that it fits in the internal buffer  it closes the temporary file  but it doesn't remove it. See the attached Java class (TruncateClob.java) which fills the tmp directory with temporary lob files  even if each lob is explicitly freed.   

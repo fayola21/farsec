@@ -1,0 +1,1 @@
+<title>Issue 20 -   chromium -    Chrome windows hide autohide taskbars - Project Hosting on Google Code</title>   1. Rightclick the taskbar to get to the properties and enable auto-hide  2. Maximize chrome  3. Move your mouse to where your taskbar usually pops up. Nothing happens.                Please provide

@@ -1,0 +1,1 @@
+<title>Issue 22050 -   chromium -    Status bubbles don't show when hovering over URLs - Project Hosting on Google Code</title> <pre>   1. Hover over a URL        I expect a status bubble in the bottom left. No status bubble make me sad.    This is with Tot Chromium (<a href="/p/chromium/source/detail?r=26377">r26377</a>) on Linux. Need to test on Windows/Mac as  well. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 35098 -   chromium -    Clear browsing data close box should be titled &quot;cancel&quot; - Project Hosting on Google Code</title> <pre> Standard for two-button dialogs is &quot;action&quot;/&quot;cancel&quot;  not &quot;action&quot;/&quot;close&quot;. </pre>

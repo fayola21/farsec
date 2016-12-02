@@ -1,0 +1,1 @@
+<title>Issue 6231 -   chromium -    New Tab button go over minimise button - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.156.1 (Official Build 7653)      1. Get a huge amount of tabs open (30-40)        The tabs shouldn't overlap the minimise button        They do     </pre>

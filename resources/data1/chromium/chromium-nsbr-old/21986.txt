@@ -1,0 +1,1 @@
+<title>Issue 21986 -   chromium -    Middle click doesn't open links in new tab. - Project Hosting on Google Code</title>   1. Go to the wp.pl site  2. !!!Middle!!!Click on any link on the right side of the page      Expected result is that link will open in new tab.      Link opens in the same tab.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4620 -   chromium -    WebContents should not have a direct link to InfoBars/ChromeViews - Project Hosting on Google Code</title> <pre> The view portion of the InfoBar system should live entirely in the frame    in BrowserView. WebContents should only know about InfoBarDelegates  which   are implemented by objects that want to show InfoBars.   </pre>

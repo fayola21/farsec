@@ -1,0 +1,1 @@
+<title>Issue 9696 -   chromium -    EUC-JP is still not compatible with IE and Firefox - Project Hosting on Google Code</title>   1. show attached eucjp.html   2. show search box and type backslash  3. search! and you'll find you can't match any characters.      Hit 0x5C and U+005C.      No characters are matched.    <b>Please provide

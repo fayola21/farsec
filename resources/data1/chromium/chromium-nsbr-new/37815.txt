@@ -1,0 +1,1 @@
+<title>Issue 37815 -   chromium -    Detaching tab crashes Chrome - Project Hosting on Google Code</title>   1. open few tabs   2. drag one of the tabs out of the tab strip          A new window with the tab dragged should appear          Chrome crashes      <b>Please provide

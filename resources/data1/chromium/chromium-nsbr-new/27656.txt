@@ -1,0 +1,1 @@
+<title>Issue 27656 -   chromium -    search button in http://googlechromereleases.blogspot.com/ has a bad look - Project Hosting on Google Code</title> <pre> see the chrome and the firefox screenshots to understand what i mean :) </pre>

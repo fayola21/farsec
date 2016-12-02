@@ -1,0 +1,1 @@
+BeanProcessor - Should differentiate between void and method returning null values    When invoking a bean method it should better detect whether the bean is a void or has a return type.And if it returns null it should be regarded as a valid response and set as body.See nabblehttp://old.nabble.com/filtering-messages-ts27403559.html   

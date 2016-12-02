@@ -1,0 +1,1 @@
+<title>Issue 40405 -   chromium -    Crashes when opening Options - Project Hosting on Google Code</title>   1. open Options menu  2. watch entire application die        application stays open  and I am able to change options      chromium dies before I get the chance.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 45522 -   chromium -    webgl multiple contexts - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;6.0.422.0 (48583) Ubuntu&gt;      Firefox 3.7: OK    Trying to work with 2 webgl canvas on the same html page.  when initializing the second the first canvas is cleared and become  unusable. (work as expected on firefox 3.7). </pre>

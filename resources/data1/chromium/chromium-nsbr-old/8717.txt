@@ -1,0 +1,1 @@
+<title>Issue 8717 -   chromium -    Seemingly no way to do a case-sensitive Ctrl+F text search - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.48    It does not seem to be possible to do a case-sensitive Ctrl+F text search   in Chrome. </pre>

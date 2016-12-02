@@ -1,0 +1,1 @@
+<title>Issue 16562 -   chromium -    Unable to Clear - Project Hosting on Google Code</title>   1. Download any file  2. Open the Downloads Page  3. Click on Show in folder  4. Delete  Rename  or Move the file  5. Go back to the Downloads Page  6. Click on the File to open it  or the Show in folder      Open a window  to locate the file      Nothing    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21944 -   chromium -    NTP: &quot;Restore all removed thumbnails&quot; should be dimmed/absent when there are no removed thumbnails - Project Hosting on Google Code</title> <pre> This is really minor  but it's kind of confusing that we have this option   available even when the user has never removed any thumbnails. </pre>

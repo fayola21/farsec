@@ -1,0 +1,1 @@
+<title>Issue 1243 -   chromium -    borrar correos en webmail - Project Hosting on Google Code</title>   1. entro al webmail de ciudad internet (<a href="http://webmail.ciudad.com.ar/">http://webmail.ciudad.com.ar/</a>)  2. marco varios correos  3. aprieto el boton &quot;Borrar&quot;      deberia borrar los correos marcados.      no hace nada    Please provide

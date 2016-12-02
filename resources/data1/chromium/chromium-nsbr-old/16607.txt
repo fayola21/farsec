@@ -1,0 +1,1 @@
+<title>Issue 16607 -   chromium -    DevTools: debugger shortcuts should work when inspectable page has focus. - Project Hosting on Google Code</title> <pre> Currently shortcuts work only when focus is on DevTools window. </pre>

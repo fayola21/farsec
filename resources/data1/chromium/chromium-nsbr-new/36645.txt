@@ -1,0 +1,1 @@
+<title>Issue 36645 -   chromium -    Compiling chromium with GCC 4.5 ends in an error - Project Hosting on Google Code</title>   1. compile chromium with GCC 4.5          It compiles fine like with GCC 4.4      An error occurs about an uninitialized variable      <b>Please provide

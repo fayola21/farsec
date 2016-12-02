@@ -1,0 +1,1 @@
+<title>Issue 4787 -   chromium -    Scrolling up with mouse wheel does not work - Project Hosting on Google Code</title>   1. Scroll Down  2. Scroll Up        After scrolling down using mouse wheel should be able to scroll back up   using mouse wheel.      Only can scroll down. scrolling up does not seem to work using the scroll   wheel.    Please provide

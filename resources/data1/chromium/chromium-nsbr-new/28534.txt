@@ -1,0 +1,1 @@
+<title>Issue 28534 -   chromium -    Chromium OS Broadcom wireless driver error - Project Hosting on Google Code</title>   1. Compile OS  2. Boot from USB on Lenovo S10 or other system with Broadcom wireless  3. ifconfig on developer console      wlan0 should appear      wlan0 does not appear    <b>Please provide

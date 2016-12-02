@@ -1,0 +1,1 @@
+<title>Issue 18397 -   chromium -    Face image where close X should be - Project Hosting on Google Code</title>   1. Startup          Have an X not a face      Face shows up in upper right hand corner    <b>Please provide

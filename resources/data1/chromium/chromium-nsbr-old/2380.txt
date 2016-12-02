@@ -1,0 +1,1 @@
+<title>Issue 2380 -   chromium -    Must be able to install per-machine  as admin - Project Hosting on Google Code</title> <pre> [Carlos to design admin install process] </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1486 -   chromium -    back/foward button with recent pages - Project Hosting on Google Code</title>   1. Open google chrome          Other browsers like IE and firefox have a &quot;recent pages&quot; drop down list of   the previously viewed pages beside the back and forward button      Google chrome doesn't.    Please provide

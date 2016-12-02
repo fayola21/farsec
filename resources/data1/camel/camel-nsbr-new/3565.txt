@@ -1,0 +1,1 @@
+When Camel loads properties Camel should remove spaces (trim) from the end of the line.    If Camel reads a property from a properties-file that has a space at the end of a line like:some.property = theValue &lt;---Camel will resolve 'theValue ' and then crash at route creation. Should be 'theValue'.   

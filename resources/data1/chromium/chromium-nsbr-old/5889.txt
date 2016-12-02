@@ -1,0 +1,1 @@
+<title>Issue 5889 -   chromium -    &quot;Set as my default browser&quot; button disabled - Project Hosting on Google Code</title>   1. Chrome is still supposed to be my default browser in options after   setting safari as my default browser (for testing)                    Please provide

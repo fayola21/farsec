@@ -1,0 +1,1 @@
+<title>Issue 33149 -   chromium -    type OmniBox and Alt-Enter should open tab just next to the current  not next to the rightmost tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.38   </pre>

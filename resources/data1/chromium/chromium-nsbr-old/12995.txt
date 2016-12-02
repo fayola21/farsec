@@ -1,0 +1,1 @@
+<title>Issue 12995 -   chromium -    Feature Request: Automatically Clear Browsing Data on Exit of Chrome - Project Hosting on Google Code</title> <pre> It would be great if when I closed Google Chrome  it would automatically   Clear Browsing data like Firefox does. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 32900 -   chromium -    http/tests/misc/slow-loading-mask.html broken on windows linux - Project Hosting on Google Code</title> <pre> the produced image shows two blue squares on linux and windows.  The text in   the result page says these squares should not show up. In mac  the page is   correctly blank.    Showed up during WebKit roll 53655 -&gt; 53704. </pre>

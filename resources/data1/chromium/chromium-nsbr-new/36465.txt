@@ -1,0 +1,1 @@
+<title>Issue 36465 -   chromium -    Chrome breaks some unicode when editing Wikipedia - Project Hosting on Google Code</title>   Editing a Wikipedia article with certain unicode characters results in   empty boxes rather than the unicode    What is the expected result? that I don't remove the unicode from the   article      What happens instead? as above      <b>Please provide

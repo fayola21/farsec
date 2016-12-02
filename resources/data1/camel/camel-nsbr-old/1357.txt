@@ -1,0 +1,1 @@
+Add regexReplaceAll to builder support    ... so we can do things likefrom('direct:start').setBody(regexReplaceAll(body()  'Foo'  'Bar'))...which essentially is equivalent to sed 's/Foo/Bar/g' on the body.   

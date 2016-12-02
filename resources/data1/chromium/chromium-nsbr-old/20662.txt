@@ -1,0 +1,1 @@
+<title>Issue 20662 -   chromium -    crush when clicking the home button while a page is still loading - Project Hosting on Google Code</title>   1.click on a thumbnail in your home page  2.before the page is completely loaded and immediately after step 1 click   the home button        show the home page      the browser crushes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 1031 -   chromium -    download bar: double-click handled as two single clicks - Project Hosting on Google Code</title> <pre> Product Version      : 1583      1. Download a picture  2. When finished downloadning  double-click it        Open the image  once      Opens twice. Double-click is handled like two single clicks! Bad browser.   </pre>

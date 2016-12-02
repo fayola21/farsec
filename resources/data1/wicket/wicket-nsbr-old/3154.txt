@@ -1,0 +1,1 @@
+test for undefined in the  same manner throughtout the code.    testing whether a variable is undefined should be done in a similar manner throughout a file.   

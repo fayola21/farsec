@@ -1,0 +1,1 @@
+<title>Issue 37118 -   chromium -    Gmail attachmant failed - Project Hosting on Google Code</title>   1. Log into Gmail  2. Compose new mail  3. Add Attachment.      Mail sent with Attachment      Mail sent WITHOUT Attachement    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 24766 -   chromium -    Build 64-bit by default on 64-bit systems - Project Hosting on Google Code</title> <pre>   1. Follow build instructions on a 64-bit system  2. Get confused at why it refuses to link      Instead  we should configure as a 64-bit build on 64-bit systems.    There's a continual trickle of mail from people caught by this. </pre>

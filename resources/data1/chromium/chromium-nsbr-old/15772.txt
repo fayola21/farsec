@@ -1,0 +1,1 @@
+<title>Issue 15772 -   chromium -    No support of right-to-left languages - Project Hosting on Google Code</title>   1. Go to any Hebrew text  i.e Gen 1:1.  2. Words are in correct right-to-left order. Letters within words are left  to right.      What is the expected result?  Look at the Firefox results on any system.              <b>Please provide

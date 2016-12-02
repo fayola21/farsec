@@ -1,0 +1,1 @@
+When Bind DN credentials are incorrect - we should log it    When integrating Ambari with LDAP if you specify the Bind DN  or Bind credentials that are invalid there is no logging to identify that the authentication fails  so the following search for the logging in user DN will fail. I had to use wireshark to figure out why the integration wasn't working.   

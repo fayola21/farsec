@@ -1,0 +1,1 @@
+PollingConsumerPollStrategy - Add information to commit how many messages was polled    See nabblehttp://camel.465427.n5.nabble.com/how-to-find-out-if-a-ftp-file-consumer-has-finished-reading-all-files-available-tp3337532p3337532.htmlHaving the number of messages polled allows end users to react accordingly. For example if there is 0 then they can do something special.   

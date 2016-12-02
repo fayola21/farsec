@@ -1,0 +1,1 @@
+Master broken - Cannot deploy services    Datanode install fails on multi-node clusters because the following configuration property:$ambari_db_rca_url= 'jdbc:postgresql://localhost/ambarirca'Ensure all of these variables are wired up:'ambari_db_rca_url''ambari_db_rca_driver''ambari_db_rca_username''ambari_db_rca_password'   

@@ -1,0 +1,1 @@
+<title>Issue 27948 -   chromium -    Can't load https websites - Project Hosting on Google Code</title>   1. Get a recent version of Chrome/Chromium  2. Run it on Linux  3. Go to a website with https://       Chromium should load the website      An error message is shown and the page is not loaded    Please provide

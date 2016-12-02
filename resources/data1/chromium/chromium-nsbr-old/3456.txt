@@ -1,0 +1,1 @@
+<title>Issue 3456 -   chromium -    [Crash] Crashes when exit from tab while downloading - Project Hosting on Google Code</title>   1. Visit the above url  2. Save the page.  3. Quickly press Ctrl+W to close the tab before the download completes.  4. The whole Google Chrome crashes.      It should just save normally.      Whole Google Chrome crash    Please provide

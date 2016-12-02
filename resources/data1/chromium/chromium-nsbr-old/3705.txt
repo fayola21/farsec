@@ -1,0 +1,1 @@
+<title>Issue 3705 -   chromium -    The flash flayer button appears in different color on chrome &amp; Safari - Project Hosting on Google Code</title> <pre> Bug filed upstream: <a href="https://bugs.webkit.org/show_bug.cgi?id=19011">https://bugs.webkit.org/show_bug.cgi?id=19011</a> </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6754 -   chromium -    Need performance tests/measurements for newHTTP - Project Hosting on Google Code</title> <pre> We need to measure the performance of our network stack and track it over   time to make sure it doesn't regress.      We should also be able to benchmark against other browsers. </pre>

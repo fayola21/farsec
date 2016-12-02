@@ -1,0 +1,1 @@
+<title>Issue 21138 -   chromium -    &quot;Clear browsing data&quot; menu entry missing - Project Hosting on Google Code</title>   1. Try to click &quot;Tools&quot;  then search for the above mentioned option.      To see &quot;Clear browsing data&quot;.      It's missing. You can still access it via Ctrl+Shift+Del  though.    <b>Please provide

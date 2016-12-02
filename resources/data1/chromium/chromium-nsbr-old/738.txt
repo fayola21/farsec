@@ -1,0 +1,1 @@
+<title>Issue 738 -   chromium -    Facebook app &quot;Are you interested?&quot; doesn't work very well - js errors - Project Hosting on Google Code</title>   1. Install Are you interested  2. use it  3. javascript links don't work (js errors)                Please provide

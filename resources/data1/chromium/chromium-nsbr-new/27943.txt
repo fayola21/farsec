@@ -1,0 +1,1 @@
+<title>Issue 27943 -   chromium -    issue regarding the javascript new date function - Project Hosting on Google Code</title>   1.create a html page .  2. create a javascript function which shows new Date(11/16/1986) in a text   box   3. run the file in chrome       ur expected to get april 10 1987      we get NaN    <b>Please provide

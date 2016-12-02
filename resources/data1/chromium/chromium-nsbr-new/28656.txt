@@ -1,0 +1,1 @@
+<title>Issue 28656 -   chromium -    Gmail loading freezes - Project Hosting on Google Code</title>   1.Enter Gmail link above (or <a href="http://www.gmail.com">http://www.gmail.com</a>  whatever)  2.Loading freezes half-way        Gmail to open properly.      Loading freezes  times out and gives me options  including to disable Lab.    <b>Please provide

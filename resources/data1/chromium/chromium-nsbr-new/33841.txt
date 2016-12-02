@@ -1,0 +1,1 @@
+<title>Issue 33841 -   chromium -    Using more RAM memory than it should be using. - Project Hosting on Google Code</title>   1.Open Chrome  2.Open a HD YouTube(play it)  Open TMZ.com  Do a Google Search  3.Check Windows Task Manager Performance Tab      Use less memory       It uses 400mb of Extra Ram. Everything is closed.      <b>Please provide

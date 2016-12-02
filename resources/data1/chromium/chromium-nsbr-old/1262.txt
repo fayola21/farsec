@@ -1,0 +1,1 @@
+<title>Issue 1262 -   chromium -    Wish: Blue with active Aero - Project Hosting on Google Code</title> <pre> It would be very cool  if chrome is blue even when aero on vista is active. </pre>

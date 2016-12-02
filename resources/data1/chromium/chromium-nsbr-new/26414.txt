@@ -1,0 +1,1 @@
+<title>Issue 26414 -   chromium -    Cannot delete bookmark folder - Project Hosting on Google Code</title>   1. Open Bookmark Manager  2. Try to delete a folder like IE Bookmarks.         Folder should be deleted      Chrome crashes      <b>Please provide

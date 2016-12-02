@@ -1,0 +1,1 @@
+<title>Issue 26935 -   chromium -    regarding MSN chat control - Project Hosting on Google Code</title>   1.there is a file being download MSN chat control  2.and it takes you to chat rooms        There is no plugin available for chrome :S      i can't enter in roOms through chrome :-(    <b>Please provide

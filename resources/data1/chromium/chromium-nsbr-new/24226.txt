@@ -1,0 +1,1 @@
+<title>Issue 24226 -   chromium -    chrome 4.0.220.1 for linux crashes on http://www.californiachronicle.com/articles/printFriendly/116657 - Project Hosting on Google Code</title> <pre> It goes 'aw snap' a couple seconds after load.    This is on Ubuntu 9.04 64 bit.   </pre>

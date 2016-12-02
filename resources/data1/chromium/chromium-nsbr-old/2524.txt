@@ -1,0 +1,1 @@
+<title>Issue 2524 -   chromium -    Regression: Throbber stops spinning in drag-drop. - Project Hosting on Google Code</title> <pre> Revision: 2367    While page is loading  drag and drop the tab in to a new window. Throbber stops spinning.     </pre>

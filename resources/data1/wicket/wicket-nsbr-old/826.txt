@@ -1,0 +1,1 @@
+No scrolling behaviour of source code viewer in IE 6    The source code viewer does not display scroll bars in IE 6.   

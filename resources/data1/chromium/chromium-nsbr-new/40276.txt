@@ -1,0 +1,1 @@
+<title>Issue 40276 -   chromium -    SyncCustomizeController class needs some TLC - Project Hosting on Google Code</title> <pre> This was whipped out in a hurry.  Some TODOs:    - Perhaps use KVO instead of explicitly working with the checkbox objects  - Add more unittests </pre>

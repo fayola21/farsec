@@ -1,0 +1,1 @@
+<title>Issue 16981 -   chromium -    Repeated &quot;Set as default browser&quot; prompts - Project Hosting on Google Code</title>     Every time I run  I get the &quot;set as default&quot; browser infobar.  When I click   the button to set it as the default  nothing happens.    <b>Please provide

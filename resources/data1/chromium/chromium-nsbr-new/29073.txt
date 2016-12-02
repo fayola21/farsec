@@ -1,0 +1,1 @@
+<title>Issue 29073 -   chromium -    DevTools: enable resource tracking per session  not tab. - Project Hosting on Google Code</title> <pre> User feedback: I would expect that enabling Resources for the session would   enable across all tabs. But in my case I enabled it in Tab #1  opened a new   tab  loaded a page  open Dev Tools  and Resources was *not* enabled. </pre>

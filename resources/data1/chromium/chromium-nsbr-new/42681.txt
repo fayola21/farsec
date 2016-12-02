@@ -1,0 +1,1 @@
+<title>Issue 42681 -   chromium -    thebuggenie bug software does not display properly - Project Hosting on Google Code</title>   1. Install buggenie  2. Login  3. Create a few bugs and browse them        Clean page displays          javascript errors/spillage      <b>Please provide

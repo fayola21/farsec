@@ -1,0 +1,1 @@
+<title>Issue 44717 -   chromium -    Google Chrome Multiple Vulnerabilities  - Project Hosting on Google Code</title>   1.# Google Chrome was not using the correct path for the Java plugin for  Java Version 6 Update 20.  # 4.1.249.1059 was much slower on JavaScript benchmarks than 4.1.249.1045                    <b>Please provide

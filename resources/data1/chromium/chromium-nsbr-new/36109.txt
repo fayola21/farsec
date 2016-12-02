@@ -1,0 +1,1 @@
+<title>Issue 36109 -   chromium -    Mac fullscreen mode: minimize not enabled/supported - Project Hosting on Google Code</title> <pre> D'oh. </pre>

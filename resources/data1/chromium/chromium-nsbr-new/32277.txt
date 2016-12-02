@@ -1,0 +1,1 @@
+<title>Issue 32277 -   chromium -    Implement Filesystem API - Project Hosting on Google Code</title> <pre> We need a file/filesystem API that will allow us to deal with gmail   attachments offline. </pre>

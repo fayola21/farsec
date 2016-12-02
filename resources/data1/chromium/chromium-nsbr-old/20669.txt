@@ -1,0 +1,1 @@
+<title>Issue 20669 -   chromium -    Implement extension packing on linux - Project Hosting on Google Code</title> <pre> See the --pack-extension flag of chrome.exe on Windows.    The main work here is implementing base/crypto/signature_creator.* on linux. </pre>

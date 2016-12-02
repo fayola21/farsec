@@ -1,0 +1,1 @@
+camel-cxf producer loses the content-type    camel-cxf doesn't put the Protocol-Header into the camel message header  so we lost the content-type message.Here is the mail thread for the discussion.http://www.nabble.com/camel-cxf-content-type-response-header-tt23370337.html   

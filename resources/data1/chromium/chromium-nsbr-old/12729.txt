@@ -1,0 +1,1 @@
+<title>Issue 12729 -   chromium -    Esc flashes find-in bar continuously - Project Hosting on Google Code</title> <pre> ToT (r 16985)    -Ctrl+f to find-in bar.  -Esc to dismiss the find-in bar.  -keep on hitting Esc key.    You will notice Esc key flashes the find-in bar  even after it is dismissed.     </pre>

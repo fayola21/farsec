@@ -1,0 +1,1 @@
+<title>Issue 32421 -   chromium -    Need Linux implementation of UserIdleTime() in syncer_thread.cc - Project Hosting on Google Code</title> <pre> Found this out when auditing the code for Windows-specific code blocks.    Currently  UserIdleTime() always returns 0 on Linux  which means that no   throttling will be done (if notifications are off). </pre>

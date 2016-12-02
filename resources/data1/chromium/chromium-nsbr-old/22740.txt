@@ -1,0 +1,1 @@
+<title>Issue 22740 -   chromium -    4.0.211.7 keeps crashing - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.211.7  URLs (if applicable) : none        1. open browser  2. do nothing  3. after a few seconds &quot;Whoa! Google Chrome has crashed&quot;      don't crash      crash &amp; restart     </pre>

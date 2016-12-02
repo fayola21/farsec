@@ -1,0 +1,1 @@
+<title>Issue 25309 -   chromium -    Support phantom pinned tabs - Project Hosting on Google Code</title> <pre> A phantom tab is a pinned tab that the user closed (ala control-w or some   other user gesture). A phantom tab is rendered differently than normal tabs.   If the user clicks on the tab again we reload the page. </pre>

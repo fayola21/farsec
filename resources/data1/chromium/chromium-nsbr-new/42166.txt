@@ -1,0 +1,1 @@
+<title>Issue 42166 -   chromium -    boxes shown for bengali text - Project Hosting on Google Code</title> <pre> The following shows up as boxes on OSX (hopefully not lost during copy/paste):  ��__��_��___��__��___��___   ��__��_��___��__��___��___    I've also attached a screen shot.    I'm running 5.0.375.9 dev on Leopard. </pre>

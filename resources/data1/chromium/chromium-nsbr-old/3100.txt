@@ -1,0 +1,1 @@
+<title>Issue 3100 -   chromium -    Magic_browzR Alt-Tab Icon missing - Project Hosting on Google Code</title>   1. Start Chrome with --magic_browzR  2. Press Alt-Tab  3. See non-chrome icon.      I expect to see the Chrome icon in the Alt-Tab list.      I see a default icon (looks like a blank window)    Please provide

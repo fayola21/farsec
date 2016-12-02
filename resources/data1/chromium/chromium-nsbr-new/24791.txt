@@ -1,0 +1,1 @@
+<title>Issue 24791 -   chromium -    Strange first startup. - Project Hosting on Google Code</title>   It was non-repeatable.      UI should have been in an actual frame.      It took over my second screen and refused to move or be taken out of full   screen mode.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 40267 -   chromium -    Device2D should use NPRect instead of a custom struct - Project Hosting on Google Code</title> <pre> Currently NPDeviceContext2D has a custom struct that represents the valid   region. It should use an NPRect </pre>

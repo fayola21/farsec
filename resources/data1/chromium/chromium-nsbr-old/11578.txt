@@ -1,0 +1,1 @@
+<title>Issue 11578 -   chromium -    Figure out the tinting mechanic for colors - Project Hosting on Google Code</title> <pre> BrowserThemeProvider::GetColor tints default colors with tints specified by a   theme author - we should figure out what happens if the author specifies   *both* a color and a tint (they may wish to only tint images  but not their   colors). </pre>

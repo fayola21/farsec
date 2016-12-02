@@ -1,0 +1,1 @@
+<title>Issue 22001 -   chromium -    Russian phrase not fully visible in About dialog - Project Hosting on Google Code</title> <pre>   Russian    3.0.195.21    WinXP    About dialog.    Screenshot attached. </pre>

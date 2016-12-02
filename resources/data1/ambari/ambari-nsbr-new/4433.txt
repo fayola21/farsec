@@ -1,0 +1,1 @@
+Ambari version info should be visible in UI    There is currently no easy way to find the version of Ambari that is in use from the Ambari Web interface. This info should be accessible via an 'about' link in Ambari Web   

@@ -1,0 +1,1 @@
+<title>Issue 687 -   chromium -    Home Button should be visible by default - Project Hosting on Google Code</title> <pre> Product Version      : &lt;see about:version&gt;                  1. Have to go on Chrome Config to set the home button to visible.      Home button visible by default  and user can hide it if he wants.    </pre>

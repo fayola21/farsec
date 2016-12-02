@@ -1,0 +1,1 @@
+<title>Issue 3229 -   chromium -    reflection masks don't work - Project Hosting on Google Code</title> <pre> LayoutTests/fast/reflections/reflection-masks.html tests reflection masks.    For whatever reason our output is incorrect (the masks look inverted).    Needs investigation.   </pre>

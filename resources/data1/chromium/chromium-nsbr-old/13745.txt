@@ -1,0 +1,1 @@
+<title>Issue 13745 -   chromium -    Download speed not displayed in downloads page - Project Hosting on Google Code</title>   1. Download something.  2. Ctrl+J.        Download page should show download speed.      Not shown.    <b>Please provide

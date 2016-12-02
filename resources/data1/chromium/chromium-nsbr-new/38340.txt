@@ -1,0 +1,1 @@
+<title>Issue 38340 -   chromium -    Add call to ProfileSyncService for querying/setting the list of enabled datatypes - Project Hosting on Google Code</title> <pre> For sync  the options UI will need a way to query the list of user-selected   datatypes  and a way to set them if the user changes the selection. </pre>

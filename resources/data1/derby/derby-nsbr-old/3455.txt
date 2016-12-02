@@ -1,0 +1,1 @@
+Move replication methods from org.apache.derby.database.Database to org.apache.derby.iapi.db.Database       

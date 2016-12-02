@@ -1,0 +1,1 @@
+<title>Issue 5943 -   chromium -    mitchatnim.co.il: Site layout is wrong in Chrome - Project Hosting on Google Code</title> <pre> URL: <a href="http://www.mitchatnim.co.il/members/TabatZu/">http://www.mitchatnim.co.il/members/TabatZu/</a>    Other browsers:  FF3: Also broken    Bug Description:  Site looks completely wrong in Chrome and FF. </pre>

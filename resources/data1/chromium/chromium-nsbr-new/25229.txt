@@ -1,0 +1,1 @@
+<title>Issue 25229 -   chromium -    Update samples to use browser or page actions - Project Hosting on Google Code</title> <pre> We should update all the public samples to use browser and page actions. </pre>

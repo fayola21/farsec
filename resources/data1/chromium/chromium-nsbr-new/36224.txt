@@ -1,0 +1,1 @@
+<title>Issue 36224 -   chromium -    [accessibility] Extension toolbar and infobar container views should not have state visible if they are not rendered on screen. - Project Hosting on Google Code</title> <pre>   1. Connect AccExplorer32 to Chrome and expand until you see the extensions  toolbar      It should not show up as visible.    Screen shot attached. </pre>

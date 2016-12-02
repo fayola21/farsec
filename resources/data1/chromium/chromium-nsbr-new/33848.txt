@@ -1,0 +1,1 @@
+<title>Issue 33848 -   chromium -    I get a &quot;.download&quot; file type when i try to download some things - Project Hosting on Google Code</title>   1. Downloading some files (ie Google earth)          Downloading .exe installer      it tries to save it as a &quot;.download&quot; file and gives it a name like   &quot;unconfirmed 88384&quot;    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13639 -   chromium -    Sad face favicon is replaced with favicon on drag and drop. - Project Hosting on Google Code</title> <pre> It's not a regression.    -Navigate to a webpage which has favicon.  -Kill the tab thr Task manager.  -Drag and drop the tab into a new window.    Notice: the sad face favicon is replaced with webpage favicon after it is  dropped. </pre>

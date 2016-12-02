@@ -1,0 +1,1 @@
+<title>Issue 17568 -   chromium -    Themed background tab edges can't handle transparent images - Project Hosting on Google Code</title> <pre> Install a theme with custom background tab edges - notice that the   background tab edges are drawn darker. </pre>

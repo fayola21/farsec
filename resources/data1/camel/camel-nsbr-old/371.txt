@@ -1,0 +1,1 @@
+Mina Producer should have configurable timeout    Currently the camel mina producer (MinaProducer) defaults to have a 10 sec timeout.This is currently not possible to configured eg from the URL parameters etc.Also we should documented on the wiki that 10 sec. is default.   

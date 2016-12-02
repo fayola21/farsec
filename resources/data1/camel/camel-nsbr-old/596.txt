@@ -1,0 +1,1 @@
+[patch] postpone creating browsing strategy until and only if its needed    code creates queue browsing strategy even if not needed. patch pushes creation down to relevant branch.   

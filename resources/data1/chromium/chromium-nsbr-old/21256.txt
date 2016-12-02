@@ -1,0 +1,1 @@
+<title>Issue 21256 -   chromium -    Microsoft Mouse no longer scrolls - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.206.1  a couple of versions ago I was delighted to find that my mouse scrolling   finally worked.  No longer with 206.1       </pre>

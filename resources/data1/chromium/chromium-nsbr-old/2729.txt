@@ -1,0 +1,1 @@
+<title>Issue 2729 -   chromium -    Ctrl-page up and Ctrl-page down don't work when using docs - Project Hosting on Google Code</title>         If you use ctrl+page up to move between tabs  you are blocked when a 'docs'   (or trix) page is one of the tabs....              Please provide

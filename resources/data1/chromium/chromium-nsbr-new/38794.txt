@@ -1,0 +1,1 @@
+<title>Issue 38794 -   chromium -    Chrome uses more than 50% cpu - Project Hosting on Google Code</title>   1.  Visit the www.pandora.com webpage and choose a radio station  2.  After loading the page  the machine starts using more and more cpu                  <b>Please provide

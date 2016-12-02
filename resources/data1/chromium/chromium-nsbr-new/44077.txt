@@ -1,0 +1,1 @@
+<title>Issue 44077 -   chromium -    Toggling the bookmarks bar should make it visible on the NTP - Project Hosting on Google Code</title> <pre> When apps are enabled  the detached bookmarks bar isn't visible on the NTP.    But there's no way to get to the bookmarks bar at all in that case.  If you   enable the attached version  it should show up on the NTP as well. </pre>

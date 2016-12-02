@@ -1,0 +1,1 @@
+<title>Issue 40473 -   chromium -    results.json for browser_tests is missing tests - Project Hosting on Google Code</title> <pre> For example  see <a href="http://build.chromium.org/buildbot/gtest_results/chromium-">http://build.chromium.org/buildbot/gtest_results/chromium-</a>  rel-xp-tests/browser_tests/results.json.  The &quot;tests&quot; section is empty. </pre>

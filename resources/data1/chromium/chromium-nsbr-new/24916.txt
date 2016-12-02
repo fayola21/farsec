@@ -1,0 +1,1 @@
+<title>Issue 24916 -   chromium -    Developertools menu bar is disabled - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.5  OS version               : 10.6.1      Click the page-button next to the mega bar or whatever it's called these days  Developer -&gt; Tools is disabled    It is however accessible by View -&gt; Dev.Tools and cmd-alt-J </pre>

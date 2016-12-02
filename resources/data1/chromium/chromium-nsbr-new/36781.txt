@@ -1,0 +1,1 @@
+<title>Issue 36781 -   chromium -    Crash - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.335.0      1. To allocate content in browser  2. To try to drag it    --- The window of browser with error is closed         </pre>

@@ -1,0 +1,1 @@
+Manage non-singleton endpoints in the CamelContext    So that we can manages JMS endpoint for instance  that are not singletons.   

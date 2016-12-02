@@ -1,0 +1,1 @@
+<title>Issue 5687 -   chromium -    Port browser/net/dns_{master global} and the unittest for dns_master - Project Hosting on Google Code</title> <pre> I have it almost working now  but I'm not sure if I'll be able to send the   patch soon enough  so I'm filing this bug to avoid duplicating effort. </pre>

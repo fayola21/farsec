@@ -1,0 +1,1 @@
+Maintenance state and status commands perf improvements.    getEffectiveState should not fetch map of all hosts every time Status commands should not be sent until component is installed   

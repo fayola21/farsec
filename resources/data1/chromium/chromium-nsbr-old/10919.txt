@@ -1,0 +1,1 @@
+<title>Issue 10919 -   chromium -    blogfa.com : dropdown option aligned LTR instead of RTL - Project Hosting on Google Code</title>   1. Go to <a href="http://blogfa.com/About/Abuse.aspx">http://blogfa.com/About/Abuse.aspx</a>  2. Click on the dropdown       Dropdown options should be aligned right to left      Dropdown options are aligned left to right     <b>Please provide

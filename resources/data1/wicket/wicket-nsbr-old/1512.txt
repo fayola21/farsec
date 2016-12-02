@@ -1,0 +1,1 @@
+Widen Generics for Lists/Iteratos    It is important to widen the generics for collections.For example it is better (and sometimes necessary) to change the signature of org.apache.wicket.markup.repeater.data.IDataProvider#iterator to:Iterator&lt;? extends T&gt; iterator(int first  int count);I will create and add a patch later.   

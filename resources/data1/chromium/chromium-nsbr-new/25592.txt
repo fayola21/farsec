@@ -1,0 +1,1 @@
+<title>Issue 25592 -   chromium -    Unable to search from Omnibox in dev channel - Project Hosting on Google Code</title>   1. Enter any search term (not a URL or bookmark term) into Omnibox  2. Hit enter or click arrow to right of Omnibox      Redirect to Google search results for entered search term      Nothing    <b>Please provide

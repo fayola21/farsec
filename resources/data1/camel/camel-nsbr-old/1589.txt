@@ -1,0 +1,1 @@
+Clean up  the CamelTransportConstants.CONTENT_TYPE    Here is the mail thread about it.http://www.nabble.com/Re%3A-svn-commit%3A-r772054---in--camel-trunk-components-camel-cxf-src%3A--main-java-org-apache-camel-component-cxf-CxfHeaderFilterStrategy.java--test-java-org-apache-camel-component-cxf-CxfRawMessageRouterTest.java-tt23412367.html   

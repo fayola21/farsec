@@ -1,0 +1,1 @@
+<title>Issue 1033 -   chromium -    Can't Remove Facebook Applications - Project Hosting on Google Code</title>   1. Log into Facebook  2. Load site  3. Attempt to remove an application (click &quot;Remove&quot;)      It's supposed to fade out the application name and say &quot;Bookmark Removed.&quot;      Nothing.    Please provide

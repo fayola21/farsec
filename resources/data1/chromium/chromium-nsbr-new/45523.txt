@@ -1,0 +1,1 @@
+<title>Issue 45523 -   chromium -    Browser security a PIN Number  - Project Hosting on Google Code</title> <pre> Why do not you put an option in the options to disable and enable to enter   the Google Chrome number Password to protect the chrome from being on my   machine  knowing that I do not want a one that uses the Chrome  but I thank   you </pre>

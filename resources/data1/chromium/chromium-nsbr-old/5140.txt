@@ -1,0 +1,1 @@
+<title>Issue 5140 -   chromium -    JavaFx applet freezes the screen until it is loaded - Project Hosting on Google Code</title>   1. Open the link. try to scroll the page or click a link.      When JavaFX applet loads  you could scroll the page.      Page freezes until applet is loaded.      Please provide

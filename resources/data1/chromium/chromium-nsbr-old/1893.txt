@@ -1,0 +1,1 @@
+<title>Issue 1893 -   chromium -    Pages do no scroll up while using touchpad - Project Hosting on Google Code</title> <pre> I tried with 4 different HP laptops  pages scroll down but do not scroll up while using touchpad. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 630 -   chromium -    History Tab: Search as you type - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    Other browsers tested: no    Wish-list: apply browser history real-time search without any need  to press &quot;search history&quot;  button. this feature is well implemented  in Firefox 3. </pre>

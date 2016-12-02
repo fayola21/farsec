@@ -1,0 +1,1 @@
+<title>Issue 45917 -   chromium -    Extension (Lastpass) Menu doesn't work. - Project Hosting on Google Code</title>   1. Install Lastpass 1.68.8 (No Binary)Extension  2. Login Into Lastpass (With the Star-Button)  3. Access to your sites or &quot;Tools / About&quot;      Show the About Page or your saved forms      Nothing. No Page will be open.    <b>Please provide

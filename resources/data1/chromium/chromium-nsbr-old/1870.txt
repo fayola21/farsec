@@ -1,0 +1,1 @@
+<title>Issue 1870 -   chromium -    If session restore is enabled persist session cookies for non-https sites - Project Hosting on Google Code</title> <pre> Firefox does this and it makes for a better session restore experience. </pre>

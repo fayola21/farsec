@@ -1,0 +1,1 @@
+<title>Issue 26424 -   chromium -    Amharic Chrome : UI strings are truncated / elided only after the 1st character  - Project Hosting on Google Code</title> <pre> 1. Run Chrome with '--lang=am' on Vista  2. Explorer various areas of Options menu     3. In many places  Amharic strings are elided only after the first  character. (see the screenshot)       </pre>

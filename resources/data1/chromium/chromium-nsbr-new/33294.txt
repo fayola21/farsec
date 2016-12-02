@@ -1,0 +1,1 @@
+<title>Issue 33294 -   chromium -    Extensions vanish on update - Project Hosting on Google Code</title>   1. Update chrome (I think...)        Extensions persist when updating        Extensions are removed    <b>Please provide

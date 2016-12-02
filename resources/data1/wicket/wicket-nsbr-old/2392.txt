@@ -1,0 +1,1 @@
+MarkupComponentBorder fails to close stream (?)    MarkupComponentBorder  in findMarkupStream  creates a MarkupResourceStream but doesn't close it.Shouldn't this stream be closed after the call to Application.get().getMarkupSettings().getMarkupParserFactory().newMarkupParser(markupResourceStream).parse(); ?   

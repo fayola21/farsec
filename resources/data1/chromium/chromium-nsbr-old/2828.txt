@@ -1,0 +1,1 @@
+<title>Issue 2828 -   chromium -    Minimize / Maximize / Close Chrome window - Project Hosting on Google Code</title>   1. Use a large screen resulotion (1920 x 1200)  2. Use a font size of 144 dpi  3. Try to minimize / maximize / close by using the Chrome window icons (top   right).        Window should be resized or closed.        Nothing happens.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37271 -   chromium -    Fullscreen overlay disappears when mousing over bookmark menus - Project Hosting on Google Code</title> <pre> Put a folder into your bookmark bar.  In fullscreen mode  with the overlay down  open the folder   and mouse into it.  The overlay should not disappear. </pre>

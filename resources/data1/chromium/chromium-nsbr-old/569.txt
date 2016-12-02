@@ -1,0 +1,1 @@
+<title>Issue 569 -   chromium -    phpMyAdmin Left Frame not resizable - Project Hosting on Google Code</title>   1.  Load a phpMyAdmin session  2.  Attempt to resize the left frame        Grab handles should appear on the frame border to allow you to resize        No grab handles appear  so resizing is not possible.    Please provide

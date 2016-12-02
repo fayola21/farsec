@@ -1,0 +1,1 @@
+Host progress popup - generic component for showing progress on async operations    This is for the popup that shows up upon clicking already-performed or currently-in-progress async operations.We should take what we already have for host-level popup in Step 9 as a base and make it reusable  with a new higher level showing all hosts.   

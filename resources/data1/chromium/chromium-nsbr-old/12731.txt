@@ -1,0 +1,1 @@
+<title>Issue 12731 -   chromium -    Use kqueues to reap a process on OSX rather than spawn a new thread for each process like Linux does - Project Hosting on Google Code</title> <pre> Linux doesn't have kqueues so they use   chrome/common/process_watcher_posix.cc to reap child processes.    On OSX we can probably handle this with kqueues instead. </pre>

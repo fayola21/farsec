@@ -1,0 +1,1 @@
+<title>Issue 24316 -   chromium -    Browser actions: Use percentage width instead of fixed width to determine minimum width of the location bar - Project Hosting on Google Code</title> <pre> We are using a fixed width (400 px) of the omnibox to start dropping off   browser actions. Instead  use percentage width  which will drop off of   browser actions less aggressively. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11743 -   chromium -    extension views sometimes lose their parent HWND - Project Hosting on Google Code</title> <pre> To repro: (windows only)  - load two extensions with toolstrips  - minimze the browser window  - restore the browser window    The right-most toolstrip will be floating free of the browser as a desktop   window. </pre>

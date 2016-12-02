@@ -1,0 +1,1 @@
+<title>Issue 13327 -   chromium -    Sometimes Application Error Occured When Gmail Closed - Project Hosting on Google Code</title>   1.Open Gmail  2.Add Some Lab features   3.Close Gmail TabWindow without Signing Out        Close Normally without any Error        Application Error Window Appears sometimes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 9175 -   chromium -    Links from Google Desktop Gadgets Don't Open in Chrome - Project Hosting on Google Code</title>   1.Set Chrome as default browser  2.Click link in Google Desktop sidebar gadget  3.Nothing happens      Link opens in Google Chrome      Nothing    <b>Please provide

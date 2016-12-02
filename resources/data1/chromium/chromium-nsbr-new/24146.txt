@@ -1,0 +1,1 @@
+<title>Issue 24146 -   chromium -    Press enter on highlighted url with find in page should follow the link - Project Hosting on Google Code</title>   1. use find-in-page to search for a something that is a URL on the current   page  2. find-next until a url is highlighted  3. press enter      the url is followed      nothing    <b>Please provide

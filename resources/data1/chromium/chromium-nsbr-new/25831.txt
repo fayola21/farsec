@@ -1,0 +1,1 @@
+<title>Issue 25831 -   chromium -    Page selection color should use system color - Project Hosting on Google Code</title> <pre> We already use the system color for the focus ring; selection color   shouldn't be much harder. </pre>

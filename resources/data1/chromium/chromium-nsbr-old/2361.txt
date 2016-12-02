@@ -1,0 +1,1 @@
+<title>Issue 2361 -   chromium -    need to make it easy to experiment with UA strings - Project Hosting on Google Code</title> <pre> We need to make it easy to experiment with different UA strings. Easy   meaning editing the registry  setting a pref  etc. Not user friendly  but   something testing or developers can use when looking in to compatibility   problems. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11564 -   chromium -    about:crash crashes all NTPs - Project Hosting on Google Code</title> <pre> Repros on 2.0.172.18 and ToT.    -Open 2 or more NTPs  -Go to about:crash in any one of them.    All NTPs have 'Aw  snap' page. Only the tab in which the crash page is  navigated has sad favicon on the tabstrip  but not for other tabs. </pre>

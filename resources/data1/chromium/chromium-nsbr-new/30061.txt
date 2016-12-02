@@ -1,0 +1,1 @@
+<title>Issue 30061 -   chromium -    Missing Growl notification when a download completes - Project Hosting on Google Code</title> <pre> What steps will reproduce it?  Download finished      Growl notification saying that download is finished      No notification at all.      Correct me if its not the right spot to plate this. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40118 -   chromium -    Crash on phantom tabs - Project Hosting on Google Code</title>   1. Open a new tab and go to some site.  2. Pin the tab  it will be transformed in a phantom tab. (attachs. 1 and 2).  3. Some time later  the phantom tabs will start to crash  randomly (attachs. 3   and 4).                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 7255 -   chromium -    Thumbnail shown for full page plugins is empty black in [New Tab] - Project Hosting on Google Code</title> <pre> See &lt;b/986192&gt;    Still reproduces in 2.0.160.0 (Developer Build 8964)    Repro  #####  -Open few pdf files  -Notice the thumbnails for these pdf's are empty black. </pre>

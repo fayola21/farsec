@@ -1,0 +1,1 @@
+<title>Issue 32605 -   chromium -    WebGL running on Mac in Sandbox - Project Hosting on Google Code</title> <pre> Currently  WebGL runs without the sandbox on Mac.  To ship without a flag    we need it running in side the sandbox using the GPU process. </pre>

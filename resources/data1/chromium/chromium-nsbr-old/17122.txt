@@ -1,0 +1,1 @@
+<title>Issue 17122 -   chromium -    Override memory allocator in plugin processes for binary-only plugins - Project Hosting on Google Code</title> <pre> See <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=493541">https://bugzilla.mozilla.org/show_bug.cgi?id=493541</a>    Not sure if it applies to us.     </pre>

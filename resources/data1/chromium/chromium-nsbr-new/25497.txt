@@ -1,0 +1,1 @@
+<title>Issue 25497 -   chromium -    Add support for HE-AAC to audio/video tags - Project Hosting on Google Code</title> <pre> We currently support regular AAC  but not HE-AAC:  <a href="http://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding">http://en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding</a> </pre>

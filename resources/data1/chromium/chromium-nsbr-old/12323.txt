@@ -1,0 +1,1 @@
+<title>Issue 12323 -   chromium -    Evaluate image resizing performance - Project Hosting on Google Code</title> <pre> I recently added a histogram to evaluate how much latency is caused by high-  quality image resizing.    This bug is to remind me to look at the results in a few weeks when a dev   build with the histogram has gone out. </pre>

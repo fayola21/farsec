@@ -1,0 +1,1 @@
+<title>Issue 37199 -   chromium -    Add support for wifi on linux to geolocation - Project Hosting on Google Code</title> <pre> Need to make a binding to the nl80211 headers (newer version  i.e. in karmic   but not hardy)    Some more info in   <a href="http://docs.google.com/View?id=dfbnm49n_0dpc7pxpx">http://docs.google.com/View?id=dfbnm49n_0dpc7pxpx</a> </pre>

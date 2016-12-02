@@ -1,0 +1,1 @@
+<title>Issue 36239 -   chromium -    Page not shown correctly - Project Hosting on Google Code</title>   1.visit the page <a href="http://developer.joomla.org/bugsquad-email-list.html">http://developer.joomla.org/bugsquad-email-list.html</a> (you   can't see the content of the mailing list (tested under linux)                  <b>Please provide

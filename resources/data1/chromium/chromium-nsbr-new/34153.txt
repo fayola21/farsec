@@ -1,0 +1,1 @@
+<title>Issue 34153 -   chromium -    Lockup on deleting all bookmarks - Project Hosting on Google Code</title>   1. Open Bookmark Manager  2. Select all  3. Right click and select Delete       Bookmarks deleted        Application locked up and unresponsive.    <b>Please provide

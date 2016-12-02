@@ -1,0 +1,1 @@
+<title>Issue 5964 -   chromium -    Windows Vista shortcut dock - Project Hosting on Google Code</title>   1. In Windows Vista  open Chrome  and open a few tabs.  2. Try to switch tabs a few times.  3. You will probably end up opening one of the programs in your dock. (this   problem is more prevalent in laptops with touchpads)                Please provide

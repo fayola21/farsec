@@ -1,0 +1,1 @@
+<title>Issue 24870 -   chromium -    My IGoogle sidebar feeds will not load anymore in the newest dev channel version of Google Chrome - Project Hosting on Google Code</title>   1.Go to IGoogle and click on the feeds in the sidebar        What is the expected result? The feeds should load      What happens instead? They won't load      <b>Please provide

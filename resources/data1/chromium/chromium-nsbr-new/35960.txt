@@ -1,0 +1,1 @@
+<title>Issue 35960 -   chromium -    Background tabs in the tabstrip are too light in fullscreen mode - Project Hosting on Google Code</title> <pre> Background tabs in the tabstrip are too light in fullscreen mode.  This is with no theme installed. </pre>

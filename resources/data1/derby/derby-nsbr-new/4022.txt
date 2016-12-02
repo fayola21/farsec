@@ -1,0 +1,1 @@
+Remove dependency of junit targets on deprecated jdk16 variable    The junit target for running the jdbc4 tests depends on the jdk16 variable being set in your ant.properties. For the build  this variable has been deprecated. We should be able to make the jdbc4 tests depend on whether the environment is Java 6 instead.   

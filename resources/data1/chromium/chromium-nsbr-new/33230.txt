@@ -1,0 +1,1 @@
+<title>Issue 33230 -   chromium -    Cutting address from omnibox does not seem to go to clipboard - Project Hosting on Google Code</title>   1. Alt-D (go to address bar)  2. Ctrl-X (cut)  3. Go to another window and paste        pasted URL        nothing.    <b>Please provide

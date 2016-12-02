@@ -1,0 +1,1 @@
+<title>Issue 17175 -   chromium -    Sound out from Computer output  not from HDMI output - Project Hosting on Google Code</title>   1. Have an HDTV link by HDMI  2. Go youtube and play a video        Sound output from TV      Sound output from Computer     <b>Please provide

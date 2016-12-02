@@ -1,0 +1,1 @@
+<title>Issue 30281 -   chromium -    cannot switch tabs when opening a page that has flash in it - Project Hosting on Google Code</title>   1. Go to a page that has flash embedded  2. Try to switch tab with either command+1  command+2  etc or   command+shift+]  command+shift+[      switch tab      nothing    <b>Please provide

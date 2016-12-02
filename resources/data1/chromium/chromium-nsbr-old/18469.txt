@@ -1,0 +1,1 @@
+<title>Issue 18469 -   chromium -    There is a human face instead of a close button - Project Hosting on Google Code</title>   1. Open Chromium  2. Look at the upper right corner      I'd like to see an X.      I am spooked by the human face I see there.    <b>Please provide

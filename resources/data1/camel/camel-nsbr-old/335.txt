@@ -1,0 +1,1 @@
+Mail component is missing some configuration possibilities    It should be possible to configure the behaviour of the mail component. see thread: http://www.nabble.com/Problem-with-Camel-Mail-Component-in-Route-td15497818s12049.html#a15497818   

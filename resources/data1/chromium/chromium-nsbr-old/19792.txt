@@ -1,0 +1,1 @@
+<title>Issue 19792 -   chromium -    OSX: Global Keyboard shortcuts don't work when http auth dialog is active - Project Hosting on Google Code</title> <pre> Steps to reproduce:  * Open a few tabs.  * Access a site which pops up the http auth dialog.  * Press cntrl-pgup to switch tabs.    No worky  ... </pre>

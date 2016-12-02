@@ -1,0 +1,1 @@
+<title>Issue 19100 -   chromium -    Changing a bookmark's url with chrome.bookmarks.update doesn't work - Project Hosting on Google Code</title> <pre> Chrome Version: 3.0.197.11    This is a known issue  but I couldn't find any open bugs on it. </pre>

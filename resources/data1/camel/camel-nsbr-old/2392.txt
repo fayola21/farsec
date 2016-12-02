@@ -1,0 +1,1 @@
+DefaultTypeConverterRegistry - Let it load upfront    This allows it to pre load all type converters on startup instead on demand. This also removes the need for synchronization at runtime as the converters are loaded up front.   

@@ -1,0 +1,1 @@
+<title>Issue 4829 -   chromium -    No file extensions listed when saving images - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.4.154.25      1. Find image  2. Right-click 'Save as'    Expected behavior:  -Window pops up with a list of possible file extensions in 'Save as type'  field.    Observed behavior:  - 'Save as type' field is blank.   </pre>

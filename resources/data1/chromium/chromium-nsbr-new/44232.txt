@@ -1,0 +1,1 @@
+<title>Issue 44232 -   chromium -    Cut-(Ctrl+X) URL from Omnibox does not really cut when whole domain name is selected - Project Hosting on Google Code</title>   1. go to a non-https site such as www.google.com  2. Control-L to select all  3. Control-X to cut      The selected string should be cut / disapear      The selected string still showed on omnibox    <b>Please provide

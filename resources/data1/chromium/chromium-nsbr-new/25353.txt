@@ -1,0 +1,1 @@
+<title>Issue 25353 -   chromium -    Can't see tips on the New Tab page - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.27  OS: winxp      1. Launch Chrome and New Tab page      See tip one-liner below thumbnails      Tip one-liner is missing </pre>

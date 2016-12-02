@@ -1,0 +1,1 @@
+<title>Issue 849 -   chromium -    FEATURE REQUEST: optional setting  to set focus on newly opened tab - Project Hosting on Google Code</title>   - the option is not available to change the default behavior      - an option to change default behavior to switch automatically to newly   created tab      - there is not an option to change this behavior.    Please provide

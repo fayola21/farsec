@@ -1,0 +1,1 @@
+<title>Issue 32992 -   chromium -    Multi-Touch Support Issue: Two finger flicking does not work  - Project Hosting on Google Code</title>   1. flick with two fingers on multi-touch track pad  nothing happens            The two-finger gestures should invoke back/forward action      Nothing happens (if ALT is not pressed).     <b>Please provide

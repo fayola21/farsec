@@ -1,0 +1,1 @@
+<title>Issue 16463 -   chromium -    Printing new new tab page doesn't print the images - Project Hosting on Google Code</title> <pre> Nothing huge  more for completeness  the NNTP prints fine but all the images   are blank. </pre>

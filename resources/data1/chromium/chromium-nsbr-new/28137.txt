@@ -1,0 +1,1 @@
+<title>Issue 28137 -   chromium -    wikipedia math and psuedo-code not well formatted - Project Hosting on Google Code</title>   1.  Go to any wikipedia page with equations in pseudo-code.    2.  Look at equations in pseudo-code.        Format should be clean  sizes uniform  ect.      Equations are way too large  making format ugly.    <b>Please provide

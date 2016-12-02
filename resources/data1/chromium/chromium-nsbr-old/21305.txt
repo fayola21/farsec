@@ -1,0 +1,1 @@
+<title>Issue 21305 -   chromium -    HTML5 video elements do not have an indication of loaded percentage/parts in the time slider widget - Project Hosting on Google Code</title> <pre> The  time slider widget has only one color (blue) and does not indicate loaded   vs not-loaded portions of the video (basically  load progress indication). </pre>

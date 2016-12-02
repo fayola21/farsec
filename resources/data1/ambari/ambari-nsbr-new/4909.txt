@@ -1,0 +1,1 @@
+Slave component should include 'restart' command on host details page 'Actions'    Slave components (such as DataNode  NodeManager  RegionServer  Supervisor  Ganglia Monitor) should include a 'Restart' command in their 'Actions' menu on the host details page.The Restart option should be shown and enabled when the component is started.   

@@ -1,0 +1,1 @@
+<title>Issue 22043 -   chromium -    Add gyp configuration for googleurl project. - Project Hosting on Google Code</title> <pre> Googleurl currently builds using a committed .vcproj file.  This is  problematic when paths change (for instance  icu38 changed to icu).  To  avoid this type of problem in the future googleurl should probably be built  using a gyp configuration. </pre>

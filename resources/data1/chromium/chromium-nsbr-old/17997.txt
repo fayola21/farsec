@@ -1,0 +1,1 @@
+<title>Issue 17997 -   chromium -    sandbox + shared libraries = Date.getTimezoneOffset always returns 0  - Project Hosting on Google Code</title> <pre> We patch the GOT to make localtime() route through sandbox IPCs  as it wants   access to local files otherwise.  This doesn't work if any dynamically-  linked libraries call localtime. </pre>

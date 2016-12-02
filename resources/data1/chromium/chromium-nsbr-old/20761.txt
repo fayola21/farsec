@@ -1,0 +1,1 @@
+<title>Issue 20761 -   chromium -    Doesnt support rss feeds - Project Hosting on Google Code</title>   1.Open any blog or a page containing RSS fesds  2.Then click the RSS icon   3.All you see is a page filled with simple text      I expect chrome to read or let any of my apps to read the rss feeds      A page filled with simple text with no meaning appears    <b>Please provide

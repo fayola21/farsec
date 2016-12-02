@@ -1,0 +1,1 @@
+<title>Issue 24188 -   chromium -    About Google Chrome dialog doesn't show any message if it's up to date - Project Hosting on Google Code</title>   1. Go to Wrench &gt; About Google Chrome      In the about box  there should be a message if Chrome is up to date or not   (just like in Windows)      Nothing.    <b>Please provide

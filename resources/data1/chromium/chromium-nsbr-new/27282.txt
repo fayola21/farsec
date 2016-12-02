@@ -1,0 +1,1 @@
+<title>Issue 27282 -   chromium -    Report a bug dialog doesn't honor send a screen shot - Project Hosting on Google Code</title> <pre> A quick peek at the code seems to indicate the report a bug UI doesn't   actually honor user changes to the checkbox for sending a screen shot. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33491 -   chromium -    new tab page is squashed - Project Hosting on Google Code</title>   1. open maximised to the new tab home page      correctly formatted new tab page      the thumbnails are squashed together  it doesn't happen everytime but every now and then  press F5 refreshes the page correctly    <b>Please provide

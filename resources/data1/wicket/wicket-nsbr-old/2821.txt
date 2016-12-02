@@ -1,0 +1,1 @@
+More 'IModel<? extends Collection<' Fixes    I searched the code for all occurrences of 'IModel&lt;Collection&lt;' and replaced all that I thought could be replaced with 'IModel&lt;? extends Collection&lt;'.   

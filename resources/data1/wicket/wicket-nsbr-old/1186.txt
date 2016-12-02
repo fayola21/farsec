@@ -1,0 +1,1 @@
+Ajax Memory Leak in IE    Memory Leak in IE6 (IE7?) when using a DataView with AjaxPagingNavigator and each entry of the DataView table contains an AjaxLink. Memory increases by more than 500KB when displaying 100 items per page. AjaxDebugMode is disabled. Configuration is set to deployment. Version 1.2.6 is working fine.   

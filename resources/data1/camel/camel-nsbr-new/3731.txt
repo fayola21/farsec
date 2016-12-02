@@ -1,0 +1,1 @@
+IgnoreInvalidEndpoint should log invalid endpoints at DEBUG level    Currently its logged at INFO level with full stacktrace. If end user enabled this option we should only log it at DEBUG level to avoid spamming production logs.See nabblehttp://camel.465427.n5.nabble.com/camel-recipientList-with-ignoreInvalidEndpoints-true-tp3404103p3404103.html   

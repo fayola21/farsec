@@ -1,0 +1,1 @@
+<title>Issue 4883 -   chromium -    Drop down list make chrome crash - Project Hosting on Google Code</title>   1. Try to click on any drop down list  2. Nothing appear in the drop down list or it closes itself  3. Chrome crashes                Please provide

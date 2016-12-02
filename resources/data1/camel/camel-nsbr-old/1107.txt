@@ -1,0 +1,1 @@
+camel-http - does not remove httpClient.xxx URI options    When using the options to configure httpClient using URI option  they should be removed from the uri that is left over to the HTTPProducer.http://someserver?httpClient.soTimeOut=5000should remove the httpClient.xxx so it'shttp://someserver   

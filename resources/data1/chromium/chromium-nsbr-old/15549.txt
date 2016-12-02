@@ -1,0 +1,1 @@
+<title>Issue 15549 -   chromium -    This is not new  but I can't find it the list of issues. Search box disappears when scrolling. - Project Hosting on Google Code</title>   1. Ctrl + F  2. Scroll down with mouse wheel.  3. The search box disappears.                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13728 -   chromium -    LayoutTests/editing/deleting/4866671.html  - Project Hosting on Google Code</title> <pre> started failing with <a href="/p/chromium/source/detail?r=18003">r18003</a>    Looks like DRT is printing one more line break than TestShell. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31869 -   chromium -    Want bookmark.click.event - Project Hosting on Google Code</title> <pre> this is useful to made some extension about bookmarks </pre>

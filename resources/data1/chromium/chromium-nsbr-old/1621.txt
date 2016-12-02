@@ -1,0 +1,1 @@
+<title>Issue 1621 -   chromium -    closes after clicking a link on bookmarks bar - Project Hosting on Google Code</title>   1. open google chrome  2. if your homepage has not fully loaded yet click a link on bookmarks bar        goes to the link clicked      chrome closes    Please provide

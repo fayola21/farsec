@@ -1,0 +1,1 @@
+<title>Issue 25033 -   chromium -    eval for &quot;function&quot; broken - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.12      1. var f = eval(&quot;function() { }&quot;);      f used to be a function object      SyntaxError: Unexpected token (   </pre>

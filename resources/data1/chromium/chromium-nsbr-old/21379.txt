@@ -1,0 +1,1 @@
+<title>Issue 21379 -   chromium -    Need better error messages when cross-origin XHR inside extension fails - Project Hosting on Google Code</title> <pre> When a user attempts to perform a cross-origin XHR without setting the right   permissions in the manifest  we fail. But we should have a more informative   error message that tells them what to change. </pre>

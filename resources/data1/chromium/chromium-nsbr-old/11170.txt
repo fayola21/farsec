@@ -1,0 +1,1 @@
+<title>Issue 11170 -   chromium -    Chrome not showing some PNG images - Project Hosting on Google Code</title>   1. Try to show the attached PNG file in Chrome. It was generated using   gswin32c from a PDF file.      Chrome should display the image.      Chrome shows the icon usually used for &quot;image not found&quot;.    <b>Please provide

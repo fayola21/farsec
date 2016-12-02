@@ -1,0 +1,1 @@
+<title>Issue 4143 -   chromium -    Junk perf data files littering build-master base directories - Project Hosting on Google Code</title> <pre> Perf-test data files are being dumped in build-master basedirs (e.g.   ~/buildbot/master.chromium/vm_final_browser-summary.dat).  Maybe they're   coming from the perf bots that aren't showing results links? </pre>

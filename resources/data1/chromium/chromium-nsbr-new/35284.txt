@@ -1,0 +1,1 @@
+<title>Issue 35284 -   chromium -    Extend AutomationProxy to support Cancel/Delete/Retry/Resume a download - Project Hosting on Google Code</title> <pre> We need to add support to Cancel/Delete/Retry/Resume a download. Also  We  need a method that will wait until the download finish. We currently have  waits  which I think is the cause for flaky download tests..   </pre>

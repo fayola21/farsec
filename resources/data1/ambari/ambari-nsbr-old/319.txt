@@ -1,0 +1,1 @@
+Scale puppet master to large number of nodes.    Scale puppet master to large number of nodes.   

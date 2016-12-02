@@ -1,0 +1,1 @@
+<title>Issue 12552 -   chromium -    Nested gtk main loop causes crash - Project Hosting on Google Code</title> <pre> Call gtk_main() from anywhere in our code and things go bad.    GTK sometimes wants to do this to present a modal dialog (e.g.   gtk_dialog_run())  or block on an async request. </pre>

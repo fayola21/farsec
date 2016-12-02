@@ -1,0 +1,1 @@
+<title>Issue 36392 -   chromium -    Pinned tabs in startup - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.335.0 (39556)                    1.Set 2 pages in Home Page  2.Pin these tabs      The pinned tabs start with the browser      They start with the browser  but they start like normal tabs.     </pre>

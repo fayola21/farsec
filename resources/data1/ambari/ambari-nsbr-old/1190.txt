@@ -1,0 +1,1 @@
+Detailed log view dialogs are not center-aligned       

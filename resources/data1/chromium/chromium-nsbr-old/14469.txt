@@ -1,0 +1,1 @@
+<title>Issue 14469 -   chromium -    Remove TOOLKIT_VIEWS stuff from chrome/browser/tab_contents/tab_contents_view_gtk - Project Hosting on Google Code</title> <pre> TOOLKIT_VIEWS now has its own TabContentsView impl. We should be sure to  clean up the pure Gtk impl. </pre>

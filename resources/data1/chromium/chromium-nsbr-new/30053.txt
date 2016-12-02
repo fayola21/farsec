@@ -1,0 +1,1 @@
+<title>Issue 30053 -   chromium -    Chrome on Mac with F3 - Project Hosting on Google Code</title> <pre> It is not an error.  When i use chrome on mac  i found out if i press F3 with two windows of   Chrome opened  it will appeal some blank space  when i move the mouse   onto the blank space  i could see a blue bar.  i do not know what is this   </pre>

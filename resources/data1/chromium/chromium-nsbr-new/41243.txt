@@ -1,0 +1,1 @@
+<title>Issue 41243 -   chromium -    Object.getOwnPropertyNames returns duplicated property names - Project Hosting on Google Code</title> <pre> Result of Object.getOwnPropertyNames(window) contains two &quot;document&quot; strings. </pre>

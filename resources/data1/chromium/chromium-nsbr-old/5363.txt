@@ -1,0 +1,1 @@
+<title>Issue 5363 -   chromium -    Feature Request: Opening the History in a New Tab - Project Hosting on Google Code</title>   1. Right click on the back button  2. Middle click on a link      The middle-clicked item open in a new tab      Nothing    Please provide

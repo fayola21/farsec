@@ -1,0 +1,1 @@
+<title>Issue 43559 -   chromium -    Displaying large tables slows down chromium to a crawl - Project Hosting on Google Code</title> <pre>   1. open the attached html file in chrome          after loading the table  you should be able to scroll around. works fine in   firefox.       </pre>

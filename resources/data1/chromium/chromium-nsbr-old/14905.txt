@@ -1,0 +1,1 @@
+<title>Issue 14905 -   chromium -    Find bar next/previous buttons should be like windows and connect into the text field  - Project Hosting on Google Code</title> <pre> Ben sez: &quot;next/previous buttons should be like windows and connect into the  text field&quot;    Again  make it look like windows. </pre>

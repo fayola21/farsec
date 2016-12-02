@@ -1,0 +1,1 @@
+Remove unused methods in client.am.DateTime    The DateTime class contains two unused methods: timestampToDateBytes() and timestampToTimeBytes(). These methods also contain calls to deprecated methods in the java.util.Date class  so it would be good to get rid of them.   

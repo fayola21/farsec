@@ -1,0 +1,1 @@
+<title>Issue 14031 -   chromium -    Icon color is not correct - Project Hosting on Google Code</title>   1.Open  the URL and wait until the page completely loaded  2.see the Tab Icon Or the Bookmark Icon of this URL        Tab Icon shows as the result as chrome old version and IE8      Tab Icon shows ugly    <b>Please provide

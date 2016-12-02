@@ -1,0 +1,1 @@
+<title>Issue 20286 -   chromium -    OSX Omnibox keyword search doesn't process backspace right when empty. - Project Hosting on Google Code</title> <pre>   1. Type enough of &quot;google&quot; to show &quot;tab to search&quot; hint.  2. Hit tab.  3. Backspace.        Keyword search mode should be exited.  Instead  the omnibox stays in keyword   search mode. </pre>

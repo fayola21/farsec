@@ -1,0 +1,1 @@
+<title>Issue 21696 -   chromium -    translate ''remove from list'' to ''rimuovi dalla lista'' in italian version - Project Hosting on Google Code</title> <pre> I saw that you translated almost everything for the near stable 3.0 release    but you forgot to translate ''remove from list'' in the download page.  </pre>

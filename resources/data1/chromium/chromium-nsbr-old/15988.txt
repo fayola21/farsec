@@ -1,0 +1,1 @@
+<title>Issue 15988 -   chromium -    Show type name for evaluation results - Project Hosting on Google Code</title> <pre>   1. Open DevTools Window  2. Open console and eval 'document'  3. Expand result    Expected: document has type Document  childNodes has type NodeList  Actual: both have type Object   </pre>

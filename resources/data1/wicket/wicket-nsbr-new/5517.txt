@@ -1,0 +1,1 @@
+IE11 returns false for Wicket.Browser.isIE()    As of Internet Explorer 11 this statement returns false instead of true (like it did prior to version 11):typeof(document.all) !== 'undefined'This statement is used on line 56 of wicket-event-jquery.js which means Wicket.Browser.isIE() will return false in IE11.   

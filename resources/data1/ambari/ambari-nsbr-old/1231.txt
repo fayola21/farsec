@@ -1,0 +1,1 @@
+Replace sudo with su in the ambari setup script since ambari server setup is already run as root.    Replace sudo with su in the ambari setup script since ambari server setup is already run as root.   

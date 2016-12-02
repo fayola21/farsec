@@ -1,0 +1,1 @@
+<title>Issue 9932 -   chromium -    Linux build dies in V8 on Fedora 11 beta - Project Hosting on Google Code</title> <pre> FC11 is GCC 4.4 based and it looks like we might have issues.    Assigning to Tony since he was going to install an FC11 test machine. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41363 -   chromium -    Using Chrome Version 4.1.249.1045 but Javascript Alert() and Confirm commands don't work?  - Project Hosting on Google Code</title>   1.  Just place any Javascript ALERT or CONFIRM statement in .html                     <b>Please provide

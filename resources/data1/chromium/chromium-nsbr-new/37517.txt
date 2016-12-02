@@ -1,0 +1,1 @@
+<title>Issue 37517 -   chromium -    google calendar crashes chrome - Project Hosting on Google Code</title>   1. Go to <a href="http://calendar.google.com/">http://calendar.google.com/</a>        No crash        Crashes the whole browser    <b>Please provide

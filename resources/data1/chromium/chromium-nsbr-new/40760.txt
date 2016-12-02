@@ -1,0 +1,1 @@
+<title>Issue 40760 -   chromium -    Dev Tools: Dev tools are not working if installed manually into a dirtly folder. - Project Hosting on Google Code</title> <pre> Navigate to www.google.com and launch inspector    Issue: Inspector is launched but doesn't show anything    Please see the attached image    Chromium 5.0.371.0 (Developer Build 43887) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22788 -   chromium -    &quot;Other bookmarks&quot; link chopped off in German locale - Project Hosting on Google Code</title> <pre> 1) Run  LANG=de google-chrome  2) Show bookmarks bar  3) notice text on right is truncated    This should just be allowed to size itself to whatever width it needs  so   I'm confused as to why it's getting chopped. </pre>

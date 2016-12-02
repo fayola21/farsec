@@ -1,0 +1,1 @@
+<title>Issue 2030 -   chromium -    Fix cookie_monster.h for Visual Studio 2008 SP1 - Project Hosting on Google Code</title> <pre> VS2008 sp1 has an hack for std::pair&lt;&gt; which implies default constructor.  We need to get by. </pre>

@@ -1,0 +1,1 @@
+Manage service needs a way to recover from terminated browser sessions    We need to block users from being able to start/stop services when we have a batch of start/stop activities are already in progress.Do something similar to deployment progress display and bring the user back to that modal status display which will end when we detect success/failure.   

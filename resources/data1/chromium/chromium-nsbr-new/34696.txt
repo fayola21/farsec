@@ -1,0 +1,1 @@
+<title>Issue 34696 -   chromium -    checkbox are not shown correctly in window server 2003 x64 - Project Hosting on Google Code</title>   1. checkbox are not shown correctly  it will be rendered by nothing.          checkbox shows.      it will be rendered by nothing.    <b>Please provide

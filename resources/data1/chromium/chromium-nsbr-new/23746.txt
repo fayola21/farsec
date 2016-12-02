@@ -1,0 +1,1 @@
+<title>Issue 23746 -   chromium -    bug on vkontakte.ru - Project Hosting on Google Code</title>   1. getting to vkontakte.ru  2. putting cursor into text field near [Add Comment]  3. startting typing  4. Pressing &quot;Backspace&quot;      deleting symbol befor the cursor.      Browser returns to previous page.    Please provide

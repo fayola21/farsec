@@ -1,0 +1,1 @@
+<title>Issue 44830 -   chromium -    I can't read malayalam language in google - Project Hosting on Google Code</title> <pre> [Malayalam]  [Windows XP]  I can't read Malayalam in Google.   </pre>

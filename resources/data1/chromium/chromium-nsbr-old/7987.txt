@@ -1,0 +1,1 @@
+<title>Issue 7987 -   chromium -    Hide profiles behind a command-line switch - Project Hosting on Google Code</title> <pre> We have decided not to support the current profile implementation in Beta   or Stable.     It should be removed or we should hide the UI behind a command-line switch   if there's still data we want to collect about usage.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 35554 -   chromium -    GTMTheme should go away - Project Hosting on Google Code</title> <pre> GTMTheme came about before themes in chrome were sorted out.  Since   then  it has gotten in the way more then helped.  We should remove it from   the Cocoa code path  and use the core chrome theme classes directly to avoid   overhead/confusion. </pre>

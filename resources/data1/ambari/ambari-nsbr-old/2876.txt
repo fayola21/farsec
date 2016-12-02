@@ -1,0 +1,1 @@
+Puppet script syntax issues result in hive deployment with custom DB and oozie service check failures    Few puppet variables are missing in jdbc-connector and oozie service-check puppet scripts.   

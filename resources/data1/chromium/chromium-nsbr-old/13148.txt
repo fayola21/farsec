@@ -1,0 +1,1 @@
+<title>Issue 13148 -   chromium -    App Mode is not implemented. - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  App Mode is not implemented.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6083 -   chromium -    SVG - dropShadow not supported - Project Hosting on Google Code</title> <pre>   Load the following testcase    What is the expected output?   Text appears with shadows    What do you see instead?  Text appears normal  no shadows         </pre>

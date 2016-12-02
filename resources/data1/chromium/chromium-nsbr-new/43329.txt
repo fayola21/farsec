@@ -1,0 +1,1 @@
+<title>Issue 43329 -   chromium -    virus in browser - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;from gcf:about:version&gt;          1.debug test  2.test browser  3.broken browser    What do you expect to happen?  web page blank solid white.    What do you see instead? solid white blank web page?????   </pre>

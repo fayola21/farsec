@@ -1,0 +1,1 @@
+Fix JS Unit tests after merge 1.4.0 to trunk       

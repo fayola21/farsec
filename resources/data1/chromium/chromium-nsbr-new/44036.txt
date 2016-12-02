@@ -1,0 +1,1 @@
+<title>Issue 44036 -   chromium -    Better report the buffered time of the video tag - Project Hosting on Google Code</title> <pre>   1. Play a video  2. See the buffer bar  it's always full! This can't be right.      We should report the time that we have buffered.           </pre>

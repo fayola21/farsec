@@ -1,0 +1,1 @@
+camel-cxf should shutdown the bus when the endpoint is stopped.    If the bus is create by cxfEndpoint itself  cxfEndpoint should shutdown it when the endpoint is stopped.   

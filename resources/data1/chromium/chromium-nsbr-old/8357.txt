@@ -1,0 +1,1 @@
+<title>Issue 8357 -   chromium -    I cannot make Chrome the standard browser. - Project Hosting on Google Code</title>   1. Press the button thats supposed to make chrome the default browser.      Chrome to become my default browser      It doesn't become the default browser when i press the button.    Please provide

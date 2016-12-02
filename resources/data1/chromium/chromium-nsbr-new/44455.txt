@@ -1,0 +1,1 @@
+<title>Issue 44455 -   chromium -    Chromium has excessive memory usage on systems running KDE - Project Hosting on Google Code</title>   1. ldd /usr/lib/chromium-browser/chrome  2. Notice that it has GTK dependencies      It should depend on Qt4.      Chromium loads GTK libraries.    <b>Please provide

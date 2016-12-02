@@ -1,0 +1,1 @@
+<title>Issue 41957 -   chromium -    Sync couldn't persist updated client exception list to cloud - Project Hosting on Google Code</title> <pre> 5.0.375.9 (Official Build 44625) dev  WebKit	533.4  V8	2.1.10.5  Google Sync cannt update client exception list of content settings to   cloud service  new added or updated list item restored by cloud settings. </pre>

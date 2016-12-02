@@ -1,0 +1,1 @@
+<title>Issue 5949 -   chromium -    seret.co.il: site logo displays on top of navigation bar - Project Hosting on Google Code</title> <pre> url: <a href="http://www.seret.co.il/">http://www.seret.co.il/</a>    Other browsers:  FF3 same bug    Bug Description: The site logo is left aligned and displayed on top of  navigation links  see attached screenshot. </pre>

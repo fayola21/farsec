@@ -1,0 +1,1 @@
+<title>Issue 23074 -   chromium -    mole CSS - disable box mode on body - Project Hosting on Google Code</title> <pre> In the toolstrip CSS  the display property on body is set to -webkit-box.  We   should disable this when we switch to mole mode since this has lots of   interesting effects that most people won't expect. </pre>

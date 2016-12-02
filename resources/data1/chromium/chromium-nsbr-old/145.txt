@@ -1,0 +1,1 @@
+<title>Issue 145 -   chromium -    Installer issues - Project Hosting on Google Code</title>   1. Install          To download through the proxy (after all  the browser itself supports it).      Install fails.    Please provide

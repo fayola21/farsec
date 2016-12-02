@@ -1,0 +1,1 @@
+<title>Issue 35897 -   chromium -    Need some way to declaratively block external resources - Project Hosting on Google Code</title> <pre> A common need of ad blocking  flash blocking  and privacy extensions is the   desire to declaratively block external resources like images  plugins  and   iframes. </pre>

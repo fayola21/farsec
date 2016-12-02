@@ -1,0 +1,1 @@
+<title>Issue 2842 -   chromium -    vertical scrollbar not visible until mouse-over - Project Hosting on Google Code</title>   1. Go to the url  the vertical scrollbar on the right of the rightmost   frame with desc of opportunities is not visible until you mouse-over it.   Seems to work fine on firefox.                   Please provide

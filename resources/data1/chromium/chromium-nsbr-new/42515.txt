@@ -1,0 +1,1 @@
+<title>Issue 42515 -   chromium -    Too many tabs... too small - Project Hosting on Google Code</title>   1. Open too many tabs  2. something...  3. something...      Tabs are wrapped by left &amp; right arrows.      Tabs become smaller and smaller... and finally they go overflowed to the   right...    <b>Please provide

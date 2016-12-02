@@ -1,0 +1,1 @@
+<title>Issue 15222 -   chromium -    Cancelling print throws error message - Project Hosting on Google Code</title> <pre> ToT(<a href="/p/chromium/source/detail?r=19118">r19118</a>).    -Click on 'Cancel' button of Print dialog.    User is warned with error msg &quot;Some thing went wrong when trying to print...&quot;    See the screenshot.   </pre>

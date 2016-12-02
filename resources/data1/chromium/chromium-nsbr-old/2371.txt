@@ -1,0 +1,1 @@
+<title>Issue 2371 -   chromium -    Frame flashes standard non-client area when dismissing bookmark bubble - Project Hosting on Google Code</title> <pre>   1. Star a page  2. Dismiss the bookmark bubble        Notice the caption area flashes briefly to the standard windows non-client   view. This shouldn't happen. </pre>

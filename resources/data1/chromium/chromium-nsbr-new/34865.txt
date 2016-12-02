@@ -1,0 +1,1 @@
+<title>Issue 34865 -   chromium -    Pin Tab feature is gone from tab context menu - Project Hosting on Google Code</title>                     Pin Tab is no longer a choice from the right click context menu    <b>Please provide

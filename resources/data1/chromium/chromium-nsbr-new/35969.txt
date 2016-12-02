@@ -1,0 +1,1 @@
+<title>Issue 35969 -   chromium -    Mac bookmark bar: opt-drag should copy  not move - Project Hosting on Google Code</title> <pre> Follow-up for <a href="http://codereview.chromium.org/551226">http://codereview.chromium.org/551226</a>    Opt-drag for copy   </pre>

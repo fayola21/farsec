@@ -1,0 +1,1 @@
+<title>Issue 1736 -   chromium -    Browser crashes when entering the 'options' menu - Project Hosting on Google Code</title>   1. Go to 'options' in the menu and the browser will instantly crash  aswell   as other Chrome instances being opened          The options menu showing      *crash*    Please provide

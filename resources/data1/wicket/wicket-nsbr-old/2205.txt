@@ -1,0 +1,1 @@
+typo in ApplicationContextMock.putBean() exception message:  'alredy'    There is a minor typo in ApplicationContextMock.putBean() that is fixed by the attached patch.   

@@ -1,0 +1,1 @@
+<title>Issue 23186 -   chromium -    Install app shortcuts dialog polish - Project Hosting on Google Code</title> <pre> Should use stock cancel button.  Buttons should be the same size. </pre>

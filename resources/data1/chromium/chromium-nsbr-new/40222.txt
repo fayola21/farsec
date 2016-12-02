@@ -1,0 +1,1 @@
+<title>Issue 40222 -   chromium -    Tab cannot select drop down menu choice - Project Hosting on Google Code</title>   1. go to any site with a drop down menu box  2. press the first letter to go to any kind of choice  or scroll down with   arrows  3. press tab  which should select      the selected option should be chosen      nothing    <b>Please provide

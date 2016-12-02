@@ -1,0 +1,1 @@
+<title>Issue 37365 -   chromium -    preferences sync too fast - Project Hosting on Google Code</title> <pre> This is not a feature.  We don't need an instant-messaging service  just a   pref syncing service. </pre>

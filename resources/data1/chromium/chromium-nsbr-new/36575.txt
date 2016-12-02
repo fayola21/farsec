@@ -1,0 +1,1 @@
+<title>Issue 36575 -   chromium -    Extensions page is blank - Project Hosting on Google Code</title>   1.When trying to open up the extensions menu either using   chrome://extensions/ or the link from the menu.      To see a list of my browser extensions.      It gives me a blank page with nothing.    <b>Please provide

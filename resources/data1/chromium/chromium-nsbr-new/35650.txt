@@ -1,0 +1,1 @@
+<title>Issue 35650 -   chromium -    Userscripts update - new version does not replace the old one - Project Hosting on Google Code</title>   1.Install any userscript  2.Later try reinstall with newer version of the same script (same key)  3.Click Install in 'Confirm installation' dialog      New version replaces the old one      Nothing    <b>Please provide

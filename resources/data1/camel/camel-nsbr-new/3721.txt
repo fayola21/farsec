@@ -1,0 +1,1 @@
+Camel properties component - Add support for using jvm system/env in location    For example you may want to say {{location=${karaf.hom}/etc/myprop.properties}}.eg where karaf.home is a jvm system property.Take a look at simple as we may want to be able to lookup environment variable also.   

@@ -1,0 +1,1 @@
+<title>Issue 34526 -   chromium -    Bookmarks suddenly not clickable on Chromium 5.0.315.0 - Project Hosting on Google Code</title>   1.Perform apt-get upgrade on Ubuntu 9.04 or fresh install Chromium   5.0.315.0 on Xubuntu 9.10  2.Attempt to click any bookmark      Should open bookmark url      Nothing happens. Bookmark folders do not expand.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 14908 -   chromium -    Find bar needs close animation - Project Hosting on Google Code</title> <pre> Summary sez it all. </pre>

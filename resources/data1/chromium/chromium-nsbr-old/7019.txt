@@ -1,0 +1,1 @@
+<title>Issue 7019 -   chromium -    Squeezed Tabs in 2.0.158.0 - Project Hosting on Google Code</title>   1. Click to open a new tab  2. In random cases  tabs just squeeze up!   3. Umm. Just that. A screenshot is attached.                 Please provide

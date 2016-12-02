@@ -1,0 +1,1 @@
+<title>Issue 28267 -   chromium -    Sidebar of MediaWiki site placed below content area - Project Hosting on Google Code</title>   1.Just display any wiki page with the default skin          The sidebar should appear near the top  left of the content area      The sidebar appears below the content area    <b>Please provide

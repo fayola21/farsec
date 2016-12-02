@@ -1,0 +1,1 @@
+<title>Issue 22326 -   chromium -    --enable-sync no longer working - Project Hosting on Google Code</title> <pre> After the last update  the --enable-sync command no longer works  it makes   Chrome crash on start.     Steps:    Run chrome with --enable-sync command </pre>

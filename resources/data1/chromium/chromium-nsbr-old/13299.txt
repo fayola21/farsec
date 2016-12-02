@@ -1,0 +1,1 @@
+<title>Issue 13299 -   chromium -    Implement cntrl-tab shortcut for switching tabs - Project Hosting on Google Code</title> <pre> 1)Safari &amp; Firefox support cntrl-tab &amp; cntrl-shift tab for moving back and   forth between tabs.  2)They also support command-shift-square brackets.    We should implement #1 and probably also #2. </pre>

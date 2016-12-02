@@ -1,0 +1,1 @@
+<title>Issue 2213 -   chromium -    Keybindings - Project Hosting on Google Code</title>   1. Try to bind a key to some action in Chrome          There should be a dialog in chrome that allows actions to be assigned to  keys (or buttons).      There is no such dialog  and no means of binding keys to actions as far as  I can tell.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6678 -   chromium -    Hotmail problems - Project Hosting on Google Code</title>   1. log in in live mail  2. go to the inbox  3. Try to open a mail      The mail opens and yo can read it      When you try to open a mail it doesn't open and down in the left side of   the screen appears the word &quot;javascript;&quot;    Please provide

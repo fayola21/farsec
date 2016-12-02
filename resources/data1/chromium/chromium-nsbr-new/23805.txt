@@ -1,0 +1,1 @@
+<title>Issue 23805 -   chromium -    Chrome doesn't seem to use anti aliasing - Project Hosting on Google Code</title>   1. Go to the website specified above      .. The italic text should be rendered nice3      2. Especially the italic text is very ugly      <b>Please provide

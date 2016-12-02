@@ -1,0 +1,1 @@
+<title>Issue 39078 -   chromium -    Chrome freezes when Java program starts and it is not on that tab - Project Hosting on Google Code</title>   1.Go to that link  2.Click online chat  3.immediately after that  go to another tab        The program loads while I'm on another tab        Chrome crashes    <b>Please provide

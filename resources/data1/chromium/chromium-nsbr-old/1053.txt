@@ -1,0 +1,1 @@
+<title>Issue 1053 -   chromium -    about:% crashes - Project Hosting on Google Code</title>   1. address bar; type about:%          about should open atleast.      The whole browser crashes - not just the window in which this typed.    Please provide

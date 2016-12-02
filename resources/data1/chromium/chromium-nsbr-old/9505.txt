@@ -1,0 +1,1 @@
+<title>Issue 9505 -   chromium -    &quot;Show full history&quot; does nothing. - Project Hosting on Google Code</title>   1.Open the new tab page.  2. Click &quot;Show full history&quot;        For history to be displayed.      New Tab Page appears to refresh.    <b>Please provide

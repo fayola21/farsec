@@ -1,0 +1,1 @@
+<title>Issue 24610 -   chromium -    Mac &quot;Delete&quot; button is not shortcut to previous page - Project Hosting on Google Code</title>   1. Open Chrome  2. Open a webpage  3. Open another webpage in same tab  4. Hit delete to go back to the previous page        Browser returns to first page        Nothing    <b>Please provide

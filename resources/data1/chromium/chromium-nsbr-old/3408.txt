@@ -1,0 +1,1 @@
+<title>Issue 3408 -   chromium -    Yahoo! Mail smilies disappear on draft save - Project Hosting on Google Code</title>   1. open yahoo mail  2. press compose on a previous saved drafted with smileys included   3. press save      the smileys should be visible and should save as the new draft      the smileys are not visible and are lost in the saving process     Please provide

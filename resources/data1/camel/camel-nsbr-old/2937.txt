@@ -1,0 +1,1 @@
+StreamProducer does not close stream in camel-stream    Since the stream could be System.out or System.err  the producer does not close the stream ever. It should close all streams with the noted exceptions.   

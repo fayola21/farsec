@@ -1,0 +1,1 @@
+<title>Issue 39 -   chromium -    Error 4 on re-installing Chrome  - Project Hosting on Google Code</title>                   I installed the Danish version of Chrome  then uninstalled it to reinstall  the English version  and the attached error message occurs at the end of  the installation process.    Please provide

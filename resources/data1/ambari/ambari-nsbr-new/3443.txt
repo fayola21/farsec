@@ -1,0 +1,1 @@
+'Assign Slaves and Clients' step. 'all | none' click error    Clicking on 'all|none' affects disabled checkboxes.   

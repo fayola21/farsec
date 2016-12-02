@@ -1,0 +1,1 @@
+<title>Issue 18642 -   chromium -    Inconsistent capitalisation in OS X application menus - Project Hosting on Google Code</title> <pre> Chrome Version       : 198.0 (Developer Build 22604)    Some menu labels use Title Case  others don't. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25115 -   chromium -    Taringa.net does not load - Project Hosting on Google Code</title>   1. Open the browser.  2. Open the given url  3. Look at the screen       The page completly load.      The page does not load.    <b>Please provide

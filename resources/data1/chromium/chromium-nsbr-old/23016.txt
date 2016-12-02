@@ -1,0 +1,1 @@
+<title>Issue 23016 -   chromium -    dont work button reset - Project Hosting on Google Code</title>   1. login  2. open  3. try press        dont clickable button          <b>Please provide

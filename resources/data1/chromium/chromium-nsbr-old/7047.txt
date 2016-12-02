@@ -1,0 +1,1 @@
+<title>Issue 7047 -   chromium -    Base build fails with LNK1103 when built with hammer - Project Hosting on Google Code</title>   1. Install 6.1 Platform SDK per build instructions.  2. cd srcbase  3. hammer    Build fails with LNK1103  due to hammer erroneously using paths to VC9   toolchain that installs with 6.1 SDK.        Build should succeed.        Please provide

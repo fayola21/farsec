@@ -1,0 +1,1 @@
+<title>Issue 16996 -   chromium -    Memory values in Task Manager are incorrect - Project Hosting on Google Code</title>   1. Open Chromium  2. Go to the Task Manager  3. Notice that Chromium is &quot;using&quot; an incredibly large amount of RAM when  it is clearly not.      Seeing normal RAM usage.      RAM usage is incorrect and extraordinarily high.    <b>Please provide

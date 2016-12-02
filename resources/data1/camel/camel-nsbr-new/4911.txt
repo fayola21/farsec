@@ -1,0 +1,1 @@
+SedaConsumer - Should not poll if CamelContext is starting    If you startup Camel with many routes  which mean starting Camel may take some seconds or whatnot  and then SedaConsumer may poll messages  while CamelContext is starting. It should avoid polling until CamelContext is fully started.   

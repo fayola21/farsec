@@ -1,0 +1,1 @@
+<title>Issue 26009 -   chromium -    [GPU] Propagate GPU plugin destruction event [5] - Project Hosting on Google Code</title> <pre> Propagate GPU plugin destruction event to the client so it can stop rendering?Or just stop when NPAPI calls fail. </pre>

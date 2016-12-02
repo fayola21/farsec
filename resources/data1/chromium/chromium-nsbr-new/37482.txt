@@ -1,0 +1,1 @@
+<title>Issue 37482 -   chromium -    Chrome crashes when trying to log into gmail - Project Hosting on Google Code</title>   1. Go to gmail  2. Watch Chrome Crash      Chrome should open gmail        Chrome crashes      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 28228 -   chromium -    Do not run user scripts on chrome.google.com - Project Hosting on Google Code</title> <pre> Obviously  it is not a good idea to allow extensions to modify the display of   their own ratings  security UI  etc. </pre>

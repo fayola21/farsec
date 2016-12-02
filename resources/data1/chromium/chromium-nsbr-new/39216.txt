@@ -1,0 +1,1 @@
+<title>Issue 39216 -   chromium -    Extensions can't open notifications using relative URLs - Project Hosting on Google Code</title> <pre> From an extension view  webkitNotifications.createHTMLNotification(&lt;relative url&gt;) should work  but   it doesn't. </pre>

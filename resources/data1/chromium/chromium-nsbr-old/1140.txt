@@ -1,0 +1,1 @@
+<title>Issue 1140 -   chromium -    Updating to the latest nightly build of WebKit does not upgrade Google Chrome's Version of webkit - Project Hosting on Google Code</title>   1. visit www.webkit.org and download the latest nightly build for windows          WebKit version is updated      WebKit version remains 525.13    Please provide

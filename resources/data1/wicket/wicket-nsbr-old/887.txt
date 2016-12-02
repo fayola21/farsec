@@ -1,0 +1,1 @@
+Unable to find InlineFrames when inside ListViews    There is a simple example attached. Even if the list is reusing items (and even with a RefreshingView with reuseifmodelequal strategy) the problem persists.   

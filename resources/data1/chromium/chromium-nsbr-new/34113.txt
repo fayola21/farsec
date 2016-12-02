@@ -1,0 +1,1 @@
+<title>Issue 34113 -   chromium -    Ctrl+N Closes Window - Project Hosting on Google Code</title>   1.When i have at least 5 tabs open and hit Ctrl+N          A new window should appear      The window closes.    <b>Please provide

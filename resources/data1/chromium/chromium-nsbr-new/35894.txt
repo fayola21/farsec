@@ -1,0 +1,1 @@
+<title>Issue 35894 -   chromium -    Debugger breaks on wrong line - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.7 beta on Ubuntu      1. Open the attached HTML file.  2. Set the break point as in the screenshot.      Debugger breaks at breakpoint.      Debugger breaks two lines after break point. </pre>

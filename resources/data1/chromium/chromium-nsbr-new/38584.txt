@@ -1,0 +1,1 @@
+<title>Issue 38584 -   chromium -    new tab causes opening new buttons in taskbar - Project Hosting on Google Code</title>   1.open new tab  IN OTHER PROFILE  not in default  since I have multiple profiles          nothing      opens new button in taskbar    <b>Please provide

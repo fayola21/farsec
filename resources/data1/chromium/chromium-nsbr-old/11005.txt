@@ -1,0 +1,1 @@
+<title>Issue 11005 -   chromium -    Can't scroll bookmarks. - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.8 (Official Build 14017)  URLs (if applicable) : n/a  Other browsers tested: n/a      1. Click on Other Bookmarks.  2. Scroll middle mouse button over bookmarks.      For the bookmarks to scroll.      Bookmarks close. </pre>

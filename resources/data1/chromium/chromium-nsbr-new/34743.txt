@@ -1,0 +1,1 @@
+<title>Issue 34743 -   chromium -    window crash  - Project Hosting on Google Code</title>   1.Open new tab      Just to have Chrome window frame.      It switched to normal windows frame. It happens from time to time in New   tab.    <b>Please provide

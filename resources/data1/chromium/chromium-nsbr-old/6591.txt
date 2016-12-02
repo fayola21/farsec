@@ -1,0 +1,1 @@
+<title>Issue 6591 -   chromium -    SafeBrowsingProcotolManager needs a better unittest - Project Hosting on Google Code</title> <pre> The protocol manager code maintains some important state throughout the   course of a SafeBrowsing update. There needs to be a more complete unittest    to verify that it handles all input and error conditions properly. </pre>

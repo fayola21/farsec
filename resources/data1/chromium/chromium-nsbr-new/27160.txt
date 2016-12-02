@@ -1,0 +1,1 @@
+<title>Issue 27160 -   chromium -    Create a unique ptype for extensions - Project Hosting on Google Code</title> <pre> Extensions should have a unique product type.   </pre>

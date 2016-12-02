@@ -1,0 +1,1 @@
+<title>Issue 33132 -   chromium -    Make file's MIME type available in dragenter and dragover events - Project Hosting on Google Code</title> <pre> (In the context of the File API)    Please make the File's MIME type be available in dragenter and dragover   events. </pre>

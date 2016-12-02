@@ -1,0 +1,1 @@
+<title>Issue 9103 -   chromium -    Firefox 3.1 beta passwords are not imported as they are now in sqlite db - Project Hosting on Google Code</title>   1. Install Chrome and import Firefox (3.1 beta 3) settings at the first   run.      Passwords should be imported.      Passwords are not imported.    <b>Please provide

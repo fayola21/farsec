@@ -1,0 +1,1 @@
+<title>Issue 2249 -   chromium -    Proxy could be set directly instead of using IE proxy setting - Project Hosting on Google Code</title>   1. Setup proxy in option          A separated proxy could be set in chrome instead of using IE proxy setting   in case users wants to have different proxy setting between Chrome and IE.      Have separated proxy setting.     Please provide

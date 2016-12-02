@@ -1,0 +1,1 @@
+<title>Issue 17890 -   chromium -    valgrind suppression count doesn't include leak suppressions - Project Hosting on Google Code</title> <pre> See <a href="http://bugs.kde.org/186790">http://bugs.kde.org/186790</a>  We just need to cherrypick a patch that hasn't gone into  valgrind trunk yet. </pre>

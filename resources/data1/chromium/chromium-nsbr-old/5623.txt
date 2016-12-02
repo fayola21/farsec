@@ -1,0 +1,1 @@
+<title>Issue 5623 -   chromium -    Allow undo close tab if popup/app has focus - Project Hosting on Google Code</title> <pre>   1. Have an app/popup window open and a tabbed browser.  2. closed the tabbed browser  3. Try control-shift-t        We should restore the closed tabbed browser  but we don't.       </pre>

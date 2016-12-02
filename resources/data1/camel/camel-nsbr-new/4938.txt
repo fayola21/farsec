@@ -1,0 +1,1 @@
+ManagedBrowsableEndpoint are broken    ManagedeBrowsableEndpoint are broken which means any component that inherit ManagedBrowsableEndpoint have errors as well. Please see the link below which will have error screen shot of queueSize JMX operations.http://camel.465427.n5.nabble.com/JMX-queue-size-operation-fails-Camel-2-9-0-td5233089.html   

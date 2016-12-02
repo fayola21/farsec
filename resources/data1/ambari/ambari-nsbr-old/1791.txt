@@ -1,0 +1,1 @@
+Can not specify request context for smoke test request    Regarding BUG-3509 when we send request to server likeapi/v1/clusters/cl1/services/HDFS/actions/HDFS_SERVICE_CHECKRequest Method:POST Form Data:{'RequestInfo':{'context':'Smoke Test'}}This request is not setting request_context.   

@@ -1,0 +1,1 @@
+<title>Issue 385 -   chromium -    CSS Images and Text not displaying clearly - Project Hosting on Google Code</title>   1. I've just visited Defcon.org and noticed that all the text and images   are not displayed clearly.  2. Either forming a double image or text.        Hope that it could improve it's rendering.      Distorted Images and Text.    Please provide

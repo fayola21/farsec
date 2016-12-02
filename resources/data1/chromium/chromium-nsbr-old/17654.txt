@@ -1,0 +1,1 @@
+<title>Issue 17654 -   chromium -    ��_��_��_��_ instead of x in image title - Project Hosting on Google Code</title>   1. Open an image in new tab.          Title bar should contain the file name and dimensions of the image.      Incorrect characters (��_��_��_��_) are displayed between the width and the height   values in the dimensions.    <b>Please provide

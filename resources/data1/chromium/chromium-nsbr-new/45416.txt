@@ -1,0 +1,1 @@
+<title>Issue 45416 -   chromium -    pure HTML5+javascript website gives an &quot;aw snap&quot; error  - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.9 (43360) Ubuntu  URLs (if applicable) :<a href="http://smokescreen.us/demos/sb45demo.html">http://smokescreen.us/demos/sb45demo.html</a>        Firefox 3.x: (FF  3.6.3) - OK     </pre>

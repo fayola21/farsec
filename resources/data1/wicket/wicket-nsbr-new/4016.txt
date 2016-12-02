@@ -1,0 +1,1 @@
+MarkupContainer.toString(true) fails with MarkupNotFoundException if the call is made in the component constructor    org.apache.wicket.MarkupContainer.toString(boolean) uses 'if (getMarkup() != null)' to decide whether to write something for the markup but since recently Component#getMarkup() throws MarkupNotFoundException when there is no markup and doesn't return null.   

@@ -1,0 +1,1 @@
+<title>Issue 27460 -   chromium -    Toolbar button icons should have inner shadows and theme correctly - Project Hosting on Google Code</title> <pre> Toolbar button icons should have inner shadows.    Toolbar button icons colors should be based off of windows blue. they are   shifted from there </pre>

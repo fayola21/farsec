@@ -1,0 +1,1 @@
+<title>Issue 34146 -   chromium -    svg id recursion crashes tab - Project Hosting on Google Code</title>   1. Open attached svg file          Browser drops attempt to create id reference loop  displays blank page.      Tab crashes.    <b>Please provide

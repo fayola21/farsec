@@ -1,0 +1,1 @@
+<title>Issue 9727 -   chromium -    Text missing from google reader - Project Hosting on Google Code</title>   1. Load google reader  2. Go to All Items in Expanded mode  3. Look at the light blue footer at the bottom of each item        You should be able to see &quot;Add star&quot;  &quot;Share&quot; etc.        The icons are there but the text is missing    <b>Please provide

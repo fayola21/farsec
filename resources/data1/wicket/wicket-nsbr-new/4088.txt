@@ -1,0 +1,1 @@
+Make Application#init() run after IInitializers to allow the application to override any settings configured by initializers    wicket.properties urls are added to an HashSet  causing the IInitializers to be loaded in random order. In AbstractClassResolver.getResources  the HashSet should be changed to a LinkedHashSet.   

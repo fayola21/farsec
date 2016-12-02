@@ -1,0 +1,1 @@
+<title>Issue 37597 -   chromium -    When mark text and click and hold mouse button Chrome crash - Project Hosting on Google Code</title>   1. Mark text in web page  2. Click on mouse button and hold it  3. Move Mouse      Nothing      Chrome crash and want to restart.    <b>Please provide

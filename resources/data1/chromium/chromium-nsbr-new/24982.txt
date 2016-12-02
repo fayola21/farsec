@@ -1,0 +1,1 @@
+<title>Issue 24982 -   chromium -    Tab dragging is janky - Project Hosting on Google Code</title> <pre> Open some tabs. Drag one left and right. Notice a slight but perceptible jank   in the dragging... the tab being dragged occasionally &quot;hiccups&quot; behind the   mouse as you scrub back and forward on the tabstrip. </pre>

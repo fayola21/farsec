@@ -1,0 +1,1 @@
+<title>Issue 9792 -   chromium -    Cannot uninstall Chrome - Project Hosting on Google Code</title>   1. Install chrome on vista  2. Change the theme  3. Try to uninstall        It should uninstall        It fails to do anything and also prevents you from re-installing    <b>Please provide

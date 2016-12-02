@@ -1,0 +1,1 @@
+Exception while rendering absolute URL with UrlResourceReference    While rendering absolute url UrlRenderer calls renderFullUrl on line 112 which causes error.   

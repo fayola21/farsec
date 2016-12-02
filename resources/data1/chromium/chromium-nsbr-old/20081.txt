@@ -1,0 +1,1 @@
+<title>Issue 20081 -   chromium -    Crash when dragging a *.crx file on the new &quot;New Tab&quot; page - Project Hosting on Google Code</title>   1. Open a new Chrome with --enable-extensions  2. Drag'n'drop a *.crx file on the &quot;new tab&quot; page (can be an empty file)      -&gt; Chrome asks whether to install the extension      -&gt; Crash    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 39546 -   chromium -    Spacebar causes page scroll even when plugin is focused - Project Hosting on Google Code</title>   1. playing a flash game that involves using spacebar  2. pressing spacebar         to preform the action in the game without the screen moving down       the action in the game is preformed but the screen scrolls down too    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 4408 -   chromium -    Make re-baselined layout tests go into platform directory - Project Hosting on Google Code</title> <pre> Change run_webkit_tests.py and its modules so --new-baseline doesn't take a   directory  but puts files into platform/chromium-foo automatically. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33988 -   chromium -    Video controller need graphic design work - Project Hosting on Google Code</title> <pre> The video controller for the &lt;video&gt; tag needs UX TLC.    1. Arial? :(  2. The track on the volume slider doesn't show up until the slider is moved.  3. The slider is a box.     </pre>

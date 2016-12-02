@@ -1,0 +1,1 @@
+<title>Issue 2772 -   chromium -    Problem with Java Applets - Project Hosting on Google Code</title>   1. opening an applet          The applet is not loaded..Even if it is loaded  it doesnt show up.      A new blank window is opened  displaying &quot;please wait..&quot; message and   remaining like that forever.    Please provide

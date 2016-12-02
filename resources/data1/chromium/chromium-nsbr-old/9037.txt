@@ -1,0 +1,1 @@
+<title>Issue 9037 -   chromium -    Change presentation of infobar for non-warning messages. - Project Hosting on Google Code</title> <pre> 'Saved password'  'Did you mean' and 'Always restore' are not in the same   class as plugin errors  we should try making these safer infobars less   garr-alerty. </pre>

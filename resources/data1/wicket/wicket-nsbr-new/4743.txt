@@ -1,0 +1,1 @@
+SerializingObjectSizeOfStrategy do not use framework serializer    Currently default implementation of SerializingObjectSizeOfStrategy do not use FrameworkSettings  thus it causes a ObjectNotSerializableException if serializer have custom behaviours.   

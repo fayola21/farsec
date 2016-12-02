@@ -1,0 +1,1 @@
+<title>Issue 42339 -   chromium -    Tabs on mac need to use pinned state in context menu - Project Hosting on Google Code</title> <pre> The context menu code for tabs on the mac is using the mini state when it   should be using the pinned state. </pre>

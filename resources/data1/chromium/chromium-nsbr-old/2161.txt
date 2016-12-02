@@ -1,0 +1,1 @@
+<title>Issue 2161 -   chromium -    JavaScript regular expression fails to match date - Project Hosting on Google Code</title>   1. Select a From Date which is less than To Date.  2. Click Go      Should have accepted the dates and displayed the exchange rates.      Shows error message &quot;From Date cannot be greater than To Date&quot;    Please provide

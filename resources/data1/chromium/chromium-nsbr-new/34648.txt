@@ -1,0 +1,1 @@
+<title>Issue 34648 -   chromium -    Bookmarks' Bug - Project Hosting on Google Code</title>   1.Click in the Bookmarks star  2.Choose another folder to save the bookmark  3.When the folder is selected Chrome crashes        Save the bookmark in the selected folder without crashes        Chrome crashes    <b>Please provide

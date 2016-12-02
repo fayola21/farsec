@@ -1,0 +1,1 @@
+<title>Issue 2114 -   chromium -    Middle-click  on laptop  scrolls instead of open new tap when pressed on link. - Project Hosting on Google Code</title>   1. Middle-click  which is done by clicking both left and right mouse button  on laptop  doesnt open new tab when clicking on a link        Open new tab      It scrolls    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2956 -   chromium -    Merge base/sys_info.h and base/cpu.h - Project Hosting on Google Code</title> <pre> This is code hygiene.    We could combine cpu and sys_info into a single class.   </pre>

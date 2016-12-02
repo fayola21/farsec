@@ -1,0 +1,1 @@
+<title>Issue 16530 -   chromium -    some of javascript feature doesn't work in chrome - Project Hosting on Google Code</title>   1. javascript window.location doesn't work.  2. html upload file not work        nothing happend          <b>Please provide

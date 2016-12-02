@@ -1,0 +1,1 @@
+<title>Issue 32487 -   chromium -    CPU Usage - Project Hosting on Google Code</title>   1. Not a clue  problem seemed to be elicited with Ctrl + F        Sensible cpu usage        Rather large cpu (and perhaps memory useage)    <b>Please provide

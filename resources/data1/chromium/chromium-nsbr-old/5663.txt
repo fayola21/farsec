@@ -1,0 +1,1 @@
+<title>Issue 5663 -   chromium -    AccessKey don't work - Project Hosting on Google Code</title>   Push any accessKeys  for example Alt-E.      For example  pushing Alt-E will enter edit mode of an article.      AccessKeys don't work.    Please provide

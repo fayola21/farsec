@@ -1,0 +1,1 @@
+<title>Issue 38085 -   chromium -    Cannot disable saved form data - Project Hosting on Google Code</title>   1. Go to a site with a form (e.g.the site in URL)  2. Perform a search  3. Double click on the search text field      Nothing is saved if remember form data is set to disable      Form data is saved regardless of what you set    Please provide

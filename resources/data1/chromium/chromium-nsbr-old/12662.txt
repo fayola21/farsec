@@ -1,0 +1,1 @@
+<title>Issue 12662 -   chromium -    [Feature Request] adding icons next to the menu items like in Internet Explorer - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.181.1&gt;               IE 7:ok           IE 8:ok            Consider adding more eye candy to the GUI  like icons next to every item in   the menu just like in internet explorer </pre>

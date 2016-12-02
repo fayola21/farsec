@@ -1,0 +1,1 @@
+<title>Issue 1457 -   chromium -    Java won't load - Project Hosting on Google Code</title> <pre> Log on to box.net and try to use the drag and drop feature which is a Java   load.  Does not work with chrome.     </pre>

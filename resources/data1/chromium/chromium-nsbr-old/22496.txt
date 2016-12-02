@@ -1,0 +1,1 @@
+<title>Issue 22496 -   chromium -    No border for HTML input-box visible  if backgroundcolor is white - Project Hosting on Google Code</title>   1. Take the normal inputbox from google.com  2. Deselect the box  so there is noch selection on it  3. Look at the border of the textbox      A default border (1px solid)      No border to see.    <b>Please provide

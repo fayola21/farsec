@@ -1,0 +1,1 @@
+<title>Issue 9338 -   chromium -    Malayalam language wiktionary doesn't render properly in a clean system - Project Hosting on Google Code</title>   1. Take a clean system.  2. Goto ml.wiktionary.org in Google Chrome.        Should render properly.      Renders only boxes.    <b>Please provide

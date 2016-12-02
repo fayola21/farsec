@@ -1,0 +1,1 @@
+Configuration mapping metadata on ambari-web should be computed as per the stack selection.       

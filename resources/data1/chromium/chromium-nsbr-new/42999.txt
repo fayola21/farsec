@@ -1,0 +1,1 @@
+<title>Issue 42999 -   chromium -    When address bar is yellow and when you resize window  buttons are missing - Project Hosting on Google Code</title>   1. Go a https page with maximized window  2. Resize window        Buttons are missing    <b>Please provide

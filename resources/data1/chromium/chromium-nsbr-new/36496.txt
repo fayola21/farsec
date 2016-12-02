@@ -1,0 +1,1 @@
+<title>Issue 36496 -   chromium -    Implement Mac Address Book &quot;me&quot; card integration with Autofill - Project Hosting on Google Code</title> <pre>   1.Use Chrome Autofill on Mac  2.Notice &quot;me&quot; card data does not get used.        Expectations are under discussion.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5659 -   chromium -    ctrl-T should be as responsive as the NewTab [+] button - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.39    Currently the [+] blue button next to the last tab is very responsive    while Ctrl-T keyboard shortcut is way very slow.    Ideally Ctrl-T should be equally responsive as the [+] button. </pre>

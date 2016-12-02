@@ -1,0 +1,1 @@
+<title>Issue 3493 -   chromium -    Incognito mode should disable suggestions for navigation errors - Project Hosting on Google Code</title> <pre>   1. Open an incognito window.   2. Type www.google.xom/ into the omnibox and hit enter    Chrome shows you a navigation error suggestion page.          show the generic error page.         </pre>

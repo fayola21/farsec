@@ -1,0 +1,1 @@
+PHP Notice: Undefined variable: manifest in /usr/share/hmc/php/puppet/genmanifest/hostsConfig.php    Undefined variable used.   

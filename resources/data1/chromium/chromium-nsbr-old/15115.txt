@@ -1,0 +1,1 @@
+<title>Issue 15115 -   chromium -    Animated .gifs dont move at all in Chromium - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.191.0 (19041)              Firefox 3.x: pass           IE 7: pass           IE 8: pass      1. View an animated .gif        it should be animated      first frame is shown as if it were a still pictures     </pre>

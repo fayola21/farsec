@@ -1,0 +1,1 @@
+<title>Issue 19576 -   chromium -    Bookmark sync makes bookmarks appear in History tab - Project Hosting on Google Code</title>   1. enable bookmark sync  2. open browser and start sync  3. while syncing all the bookmarks appear in History tab as if i have   accessed them                <b>Please provide

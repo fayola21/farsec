@@ -1,0 +1,1 @@
+<title>Issue 34573 -   chromium -    Show blocked cookie icon when cookies are blocked. - Project Hosting on Google Code</title> <pre> Show blocked cookie icon when cookies/localstorage/databases are blocked.    We probably need to do this on the IO thread upon completion of querying the   CookiePolicy so that we can associate the policy with the correct tab   contents. </pre>

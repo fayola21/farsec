@@ -1,0 +1,1 @@
+Recursively scan multipart nodes of an email for attachments - not just top level nodes    The current code will only scan the top level of a multipart message. This misses any attachments that are under another node.All unit tests still run for me after applying this patch.   

@@ -1,0 +1,1 @@
+<title>Issue 2188 -   chromium -    Rename ChromeViews namespace to views - Project Hosting on Google Code</title> <pre> In accordance to the style used elsewhere in the Chromium source  the   ChromeViews namespace should be renamed to just &quot;views&quot;. This will save us   a bunch of typing! </pre>

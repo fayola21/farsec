@@ -1,0 +1,1 @@
+<title>Issue 13232 -   chromium -    Chrome shows a media player instead of a page... for files as well as websites. - Project Hosting on Google Code</title>   1. Just open that website  or any text file      Show the page or file...      A media player!!!    <b>Please provide

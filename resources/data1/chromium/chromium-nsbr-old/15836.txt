@@ -1,0 +1,1 @@
+<title>Issue 15836 -   chromium -    dragging the only tab from one window to another crashes chrome. - Project Hosting on Google Code</title>   1. Open two windows  each with one tab.1  2. Drag the tab from window1 to window2  3. crash!                <b>Please provide

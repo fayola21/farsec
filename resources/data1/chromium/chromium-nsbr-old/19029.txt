@@ -1,0 +1,1 @@
+<title>Issue 19029 -   chromium -    Tag won't close when clicking the X on top - Project Hosting on Google Code</title>     I push the X on the top of a tag  and on some tags it doesn't do anything.      for the tag to close.      Nothing happens  in order to close the tag I need to right click and choose   &quot;close tag&quot;  which does work.    <b>Please provide

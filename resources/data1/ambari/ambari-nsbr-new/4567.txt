@@ -1,0 +1,1 @@
+Ambari should check that there is enough disk space during installation    Add a new category in 'Hosts Check' popup after registering hosts.So for '/' mountpoint  we check if the disk free space is larger than 2.0GB.And for '/usr/lib' or '/usr'  check the free space is larger than 1.0GB. Then show related warning message if any of them got space shortage.   

@@ -1,0 +1,1 @@
+<title>Issue 26000 -   chromium -    [WebGL] CanvasArrayBufs mapping into GPU plugin process [15] - Project Hosting on Google Code</title> <pre> Support mapping CanvasArrayBufs into GPU plugin process </pre>

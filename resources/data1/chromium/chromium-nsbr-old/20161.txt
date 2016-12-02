@@ -1,0 +1,1 @@
+<title>Issue 20161 -   chromium -    Keyboard doesn't work in Mac TestShell - Project Hosting on Google Code</title> <pre> Launch Mac TestShell.  Go to a page with a form field.  Try to type in it; you can't.    hbono  your IME patch immediately comes to mind as a suspect. Did you test  with TestShell? </pre>

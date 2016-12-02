@@ -1,0 +1,1 @@
+<title>Issue 13807 -   chromium -    inspect element window empty - Project Hosting on Google Code</title>   1.go to a site  2.right-click  choose Inspect Element        A window with lots of code and text      empty box.    <b>Please provide

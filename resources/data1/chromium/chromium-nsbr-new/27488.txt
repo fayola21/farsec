@@ -1,0 +1,1 @@
+<title>Issue 27488 -   chromium -    Red Squares appear all over Chrome Browser window - Project Hosting on Google Code</title>   1. Load Chrome          Buttons have proper graphic.        Red Squares near X on tabs and new tab button. Red Sqaures on all window  manipulation buttons.  <b>Please provide

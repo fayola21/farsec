@@ -1,0 +1,1 @@
+<title>Issue 28641 -   chromium -    about:FOO pages are not 'flipped' for Hebrew/Arabic  - Project Hosting on Google Code</title> <pre> For instance  about:plugins are not given 'rtl' direction.     Perhaps  other than about:plugins  it's not that critical.     I just made a patch for about:plugins.      </pre>

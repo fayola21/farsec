@@ -1,0 +1,1 @@
+<title>Issue 39421 -   chromium -    Little vertical strip on right title - Project Hosting on Google Code</title>   1. Open in Windows 7          N/A      There is something  as shown in the screenshot.    <b>Please provide

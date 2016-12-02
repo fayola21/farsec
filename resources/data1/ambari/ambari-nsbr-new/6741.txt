@@ -1,0 +1,1 @@
+On HDFS config page edit boxes with memory size values have incorrect behavior.    Go to HDFS config page.Change Name Node java heap size.Save configs.'Successful' message appears  but on config page edit boxes have wrong values.After clicking 'OK' fields get right value again.Same issue reproduced on Nano but it looks like there it fails to save configs.   

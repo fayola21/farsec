@@ -1,0 +1,1 @@
+<title>Issue 277 -   chromium -    Quick Scroll Button does not work - Project Hosting on Google Code</title>   1. Start Chrome  2. Try to scroll with &quot;quick scroll&quot; button      Document should scroll      The browser emits an alert beep.    Please provide

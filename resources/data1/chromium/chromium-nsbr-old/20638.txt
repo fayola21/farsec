@@ -1,0 +1,1 @@
+<title>Issue 20638 -   chromium -    video not working with --enable-plugin - Project Hosting on Google Code</title>   1. open terminal -&gt; chromium-browser --enable-plugins  2. go to youtibe or any flash site  3. try playing any video        video should be seen        blank white space is seen    <b>Please provide

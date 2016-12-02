@@ -1,0 +1,1 @@
+<title>Issue 27710 -   chromium -    Dramatic increase in page crashes. - Project Hosting on Google Code</title>   1. Open a webpage (occurs often in Google Reader)  2. Click a link or open a page      Page loads completely as normal.      Randomly  some pages cause multiple tabs to crash  or even the entire   browser to crash entirely.    <b>Please provide

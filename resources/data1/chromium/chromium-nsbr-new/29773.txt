@@ -1,0 +1,1 @@
+<title>Issue 29773 -   chromium -    Implement Buckets - Project Hosting on Google Code</title> <pre> Buckets are a way for command buffers to shuttle memory across the command   buffer that is larger than the current transfer buffer.  This is needed for   100% compliant GLES2 emulation.   </pre>

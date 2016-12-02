@@ -1,0 +1,1 @@
+<title>Issue 39283 -   chromium -    in PCLinuxOS: fails to initialize - Project Hosting on Google Code</title>   1. attempt to run chromium-browser. FAILS          :-) It should start        Fails. Console attached below.      <b>Please provide

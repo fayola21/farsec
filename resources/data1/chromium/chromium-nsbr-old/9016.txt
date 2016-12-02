@@ -1,0 +1,1 @@
+<title>Issue 9016 -   chromium -    Bookmarks should behave as menus on downward drag - Project Hosting on Google Code</title> <pre> We should try the behavior of &quot;downward drag after mouse-down&quot; causing   bookmark bar folders to open  rather than drag. Other products have tried   this successfully. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44157 -   chromium -    Bookmarks bar color does not match toolbar color in window restored mode - Project Hosting on Google Code</title>   1. restore windows          toolbar color and bookmark bar color should match as shown in maximize   windows      toolbar color/bookmar bar not match    <b>Please provide

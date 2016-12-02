@@ -1,0 +1,1 @@
+<title>Issue 21017 -   chromium -    undo doesn't work on the url bar - Project Hosting on Google Code</title> <pre>   1.load a site  2.focus the url bar  3.paste  4. hit cmd-z        the url bar should revert to the page you are on  instead undo is disabled. </pre>

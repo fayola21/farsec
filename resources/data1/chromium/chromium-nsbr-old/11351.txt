@@ -1,0 +1,1 @@
+<title>Issue 11351 -   chromium -    [regression] omnibox one pixel too short - Project Hosting on Google Code</title> <pre> My omnibox now doesn't line up with the buttons to the sides.    My best guess is this is from estade's tweak of the toolbar height. </pre>

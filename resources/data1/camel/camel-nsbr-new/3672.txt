@@ -1,0 +1,1 @@
+Make it easier to derive from the Camel model    In order to facilitate the building of derivations of Camel  some methods in builder and model need to use accessors for member variables  and types to allow for sub types   

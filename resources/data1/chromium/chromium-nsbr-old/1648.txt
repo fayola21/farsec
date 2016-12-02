@@ -1,0 +1,1 @@
+<title>Issue 1648 -   chromium -    Chrome cannot open or save as MHT pages - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29 (1798)                When saving a complete page to disk it should save it in only one file like   IE7 does with its .mht files. Saving to a file and a folder is not very   usable and convinient.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20957 -   chromium -    Themes are sometimes corrupted when installing multiple themes quickly - Project Hosting on Google Code</title> <pre> Install several themes quickly  one after the other.  Close browser.  Reopen   and note that toolbar from one theme is mixed with images from another. </pre>

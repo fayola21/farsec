@@ -1,0 +1,1 @@
+<title>Issue 14638 -   chromium -    new tab renderering odd - Project Hosting on Google Code</title> <pre> just started showing up for me on ToT  see attached screenshot.    xmonad  <a href="/p/chromium/source/detail?r=18763">r18763</a> </pre>

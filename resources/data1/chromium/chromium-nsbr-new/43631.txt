@@ -1,0 +1,1 @@
+<title>Issue 43631 -   chromium -    Compile WebKit with flag which enables the 3D CSS property codepath - Project Hosting on Google Code</title> <pre> Some of the webkit code that's responsible for 3D CSS properties is behind   the ENABLE_3D_RENDERING flag. We need to add a define for it at compile time    probably activated whenever ACCELERATED_COMPOSITING is on too.     </pre>

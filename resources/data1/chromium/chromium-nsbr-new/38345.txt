@@ -1,0 +1,1 @@
+<title>Issue 38345 -   chromium -    OSX can still enter raw TAB and LF into omnibox. - Project Hosting on Google Code</title> <pre>   1. Type &quot;google&quot; into omnibox.  2. Type Ctrl-Alt-Enter (or Tab).        Expect it to just bounce those characters  as they cannot be legitimate URL characters.    Additionally can use Ctrl-Q Enter/TAB to accomplish the same thing. </pre>

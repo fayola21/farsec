@@ -1,0 +1,1 @@
+<title>Issue 40993 -   chromium -    Time in History is off by one hour - Project Hosting on Google Code</title> <pre> On Linux  I visited google.com at 15:00  and then immediately pressed   ctrl+h  and it shows 14:00. Disabling the sandbox didn't help.    This is with 64-bit 5.0.371.0. 5.0.366.2 has the same problem. Windows   5.0.371.0 works fine. </pre>

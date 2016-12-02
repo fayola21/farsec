@@ -1,0 +1,1 @@
+<title>Issue 4968 -   chromium -    CRASH: when you close the browser quickly before it starts loading the page - Project Hosting on Google Code</title>   1. Create an app shortcut  say for gmail.com.  2. Start the app.  3. Before the page loads  quickly close the app window.              The master process crashes.    Please provide

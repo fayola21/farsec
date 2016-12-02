@@ -1,0 +1,1 @@
+<title>Issue 25315 -   chromium -    Proper Multi-channel audio support in Windows. - Project Hosting on Google Code</title> <pre> The waveout implementation currently cannot handle anything other than 2-  channel audio.    Being able to support outputting to a multi-channel capable sound card is a   nice to have. </pre>

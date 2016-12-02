@@ -1,0 +1,1 @@
+<title>Issue 15865 -   chromium -    Tabs are 1px too high - Project Hosting on Google Code</title> <pre> Glen says:  &quot;you can see a pixel error where the foreground tab meets the toolbar  and a   blue gap under the background tab (the images are meant to overlap the   toolbar slightly  to cover the highlighted top edge of the toolbar).&quot;   </pre>

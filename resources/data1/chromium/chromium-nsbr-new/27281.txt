@@ -1,0 +1,1 @@
+<title>Issue 27281 -   chromium -    BugReportUtil::SendReport needs an enum for problem_type - Project Hosting on Google Code</title> <pre> There is an enum in a windows .cc file for problem_type  that should move to   the header so all platform can share it and we get the save values on all   platforms. </pre>

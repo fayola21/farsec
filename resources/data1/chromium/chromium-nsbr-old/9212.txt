@@ -1,0 +1,1 @@
+<title>Issue 9212 -   chromium -    Google Siites Text Box problem - Project Hosting on Google Code</title> <pre> Trying to add a text box in the home page of google sites    No Save button    Attached a screenshot      ALSO - you tube video takes up too much space. How to I make the box  smaller - no code ability available? </pre>

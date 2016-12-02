@@ -1,0 +1,1 @@
+<title>Issue 16723 -   chromium -    Old  unused files are left inside the disk cache folder - Project Hosting on Google Code</title> <pre> If the OS refuses to delete files that are removed from the disk cache we   just move on.    The result is that the old files are left there forever  using disk space   that is not accounted for. </pre>

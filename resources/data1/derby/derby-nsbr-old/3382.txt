@@ -1,0 +1,1 @@
+Replication: Slave must inform master if DBs are out of sync.    If I copy the database to the slave before booting the master  slave will be out of sync with the master since new log records are created during booting. The slave will then stop replication  but the master will not be notified.If I then try to stop or failover the master the master will hang.   

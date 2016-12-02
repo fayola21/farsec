@@ -1,0 +1,1 @@
+cxfbean should  propagate CONTENT_TYPE for other camel component to use    There is no 'content-type' header return from the below route &lt;route&gt; &lt;from uri='jetty:http://localhost:9006/employeesBase?matchOnUriPrefix=true'/&gt; &lt;to uri='cxfbean:EmployeesPOJO'/&gt; &lt;/route&gt;   

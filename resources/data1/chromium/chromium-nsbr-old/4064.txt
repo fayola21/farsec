@@ -1,0 +1,1 @@
+<title>Issue 4064 -   chromium -    beforeunload/unload handlers don't fire when closing tab/window - Project Hosting on Google Code</title> <pre> Don't know when this regressed. Just noticed it today. </pre>

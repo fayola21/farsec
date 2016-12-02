@@ -1,0 +1,1 @@
+<title>Issue 8316 -   chromium -    All keyboard shortcuts broken  while keyboard focus is in content area !! - Project Hosting on Google Code</title> <pre> Build: 2.0.168.0 (Developer Build 10796)    All keyboard shortcuts are broken  If focus is in content area.    Works fine  if the focus is in Omnibox.     </pre>

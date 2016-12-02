@@ -1,0 +1,1 @@
+<title>Issue 33915 -   chromium -    use of chrome during copying - Project Hosting on Google Code</title>   1.download any file.  2.pick it by mouse ad pick it to folder      copping this file from downloads to other folder        until file dosnt copy you cant use chrome  <b>Please provide

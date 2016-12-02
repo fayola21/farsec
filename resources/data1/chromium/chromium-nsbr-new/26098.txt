@@ -1,0 +1,1 @@
+<title>Issue 26098 -   chromium -    GLES2.0 emu library that hides shared memory issues from the user - Project Hosting on Google Code</title> <pre> Part of GL-based command buffers:    *) Write GLES2.0 emu library that hides shared memory issues from the user.   so for example the user can call glTexSubImage2D and not have to have his   pixels in shared memory.   </pre>

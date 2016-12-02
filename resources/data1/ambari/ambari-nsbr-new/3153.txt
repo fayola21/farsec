@@ -1,0 +1,1 @@
+Secure cluster: Yarn service check fails after configuring yarn for spnego authentication.    Yarn smoke test uses REST api exposed by ResourceManager to get its status. After configuring web authentication yarn client that is assigned yarn service check needs to negotiate 401 HTTP authentication response received while using REST api.   

@@ -1,0 +1,1 @@
+<title>Issue 12606 -   chromium -    Buttons do not show up - Project Hosting on Google Code</title>   1. Install the latest version of Wordpress  2. Visit the Administration area  3. Add a post and select the &quot;HTML tab&quot;        See text within the buttons.        No text appears in the buttons.    <b>Please provide

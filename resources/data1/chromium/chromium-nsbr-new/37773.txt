@@ -1,0 +1,1 @@
+<title>Issue 37773 -   chromium -    Ebay selling form not supported - Project Hosting on Google Code</title>   1. Go to My Ebay  2. Sell an item        Selling form should work      Selling form doesnt work. Revising an item doesnt present lots of the   options that are visible in Firefox.    <b>Please provide

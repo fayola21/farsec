@@ -1,0 +1,1 @@
+<title>Issue 13876 -   chromium -    Chrome Crash  (Windows XP) - Project Hosting on Google Code</title>   1.  Click on the Wrench that says customize and control Google Chrome  2.  Click about or Options.  Woah Google Chrome Crashed.  Restart Now   appears.                <b>Please provide

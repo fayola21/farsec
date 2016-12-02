@@ -1,0 +1,1 @@
+<title>Issue 4485 -   chromium -    tabs gets messed up when switching themes when running TotalMedia Theatre - Project Hosting on Google Code</title>   1. run TotalMedia Theatre while having Google Chrome Running and tabs with   be messed up      tabs should be as on aero      gets messed up    Please provide

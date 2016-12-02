@@ -1,0 +1,1 @@
+<title>Issue 45906 -   chromium -    Chrome crashes when trying to install extension - Project Hosting on Google Code</title>   1. Start Chrome  2. Try to install extension  3. Wait a while  it crashes      Extension gets installed      Chrome crashes    <b>Please provide

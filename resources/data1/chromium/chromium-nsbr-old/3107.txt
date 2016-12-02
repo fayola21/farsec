@@ -1,0 +1,1 @@
+<title>Issue 3107 -   chromium -    gcl should remember the last username typed	 - Project Hosting on Google Code</title> <pre> Logging in every time is a pain.  gcl should suggest the last email you   typed when it asks to log in.    The relevant function is GetUserCredentials in gcl.     </pre>

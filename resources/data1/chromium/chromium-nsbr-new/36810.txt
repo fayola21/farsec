@@ -1,0 +1,1 @@
+<title>Issue 36810 -   chromium -    WebKit Style Tag Remote Memory Corruption Vulnerability - Project Hosting on Google Code</title> <pre> Saw this in #WebKit today.  Wanted to make sure you knew it existed:   <a href="http://www.securityfocus.com/bid/38398/info">http://www.securityfocus.com/bid/38398/info</a> </pre>

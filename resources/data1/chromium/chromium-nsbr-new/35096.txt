@@ -1,0 +1,1 @@
+<title>Issue 35096 -   chromium -    Handle popup no title case better - Project Hosting on Google Code</title> <pre> The popup blocked bubble contents show blank lines for popups that don't have   a title (dunno why  they should show a URL). </pre>

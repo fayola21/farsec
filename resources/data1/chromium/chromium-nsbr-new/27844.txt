@@ -1,0 +1,1 @@
+<title>Issue 27844 -   chromium -    command-arrows in text field adds boxes - Project Hosting on Google Code</title> <pre> - find a text field and focus it (google.com works)  - press command-left arrow    expected:  - cursor moves to end    actual:  - a box gets inserted into the text (��_��_��_)    This makes dev builds pretty darn unusable for anything real. </pre>

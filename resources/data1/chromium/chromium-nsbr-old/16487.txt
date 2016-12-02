@@ -1,0 +1,1 @@
+<title>Issue 16487 -   chromium -    Show UI for storing passwords - Project Hosting on Google Code</title> <pre> We need to implement the info bar that asks users if they want to store   passwords (or blacklist password storage) for a site. I'm not clear yet on   whether this will be free once info bars work in general  or if each one needs   to be implemented. </pre>

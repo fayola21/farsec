@@ -1,0 +1,1 @@
+<title>Issue 16427 -   chromium -    Cannot step into getters - Project Hosting on Google Code</title> <pre>   1. Open the attached document  2. Set a breakpoint in onClick function  3. Click in the document  4. Try step in c.x getter      Step over happens instead of step in.   </pre>

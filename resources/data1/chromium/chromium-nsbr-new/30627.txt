@@ -1,0 +1,1 @@
+<title>Issue 30627 -   chromium -    Uninstall dialog refers to Chrome - Project Hosting on Google Code</title> <pre> If you uninstall Google Chrome and there is still a process running  the   message says &quot;Please close all Chrome windows and try again.&quot;    It should say &quot;Please close all Google Chrome windows and try again.&quot; </pre>

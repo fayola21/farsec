@@ -1,0 +1,1 @@
+Spring-WS producer doesn't propagate headers    The Spring-WS producer only sets the body of the exchange  headers aren't propagated.See Nabble: http://camel.465427.n5.nabble.com/spring-ws-component-not-propagating-in-headers-to-out-message-td4393731.html   

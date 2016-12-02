@@ -1,0 +1,1 @@
+<title>Issue 13318 -   chromium -    star next to address bar isn't draggable - Project Hosting on Google Code</title> <pre> On 3.0.182.5 (Developer Build)  dragging the star next to the address bar  is a noop. On Windows  it's the equivalent of dragging the favicon in other  browsers. </pre>

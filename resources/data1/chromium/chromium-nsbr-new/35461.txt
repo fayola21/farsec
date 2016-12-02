@@ -1,0 +1,1 @@
+<title>Issue 35461 -   chromium -    gtk cookies tree view unresponsive as long as content filter dialog is open - Project Hosting on Google Code</title> <pre>   1. open the content filter dialog  2. select show cookies        the cookies view is unresponsive as long as the content filter dialog is open. if   you close it  it becomes responsive.     </pre>

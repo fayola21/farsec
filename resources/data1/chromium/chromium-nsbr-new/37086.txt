@@ -1,0 +1,1 @@
+<title>Issue 37086 -   chromium -    menu doesn't display properly - Project Hosting on Google Code</title>   1. go to <a href="http://www.bioline.com">http://www.bioline.com</a>          have a look using IE. menu should be at the top of the page      menu on the left hand of the page in single line    <b>Please provide

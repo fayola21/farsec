@@ -1,0 +1,1 @@
+<title>Issue 16681 -   chromium -    there's no icon for plugin crash alert infobar - Project Hosting on Google Code</title> <pre> maybe we can have a sad jigsaw or something </pre>

@@ -1,0 +1,1 @@
+JMS - Sending a message with jmsTemplate102=true fails    See nabble:http://www.nabble.com/Apache-Camel-2.0-M1-java.lang.ClassCastException%3A-org.apache.camel.component.jms.JmsConfiguration%24CamelJmsTeemplate102-td22665483s22882.htmlThe ClassCastException is because of the old JMS API is used.Camel should test whether the template is 1.1 or 1.0.2 and cast to correct type.   

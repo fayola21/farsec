@@ -1,0 +1,1 @@
+camel-smpp should unbind from SMSC before disconnecting    See Nabble   

@@ -1,0 +1,1 @@
+<title>Issue 34879 -   chromium -    IME stop working on Google Wave - Project Hosting on Google Code</title>   1. Enable IME and type text in a wave(Google Wave).          IME works.      Sometimes  IME stop working.  It looks like IME does take the input.  But characters won't appear.    <b>Please provide

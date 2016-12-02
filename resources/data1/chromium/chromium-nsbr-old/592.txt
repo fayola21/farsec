@@ -1,0 +1,1 @@
+<title>Issue 592 -   chromium -    Tab order policy to be defined from settings - Project Hosting on Google Code</title>   1. Middle click a link to open a new tab  2. Tab opens between other tabs  according to site location (link)        Open tab in the end of the tab list (optional)      I don't want it to be there.    Please provide

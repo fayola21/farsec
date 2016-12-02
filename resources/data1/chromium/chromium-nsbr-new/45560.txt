@@ -1,0 +1,1 @@
+<title>Issue 45560 -   chromium -    Unable to debug while using silverlight 4 and Visual studio .net 2010 - Project Hosting on Google Code</title>   1. Get express 2010 visual studio and write a silverlight app.  2. Set some breakpoints.  3. Run app no breakpoints will get hit.      Break points get hit      No break points get his    <b>Please provide

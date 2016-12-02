@@ -1,0 +1,1 @@
+<title>Issue 35243 -   chromium -    Hiding browser action icons like in SysTray - Project Hosting on Google Code</title> <pre> Would be great to hide some unused browser action icons and be able to show  them by clicking on some arrow button thing (like in SysTray in Windows).  Changes in badges of hidden icons would visible by the arrow or something. </pre>

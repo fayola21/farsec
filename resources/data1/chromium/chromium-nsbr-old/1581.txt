@@ -1,0 +1,1 @@
+<title>Issue 1581 -   chromium -    &quot;t&quot; is not allowed in password field in www.hsbc.ae - Project Hosting on Google Code</title>   1. go to www.hsbc.ae  2. click on logon. enter user name. continue  3. in password field try to enter letter &quot;t&quot;.                Please provide

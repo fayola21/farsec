@@ -1,0 +1,1 @@
+BeanConveter didn't try to covert the bean invocation argument rightly    Here is the mail thread about it.http://camel.465427.n5.nabble.com/Bug-in-the-BeanConverter-class-td2653552.html#a2653552   

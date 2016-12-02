@@ -1,0 +1,1 @@
+<title>Issue 21180 -   chromium -    the dialog for choose file when upload a file cannot remember the path - Project Hosting on Google Code</title>             when I choose a file to upload the next time I want to choose a file should   show the path I choose last time          <b>Please provide

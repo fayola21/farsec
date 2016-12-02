@@ -1,0 +1,1 @@
+<title>Issue 12877 -   chromium -    Add dockable sidebar support in Chromium - Project Hosting on Google Code</title> <pre> I'd like to see a dockable sidebar supported in Chromium and the extensions   API. This could be used for existing systems like bookmarks as well as by   extension developers. </pre>

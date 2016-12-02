@@ -1,0 +1,1 @@
+<title>Issue 24961 -   chromium -    clientXY-in-zoom-and-scroll.html failing as of 49597:49640 merge - Project Hosting on Google Code</title> <pre> LayoutTests/fast/events/clientXY-in-zoom-and-scroll.html    Test fails on all platforms </pre>

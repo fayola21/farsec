@@ -1,0 +1,1 @@
+Dashboard page has a lot of footer padding    This ticket solved:1. Dashboard page has padding space under footer.2. When a widget got deleted  the page scroll to top.(page should stay in place)   

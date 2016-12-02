@@ -1,0 +1,1 @@
+<title>Issue 12291 -   chromium -    Implement or remove SelectedTabToolbarSizeChanged - Project Hosting on Google Code</title> <pre> We have  void BrowserWindowGtk::SelectedTabToolbarSizeChanged(bool is_animating)    On Windows it's used to do a fast path resize when is_animating is true.  We probably want to do something similar  but it's only an optimization. </pre>

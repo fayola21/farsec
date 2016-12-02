@@ -1,0 +1,1 @@
+<title>Issue 33400 -   chromium -    Chrome Fails to Initialize - Project Hosting on Google Code</title>   1.  Just launching Chrome gives me a popup that says the application   failed to initialize properly (0xc0000005).          It should launch and load default home page.        Does not finish loading and popup error message shows up instead.      <b>Please provide

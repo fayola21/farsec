@@ -1,0 +1,1 @@
+Add clover code coverage profile    mvn test -Pclover -Dclover.license=&lt;clover.coverage.license&gt; should run the unit tests and return html/xml code coverage reports   

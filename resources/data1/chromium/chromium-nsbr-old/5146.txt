@@ -1,0 +1,1 @@
+<title>Issue 5146 -   chromium -    Chrome minimize/maximize/close buttons not working in remote desktop - Project Hosting on Google Code</title>   1. Remote Desktop (from XP to Vista if that matters)  2. Open Chrome on remote computer (Vista)        minimize  maximize  or close      no response    Please provide

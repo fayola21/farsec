@@ -1,0 +1,1 @@
+<title>Issue 38750 -   chromium -    Font rendering in inspector - Project Hosting on Google Code</title>   1. Open webkit inspector at any page                    <b>Please provide

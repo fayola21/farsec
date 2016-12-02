@@ -1,0 +1,1 @@
+<title>Issue 45061 -   chromium -    Alternate dev build has same taskbar button on Win7 - Project Hosting on Google Code</title> <pre>   On Win7  1. Launch alternate build  2. Launch regular build      expect separate icons for both builds  actually see one Chrome icon for both (assumedly since   they're both chrome.exe)       </pre>

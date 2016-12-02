@@ -1,0 +1,1 @@
+<title>Issue 22368 -   chromium -    Crash while loading thumbnails - Project Hosting on Google Code</title>   1. Use the attached user profile  2. Start Chrome        see the new tab page      Crash...      <b>Please provide

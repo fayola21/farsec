@@ -1,0 +1,1 @@
+<title>Issue 27772 -   chromium -    drag and drop files from FTP - Project Hosting on Google Code</title> <pre>   1.  Load an ftp site  2.  drag a file from the ftp listing to the desktop      The file should download to the desktop like in IE.  Instead  it creates a shortcut on the desktop.    Some of the downloadURL HTML5 stuff should make this easier. </pre>

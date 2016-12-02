@@ -1,0 +1,1 @@
+<title>Issue 14958 -   chromium -    Implement the edit thumbnail dialog for the New New Tab Page - Project Hosting on Google Code</title> <pre> Clicking edit for a thumbnail on the NNTP should bring up a dialog that looks   much like the &quot;Edit bookmark&quot; dialog for the bookmarks manager. </pre>

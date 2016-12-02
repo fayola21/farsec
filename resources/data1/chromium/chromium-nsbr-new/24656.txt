@@ -1,0 +1,1 @@
+<title>Issue 24656 -   chromium -    adjust perf expectations monitor from using delta +/- var to high/low markers - Project Hosting on Google Code</title> <pre> The current perf regression monitor uses delta +/- 1.5(var) to calculate   high/low markers.  Move the monitor to use high/low markers directly. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 45881 -   chromium -    Allow Chrome Apps to enable NaCl - Project Hosting on Google Code</title> <pre> At installation  Chrome Apps need to be able to specify that they use NaCl and enable it for their   URLs. </pre>

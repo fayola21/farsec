@@ -1,0 +1,1 @@
+<title>Issue 16423 -   chromium -    Cannnot copy any text to clipboard in inspector window - Project Hosting on Google Code</title>   1. Open any page  2. Open component inspector  3. Try to copy any text in inspector window      I can copy the text to clipboard so I can paste it other place.      I cannot select any text in inspector window.    <b>Please provide

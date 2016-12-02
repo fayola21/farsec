@@ -1,0 +1,1 @@
+<title>Issue 16827 -   chromium -    Drop field does not work in Chrome but does in Firefox 3.0? - Project Hosting on Google Code</title>   1.Go to the site (URL above) and click Select Region field.          A data list should appear      Nothing. It is a broken field.    <b>Please provide

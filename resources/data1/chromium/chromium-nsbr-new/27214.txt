@@ -1,0 +1,1 @@
+<title>Issue 27214 -   chromium -    overlay seems to be stretched strangely on Mac - Project Hosting on Google Code</title> <pre>   1.Install Glossy Blue theme on Mac.  2.Look at upper left hand corner  and compare to Windows version (see   attached file).    Corner image is weirdly elongated instead of nice and cornery. </pre>

@@ -1,0 +1,1 @@
+Default add host sequence triggers many unseen before cluster-wide operations    I've added 1 host through the add host wizardon deploy step all hosts were present. and install operations were performed on all of them.   

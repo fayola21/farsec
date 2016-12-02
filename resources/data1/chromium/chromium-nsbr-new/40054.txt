@@ -1,0 +1,1 @@
+<title>Issue 40054 -   chromium -    sync notifications is broken for non-gmail accounts - Project Hosting on Google Code</title> <pre>   1. Log into sync with a non-gmail account (e.g.  foo@google.com)  2. check about:sync        'Notifications Enabled:' should be true  but it's false.   </pre>

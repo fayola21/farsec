@@ -1,0 +1,1 @@
+<title>Issue 2558 -   chromium -    Videos don't play - Project Hosting on Google Code</title>   1. Access YouTube and try and play a video.          It will play.      It doesn't play      Please provide

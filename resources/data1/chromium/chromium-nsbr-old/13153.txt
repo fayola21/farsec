@@ -1,0 +1,1 @@
+<title>Issue 13153 -   chromium -    Bookmark import is not implemented - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  Importing bookmarks from other browsers is not implemented. </pre>

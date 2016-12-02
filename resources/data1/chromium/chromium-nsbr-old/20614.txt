@@ -1,0 +1,1 @@
+<title>Issue 20614 -   chromium -    One Box Suggestions - Project Hosting on Google Code</title> <pre> I'm using the latest beta and I still don't get suggestion in the One Box. </pre>

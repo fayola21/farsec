@@ -1,0 +1,1 @@
+<title>Issue 41266 -   chromium -    Google Talk Plugin Doesn't Function Properly - Project Hosting on Google Code</title>   1.Using Gmail chat          Google Talk Plugin working properly.      The other person can hear me and see me. I can hear them but can't see   either myself or them.    <b>Please provide

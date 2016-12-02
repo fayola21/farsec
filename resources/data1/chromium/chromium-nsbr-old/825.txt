@@ -1,0 +1,1 @@
+<title>Issue 825 -   chromium -    SVG failing to draw a line with massive y coordinate - Project Hosting on Google Code</title>   1. Open attached svg file (graph plotting sin  cos and tan)      Expect to see 3 lines plotted on the graph  red=sin  green=cosine  blue=tangent      The blue tangent line is missing.    Please provide

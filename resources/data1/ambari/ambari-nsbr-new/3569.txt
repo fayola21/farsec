@@ -1,0 +1,1 @@
+'Config' step refresh    Go to Config Step on the addServiceWizard.Refresh page.Got JS error  because selected services where not saved.Expect: get page with config list for selected services.   

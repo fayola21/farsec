@@ -1,0 +1,1 @@
+<title>Issue 26080 -   chromium -    Blurry text in gmail compose window - Project Hosting on Google Code</title> <pre> See attached.   4.0.227.0 (30190)    Brett indicated he might know what caused this.    I don't know if this affects other platforms. </pre>

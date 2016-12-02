@@ -1,0 +1,1 @@
+<title>Issue 35009 -   chromium -    Clear browsing throbber overlaps flash link - Project Hosting on Google Code</title> <pre>   1. Bring up clear browsing data.  2. Click the clear button.  3. Notice the throbber overlaps the text             </pre>

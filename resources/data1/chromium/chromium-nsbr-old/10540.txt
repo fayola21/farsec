@@ -1,0 +1,1 @@
+<title>Issue 10540 -   chromium -    SSL tooltip isn't correctly rendered (the padlock icon  in the omnibox) - Project Hosting on Google Code</title>   1. Go to GMail  2. Hover over the padlock icon in the omnibox  3. Observe the oddly rendered tooltip      A nicely formatted tooltip?      It's rendered awkwardly.    <b>Please provide

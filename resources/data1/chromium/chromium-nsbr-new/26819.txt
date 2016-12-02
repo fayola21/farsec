@@ -1,0 +1,1 @@
+<title>Issue 26819 -   chromium -    Chromium installs silently  if launched from Google Chrome - Project Hosting on Google Code</title> <pre> ToT (r 31095)    -Chromium is installing silently.   -FRUI shows up only launching.    Hunting for the regression.    Repros on XP/Win7 too. </pre>

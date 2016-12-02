@@ -1,0 +1,1 @@
+<title>Issue 1443 -   chromium -    Not asking for confirmation while closing main browser - Project Hosting on Google Code</title>   1. when user closes the main browser by mistake it is not asking for   confirmation to close all tabs. may be user intension is to close one tag.   This validation is there in Firefox.                    Please provide

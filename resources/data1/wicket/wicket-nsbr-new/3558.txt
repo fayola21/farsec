@@ -1,0 +1,1 @@
+Expose active requests via JMX    It'd be nice if RequestLogger.active was exposed via JMX in the same manner the RequestLogger.liveSessions.size() is. Moreover it'd be great to track and expose the peak number of concurrent (active) requests.   

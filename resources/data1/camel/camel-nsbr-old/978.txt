@@ -1,0 +1,1 @@
+camel-mail - type converter to InputStream    camel-mail need a type converter to InputStream Currently we have type converters to StringSee nabble:http://www.nabble.com/Process-Mail-Attachment-InvalidPayloadException-Camel-1.4.0-td19937573s22882.html   

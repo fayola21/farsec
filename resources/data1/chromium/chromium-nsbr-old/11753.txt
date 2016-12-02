@@ -1,0 +1,1 @@
+<title>Issue 11753 -   chromium -    Crash on opening a second tab when Chrome is in maximized mode - Project Hosting on Google Code</title> <pre> * Launch Chrome(Make sure you have only one tab)  * If not in maximized mode  maximize and open a new tab    Crash!!!    Happening with Chromium-<a href="/p/chromium/source/detail?r=15751">r15751</a> </pre>

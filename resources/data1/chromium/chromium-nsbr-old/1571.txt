@@ -1,0 +1,1 @@
+<title>Issue 1571 -   chromium -    about panel &quot;a new version of Google Chrome is available&quot; is partly covered by the &quot;Update Now&quot; button - Project Hosting on Google Code</title> <pre>   1. wait for a new update to be available  2. open about chrome panel  3. note that the text overlaps the button       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 42934 -   chromium -    Bookmark icons and text are cropped - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.9 (Developer Build 43360) Ubuntu      1. Open Chromium  2. Notice how the bookmark bar looks like </pre>

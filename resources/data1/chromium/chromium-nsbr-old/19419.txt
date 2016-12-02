@@ -1,0 +1,1 @@
+<title>Issue 19419 -   chromium -    Ctrl+backspace does not parse words beginning with underscores correctly - Project Hosting on Google Code</title> <pre>   1. In a text field  type &quot;foo bar _baz&quot;  2. Press ctrl+backspace      Expected: &quot;foo bar&quot;  Actual: &quot;foo&quot;    Also affects ctrl+left arrow. Doesn't happen in omnibox -- just text fields. </pre>

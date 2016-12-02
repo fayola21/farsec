@@ -1,0 +1,1 @@
+<title>Issue 27036 -   chromium -    chrome is using pre-release icon - Project Hosting on Google Code</title>   1. Start Chrome        Taskbar icon is multi-colored 3D circle.        Taskbar icon is blue-and-white 2D disk.    <b>Please provide

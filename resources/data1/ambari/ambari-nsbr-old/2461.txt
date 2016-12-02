@@ -1,0 +1,1 @@
+Add unit tests for bootstrap and setupAgent python scripts for the server.    Add unit tests for bootstrap and setupAgent python scripts for the server.We need to find gaps on the bootstrap and setupagent script and add unit tests for them.   

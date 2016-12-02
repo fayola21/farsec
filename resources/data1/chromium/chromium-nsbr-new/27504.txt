@@ -1,0 +1,1 @@
+<title>Issue 27504 -   chromium -    Combobox and autocompletion list text invisible - Project Hosting on Google Code</title>   1. Go to any page with a combobox (autocompletion show this bug too)  2. Click on combobox to open it  3. List appear with enough space for all elements but without text      Text should be visible      Text is invisible    <b>Please provide

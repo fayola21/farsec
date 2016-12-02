@@ -1,0 +1,1 @@
+<title>Issue 19856 -   chromium -    Video does not loop when playback rate is not equal to 1.0 - Project Hosting on Google Code</title> <pre>   1. Play any audio/video  2. Set it to loop  2. Set it's playback rate to non-1.0  3. Let it play      Video should keep looping at the same playback rate. </pre>

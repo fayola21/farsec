@@ -1,0 +1,1 @@
+<title>Issue 42620 -   chromium -    Incognito spy is top-justified in windowed window in winxp - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.389.0 (Developer Build 45673)  WinXP Pro      1. open a icognito window (not maximized)  2. look at the spy (top left corner)    i don't think it should look like this </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6570 -   chromium -    Ship high quaility icon - Project Hosting on Google Code</title> <pre> Chrome Version       : ALL      1. Use 120dpi or more  2. In Vista/7  have explorer use the &quot;Medium  Large or Extra Large Icons&quot;   view      A nice looking icon      Crappy icon :)    Attached a screenshot comparing Chrome/IE/Firefox </pre>

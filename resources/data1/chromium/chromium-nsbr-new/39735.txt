@@ -1,0 +1,1 @@
+<title>Issue 39735 -   chromium -    Opening bookmark manager crashes Chrome - Project Hosting on Google Code</title>   1. Opening the bookmark manager  either from the menu or the keyboard    crashes Chrome. This happened with the official release  and was repeated   with the beta release. I'm now going to uninstall and reinstall Chrome.                    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13453 -   chromium -    Shouldn't send up crash reports for AboutHandler::AboutCrash(). - Project Hosting on Google Code</title> <pre> http://crash/reportdetail?reportid=3bd78bd12dce679b    The code:  void AboutHandler::AboutCrash() {    int *zero = NULL;    *zero = 0;  // Null pointer dereference: kaboom!  }    Seems intentional. </pre>

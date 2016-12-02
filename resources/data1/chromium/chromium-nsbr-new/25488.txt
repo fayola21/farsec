@@ -1,0 +1,1 @@
+<title>Issue 25488 -   chromium -    first google login fails in restored session - Project Hosting on Google Code</title>   1. goto mail.google.com say  2. login without &quot;Stay signed in&quot;  3. restart chromium  4. try to login      Login to succeed first time      First password entry &quot;ignored&quot; and password entry box reset to blank.    <b>Please provide

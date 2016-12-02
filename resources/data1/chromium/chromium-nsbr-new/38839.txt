@@ -1,0 +1,1 @@
+<title>Issue 38839 -   chromium -    Error certificado - Project Hosting on Google Code</title> <pre> Me responde: &quot;No ha sido posible comprobar si el certificado del servidor ha   sido revocado&quot;  Me responde con un https cruzado por una barra y en rojo.   </pre>

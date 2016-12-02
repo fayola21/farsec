@@ -1,0 +1,1 @@
+<title>Issue 30583 -   chromium -    Zoom level get/set API - Project Hosting on Google Code</title> <pre> It would be nice to support a &quot;Zoom&quot; API with per-tab context.    Having this API  it would be trivial to craft an extension that would allow   setting/restoring the zoom-level on a per-URL basis.   </pre>

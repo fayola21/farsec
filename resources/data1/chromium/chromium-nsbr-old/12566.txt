@@ -1,0 +1,1 @@
+<title>Issue 12566 -   chromium -    chrome downloads consumes bandwidth for unknown purposes rather than downloading - Project Hosting on Google Code</title>   1. Download a file          my internet cap is 50 kbps so the download speed of chrome must be 45 to 50   kbps or less       it downloads at 22.5 to 25 kbps     <b>Please provide

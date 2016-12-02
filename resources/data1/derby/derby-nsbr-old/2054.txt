@@ -1,0 +1,1 @@
+Rewrite 'derbynet/SuicideOfStreaming' to a JUnit test    The test 'derbynet/SuicideOfStreaming' should be rewritten to a JUnit test more in line with our newly created test system.It is one of the last tests still being run from the deprecated 'tests/junitTests/' directory  through a wrapper class.   

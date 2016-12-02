@@ -1,0 +1,1 @@
+<title>Issue 25118 -   chromium -    False German l10n string for &quot;show password&quot; - Project Hosting on Google Code</title> <pre> German    3.0.195.27    In the password manager the button text for showing the password is &quot;Neues   Passwort&quot; which translates into &quot;New password&quot;. The correct text would be   &quot;Passwort anzeigen&quot;. </pre>

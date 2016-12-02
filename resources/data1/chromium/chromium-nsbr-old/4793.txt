@@ -1,0 +1,1 @@
+<title>Issue 4793 -   chromium -    about:credits LIBXSLT bad homepage link - Project Hosting on Google Code</title> <pre> The link to the homepage of LIBXSLT in about:credits is:      xmlsoft.org/XSLT/    It should be:      <a href="http://xmlsoft.org/XSLT/">http://xmlsoft.org/XSLT/</a>    in order to be a good link. </pre>

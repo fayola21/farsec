@@ -1,0 +1,1 @@
+<title>Issue 1682 -   chromium -    Cannot print selection - Project Hosting on Google Code</title>   1. Select an area of a web page  2. Open the print dialog box        Should be allowed to use &quot;Selection&quot; and print just what you have selected.      &quot;Selection&quot; is grayed out; not available.    Please provide

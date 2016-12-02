@@ -1,0 +1,1 @@
+<title>Issue 25856 -   chromium -    Cmd-left/right scrolls page instead of doing history navigation if there is a horizontal scrollbar - Project Hosting on Google Code</title> <pre> Doesn't happen on windows. </pre>

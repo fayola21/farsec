@@ -1,0 +1,1 @@
+<title>Issue 27823 -   chromium -    XSS filter blocking non-malicious code? - Project Hosting on Google Code</title>   1. Just load the webpage. The gadget will fail to load in Chrome &gt;= 4.x      Flash gadget should appear with green square in top left. See link.      Gadget not displayed in Wave.    <b>Please provide

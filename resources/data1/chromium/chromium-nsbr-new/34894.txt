@@ -1,0 +1,1 @@
+<title>Issue 34894 -   chromium -    [Mac] Implement content settings UI - Project Hosting on Google Code</title> <pre> Behavior in Chrome for Windows: OK      1. Open under the hood preferences      Content settings button is there and everything works      Content settings button isn't there </pre>

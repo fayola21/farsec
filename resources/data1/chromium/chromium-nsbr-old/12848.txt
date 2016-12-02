@@ -1,0 +1,1 @@
+<title>Issue 12848 -   chromium -    Return better error codes from mini_installer and setup - Project Hosting on Google Code</title> <pre> Currently the error codes returned by our installer is very generic and do   not give a lot of information about the failure encountered. We should   refactor our error handling and return better error codes.     </pre>

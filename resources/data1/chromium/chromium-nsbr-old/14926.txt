@@ -1,0 +1,1 @@
+<title>Issue 14926 -   chromium -    Can't detach tabs off to the left or right of the strip - they just get clipped  - Project Hosting on Google Code</title> <pre> summary sez it all. Wacky behavior  and if you drag all the way to the left  and then drag down  there's no tab at all in the resulting window. </pre>

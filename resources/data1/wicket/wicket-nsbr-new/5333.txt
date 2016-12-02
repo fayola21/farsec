@@ -1,0 +1,1 @@
+wicket-bean-validation french translation    French transalation for wicket-bean-validation to put in org/apache/wicket/bean/validation directory   

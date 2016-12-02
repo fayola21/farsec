@@ -1,0 +1,1 @@
+<title>Issue 42090 -   chromium -    release blog is not being updated - Project Hosting on Google Code</title> <pre> <a href="http://googlechromereleases.blogspot.com/">http://googlechromereleases.blogspot.com/</a>    There have been 2 DEV updates but the release blog isn;t being updated.  How do we know what has been 'fixed' and we can test. </pre>

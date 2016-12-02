@@ -1,0 +1,1 @@
+<title>Issue 21457 -   chromium -    Can't reinstall theme immediately after UNDOing it - Project Hosting on Google Code</title> <pre> Install a theme.  Hit UNDO in the infobar to uninstall it.  Immediately try   to reinstall.  Notice that nothing happens.   </pre>

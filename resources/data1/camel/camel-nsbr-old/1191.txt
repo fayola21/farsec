@@ -1,0 +1,1 @@
+camel-velocity - log4j is needed at runtime    See nabble:http://www.nabble.com/velocity%3A-Couldn%27t-find-class-org.apache.velocity.runtime.log.SimpleLog4JLogSystem-td21036449s22882.htmlJon do you mind taking a look at this  you are are good at maven pom's   

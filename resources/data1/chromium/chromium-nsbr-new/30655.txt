@@ -1,0 +1,1 @@
+<title>Issue 30655 -   chromium -    [Mac] Implement context menu for browser actions and page actions - Project Hosting on Google Code</title> <pre> This has been implemented on Windows and as tracked in <a title="should be able to uninstall extensions by right-clicking on them" class=closed_ref href="/p/chromium/issues/detail?id=29538"> issue 29538 </a>. </pre>

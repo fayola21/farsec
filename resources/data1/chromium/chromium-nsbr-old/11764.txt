@@ -1,0 +1,1 @@
+<title>Issue 11764 -   chromium -    Frame turns black on maximize - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0 (15753)  URLs (if applicable) : any    Maximize tip-of-tree chrome  and frame turns black.  (It turns blue again  when you go back to regular size.)     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5145 -   chromium -    Object property name not allowed if part of JS syntax - Project Hosting on Google Code</title>   1. var o  = new Obj();  2. a.if   = 'will cause parser to fall over&quot;  3. a.then = 'will cause parser to fall over&quot;      js reserved words are allowed as object properties      chrome js parser falls over    Please provide

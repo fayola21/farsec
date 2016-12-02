@@ -1,0 +1,1 @@
+<title>Issue 1837 -   chromium -    Improved User Control of Code Updates - Project Hosting on Google Code</title>   1. New update is released.  2. . . .  3. Profit.      The browser announces new updates and/or when it updates.      The user is left wondering if their code is updating and auto patching.    Please provide

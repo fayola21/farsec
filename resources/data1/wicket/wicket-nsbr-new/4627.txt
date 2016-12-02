@@ -1,0 +1,1 @@
+Change Url#parse() methods to accept CharSequence instead of String    RequestCycle#urlFor() methods return CharSequence.By making org.apache.wicket.request.Url#parse() methods accepting CharSequence instead of j.l.String the user will save some typing (adding .toString()).   

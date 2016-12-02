@@ -1,0 +1,1 @@
+<title>Issue 16458 -   chromium -    Tab closes after clicking on link in links bar - Project Hosting on Google Code</title>   1.two tabs open  2.While in active tab  click on link in my bookmark bar        Link should open to new website      Occasionally the tab will automatically close rather then go to link    <b>Please provide

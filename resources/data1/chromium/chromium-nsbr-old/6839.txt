@@ -1,0 +1,1 @@
+<title>Issue 6839 -   chromium -    Hotmail Links won't work - Project Hosting on Google Code</title>   1. Login in using hotmail account.  2. Click on Inbox.  3. Click on New  Delete junk  Drafts  Sent  etc.            Don't happens what is expected.    Please provide

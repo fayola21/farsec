@@ -1,0 +1,1 @@
+<title>Issue 339 -   chromium -    Download Money File Opens File as webpage - Project Hosting on Google Code</title>   1. Go to Etrade Bank Website  2. Download Activity  3. Instead of download it opens as a New Tab         Should Download Microsoft Money File    Opens as a new webpage    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 14149 -   chromium -    inspector launched as a tab - Project Hosting on Google Code</title> <pre> Chrome version : 189.0 (Developer Build 18428)      1. Launch Chrome  2. Go to any webpage and launch inspector    Inspector launches as a tab with address bar  bookmarks bar...  Not same as in os-windows. Is it by design?     </pre>

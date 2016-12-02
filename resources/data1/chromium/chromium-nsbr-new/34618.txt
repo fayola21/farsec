@@ -1,0 +1,1 @@
+<title>Issue 34618 -   chromium -    Bookmark manager icons - Project Hosting on Google Code</title> <pre> We need a favicon (16x16) as well as a section icon for the new bookmark   manager.    The look of this should match the downloads  history  extensions favicon and   section icon.    Glen  you said you had some psd files for these so the ball is in your court. </pre>

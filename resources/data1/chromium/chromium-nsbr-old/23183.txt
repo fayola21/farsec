@@ -1,0 +1,1 @@
+<title>Issue 23183 -   chromium -    Can't type in body of facebook message - Project Hosting on Google Code</title>   1. Login to facebook.com  2. Send a friend a message  3. Try to type in the Message portion.        The text shows up on the screen.        Nothing shows up.  The text does not seem to be recognized.    <b>Please provide

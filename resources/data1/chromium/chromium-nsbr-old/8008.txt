@@ -1,0 +1,1 @@
+<title>Issue 8008 -   chromium -    Selected text paints as white on blue - Project Hosting on Google Code</title> <pre>   1. Load a page  2. Select some text on it    Text should be the text's normal color (usually black  or blue for links) painted over the selection   color (light blue). Instead  the text is painted as white in all cases (links and text).   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 36848 -   chromium -    JSON.parse(null) throws non-descriptive exception - Project Hosting on Google Code</title>   1. Call JSON.parse(null) from a content-script.      Some sort of &quot;invalid input&quot; exception  or a null return value      &quot;Uncaught illegal access&quot;    <b>Please provide

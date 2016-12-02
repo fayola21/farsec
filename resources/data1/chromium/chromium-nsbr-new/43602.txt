@@ -1,0 +1,1 @@
+<title>Issue 43602 -   chromium -    Scheme should be green  not blue  on non-EV sites - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.396.0 (Official Build 46416) dev    In my opinion  the lock icon should match the color of the scheme. Otherwise people may get   confused into thinking a site is EV when it's not. Green should be reserved for EV.   </pre>

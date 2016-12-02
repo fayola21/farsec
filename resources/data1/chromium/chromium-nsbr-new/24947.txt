@@ -1,0 +1,1 @@
+<title>Issue 24947 -   chromium -    History should cap limit of URLs stored - Project Hosting on Google Code</title> <pre> In <a title="Ebay auto-refresh keeps growing URL" class=closed_ref href="/p/chromium/issues/detail?id=24946"> issue 24946 </a>  the ever-growing URLs eventually caused a 10gb (!) history   file.  We should cap the size of URLs we're willing to store. </pre>

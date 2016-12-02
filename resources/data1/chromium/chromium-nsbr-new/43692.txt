@@ -1,0 +1,1 @@
+<title>Issue 43692 -   chromium -    Problem with installing extension - Project Hosting on Google Code</title>   1. Open the browser  2. All my plugins installed needs to reconfigured        Works normal  with all configuration in my extension      All extension installed need to be reconfigurated      <b>Please provide

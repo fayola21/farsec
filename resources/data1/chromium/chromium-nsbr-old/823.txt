@@ -1,0 +1,1 @@
+<title>Issue 823 -   chromium -    Display issue  probably tables not handled correctly - Project Hosting on Google Code</title>   1. Open <a href="http://www.detecties.nl/dc/">http://www.detecties.nl/dc/</a>          See attached IE or FF file      See attached googleChrome file    Please provide

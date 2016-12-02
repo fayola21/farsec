@@ -1,0 +1,1 @@
+<title>Issue 20139 -   chromium -    Toolbar color not drawn - Project Hosting on Google Code</title> <pre> If a theme provides a short or transparent toolbar image  we expect that the   toolbar color should be drawn behind it. This is not currently happening    leading to themes like 'Grass' looking awful. </pre>

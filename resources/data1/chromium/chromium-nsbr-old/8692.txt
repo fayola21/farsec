@@ -1,0 +1,1 @@
+<title>Issue 8692 -   chromium -    Dev channel not updating - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.166.1                I am currently on the Dev channel (I re-ran the channel chooser to verify)   however  I am still on 2.0.166.1  not 2.0.169.0 as described on the blog... </pre>

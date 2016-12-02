@@ -1,0 +1,1 @@
+Graphs 'degrade' over time    Leave a page with graphs open for several minutes.The graphs become really coarse.It probably has something to do with the fact that Ganglia only provides 6-minute averages beyond the first 61 minutes (first 61 minutes  Ganglia keeps 15-second samples) and we may not be exactly querying for the last 60 minutes.   

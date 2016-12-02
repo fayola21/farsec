@@ -1,0 +1,1 @@
+<title>Issue 42990 -   chromium -    GCF should be checkdeps clean - Project Hosting on Google Code</title> <pre> A recent webkit roll exposed a bad dependency in GCF  but worse  turned up  an exclusion in checkdeps that exempts GCF. We should work toward making  GCF checkdeps clean. </pre>

@@ -1,0 +1,1 @@
+JmsProducer should support non blocking routing engine    The JMS component is the most complex  and we left out improvements on purpose as we wanted 2.4 out before.Now its time to let the JmsProducer in request/reply mode leverage async processing so threads are not blocked while waiting for reply.   

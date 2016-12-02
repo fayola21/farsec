@@ -1,0 +1,1 @@
+<title>Issue 28624 -   chromium -    chrome://extensions/ page does not include locale in gallery link - Project Hosting on Google Code</title> <pre> See report in <a href="http://code.google.com/p/chromium/issues/detail?id=28433">http://code.google.com/p/chromium/issues/detail?id=28433</a>.   </pre>

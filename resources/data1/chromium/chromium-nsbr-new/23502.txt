@@ -1,0 +1,1 @@
+<title>Issue 23502 -   chromium -    Enable crash info bar on chrome os - Project Hosting on Google Code</title> <pre> For various reasons we disabled the crash info bar on chrome os  it should be   reenabled now. </pre>

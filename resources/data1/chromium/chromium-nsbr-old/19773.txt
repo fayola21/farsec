@@ -1,0 +1,1 @@
+<title>Issue 19773 -   chromium -    Reduce omnibox sluggishness by speeding history results - Project Hosting on Google Code</title> <pre> In my... mature... profile it often takes a second for history results to   flow in to the omnibox. We need to do something to make history suggest much   faster so that the omnibox doesn't flicker. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 5169 -   chromium -    Bookmarks cannot be alphabatized - Project Hosting on Google Code</title>   1. Add more than 1 bookmark to a folder  2. Unable to alphabetize them without doing it manually      Should have a menu option for &quot;sort by name&quot;  or just do it automatically.      They stay out of order.    Please provide

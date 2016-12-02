@@ -1,0 +1,1 @@
+<title>Issue 4852 -   chromium -    Feature: Google Toolbar - Project Hosting on Google Code</title> <pre> While installing Google Chrome  an option should be present to download   and/or install Google Toolbar.     </pre>

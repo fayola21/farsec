@@ -1,0 +1,1 @@
+<title>Issue 14774 -   chromium -    Flaky UI tests (AutomatedUITestBase  TabRestoreUITest) - Project Hosting on Google Code</title> <pre> The following tests are sporadically crashing on XP Tests (dbg)(2):  - AutomatedUITestBase.CloseTab  - AutomatedUITestBase.CloseBrowserWindow  - TabRestoreUITest.BasicRestoreFromClosedWindow    I'm disabling them </pre>

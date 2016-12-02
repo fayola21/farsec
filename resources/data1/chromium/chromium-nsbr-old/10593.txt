@@ -1,0 +1,1 @@
+<title>Issue 10593 -   chromium -    Chrome does not open .doc/.ppt/.xls files - Project Hosting on Google Code</title>   1. Search for any .DOC or .ppt file.  2. Try to open the the doc from the link by double clicking on the link.      =&gt;The document should be open directly by the browser.       =&gt;Instead  It asks to save the file on the local disk.      <b>Please provide

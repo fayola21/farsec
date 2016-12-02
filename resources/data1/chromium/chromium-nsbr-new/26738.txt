@@ -1,0 +1,1 @@
+<title>Issue 26738 -   chromium -    unit test for theme change - Project Hosting on Google Code</title> <pre> We just had a regression that caused a theme change to blow up the browser.    Make a unit test that changes themes and makes sure the browser doesn't blow   up.   </pre>

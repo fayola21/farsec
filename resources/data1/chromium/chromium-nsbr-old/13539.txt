@@ -1,0 +1,1 @@
+<title>Issue 13539 -   chromium -    middle click paste unreliable between tabs - Project Hosting on Google Code</title>   1. Mouse-select the URL of the current tab  2. In *another tab*  middle-click on a text field  3. Nothing happens      The URL selected in (1) is pasted at the mouse cursor position.      Nothing happens. You're likely to be eaten by a grue.    Please provide

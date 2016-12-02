@@ -1,0 +1,1 @@
+<title>Issue 23913 -   chromium -    http://www.narkoba.be/happy_love doesn't work in Chrome - Project Hosting on Google Code</title> <pre> A cool HTML5 audio/video site has a user-agent check against Chrome.    Using --user-agent as Firefox makes the site work fine.    I'll contact the webmaster. </pre>

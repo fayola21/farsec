@@ -1,0 +1,1 @@
+<title>Issue 29540 -   chromium -    Add exponential backoff to Google Mail Checker extension - Project Hosting on Google Code</title> <pre> Linus requests we add exponential backoff to Google Mail Checker extension   before beta. </pre>

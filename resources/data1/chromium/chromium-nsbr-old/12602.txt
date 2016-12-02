@@ -1,0 +1,1 @@
+<title>Issue 12602 -   chromium -    Scrollbar can get to be too small - Project Hosting on Google Code</title>   1. open a very big document  2. observe size of scollbar is smaller than the comfort level        <b>Please provide

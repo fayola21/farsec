@@ -1,0 +1,1 @@
+<title>Issue 7485 -   chromium -    Crash on URLRequestChromeJob::DataAvailable - Project Hosting on Google Code</title> <pre>   1. Type &quot;about:histograms some&quot; on the omnibox    The browser crashes because the URLRequestChromeJob is deleted inside NotifyReadComplete() but is still accessed after the call. </pre>

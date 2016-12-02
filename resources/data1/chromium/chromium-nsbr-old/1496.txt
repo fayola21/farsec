@@ -1,0 +1,1 @@
+<title>Issue 1496 -   chromium -    Maximized Window hides the buttons &quot;minimize  restore and close&quot; - Project Hosting on Google Code</title>   1. open 5 ou more tabs  2. maximize the window  3. look at the buttons      The tabs bar cant hides this buttons      resize the tabs bar      Please provide

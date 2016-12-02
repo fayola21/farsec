@@ -1,0 +1,1 @@
+<title>Issue 24579 -   chromium -    Crashed on opening new tab (base::MessagePumpForUI::WillProcessEvent pure virtual) - Project Hosting on Google Code</title>   1. Unsure yet as has only happened once  2. open tabs frequently and crash                  <b>Please provide

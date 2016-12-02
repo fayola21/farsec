@@ -1,0 +1,1 @@
+<title>Issue 19272 -   chromium -    Error text for Mac update failure shows under throbber - Project Hosting on Google Code</title> <pre>   1. Try to update chrome and have that fail (difficult to repro)  2. Click the update button  3. Notice the error text is still visible when the throbber starts  see the   attached screenshot. </pre>

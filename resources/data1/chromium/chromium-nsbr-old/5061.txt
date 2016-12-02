@@ -1,0 +1,1 @@
+<title>Issue 5061 -   chromium -    Russian translation for &quot;Text zoom&quot; menu item - Project Hosting on Google Code</title> <pre>   Russian    0.4.154.29    Windows XP SP2 English    Current tab menu (to the right from URL textbox)  &quot;Text zoom&quot; item isn't   translated.   </pre>

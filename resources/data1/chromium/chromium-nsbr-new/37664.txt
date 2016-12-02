@@ -1,0 +1,1 @@
+<title>Issue 37664 -   chromium -    Remove test_output_formatter step from canary bots - Project Hosting on Google Code</title> <pre> We're removing the test_output_formatter.* script from the repository since   it is deprecated  but the canary bots run it.  We should remove this step   from those bots. </pre>

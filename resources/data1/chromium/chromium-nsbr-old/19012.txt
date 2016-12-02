@@ -1,0 +1,1 @@
+<title>Issue 19012 -   chromium -    Wishlist: &quot;Search in site button&quot; can be replaced next to address line easily. - Project Hosting on Google Code</title> <pre> Let's look at the picture below to see how can be easily replaced a &quot;Search   in site button&quot;  next to the address line.      </pre>

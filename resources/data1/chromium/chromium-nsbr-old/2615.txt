@@ -1,0 +1,1 @@
+<title>Issue 2615 -   chromium -    .wav files get saved with double extension - Project Hosting on Google Code</title>   1. Go to a link of a .wav file      - It downloads the .wav file with its normal name      - It downloads the file as name.wav.wav    Please provide

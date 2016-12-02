@@ -1,0 +1,1 @@
+the 1.2.0 release didnt' seem to include the javadocs or doc directory (or manual)!    I wondered if this was due to your machine Hiram having some dodgy maven plugin around or something?   

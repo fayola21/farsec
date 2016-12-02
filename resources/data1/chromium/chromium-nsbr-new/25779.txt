@@ -1,0 +1,1 @@
+<title>Issue 25779 -   chromium -    about:memory should display localized browser names whenever possible - Project Hosting on Google Code</title> <pre> (not just for Chrome/Chromium  but other browsers as well) </pre>

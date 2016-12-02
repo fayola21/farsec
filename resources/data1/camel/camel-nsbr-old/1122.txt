@@ -1,0 +1,1 @@
+Camel should propagate exception cause in InOnly scenarios    In the case an exception is handled by the DeadLetterChannel  Camel will currently set the exception to null and add an exchange property containing the exception. We should also add this as a message header so that it will be propagated to external services  like a JBI service.   

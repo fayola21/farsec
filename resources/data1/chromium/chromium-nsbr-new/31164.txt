@@ -1,0 +1,1 @@
+<title>Issue 31164 -   chromium -    Chrome Will Not Close / Unresponsive - Project Hosting on Google Code</title>   1.Toshiba Laptop  Fedora 11 (32 bit): go to mail.google.com  open up   several websites in other tabs.   2. Browse the internet as usual.  3. Attempt to close Chrome.      Chrome closes.      Chrome doesn't close.    <b>Please provide

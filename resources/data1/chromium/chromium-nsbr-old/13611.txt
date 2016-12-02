@@ -1,0 +1,1 @@
+<title>Issue 13611 -   chromium -    Distorted omnibox font - Project Hosting on Google Code</title>   1. Activate Omnibox  2. Start typing  3. Omnibox provides search/history/favorites suggestions      Text output rendered correctly      Text output in Omnibox is distorted. Letter spacing is not right  some   letters are rendered narrow  etc.    <b>Please provide

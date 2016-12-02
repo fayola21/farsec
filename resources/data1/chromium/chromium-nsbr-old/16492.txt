@@ -1,0 +1,1 @@
+<title>Issue 16492 -   chromium -    Typing cmd + enter in the address box should autocomplete the url and navigate - Project Hosting on Google Code</title> <pre> 1. Type foo into the address box  2. Hit cmd + enter  3. The address box should change its text to &quot;<a href="http://www.foo.com">http://www.foo.com</a>&quot; and navigate there  just as   Windows does.     </pre>

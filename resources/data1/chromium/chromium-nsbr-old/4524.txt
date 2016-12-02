@@ -1,0 +1,1 @@
+<title>Issue 4524 -   chromium -    word-wrap won't work when PRE tag is within a table tag - Project Hosting on Google Code</title>   1. Add a PRE tag with word wrap to a table      word wrap      no word wrap    Please provide

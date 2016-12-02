@@ -1,0 +1,1 @@
+<title>Issue 5793 -   chromium -    Slow scrolling on pages with many windowed plugins - Project Hosting on Google Code</title> <pre> On a page with many windowed plugins  scrolling is pretty laggy.    See http://go/jgcu for example. </pre>

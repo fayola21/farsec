@@ -1,0 +1,1 @@
+<title>Issue 551 -   chromium -    Cannot remove search engines - Project Hosting on Google Code</title>   1. Right-click the address bar and choose &quot;Edit search engines...&quot;  2. Select an engine and click Remove      The selected engine should be removed.      Nothing.    Please provide

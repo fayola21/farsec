@@ -1,0 +1,1 @@
+<title>Issue 38613 -   chromium -    Chrome thinks Some jpeg file's resolution too large - Project Hosting on Google Code</title>   1.open the link above.          Linked jpeg file's resolution is 723 x 600 pixels.      Chrome reported image's resolution is 2169 x 1800 pixels.  and showing enormously scaled up image.    <b>Please provide

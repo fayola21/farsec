@@ -1,0 +1,1 @@
+<title>Issue 28729 -   chromium -    Non-speculative DNS queries should be prioritized over speculative queries - Project Hosting on Google Code</title> <pre> Jobs are posted to worker threads in a purely FIFO order as far as I can   tell. Non-speculative requests should be prioritized - either by using a   priority queue or a separate threadpool.  </pre>

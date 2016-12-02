@@ -1,0 +1,1 @@
+<title>Issue 23688 -   chromium -    ERROR FORM AJAX WHEN KEYS BACK OR FORWARD - Project Hosting on Google Code</title>   1. Send form with AJAX  2. IF THE FORM BEFORE YOU USE THE ARROWS FORWARD BACK DA AN ERROR  3. ES need to reload the page so that the form is submitted correctly and   PROCES                <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30101 -   chromium -    Wishlist: Port chromium to Solaris 10 / OpenSolaris - Project Hosting on Google Code</title> <pre> Chromium needs a port to Solaris 10 / OpenSolaris.  OpenSolaris is getting more popular and also having a Solaris 10 version  would increase adoption of Chrome/Chromium among some corporate users.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31483 -   chromium -    Chrome crashes window manager when web page search fails - Project Hosting on Google Code</title>   1. Open any webpage.  2. Press CTRL-F to open the find box.  3. Type something not found in the page. (Like ^  #  etc.)  4. Browser will crash Metacity.      No errors or crashes.      Metacity crashes.    <b>Please provide

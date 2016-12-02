@@ -1,0 +1,1 @@
+<title>Issue 30895 -   chromium -    OCSP requests shouldn't include cookies - Project Hosting on Google Code</title> <pre> At the moment  an OCSP request to <a href="http://example.com">http://example.com</a> will include cookies   for example.com. It probably shouldn't. </pre>

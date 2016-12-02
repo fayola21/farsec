@@ -1,0 +1,1 @@
+<title>Issue 3940 -   chromium -    No &quot;Select All&quot; Option - Project Hosting on Google Code</title>   1. Add a &quot;Select All&quot; option under &quot;Control the current page&quot; tab.  2. Add a &quot;Select All&quot; option under the Right-click menu                  Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37593 -   chromium -    Button for accepting unsafe file transfer is hidden - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.342.1  / Mac OS 10.6.2    1. Try to download some file with .dmg extension      Should see all buttons      Cannot see the button to accept transfer   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29454 -   chromium -    Implement NPN_PopUpContextMenu - Project Hosting on Google Code</title> <pre> There are two new NPAPI plugins that we aren't implementing at all  and need to. They were added   with the Cocoa event model  so this will be important as plugins on the Mac start using that model   (for example  the Flash 10.1 preview). </pre>

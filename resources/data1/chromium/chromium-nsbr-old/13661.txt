@@ -1,0 +1,1 @@
+<title>Issue 13661 -   chromium -    Chrome crash when trying to drag text - Project Hosting on Google Code</title>   1. Open about chrome dialog.  2. Select version.  3. Drag selection.      It should drag(or not drag) the text but shouldn't crash at least.      Crash.    <b>Please provide

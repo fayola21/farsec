@@ -1,0 +1,1 @@
+<title>Issue 24634 -   chromium -    Gather UMA stats about receipt of bad IPC messages. - Project Hosting on Google Code</title> <pre> When we detect a bad message from a child process  we summarily kill the   renderer. Would be good to keep track of how frequently we're doing that. </pre>

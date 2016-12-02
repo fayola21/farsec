@@ -1,0 +1,1 @@
+<title>Issue 20224 -   chromium -    Tab crash @ WebCore::CSSStyleDeclaration::copyPropertiesInSet(int const * unsigned int)  - Project Hosting on Google Code</title>   1. Open up the page  2. Copy some text  3. Crash  4. ???  5. No profit      Next to be copied to clipboard      Crashes    <b>Please provide

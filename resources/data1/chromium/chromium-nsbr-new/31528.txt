@@ -1,0 +1,1 @@
+<title>Issue 31528 -   chromium -    Close other tabs menu items should not close pinned tabs - Project Hosting on Google Code</title> <pre> The menu items for closing other tabs should not close pinned tabs. </pre>

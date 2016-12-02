@@ -1,0 +1,1 @@
+spring.schema is not up to date    The URI of the Spring schema has been updated in Camel 2.9.1 and 2.8.4:http://camel.apache.org/schema/cxf/We can see that starting from 2.9.1 and 2.8.4  we suffix the schema with -spring or -blueprint.However  the spring.schema resource file has not been updated with this suffix.   

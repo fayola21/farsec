@@ -1,0 +1,1 @@
+Allow to change charset in StringRequestTarget    It's impossible to access the created StringBufferResourceStream charset without overriding the entire respond method.   

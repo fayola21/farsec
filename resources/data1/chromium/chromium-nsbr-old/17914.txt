@@ -1,0 +1,1 @@
+<title>Issue 17914 -   chromium -    ctrl-enter and opt-enter enter literal newlines in location bar - Project Hosting on Google Code</title> <pre> Version 3.0.195.1      1. Focus location bar  2. Enter some text  3. Hit ctrl-enter or opt-enter        Not sure. Open entered address or ignore keypress.        A literal newline character is inserted. </pre>

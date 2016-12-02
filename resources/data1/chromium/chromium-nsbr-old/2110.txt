@@ -1,0 +1,1 @@
+<title>Issue 2110 -   chromium -    Can not operate the people you may know application in Facebook - Project Hosting on Google Code</title>   1. Happens every time.      Being able to delete people you don't know by pressing the &quot;x&quot; button      No response    <b>Please provide

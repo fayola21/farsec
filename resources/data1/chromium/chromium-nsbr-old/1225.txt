@@ -1,0 +1,1 @@
+<title>Issue 1225 -   chromium -    Chrome crashes after typing in &quot;:%&quot; in any address bar - Project Hosting on Google Code</title>   1. Type &quot;:%&quot; into any address bar in any tab  2. Watch Chrome die (all tabs/processes)        Not crashing      Crashes    Please provide

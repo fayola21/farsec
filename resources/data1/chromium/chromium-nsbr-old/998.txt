@@ -1,0 +1,1 @@
+<title>Issue 998 -   chromium -    new-tab page doesn't declare encoding - Project Hosting on Google Code</title> <pre> STEPS TO REPRODUCE  1. Change default encoding to UTF-16.  2. Open new tab.    ACTUAL RESULTS  Garbage.    EXPECTED RESULTS  New tab page.    Just add the following at the top of the new-tab page:      &lt;!DOCTYPE HTML&gt;    &lt;meta charset=utf-8&gt; </pre>

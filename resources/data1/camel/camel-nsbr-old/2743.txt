@@ -1,0 +1,1 @@
+HttpProducer should not sending the Http headers with low case    Here is the mail thread which discusses about it.http://old.nabble.com/camel-http-converts-headers-to-lower-case-tp28620717p28620717.html   

@@ -1,0 +1,1 @@
+<title>Issue 24833 -   chromium -    Eliminate char/wchar_t conversions  probably-unsafe statics  and disk access when determining the framework and helper app paths on the Mac - Project Hosting on Google Code</title> <pre> <a href="http://codereview.chromium.org/267102">http://codereview.chromium.org/267102</a> </pre>

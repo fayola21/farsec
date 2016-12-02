@@ -1,0 +1,1 @@
+<title>Issue 45236 -   chromium -    Centos build missing - Project Hosting on Google Code</title>   1. Try to find a Chrome build for Centos  2. Try to install the linux rpm for Centos  3. How about you support Centos and RHEL ???                <b>Please provide

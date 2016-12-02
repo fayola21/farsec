@@ -1,0 +1,1 @@
+<title>Issue 33923 -   chromium -    close and reopen bug - Project Hosting on Google Code</title> <pre> when i select &quot;close tabs to the left&quot; then i select &quot;reopen closed tab&quot; only   open one page so it is a bug </pre>

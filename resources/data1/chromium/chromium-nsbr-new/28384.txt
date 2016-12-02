@@ -1,0 +1,1 @@
+<title>Issue 28384 -   chromium -    Limit cookie lifetime - Project Hosting on Google Code</title>   1. Go to random site  2. Get long-lived cookie  3. Restart browser  cookie stays there      Cookie disappears.      Cookie is still there.    <b>Please provide

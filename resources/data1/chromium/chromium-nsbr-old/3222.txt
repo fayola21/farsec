@@ -1,0 +1,1 @@
+<title>Issue 3222 -   chromium -    Task manager shows up in tray context menu  only when title bar context is shown up. - Project Hosting on Google Code</title> <pre> Product Version      : 0.3.154.0 (Official Build 2776)    The menu item appears only about 1/2 minute after browser has started with   the --magic_browzR flag enabled.   </pre>

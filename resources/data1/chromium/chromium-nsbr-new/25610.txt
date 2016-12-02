@@ -1,0 +1,1 @@
+<title>Issue 25610 -   chromium -    Gmail checker icon is not centered correctly on linux - Project Hosting on Google Code</title> <pre>   1. Install the gmail checker browser action sample   (test/data/extensions/samples/gmail_checker_browser_action)  2. Note that icon is centered oddly   </pre>

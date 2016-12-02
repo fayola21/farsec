@@ -1,0 +1,1 @@
+<title>Issue 40363 -   chromium -    HTML5 &lt;video&gt; and &lt;audio&gt; tags have stopped working in Ubuntu Chromium PPA - Project Hosting on Google Code</title>   1. Go to either the specified URL or the YouTube HTML5 beta  2. play a video/look at the results      HTML5 &lt;video&gt; and &lt;audio&gt; should be detected/work      It isn't.    <b>Please provide

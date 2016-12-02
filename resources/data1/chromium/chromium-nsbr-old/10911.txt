@@ -1,0 +1,1 @@
+<title>Issue 10911 -   chromium -    Implement EV certificate verification for Linux. - Project Hosting on Google Code</title> <pre> We need to implement EV (extended validation) certificate verification  (the X509Certificate::IsEV method) for Linux.    EV certificate verification is just a special case of verifying a  certificate to a certificate policy. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17608 -   chromium -    Non-rectangular view (Cole prototype) for bookmark bar menus - Project Hosting on Google Code</title> <pre> Bookmark bar menus are currently menus.  I need to implement Cole's prototype which uses a non-rectangular bar to simulate menus.  It may not 'work' but is worth trying.  Would be nice if we could drag and drop across subfolders. </pre>

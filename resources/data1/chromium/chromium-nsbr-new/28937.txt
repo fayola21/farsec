@@ -1,0 +1,1 @@
+<title>Issue 28937 -   chromium -    Chromium closing when minimized - Project Hosting on Google Code</title>   1. Only minimize the Chromium and Chrome  2. It closes.        Minimize      Close    <b>Please provide

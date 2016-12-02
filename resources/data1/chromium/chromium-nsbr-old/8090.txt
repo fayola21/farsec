@@ -1,0 +1,1 @@
+<title>Issue 8090 -   chromium -    Inspector should perhaps not be fullscreen-able? - Project Hosting on Google Code</title> <pre> Is Bookmarks Manager Window not eligible for Full Sceen mode ?    Even though Bookmarks manager and Inspector are of the same window type:  Chrome_WidgetWin  I can switch Inspector to full screen mode but not the  B'manger.     </pre>

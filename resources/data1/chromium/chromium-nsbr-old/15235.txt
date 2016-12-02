@@ -1,0 +1,1 @@
+<title>Issue 15235 -   chromium -    rebaseline as a modifier should not cause a test to be skipped - Project Hosting on Google Code</title> <pre> Currently it seems that tests with a rebaseline modifier will get skipped. </pre>

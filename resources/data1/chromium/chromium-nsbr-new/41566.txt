@@ -1,0 +1,1 @@
+<title>Issue 41566 -   chromium -    Chrome crashes every time laptop resumes from Sleep mode - Project Hosting on Google Code</title>   1. Start Chrome  2. open *any* website  3. Put computer to sleep  4. Wake up from sleep      Computer resumes everything started before sleep was entered      Chrome crashes  asks to restart      <b>Please provide

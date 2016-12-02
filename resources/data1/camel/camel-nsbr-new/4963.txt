@@ -1,0 +1,1 @@
+antInclude support for case insensitive patterns    antIncude patterns are case sensitive. I need a case insensitive file matching pattern with file and ftp components.note: custom filters is not applicable since I read patterns from database there is no way to correlate the filters with the routes.   

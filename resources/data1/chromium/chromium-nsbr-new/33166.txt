@@ -1,0 +1,1 @@
+<title>Issue 33166 -   chromium -    SOUND coming from Blocked PopUPs.  - Project Hosting on Google Code</title>   1. Even though the  PopUPs are blocked  the sound/audio is still coming   from them. This is very disturbing when watching any vedio/movie websites.I   ahe to kill the popups manually to stop the sounds from popups.                        <b>Please provide

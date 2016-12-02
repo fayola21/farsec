@@ -1,0 +1,1 @@
+<title>Issue 27712 -   chromium -    4.0.245.0 crashes after adding a new language - Project Hosting on Google Code</title>   1. Go to options -&gt; Under the hood -&gt; Web Content -&gt; Change font and   language  2. Add a new language (English in my case)  3. Press ok to save      save and continue      crash &amp; restart    <b>Please provide

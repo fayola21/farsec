@@ -1,0 +1,1 @@
+<title>Issue 17316 -   chromium -    img title doesn't work anymore - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.0 (Developer Build 21075)  URLs (if applicable) : <a href="http://www.xkcd.com">http://www.xkcd.com</a>      1. Hold the mouse cursor over the image.      The title text doesn't show up.   </pre>

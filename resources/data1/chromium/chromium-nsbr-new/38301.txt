@@ -1,0 +1,1 @@
+<title>Issue 38301 -   chromium -    Offers to restore but lost session was covert - Project Hosting on Google Code</title>   1. Have only covert windows open (you know  that no history mode).  2. Pull the plug or something.  3. Launch again.        No mention of previous session.        The message asking whether to restore.    <b>Please provide

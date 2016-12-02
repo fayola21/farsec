@@ -1,0 +1,1 @@
+<title>Issue 18196 -   chromium -    inactive tab should paint hover state when mouse cursor is over close button - Project Hosting on Google Code</title> <pre> 1. create 2 tabs  2. hover mouse cursor over inactive tab's close button  3. notice tab doesn't paint hover state  instead paints normal inactive   state </pre>

@@ -1,0 +1,1 @@
+<title>Issue 8917 -   chromium -    REGRESSION: Search gone from context menu - Project Hosting on Google Code</title>   1. Open a tab  2. Select some text  3. Right-Click to bring up context menu      Search should be present in the context menu      Search is missing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38997 -   chromium -    Monitor will not go to sleep if chrome is maximized - Project Hosting on Google Code</title>   1. Leave chrome maximized.  As soon as it is minimized the problem goes   away.  This is in windows 7          Monitor should turn off (go to sleep)after my set amount of time (10 mins)      Monitor stays on indefinitely    <b>Please provide

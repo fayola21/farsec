@@ -1,0 +1,1 @@
+Validator component - Should be able to validate from a File payload    The validator component should be able to validate a message which is from a java.io.File.What is needed is a couple of type converters to ensure this.   

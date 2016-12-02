@@ -1,0 +1,1 @@
+<title>Issue 7381 -   chromium -    Google notebook does not work under Chrome 2.0.159 :) - Project Hosting on Google Code</title>   1. Login to Google notebook  2. Create new notebook  3. Try to write text        Can't write text  can't paste....            Please provide

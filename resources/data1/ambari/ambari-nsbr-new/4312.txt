@@ -1,0 +1,1 @@
+Storm: Install wizard. Add master components Storm UI Server  DRPC Server  LogViewer Server    Add new master components to Install Wizard -&gt; Assign Masters page.   

@@ -1,0 +1,1 @@
+<title>Issue 10913 -   chromium -    All default search engine settings were wiped out - Project Hosting on Google Code</title>   1.  Right click on the address bar  2.  Select Default Search Engines        See default search engines you have configured        All previously configured default search engines have been wiped out.    <b>Please provide

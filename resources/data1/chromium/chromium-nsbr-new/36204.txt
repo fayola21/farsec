@@ -1,0 +1,1 @@
+<title>Issue 36204 -   chromium -    Add automation support to enable/disable autofill - Project Hosting on Google Code</title> <pre> Following methods should be exposed via  AutomationPorxy in order for us to  write more auto fill related ui tests:    - Enable autofill  - Disable autofill  - Get autofill popup list.  - Select from autofill popup list.       </pre>

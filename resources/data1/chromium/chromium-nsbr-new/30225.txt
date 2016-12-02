@@ -1,0 +1,1 @@
+<title>Issue 30225 -   chromium -    Canvas .stroke() sometimes fails to render for large coordinates - Project Hosting on Google Code</title>   1. Create a Canvas element  2. Render a path using .moveTo()  .lineTo() and .stroke().  Ensure the path   contains coordinates larger than 1 &lt;&lt; 16.      Line is rendered.      Line is sometimes not rendered.    <b>Please provide

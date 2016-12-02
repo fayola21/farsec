@@ -1,0 +1,1 @@
+ShutdownException in ContextManager.checkInterrupt() during shutdown    When running the attached repro script  I often (but not always) see a ShutdownException in ContextManager.checkInterrupt() when ij exits and shuts down the Derby engine. ij expects an exception here  but it expects an SQLException  not a ShutdownException.   

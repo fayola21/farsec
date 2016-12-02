@@ -1,0 +1,1 @@
+<title>Issue 11973 -   chromium -    Implement page actions on linux - Project Hosting on Google Code</title> <pre> Extensions will support installing page action buttons in the URL bar.  See LocationBarViewGtk::UpdatePageActions(). </pre>

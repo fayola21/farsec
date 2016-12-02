@@ -1,0 +1,1 @@
+<title>Issue 18767 -   chromium -    Need a startup test that has a complex theme installed - Project Hosting on Google Code</title> <pre> We need a startup test that runs with a complex theme. This is to ensure   further modifications to our theme code don't slow startup. </pre>

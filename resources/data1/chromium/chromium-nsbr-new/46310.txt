@@ -1,0 +1,1 @@
+<title>Issue 46310 -   chromium -    Have Context Group release all GL resources - Project Hosting on Google Code</title> <pre> Because resources are shared  if we don't free them we'll leak memory. The solution is to free all the resources in a ContextGroup.     </pre>

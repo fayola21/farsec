@@ -1,0 +1,1 @@
+<title>Issue 46085 -   chromium -    Enable ACCELERATED_COMPOSITING and 3D CSS transforms on windows builds - Project Hosting on Google Code</title> <pre> The gpu compositing code is pretty stable now so we should enable it by default.  It's still behind a command line flag and will only activate with --enable-accelerated-compositing .   </pre>

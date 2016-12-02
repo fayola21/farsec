@@ -1,0 +1,1 @@
+<title>Issue 35097 -   chromium -    Popup blocked bubble could handle dynamic updates better - Project Hosting on Google Code</title> <pre> We don't do much in our UI with cases like popups being dynamically   added/removed while the bubble is open  or the page being navigated/closed    other than not crashing. </pre>

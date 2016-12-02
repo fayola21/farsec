@@ -1,0 +1,1 @@
+<title>Issue 6150 -   chromium -    thobber too low in app window - Project Hosting on Google Code</title> <pre> version: 2.0.156.1    The throbber isn't centered. See attached image. </pre>

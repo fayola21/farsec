@@ -1,0 +1,1 @@
+GuiceComponentInjector mishandles static fields    GuiceComponentInjector mistakenly wraps static fields with serializable proxies. These CGLIB proxies impose limitations (must have default constructor  may not have final methods  etc) on fields which are not strictly necessary. The new implementation allows the use of Binder.requestStaticInjection() which is more flexible.   

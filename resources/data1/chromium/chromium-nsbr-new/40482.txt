@@ -1,0 +1,1 @@
+<title>Issue 40482 -   chromium -    Default Search setting does not sync - Project Hosting on Google Code</title> <pre> The Default Search setting on the options page appears not to be syncing   properly.  The prefs involved are:      kDefaultSearchProviderSearchURL  kDefaultSearchProviderSuggestURL  kDefaultSearchProviderName  kDefaultSearchProviderID   </pre>

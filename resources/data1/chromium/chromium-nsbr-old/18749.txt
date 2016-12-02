@@ -1,0 +1,1 @@
+<title>Issue 18749 -   chromium -    Regression: PayPal Postage label printing fails in Chrome beta - Project Hosting on Google Code</title>   1. Buy and print a label with PayPal/Ebay Postage  2. Click 'Print Label'  3. The visible page is printed  not the label itself      The label itself is printed      The currently viewed page prints    <b>Please provide

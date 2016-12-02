@@ -1,0 +1,1 @@
+<title>Issue 32791 -   chromium -    Pinned tab title change alert should be more noticeable - Project Hosting on Google Code</title> <pre> if you pin a tab  you only get the fav icon.  for sites like gmail  you can't tell   then when you get new mail or a chat request  chrome os (others?) blinks the   pinned tab on title changes to give an indicator </pre>

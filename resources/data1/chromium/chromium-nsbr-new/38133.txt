@@ -1,0 +1,1 @@
+<title>Issue 38133 -   chromium -    hr element rendered incorrectly - Project Hosting on Google Code</title>   1. Create an html containing hr element with certain margins set (example  html included)  2. Try opening this html with this version of Chromium      The red hr line should be above the text.      It is below the text.    <b>Please provide

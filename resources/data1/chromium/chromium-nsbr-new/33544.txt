@@ -1,0 +1,1 @@
+<title>Issue 33544 -   chromium -    Pop-up windows are not the same as browsers theme - Project Hosting on Google Code</title>   1. open chrome and add a theme  2. got to a site with a pop-up window        i would expect the pop-up windows to be the same as the theme that is   installed      pop-up windows appear in the default blue chrome colors    <b>Please provide

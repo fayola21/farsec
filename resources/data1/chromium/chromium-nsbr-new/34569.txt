@@ -1,0 +1,1 @@
+<title>Issue 34569 -   chromium -    Ensure that any pending cookie prompts get auto-dismissed at shutdown time. - Project Hosting on Google Code</title> <pre> Ensure that any pending cookie prompts get auto-dismissed at shutdown time.    We need to do this to prevent shutdown hangs. </pre>

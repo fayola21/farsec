@@ -1,0 +1,1 @@
+cxfEndpoint of camel-cxf doesn't support  the shcemaLocation element    Here is the mail thread&#91;1&#93; which discusses about it.&#91;1&#93;http://camel.465427.n5.nabble.com/camel-cxf-exception-when-parsing-cxf-schemaLocation-element-td3253254.html#a3253254   

@@ -1,0 +1,1 @@
+<title>Issue 46293 -   chromium -    Comment functionality on www.telegraph.co.uk not working - Project Hosting on Google Code</title>   1. Register   2. login  3. attempt to post comment      post comment form appears       page does not recognise use is logged in.     <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 37241 -   chromium -    Chrome scrolls slowly and uses 100% CPU  while Firefox scrolls faster and uses much less CPU - Project Hosting on Google Code</title>   1. View the page (internal to Google)  scroll rapidly using the mouse wheel           It should scroll quickly.         It scrolls slowly  jerkily  and uses most of 100% of one CPU core.      <b>Please provide

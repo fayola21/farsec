@@ -1,0 +1,1 @@
+<title>Issue 36387 -   chromium -    Chrome prevents the Vista toolbar from popping up when toolbar is in auto-hide mode - Project Hosting on Google Code</title>   1. browsing with Chrome          toolbar should pop-up when expected.      toolbar doesn't pop-up.  i have to select the Windows key so that the   toolbar will popup.      <b>Please provide

@@ -1,0 +1,1 @@
+Throttler appears to 'throttle' per thread instead of throttling across multiple threads       

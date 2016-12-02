@@ -1,0 +1,1 @@
+<title>Issue 9717 -   chromium -    Double right-clicking the back button keeps it pressed - Project Hosting on Google Code</title>   1. Double right-click the back button  2. Release the button &amp; move the pointer away        Button is unpressed      Button is pressed.    <b>Please provide

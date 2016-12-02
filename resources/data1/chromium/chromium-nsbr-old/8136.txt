@@ -1,0 +1,1 @@
+<title>Issue 8136 -   chromium -    Remove X connection from renderer - Project Hosting on Google Code</title> <pre> The renderer should not have an X connection.    Removing it means we break GTK  but agl has a patch that brings back the   widgets  kinda. </pre>

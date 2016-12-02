@@ -1,0 +1,1 @@
+<title>Issue 23613 -   chromium -    Feature request: pinned tabs should stick around between sessions - Project Hosting on Google Code</title>   1. create a pinned tab  2. close Chrome  3. open it again - the pinned tab has disappeared       The pinned tab should still be there      <b>Please provide

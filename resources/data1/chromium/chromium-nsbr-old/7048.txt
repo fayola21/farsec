@@ -1,0 +1,1 @@
+<title>Issue 7048 -   chromium -    Cannot download. Running Win xp pro 64-bit - Project Hosting on Google Code</title> <pre> Cannot download. Running Win xp pro 64-bit with intel quad core  4 MB ram </pre>

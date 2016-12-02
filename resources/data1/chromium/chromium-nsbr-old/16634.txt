@@ -1,0 +1,1 @@
+<title>Issue 16634 -   chromium -    Add support for pinned tabs - Project Hosting on Google Code</title> <pre> Pinned tabs are rendered slightly differently (only a favicon now)  always   occur as the first tabs in the tab strip  and any links opened by these tabs   appear after the pinned tabs. </pre>

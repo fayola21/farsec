@@ -1,0 +1,1 @@
+<title>Issue 7341 -   chromium -    Find should support case-sensitive searches - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.46         Safari 3: FAIL      Firefox 3: OK           IE 7: OK    Find should have a &quot;Match case&quot; option.   </pre>

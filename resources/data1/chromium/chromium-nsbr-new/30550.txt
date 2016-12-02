@@ -1,0 +1,1 @@
+<title>Issue 30550 -   chromium -    call blur() on Select element  using javascript doesn't work for example  mySelect.blur() - Project Hosting on Google Code</title>   1.Create an element Select with some options  2.Open the Select drop-down options   3.Call the Select.blur()  the select should close the dropdown but in  chrome doesn't work                 <b>Please provide

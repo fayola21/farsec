@@ -1,0 +1,1 @@
+Create command line script to manipulate Ambari configurations (get  set  add  delete)    We need a script which can manually set the configs when UI is not able to  or does not support.   

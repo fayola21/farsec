@@ -1,0 +1,1 @@
+<title>Issue 44491 -   chromium -    Run A/B experiments on connection per host limits. - Project Hosting on Google Code</title> <pre> Currently we're at 6 connections per host.  Need to run more experiments.    See <a title="Match Firefox's per-host connection limit of 15" class=closed_ref href="/p/chromium/issues/detail?id=12066"> issue 12066 </a> for some history. </pre>

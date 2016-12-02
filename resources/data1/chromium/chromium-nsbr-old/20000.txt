@@ -1,0 +1,1 @@
+<title>Issue 20000 -   chromium -    Restore Up/Down Causes Chrome to crash - Project Hosting on Google Code</title>   1.Open Chrome  2.Press restore down  3.Press restore up      Browser window will get smaller and bigger      Interface bar misaligns and disables some features  rendering the browser   mostly useless.    <b>Please provide

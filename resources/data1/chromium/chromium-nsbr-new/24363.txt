@@ -1,0 +1,1 @@
+<title>Issue 24363 -   chromium -    Implement bookmark all tabs on mac - Project Hosting on Google Code</title> <pre> Support for this was added to windows as part of   <a href="http://code.google.com/p/chromium/issues/detail?id=2935">http://code.google.com/p/chromium/issues/detail?id=2935</a> . It needs to be   wired up on Mac. </pre>

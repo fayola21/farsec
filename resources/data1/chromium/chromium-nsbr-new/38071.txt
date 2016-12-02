@@ -1,0 +1,1 @@
+<title>Issue 38071 -   chromium -    Chrome beep interrupts sound in Flash - Project Hosting on Google Code</title>   1. Play any flash movie.  2. Make Google Chrome do its error beep.      It simply does the beep  without interrupting anything.      It interrupts any current sounds in Flash.    Please provide

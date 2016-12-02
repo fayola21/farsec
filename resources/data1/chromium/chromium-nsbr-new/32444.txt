@@ -1,0 +1,1 @@
+<title>Issue 32444 -   chromium -    svg/hixie/text/003.html gets wrong position of root on WIN - Project Hosting on Google Code</title> <pre> Very strange.    For the first embedded object   RenderSVGRoot {svg} at (0 -75) size 240x180 &lt;-- -75 forces the word PASS to   be written beyond the boundaries.    Works just fine on Linux. </pre>

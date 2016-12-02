@@ -1,0 +1,1 @@
+<title>Issue 17580 -   chromium -    implement popup window toolbar/location bar mode - Project Hosting on Google Code</title> <pre> Open a popup window that tries to hide the toolbar.  We should only show the   omnibox  but we currently show the whole toolbar.    There are some TODO's in the code for this. </pre>

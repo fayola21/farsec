@@ -1,0 +1,1 @@
+Camel simple language wrong working with real number    I compute real number in route: &lt;setBody&gt;0.02&lt;/setBody&gt;After that I want to filter: &lt;filter&gt;&lt;simple&gt;${body} &gt; 0 &lt;/simple&gt; ... &lt;/filter&gt;This expression return false for value in body = 0.02   

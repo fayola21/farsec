@@ -1,0 +1,1 @@
+<title>Issue 5599 -   chromium -    Problem with passwords - Project Hosting on Google Code</title>   1. enter site www.bb.com.br  2. put the password but never accept i aways got &quot;Wrong Password&quot;    Sry for my poor english  i'm brazilian.                  Please provide

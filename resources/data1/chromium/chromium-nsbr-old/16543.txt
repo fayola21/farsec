@@ -1,0 +1,1 @@
+<title>Issue 16543 -   chromium -    Bookmark folders unsorted in star button's folders drop down box - Project Hosting on Google Code</title>   1. open star button's folder list  2. compare bookmark folders order with bookmark bar/menu        Folders should be sorted/same order as in bookmark bar/menu      Bookmarks are in the wrong order    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 11620 -   chromium -    New omnibox popup has different fonts - Project Hosting on Google Code</title> <pre> With --enable-omnibox2 the fonts look different on Vista. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39251 -   chromium -    No pinned tabs option - Project Hosting on Google Code</title>   1. Try to pin a tab.          A pinned tab and an option to do it.      Finding no such option.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38774 -   chromium -    Tab crashing on a wired.com article  - Project Hosting on Google Code</title>   1.Going to a wired.com article  2.Clicking on the page after it loads        Nothing happening      the tab crashes  and other tabs too.    <b>Please provide

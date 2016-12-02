@@ -1,0 +1,1 @@
+ambari-server reset is broken on centos5.8    ambari-server reset fails due to syntax error in centos 5.8 (postgres 8.1).psql:/var/lib/ambari-server/resources/Ambari-DDL-Postgres-DROP.sql:18: LINE 1: DROP DATABASE IF EXISTS ambari;The IF EXISTS clause was only added to DROP command in PotgreSQL8.2.+Show warnings if any SQL commands failed during server reset or upgradestack   

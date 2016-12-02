@@ -1,0 +1,1 @@
+<title>Issue 36803 -   chromium -    RealPlayer crash in CFRelease under base::UnloadNativeLibrary - Project Hosting on Google Code</title> <pre> As with Silverlight  it looks like RealPlayer doesn't always like to be unloaded   (e.g. &lt;http://crash/reportdetail?reportid=ff8584d655cca2db&gt; </pre>

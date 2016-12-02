@@ -1,0 +1,1 @@
+<title>Issue 40109 -   chromium -    Chromium throws TypeError on reload of page on occassion - Project Hosting on Google Code</title>   1. Keep reloading a page continuously with a content script  happens intermittently      No errors      Get error:  Uncaught TypeError: Cannot read property 'width' of undefined    <b>Please provide

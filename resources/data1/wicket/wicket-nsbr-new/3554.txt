@@ -1,0 +1,1 @@
+Constructor of org.apache.wicket.PageReference should be public    The construcor of PageReference is not accessible (no qualifier  proteced). Is this for a reason? As far as I can see  a public qualifier would be nice as I rather often created an own class with a similar implementation (because I could not create an instance of PageReference).   

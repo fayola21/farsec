@@ -1,0 +1,1 @@
+<title>Issue 10004 -   chromium -    &lt;canvas&gt; bezier curve drawing has gaps - Project Hosting on Google Code</title> <pre> WebKit GTK / Firefox / etc (using Cairo) look good.  Must be related to Skia.    You can see in the screenshot there are two bad gaps in the bezier cubic  spline  on the bottom left. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17624 -   chromium -    Pulsate bookmark button when it first appears - Project Hosting on Google Code</title> <pre> See title.  See Windows for example.   </pre>

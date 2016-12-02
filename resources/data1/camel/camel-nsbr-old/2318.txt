@@ -1,0 +1,1 @@
+camel-bindy dataformat KeyValue DSL can't work    When you set the bindy dataformat with below DSL   you will get the error that camel can't find the DataFormat.   public void configure() { from('direct:start').marshal() .bindy(BindyType.KeyValue  'org.apache.camel.dataformat.bindy.model.fix.simple') .to('mock:result'); }   

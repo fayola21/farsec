@@ -1,0 +1,1 @@
+<title>Issue 2219 -   chromium -    Use winelib for Linux version (temporarily) - Project Hosting on Google Code</title> <pre> Since Chrome can run with Wine  all that should be required to port to  winelib should (theoretically) involve only makefile changes.    <a href="http://www.winehq.org/site/winelib">http://www.winehq.org/site/winelib</a> </pre>

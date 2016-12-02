@@ -1,0 +1,1 @@
+<title>Issue 8719 -   chromium -    No Image Re-sizing Handles - Project Hosting on Google Code</title>   1.  Start  post on blogger or wordpress  2.Goto New Post  3.Insert Image    Google Chrome seems completely incompatible with image resizing handles    this is a real pain for me since I require that a lot in my line of work!                <b>Please provide

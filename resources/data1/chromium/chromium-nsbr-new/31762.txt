@@ -1,0 +1,1 @@
+<title>Issue 31762 -   chromium -    Checking/unchecking Use SSL 2.0 hoses SSL altogether - Project Hosting on Google Code</title>   1. Check Options/Use SSL 2.0  2. uncheck Options/Use SSL 2.0  3. visit any ssl site  and then you get Error 112   (net::ERR_NO_SSL_VERSIONS_ENABLED): Unknown error.                <b>Please provide

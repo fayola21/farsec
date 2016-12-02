@@ -1,0 +1,1 @@
+<title>Issue 11827 -   chromium -    save frame as and print frame context menus not implemented - Project Hosting on Google Code</title> <pre> Right click in an iframe.  The context menu has entries to &quot;Save frame as&quot;  and &quot;Print frame&quot;.  It looks like we never hooked these up!    I'm going to remove them from the menu. </pre>

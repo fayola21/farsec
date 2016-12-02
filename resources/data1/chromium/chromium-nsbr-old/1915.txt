@@ -1,0 +1,1 @@
+<title>Issue 1915 -   chromium -    chrome bookmarks should use google's online bookmarks api - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27    chrome should use google's online bookmarks api  so we can have the same  bookmarks synced on multiple computers </pre>

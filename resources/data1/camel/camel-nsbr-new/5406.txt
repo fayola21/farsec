@@ -1,0 +1,1 @@
+Threads EIP hangs Junit4 tests using adviceWith    If the  threds()  DSL keyword is used in a route and a Junit4 test is performed  the test hangs indefenitely.The issue is descibed here:http://camel.465427.n5.nabble.com/Threads-EIP-hangs-Unit-Tests-JUnit4-td5715031.htmlplease find attached a self-consistent sample project to reproduce it.   

@@ -1,0 +1,1 @@
+<title>Issue 12762 -   chromium -    Themes should be able to change button background color - Project Hosting on Google Code</title> <pre> Themes can currently change the foreground (icon) color of a button  but not   the background color. We need to add another image (transparent by default)   that is masked by the button shape. </pre>

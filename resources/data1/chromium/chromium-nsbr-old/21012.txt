@@ -1,0 +1,1 @@
+<title>Issue 21012 -   chromium -    Problems with javascript 1.2 - Project Hosting on Google Code</title>   1. Loading the page          On the first link  onmouseover should produce a light effect on the image  On the second link  onmouseover should change imgs .alpha      Images are displayed with no effect rendering      <b>Please provide

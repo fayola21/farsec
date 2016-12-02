@@ -1,0 +1,1 @@
+<title>Issue 35251 -   chromium -    Need stop and restart transfer in chrome - Project Hosting on Google Code</title> <pre> Chrome should have option to restart stopped files transfer. </pre>

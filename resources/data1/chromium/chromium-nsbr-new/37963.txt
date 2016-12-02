@@ -1,0 +1,1 @@
+<title>Issue 37963 -   chromium -    we should have histograms of extension API usage - Project Hosting on Google Code</title> <pre> It would be useful to generate histograms of extension API usage.  This could   help inform us as to the most popular and least used parts of our API    perhaps giving us data on where to spend more effort in the future. </pre>

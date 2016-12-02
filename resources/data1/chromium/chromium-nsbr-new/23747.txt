@@ -1,0 +1,1 @@
+<title>Issue 23747 -   chromium -    escaped URL in window.location.pathname - Project Hosting on Google Code</title>   1. Javascript  var jUrl = '?accio='+ $(this).attr('href');  2.  window.location.pathname = jUrl;  3.  the next page  the url is %3Faccio=/ubq4/menman        the result of the url ?accio=/ubq4/menman          <b>Please provide

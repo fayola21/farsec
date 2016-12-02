@@ -1,0 +1,1 @@
+<title>Issue 22506 -   chromium -    .exe cannot harm linux (or mac OS X)  get rid of that warning. - Project Hosting on Google Code</title>   1.Download any file with .exe extension  2.A warning will show up on linux (and or mac? can anyone confirm this?)                  <b>Please provide

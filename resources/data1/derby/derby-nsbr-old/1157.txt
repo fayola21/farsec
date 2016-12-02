@@ -1,0 +1,1 @@
+Helper methods in BaseJDBCTestCase for creating data sources    BaseJDBCTestCase should be extended with methods that create DataSource  ConnectionPoolDataSource and XADataSource objects.   

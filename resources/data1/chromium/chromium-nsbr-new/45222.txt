@@ -1,0 +1,1 @@
+<title>Issue 45222 -   chromium -    chrome crashes when i connect to a vpn - Project Hosting on Google Code</title>   1. just connect and it crashes  2. it begins at 6.0.408.1 dev                  <b>Please provide

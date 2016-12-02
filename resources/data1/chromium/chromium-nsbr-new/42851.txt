@@ -1,0 +1,1 @@
+<title>Issue 42851 -   chromium -    Userscript Converter should use version of script - Project Hosting on Google Code</title> <pre> currently the converter of userscripts uses 1.0 as versionnumber  it should use @version of the script if possible   like 0.9961  <a href="http://userscripts.org/scripts/review/25105">http://userscripts.org/scripts/review/25105</a> </pre>

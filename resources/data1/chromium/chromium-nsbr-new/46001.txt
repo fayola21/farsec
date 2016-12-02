@@ -1,0 +1,1 @@
+<title>Issue 46001 -   chromium -    No file/edit menus - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0 dev  URLs (if applicable) : ALL  Other browsers tested: ALL    It's not possible to enable traditional file/edit menus. </pre>

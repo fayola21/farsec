@@ -1,0 +1,1 @@
+<title>Issue 33582 -   chromium -    Option to Open Downloads - Project Hosting on Google Code</title>   1. Download a file from the net          To have the option to Open a download instead of Saving      Only Can Save a download    <b>Please provide

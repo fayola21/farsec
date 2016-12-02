@@ -1,0 +1,1 @@
+<title>Issue 3514 -   chromium -    select element doesn't show new value when focus is switched in onchange event - Project Hosting on Google Code</title> <pre> Seems to happen in Chrome only. As in  works fine in Safari  FF  IE. See   test case.   </pre>

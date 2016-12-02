@@ -1,0 +1,1 @@
+<title>Issue 11344 -   chromium -    Visual bug (Win98 apparency) - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.178.0 (Vers��_��_o do desenvolvedor 15131)    See image.   </pre>

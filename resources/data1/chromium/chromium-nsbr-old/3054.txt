@@ -1,0 +1,1 @@
+<title>Issue 3054 -   chromium -    More shortcut keys - Project Hosting on Google Code</title>   1. Add underline hotkeys to buttons and fields in general. (alt+f  alt+o   and we're in options)  2. Add a robust caret browsing (like in FF3  only good: I know you can do   it!)  3. Emacs keys for editing text      Quicker menu jumping.      Not implemented    Please provide

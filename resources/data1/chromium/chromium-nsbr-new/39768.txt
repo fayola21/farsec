@@ -1,0 +1,1 @@
+<title>Issue 39768 -   chromium -    v8 playback extension breaks pages - Project Hosting on Google Code</title>   1. Start chromium with command line option --no-js-randomness  2. Open the attached file with chromium      Should alert &quot;Date test ok&quot;.      Alerts &quot;Date test failed&quot;.    <b>Please provide

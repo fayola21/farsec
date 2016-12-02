@@ -1,0 +1,1 @@
+<title>Issue 42890 -   chromium -    New Embedded Flash = slide show on videos - Project Hosting on Google Code</title>   1. Try to play the above video in HD ( requires logon ) on a laptop with a   8M series video card using the new embedded version of flash      Smooth play back      A slide show    <b>Please provide

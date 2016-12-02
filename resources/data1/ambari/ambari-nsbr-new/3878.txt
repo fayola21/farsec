@@ -1,0 +1,1 @@
+ResourceManager Heap metrics is not correct on Ambari console    PROBLEM: The ResourceManager Heap metrics on Ambari web console doesn't show the correct value  not only the current heap usage doesn't reflect the correct usage  but also the total heap size doesn't match what we configure for the ResourceManager Heap size  even the total heap size number is changing constantly.   

@@ -1,0 +1,1 @@
+<title>Issue 23574 -   chromium -    Chromium doesn't work in facebook - Project Hosting on Google Code</title>   1. log into facebook  2. click to compose a new message  3. try typing in the main message inputbox      you can't type in there!!      nothing    <b>Please provide

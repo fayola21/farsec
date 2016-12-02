@@ -1,0 +1,1 @@
+<title>Issue 7438 -   chromium -    Tabstrip hit detection slightly off - Project Hosting on Google Code</title> <pre> The bottommost pixel of an unselected tab isn't considered part of the tab   w.r.t. hit detection. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22259 -   chromium -    Open With dialog opens when Show in Folder is selected on a download - Project Hosting on Google Code</title>   1. Download a file  2. select &quot;Show in Folder&quot;        Download folder should open      Windows Open With dialog opens.    <b>Please provide

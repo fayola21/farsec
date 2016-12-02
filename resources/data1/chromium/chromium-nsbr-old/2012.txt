@@ -1,0 +1,1 @@
+<title>Issue 2012 -   chromium -    Feature: Add a switch for starting chrome in incognito mode - Project Hosting on Google Code</title> <pre> i think that would be easy and useful  just a --incognito switch </pre>

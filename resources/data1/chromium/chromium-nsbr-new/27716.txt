@@ -1,0 +1,1 @@
+<title>Issue 27716 -   chromium -    Chromium crash when attempt to change fixed-width font or options - Project Hosting on Google Code</title>   1.optins  2.font settings  3.fixed-width font    What is the expected result? font change      What happens instead? a crash when attempt to change fixed-width font   or options [happends any way even if you cancel]    <b>Please provide

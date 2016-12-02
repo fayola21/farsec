@@ -1,0 +1,1 @@
+<title>Issue 1642 -   chromium -    Google reader fails to load fully - Project Hosting on Google Code</title>   1. Open google reader.  2. click &quot;All items&quot;  3. wait.      The reader shows the &quot;loading&quot; lable  and never shows the rest. at the same  time google reader loads quickly on FireFox.             Please provide

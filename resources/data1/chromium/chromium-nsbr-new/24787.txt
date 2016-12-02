@@ -1,0 +1,1 @@
+<title>Issue 24787 -   chromium -    crash when moving tabs from one window to another - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.222.8 (28938)    OS version               : 10.6.1      1. Have two windows open  2. Drag a tab from one window to the other      It should work      Crash </pre>

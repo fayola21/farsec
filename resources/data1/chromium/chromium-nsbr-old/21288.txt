@@ -1,0 +1,1 @@
+<title>Issue 21288 -   chromium -    Form does not work - Project Hosting on Google Code</title>   1.Try to enter information in form boxes.          Able to type information in form boxes.      Many or most of the boxes do not allow me to enter information.    <b>Please provide

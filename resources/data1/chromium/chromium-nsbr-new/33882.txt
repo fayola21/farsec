@@ -1,0 +1,1 @@
+<title>Issue 33882 -   chromium -    Broken DropDwon plugins menu - Project Hosting on Google Code</title> <pre> Chrome Version: Google Chrome	5.0.307.1 (37331) dev        1. Hiding icons from plugins  2. Dropdown menu does not work       </pre>

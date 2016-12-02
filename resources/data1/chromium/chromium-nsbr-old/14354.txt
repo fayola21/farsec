@@ -1,0 +1,1 @@
+<title>Issue 14354 -   chromium -    Chrome freezing up when ever reseived a PM (Private Message) on vBulletin Forum System. That 's so annoying.  - Project Hosting on Google Code</title>   1. Get an account.   2. Send PM yourself.   3. Chrome dont respond back and freezing up.           Crome should be work!          <b>Please provide

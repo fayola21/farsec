@@ -1,0 +1,1 @@
+<title>Issue 17725 -   chromium -    Reenable the tip service - Project Hosting on Google Code</title> <pre> For the beta we turned off the tip service (web resources) by default. We   should turn it back on when we know more. </pre>

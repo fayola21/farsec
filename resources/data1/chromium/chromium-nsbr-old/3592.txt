@@ -1,0 +1,1 @@
+<title>Issue 3592 -   chromium -    EV Revocation check should not block the I/O thread - Project Hosting on Google Code</title> <pre> Currently when we get an EV certificate  we do a synchronous revocation   check on the I/O thread. This blocks all renderer &lt;-&gt; browser   communication  and can lead to jankyness. We should do this in a non-  blocking manner. </pre>

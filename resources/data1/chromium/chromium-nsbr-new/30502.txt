@@ -1,0 +1,1 @@
+<title>Issue 30502 -   chromium -    Middle click fails on bold font - Project Hosting on Google Code</title>   1. Middle clicking links to produce new background tab  2. First few links attempted do not always exhibit this behavior          Links middle clicked should pop up in new background tab          Auto-scroll is activated instead      <b>Please provide

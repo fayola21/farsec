@@ -1,0 +1,1 @@
+<title>Issue 39862 -   chromium -    Document notifications - Project Hosting on Google Code</title> <pre> We need to add documentation for using HTML5 notifications in extensions. Most importantly  you   can specify &quot;notifications&quot; in the permissions list in your manifest  which means that you don't need   to use checkPermission or requestPermission. </pre>

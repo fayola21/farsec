@@ -1,0 +1,1 @@
+<title>Issue 11802 -   chromium -    Crash on closing Chromium with Task manager. - Project Hosting on Google Code</title>   1. Show Bookmark Manager window  2. Close Chromium window (browser window)        Exit normally.      Crash on shutdown    <b>Please provide

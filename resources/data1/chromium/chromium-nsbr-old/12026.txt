@@ -1,0 +1,1 @@
+<title>Issue 12026 -   chromium -    Auto-adjust task manager columns widths on sorting - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0      1. Open Chrome's task manager  2. Sort processes according to CPU usage        CPU column width auto-adjusts so that the column header (including arrow) is   visible.      One sees only the arrow     </pre>

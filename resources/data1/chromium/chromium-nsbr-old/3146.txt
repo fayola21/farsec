@@ -1,0 +1,1 @@
+<title>Issue 3146 -   chromium -    StatsTableTest.MultipleThreads consistently fails on official build. - Project Hosting on Google Code</title> <pre> StatsTableTest.MultipleThreads:  ..stats_table_unittest.cc:141: Failure  Value of: table.CountThreadsRegistered()    Actual: 20  Expected: 0    Please take a look on the official build. </pre>

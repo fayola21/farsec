@@ -1,0 +1,1 @@
+<title>Issue 21475 -   chromium -    Gmail Not in Albanian - Project Hosting on Google Code</title> <pre> Google Translate has Albanian in it but Gmail does not support it yet.  It would be awesome if you   can add this feature.  </pre>

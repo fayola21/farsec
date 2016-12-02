@@ -1,0 +1,1 @@
+<title>Issue 26205 -   chromium -    Add Pressed and Hover States for New Tab Button On Mac - Project Hosting on Google Code</title> <pre> Need to add the attached pressed and hover states for the new tab button on the Mac. </pre>

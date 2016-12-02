@@ -1,0 +1,1 @@
+<title>Issue 43339 -   chromium -    Chrome hangs on restart  when several windows with Log On Credentials have to be restored - Project Hosting on Google Code</title>   1. open more then 2 sites (ms iis 6.0 ASP.NET) that require authentication  2. close chrome  3. open chrome again  4. hangs                <b>Please provide

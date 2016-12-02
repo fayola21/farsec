@@ -1,0 +1,1 @@
+<title>Issue 28766 -   chromium -    &quot;Sync my bookmarks&quot; Is Not in Title Case - Project Hosting on Google Code</title>   1. Open the Wrench menu  2. Note the case of the &quot;Sync my bookmarks&quot; item        Item should read &quot;Sync My Bookmarks&quot;          <b>Please provide

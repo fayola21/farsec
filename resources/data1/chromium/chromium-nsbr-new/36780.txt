@@ -1,0 +1,1 @@
+<title>Issue 36780 -   chromium -    Inserting special characters into web page causes crash. - Project Hosting on Google Code</title> <pre>   1. Open www.google.com and focus the search box.  2. Open &quot;Special Characters&quot; dialog from Edit menu.  3. Insert any special character.      The special character should be inserted  but the browser crashed instead.       </pre>

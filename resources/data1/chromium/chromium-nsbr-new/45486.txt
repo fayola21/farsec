@@ -1,0 +1,1 @@
+<title>Issue 45486 -   chromium -    Adobe Reader plugins crashes Chrome - Project Hosting on Google Code</title>   1. Open any PDF on the web  2. Look at it more than 3 seconds      PDF plugin should work       after 3 seconds the entire browsers stops responding due to Adobe Reader   plugin and a few seconds later Chrome asks to stop the Reader plugin    <b>Please provide

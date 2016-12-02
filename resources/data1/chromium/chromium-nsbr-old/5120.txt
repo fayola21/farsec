@@ -1,0 +1,1 @@
+<title>Issue 5120 -   chromium -    javascript prompt doesn't focus edit box - Project Hosting on Google Code</title> <pre> javascript prompt dialog box has the OK button focussed by default  not the   edit box. </pre>

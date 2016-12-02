@@ -1,0 +1,1 @@
+<title>Issue 26138 -   chromium -    Need a utility to get OS Version for Mac and Linux - Project Hosting on Google Code</title> <pre> In BugReportUtil  we need to send the version of the OS being used as   information for the bug report.  We have a facility for getting the OS   version on Windows  but none for Mac or Linux.     </pre>

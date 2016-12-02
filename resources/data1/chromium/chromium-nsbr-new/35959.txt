@@ -1,0 +1,1 @@
+<title>Issue 35959 -   chromium -    Overlay animates in and out when switching to fullscreen mode - Project Hosting on Google Code</title> <pre> Starting with focus on google.com  when I switch to fullscreen mode  I see the overlay animate in   and then immediately out again. </pre>

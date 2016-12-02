@@ -1,0 +1,1 @@
+<title>Issue 13034 -   chromium -    right-shift space doesn't work in google reader - Project Hosting on Google Code</title> <pre> in Reader  space goes to the next article  while shift-space goes to the   previous one.  however  only left-shift space goes to the previous.  right-  shift space goes forward.  we're not sending right shift correctly. </pre>

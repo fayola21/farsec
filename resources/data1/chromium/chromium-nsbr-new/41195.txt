@@ -1,0 +1,1 @@
+<title>Issue 41195 -   chromium -    Download shelf items need tooltips - Project Hosting on Google Code</title> <pre> the items on the download shelf don't have tooltips. I think they should have   tooltips that list the full file name of the download (similar to tab   tooltips)  which is useful when the name gets truncated. </pre>

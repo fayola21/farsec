@@ -1,0 +1,1 @@
+<title>Issue 41763 -   chromium -    Mac polish: many buttons not in Title Caps - Project Hosting on Google Code</title> <pre> E.g.  &quot;Content Settings...&quot; instead of &quot;Content settings...&quot;.    Lots of examples in the prefs dialog  but lots elsewhere too (e.g.  the &quot;Clear Browsing Data&quot; dialog). </pre>

@@ -1,0 +1,1 @@
+HttpConnectionManagerParams doesn't take effect when it is set to HttpComponent    Here is the user complain.It is caused by the patch of CAMEL-6296 which override the setting of HttpConnectionManagerParams.   

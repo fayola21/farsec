@@ -1,0 +1,1 @@
+<title>Issue 25132 -   chromium -    clicking on errors button crashes inspector - Project Hosting on Google Code</title> <pre> Inspect element on a page that has JS errors.  Instead of clicking on the JS   console button  click on the little red errors button in the corner.  Crash. </pre>

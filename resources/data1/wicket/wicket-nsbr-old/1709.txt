@@ -1,0 +1,1 @@
+Allow configuration of the guice Stage for GuiceWebApplicationFactory    I would like to be able to use a init parameter to configure what Stage guice will use simillar to the way that WebApplication get it's configuration type from the wicket.configuration parameter. The parameter name could be wicket-guice.stage to keep with the pattern used by wicket core.   

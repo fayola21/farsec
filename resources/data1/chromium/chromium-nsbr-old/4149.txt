@@ -1,0 +1,1 @@
+<title>Issue 4149 -   chromium -    Autoscroll symbol invisible - Project Hosting on Google Code</title>   1. Click the middle mouse button on a webpage  2. the autoscroll symbol does not show now  3. it did in previous revisions      symbol should show      symbol does not show    Please provide

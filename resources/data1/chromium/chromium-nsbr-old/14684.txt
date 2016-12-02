@@ -1,0 +1,1 @@
+<title>Issue 14684 -   chromium -    Cancel Download Value is not retained while closing chrome - Project Hosting on Google Code</title>   1. Open any URL from where you can download a large file  2. Cancel the Download  3.Close chrome  4. Chrome will warn about the Download(even though the download status is   shown as cancelled)                <b>Please provide

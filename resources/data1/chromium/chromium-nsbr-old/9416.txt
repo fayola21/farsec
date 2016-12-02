@@ -1,0 +1,1 @@
+<title>Issue 9416 -   chromium -    Automatic page reload ( similar to Opera feature ) - Project Hosting on Google Code</title> <pre> I would be nice to have a feature similar to Opera's ``reload every X   seconds`` feature.    This feature is especially useful when developing applications that perform   automatic builds (eg. documentation). </pre>

@@ -1,0 +1,1 @@
+<title>Issue 29098 -   chromium -    [NaCl] Change ((size_t) -1) to INVALID_SIZE - Project Hosting on Google Code</title> <pre> #define a manifest constant INVALID_SIZE to represent an error return value   from functions that return a size_t.    Take care of the TODO comment in gio_mem.c line 145. </pre>

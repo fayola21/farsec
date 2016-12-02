@@ -1,0 +1,1 @@
+<title>Issue 41255 -   chromium -    inbox.com : Autofill Infobar appears after clicking the Inbox folder - Project Hosting on Google Code</title>   1. launch Chrome  2. log into inbox.com/Email  3. click the Inbox folder        Autofill Infobar appears after clicking the Inbox folder.  The infobar   shouldn't be appeared    <b>Please provide

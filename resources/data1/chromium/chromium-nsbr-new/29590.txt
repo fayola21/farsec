@@ -1,0 +1,1 @@
+<title>Issue 29590 -   chromium -    Mac: in app_controller_mac.mm  &quot;wrap g_is_opening_new_window ... - Project Hosting on Google Code</title> <pre> ... in a stack-base so that it's more obvious what's going on&quot; (or otherwise   make it less ugly). </pre>

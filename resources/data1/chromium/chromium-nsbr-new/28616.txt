@@ -1,0 +1,1 @@
+<title>Issue 28616 -   chromium -    HTML dialogs should probably not be resizable - Project Hosting on Google Code</title> <pre>   1. Open sync setup wizard (wrench menu  &quot;Sync my bookmarks...&quot;)  2. Try to resize the window.        HTML dialogs probably should not be resizable.  Or maybe it should be an   option left to the delegate (like modality).   </pre>

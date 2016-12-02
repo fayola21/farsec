@@ -1,0 +1,1 @@
+<title>Issue 24227 -   chromium -    http/tests/plugins/local-geturl-from-remote.html Fails - Project Hosting on Google Code</title> <pre> This was listed in test_expectations as being filed as <a title="6 Failing Layout Tests" class=closed_ref href="/p/chromium/issues/detail?id=10352"> bug 10352 </a>  but that  doesn't seem to exist  so I'm filing a new bug. </pre>

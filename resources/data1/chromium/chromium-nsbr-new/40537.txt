@@ -1,0 +1,1 @@
+<title>Issue 40537 -   chromium -    gmail.com - chat/contacts - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.249.78 (36714)  URL : <a href="https://mail.google.com/mail/#inbox">https://mail.google.com/mail/#inbox</a>          1. see attach pic       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4993 -   chromium -    Space bar doesn't scroll down on trunk builds - Project Hosting on Google Code</title> <pre> I'm using 0.5.155.0 (Developer Build 6202) and it's driving me nuts that   space doesn't do a page down. Maybe this was broken in a WebKit merge? </pre>

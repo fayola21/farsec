@@ -1,0 +1,1 @@
+<title>Issue 26916 -   chromium -    missing icons for aniweather and adblock - Project Hosting on Google Code</title>   1. add aniweather and adblock+ extensions  2. icons will not show up in taskbar        icons should show up        they don't  see screenshot    <b>Please provide

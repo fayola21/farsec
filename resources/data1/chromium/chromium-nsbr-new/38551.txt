@@ -1,0 +1,1 @@
+<title>Issue 38551 -   chromium -    google-chrome --auto-ssl-client-auth is needed for Linux / Chrome / SSL. - Project Hosting on Google Code</title> <pre> I wasn't able to make SSL work w/o this:  google-chrome --auto-ssl-client-auth    Please  add a line about this flag in the &quot;Project Home&quot; page.    Thanks.    N </pre>

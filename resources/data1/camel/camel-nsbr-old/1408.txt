@@ -1,0 +1,1 @@
+File component - better support for absolute path    See nabble:http://www.nabble.com/File%3A-using-absolute-file-paths-with-moveExpressions-td22253199.html   

@@ -1,0 +1,1 @@
+<title>Issue 16478 -   chromium -    Stop animating GIFs with ESC key - Project Hosting on Google Code</title> <pre> It would be nice if the ESC key could stop animating GIFs from animating; a function that is common in other browsers. </pre>

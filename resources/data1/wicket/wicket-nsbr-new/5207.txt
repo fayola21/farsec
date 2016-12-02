@@ -1,0 +1,1 @@
+Use documented jQuery APIs for triggering the special event 'inputchange'    jQuery 1.9/2.0 changed its internals and now the special event 'inputchange' doesn't work.wicket-examples' autocomplete demo shows the problem.   

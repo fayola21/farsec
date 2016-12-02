@@ -1,0 +1,1 @@
+Fix TestHostName to take care of issues when gethostname and getfqdn do not match.    Fix TestHostName to take care of issues when gethostname and getfqdn do not match.   

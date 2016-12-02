@@ -1,0 +1,1 @@
+<title>Issue 20011 -   chromium -    Bookmark positions don't sync correctly if bookmarks are re-positioned many times under the same parent - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.202      1. When I have bookmarks without text  with same icon  on same domain  every   time when it sync them  the order is different. </pre>

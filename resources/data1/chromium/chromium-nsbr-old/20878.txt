@@ -1,0 +1,1 @@
+<title>Issue 20878 -   chromium -    There should be a way to focus a window using chrome.windows - Project Hosting on Google Code</title> <pre> I think this was one we just didn't get around to implementing.    Maybe chrome.windows.focus()? or a focused property on updateInfo? </pre>

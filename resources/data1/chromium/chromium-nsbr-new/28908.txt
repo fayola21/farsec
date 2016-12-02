@@ -1,0 +1,1 @@
+<title>Issue 28908 -   chromium -    Close tab button on Mac on wrong side - Project Hosting on Google Code</title> <pre> The Mac has put the close button on the left side for 25 years.  On its tabs    Chrome for Mac puts the widget on the right side.  Please fix. </pre>

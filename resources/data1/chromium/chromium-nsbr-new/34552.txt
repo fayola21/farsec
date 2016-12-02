@@ -1,0 +1,1 @@
+<title>Issue 34552 -   chromium -    bug CHROME with CITRIX - Project Hosting on Google Code</title> <pre> Whenever I open citrix  file will download ica32.msi    with Internet Explore the problem is resolved.    Thank you.    mail:(sofiene02@gmail.com) </pre>

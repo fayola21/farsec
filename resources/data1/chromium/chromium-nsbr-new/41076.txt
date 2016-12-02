@@ -1,0 +1,1 @@
+<title>Issue 41076 -   chromium -    Lifehacker dies when it finishes loading  - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.371.0 dev  URL :<a href="http://lifehacker.com/">http://lifehacker.com/</a>  Behavior in Safari 3.x/4.x :Normal  Behavior in Firefox 3.x: Normal      1.Navigate to Lifehacker.com  2.wait      </pre>

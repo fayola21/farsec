@@ -1,0 +1,1 @@
+<title>Issue 3232 -   chromium -    Babylon Translator doesen't work - Project Hosting on Google Code</title>   1. Middle click on a word of the text of the web page          Babylon translator isn't able to recongnize the text        Babylon translator reads wrong characters    Please provide

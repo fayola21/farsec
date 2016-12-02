@@ -1,0 +1,1 @@
+<title>Issue 42300 -   chromium -    Memory corruption / corrupt function pointer usage with bad AAC SBR - Project Hosting on Google Code</title> <pre> The attached files demonstrate the error. I have a suggested patch  to   follow.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3218 -   chromium -    Problems with scrollbar in GC - Project Hosting on Google Code</title>   1. Open any web-site  2. Use touchpad-scrollbar of Notebook ASUS F3Jseries  3. Scrollbar works only scrolling down                Please provide

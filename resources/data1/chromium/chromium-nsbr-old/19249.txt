@@ -1,0 +1,1 @@
+<title>Issue 19249 -   chromium -    Homepage - Project Hosting on Google Code</title>   1. click on the &quot;home&quot; button (house symbol) displays thumbnails instead of   opening the homepage defined in the settings                    <b>Please provide

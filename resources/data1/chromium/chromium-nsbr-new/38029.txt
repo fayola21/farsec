@@ -1,0 +1,1 @@
+<title>Issue 38029 -   chromium -    Suggestion: middle-clicking to close the download bar - Project Hosting on Google Code</title> <pre> Please allow to close the download bar by middle clicking anywhere in the   download bar. This will make is easier and faster to close it (we rarely   need it after the download is done).  </pre>

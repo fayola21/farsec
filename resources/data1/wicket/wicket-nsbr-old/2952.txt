@@ -1,0 +1,1 @@
+Exposes Application DebugSettings related functionality for JMX    I think it would be cool if the DebugSettingsMBean exposes every IDebugSettings properties for JMX  I'm sending an patch with the code. outputComponentPath outputMarkupContainerClassName linePreciseReportingOnAddComponentEnabled linePreciseReportingOnNewComponentEnabled developmentUtilitiesEnabled   

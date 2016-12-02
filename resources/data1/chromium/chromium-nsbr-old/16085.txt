@@ -1,0 +1,1 @@
+<title>Issue 16085 -   chromium -    &quot;Always open files of this type&quot; no longer works - Project Hosting on Google Code</title>   1. Download any torrent file  2. Tick &quot;Always open files of this type&quot;  3. Download any other torrent file      The file should open upon downloading      It just downloads and sits there    <b>Please provide

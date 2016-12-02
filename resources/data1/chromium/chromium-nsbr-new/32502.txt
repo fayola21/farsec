@@ -1,0 +1,1 @@
+<title>Issue 32502 -   chromium -    Cannot Print Selection - Project Hosting on Google Code</title>   1.Drop down to Print  2.Click Print  3.Print Selection is grayed out  can only Print Page(s)    What is the expected result? Only highlighted Selection to be Printed      What happens instead? Cannot Print Selection  entire page is printed      <b>Please provide

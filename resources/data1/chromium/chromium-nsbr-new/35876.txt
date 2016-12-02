@@ -1,0 +1,1 @@
+<title>Issue 35876 -   chromium -    Linux perf regression on LowMem perf bots around r38675 - Project Hosting on Google Code</title> <pre> Looks like we have a perf regression <a href="/p/chromium/source/detail?r=38675">r38675</a>:    Page Cycler Intl1  Page Cycler Intl2  Page Cycler DHTML  Page Cycler Morejs   </pre>

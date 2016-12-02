@@ -1,0 +1,1 @@
+<title>Issue 50 -   chromium -    scrolling up with touchpad not working - Project Hosting on Google Code</title>   1. Scroll down the page with the touchpad  2. Try to scroll up  impossible                  Please provide

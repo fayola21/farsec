@@ -1,0 +1,1 @@
+<title>Issue 29602 -   chromium -    Chromium Linux print dialog does not fit on a small display - Project Hosting on Google Code</title> <pre> Some of our UI does not fit on a 1024x600 screen  a common size for modern   netbooks. The first one I found is the options dialog. </pre>

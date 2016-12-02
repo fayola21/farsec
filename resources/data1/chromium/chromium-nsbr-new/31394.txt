@@ -1,0 +1,1 @@
+<title>Issue 31394 -   chromium -    Cannot assign Object to localStorage. - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.266.0&gt;    Like:  LocalStorage['storageName']={a:1 b:2}      In the attachment image you can see that the localStorage item contain string   &quot;[object Object]&quot; instead the Object. </pre>

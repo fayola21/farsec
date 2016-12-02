@@ -1,0 +1,1 @@
+<title>Issue 6716 -   chromium -    windows live mail - cannot click javascript links - Project Hosting on Google Code</title>   1. Simply sign in at hotmail.com and attempt to either access a mail folder   or individual mail item by clicking on it. it will not work.        that you should be able to view mail/mail folders.      nothing.    Please provide

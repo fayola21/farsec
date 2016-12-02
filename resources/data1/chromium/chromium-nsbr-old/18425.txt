@@ -1,0 +1,1 @@
+<title>Issue 18425 -   chromium -    Regression: Status bubble obscures download shelf again - Project Hosting on Google Code</title> <pre> This is a reappearance of <a href="http://code.google.com/p/chromium/issues/detail?">http://code.google.com/p/chromium/issues/detail?</a>  id=6590.  I imagine it was caused by recent reorganization of the download   shelf code.   </pre>

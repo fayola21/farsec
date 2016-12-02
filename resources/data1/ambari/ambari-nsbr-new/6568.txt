@@ -1,0 +1,1 @@
+Service pluggability: New added services in the stack has Add Property link in log-4j and env categories       

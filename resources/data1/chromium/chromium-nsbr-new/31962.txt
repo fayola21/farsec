@@ -1,0 +1,1 @@
+<title>Issue 31962 -   chromium -    Allow inspector font to be changed - Project Hosting on Google Code</title>   1. Open inspector      To be able to change the font used by the web inspector.      It isn't changeable.    <b>Please provide

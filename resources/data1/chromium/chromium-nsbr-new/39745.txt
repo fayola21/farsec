@@ -1,0 +1,1 @@
+<title>Issue 39745 -   chromium -    Send ping days parameter for extension blacklist - Project Hosting on Google Code</title> <pre> Right now we send the ping days parameter for regular extensions (indicating   how many integral days it's been since the last update check) but not the   blacklist.     </pre>

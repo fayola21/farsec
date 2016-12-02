@@ -1,0 +1,1 @@
+<title>Issue 41176 -   chromium -    Bookmark manager list should only use one row per item - Project Hosting on Google Code</title> <pre> Fixed in <a href="/p/chromium/source/detail?r=44249">r44249</a> </pre>

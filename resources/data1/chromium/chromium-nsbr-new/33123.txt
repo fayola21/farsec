@@ -1,0 +1,1 @@
+<title>Issue 33123 -   chromium -    [Extensions] google mail checker can not jump to pinned tab. - Project Hosting on Google Code</title>   1.log in gmail in a tab and pin the tab.  2.switch to other tab.   3.click the google mail checker button.      It should switch to the gmail tab.       It does not.    <b>Please provide

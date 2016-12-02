@@ -1,0 +1,1 @@
+NPE with nested property models    After updated from 1.4.8 to 1.4.14 I got this bug.The problem is with nested property models where the 'top' model has a null model object that is bound to a TextField. You get a NPE when the page is rendered. There is a quick workaround by overriding getOjbectClass() on the property model.I provide a running example of the problem.   

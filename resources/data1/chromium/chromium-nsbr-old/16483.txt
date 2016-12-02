@@ -1,0 +1,1 @@
+<title>Issue 16483 -   chromium -    Find in NNTP doesn't display correct count - Project Hosting on Google Code</title>   1. Open a NNTP  2. Do a CRTL+F and search for a string        the actual count of the results is displayed      Find displays '1 or 0'    <b>Please provide

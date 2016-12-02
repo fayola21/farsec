@@ -1,0 +1,1 @@
+<title>Issue 32067 -   chromium -    Most recent update to Chrome Developer Channel causes Crash on &quot;About Chrome&quot; - Project Hosting on Google Code</title>   1. I updated the dev channel  2. I now goto About Chrome  3. Chrome Crashes forcing restart      That I can see the About Chrome page      Chrome crashes and forces a restart    <b>Please provide

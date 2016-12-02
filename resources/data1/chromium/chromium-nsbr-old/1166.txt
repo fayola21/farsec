@@ -1,0 +1,1 @@
+<title>Issue 1166 -   chromium -    awstats update link won't work - Project Hosting on Google Code</title>   1. Navigate to any awstats page which allows manual updating  2. Click on the &quot;Update Now&quot; link at the top of the page  3. You don't get a current update  it displays old info.                Please provide

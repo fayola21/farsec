@@ -1,0 +1,1 @@
+<title>Issue 43674 -   chromium -    Scrolling issue on pages using Flash Video - Project Hosting on Google Code</title>   1. open a website with flash video content on it  2. play the flash video  3. use the scrollbar      the scrolling should stop once i release the mouse button      the scrollbar remains pegged to the movments of the mouse.       <b>Please provide

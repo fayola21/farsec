@@ -1,0 +1,1 @@
+<title>Issue 13046 -   chromium -    New version of libpng  1.2.36 which fixes a security bug - Project Hosting on Google Code</title> <pre> Security bug for libpng  update needed to 1.2.36    <a href="http://www.libpng.org/pub/png/libpng.html">http://www.libpng.org/pub/png/libpng.html</a>   </pre>

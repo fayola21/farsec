@@ -1,0 +1,1 @@
+<title>Issue 19127 -   chromium -    Middle-click minimizes window. - Project Hosting on Google Code</title>   1. Middle click in a Chrome Window          PRIMARY selection pasted into textarea (if click textarea) otherwise   nothing.        In addition to the expected behavior the window is minimized.    <b>Please provide

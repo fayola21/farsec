@@ -1,0 +1,1 @@
+<title>Issue 26774 -   chromium -    Chrome 4 crashes regularly (disappears rather than hanging) - Project Hosting on Google Code</title>   1. Seems random  no user actions seem to be related to the timing of the   crash                    <b>Please provide

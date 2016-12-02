@@ -1,0 +1,1 @@
+<title>Issue 6665 -   chromium -    hotmail cannot be used - Project Hosting on Google Code</title>   1. opening mail in hotmail  2. messages cannot be opened  3. new email message can be composed  typing cannot be done            inbox links are inactive  nothing happens when i click a message and i   cannot type in the compose text area.    Please provide

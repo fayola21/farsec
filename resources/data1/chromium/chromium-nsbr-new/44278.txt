@@ -1,0 +1,1 @@
+<title>Issue 44278 -   chromium -    Chrome should show PDFs in a browser tab instead of downloading the file - Project Hosting on Google Code</title>   1. Click on a link to a PDF file      Chrome should show the PDF in a browser tab with controls to save it  zoom in/out (like Safari on   Mac)      Chrome downloads the file into Downloads folder.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 20277 -   chromium -    Most visited links hard to read in some themes - Project Hosting on Google Code</title> <pre> When not in thumbnail form  links are hard to read.  Make link color themed.   </pre>

@@ -1,0 +1,1 @@
+DatabaseMetaData.getConnection returns the wrong connection when using connection pooling    The connection returned from DatabaseMetaData.getConnection is not the same as the connection used to create the meta data object when the client driver is used with connection pooling enabled.For trunk  the embedded driver/ds does the right thing.   

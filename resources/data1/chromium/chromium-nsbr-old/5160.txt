@@ -1,0 +1,1 @@
+<title>Issue 5160 -   chromium -    Middle-clicking on a link doesn't change the link to visited - Project Hosting on Google Code</title>   1. Middle-click on a regular text link on a page  2. Link opens in new tab  3. Color of the text link doesn't change to appear visited      Text link color changes to visited.      Nothing.    Please provide

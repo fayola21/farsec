@@ -1,0 +1,1 @@
+<title>Issue 29151 -   chromium -    Add software license metadata to Chromium extension manifest - Project Hosting on Google Code</title> <pre> This could be exposed in the UI and search field of the upcoming extensions   gallery  for example. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1192 -   chromium -    An embedded mediaplayer doesn't play the audiostream - Project Hosting on Google Code</title>   1. Load the media player from the URL  2. The media player should start playing the stream automatically but it   doesn't.  3. It also is not possible to start playing manually                Please provide

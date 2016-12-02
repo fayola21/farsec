@@ -1,0 +1,1 @@
+<title>Issue 37567 -   chromium -    Executing alertconfirmprompt from background pages crashes the entire browser - Project Hosting on Google Code</title>   1. Install the attached proof-of-concept. It's nothing but a   background.html which calls alert('Test')  2. Watch Chrome crash.      Javascript alert: Test      Chrome completely crashes    <b>Please provide

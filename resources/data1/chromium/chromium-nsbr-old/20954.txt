@@ -1,0 +1,1 @@
+<title>Issue 20954 -   chromium -    worker-script-error.html no longer runs - Project Hosting on Google Code</title> <pre> The problem is that the new test I added (ensuring that event handlers   invoked with addEventListener(&quot;error&quot;) get invoked) doesn't work with the   chrome worker implementation.   </pre>

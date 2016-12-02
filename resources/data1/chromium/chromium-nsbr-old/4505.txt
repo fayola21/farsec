@@ -1,0 +1,1 @@
+<title>Issue 4505 -   chromium -    javascript .select() method broken - Project Hosting on Google Code</title>   1. go to the link  2. type some text in 1 of the fields.  3. blur the field  then focus      text becomes selected onFocus      text becomes selected onMouseDown and de-selected onMouseUp    Please provide

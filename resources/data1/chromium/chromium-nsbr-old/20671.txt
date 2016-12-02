@@ -1,0 +1,1 @@
+<title>Issue 20671 -   chromium -    Save Password Issue - Project Hosting on Google Code</title>   1. Open www.way2sms.com  2. Login using username and password  3. Observe that Chrome does not ask to save password.        Chrome should prompt to save password.        Logged in without any prompt  so I am unable to store the password.    <b>Please provide

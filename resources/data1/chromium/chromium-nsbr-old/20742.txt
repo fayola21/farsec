@@ -1,0 +1,1 @@
+<title>Issue 20742 -   chromium -    tab label missing - Project Hosting on Google Code</title>   1. load page          window/tab labels should contain text assigned by site.      only the favicon appears  no text.    <b>Please provide

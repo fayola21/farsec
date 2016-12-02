@@ -1,0 +1,1 @@
+Change log in Form.handleMultiPart() from error to warn    If the upload fails in Form.handleMultipart  perhaps the error should be logged as a warning instead of an error  since the user is being informed that the upload failed.   

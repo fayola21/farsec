@@ -1,0 +1,1 @@
+<title>Issue 25926 -   chromium -    `call` fails to coerce `null` (and `undefined`) to Global Object in some cases - Project Hosting on Google Code</title>     var GlobalObject = (function(){ return this; })();    Object.prototype.toString.call(null) ===  Object.prototype.toString.call(GlobalObject);      `true`      `false`    <b>Please provide

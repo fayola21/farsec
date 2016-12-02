@@ -1,0 +1,1 @@
+<title>Issue 40987 -   chromium -    console not displaying ajax requests in inspect element - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.372.0      1. right click on page and go to inspect element  2. go to console  3. doesn't display ajax requests back to server in console      it shows the request urls      nothing     </pre>

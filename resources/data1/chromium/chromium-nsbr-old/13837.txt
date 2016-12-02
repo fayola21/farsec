@@ -1,0 +1,1 @@
+<title>Issue 13837 -   chromium -    Task manager crash after opening devtools - Project Hosting on Google Code</title>   1. Open the devtools by right clicking on any page &gt; inspect element.  2. Close the devtools (required).  3. Open the task manager.  4. *boom*      The task manager should open.      The browser crashes.    <b>Please provide

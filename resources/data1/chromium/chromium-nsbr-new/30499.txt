@@ -1,0 +1,1 @@
+<title>Issue 30499 -   chromium -    Snow leopard expose issue - Project Hosting on Google Code</title>   1. Open chrome  2. Press expose key on mac  3. Blank space appears - it is the status bar        The status bar should be part of the chrome window.        Snow leopard interprts the status bar as a separate app and generates a   blank space.    <b>Please provide

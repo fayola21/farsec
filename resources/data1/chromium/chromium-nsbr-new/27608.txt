@@ -1,0 +1,1 @@
+<title>Issue 27608 -   chromium -    about:version returns nothing  - Project Hosting on Google Code</title>   1. input about:version in address bar  2. enter        version of chrome must show      blank    <b>Please provide

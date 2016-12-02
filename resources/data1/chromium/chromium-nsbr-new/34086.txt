@@ -1,0 +1,1 @@
+<title>Issue 34086 -   chromium -    Move the factory code outside buidlbot - Project Hosting on Google Code</title> <pre> To make our buildbot factories more easily modifiable  we want to move as   much code as possible to the code checkout itself. This will allow a script   to be tested and modified more easily without restarting the master. </pre>

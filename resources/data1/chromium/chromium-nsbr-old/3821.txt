@@ -1,0 +1,1 @@
+<title>Issue 3821 -   chromium -    Czech: Open Parenthesis is missing in About Google Chrome Dialog. - Project Hosting on Google Code</title> <pre> Build: 0.3.154.9 (4058)  Install Google Chrome with sys locals set to Czech.  Bring up About Google Chrome dialog.    Notice the open parenthesis is missing in the last line for revision number.    See the attached screenshot. </pre>

@@ -1,0 +1,1 @@
+Replace the NoCacheStorage Class    The NoCacheStorage class can safely be replaced by FreeMarker's NullCacheStorage class (created per my suggestion based on our needs in Camel) introduced in 2.3.16.   

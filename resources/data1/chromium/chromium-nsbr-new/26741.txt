@@ -1,0 +1,1 @@
+<title>Issue 26741 -   chromium -    Focus parameter for document.addEventListener - Project Hosting on Google Code</title>   1. Open the attached HTML file  2. Click anywhere inside the document        An alert with a &quot;Success!&quot; message.      Nothing.    <b>Please provide

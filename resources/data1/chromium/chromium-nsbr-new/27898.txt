@@ -1,0 +1,1 @@
+<title>Issue 27898 -   chromium -    Painting problems when transitioning between ntp and non-ntp - Project Hosting on Google Code</title> <pre>   1. Make bookmark bar floating.  2. Open new tab  3. open another tab and navigate some where else  4. click back and forth on the two tabs        At some point a white bar is painted on top of the frame.       </pre>

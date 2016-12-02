@@ -1,0 +1,1 @@
+<title>Issue 40301 -   chromium -    Creating a new tab crashes the entire browser - Project Hosting on Google Code</title>   1. Create a new tab                  The entire browser crashes    <b>Please provide

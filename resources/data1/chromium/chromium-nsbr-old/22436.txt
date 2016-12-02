@@ -1,0 +1,1 @@
+<title>Issue 22436 -   chromium -    Some fonts in developer tools are ugly/unreadable - Project Hosting on Google Code</title> <pre> It was all designed on Macs  surely.  We should tweak the CSS to be more Linux-friendly in its fallbacks.    See screenshot:  - monospace too big (might be that I tweaked a setting in a bad way?)  - exception font against red is bad  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 15421 -   chromium -    Don't create GtkSockets browser-side for windowless plugins - Project Hosting on Google Code</title> <pre> Unfortunately  the creation order plugins currently use is wrong to make this   easy to do. </pre>

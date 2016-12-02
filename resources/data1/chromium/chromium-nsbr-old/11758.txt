@@ -1,0 +1,1 @@
+<title>Issue 11758 -   chromium -    should track buildbot build/test/cycle times in performance graphs - Project Hosting on Google Code</title> <pre> We should track the time it takes to build the project in Debug and Release   on the bots as a performance graph so that we can detect major regressions   when they get introduced. </pre>

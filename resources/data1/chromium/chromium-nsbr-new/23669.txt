@@ -1,0 +1,1 @@
+<title>Issue 23669 -   chromium -    Chrome Frame does not enable current renderer accessibility flags - Project Hosting on Google Code</title> <pre> Chrome Frame currently does not pass the --enable-renderer-accessibility   flag. A11y events should be passed as they are generated from renderers. </pre>

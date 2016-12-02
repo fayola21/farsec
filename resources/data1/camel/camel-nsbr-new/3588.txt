@@ -1,0 +1,1 @@
+JMS spec and JPA spec JARs should not be compile scoped by provided    See nabblehttp://camel.465427.n5.nabble.com/dependency-compile-scope-to-geronimo-XYZ-VERSION-spec-in-camel-jpa-amp-camel-jms-td3356320.html#a3356541   

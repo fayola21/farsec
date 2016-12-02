@@ -1,0 +1,1 @@
+<title>Issue 20827 -   chromium -    New version crashed after typing any urls in address bar - Project Hosting on Google Code</title>   1. Open chrome  type any urls  like www.google.com  2. chrome crashed  even you haven't finish the url.                  <b>Please provide

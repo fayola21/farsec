@@ -1,0 +1,1 @@
+<title>Issue 45231 -   chromium -    Google Calendar renders with unnecessary vertical scroll bar - Project Hosting on Google Code</title>   1. Simply go to the calendar page      There should not be a vertical scroll bar on the right side      There is a scroll bar    <b>Please provide

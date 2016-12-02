@@ -1,0 +1,1 @@
+<title>Issue 19110 -   chromium -    youtube video loads slowly - Project Hosting on Google Code</title>   1.open youtube  2.load any video        3 min video take 30sec to load      loads fast for about 15% of the video then it slows alot  takes about 3min   to load the rest.  I have a 5mb/s DSL line and loads fine when using   firefox.    <b>Please provide

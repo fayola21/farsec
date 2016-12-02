@@ -1,0 +1,1 @@
+<title>Issue 30044 -   chromium -    Define rules for sync schedule of each data type - Project Hosting on Google Code</title> <pre> We must evaluate each new data type and decide what kind of sync schedule we   want to implement for each.  This will drive the design of the sync   scheduler system.   </pre>

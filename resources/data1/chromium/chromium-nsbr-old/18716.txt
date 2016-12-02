@@ -1,0 +1,1 @@
+<title>Issue 18716 -   chromium -    need some way to define &amp; document pageAction events - Project Hosting on Google Code</title> <pre> They cannot currently be defined and documented because they are of unknown   number and name -- based on what page actions the extension defines. </pre>

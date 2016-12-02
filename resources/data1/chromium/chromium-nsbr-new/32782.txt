@@ -1,0 +1,1 @@
+<title>Issue 32782 -   chromium -    Expose basic filter capabilities to the user - Project Hosting on Google Code</title> <pre> - Implement basic filtering for cookies  images  plugins  and javacsript  - Implement UI elements that allow for managing these filters  - Implement UI elements for user notification </pre>

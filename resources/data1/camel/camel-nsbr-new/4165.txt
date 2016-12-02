@@ -1,0 +1,1 @@
+LoanBroker example have some issues when it is deployed into osgi container like ServiceMix    When you deploy the camel-example-loanbroker bundle into OSGi container  the osgi container only load the WebService route because there are some confliction of the bean ids.   

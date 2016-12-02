@@ -1,0 +1,1 @@
+<title>Issue 13209 -   chromium -    &quot;Show In Folder&quot; does nothing when file is deleted. - Project Hosting on Google Code</title>   1. Download any file  2. Delete file from folder  3. Click download tab and elect &quot;Show In Folder&quot;      Error showing that file is not in folder.  OR Show Folder with file not there.      No response.    <b>Please provide

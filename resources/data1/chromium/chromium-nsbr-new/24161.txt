@@ -1,0 +1,1 @@
+<title>Issue 24161 -   chromium -    Can't use a web application. (http://www.freestockcharts.com/) - Project Hosting on Google Code</title>   1. Go to <a href="http://www.freestockcharts.com/">http://www.freestockcharts.com/</a>  2. You get a blank page.      See a big chart.          <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 42666 -   chromium -    Fix Alternate-Protocol to work with proxies - Project Hosting on Google Code</title> <pre> We have to propagate the changed endpoint (just the port really) to the   SOCKSClientSocketPool::Connect() and the HTTP CONNECT. </pre>

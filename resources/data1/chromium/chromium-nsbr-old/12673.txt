@@ -1,0 +1,1 @@
+<title>Issue 12673 -   chromium -    OOM should crash browser/renderer immediately on OSX. - Project Hosting on Google Code</title> <pre> We need to verify that an Out of Memory condition (failed allocation) on OSX   crashes the renderer &amp; browser processes immediately the same as Windows. </pre>

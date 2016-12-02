@@ -1,0 +1,1 @@
+<title>Issue 23409 -   chromium -    Cannot open pdf file when acrobat pro 9 is on system - Project Hosting on Google Code</title>   1.  Attempts to open any PDF file within Chrome                    <b>Please provide

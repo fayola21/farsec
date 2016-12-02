@@ -1,0 +1,1 @@
+<title>Issue 27607 -   chromium -    Inconsistent accesskeys - Project Hosting on Google Code</title>   1. Press alt+s on a website with an accesskey on a submitbutton      Form to be submitted      Nothing    <b>Please provide

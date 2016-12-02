@@ -1,0 +1,1 @@
+<title>Issue 13606 -   chromium -    Google search not working - Project Hosting on Google Code</title>   1. (Intermittently) searching from the omnibox          Google search results page displayed.      Web page displays random characters as in the screenshot rather than the   search results.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 18576 -   chromium -    Cannot access about: pages - Project Hosting on Google Code</title>   1. enter about: in the omnibox          see about: pages      browser performs google search for about:    <b>Please provide

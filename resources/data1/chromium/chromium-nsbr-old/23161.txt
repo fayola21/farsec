@@ -1,0 +1,1 @@
+<title>Issue 23161 -   chromium -    content missing from omnibar searching - Project Hosting on Google Code</title>   1.type any keywords in chrome omnibar  2.some content missing in omnibar search results  3.google search results page consumes more than 30% CPU resource                <b>Please provide

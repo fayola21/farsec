@@ -1,0 +1,1 @@
+<title>Issue 42836 -   chromium -    Chrome does not remember my position on a page - Project Hosting on Google Code</title>   1.Scroll down on a web page.  2.Click link to another web page.  3.Hit back button.  Chrome returns to top of page.      Page should restore to the same position it was previously at.      Page resets to the top.    <b>Please provide

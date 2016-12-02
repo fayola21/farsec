@@ -1,0 +1,1 @@
+<title>Issue 9292 -   chromium -    User can kill browser process thr task manager. - Project Hosting on Google Code</title> <pre> Trunk (<a href="/p/chromium/source/detail?r=12445">r12445</a>)     User can kill Browser process thr Chrome's task manager.  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34891 -   chromium -    Google Voice Extension - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.317.2          I cleared my browsing history  cache  etc. (basically everything) and now the   google voice extension does not log in  and is in the perpetual state of   trying to log in.  Am I the only person who ran into this problem? </pre>

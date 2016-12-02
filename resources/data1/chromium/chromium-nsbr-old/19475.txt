@@ -1,0 +1,1 @@
+<title>Issue 19475 -   chromium -    Endless resizing takes 100% CPU - Project Hosting on Google Code</title>   1. Just enter the URL.      Resizes the window and show the page.      Looks like goes into a endless loop  flickering Chrome and taking 100% CPU  resources. And no  it doesn't get right the new size and neither show the page.    <b>Please provide

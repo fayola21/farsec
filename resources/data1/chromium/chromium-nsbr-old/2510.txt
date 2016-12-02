@@ -1,0 +1,1 @@
+<title>Issue 2510 -   chromium -    Font Changes Not Working when font-family is not designated at all - Project Hosting on Google Code</title>   1. Change font in Chrome to Verdana for Serif &amp; Sans Serif  2. Go to phoenix.craigslist.org/ele and see the listings. They should be   in Verdana but are rendered in Times New Roman                  Please provide

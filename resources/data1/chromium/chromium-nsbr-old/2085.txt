@@ -1,0 +1,1 @@
+<title>Issue 2085 -   chromium -    BUG: Refreshing Inspector makes it blank - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.29  URLs (if applicable) : any      1. Right click and select &quot;Inspect element&quot; wherever.  2. Press F5 in the Inspector window.      Updated resultssame page.      Blank template.   </pre>

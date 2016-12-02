@@ -1,0 +1,1 @@
+<title>Issue 5202 -   chromium -    does not work with hotmail - Project Hosting on Google Code</title>   1. open a hotmail email  2. attempt to respond         a window that allows you to type a response to an email      a window that looks like it will allow you to type  but which does not   allow a cursor to be placed in the text field    Please provide

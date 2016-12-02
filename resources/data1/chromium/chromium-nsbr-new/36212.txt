@@ -1,0 +1,1 @@
+<title>Issue 36212 -   chromium -    &quot;iGoogle Tab Remover For Chrome&quot; causes erroneous blocked popup warning on iGoogle - Project Hosting on Google Code</title> <pre> Supposedly  this is a regression with the new popup blocking UI </pre>

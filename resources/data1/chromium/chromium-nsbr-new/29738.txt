@@ -1,0 +1,1 @@
+<title>Issue 29738 -   chromium -    Need to update package to depend directly on several libs - Project Hosting on Google Code</title> <pre> When <a href="http://codereview.chromium.org/465126">http://codereview.chromium.org/465126</a> lands  our google-chrome-*   packages should list dependencies on these libraries:    zlib  bzip2  libpng  libjpeg  libxslt </pre>

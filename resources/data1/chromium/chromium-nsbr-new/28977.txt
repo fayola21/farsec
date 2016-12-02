@@ -1,0 +1,1 @@
+<title>Issue 28977 -   chromium -    the tab menus should share a controller/utility impl - Project Hosting on Google Code</title> <pre> Each platform seems to have it's own code for handling the context menus on   the tabs.  It would be nice to share this so there is only one place to update   for new things. </pre>

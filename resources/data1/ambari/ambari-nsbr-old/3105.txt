@@ -1,0 +1,1 @@
+Random change of blocks for Summary and Alerts and health checks on some Service pages    The height of blocks 'Alerts and health checks' is changed sometimes after Service page refresh.It can change to normal sizes after another tries.Produced only in Firefox.   

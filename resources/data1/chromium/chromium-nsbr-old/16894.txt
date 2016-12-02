@@ -1,0 +1,1 @@
+<title>Issue 16894 -   chromium -    dragging input text - Project Hosting on Google Code</title>   1. Type &quot;two one three&quot; into a renderer page text-input.  2. Select &quot;two &quot; and drag text to before &quot;three&quot;      &quot;one two three&quot;      &quot;one three&quot; (ie &quot;two &quot; disappears)    <b>Please provide

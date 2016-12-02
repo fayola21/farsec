@@ -1,0 +1,1 @@
+Common storage for different wizards    Some wizards (installer  addHosts  addServices) use common local storage objects.But each should has separated object (for example  based on controllerName).   

@@ -1,0 +1,1 @@
+<title>Issue 874 -   chromium -    Touchpad Synchronisation - Project Hosting on Google Code</title>   1. load any web page.  2. using the touchpad of your laptop scroll down.  3. again try to scroll up... it won't work                Please provide

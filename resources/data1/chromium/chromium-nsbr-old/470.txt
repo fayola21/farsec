@@ -1,0 +1,1 @@
+<title>Issue 470 -   chromium -    crash when type string &quot;:%&quot; in address bar - Project Hosting on Google Code</title>   1. type &quot;:%&quot; or &quot;examples:%&quot; (don't contain &quot;&quot;) in address bar  2. then the browser crash                  Please provide

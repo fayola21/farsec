@@ -1,0 +1,1 @@
+<title>Issue 5675 -   chromium -    auto-complete doesn't work in yahoo - Project Hosting on Google Code</title>   1. Compose a new e-mail in web-based yahoo mail  using the name or e-mail   of a contact already in the yahoo address book  2. Chrome will not auto-complete  as other browsers will.        The address book data should auto-complete       it doesn't.    Please provide

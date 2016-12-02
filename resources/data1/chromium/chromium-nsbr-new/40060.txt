@@ -1,0 +1,1 @@
+<title>Issue 40060 -   chromium -    Add possibility to use KDE's file dialog when saving/opening files - Project Hosting on Google Code</title>             If we set the browser to ask where it wants to save the file add   possibility to use native (KDE) file dialog instead of gtk file dialog      It is using gtk's file dialog.    <b>Please provide

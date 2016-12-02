@@ -1,0 +1,1 @@
+<title>Issue 2868 -   chromium -    Problem opening up Orkut - Project Hosting on Google Code</title>   1. Just opening up the home page.  2. Works fine on other browsers.   3. It's a blurred page barely able to see the Orkut logo.                 Please provide

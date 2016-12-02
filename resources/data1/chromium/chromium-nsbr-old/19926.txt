@@ -1,0 +1,1 @@
+<title>Issue 19926 -   chromium -    Cannot input any text in Japanese flash page - Project Hosting on Google Code</title>   1.Open the webpage contains flash objects with input box  2.type something in the input box  3.nothing can typed in      something appear in the input box          <b>Please provide

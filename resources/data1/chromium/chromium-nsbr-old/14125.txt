@@ -1,0 +1,1 @@
+<title>Issue 14125 -   chromium -    Request: navigation links at the top of history page - Project Hosting on Google Code</title>   1. open history  2. try to go straight to an older page        navigation links also at the top of page      need to scroll to the bottom of the page to find navigation links  also links to specific pages (day/week/month  etc.)    <b>Please provide

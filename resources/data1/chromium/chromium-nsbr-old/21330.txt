@@ -1,0 +1,1 @@
+<title>Issue 21330 -   chromium -    Add constants to bookmarks extension API for well-known folders - Project Hosting on Google Code</title> <pre> There is no good way to find folders such as &quot;Other Bookmarks&quot; or &quot;Bookmarks   Bar&quot; in the bookmarks API. We should add some constants to the API that   contain special IDs for these folders. </pre>

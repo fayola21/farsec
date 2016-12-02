@@ -1,0 +1,1 @@
+<title>Issue 7451 -   chromium -    facebook - Project Hosting on Google Code</title>   1. A pesar de tener el plugin de Java (jre-6u11-windows-i586-p-iftw-k.exe)   no es posible subir fotos en Facebook desde Chrome y s��__ es posible con   Mozilla                    Please provide

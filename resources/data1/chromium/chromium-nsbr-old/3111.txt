@@ -1,0 +1,1 @@
+<title>Issue 3111 -   chromium -    [new-http] Check for username:pass in the URL when using http auth - Project Hosting on Google Code</title> <pre> use URL of the form    http://username:password@foobar.com/path    If foobar.com/path challenges with a 401  should try the identity (username  password) before   prompting the user for login. </pre>

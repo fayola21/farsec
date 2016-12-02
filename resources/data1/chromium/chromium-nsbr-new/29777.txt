@@ -1,0 +1,1 @@
+<title>Issue 29777 -   chromium -    Allow window color to be changed with default theme - Project Hosting on Google Code</title> <pre> The user should be able to change the color of Chrome in the default theme    similar to QSB &amp; Cole's early Chroma mocks. Cole has ideas specifically on   the color applications to be applied here  talk to him for more. </pre>

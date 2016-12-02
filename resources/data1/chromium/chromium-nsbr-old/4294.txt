@@ -1,0 +1,1 @@
+<title>Issue 4294 -   chromium -    Hang monitor should live on BrowserView - Project Hosting on Google Code</title> <pre> HangMonitor is mostly windows-specific  so should move to BrowserView.   </pre>

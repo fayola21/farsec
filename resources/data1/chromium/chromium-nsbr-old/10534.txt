@@ -1,0 +1,1 @@
+<title>Issue 10534 -   chromium -    Buildbot doesn't save checksums for layout tests - Project Hosting on Google Code</title> <pre> Buildbot doesn't seem to save .checksum files for the image results for   failing layout tests. This makes it difficult/impossible to use those results   to generate a new baseline. </pre>

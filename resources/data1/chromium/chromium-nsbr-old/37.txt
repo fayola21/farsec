@@ -1,0 +1,1 @@
+<title>Issue 37 -   chromium -    vBulletin with no dropdowns - Project Hosting on Google Code</title>   1. Log into a vBullletin powered message board  2. Notice how the stuff like Thread Tools are listed out at the bottom      They should be a javascript drop-down menu      They get listed at the bottom instead.    Please provide

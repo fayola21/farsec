@@ -1,0 +1,1 @@
+<title>Issue 17463 -   chromium -    gtk-themed star/go buttons - Project Hosting on Google Code</title> <pre> I see a couple little graphical glitches:    1) the star button looks pressed when a site is starred. This is a little   weird. I think only the star should look different  not the button border.  2) the go and stop buttons are different sizes. </pre>

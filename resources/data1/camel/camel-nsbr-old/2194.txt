@@ -1,0 +1,1 @@
+RestletProducer should support native async request/response semantics    RestletProducer should support native async request/response semantics like the recent changes made to the camel-jetty producer.   

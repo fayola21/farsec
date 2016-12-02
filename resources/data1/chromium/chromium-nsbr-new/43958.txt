@@ -1,0 +1,1 @@
+<title>Issue 43958 -   chromium -    scroll event fired twice on mac - Project Hosting on Google Code</title> <pre> We fire the 'scroll' event twice for every scroll on mac.  Firefox  Safari (on Leopard) and Chrome linux   fire it only once per scroll.    See the attached test page.  Try hitting page up/down  the up/down arrow  or manipulating the   scrollbar. </pre>

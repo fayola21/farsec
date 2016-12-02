@@ -1,0 +1,1 @@
+<title>Issue 31969 -   chromium -    Bookmark manager: Can't edit &quot;other bookmarks&quot; - Project Hosting on Google Code</title> <pre> The &quot;other bookmarks&quot; doesn't show up in the top-level listing of the   manager so you can't move things into or out of it. </pre>

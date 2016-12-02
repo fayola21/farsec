@@ -1,0 +1,1 @@
+<title>Issue 23518 -   chromium -    Chromium crashes when copying text from specific web site (javascript.about.com) - Project Hosting on Google Code</title>   1. access web site (<a href="http://javascript.about.com">http://javascript.about.com</a>)  2. select any text  3. copy by using ctrl-c      copy to clipboard      tab crashes with unhappy face.    Please provide

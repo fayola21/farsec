@@ -1,0 +1,1 @@
+<title>Issue 40257 -   chromium -    Ability to always show tabs in fullscreen - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.365.0 (42931)  OS version               : 10.6.3       </pre>

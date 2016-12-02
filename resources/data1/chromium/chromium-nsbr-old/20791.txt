@@ -1,0 +1,1 @@
+<title>Issue 20791 -   chromium -    Move the sync setup wizard strings into generated_resources.grd - Project Hosting on Google Code</title> <pre> In addition  the wizard code should use jstemplate_builder so that it is   easier to reference i18n strings from within the various wizard HTML pages. </pre>

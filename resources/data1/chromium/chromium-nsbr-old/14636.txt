@@ -1,0 +1,1 @@
+<title>Issue 14636 -   chromium -    Middle click on tab close button doesn't close tob. - Project Hosting on Google Code</title>   1. open a tab  2. middle click on the tab close button        tab should close      nothing    <b>Please provide

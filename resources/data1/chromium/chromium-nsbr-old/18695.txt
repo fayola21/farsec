@@ -1,0 +1,1 @@
+<title>Issue 18695 -   chromium -    Add error message when attempting to install an extension/theme in incognito mode - Project Hosting on Google Code</title> <pre> The profile object used in incognito probably isn't the one we want to   install a theme into.    Not sure if this applies to extensions  or if it's even something we want to   allow. </pre>

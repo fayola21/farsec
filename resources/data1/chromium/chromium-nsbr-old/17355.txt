@@ -1,0 +1,1 @@
+<title>Issue 17355 -   chromium -    chome-linux DOES NOT work with SCIM - Project Hosting on Google Code</title>   1. use ./chrome &amp;  2. open scim-bridge  3. then CANNOT input Chinese charactors                <b>Please provide

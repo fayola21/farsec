@@ -1,0 +1,1 @@
+<title>Issue 43835 -   chromium -    Get message that I can't install Adobe plug-in when Chrome is open - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;from gcf:about:version&gt;                         </pre>

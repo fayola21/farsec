@@ -1,0 +1,1 @@
+<title>Issue 773 -   chromium -    Broken images should display ALT text - Project Hosting on Google Code</title>   1. Browsing vBulleting forums          Displaying TAG words      Does not display tagwords on all vbulletin forum pages  just &quot;missing   image&quot;   .  Please provide

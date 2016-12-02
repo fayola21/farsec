@@ -1,0 +1,1 @@
+<title>Issue 26614 -   chromium -    FRUI Imports hang forever on Trunk. - Project Hosting on Google Code</title> <pre> ToT (r 30836)    -Start Chromium with FRUI.  -Select Imports from IE/FF  -Click on Import button    That's it  You will stuck there for ever.     Tracking down the regression.     </pre>

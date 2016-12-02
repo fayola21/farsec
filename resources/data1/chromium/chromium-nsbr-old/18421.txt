@@ -1,0 +1,1 @@
+<title>Issue 18421 -   chromium -    Funny close button face - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.197.0~svn20090804r22377-0ubuntu1~ucd1~jaunty  OS + version : Jaunty  CPU architecture (32-bit / 64-bit): 32            Look at the attached screenshot... </pre>

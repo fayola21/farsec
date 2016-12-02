@@ -1,0 +1,1 @@
+<title>Issue 39357 -   chromium -    User can open multiple bookmark manager tabs per window. - Project Hosting on Google Code</title> <pre> Build: 5.0.360.0 (Official Build 42309)    User should be able to open only one Bookmark manager tab per window. Right   now  user can open multiple tabs. </pre>

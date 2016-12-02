@@ -1,0 +1,1 @@
+<title>Issue 41184 -   chromium -    Bookmark manager: Command update is too slow - Project Hosting on Google Code</title> <pre> Right now we get the entire bookmark tree to check if certain commands can be   executed. We should get a partial sub tree and maybe even cache the result. </pre>

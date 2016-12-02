@@ -1,0 +1,1 @@
+Restarting JmsConsumer should pickup configuration changes    You should be able to using JMX to manage JMS endpoints and change configuration such as number of concurrent consumers.Then when restarting the jms consumers they should pickup any configuration changes done on the jms endpoint.   

@@ -1,0 +1,1 @@
+<title>Issue 4425 -   chromium -    new tab button is overlapped with minimize button of window - Project Hosting on Google Code</title> <pre> Chrome Version       : all builds upto &quot;build 5474&quot; of chromium </pre>

@@ -1,0 +1,1 @@
+<title>Issue 34243 -   chromium -    Opening a new tab and entering a URL - Project Hosting on Google Code</title>   1.opening a new tab  2.entering a URL  3.pushing the Enter key (or theplay symbole)      to go to that adress      nothing happens as if I haven't pushed the Enter button    <b>Please provide

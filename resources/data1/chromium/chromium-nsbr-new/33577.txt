@@ -1,0 +1,1 @@
+<title>Issue 33577 -   chromium -    RGBA Border - Project Hosting on Google Code</title>   Use RGBA on the border/border-color property with alpha being set to less   than 1.      See screenshot.      See screenshot.    <b>Please provide

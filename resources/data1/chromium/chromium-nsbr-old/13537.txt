@@ -1,0 +1,1 @@
+<title>Issue 13537 -   chromium -    problem with facebook like sites - Project Hosting on Google Code</title>   1.click on the chat list that displays who is online and wait for someone   to sign on or off  and the text disappears  2.also when going through the people you may know the text and x buttons   next to the peoples pictures disappear.                  <b>Please provide

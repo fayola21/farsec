@@ -1,0 +1,1 @@
+<title>Issue 37491 -   chromium -    Features Request - Project Hosting on Google Code</title> <pre> Mouse Gesture &amp; Super Drag.  Some plugins implements these features but they're not good enough.     Could you think about adding these 2 features? Please visit   <a href="http://www.chromeplus.org/">http://www.chromeplus.org/</a> for reference.     Thank you:) </pre>

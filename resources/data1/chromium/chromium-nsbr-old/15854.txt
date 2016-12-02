@@ -1,0 +1,1 @@
+<title>Issue 15854 -   chromium -    Media related strings need to return something useful - Project Hosting on Google Code</title> <pre> I added two strings to glue/localized_strings as just returning String()  but   they need to be changed to return something useful. </pre>

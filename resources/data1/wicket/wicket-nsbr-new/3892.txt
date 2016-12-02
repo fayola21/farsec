@@ -1,0 +1,1 @@
+Modal window does not show the right page    1.5-RC5.1 is OK  I noticed it with version 1145888 on trunk.When ModalWindow displays a page (panel is OK)  it displays the home page instead of the right page.   

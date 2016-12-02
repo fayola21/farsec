@@ -1,0 +1,1 @@
+<title>Issue 18071 -   chromium -    Save/restore bookmark window separator position - Project Hosting on Google Code</title> <pre> Chrome Version : 3.0.197.0 (Developer Build 22048)  OS + version : Linux      1. Go to bookmark manager  2. Change position of the separator      position of separator should be saved and restored      it's not saved and restored </pre>

@@ -1,0 +1,1 @@
+<title>Issue 16011 -   chromium -    Implement pitch-preserved audio when changing playback rate - Project Hosting on Google Code</title> <pre> When changing the playback rate of an audio/video element  the pitch of the   audio should slow down/speed up but attempt to maintain pitch. </pre>

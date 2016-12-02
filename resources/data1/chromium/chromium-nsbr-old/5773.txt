@@ -1,0 +1,1 @@
+<title>Issue 5773 -   chromium -    beforeunload doesn't fire in an iframe - Project Hosting on Google Code</title>   1. Create 2 html files  one having an iframe and the second having   beforeunload trapped  2. Navigate the iframe one into some other url  3. Watch nothing happen        beforeunload should fire        beforeunload doesn't fire    Please provide

@@ -1,0 +1,1 @@
+Text improvements to camel-example-cxf-proxy.    Attachment has improvements to README and the camel-config.xml file shown in the online description of this sample: https://cwiki.apache.org/confluence/display/CAMEL/CXF+Proxy+Example (a web page I just updated).   

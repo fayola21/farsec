@@ -1,0 +1,1 @@
+<title>Issue 33089 -   chromium -    GM_setValue  GM_getValue and other GM_* functions not yet implemented - Project Hosting on Google Code</title>   1. Enable Greasemonkey  2. Use a Greasemonkey script with GM_setValue/GM_getValue       An Output.      Nothing Outputs.    <b>Please provide

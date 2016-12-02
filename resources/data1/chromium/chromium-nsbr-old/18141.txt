@@ -1,0 +1,1 @@
+<title>Issue 18141 -   chromium -    browser freezes when uploading data to google sites - Project Hosting on Google Code</title>   1. try to upload files (~10MB) to the file cabinet under google sites  2. freezes up all other sites..navigating to other tabs is possible but   the browser is basically useless till the upload is complete                  <b>Please provide

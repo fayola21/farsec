@@ -1,0 +1,1 @@
+<title>Issue 21834 -   chromium -    UserSettingsTest should use ScopedTemptDir instead of DieFileDie - Project Hosting on Google Code</title> <pre> Because this is more solid. </pre>

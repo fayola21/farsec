@@ -1,0 +1,1 @@
+<title>Issue 19102 -   chromium -    context menu Play resets rate to 1.0 - Project Hosting on Google Code</title> <pre> Set rate to 0.5  Pause  Right click then Play    expected  Play resumes at current rate - 0.5    what happens  Play resumes at 1.0 rate   </pre>

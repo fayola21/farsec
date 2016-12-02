@@ -1,0 +1,1 @@
+camel-soap - Add support for multiple parameters    camel-soap is limited to only work with one parameter.There is some code that throws an exception stating multiple parameters is not supported.We should add support for that.See nabblehttp://camel.465427.n5.nabble.com/Multiple-parameters-in-CXF-service-method-tp4386208p4386208.html   

@@ -1,0 +1,1 @@
+<title>Issue 2436 -   chromium -    Only first entry in proxy ignore list considered? - Project Hosting on Google Code</title> <pre> According to a user  Chromium &quot;only cares about the first entry in the   table&quot;  regarding proxy ignore lists.    I haven't verified this report myself (I don't even know what these are). </pre>

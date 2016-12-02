@@ -1,0 +1,1 @@
+<title>Issue 40056 -   chromium -    Highlighted icon hard to see in omnibox drop-down - Project Hosting on Google Code</title> <pre> See screenshot.    Not sure what the right fix is.  It looks like we don't invert the icon in the dev channel. </pre>

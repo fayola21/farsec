@@ -1,0 +1,1 @@
+<title>Issue 38416 -   chromium -    Changing bookmark folder destination - Project Hosting on Google Code</title>   1. Trying to change the folder destination of a new bookmark added from the   'add bookmark' button next to the address bar          Open a list to choose the destination folder of the new bookmark      The program terminates    <b>Please provide

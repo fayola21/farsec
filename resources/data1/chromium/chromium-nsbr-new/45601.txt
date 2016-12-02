@@ -1,0 +1,1 @@
+<title>Issue 45601 -   chromium -    omx code included on windows - Project Hosting on Google Code</title> <pre>   1. compile chromium for windows    What is the expected output?  no omx files on windows (or mac).    What do you see instead?  omx files are built. ie  omx_video_decoder.cc  omx_video_decode_engine.cc      6.0.408.1 (Official Build 47574) dev </pre>

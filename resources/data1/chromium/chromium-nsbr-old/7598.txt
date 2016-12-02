@@ -1,0 +1,1 @@
+<title>Issue 7598 -   chromium -    Keyboard shortcut to &quot;Duplicate current tab&quot; - Project Hosting on Google Code</title> <pre> Feature request:  Add a keyboard shortcut to &quot;Duplicate current tab&quot; (same as right clicking   current tab title and selecting Duplicate)    Would be most helpful IMO :) </pre>

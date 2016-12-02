@@ -1,0 +1,1 @@
+<title>Issue 12267 -   chromium -    Showing big xml file error - Project Hosting on Google Code</title>   1. create big (5MB) xml file  add css  2. open in chrome  3. there will be image artifacts (screenshot and sample data attached)      there will be no image artifacts          <b>Please provide

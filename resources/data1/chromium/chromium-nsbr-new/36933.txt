@@ -1,0 +1,1 @@
+<title>Issue 36933 -   chromium -    Regression: Extensions Management page is blank  - Project Hosting on Google Code</title>   1. Launch Chrome  2. enter chrome:extentions on the Omnibox          There is no contents on the page.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32614 -   chromium -    Browser and page action in a single extension - Project Hosting on Google Code</title>   1. Create extension with both a browser and page action  2. Run it      To see a browser and page action      You see a message that you can't have a browser and page action at once    <b>Please provide

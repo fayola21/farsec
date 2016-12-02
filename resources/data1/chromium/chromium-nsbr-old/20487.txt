@@ -1,0 +1,1 @@
+<title>Issue 20487 -   chromium -    Chrome crashes on start up. - Project Hosting on Google Code</title>   1. Open Chrome      Chrome opens      Four out of five times the chrome window opens about and immediately up   pops &quot;Woah! Google Chrome has crashed. Restart Now?&quot; twice and the   microsoft &quot;Google Chrome has stopped working&quot;.     <b>Please provide

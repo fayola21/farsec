@@ -1,0 +1,1 @@
+<title>Issue 563 -   chromium -    Feature request: find as you type - Project Hosting on Google Code</title>   1. Simply start typing a word or phrase on any page      The browser starts searching for the term as the user types. The search box   (currently displayed by Ctrl+F) will be displayed.      Nothing    Please provide

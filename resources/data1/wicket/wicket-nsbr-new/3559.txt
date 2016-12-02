@@ -1,0 +1,1 @@
+Autolink (AutolinkBookmarkablePageLink) already rendered problem    Using a menu panel that includes &lt;wicket:link&gt; to return to a page that includes a panel with a &lt;wicket:head&gt; element  gives:The component [AutolinkBookmarkablePageLink &#91;Component id = _autolink_X&#93;] was rendered already   

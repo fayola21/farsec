@@ -1,0 +1,1 @@
+<title>Issue 35722 -   chromium -    Linux: Pin Tab option disappeared - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.322.2 (Vers��_��_o oficial 38810) dev    The Pin Tab option of the context menu opened with the right click on a tab   just disappeared.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44035 -   chromium -    Link &quot;extensions manager&quot; is missing in Slovenian   - Project Hosting on Google Code</title>   1.  Launch Chrome with Slovenian UI  2.  Press Ctrl + Shift + N  3.  check the &quot;extensions manager&quot; link        The link is missing in sl lang.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32573 -   chromium -    back/forward navigations should not necessarily stop page loading - Project Hosting on Google Code</title> <pre> back/forward navigations should not necessarily stop page loading    if the back/forward navigation is just a reference fragment change  then it   should not interrupt page loading. </pre>

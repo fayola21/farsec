@@ -1,0 +1,1 @@
+<title>Issue 3661 -   chromium -    Port net/url_request_unittest to Mac - Project Hosting on Google Code</title> <pre> It'd be nice if we supported file:// urls.    (This will probably mean sorting out our async i/o story   and the answer will probably be a thread pool with a single thread.) </pre>

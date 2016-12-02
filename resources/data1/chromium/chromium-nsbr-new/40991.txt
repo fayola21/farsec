@@ -1,0 +1,1 @@
+<title>Issue 40991 -   chromium -    Russian translation broken - Project Hosting on Google Code</title>   1.go to <a href="http://www.google.ru/">http://www.google.ru/</a>  2.wait for translate bar to appear          Chrome should give option to translate russian pages to english        Message saying translation failed due to server error    <b>Please provide

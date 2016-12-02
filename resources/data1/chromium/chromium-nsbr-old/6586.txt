@@ -1,0 +1,1 @@
+<title>Issue 6586 -   chromium -    Pages that use Gears hang when you open the javascript debugger - Project Hosting on Google Code</title> <pre> Repro:  1. Open the Javascript debugger (Ctrl+Shift+L)  2. Visit gears.google.com (or any other site that loads gears).  3. Hang.    The hang persists after the debugger is closed.   </pre>

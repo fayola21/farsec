@@ -1,0 +1,1 @@
+<title>Issue 44206 -   chromium -    Keyboard shortcut keys have no delay - Project Hosting on Google Code</title>   1. press and hold Ctrl+T  2. browser quickly opens a ginormous number of tabs      There should be a discernible delay between the effects of the command   being repeated.      The command is repeated as fast as possible.    <b>Please provide

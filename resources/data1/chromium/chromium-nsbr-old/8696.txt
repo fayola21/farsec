@@ -1,0 +1,1 @@
+<title>Issue 8696 -   chromium -    Implement focal point for radial gradients. - Project Hosting on Google Code</title> <pre> There is a TODO on GradientSkia.cpp to implement the offset focal point on   Skia.    We just ignore the value and LayoutTests/fast/backgrounds/svg-as-  background-3.html fails because of that.    I'm attaching a simpler test case. </pre>

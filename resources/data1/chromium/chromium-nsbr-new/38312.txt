@@ -1,0 +1,1 @@
+<title>Issue 38312 -   chromium -    Pinned tab does not close  reloads tab instead - Project Hosting on Google Code</title>   1. Have a pinned tab  2. Middle-click or right-click and select &quot;Close tab&quot;        Tab closes      The tab reloads the current page and moves focus to the next tab to the right.    <b>Please provide

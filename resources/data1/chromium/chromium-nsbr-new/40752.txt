@@ -1,0 +1,1 @@
+<title>Issue 40752 -   chromium -    Bookmark bubble goes beyond window coordinates - Project Hosting on Google Code</title> <pre> With the new design  the bookmark bubble goes beyond the window -- see the   screenshot..    -Unmaximize the browser window.  -click on the bookmark bubble.     </pre>

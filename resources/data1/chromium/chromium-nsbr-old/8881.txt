@@ -1,0 +1,1 @@
+<title>Issue 8881 -   chromium -    Performance plots could use UI improvements - Project Hosting on Google Code</title> <pre> It'd be nice to be able to select ranges on the axes  scale the axes to  ignore outliers  etc. on the various performance plots. </pre>

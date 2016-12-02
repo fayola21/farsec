@@ -1,0 +1,1 @@
+tracer - option to disable interceptors    Currently the tracer also outputs interceptors such as delegation to the DLC that is wrapped in the pipeline.Would be nice with an option to enable/disable this (disabled by default) so all the interceptors isn't logged and confuses end-users.   

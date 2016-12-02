@@ -1,0 +1,1 @@
+<title>Issue 12316 -   chromium -    Linux Omnibox  autocomplete on paste annoying. - Project Hosting on Google Code</title> <pre> When you paste a URL into the Omnibox  we shouldn't try to inline  autocomplete it. </pre>

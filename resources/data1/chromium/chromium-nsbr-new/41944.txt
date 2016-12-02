@@ -1,0 +1,1 @@
+<title>Issue 41944 -   chromium -    Disabling an extension does not remove the key shortcut - Project Hosting on Google Code</title>   1. Install above extension.  2. Make sure that shift-shift opens a dialog popup.  3. Disable the extension  don't restart Chrome.      Shift-Shift should not open the dialog popup.      It does.    <b>Please provide

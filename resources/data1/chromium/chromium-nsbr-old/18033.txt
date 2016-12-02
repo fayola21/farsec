@@ -1,0 +1,1 @@
+<title>Issue 18033 -   chromium -    wasn't gets corrected to wans't with English (US) Spell checker  - Project Hosting on Google Code</title>   1. In a text box &quot;Check spelling of this field&quot; set  type wasn'          It should stay as wasn'      It's converted to wans'    <b>Please provide

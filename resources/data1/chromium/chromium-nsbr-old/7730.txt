@@ -1,0 +1,1 @@
+<title>Issue 7730 -   chromium -    I95fm Windows Media Player problem - Project Hosting on Google Code</title> <pre> Google Chrome 1.0.154.48    Go to <a href="http://www.i955fm.com/">http://www.i955fm.com/</a>  Click the link which says Listen Live  It opens a new window with windows media player embedded  It never plays.    In Firefox and IE  it plays. </pre>

@@ -1,0 +1,1 @@
+Behaviors#internalAdd(Behavior) erroneously gets id for stateless behaviors    see http://markmail.org/thread/jtd4zn527r343jbm   

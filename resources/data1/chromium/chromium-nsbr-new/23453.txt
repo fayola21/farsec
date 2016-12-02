@@ -1,0 +1,1 @@
+<title>Issue 23453 -   chromium -    Improper grammar in Chrome for Mac installer - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.212.1    OS version               : Mac OS X 10.6.1            1. Open the .dmg file  2. Look at the grammatical error in the .dmg icon      &quot;Drag here&quot; on the icon      &quot;Drag to here&quot; on the icon </pre>

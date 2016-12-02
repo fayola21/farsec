@@ -1,0 +1,1 @@
+<title>Issue 15333 -   chromium -    Expose UI language setting to extensions - Project Hosting on Google Code</title> <pre> Any extension that wants to show different content based on locale will  benefit from this. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2810 -   chromium -    Gmail not resizing when chrome window is resized - Project Hosting on Google Code</title>   1. Open gmail  2. Drag Chrome window larger downwards                  Please provide

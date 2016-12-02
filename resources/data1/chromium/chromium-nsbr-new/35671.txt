@@ -1,0 +1,1 @@
+<title>Issue 35671 -   chromium -    Fail to install if no previous version of chrome - Project Hosting on Google Code</title>   1. When a clean installation for google-chrome-beta_current_i386.rpm (no  previous version in computer)  it prompts  &quot;google-chrome-beta-5.0.307.7-38400.i386 dependency&quot;.                    <b>Please provide

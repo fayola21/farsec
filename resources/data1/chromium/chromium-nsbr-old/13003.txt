@@ -1,0 +1,1 @@
+<title>Issue 13003 -   chromium -    Safari rendering looks better... - Project Hosting on Google Code</title>   1. load a webpage in safari (tested with 3  probably the same with 4).  2. load the same page in chrome.  3. note that safari rendering is much much smoother and looks much better.      Chrome should render pretty pages too! :P          <b>Please provide

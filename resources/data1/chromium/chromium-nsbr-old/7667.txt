@@ -1,0 +1,1 @@
+<title>Issue 7667 -   chromium -    Can't edit bookmarks - Project Hosting on Google Code</title>   1. Try to edit any bookmark  2. Mouse will not focus on Name or URL field        To be able to edit Name or URL field      Can't get mouse focus    Please provide

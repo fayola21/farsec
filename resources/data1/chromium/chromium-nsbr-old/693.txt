@@ -1,0 +1,1 @@
+<title>Issue 693 -   chromium -    Typic &quot;about:%&quot; in the URL bar crashesh the browser - Project Hosting on Google Code</title>   1. Type &quot;about:%&quot; (without quotes) in the address/url field.          No result is expected.      The browser crashes unexpectedly  just after finishing typing &quot;%&quot; in the   string.    Please provide

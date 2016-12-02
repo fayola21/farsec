@@ -1,0 +1,1 @@
+Implement new JDBC4 methods for creating empty LOBs in the embedded client    Implement Connection.createClob() and Connection.createBlob(). Right now these methods are implemented in the network client but not the embedded client.   

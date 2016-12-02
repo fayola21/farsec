@@ -1,0 +1,1 @@
+<title>Issue 455 -   chromium -    Find in page does not set focus to found text after closing the find box. - Project Hosting on Google Code</title>   1. Go to google.com  2. Press Ctrl+F and type in &quot;about&quot;  3. Press escape to close the find in page bar      The &quot;About Google&quot; link is focused.      Last selected element keeps focus.    Please provide

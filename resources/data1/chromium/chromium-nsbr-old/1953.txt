@@ -1,0 +1,1 @@
+<title>Issue 1953 -   chromium -    Some javascripts make huge CPU usage. - Project Hosting on Google Code</title>   1. visit sites.       less than 3% CPU load.       google chrome show huge CPU usage around 50%.      Please provide

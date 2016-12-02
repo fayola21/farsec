@@ -1,0 +1,1 @@
+<title>Issue 22975 -   chromium -    Drop down menus - Project Hosting on Google Code</title>   1.Fill out form          Drop down menu will automatically close after making selection      Drop down menu does not close.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12470 -   chromium -    Omnibox should highlight on mouse up  not mouse down  to allow selecting text - Project Hosting on Google Code</title> <pre> 1) Put focus outside of the omnibox.  2) Try to select some text.    Since we highlight the whole omnibox on mouse down  the selection is weird.  Windows does it on mouseup. </pre>

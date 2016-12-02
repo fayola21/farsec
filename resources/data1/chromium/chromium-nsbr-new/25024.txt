@@ -1,0 +1,1 @@
+<title>Issue 25024 -   chromium -    extenstion toolbar is HUGE - Project Hosting on Google Code</title>   1. enable extenstions  by running: chromium --enable-extensions        get a tiny toolbar on bottom of the browser      getting a HUGE toolbar probably intended for blind people. Firebox toolbar   in the bottom is really smaller.    <b>Please provide

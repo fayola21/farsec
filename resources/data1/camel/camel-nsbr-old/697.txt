@@ -1,0 +1,1 @@
+transform() doesnt propogate headers    The new transform() DSL doesn't propogate headers so you can not do: from('direct:four') .transform().constant('London') .to('mock:result');And expect that any headers on the exchange at direct:four is received after the transform   

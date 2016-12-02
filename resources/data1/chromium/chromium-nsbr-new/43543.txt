@@ -1,0 +1,1 @@
+<title>Issue 43543 -   chromium -    Reset translate options - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396.0 (Official Build 46416) dev    I use internal Google Translate feature and I mark some languages and sites   to Don't translate again. But when I want to reset these settings I can't. </pre>

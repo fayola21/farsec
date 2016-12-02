@@ -1,0 +1,1 @@
+<title>Issue 18452 -   chromium -    extension shelf isn't themed - Project Hosting on Google Code</title> <pre> (this is an old issue  but I couldn't find a bug)  The extension shelf isn't themed  so it sticks out badly when you apply a   theme.  (this only affects dev channel at the moment)   </pre>

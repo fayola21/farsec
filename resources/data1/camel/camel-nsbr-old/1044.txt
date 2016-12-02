@@ -1,0 +1,1 @@
+Passive mode    There should be an option to enable passive mode in the ftp endpoint. If not  when deploying the camel rules on a host with a firewall the default active mode is useless.   

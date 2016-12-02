@@ -1,0 +1,1 @@
+<title>Issue 16644 -   chromium -    Extension messaging disconnect closes channel for all listeners on unload - Project Hosting on Google Code</title> <pre> A channel is a 1 to many connection.  If any port in the &quot;many&quot; side calls   &quot;disconnect&quot;  the entire channel is closed.  This is probably not what we   want. </pre>

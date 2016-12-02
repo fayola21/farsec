@@ -1,0 +1,1 @@
+<title>Issue 11596 -   chromium -    Display issues with overflows and NiftyCorner rounded borders. - Project Hosting on Google Code</title>   1. Visit pages          Correct display.      Nifty corners broken on profile page. Overflow in left nav broken on   sale_spot page.    NOTE: This was working in previous: 1.0.154.59 build.    <b>Please provide

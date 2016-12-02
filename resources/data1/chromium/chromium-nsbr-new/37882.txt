@@ -1,0 +1,1 @@
+<title>Issue 37882 -   chromium -    Be consistent: page menu zoom��_��_��_s Larger/Normal/Smaller vs. View menu��_��_��_s Actual Size/Zoom In/Zoom Out - Project Hosting on Google Code</title> <pre> In the page menu  we��_��_��_ve got (under Zoom) Larger  Normal  and Smaller.    In the View menu  it��_��_��_s Actual Size  Zoom In  and Zoom Out.    Let's be consistent. </pre>

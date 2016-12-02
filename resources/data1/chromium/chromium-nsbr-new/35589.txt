@@ -1,0 +1,1 @@
+<title>Issue 35589 -   chromium -    Fails to show the 'cookies blocked' indicator when a cookie specified in a &lt;meta http-equiv&gt; tag is blocked - Project Hosting on Google Code</title> <pre> Fails to show the 'cookies blocked' indicator when a cookie specified in a   &lt;meta http-equiv&gt; tag is blocked </pre>

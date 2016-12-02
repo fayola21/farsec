@@ -1,0 +1,1 @@
+<title>Issue 37337 -   chromium -    Implement recursive copy in gyp for make backend - Project Hosting on Google Code</title> <pre> See <a href="http://codereview.chromium.org/660232/diff/22/1006#newcode423">http://codereview.chromium.org/660232/diff/22/1006#newcode423</a>.    It should be possible to recursively copy directories using gyp. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39076 -   chromium -    REGRESSION: Fullscreen mode does not size Aero glass frame correctly - Project Hosting on Google Code</title> <pre> I just tested a trunk build  and fullscreen mode does not properly size and   position the glass frame properly.  There's glitchy drawing around the window   edges. </pre>

@@ -1,0 +1,1 @@
+camel-jms default cache level should be CACHE_NONE when transaction is enabled    I lost a huge amount of time chasing the problem as the default value just screw the whole transaction (the session is created outside the transaction and cached  so usually not enlisted in the tx).   

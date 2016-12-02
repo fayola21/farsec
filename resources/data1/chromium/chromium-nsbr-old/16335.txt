@@ -1,0 +1,1 @@
+<title>Issue 16335 -   chromium -    Stacked windows don't fit onscreen - Project Hosting on Google Code</title>   1. open browser windows  2. open more browser windows  3. keep opening browser windows      windows are fully onscreen.      windows become partially offscreen  as they get stacked.    <b>Please provide

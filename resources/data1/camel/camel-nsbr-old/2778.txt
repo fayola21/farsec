@@ -1,0 +1,1 @@
+Escaped characters in http4 URLs do not work    There is a bug in http4 HttpProducer that is unescaping URL query and path components too early. Patch fix attached.   

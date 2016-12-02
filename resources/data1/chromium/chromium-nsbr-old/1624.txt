@@ -1,0 +1,1 @@
+<title>Issue 1624 -   chromium -    Display does not keep up with field entry - Project Hosting on Google Code</title>   1. When adding a post  or editing a post  lines overwrite eachother  but   eventually can clear up by clicking each line after a minute.          What is the expected result? Smooth text display as I'm typing it in the   field.             Please provide

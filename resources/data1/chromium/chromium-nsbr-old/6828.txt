@@ -1,0 +1,1 @@
+<title>Issue 6828 -   chromium -    BrowserProcessImpl::print_job_manager() called on Printing_Worker thread - Project Hosting on Google Code</title> <pre> This is by design  I'll rework this part to not access g_browser_process   from the worker thread.     </pre>

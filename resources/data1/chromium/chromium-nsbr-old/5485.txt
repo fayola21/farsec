@@ -1,0 +1,1 @@
+<title>Issue 5485 -   chromium -    Incorrect highlight of text links - Project Hosting on Google Code</title>   1. Open the link in the Chrome browser  2. Navigate to the end of the page to see links list to other news  3. Mouse over each link. There should be one link highlighted (underlined)   but here  all the links are underlined.                  Please provide

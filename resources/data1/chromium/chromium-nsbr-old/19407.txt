@@ -1,0 +1,1 @@
+<title>Issue 19407 -   chromium -    ESC to remove bookmark STAR bubble - Project Hosting on Google Code</title> <pre> Click on the STAR to open the bookmark bubble.  RET will select the Close button.  ESC should also close it (like Windows).    See chrome/browser/cocoa/bookmark_bubble_controller.m for details.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 30587 -   chromium -    Pack-extensions dialog is totally messed up in Dutch - Project Hosting on Google Code</title>   1. Set your language to Dutch  2. Go to the extensions page  3. Press the second button (to pack extensions)      To fit everything in the dialog      Buttons and text are outside of the dialog    <b>Please provide

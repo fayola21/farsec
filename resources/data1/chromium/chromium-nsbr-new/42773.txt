@@ -1,0 +1,1 @@
+<title>Issue 42773 -   chromium -    Add DOMUI/BookmarkManager perf tests - Project Hosting on Google Code</title> <pre> We need a way to track perf regressions in DOMUI and component extensions.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1070 -   chromium -    Inspector consumes too much CPU - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27            Firefox 3: OK      1. open xml(for example soap)  2. select all  3. right click to view element code.      2 CPU load about 80%      </pre>

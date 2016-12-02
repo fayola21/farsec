@@ -1,0 +1,1 @@
+<title>Issue 44016 -   chromium -    input type=text name=password autocomplete - Project Hosting on Google Code</title>   1. Create an input type=text name=password  2. In this text box hit the down arrow.      Nothing.      All your passwords are displayed on the screen.    <b>Please provide

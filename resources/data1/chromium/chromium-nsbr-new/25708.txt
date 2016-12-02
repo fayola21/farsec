@@ -1,0 +1,1 @@
+<title>Issue 25708 -   chromium -    RSS page action icon is oddly positioned inside location bar - Project Hosting on Google Code</title> <pre> See screen cap. Not sure if/how this generalizes to other extensions.    Same on linux  btw. </pre>

@@ -1,0 +1,1 @@
+Add option on FTP component so you can set which path separator char to use (eg windows vs unix)    For example if you use a windows platform and want to upload files to a remote linux FTP server  and the FTP server don't understand path separators using either / or / char   

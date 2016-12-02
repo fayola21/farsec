@@ -1,0 +1,1 @@
+<title>Issue 17575 -   chromium -    NNTP Background Image and Toolbar theme don't line up in Maximized Mode - Project Hosting on Google Code</title> <pre> I think they are also 1px off in regular mode  too. </pre>

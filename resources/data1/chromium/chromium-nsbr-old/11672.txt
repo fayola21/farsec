@@ -1,0 +1,1 @@
+<title>Issue 11672 -   chromium -    WebWorkers not cleaned up when tab is closed - Project Hosting on Google Code</title>   1. Load page with continually running workers  2. Close the tab  3. Or  navigate to new url in tab      1. Spawned workers killed      1. Workers continue to execute    Note: adding ui test that repro's this  but not yet submitted.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 44056 -   chromium -    DevTools: Quick Inspection by shortcut. - Project Hosting on Google Code</title> <pre> Having to right-click in some clickable place is annoying  it would be better to have a   hotkey/shortcut to start a rollover inspection mode.   </pre>

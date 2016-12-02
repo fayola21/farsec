@@ -1,0 +1,1 @@
+<title>Issue 40306 -   chromium -    Re-enable label scraping and associated tests - Project Hosting on Google Code</title> <pre> Label scraping is being disabled to fix a perf regression.  LabelForElement needs to be optimized.    The associated tests need to be enabled once this is fixed. </pre>

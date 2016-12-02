@@ -1,0 +1,1 @@
+<title>Issue 4197 -   chromium -    Further restrict access of file URL - Project Hosting on Google Code</title> <pre> It sucks that viewing an HTML document at a file:// URL compromises the   confidentiality of your entire file system.  We should follow Firefox's   lead and further restrict the privileges of file:// URLs. </pre>

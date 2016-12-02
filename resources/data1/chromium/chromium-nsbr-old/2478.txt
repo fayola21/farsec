@@ -1,0 +1,1 @@
+<title>Issue 2478 -   chromium -    Ctrl+W should close application windows too - Project Hosting on Google Code</title> <pre> Currently there's code that disables the IDC_CLOSETAB command for app   windows. This should be removed. Ctrl+W is a window management command and   should always work  regardless of what kind of window is open. </pre>

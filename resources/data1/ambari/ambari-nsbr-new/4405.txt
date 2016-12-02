@@ -1,0 +1,1 @@
+Remove property fs.checkpoint.size during upgrade    Property fs.checkpoint.size is deprecated. The upgrade script should remove it. Users can add the replacement themselves - dfs.namenode.checkpoint.txns.   

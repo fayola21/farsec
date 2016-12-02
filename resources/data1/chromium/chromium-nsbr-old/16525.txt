@@ -1,0 +1,1 @@
+<title>Issue 16525 -   chromium -    Canvas arc drawing problem - Project Hosting on Google Code</title>   1. Open the page  2. Search for a number 6/9      Draws a 6/9      Draws some strange symbol    <b>Please provide

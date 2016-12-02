@@ -1,0 +1,1 @@
+<title>Issue 42261 -   chromium -    App launcher UI glitches - Project Hosting on Google Code</title> <pre> When the new tab button is to the left of the omnibox the app launcher popup   looks wrong.    Also  we should either increase the minimum size or update the NTP UI to   better handle narrow windows. </pre>

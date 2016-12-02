@@ -1,0 +1,1 @@
+<title>Issue 17763 -   chromium -    Chrome fails to scroll to the section when a link is opened in a new tab - Project Hosting on Google Code</title>   1. Open the included link in a new tab  2. Look at where it scrolls        The page should automatically scroll to the &quot;Source games&quot; section.      It scrolls to the end of the page    <b>Please provide

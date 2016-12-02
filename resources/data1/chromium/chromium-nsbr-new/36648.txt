@@ -1,0 +1,1 @@
+<title>Issue 36648 -   chromium -    Valgrind reports a leak in stl std::map&lt;&gt; - Project Hosting on Google Code</title> <pre> According to this:    <a href="http://valgrind.org/docs/manual/faq.html#faq.reports">http://valgrind.org/docs/manual/faq.html#faq.reports</a>  We can recompile to make the STL more correct about memory  at the cost of   performance. </pre>

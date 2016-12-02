@@ -1,0 +1,1 @@
+<title>Issue 27038 -   chromium -    &quot;site:foo&quot; triggers keyword UI if foo is a keyword - Project Hosting on Google Code</title> <pre> Obviously  it shouldn't... maybe we think site: is a scheme and we're only   looking at the host in the keyword provider? </pre>

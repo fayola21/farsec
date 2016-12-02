@@ -1,0 +1,1 @@
+<title>Issue 32710 -   chromium -    Hook up &quot;Manage Certificates&quot; button in prefs - Project Hosting on Google Code</title> <pre> Title says it all. Should just open Keychain Access app since that's where we   will instruct users to manage certs. We're not building our own UI.    Work already done  this bug is created for tracking purposes. </pre>

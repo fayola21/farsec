@@ -1,0 +1,1 @@
+<title>Issue 33984 -   chromium -    Recently clsed tabs - Project Hosting on Google Code</title>   1. Open Tab  2. Visit Any Site  3. Close Tab  4. Ctrl + Tab  look at Recently Closed bar  click on the last visited site        To open the last close tab's site        Open a tab with kind of random site    <b>Please provide

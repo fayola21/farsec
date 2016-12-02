@@ -1,0 +1,1 @@
+camel-netty - Loading key store and trust stores should support classpath as well    The options keyStoreFile and trustStoreFile is currently java.io.File based.We should use the resource loader API in Camel so we can load from classpath as well.   

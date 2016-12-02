@@ -1,0 +1,1 @@
+<title>Issue 21258 -   chromium -    Sync Message at the bottom of the New Tab page should be a one-time thing - Project Hosting on Google Code</title> <pre> Chrome Version       : dev channel  URLs (if applicable) : New Tab page      The sync message should be a one time thing. It doesn't need to clutter every   time I go to the New Tab page.  </pre>

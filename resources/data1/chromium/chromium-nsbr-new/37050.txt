@@ -1,0 +1,1 @@
+<title>Issue 37050 -   chromium -    Copy image to clipboard does not work. - Project Hosting on Google Code</title>   1. Right click  select Copy Image.  2. Attempt to paste into Gimp.  3. No image in clipboard.                <b>Please provide

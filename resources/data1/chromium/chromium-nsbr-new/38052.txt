@@ -1,0 +1,1 @@
+<title>Issue 38052 -   chromium -    Moving tab outside window crashes browser - Project Hosting on Google Code</title>   1. Start chrome with two tabs  2. Move any tab outside the main window (drag&amp;drop)        It should create new window with this tab      browser crashes    <b>Please provide

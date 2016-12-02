@@ -1,0 +1,1 @@
+<title>Issue 23269 -   chromium -    Browser actions: implement setIcon(ImageData) - Project Hosting on Google Code</title> <pre> You should be able to draw the browser action icon dynamically using the   ImageData object from canvas. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 33106 -   chromium -    Crash when dragging eyes on Acid2 - Project Hosting on Google Code</title>   1. Go to acid2.acidtests.org and click &quot;Take The Acid2 Test&quot;  2. Click on one of the eyes and try dragging it with the mouse.      The normal image-dragging behavior should occur.      The tab crashes  showing a sad tab.    <b>Please provide

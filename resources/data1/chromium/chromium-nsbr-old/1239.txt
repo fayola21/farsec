@@ -1,0 +1,1 @@
+<title>Issue 1239 -   chromium -    Option for merging two or more windows  - Project Hosting on Google Code</title>   1. Open one window .  2. Open another window.  3. Right click on the window or click on &quot;control the current page&quot; or   anywhere ...       An option for merging two windows ...       No option at all ...     Please provide

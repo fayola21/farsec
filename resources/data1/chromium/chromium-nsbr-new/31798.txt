@@ -1,0 +1,1 @@
+<title>Issue 31798 -   chromium -    Users should have the option to sync extensions between computers - Project Hosting on Google Code</title> <pre> ChromeFrame version: &lt;from cf:about:version&gt;                         </pre>

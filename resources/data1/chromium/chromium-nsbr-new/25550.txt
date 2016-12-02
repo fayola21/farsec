@@ -1,0 +1,1 @@
+<title>Issue 25550 -   chromium -    new extension installed in last dev version disappeard  - Project Hosting on Google Code</title> <pre> I experienced that with cooliris. I installed in last dev and the extension   disappeared as I updated to the new one (4.0.223.9). I installed it again and   works fine. but it was 100% cancelled. (No tracks on the extensions menu) </pre>

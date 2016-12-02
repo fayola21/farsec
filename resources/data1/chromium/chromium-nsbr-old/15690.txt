@@ -1,0 +1,1 @@
+<title>Issue 15690 -   chromium -    No gif animations - Project Hosting on Google Code</title>   1. load page with animated gifs or load local file          gif animations      static images    <b>Please provide

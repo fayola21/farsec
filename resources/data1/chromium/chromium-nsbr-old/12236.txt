@@ -1,0 +1,1 @@
+<title>Issue 12236 -   chromium -    Regression: Developer tools no longer show timings - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.182.0 (Developer Build 16372)    The &quot;Resources&quot; tab no longer shows timings  but format strings   </pre>

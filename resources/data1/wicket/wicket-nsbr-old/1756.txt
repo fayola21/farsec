@@ -1,0 +1,1 @@
+Generify PropertyColumn    PropertyColumn overrides populateItem incorrectly. PropertyColumn has:public void populateItem(Item item  String componentId  IModel model)whereas ICellPopulator has: void populateItem(final Item&lt;ICellPopulator&lt;T&gt;&gt; cellItem  final String componentId  final IModel&lt;T&gt; rowModel);This makes it hard to extend PropertyColumn.   

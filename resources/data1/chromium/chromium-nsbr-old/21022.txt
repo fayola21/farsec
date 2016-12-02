@@ -1,0 +1,1 @@
+<title>Issue 21022 -   chromium -    Omnibox font size should be larger - Project Hosting on Google Code</title> <pre> Linus has asked for the font to be larger.  My research indicates that we're using the right code-  paths versus Windows  and the font just isn't the same.  I don't know if that has global meaning or   not. </pre>

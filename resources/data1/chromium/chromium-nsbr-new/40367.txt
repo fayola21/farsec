@@ -1,0 +1,1 @@
+<title>Issue 40367 -   chromium -    Behavior: About Chrome links open in a new window - Project Hosting on Google Code</title>   1. Open About Chrome dialog box  2. Click any link      Chrome to open the link in a tab in an existing window      Chrome spawns a new window for every link clicked in the dialog    <b>Please provide

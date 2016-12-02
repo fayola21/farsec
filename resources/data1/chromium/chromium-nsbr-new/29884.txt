@@ -1,0 +1,1 @@
+<title>Issue 29884 -   chromium -    &quot;Bookmark manager&quot; is disabled for Chrome for mac. - Project Hosting on Google Code</title>   1. Right click on bookmarks          For the bookmark manager to be active so that bookmarks can be edited    deleted etc.      Bookmark manager is not active (grey color  non clickable)      <b>Please provide

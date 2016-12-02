@@ -1,0 +1,1 @@
+<title>Issue 38844 -   chromium -    Mashable Website suffers &quot;snapping&quot; - Project Hosting on Google Code</title>   1. Visit the site and wait  2. Highlight text on site (speeds up error)        Page to remain displayed      &quot;Snap&quot; Error report    <b>Please provide

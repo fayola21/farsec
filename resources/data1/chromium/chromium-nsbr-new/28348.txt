@@ -1,0 +1,1 @@
+<title>Issue 28348 -   chromium -    How can I translate Chromium? - Project Hosting on Google Code</title> <pre> [Language] Asturian  [Version number] Any  [OS details] GNU/Linux    Hi! :) Congratulations for your work!    How can I translate Chromium into the Asturian language?  More information about Asturian:   ISO 639-1 None  ISO 639-2 ast  ISO 639-3 ast    Thanks.   </pre>

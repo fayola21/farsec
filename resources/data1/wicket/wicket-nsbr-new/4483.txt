@@ -1,0 +1,1 @@
+Component#setDefaultModel() should call #modelChanging()    Component#setDefaultModel() should call #modelChanging() as #setDefaultModelObject() does.It worked by chance so far because addStateChange() is called.http://markmail.org/thread/uxl6uufusggqbb6s   

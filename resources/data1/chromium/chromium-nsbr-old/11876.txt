@@ -1,0 +1,1 @@
+<title>Issue 11876 -   chromium -    unable to watch channels from veetle.com - Project Hosting on Google Code</title>   1. go to www.veetle.com  2. download and istall the software required  3. try to tune into a channel       Start to watch the selected channel      Always appear the message: unable to tune into the channel    <b>Please provide

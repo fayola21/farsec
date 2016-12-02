@@ -1,0 +1,1 @@
+<title>Issue 17515 -   chromium -    Zoom to normal displays oversized thumbnails - Project Hosting on Google Code</title>   1. Zoom the new tab page 2 times.  2. ctrl+0 to come to normal size      Should display normal size page      Thumbnails are still zoomed and stick to each other.    <b>Please provide

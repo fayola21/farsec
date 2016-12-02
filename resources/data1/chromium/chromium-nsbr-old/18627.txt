@@ -1,0 +1,1 @@
+<title>Issue 18627 -   chromium -    Google Chrome installer is showing as &quot;Google earth&quot; - Project Hosting on Google Code</title> <pre> Hello    The Google Chrome installer is showing as &quot;Google earth&quot;. I stopped my  installation twice thinking I downloaded a wrong setup.exe file.  :-)  Screenshot attached. </pre>

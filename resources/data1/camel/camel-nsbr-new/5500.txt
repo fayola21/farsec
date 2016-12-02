@@ -1,0 +1,1 @@
+camel-testng - The spring base test class should use @AfterMethod on teardown as its parent does    See nabblehttp://camel.465427.n5.nabble.com/Problem-with-testng-CamelSpringTestSupport-several-contexts-runs-simultaneously-tp5716447.html   

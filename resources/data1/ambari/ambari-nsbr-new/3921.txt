@@ -1,0 +1,1 @@
+Hovers stay after manage-config-groups dialog is closed    I opened the manage-config-groups dialog and hovered on one of the actions (remove host from config-group). Then I saved or cancelled to close the dialog. The hover still remains in the middle of page.I have seen this in other usages as well. We need to make sure that all hovers are closed when the focus is lost.   

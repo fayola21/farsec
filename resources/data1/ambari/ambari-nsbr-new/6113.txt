@@ -1,0 +1,1 @@
+Nagios install fails on SLES due to php5-json not available    Using SLES 11 SP3 quick-start image on EC2. Doesn't look like php5-json is available  but php53-json is available.WORKAROUND:I modified NAGIOS/metainfo.xml and this worked. &lt;package&gt; &lt;name&gt;php5*-json&lt;/name&gt; &lt;/package&gt;   

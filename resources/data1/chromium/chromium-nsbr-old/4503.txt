@@ -1,0 +1,1 @@
+<title>Issue 4503 -   chromium -    No sound during gtalk chat - Project Hosting on Google Code</title>   1. login to gmail  2. sign  in to chat  3. no sound when someone pings                Please provide

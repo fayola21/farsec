@@ -1,0 +1,1 @@
+<title>Issue 3547 -   chromium -    Chrome crashing when trying to open opitons or bookmarks &amp; settings - Project Hosting on Google Code</title>   1. Clicking Options in the Tools section of Chrome  2. Clicking Bookmarks &amp; Settings in the Tools section of Chrome        Ability to access these options.      Chrome crashes    Please provide

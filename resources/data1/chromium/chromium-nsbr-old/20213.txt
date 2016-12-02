@@ -1,0 +1,1 @@
+<title>Issue 20213 -   chromium -    Bug restauration - Project Hosting on Google Code</title>               during a crash  Chrome asks whether you want to restore  I put yes and it   does not restore tabs    <b>Please provide

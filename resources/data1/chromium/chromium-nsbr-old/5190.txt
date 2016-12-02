@@ -1,0 +1,1 @@
+<title>Issue 5190 -   chromium -    Be able to use views outside of Chrome - Project Hosting on Google Code</title> <pre> views/ should move outside of the chrome/ dir to the top level. There is   some interest in being able to use it independently of Chrome. There are   many things that need to be done to make this happen  this bug tracks the   entire work. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3702 -   chromium -    encoding autodetection does not work - Project Hosting on Google Code</title> <pre>   This works in 0.3.154.6 but is broken in 0.3.155.x       </pre>

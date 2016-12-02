@@ -1,0 +1,1 @@
+<title>Issue 35788 -   chromium -    some text on some websites results in [A] glyphs instead of actual text - Project Hosting on Google Code</title>   1. Load site.      Normal text.      [A] glyphs. See attached image.    <b>Please provide

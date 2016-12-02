@@ -1,0 +1,1 @@
+<title>Issue 31058 -   chromium -    Maximize on scrolling - Project Hosting on Google Code</title>   1. Open few tabs  2. Scroll on a page to see below content  3. Chrome automatically maximize window      Window size remains the same.      Windows automatically maximize      <b>Please provide

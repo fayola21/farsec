@@ -1,0 +1,1 @@
+OnException - Handler or Continued predicate is invoked twice per exception    See CAMEL-5139When using handled(predicate) or continued(predicate) those is evaluated twice per exception. We should only do this once  which is what the end user would normally except.   

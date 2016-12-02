@@ -1,0 +1,1 @@
+<title>Issue 9492 -   chromium -    Israel's Securities regulartor site does not allow chrome - Project Hosting on Google Code</title> <pre> Chrome is blocked from this site:    <a href="http://www.isa.gov.il/">http://www.isa.gov.il/</a>   </pre>

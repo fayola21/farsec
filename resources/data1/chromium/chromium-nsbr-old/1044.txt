@@ -1,0 +1,1 @@
+<title>Issue 1044 -   chromium -    text find doesn't serch text boxes. - Project Hosting on Google Code</title>   1. Go to link above  2. hit ctrl-f   3. try to find text inside of text box.      For it to find text inside of the text box element.      right now it is only searching the page but not inside elements like text  boxes.    Please provide

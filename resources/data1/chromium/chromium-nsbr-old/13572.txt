@@ -1,0 +1,1 @@
+<title>Issue 13572 -   chromium -    Move base64 from net into base - Project Hosting on Google Code</title> <pre> Would like some rsa_key_pair utility functions that go with the rsa_key_pair   &amp; signature_creator/verifier  but they require base64 encode &amp; decode which   are in net. </pre>

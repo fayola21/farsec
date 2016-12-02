@@ -1,0 +1,1 @@
+Form.isMultipart() doesn't check FormComponent.isMultipart() on nested components    Form.isMultipart() doesn't check FormComponent.isMultipart() on nested components. This breaks submitting of stateless forms with multipart FormComponent but no explicit Form.setMultipart(true) call.   

@@ -1,0 +1,1 @@
+Vars in ValidationErrors should be properly converted    Currently variables in ValidationErrors are substituted with Strings.toString().This is problematic for variables with different representations in different languages (e.g. decimal separator). The converter of the processing component should be used instead.   

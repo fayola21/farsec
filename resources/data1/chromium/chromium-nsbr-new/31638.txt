@@ -1,0 +1,1 @@
+<title>Issue 31638 -   chromium -    Mac: implement fullscreen mode - Project Hosting on Google Code</title> <pre> Since the code for fullscreen mode on Mac is largely being re-worked  I   intend that this bug supersede a whole bunch of other bugs (some of which   may no longer be applicable). </pre>

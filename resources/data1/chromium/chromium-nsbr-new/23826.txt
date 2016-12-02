@@ -1,0 +1,1 @@
+<title>Issue 23826 -   chromium -    Attemt to modify theme results in browser crash. - Project Hosting on Google Code</title>   1. Launch google-chrome  2. Observe theme is incorrect  3. Attempt to change theme  4. Browser crashes (crash dump id: e6217b0c8c4ad81a)      Theme should change.      Browser crashes.    <b>Please provide

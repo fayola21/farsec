@@ -1,0 +1,1 @@
+<title>Issue 43970 -   chromium -    Crash on http://www.drumbeat.org/ - Project Hosting on Google Code</title> <pre> Crash on <a href="http://www.drumbeat.org/">http://www.drumbeat.org/</a>    It seems to be related to the HTML5 video at the bottom of the page.    Observed w/ 6.0.401.0 (Developer Build 47006) on Vista. </pre>

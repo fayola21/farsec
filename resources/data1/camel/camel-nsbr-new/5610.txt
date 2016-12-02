@@ -1,0 +1,1 @@
+camel-hl7 bundle should specify the mina version    As there could be different version of mina or mina2 exist in the OSGi platform  we need to specify the right version rang on camel-hl7 which has the dependency on the mina.   

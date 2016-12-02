@@ -1,0 +1,1 @@
+<title>Issue 17613 -   chromium -    Bookmark edit dialog needs treeview - Project Hosting on Google Code</title> <pre> The Add Bookmark dialog (from the Add Page... context menu item) has a tree view to show where   the bookmark will be in the folder hierarchy.  This tree is currently empty. </pre>

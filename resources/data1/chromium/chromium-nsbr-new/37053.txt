@@ -1,0 +1,1 @@
+<title>Issue 37053 -   chromium -    new Worker() from a local file throws a SECURITY_ERR - Project Hosting on Google Code</title>   1. Do: try{ console.log(new Worker('some_file.js')) } catch(e)   { console.log(e) }  2. See the console.        &quot;Worker&quot; on the console.      &quot;DOMCoreException&quot; on the console.    <b>Please provide

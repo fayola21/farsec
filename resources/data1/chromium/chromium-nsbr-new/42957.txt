@@ -1,0 +1,1 @@
+<title>Issue 42957 -   chromium -    Bookmark bar text color should be forced to black in classic mode - Project Hosting on Google Code</title> <pre>   1. Theme where toolbars are white  2. Use classic theme     </pre>

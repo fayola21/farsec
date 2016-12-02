@@ -1,0 +1,1 @@
+<title>Issue 5542 -   chromium -    &quot;Stop&quot; functionality doesn't work in Trunk builds - Project Hosting on Google Code</title>   1. go to a page that takes a while to load  2. hit esc  click the little &quot;x&quot; next to the omnibox        page stops loading      my best efforts are thwarted! the page continues to load.    Please provide

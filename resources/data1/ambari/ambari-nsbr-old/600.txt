@@ -1,0 +1,1 @@
+Fix lzo installs to work correctly on RHEL6       

@@ -1,0 +1,1 @@
+camel:run in blueprint is broken    Due the Aries blueprint upgrade then the blueprint extenders may run 2+ due classpath issues.   

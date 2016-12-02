@@ -1,0 +1,1 @@
+<title>Issue 2706 -   chromium -    Plugin crash logging into Gmail - Project Hosting on Google Code</title> <pre>   1. Log into Gmail using a debug trunk build  2. DCHECK will assert for webplugin_delegate_proxy.cc:359 ('size' parameter   appears to be 0).           </pre>

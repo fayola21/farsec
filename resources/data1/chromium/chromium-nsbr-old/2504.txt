@@ -1,0 +1,1 @@
+<title>Issue 2504 -   chromium -    Failed Spell Checking After Copy&amp;Paste - Project Hosting on Google Code</title>   1. tested spell checking when composing an email - typed gogl in message   box  2. copy and pasted the misspelling          gogl should be underlined in red as is a misspelling       not underlined    Please provide

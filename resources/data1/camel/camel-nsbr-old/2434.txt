@@ -1,0 +1,1 @@
+Mock component - expected header and property should output the name that fails    So you know the name of the header which failed. Currently it just say: Header of message bla bla   

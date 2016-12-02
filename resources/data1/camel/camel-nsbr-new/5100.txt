@@ -1,0 +1,1 @@
+Add option autogenColumns to csv data format in XML DSL    See nabblehttp://camel.465427.n5.nabble.com/CSV-dateformat-bug-Attribute-AutogenColumns-is-not-allowed-to-appear-in-element-camel-csv-tp5570066p5570066.htmlThis option is not exposed in the &lt;csv&gt; data format in the XML DSLs   

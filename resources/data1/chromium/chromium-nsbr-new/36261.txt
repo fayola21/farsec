@@ -1,0 +1,1 @@
+<title>Issue 36261 -   chromium -    layout tests kill test shell  causing resource leaks - Project Hosting on Google Code</title> <pre> layout tests are killing the test shells as they finish their sections  so test shell   doesn't do it's normal shutdown/cleanup  this seems to be causing resource   leaks. </pre>

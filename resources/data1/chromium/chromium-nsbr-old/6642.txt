@@ -1,0 +1,1 @@
+<title>Issue 6642 -   chromium -    Marquee not working - Project Hosting on Google Code</title>   1. Just run the above mentioned URL in Google Chrome.          In the &quot;Featured Companies&quot; section  the white box is supposed to have   company logos running across as marquee. But none of them come up.      Nothing happens.    Please provide

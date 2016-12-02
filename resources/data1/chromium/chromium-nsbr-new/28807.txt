@@ -1,0 +1,1 @@
+<title>Issue 28807 -   chromium -    LocalStorage does not work right under incognito - Project Hosting on Google Code</title> <pre> LocalStorage does not work right under incognito.  I've tested this before and   it seemed to work fine  so I think this is a regression  but I'm not sure.  The   incognito window shares data with the non-incognito window. </pre>

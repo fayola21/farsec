@@ -1,0 +1,1 @@
+<title>Issue 3876 -   chromium -    Crash when trying to remove all saved passwords - Project Hosting on Google Code</title>   1. Open saved passwords window  2. Press &quot;Remove all&quot; button        All passwords removed. No crash.      Chrome crashed      Please provide

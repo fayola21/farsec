@@ -1,0 +1,1 @@
+<title>Issue 21240 -   chromium -    Chrome crashes when clicking bookmarks bar after window resize - Project Hosting on Google Code</title>   1. Open Chrome  2.  Resize window  3. Click through three or four bookmarks on bar  allowing a page to load first then click the next   one.        Open page bookmarked.      Crashes.      <b>Please provide

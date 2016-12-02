@@ -1,0 +1,1 @@
+<title>Issue 24862 -   chromium -    LayoutTests/fast/replaced/border-radius-clip.html Fails - Project Hosting on Google Code</title> <pre> Since webkit roll 49583.  Might just require a rebaseline.    Assigning to evan who's working on this. </pre>

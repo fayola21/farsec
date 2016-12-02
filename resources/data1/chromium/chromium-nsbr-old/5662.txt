@@ -1,0 +1,1 @@
+<title>Issue 5662 -   chromium -    UI Error - Project Hosting on Google Code</title>   1. Click and hold the center button of the mouse on a tab  2. Move the mouse pointer off the tab holding the center button  3. Now release the center button      The tab should not close      The tab closes    Please provide

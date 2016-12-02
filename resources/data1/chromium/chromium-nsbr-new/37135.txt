@@ -1,0 +1,1 @@
+<title>Issue 37135 -   chromium -    Query the AutoFill server for form data - Project Hosting on Google Code</title> <pre> In addition to using heuristics to determine the structure of a form  we   should also query the AutoFill server that stores statistics about form   structure for forms from across the web. </pre>

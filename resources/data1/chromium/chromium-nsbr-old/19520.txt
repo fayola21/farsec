@@ -1,0 +1,1 @@
+<title>Issue 19520 -   chromium -    Browser hang related to audio - Project Hosting on Google Code</title> <pre> Play a lot of videos.  You'll find a hang eventually.  Easily reproducible on   test matrix. </pre>

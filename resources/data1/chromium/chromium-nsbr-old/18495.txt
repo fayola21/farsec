@@ -1,0 +1,1 @@
+<title>Issue 18495 -   chromium -    Chrome not support window.showModalDialog() - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.172.39          Firefox 3.x: OK           IE 7: OK           IE 8: OK        like other browser      window.showModalDialog(url) show &quot;about:blank&quot; page    </pre>

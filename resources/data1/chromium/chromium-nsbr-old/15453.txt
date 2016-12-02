@@ -1,0 +1,1 @@
+<title>Issue 15453 -   chromium -    closing tabs is slow - Project Hosting on Google Code</title> <pre> version = 3.0.190.3    This problems has been going on for a long time (perhaps forever). When I   close a tab there is a lag about 0.5 seconds or so. Why isn't tab closing   instant? </pre>

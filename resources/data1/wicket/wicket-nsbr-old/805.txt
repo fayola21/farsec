@@ -1,0 +1,1 @@
+upgrade to SLF4J to version 1.4.2    SLF4J 1.4.2 was released in July 2007. Can we upgrade SLF4J in the Maven pom?   

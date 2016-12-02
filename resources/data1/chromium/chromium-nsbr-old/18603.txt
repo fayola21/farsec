@@ -1,0 +1,1 @@
+<title>Issue 18603 -   chromium -    Not compatible with windowblinds - Project Hosting on Google Code</title>   1.Starting up the browser  or a new window          Tabs appear on the title bar      The tabs are in an aero like UI with the titlebar on top. The titlebar also   has the label of whatever the name of the first tab opened in that window   was.    <b>Please provide

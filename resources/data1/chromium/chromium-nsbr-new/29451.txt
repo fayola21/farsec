@@ -1,0 +1,1 @@
+<title>Issue 29451 -   chromium -    We need reliability tests for ChromeFrame - Project Hosting on Google Code</title> <pre> Reliability tests for ChromeFrame on similar lines as Chrome would be   extremely helpful to catch race conditions and other regressions in   ChromeFrame builds. </pre>

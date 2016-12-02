@@ -1,0 +1,1 @@
+<title>Issue 12955 -   chromium -    find should list the number of occurrences  - Project Hosting on Google Code</title>   1. Try to find something in  a page by hitting CTRL+F  2. Search for a word        Count of occurrences should be displayed      There is no count of the number of hits.    <b>Please provide

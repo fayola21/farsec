@@ -1,0 +1,1 @@
+<title>Issue 23334 -   chromium -    Chrome crashes when opening multiple windows - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.213.1 (Official Build 27053)      1. Keep pressing CTRL+N to multiple windows continuously   2. stop when there are lots of windows (more than 40 would do it...i think)  3. see the chrome crashing   </pre>

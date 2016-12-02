@@ -1,0 +1,1 @@
+<title>Issue 34678 -   chromium -    ChromeFrame Tests: Lock icon - Project Hosting on Google Code</title> <pre> Lock icon tests:  1. Lock icon for HTTPs sites with valid cert  2. No lock icon for HTTPs site with mixed content  3. No lock icon for HTTP site     </pre>

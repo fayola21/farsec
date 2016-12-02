@@ -1,0 +1,1 @@
+<title>Issue 35790 -   chromium -    huji.ac.il: emits iso-8859-8 (visual) HTTP header although it's actually in windows-1255 - Project Hosting on Google Code</title>   1. Go to the above URL      Hebrew should be displayed correctly      Hebrew is displayed in reverse order    <b>Please provide

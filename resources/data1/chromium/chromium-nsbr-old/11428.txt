@@ -1,0 +1,1 @@
+<title>Issue 11428 -   chromium -    Regression: Ctrl+Tab doesn't cycle through tabs in tabstrip when New Tab is opened - Project Hosting on Google Code</title> <pre>   1. Open Chrome  2. Press Ctrl+T  3. Press Ctrl+Tab    In step 2  NTP opens and Omnibox gets focus. Step 3 does nothing.    I sync'ed to tot very recently (last hour or so). </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1247 -   chromium -    When you write &quot;:%&quot; without the quote in the omnibar  chrome crashes. - Project Hosting on Google Code</title>   1. Typing :% in the omnibar           Searching       The browser crashes    Please provide

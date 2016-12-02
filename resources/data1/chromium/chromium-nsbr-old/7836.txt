@@ -1,0 +1,1 @@
+<title>Issue 7836 -   chromium -    Can't edit name or URL of bookmark - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.162.0      1. Right click a bookmark in the bookmark bar and select Edit  2. Try to alter the Name or URL      Name/URL is altered.      Can't highlight the textfield &amp; can't make edits. </pre>

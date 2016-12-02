@@ -1,0 +1,1 @@
+Views list not loading in Ambari Web    In build 1.6.0-159  the views call is being made but it's not listing the views in the dropdown.This was due to the API change and Ambari Web hasn't adjusted yet to this introduction of /versions/.   

@@ -1,0 +1,1 @@
+<title>Issue 23993 -   chromium -    'Sync my bookmarks...' menu item doesn't do anything in incognito - Project Hosting on Google Code</title> <pre> Build: 4.0.221.6 (Official Build 28091)    We should delete 'Sync my bookmarks' entry from Wrench menu for an  Incognito window. Right now  it does nothing.    PS: We honor this in case of Extensions.   </pre>

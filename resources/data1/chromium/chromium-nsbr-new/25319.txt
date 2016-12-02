@@ -1,0 +1,1 @@
+<title>Issue 25319 -   chromium -    Cmd-clicking back button should open history page in new background tab - Project Hosting on Google Code</title> <pre>   1. Cmd-click back button        Page from history should open in new tab.        Page from history is opened in current tab. </pre>

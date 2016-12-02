@@ -1,0 +1,1 @@
+<title>Issue 10788 -   chromium -    page comes up blank when opened in a second tab - Project Hosting on Google Code</title> <pre> Chrome 2.0.175.0      1. Navigate to a page in new tab  2. Now  open another tab and navigate to the same page in step 1        The page in the second tab doesn't load       </pre>

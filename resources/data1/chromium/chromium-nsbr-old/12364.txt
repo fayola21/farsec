@@ -1,0 +1,1 @@
+<title>Issue 12364 -   chromium -    Stuck on 2.0.171.0  - Project Hosting on Google Code</title> <pre> Checking for updates says &quot;Google Chrome is up to date&quot;.  Yes  I have restarted my browser.    Specific version: 2.0.171.0 (Official Build 12323)    I'm not sure if this computer was on dev or beta channel  but either way  it   seems stuck behind. </pre>

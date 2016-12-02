@@ -1,0 +1,1 @@
+<title>Issue 39249 -   chromium -    Content Scripts run on view-source - Project Hosting on Google Code</title>   1. Install content script which runs on a page eg. &quot;google.com&quot;  2. goto view-source:google.com        View Source code ... nothing else        Content Script Runs    <b>Please provide

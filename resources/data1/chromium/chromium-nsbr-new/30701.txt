@@ -1,0 +1,1 @@
+<title>Issue 30701 -   chromium -    Anchor working once - Project Hosting on Google Code</title>   1.If there's an anchor on a webpage (for ex: &quot;top&quot;)  2.You click on it and it will bring you to the top :-)  3.You click on it a second time and nothing happens :-(      Anchor links should always work      It works the first time and that's it.    <b>Please provide

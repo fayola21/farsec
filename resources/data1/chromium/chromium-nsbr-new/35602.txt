@@ -1,0 +1,1 @@
+<title>Issue 35602 -   chromium -    Translate infobar does not show on reload - Project Hosting on Google Code</title> <pre> 1. Load a page in a foreign language. The translate infobar is shown.  2. Reload the page.    Expected:  The infobar is shown again.    Actual:  No infobar is shown.   </pre>

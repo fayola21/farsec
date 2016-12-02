@@ -1,0 +1,1 @@
+<title>Issue 22081 -   chromium -    NNTP 3.0 stable build: Duplicate thumbnails on NNTP  - Project Hosting on Google Code</title> <pre> Using 3.0 stable for a while  thumbnail for google.com appears twice on NNTP    also  the windows live hotmail thumbnail appears twice too  one has the   Windows favicon under the thumbnail  and the other has the msn favicon... </pre>

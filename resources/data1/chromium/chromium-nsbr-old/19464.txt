@@ -1,0 +1,1 @@
+<title>Issue 19464 -   chromium -    full screen doesnt work with --app mode - Project Hosting on Google Code</title> <pre> Chrome Version       : 22865          1. start with --app  2. press f11        full screen       nothing       </pre>

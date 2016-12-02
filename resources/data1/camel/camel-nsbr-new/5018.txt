@@ -1,0 +1,1 @@
+Support unmarshall of CSV files that does not contain all fields described in the annotated POJO.    Actually when trying to unmarshall a CSV that does not contain all the fields described via @DataField annotation  an IllegalArgumentException is thrown. Would be better to define a default value for non required fields via @DataField annotation and therefore  not fail.   

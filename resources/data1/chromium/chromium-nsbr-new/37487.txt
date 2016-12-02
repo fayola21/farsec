@@ -1,0 +1,1 @@
+<title>Issue 37487 -   chromium -    Hover text of images disappears too quickly - Project Hosting on Google Code</title>   1. Open <a href="http://www.xkcd.com">http://www.xkcd.com</a>  2. Move the mouse over the comic image        The text stays enough time.        The hover text disappears too quickly to be able to read it.    Please provide

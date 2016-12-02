@@ -1,0 +1,1 @@
+<title>Issue 794 -   chromium -    chrome is too slow in opening new tabs than firefox and downloads too are slow espcially from sharing sites like ZShare BitTorrent etc. Firefox counts much beeter on this front - Project Hosting on Google Code</title>                       Please provide

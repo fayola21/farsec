@@ -1,0 +1,1 @@
+<title>Issue 42145 -   chromium -    Notifications enabled = false on multiple sync installations. - Project Hosting on Google Code</title> <pre> Sometimes notifications seem to go from enabled to disabled on browser   restart. It's unclear what causes this to occur. If this occurs  and you can:    Get sync to work by adding a bookmark    please track it here. </pre>

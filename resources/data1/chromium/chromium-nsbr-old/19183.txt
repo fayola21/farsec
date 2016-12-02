@@ -1,0 +1,1 @@
+<title>Issue 19183 -   chromium -    Iconless infobars show NSEveryone image - Project Hosting on Google Code</title> <pre> Iconless infobars (for example  plugin crashed) still show the default NSEveryone image that's in the   xib file.  The image view should be hidden and the text shifted left for these infobars.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 4668 -   chromium -    NTP Metrics don't record TabRestored correctly - Project Hosting on Google Code</title> <pre> The New Tab Page is currently recording the SessionID for a restored   session  rather than the index in the restore list. </pre>

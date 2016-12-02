@@ -1,0 +1,1 @@
+InterceptFrom - Add support for using property placeholders    InterceptFrom does not support property placeholders. We should add support for that.Seehttp://camel.465427.n5.nabble.com/Usage-of-property-placeholders-in-the-interceptFrom-String-method-calls-tp5739273.html   

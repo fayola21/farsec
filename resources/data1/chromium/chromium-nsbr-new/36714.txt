@@ -1,0 +1,1 @@
+<title>Issue 36714 -   chromium -    Implement translate infobars on Linux - Project Hosting on Google Code</title> <pre> Like it says on the tin. </pre>

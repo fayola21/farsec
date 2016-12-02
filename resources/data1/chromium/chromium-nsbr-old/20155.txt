@@ -1,0 +1,1 @@
+<title>Issue 20155 -   chromium -    Esc = Mouse release on Linux - Project Hosting on Google Code</title> <pre>   -Open two tabs  -Drag a tab below the tabstrip and hold it.  -Hit 'Esc' key.    Result:  Should cancel the drag and drop as we do in Windows.    Expected:  The dragged tab creates a new window.     </pre>

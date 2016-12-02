@@ -1,0 +1,1 @@
+<title>Issue 38985 -   chromium -    Alt+F4 should close Bookmark manager. - Project Hosting on Google Code</title> <pre> OS:0.6.38.201003202017 (Official Build 329869ce)  Chrome:	5.0.356.3 (Official Build 42174)    Try to close Bookmark manager using Alt+F4.    Issue:  The key event is ignored.    We should support this.     PS: Works fine on Linux. </pre>

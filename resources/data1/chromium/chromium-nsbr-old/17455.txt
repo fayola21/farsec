@@ -1,0 +1,1 @@
+<title>Issue 17455 -   chromium -    Update thumbnail image size to match NNTP - Project Hosting on Google Code</title> <pre> The new new tab page has a different size for thumbnail images compared to   the old new tab page. We should store the thumbnail images in the size wanted   by the new new tab page because that is the default mode for milestone 3. </pre>

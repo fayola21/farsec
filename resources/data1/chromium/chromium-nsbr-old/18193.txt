@@ -1,0 +1,1 @@
+<title>Issue 18193 -   chromium -    Implement WebPluginDelegateProxy::BackgroundChanged - Project Hosting on Google Code</title> <pre> Currently BackgroundChanged always returns true on the Mac  so we always   re-blit the page into the background backing buffer. This makes us force the   plugin to draw a lot more than it might actually need to  so it hurts perf. </pre>

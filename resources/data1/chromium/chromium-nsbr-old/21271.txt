@@ -1,0 +1,1 @@
+<title>Issue 21271 -   chromium -    --show-extensions-on-top: moles don't work - Project Hosting on Google Code</title> <pre> Install the mappy extension and go to a page with an address on it  then   click on the button.  A mole with a map should extend out of the toolstrip. </pre>

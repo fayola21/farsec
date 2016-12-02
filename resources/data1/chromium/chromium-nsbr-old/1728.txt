@@ -1,0 +1,1 @@
+<title>Issue 1728 -   chromium -    problems during page resizing - Project Hosting on Google Code</title>   1.scrolling with pressed ctrl button  for page resizing       the viewing region have to stay the same position on the page        the viewing region runs all over the page      Please provide

@@ -1,0 +1,1 @@
+<title>Issue 13415 -   chromium -    Window resize is not fluid - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.182.5    On a MacBook pro last generation when resize a window the process seems to be not so fluid. It's   not a big problem but i've noticed it since first early releases. </pre>

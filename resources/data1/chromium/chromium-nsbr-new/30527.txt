@@ -1,0 +1,1 @@
+<title>Issue 30527 -   chromium -    NetworkManager chewing up cpu on Linux bots - Project Hosting on Google Code</title> <pre> This happens every so often on some Linux bots. NetworkManager is in an   infinite loop and takes up an entire core. It takes a kill -9 to stop it.    Do we need NetworkManager on the bots? Can we just disable it? </pre>

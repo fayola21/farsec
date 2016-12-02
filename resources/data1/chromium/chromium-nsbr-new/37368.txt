@@ -1,0 +1,1 @@
+<title>Issue 37368 -   chromium -    Use MapWindowPoints() in TooltipManagerWin - Project Hosting on Google Code</title> <pre> From commentary on <a href="http://codereview.chromium.org/652104">http://codereview.chromium.org/652104</a> : We should use   MapWindowPoints() in place of explicitly offsetting coordinates by   GetBounds(). </pre>

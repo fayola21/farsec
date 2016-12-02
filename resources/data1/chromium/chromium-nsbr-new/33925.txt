@@ -1,0 +1,1 @@
+<title>Issue 33925 -   chromium -    Set flash content to fullscreen causes extension popup close - Project Hosting on Google Code</title>   1. For example embed a youtube  2. Click on fullscreen button      -Fullscreen video      -Popup close    <b>Please provide

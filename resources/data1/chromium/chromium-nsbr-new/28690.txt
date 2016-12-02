@@ -1,0 +1,1 @@
+<title>Issue 28690 -   chromium -    Scroll wheel function doesn't work in flash application - Project Hosting on Google Code</title>   1. Enter in the application FarmVille on Facebook and scroll your mouse   wheel          You must see zoom+ or zoom- when you scroll      Nothing happens.    <b>Please provide

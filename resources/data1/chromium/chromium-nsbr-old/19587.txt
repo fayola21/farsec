@@ -1,0 +1,1 @@
+<title>Issue 19587 -   chromium -    Chromium Fails to call adobe to open PDFs files - Project Hosting on Google Code</title>   1. Click URLs that contain pdf files        - Chromium should call Adobe PDF Reader and open the PDF file either   externally or embedded in the browser.        only black screen appears.        <b>Please provide

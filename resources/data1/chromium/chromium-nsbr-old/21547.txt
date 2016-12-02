@@ -1,0 +1,1 @@
+<title>Issue 21547 -   chromium -    Improve automated_ui_tests: make them less flaky and detect more real problems - Project Hosting on Google Code</title> <pre> They have a great potential  just like the ChromeBot for fixing WebKit   crashes. I'm going to make full use of it. </pre>

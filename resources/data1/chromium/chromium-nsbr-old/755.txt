@@ -1,0 +1,1 @@
+<title>Issue 755 -   chromium -    Wheel Scrollup Disabled - Microsoft Intellimouse Explorer 3  - Project Hosting on Google Code</title>   1. Go to any web page  2. Scroll down with wheel on mouse  3. Try scrolling up                Please provide

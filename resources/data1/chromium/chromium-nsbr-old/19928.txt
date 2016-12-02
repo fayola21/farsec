@@ -1,0 +1,1 @@
+<title>Issue 19928 -   chromium -    Open Location... menu item typo - Project Hosting on Google Code</title> <pre> Chrome Version       : 202.0 (Developer Build 23612)      1. Open the File menu.  2. Look at the Open Location... item.  3. Look more carefully.      To see &quot;Open Location...&quot;.      You see &quot;Open Locations...&quot;. </pre>

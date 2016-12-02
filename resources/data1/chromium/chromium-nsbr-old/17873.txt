@@ -1,0 +1,1 @@
+<title>Issue 17873 -   chromium -    Context menu parses '&amp;' strangely - Project Hosting on Google Code</title> <pre>   1. Select this string: &quot;foo&amp;bar&quot;  2. Right click      Expected: Search Google for 'foo&amp;bar'  Actual: Search Google for 'foobar' [where 'b' is underlined] </pre>

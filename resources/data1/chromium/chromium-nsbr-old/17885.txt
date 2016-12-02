@@ -1,0 +1,1 @@
+<title>Issue 17885 -   chromium -    Garbled font rendering on Linux/Fedora 10 - Project Hosting on Google Code</title>   1. Open browser  2. Go to any page        I can read the rendered page      Page renders correctly layout wise; fonts are jumbled.    <b>Please provide

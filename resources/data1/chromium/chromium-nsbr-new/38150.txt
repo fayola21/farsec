@@ -1,0 +1,1 @@
+<title>Issue 38150 -   chromium -    Passing strings through ExternalInterface that contain escaped double quotes throws exception - Project Hosting on Google Code</title>   1. Create a string containing an escaped double quote  2. Call from JavaScript a method on SWF that returns that string  3. Don't Profit!        Profit!        An exception is thrown    <b>Please provide

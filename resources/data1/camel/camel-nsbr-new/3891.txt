@@ -1,0 +1,1 @@
+Avoiding to process the bean which value is null in CamelBeanPostProcessor    When user use the FactoryBean to return a null object within Spring 2.x  the CamelBeanPostProcessor will throw a NPE exception.Although this issue can't be reproduced within Spring 3.x  we should consider to put the NP check in the CamelBeanPostProcessor as an enhancement.   

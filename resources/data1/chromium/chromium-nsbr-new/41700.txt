@@ -1,0 +1,1 @@
+<title>Issue 41700 -   chromium -    Inspector: Asserts fails in debug mode - Project Hosting on Google Code</title> <pre> The assert in ScriptExecutionContext::resumeActiveDOMObjects often fails when   I'm using the inspector on a debug build.   </pre>

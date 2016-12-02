@@ -1,0 +1,1 @@
+<title>Issue 11754 -   chromium -    Tab background image error - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.180.0~svn20090510r15737-0ubuntu1~ucd1      1. Open Chromium  hehe      The default blue background of tabs from Chromium.      Appears various horizontal black lines on tabs background. The error is   happening after I updated Chromium. </pre>

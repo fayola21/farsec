@@ -1,0 +1,1 @@
+<title>Issue 24068 -   chromium -    Paste event not emitted when pasting with ctrl shift v - Project Hosting on Google Code</title>   1. Copy some text with CTRL + C  2. Paste using CTRL+SHIFT+V      The browser should've emitted a paste event before mutating the DOM.      No paste event is emitted.    <b>Please provide

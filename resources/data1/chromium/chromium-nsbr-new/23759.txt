@@ -1,0 +1,1 @@
+<title>Issue 23759 -   chromium -    Converting a Z600 into a Windows official builder - Project Hosting on Google Code</title> <pre> I've got a machine we can use for this  in fact it's all setup w/ VS2005  it   just needs to be setup as a builder.  If anyone has time next week to pick it   up  worst case I'll do it the following week. </pre>

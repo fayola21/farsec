@@ -1,0 +1,1 @@
+<title>Issue 6179 -   chromium -    Can't drag random text to titlebar - Project Hosting on Google Code</title> <pre> I can drag something that looks like a URL to the titlebar to open it in a   new tab  but I can't drag random non-URL text there to search for it in a   new tab.  What gives? </pre>

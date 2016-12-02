@@ -1,0 +1,1 @@
+<title>Issue 26327 -   chromium -    New tab - Project Hosting on Google Code</title>   1.Right Click a link  2.Press the 'T' key on the keyboard  3.Goes to save link as      Opens the link in a new tab      Highlights the &quot;Save Link As&quot; button and does nothing else    <b>Please provide

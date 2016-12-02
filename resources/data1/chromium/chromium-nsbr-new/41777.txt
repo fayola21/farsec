@@ -1,0 +1,1 @@
+<title>Issue 41777 -   chromium -    Pepper camera APIs - Project Hosting on Google Code</title> <pre> Metabug to track the progress of camera Pepper APIs    For more info on Pepper  see   <a href="https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI">https://wiki.mozilla.org/Plugins:PlatformIndependentNPAPI</a>   </pre>

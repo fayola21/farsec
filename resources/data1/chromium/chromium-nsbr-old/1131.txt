@@ -1,0 +1,1 @@
+<title>Issue 1131 -   chromium -    Anchor element with href=&quot;javascript:XXX&quot; shows inactive context menu - Project Hosting on Google Code</title>   1. right click link (at above url) below image that reads &quot;Click here to   view now!&quot;          Allow to copy link into clipboard      option is grayed-out    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12368 -   chromium -    preference window doesn't close with cmd-w - Project Hosting on Google Code</title> <pre> Chrome Version       : Version 2.0.182 (182.0)      1. Open preference window  2. cmd-w      Window should close.      Window does not close.      Thanks guys.  Looking very good.   </pre>

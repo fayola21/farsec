@@ -1,0 +1,1 @@
+<title>Issue 7186 -   chromium -    Random crash - Project Hosting on Google Code</title>   1. Open Chrome  2. Do stuff for a short period (10-40 seconds)  3. Google Chrome crashes      Google Chrome allows me to do stuff      A lovely WinXP window says: &quot;Google Chrome has encountered a problem and  needs to close. We are sorry for the inconvenience.&quot;    Please provide

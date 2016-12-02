@@ -1,0 +1,1 @@
+<title>Issue 7779 -   chromium -    Scrolling over tab causes it to detach! - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.162                  1. Scrolling over tab causes it to detach.  2. trying to scroll down directly aft switching tabs        not detach :P      tab detaches and get in your way   </pre>

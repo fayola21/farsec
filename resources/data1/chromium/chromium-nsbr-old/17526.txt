@@ -1,0 +1,1 @@
+<title>Issue 17526 -   chromium -    New tabs are opened in foreground - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.1    New tabs are opened in foreground instead of background and there is no   option to change it back  which is extremely annoying and made me go back to   Firefox :( </pre>

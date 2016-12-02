@@ -1,0 +1,1 @@
+<title>Issue 11486 -   chromium -    Mac Build says &quot;Quit Chromium&quot; even on branded build - Project Hosting on Google Code</title> <pre>   1.  Load up a Chrome branded Mac build  2.  Go to File menu    What is the expected output?     Last option should be Exit Chrome    What do you see instead?    Last option is Exit Chromium.   </pre>

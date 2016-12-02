@@ -1,0 +1,1 @@
+<title>Issue 10792 -   chromium -    Can't use dead keys on OS X - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.1 (Developer Build )  URLs (if applicable) : n/a           Safari 4: OK    Firefox 3.x: OK           IE 7: n/a           IE 8: n/a      trying to enter characters using the U.S. Extended key mapping      special characters      nothing </pre>

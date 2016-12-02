@@ -1,0 +1,1 @@
+<title>Issue 7783 -   chromium -    Back forward menu does not use Aero on Vista - Project Hosting on Google Code</title>   1. Go to a site and navigate a few pages  2. Right click on the back or forward buttons      The back forward menu uses Aero to display if enabled      The menu is displayed using the Vista non Aero style    Please provide

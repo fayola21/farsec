@@ -1,0 +1,1 @@
+<title>Issue 68 -   chromium -    Allow New Tab page to be replaced by user specified homepage - Project Hosting on Google Code</title>   1. OPENING A NEW TAB WITH THE + BUTTON          A SELECTED PAGE / HOMEPAGE      MOST VISITED SITES OPENS    Please provide

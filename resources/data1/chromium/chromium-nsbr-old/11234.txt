@@ -1,0 +1,1 @@
+<title>Issue 11234 -   chromium -    Add theme reset / get more themes button - Project Hosting on Google Code</title> <pre> We need a way for the user to reset themselves to the default theme. </pre>

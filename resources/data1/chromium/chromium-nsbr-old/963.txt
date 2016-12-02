@@ -1,0 +1,1 @@
+<title>Issue 963 -   chromium -    text and formatting not showing correctly - Project Hosting on Google Code</title>   1. Visit the URL         For formatting to look just as it does in IE 6 or 7      Not rendered correctly      Please provide

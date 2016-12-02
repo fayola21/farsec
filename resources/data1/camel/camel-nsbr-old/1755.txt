@@ -1,0 +1,1 @@
+Failover load balancer - should prepare exchange before failover    When the failover load balancer does a fail over it only clears the exception.When you use dead letter channel or default error handler with redeliveries enabled they will have such information.This should also be cleared before failover. So we have a clean and fresh start.   

@@ -1,0 +1,1 @@
+<title>Issue 7406 -   chromium -    Bookmarks bar rounded-rect has two missing pixels - Project Hosting on Google Code</title>   1. Turn off always show bookmarks bar  2. Maximise the window  3. Open the new tab page      Bookmarks bar shows 1 continuous line      Bookmarks bar has 1 pixel gap on ~25% and 75% of bar    Please provide

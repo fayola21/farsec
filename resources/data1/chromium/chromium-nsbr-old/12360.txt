@@ -1,0 +1,1 @@
+<title>Issue 12360 -   chromium -    REGRESSION: In maximized mode there is a line of pixels missing from the bottom of the toolbar - Project Hosting on Google Code</title> <pre> REGRESSION: In maximized mode there is a line of pixels missing from the   bottom of the toolbar    Observed in 2.0.182.0 (Developer Build 16331) </pre>

@@ -1,0 +1,1 @@
+<title>Issue 19941 -   chromium -    Browser freeze on online.medicover.pl - Project Hosting on Google Code</title>   1. go to online.medicover.pl  2. click on &quot;medicover online&quot; (orange button)  3. browser will freeze                <b>Please provide

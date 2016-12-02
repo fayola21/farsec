@@ -1,0 +1,1 @@
+<title>Issue 38751 -   chromium -    Chrome 5.0.356.0 default theme problem under Win 7 Aero - Project Hosting on Google Code</title>   1. Watch the right top corner of the Chrome browser on default theme. Under   windows 7 Aero enabled.        Theme should display correctly.      User gets to see a shadow over the theme that doesn't need to be there.    <b>Please provide

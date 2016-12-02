@@ -1,0 +1,1 @@
+<title>Issue 1789 -   chromium -    close after save as - Project Hosting on Google Code</title> <pre> browser is restarted after making many &quot;save as&quot;   also the action :  ctrl+s   doesn't go on </pre>

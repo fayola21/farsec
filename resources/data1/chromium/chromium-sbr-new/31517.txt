@@ -1,0 +1,1 @@
+<title>Issue 31517 -   chromium -    ChildProcessSecurityPolicy::CanRequestURL recusion stack exhaustion in URL parsing with nested protocols - Project Hosting on Google Code</title> <pre> PoC: <a href="http://exchange.kg/other/chrome3_0day-denial_of_service_crash.html">http://exchange.kg/other/chrome3_0day-denial_of_service_crash.html</a>       </pre>

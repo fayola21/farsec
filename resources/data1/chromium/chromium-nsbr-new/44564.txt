@@ -1,0 +1,1 @@
+<title>Issue 44564 -   chromium -    iframe does not show Picasa URL - Project Hosting on Google Code</title>   1.just open the URL          you see Picaso in an iFrame      you see a blank page in the iFrame    <b>Please provide

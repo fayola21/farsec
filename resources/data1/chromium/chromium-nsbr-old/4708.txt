@@ -1,0 +1,1 @@
+<title>Issue 4708 -   chromium -    Flash Uploader in Wordpress doesn't work - Project Hosting on Google Code</title>   1. Go to blog entry  click add media / add an image  2. click &quot;choose files to upload&quot;  3. it doesn't respond                Please provide

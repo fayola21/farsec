@@ -1,0 +1,1 @@
+<title>Issue 7622 -   chromium -    Review elements can't Highlight - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.162.0      1. In first beta Review elements can Highlight but in newest version can't  heghlight.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44856 -   chromium -    yahoo mail shrunk to unreadable size - Project Hosting on Google Code</title>   1.log in to yahoo mail with the &quot;new&quot; (not classic) interface  2.watch everything shrink                  <b>Please provide

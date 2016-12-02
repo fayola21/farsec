@@ -1,0 +1,1 @@
+<title>Issue 15884 -   chromium -    gtk bookmark bar: folders should be drag dests - Project Hosting on Google Code</title> <pre> From Glen UI review; title says it all. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 8201 -   chromium -    Window menu should list open windows - Project Hosting on Google Code</title> <pre> Since our windows don't have a title  we're not getting anything in the  window menu that lists open windows.    This needs to show the title as the front-most tab in each window that's  currently open. </pre>

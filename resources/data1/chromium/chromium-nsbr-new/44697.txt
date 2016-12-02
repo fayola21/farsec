@@ -1,0 +1,1 @@
+<title>Issue 44697 -   chromium -    New Tab Bookmarks hidden - Project Hosting on Google Code</title>   1. Open New Tab        The bookmarks bar to be shown        No bookmarks bar    <b>Please provide

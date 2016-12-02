@@ -1,0 +1,1 @@
+<title>Issue 9745 -   chromium -    No new tab for back-browsing. - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;1.0.154.53&gt;          Firefox 3.x: OK        1. Middle clicking the back/forward button (or a page on the history list).          To open the previous/next page (or the desired page) in a new tab.      Nothing!         </pre>

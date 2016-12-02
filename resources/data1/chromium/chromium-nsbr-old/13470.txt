@@ -1,0 +1,1 @@
+<title>Issue 13470 -   chromium -    Address bar Search does not work - Project Hosting on Google Code</title>   1. Go to the address bar and search for any keyword. eg: Obama          Google chrome should throw out the search results for &quot;Obama&quot;      It tells the word cannot be searched    <b>Please provide

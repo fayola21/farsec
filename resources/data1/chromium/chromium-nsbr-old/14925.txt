@@ -1,0 +1,1 @@
+<title>Issue 14925 -   chromium -    Ghost New Tab button while dragging - Project Hosting on Google Code</title> <pre> when you re-attach a detached tab you get a ghost new tab button even when  the tab is 'snapped' to the docked strip. </pre>

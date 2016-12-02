@@ -1,0 +1,1 @@
+<title>Issue 21160 -   chromium -    Clearing Browsing Data Missing - Project Hosting on Google Code</title>             Option in the past revisions existed but no longer does.      Missing option to clear browsing data.    <b>Please provide

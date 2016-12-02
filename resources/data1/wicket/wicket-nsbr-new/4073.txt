@@ -1,0 +1,1 @@
+Wicket quickstart advertise HTTPS but it doesn't work when started with jetty:run    The pregenerated 'keystore' is put in src/test/resources and thus is not in the classpath when started with 'mvn jetty:run'. This leads to a broken link in the home page of the quickstart.We should either move the keystore file or disable the link when HTTPS is not enabled.   

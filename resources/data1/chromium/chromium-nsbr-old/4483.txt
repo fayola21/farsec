@@ -1,0 +1,1 @@
+<title>Issue 4483 -   chromium -    SSL Security Information dialog is larger than whole screen and cannot be resized!!!! - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.3.155.0 (Developer Build 5525)      1. just  open a website with ssl and click in address bar's lock icon. </pre>

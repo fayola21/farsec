@@ -1,0 +1,1 @@
+<title>Issue 28369 -   chromium -    theme color issue - Project Hosting on Google Code</title>   1. Select a different theme other than classic  Matt W. Moore          theme with true color      wrong color appear mostly red is change by pink and purple    <b>Please provide

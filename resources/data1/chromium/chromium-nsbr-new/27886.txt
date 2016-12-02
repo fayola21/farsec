@@ -1,0 +1,1 @@
+<title>Issue 27886 -   chromium -    Uninstall confirmation says install - Project Hosting on Google Code</title> <pre> Chrome Version : 4.0.250.0 (Developer Build 32064)  OS + version : Linux      1. uninstall any extension      The button should say &quot;Uninstall&quot;      The button says &quot;Install&quot; </pre>

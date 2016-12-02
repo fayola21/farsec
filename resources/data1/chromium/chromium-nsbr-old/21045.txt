@@ -1,0 +1,1 @@
+<title>Issue 21045 -   chromium -    Chrome window is deformed when resized - Project Hosting on Google Code</title>   1.Open any Chrome window  2.Restore it  3.Resize it as small as possible      It stops when it is as small as the UI allows.      It becomes so narrow that the window buttons are squashed and overhanging.    <b>Please provide

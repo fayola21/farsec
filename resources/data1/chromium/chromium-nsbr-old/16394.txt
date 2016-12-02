@@ -1,0 +1,1 @@
+<title>Issue 16394 -   chromium -    Upstream WebCore.gypi and JavaScriptCore.gypi - Project Hosting on Google Code</title> <pre> Currently  our build files for WebKit are located downstream  which makes it   a requirement for project updates to be a two-sided patch and is a pain for   mergers.    We should move these upstream. </pre>

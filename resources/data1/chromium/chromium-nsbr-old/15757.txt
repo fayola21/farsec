@@ -1,0 +1,1 @@
+<title>Issue 15757 -   chromium -    unable to close tab while Loading... - Project Hosting on Google Code</title> <pre> version = 3.0.190.4    When opening a new tab to a slow site  I'm unable to close the tab while it   is in the &quot;Loading...&quot; phase. I can provide a private URL which demonstrates   this problem if you have difficulty reproducing the problem. </pre>

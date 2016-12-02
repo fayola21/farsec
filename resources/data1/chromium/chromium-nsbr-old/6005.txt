@@ -1,0 +1,1 @@
+<title>Issue 6005 -   chromium -    9/10 websites freeze on loading - Project Hosting on Google Code</title>   1. Opening my Igoogle  2. Click any link from the google search engine                  Please provide

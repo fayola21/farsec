@@ -1,0 +1,1 @@
+<title>Issue 39625 -   chromium -    Task Manager invisible on OSX 10.6.2 - Project Hosting on Google Code</title>   1. run chrome  2. open task manager        you can see task manager      task manager appears invisible  including on expose. in expose  a space is shown for task   manager  and you can select it  but it appears to be invisible.    <b>Please provide

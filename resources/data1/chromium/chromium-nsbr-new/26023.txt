@@ -1,0 +1,1 @@
+<title>Issue 26023 -   chromium -    Browser action badge painting incorrect on linux - Project Hosting on Google Code</title> <pre> See attached screne caps. Windows (correct) is on left  Linux (boo) is on   right.    Two issues:    a) badge background is too high.  b) text is one pixel too low wrt badge </pre>

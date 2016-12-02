@@ -1,0 +1,1 @@
+<title>Issue 24303 -   chromium -    Problem with setting Chromium as default browser - Project Hosting on Google Code</title>   1. Use Options to &quot;Make Chromium my default browser.&quot;      Clicking on links in other applications will invoke Chromium and display   the linked page.      Chromium is invoked  but the home page is displayed    <b>Please provide

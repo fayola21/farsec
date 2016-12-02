@@ -1,0 +1,1 @@
+<title>Issue 9480 -   chromium -    Can't type ampersand in input-elements - Project Hosting on Google Code</title>   1. Use any input-element  2. Try to typ the &amp;-sign (shift+7)       An ampersand should appear.       No ampersand appears.    <b>Please provide

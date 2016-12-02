@@ -1,0 +1,1 @@
+<title>Issue 22149 -   chromium -    External devices auto-unmount - Project Hosting on Google Code</title>   1.Attach one or more usb external devices to pc  2.Start Google Chrome      Google Chrome starts and nothing else happen.        After 10-11 seconds  all external devices are automatically unmounted.      <b>Please provide

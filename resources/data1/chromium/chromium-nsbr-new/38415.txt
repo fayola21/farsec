@@ -1,0 +1,1 @@
+<title>Issue 38415 -   chromium -    Proxy fail-over not working - Project Hosting on Google Code</title>   1. Setup a pac script (java) with one or two non-existing proxy servers   followed by &quot;DIRECT&quot;  2. Browse to a web page        The page is shown - due to the DIRECT setting.        The &quot;Failure to connect&quot; screen.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38987 -   chromium -    [Accessibility] Add Accessibility name for native buttons. - Project Hosting on Google Code</title> <pre> Chromium dialog buttons must have a MSAA accessible name.    Such components are OK  Cancel  Save  etc that are added automatically. </pre>

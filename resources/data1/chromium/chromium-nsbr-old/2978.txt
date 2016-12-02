@@ -1,0 +1,1 @@
+<title>Issue 2978 -   chromium -    need to implement XMLHttpRequest::dispatchEvent and XMLHttpRequestUpload::dispatchEvent. - Project Hosting on Google Code</title> <pre> These methods are currently stubbed out in v8_custom.cpp.    This should fix LayoutTests/http/tests/xmlhttprequest/event-target.html . </pre>

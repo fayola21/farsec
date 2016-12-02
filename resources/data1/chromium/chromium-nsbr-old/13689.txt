@@ -1,0 +1,1 @@
+<title>Issue 13689 -   chromium -    Options's Basics/Personal Stuff tabs are truncated in many languages  - Project Hosting on Google Code</title> <pre> ToT (<a href="/p/chromium/source/detail?r=17941">r17941</a>)    -Launch Chromium for Telugu lang.  -Bring up Options dialog.    As shown in the screenshot  Basics and Personal Stuff tabs are truncated.       </pre>

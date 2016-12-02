@@ -1,0 +1,1 @@
+<title>Issue 13881 -   chromium -    Configurations  Updates  about and others buttons - Project Hosting on Google Code</title>   1. Click on button to view updates  2. Click to view about Chrome  3. Click on button to view configurations options      Open this options      Google Chrome trunk and restart    <b>Please provide

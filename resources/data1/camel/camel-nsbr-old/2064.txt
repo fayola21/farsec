@@ -1,0 +1,1 @@
+Redundant interceptions when using interceptSendToEndpoint    See http://www.nabble.com/Issue-with-interceptSendToEndpoint-to25859201s22882.html   

@@ -1,0 +1,1 @@
+<title>Issue 18574 -   chromium -    Padding/spacing in mac toolbar buttons is still wrong - Project Hosting on Google Code</title> <pre> It still looks odd. Ask Glen why. Assigning to Cole since he is best to address   this. </pre>

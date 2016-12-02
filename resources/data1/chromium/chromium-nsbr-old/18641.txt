@@ -1,0 +1,1 @@
+<title>Issue 18641 -   chromium -    cookie issues with extensions auto-update - Project Hosting on Google Code</title> <pre> We need to make sure any cookies we send along with extensions auto-update   requests to the gallery (and potentially third-party update urls?) are   consistent with the Chrome privacy policy.   </pre>

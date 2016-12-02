@@ -1,0 +1,1 @@
+<title>Issue 3988 -   chromium -    bookmarks - Project Hosting on Google Code</title>   1. you can't move or organisize directories in bookmarks                    Please provide

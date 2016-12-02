@@ -1,0 +1,1 @@
+<title>Issue 23483 -   chromium -    If &lt;video&gt;/&lt;audio&gt; has no src/source or has error loading the file  the thumb should be gone - Project Hosting on Google Code</title> <pre> Make the thumb disappear if there no resource or it can't be loaded.   </pre>

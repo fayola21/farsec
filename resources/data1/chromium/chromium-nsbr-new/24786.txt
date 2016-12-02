@@ -1,0 +1,1 @@
+<title>Issue 24786 -   chromium -    Frequent &quot;Awww snaps&quot; (Flash related?) - Project Hosting on Google Code</title>   1. Log into gmail  2. Wait for gChat widget to load  3. Crash - baaBoooom        No crash.        Crash.      <b>Please provide

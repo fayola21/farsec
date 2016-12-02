@@ -1,0 +1,1 @@
+<title>Issue 19245 -   chromium -    when I open another window it doesn't show address bar. - Project Hosting on Google Code</title>   1.Open second window of chrome.                    <b>Please provide

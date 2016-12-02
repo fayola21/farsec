@@ -1,0 +1,1 @@
+<title>Issue 23439 -   chromium -    crash using google internal bug tracking tool - Project Hosting on Google Code</title> <pre> not reproducible  but for the record:    had opened an image attachment in new tab  magnified it.  returned to bug   tab. clicked on the input field and chrome popped.  Attached is apple report.    Had several other tabs open to various apps. </pre>

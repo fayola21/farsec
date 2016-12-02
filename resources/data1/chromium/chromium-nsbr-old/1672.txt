@@ -1,0 +1,1 @@
+<title>Issue 1672 -   chromium -    Resolving proxy slow on first page load after program loads - Project Hosting on Google Code</title>   1. open chrome  2. enter url for any web page  3. hit return      requested page loads      resolving proxy message in lower right of window for many seconds or indefinitely    Please provide

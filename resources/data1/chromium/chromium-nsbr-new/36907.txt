@@ -1,0 +1,1 @@
+<title>Issue 36907 -   chromium -    Browser crashed when dragging text. - Project Hosting on Google Code</title>   1.Highlight any text using the cursor or keyboard.  2.Click on highlighted text and drag.      Text should be copying to location dragged  for example  the address bar.      Browser crashes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34220 -   chromium -    Figure out (and remove) crazy hacks in tab_contents.cc - Project Hosting on Google Code</title> <pre> <a href="http://codereview.chromium.org/562013">http://codereview.chromium.org/562013</a> patch set 3 -&gt; 4.  Adds two hacks    Linux goes green.  Why? </pre>

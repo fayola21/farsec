@@ -1,0 +1,1 @@
+<title>Issue 26274 -   chromium -    notifications preferences aren't persisting between sessions - Project Hosting on Google Code</title> <pre>   1. Grant notifications to an origin  2. Restart the browser  3. You'll have to grant permissions again      Notifications permissions should be persisted.   </pre>

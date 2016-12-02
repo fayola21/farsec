@@ -1,0 +1,1 @@
+<title>Issue 28159 -   chromium -    Disable Cocoa event model for plugins - Project Hosting on Google Code</title> <pre> Our Cocoa event model support turns out not to be good enough for real-life   use yet  and Flash 10.1 will use it if present. For the beta  we need to disable   it so things aren't in such bad shape. </pre>

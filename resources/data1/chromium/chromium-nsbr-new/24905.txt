@@ -1,0 +1,1 @@
+<title>Issue 24905 -   chromium -    Adding a bunch of tabs crashes Chromium (29122) - Project Hosting on Google Code</title>   1.Open a lot of tabs (above 30 i did)      It crash the app    <b>Please provide

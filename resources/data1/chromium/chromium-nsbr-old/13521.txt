@@ -1,0 +1,1 @@
+<title>Issue 13521 -   chromium -    webpage gets scrambled on window switch - Project Hosting on Google Code</title>   1. open www.marktplaats.nl  2. press CMD+Tab  3. press it again to switch back      See the page as before the switch      Screen gets scrambled  see attached screenshot    <b>Please provide

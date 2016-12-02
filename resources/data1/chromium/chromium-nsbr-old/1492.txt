@@ -1,0 +1,1 @@
+<title>Issue 1492 -   chromium -    Printing doesn't work properly from www.blockbuster.com - Project Hosting on Google Code</title>   1. I went to print out the monthly &quot;coupon&quot; and when I print the page the   graphic doesn't appear on the printout.                    Please provide

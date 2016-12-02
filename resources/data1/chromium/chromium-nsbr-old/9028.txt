@@ -1,0 +1,1 @@
+<title>Issue 9028 -   chromium -    Options dialog flickers - Project Hosting on Google Code</title> <pre> The options dialog paints strangely (e.g. Under The Hood paints the   controls before the content) and there have been reports of flickering. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 10 -   chromium -    Clickable remember texts in forms - Project Hosting on Google Code</title>   1. Go to a site that has a &quot;remember me&quot; button or similiar with a   clickable text which also activates the checkbox.  2. Click the text      The text should activate the clickbox.      The checkbox is not activated.      Please provide

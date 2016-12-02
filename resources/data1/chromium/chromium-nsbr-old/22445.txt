@@ -1,0 +1,1 @@
+<title>Issue 22445 -   chromium -    Full-Screen (F11) on linux has no drop-down menu nor drop-down button to escape - Project Hosting on Google Code</title>   1.  Press F11 &amp; scroll mouse to the top of the screen  2.  ???  3.  Profit!      Drop-down menu or escape button      Nothing    <b>Please provide

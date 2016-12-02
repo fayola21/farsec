@@ -1,0 +1,1 @@
+<title>Issue 37151 -   chromium -    There is no stop page from loading button. - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.335.0 dev  URLs (if applicable) : none  Other browsers tested: none              The lack of a stop button in the DEV version is very inconvenient. I constantly want websites to stop   loading but I can't. </pre>

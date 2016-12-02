@@ -1,0 +1,1 @@
+camel-cxf example build.xml is out of date    Need to update the build.xml of example-camel-cxf to support run the examples of camel transport and web service provider API.   

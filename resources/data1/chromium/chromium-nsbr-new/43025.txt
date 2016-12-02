@@ -1,0 +1,1 @@
+<title>Issue 43025 -   chromium -    feature request: GPU acceleration for HTML5 video - Project Hosting on Google Code</title> <pre> There should be a feature that enables HTML5 video to use GPU acceleration  so this will take stress off the CPU. It should work on Ubuntu  OpenSuse   Fedora  etc  and it should work with all graphics cards including onboard  video. </pre>

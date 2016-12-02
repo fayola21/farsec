@@ -1,0 +1,1 @@
+<title>Issue 17510 -   chromium -    Image tab title shows wrong symbol - Project Hosting on Google Code</title>   1. Open above URL      Tab title is &quot;image-2.jpg (600x450)&quot;      Tab title is &quot;image-2.jpg (600��_��_450)&quot;  (��_��_ is Alt-0195 on Windows)    <b>Please provide

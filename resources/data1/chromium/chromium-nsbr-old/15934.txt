@@ -1,0 +1,1 @@
+<title>Issue 15934 -   chromium -    Design a way to include remote content in the &quot;installed extensions&quot; page - Project Hosting on Google Code</title> <pre>                    </pre>

@@ -1,0 +1,1 @@
+<title>Issue 39584 -   chromium -    Partially Enable / Disable Plugins (by MIME type) - Project Hosting on Google Code</title> <pre> I would like chrome to be able to partially disable plugins.  eg. have the VLC plugin respond to application/x-vlc-plugin (embed) but not   audio/mpeg (download/embed) or avi file types </pre>

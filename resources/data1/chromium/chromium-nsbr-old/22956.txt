@@ -1,0 +1,1 @@
+<title>Issue 22956 -   chromium -    Status bubble does not resize with the window - Project Hosting on Google Code</title> <pre> Load a page  triggering the status bubble. Resize the window while the status bubble is open.    Notice that the status bubble stays in a fixed position  rather than resizing with the window. </pre>

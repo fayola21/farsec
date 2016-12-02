@@ -1,0 +1,1 @@
+<title>Issue 23737 -   chromium -    Bookmarks Folders always visible - Project Hosting on Google Code</title>     The bookmark folders are always visible  and the option to not show them   seems to have gone away.                <b>Please provide

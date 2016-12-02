@@ -1,0 +1,1 @@
+<title>Issue 13326 -   chromium -    Implement search engine keyword-management uI - Project Hosting on Google Code</title> <pre> I use that feature a LOT in firefox and in Chrome on Windows  mostly to  have keywords sending me directly to sites I browse often  with varying  component in the URL (using the %s).  FYI  this is a very missing feature  Thanks! </pre>

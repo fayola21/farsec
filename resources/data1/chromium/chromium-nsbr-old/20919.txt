@@ -1,0 +1,1 @@
+<title>Issue 20919 -   chromium -    Perf bot(s) slow.  Shard? - Project Hosting on Google Code</title> <pre> It can take 20-30 minutes to finish a cycle of performance testing.  This   makes it difficult to narrow down the source of performance regressions.  It's   not uncommon for a single perf bot cycle to encompass 15 or 20 changes.    Can these be sharded? </pre>

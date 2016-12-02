@@ -1,0 +1,1 @@
+<title>Issue 17279 -   chromium -    ajax script doesn't work! - Project Hosting on Google Code</title>   1.just visit the link. You will find the problem.           it suppose to open like 5 tabs. When you click on tabs it's slides and new   page appears.      the ajax script seems doesn't work well. You will see out lined paragraphs.      <b>Please provide

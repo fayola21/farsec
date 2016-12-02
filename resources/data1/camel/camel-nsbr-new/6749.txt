@@ -1,0 +1,1 @@
+mustache component - Should use app class loader to load templates    It uses the TCCL to load the templates. We should use the App CL which then would allow to better load templates from OSGi.   

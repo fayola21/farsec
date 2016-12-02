@@ -1,0 +1,1 @@
+<title>Issue 16491 -   chromium -    Search box size seems to be reduced on Apple support site - Project Hosting on Google Code</title>   1.Navigate to the URL.   2.Search box size seems to be reduced.        Search box size seems to be reduced.      Search box size should not be reduced.      <b>Please provide

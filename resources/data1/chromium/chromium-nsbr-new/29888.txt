@@ -1,0 +1,1 @@
+<title>Issue 29888 -   chromium -    Simple Print Extension does not work - Project Hosting on Google Code</title>   1.Click simple print extension icon  2.select print        Page prints      Nothing happens    <b>Please provide

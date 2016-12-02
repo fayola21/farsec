@@ -1,0 +1,1 @@
+<title>Issue 13724 -   chromium -    chrome.exe is hardcoded in chrome_dll_main.cc - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.184.0 (svn <a href="/p/chromium/source/detail?r=17731">revision 17731</a>)    This makes changing the process name harder.   </pre>

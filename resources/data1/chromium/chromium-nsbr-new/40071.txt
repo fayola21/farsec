@@ -1,0 +1,1 @@
+<title>Issue 40071 -   chromium -    Omnibox popup moved by a few pixels - Project Hosting on Google Code</title> <pre> It now overlaps the URL bar  which looks bad because the brown line is   broken.    I should check what it looks like on Windows  and see whether it's   intentional or not. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9050 -   chromium -    Chrom into system tray - Project Hosting on Google Code</title> <pre> Is it possible to minimize Chrome into system tray instead of closing it?    it could be a good feature. </pre>

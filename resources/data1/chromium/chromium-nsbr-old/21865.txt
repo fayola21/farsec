@@ -1,0 +1,1 @@
+<title>Issue 21865 -   chromium -    Change fixed-width font - Project Hosting on Google Code</title>   1.options-&gt;under the hood-&gt;change font and language  2.&quot;change&quot;  Fixed-width Font      change font and size      there is able to change font  but size is  stay 13 whatever you select and press Enter      <b>Please provide

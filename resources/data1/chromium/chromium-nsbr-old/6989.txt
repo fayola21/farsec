@@ -1,0 +1,1 @@
+<title>Issue 6989 -   chromium -    Tabs/Titlebar cutoff when maximized (on Vista) - Project Hosting on Google Code</title>   1. Put Vista taskbar on top (or bottom)  2. Maximize Chrome  3. Notice that tabs/titlebar is cutoff (and not just by over-sized start   button)                Please provide

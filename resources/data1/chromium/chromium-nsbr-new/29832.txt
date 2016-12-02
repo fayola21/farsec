@@ -1,0 +1,1 @@
+<title>Issue 29832 -   chromium -    Refactor ChangeProcessor for reusability with other data types - Project Hosting on Google Code</title> <pre> There is a fair amount of common logic in the ChangeProcessor   implementation that should be reused for other data types  such as   Start/Stop/running_  and ownership of some members. </pre>

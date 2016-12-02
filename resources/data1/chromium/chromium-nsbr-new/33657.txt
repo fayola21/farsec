@@ -1,0 +1,1 @@
+<title>Issue 33657 -   chromium -    Drag and drop to reorder thumbnails is broken. - Project Hosting on Google Code</title> <pre> Add a workaround for recent changes to HTML5 DnD which broke the NTP </pre>

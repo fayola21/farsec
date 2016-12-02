@@ -1,0 +1,1 @@
+NameNode max heap is not showing in HDP 1.3.2 stack    Reason:We use in-consistent value to show Heap size for different components.And some of them are missing.Solution:Make sure all Heap size percentage value (including NN  RM  JT and HBase Master) use the same property.   

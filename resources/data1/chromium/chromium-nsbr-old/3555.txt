@@ -1,0 +1,1 @@
+<title>Issue 3555 -   chromium -    create application shortcut dialog cropped on vista - Project Hosting on Google Code</title> <pre> Create application shortcut on Vista. You'll see that the &quot;Quick launch   bar&quot; item is partially cropped (see attached screenshot).     This bug had been fixed before but seems to have regressed.     </pre>

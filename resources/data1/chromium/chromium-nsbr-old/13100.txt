@@ -1,0 +1,1 @@
+<title>Issue 13100 -   chromium -    User can create duplicate folders for bookmarks. - Project Hosting on Google Code</title> <pre> ToT(<a href="/p/chromium/source/detail?r=17313">r17313</a>)    We regressed here some time back.  Now  user can create duplicate folders on [bookmarks bar/other bookmarks]. </pre>

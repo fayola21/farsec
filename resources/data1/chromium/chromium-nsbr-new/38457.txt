@@ -1,0 +1,1 @@
+<title>Issue 38457 -   chromium -    tab freezes! - Project Hosting on Google Code</title>   1.open a new tab  2.now click and hold the mouse in a recently visited site  3.now move the cursor up      the tab remains normal      the tab freezes    <b>Please provide

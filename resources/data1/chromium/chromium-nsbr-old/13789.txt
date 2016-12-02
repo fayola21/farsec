@@ -1,0 +1,1 @@
+<title>Issue 13789 -   chromium -    tab strip should be transparent - Project Hosting on Google Code</title> <pre> Currently the tab strip paints a background and the hbox that contains the   tab strip paints a background.  It would be nice if the tab strip had a   transparent background and let the hbox just do the drawing for it. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3981 -   chromium -    No status bar in application window mode - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.3.154.9      1. Open Chrome from an &quot;application shortcut&quot;  2. Hover a link      Status bar with the URL of the link is displayed.      No status bar.     </pre>

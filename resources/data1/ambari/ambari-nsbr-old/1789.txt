@@ -1,0 +1,1 @@
+Stopping and then Starting all services doesn't start NameNode    Security wizard stops all services  applies configuration and then starts all services.Sometimes it has been noticed that the action to stop all service completes successfully but the action to start all services never sends the task to start NameNode.   

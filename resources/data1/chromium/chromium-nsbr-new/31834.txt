@@ -1,0 +1,1 @@
+<title>Issue 31834 -   chromium -    Extensions logo is cropped at top and bottom on extensions page - Project Hosting on Google Code</title> <pre> On chrome://extensions/  the logo is cropped at the top and bottom (the   rounded corners aren't visible). Last seem in 288.1  though it's been there   for a while. </pre>

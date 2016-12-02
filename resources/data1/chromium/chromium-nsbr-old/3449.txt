@@ -1,0 +1,1 @@
+<title>Issue 3449 -   chromium -    Chrome Crahed when trying to open prefereneces(or options menu  it is translated as &quot;se��__enekler&quot; in turkish - Project Hosting on Google Code</title>   1. after opera opened and tryin to open preferences or option  chrome   crashed                    Please provide

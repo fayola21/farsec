@@ -1,0 +1,1 @@
+<title>Issue 12466 -   chromium -    rmilk.com: &quot;script on the page used too much memory&quot; - Project Hosting on Google Code</title>   1. Browse to <a href="http://www.rmilk.com">http://www.rmilk.com</a>  2. Log in        Normal site behavior        CPU usage goes to 100% and eventually the Chrome tab runs out of memory      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 38640 -   chromium -    Chinese word search Bug - Project Hosting on Google Code</title>   1.Ctrl + F  2.KEY in at least 2 words  3.key in Chinese word      <b>Please provide

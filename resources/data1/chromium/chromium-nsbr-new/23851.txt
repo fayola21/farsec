@@ -1,0 +1,1 @@
+<title>Issue 23851 -   chromium -    Plugin for Adobe reader 8 or 9.12 doesn't open file in browser. - Project Hosting on Google Code</title>   1.Click on .pdf file to open.  2.Browser pages goes black.  3.Browser doesn't crash use back button to return to previous page.      The .pdf file to open in side the browser window.      Browser pages goes black.    <b>Please provide

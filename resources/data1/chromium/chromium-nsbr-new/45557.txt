@@ -1,0 +1,1 @@
+<title>Issue 45557 -   chromium -    Zoom-in breaks images - Project Hosting on Google Code</title>   1. Zoom in on a page with images  say <a href="http://stackoverflow.com">http://stackoverflow.com</a>                Notice the logo is distorted    <b>Please provide

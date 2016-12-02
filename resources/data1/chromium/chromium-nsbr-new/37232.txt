@@ -1,0 +1,1 @@
+<title>Issue 37232 -   chromium -    unexpected crash of chrome - Project Hosting on Google Code</title> <pre> Attached files have information about error when I work normally  </pre>

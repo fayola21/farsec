@@ -1,0 +1,1 @@
+<title>Issue 3847 -   chromium -    'Save password' and 'form autofill' code should be merged - Project Hosting on Google Code</title> <pre> The code in webframeloaderclient_impl.cc goes through all the form elements  for the 'save password' once  then again for the 'form autofill'.  We should merge these 2 in one pass.   </pre>

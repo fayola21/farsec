@@ -1,0 +1,1 @@
+<title>Issue 30294 -   chromium -    Extension popups never shrink on linux - Project Hosting on Google Code</title> <pre> 1. Install Chromed Bird extension  2. Click &quot;compose tweet&quot;  3. Click it again  4. Notice empty space at bottom of bubble </pre>

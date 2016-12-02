@@ -1,0 +1,1 @@
+<title>Issue 9032 -   chromium -    Tab dragging should show the live webpage - Project Hosting on Google Code</title> <pre> Currently when you drag a tab  we use a screenshot of the page - we should   show a live view of the page. Ben has code that did this  so someone should   ask him about it. </pre>

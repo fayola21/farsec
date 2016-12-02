@@ -1,0 +1,1 @@
+<title>Issue 3963 -   chromium -    Bookmark Manager mirrors glyphs in Right-to-Left (RTL) locales - Project Hosting on Google Code</title> <pre>   1. Launch chromium with --lang=iw  2. Open the bookmark manager.  3. The tree view incorrectly mirrors text (e.g. Latin character 'b' looks   like 'd'  'S' like 'Z'  etc.).  Screenshot attached. </pre>

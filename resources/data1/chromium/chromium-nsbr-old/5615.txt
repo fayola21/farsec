@@ -1,0 +1,1 @@
+<title>Issue 5615 -   chromium -    view-sorce: refresh problem - Project Hosting on Google Code</title> <pre> When I go to view-sorce of a web page after some refresh  chrome show the   rendred page instead of the source  so I have to close the page and select   the view source again. But the problem occurs again after some refresh.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 6790 -   chromium -    rename NavigationEntry::DisplayURL to VirtualURL - Project Hosting on Google Code</title> <pre> DisplayURL is misleading because we also save the URL in the history  database.  Otherwise  we end up saving data: URLs instead of about: URLs.   A better name for this would be VirtualURL. </pre>

@@ -1,0 +1,1 @@
+Service Restart All action cleanup    1. There is no need to send request to restart clients.2. When user clicks on Restart All actions  components start restarting immediately. But all other actions shows confirmation popup like 'Are you sure?' (Start  Stop  Run Service Check etc).   

@@ -1,0 +1,1 @@
+<title>Issue 3373 -   chromium -    Dropdown Box Appears Slow - Project Hosting on Google Code</title>   1. See attached video.          The list appears faster...?      The list appears slow...?    Please provide

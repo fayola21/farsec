@@ -1,0 +1,1 @@
+Camel-XMPP Consumer doesn't pass XMPP headers    XMPP Consumer should pass XMPP headers as message headers  just like XMPP Producer accepts message headers as XMPP headers.   

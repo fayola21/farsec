@@ -1,0 +1,1 @@
+<title>Issue 38760 -   chromium -    Faded Black Bar on Chrome's UI - Project Hosting on Google Code</title>   1. Run Chrome      The UI appears with no glitches.      The Chrome UI has a faded out black vertical bar in the upper right corner.    <b>Please provide

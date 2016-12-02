@@ -1,0 +1,1 @@
+<title>Issue 33579 -   chromium -    Sometimes on mac osx apple-Q doesnt shut down chrome  - Project Hosting on Google Code</title>   1.open up website and try closing chrome with apple-Q  2.Doesn't work in incognito mode                   <b>Please provide

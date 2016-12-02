@@ -1,0 +1,1 @@
+<title>Issue 12427 -   chromium -    Linux: back/forwrd menu needs betterment - Project Hosting on Google Code</title> <pre> Two things really:    a) the button should be depressed (activated) when the menu is showing  b) the menu should show immediately if you click the menu and then drag down </pre>

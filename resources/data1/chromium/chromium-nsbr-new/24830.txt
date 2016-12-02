@@ -1,0 +1,1 @@
+<title>Issue 24830 -   chromium -    First Run UI needs a basic test to check for multiple instances of Chrome - Project Hosting on Google Code</title> <pre> As described in summary we need a test to check that Chrome can not be   launched multiple times when First Run UI is active (on Linux and Windows    may be OSX too?)   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 20284 -   chromium -    OSX Omnibox does not allow tabbing into content area. - Project Hosting on Google Code</title> <pre> In the Omnibox it looks like tab doesn't do anything (other than tab-to-  search).  Probably is just always intercepting and needs to sometimes not   intercept. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1734 -   chromium -    can't change divided web window size - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27             Safari 3: ?      Firefox 3:?           IE 7:OK      1. any window that is divided i think - as shown in picture          move the pane      can't move the pane      attached picture to describe the problem    </pre>

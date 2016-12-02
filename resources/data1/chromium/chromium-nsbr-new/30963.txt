@@ -1,0 +1,1 @@
+<title>Issue 30963 -   chromium -    Cannot return to OSX space when clicking on Chrome while there is a login prompt - Project Hosting on Google Code</title>   1. Login Window Open on Space 1  2. Go to Space 2  3. Click on Google Chrome Icon in Dock        It will return to the space Google Chrome is open in.        Stays in current space    <b>Please provide

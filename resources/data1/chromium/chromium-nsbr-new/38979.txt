@@ -1,0 +1,1 @@
+<title>Issue 38979 -   chromium -    Show detail link and Accept/Cancel buttons should be on same horizontal line in cookie prompt - Project Hosting on Google Code</title> <pre>   1. Get a cookie prompt (allow / deny)  2. Notice the lack of a horizontal rule below the buttons and above 'show   detail'  making everything blend together in awfulness.  3. Be sad.   </pre>

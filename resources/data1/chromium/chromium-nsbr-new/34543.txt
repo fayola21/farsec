@@ -1,0 +1,1 @@
+<title>Issue 34543 -   chromium -    Mac: GPU plugins' output is not clipped properly - Project Hosting on Google Code</title> <pre> On Mac OS X  the GPU plugins' output is not clipped properly  at least by the   horizontal scrollbar at the bottom of the window if not in other cases. Need to   diagnose whether honoring the clip rectangle will solve this issue.   </pre>

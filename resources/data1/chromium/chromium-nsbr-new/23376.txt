@@ -1,0 +1,1 @@
+<title>Issue 23376 -   chromium -    Version string should be selectable in about box - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.219.6 (27466)    OS version               : SL      1. Go to Chromium &gt; About Chromium          Version number and build id can be selected and copied      Nothing. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 38768 -   chromium -    tabs align to the right - Project Hosting on Google Code</title>   1.Open a browser windows  2. all tabs align to the right        Tabs align left        tabs align right    <b>Please provide

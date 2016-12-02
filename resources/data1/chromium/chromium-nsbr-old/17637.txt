@@ -1,0 +1,1 @@
+<title>Issue 17637 -   chromium -    &quot;view source&quot; from an extension page running in a tab will crash - Project Hosting on Google Code</title> <pre> it looks like we think the view source page is an extension because it's   internal url is the original url (the display_url_ is view-source:).    later  we try to extract the extension id and it dies. </pre>

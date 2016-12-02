@@ -1,0 +1,1 @@
+<title>Issue 24475 -   chromium -    Remove toolstrips API - Project Hosting on Google Code</title> <pre> Toolstrips are out. We need to remove them by default  but leave them   supported behind a flag for continued experimentation. </pre>

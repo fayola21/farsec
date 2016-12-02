@@ -1,0 +1,1 @@
+<title>Issue 15067 -   chromium -    Clicking the drop-down menu button twice should show then hide the menu - Project Hosting on Google Code</title> <pre> On the NNTP.      1. click the down arrow button once  menu shows  2. click the down arrow again      It should hide the menu on the second click.   </pre>

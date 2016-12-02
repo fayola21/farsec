@@ -1,0 +1,1 @@
+<title>Issue 45022 -   chromium -    Enable spdy A/B test for SxS installs. - Project Hosting on Google Code</title> <pre> When browser is installed as SxS  we will enable spdy A/B test: npn_with_spdy   @50% of chance and npn_with_http @50% chance.   </pre>

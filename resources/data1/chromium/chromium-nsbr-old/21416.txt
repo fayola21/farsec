@@ -1,0 +1,1 @@
+<title>Issue 21416 -   chromium -    Update extension install UI on linux - Project Hosting on Google Code</title> <pre> The extension install UI on linux needs to be updated to look like the   Windows one. </pre>

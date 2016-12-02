@@ -1,0 +1,1 @@
+<title>Issue 6161 -   chromium -    little interface bug with vista (2.0.156.1) - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.156.1      1. If you open enough tabs to fill the bar the &quot;plus&quot; on the left to add   new tabs goes a little over the minimize button of aero interface.       </pre>

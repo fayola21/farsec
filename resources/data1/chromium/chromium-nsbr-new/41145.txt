@@ -1,0 +1,1 @@
+<title>Issue 41145 -   chromium -    bookmark shortcut - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.374.0 (44177) Ubuntu             Safari 4: N/A    Firefox 3.x: N/A           IE 7: N/A           IE 8: N/A      1. open www.google.com  2. press ctrl+b to show bookmark toolbar      show bookmark toolbar      bookmark toolbar does not show </pre>

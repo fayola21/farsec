@@ -1,0 +1,1 @@
+<title>Issue 20636 -   chromium -    Rendering: Lines merge into each other. - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;Copy from: 'about:version'&gt;                                  What happens insPlease check the attached screenshot. </pre>

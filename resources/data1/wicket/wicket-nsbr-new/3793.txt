@@ -1,0 +1,1 @@
+ModalWindow shows 'Page Expired'    A simple ModalWindow containing a WebPage opened by an AjaxLink shows 'Page Expired' instead of the desired page contents. Downgrading to 1.4.17 makes the problem disappear. See the attached quickstart.   

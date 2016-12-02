@@ -1,0 +1,1 @@
+<title>Issue 16507 -   chromium -    Implement asynchronous IO for the disk cache. - Project Hosting on Google Code</title> <pre> disk_cache::file_posix.cc was waiting for a way to do async io under posix.   Now  it has to be implemented. </pre>

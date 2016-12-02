@@ -1,0 +1,1 @@
+<title>Issue 23266 -   chromium -    Browser actions: implement resize behavior - Project Hosting on Google Code</title> <pre> You should be able to resize the region that contains the browser actions.   This will sometimes result in overflow  but I'm going to create a different   bug for that.  </pre>

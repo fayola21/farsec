@@ -1,0 +1,1 @@
+<title>Issue 15497 -   chromium -    Blackboard does not support Chrome - Project Hosting on Google Code</title>   1. Open a site using Blackborard Academic Suite and Java RE  2. Open a page that contents a text box        It appears a text box and the respective Rich Text box options      The Rich Text Box options don't appears    <b>Please provide

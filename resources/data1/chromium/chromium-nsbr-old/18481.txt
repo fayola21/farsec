@@ -1,0 +1,1 @@
+<title>Issue 18481 -   chromium -    Themed Window controls don't change color properly with activation/incognito - Project Hosting on Google Code</title> <pre> Install a theme  activate/deactivate the window... note that when inactive the window controls   are still dark.    same for incognito... window controls aren't the same shade as the   surrounding frame. </pre>

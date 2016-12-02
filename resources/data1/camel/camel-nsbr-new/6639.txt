@@ -1,0 +1,1 @@
+SimpleLanguage.simple should detect if its a predicate and use that instead    When using predicates with the simple language static methods  then ppl should use the correct method. We should improve the javadoc  and as well add methods for easy to create predicates.See nabblehttp://camel.465427.n5.nabble.com/How-to-check-that-a-file-is-empty-tp5737256.html   

@@ -1,0 +1,1 @@
+PriorityHeaderItem+OnDomReadyHeaderItem has no priority in Ajax response    PriorityHeaderItems+OnDomReadyHeaderItem have no priority in Ajax responses.org.apache.wicket.ajax.AbstractAjaxResponse.AjaxHeaderResponse#render() doesn't extract the wrapped header item and thus doesn't process OnDomReady/OnLoad/OnEvent header items properly.   

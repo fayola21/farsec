@@ -1,0 +1,1 @@
+<title>Issue 9501 -   chromium -    Feature Request: Recursive bookmark sorting - Project Hosting on Google Code</title> <pre> Chrome Version: 2.0.171.0    Currently there is an option in the bookmark manager called &quot;Reorder by   title&quot;. Please make this operation recursive. It currently only applied to   the selected bookmark folder in the treeview pane. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40959 -   chromium -    Chrome 5 html audio can't stop immediately after call audio.pause() - Project Hosting on Google Code</title>   1. when audio is playing a MP3  I pressed pause-button (call audio.pause() )  2. the music can stop immediately .( delay 0.5--1s)      stop immediately .              <b>Please provide

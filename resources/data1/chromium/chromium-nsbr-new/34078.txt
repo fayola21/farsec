@@ -1,0 +1,1 @@
+<title>Issue 34078 -   chromium -    New themeing code doesn't appear to apply offset on transparent tabs properly. - Project Hosting on Google Code</title> <pre> Repro case: use the Anita Kunz theme. Note that the tab image isn't aligned   properly with the skyline image.    Oddly enough  this works in the Good Smile theme  which had the same general   problem. </pre>

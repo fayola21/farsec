@@ -1,0 +1,1 @@
+<title>Issue 9311 -   chromium -    FTP support broken  both &quot;old&quot; and &quot;--new-ftp&quot; - Project Hosting on Google Code</title>   1. Open a new tab  2. Attempt to navigate to navigate to any FTP site like above.  3. Wait.        FTP!  Something!  Anything!        Nothing.  You could wait forever  maybe something would happen.    <b>Please provide

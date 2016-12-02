@@ -1,0 +1,1 @@
+<title>Issue 13649 -   chromium -    Themes should be uninstallable via chrome://extensions/ - Project Hosting on Google Code</title> <pre> Right now  they kinda get partially uninstalled (some bits remain)  and only   upon restart. </pre>

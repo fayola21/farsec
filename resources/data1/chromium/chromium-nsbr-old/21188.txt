@@ -1,0 +1,1 @@
+<title>Issue 21188 -   chromium -    Layout crashing on www.tibia.com logon pages. - Project Hosting on Google Code</title>   1.Opening the accoung login page on www.tibia.com  2.It looks same after logging out  or in other pages with a small forms on   www.tibia.com      Small rectangle with a logon form.      Brown square crashes the layout.    <b>Please provide

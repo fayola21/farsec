@@ -1,0 +1,1 @@
+<title>Issue 22577 -   chromium -    document toolstrip events - Project Hosting on Google Code</title> <pre> Currently  they're being manually created rather than defined in   extension_api.json.  Raf showed me a way I could define them there  yet still   maintain their custom behavior.  This is necessary in order to document the   events. </pre>

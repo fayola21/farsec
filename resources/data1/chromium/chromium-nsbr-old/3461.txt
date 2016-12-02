@@ -1,0 +1,1 @@
+<title>Issue 3461 -   chromium -    Scrolling while viewing video within a flash website lag - Project Hosting on Google Code</title>   1. Go to site  2. Click skip  3. Click on &quot;New&quot;  4. Click on any video  5. When video plays try scrolling      The video to play and not screw up.      It freezes up and lags.    Please provide

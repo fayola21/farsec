@@ -1,0 +1,1 @@
+<title>Issue 13798 -   chromium -    Missing Task Manager in 3.0.183.1 - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.183.1 (from the Dev channel)  URLs (if applicable) : none      1. Try to open the Chrome Task Manager.  2. Now see the new window.      To see all Chrome-related processes.      No list!   </pre>

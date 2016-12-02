@@ -1,0 +1,1 @@
+<title>Issue 3738 -   chromium -    Google docs (file list) becomes unresponsive - Project Hosting on Google Code</title>   1. Load Google docs as an application in Google Chrome  2. Wait awhile.  3. Google docs hangs and becomes unresponsive (i.e. the Chrome windows becomes unresponsive)      Not to hang      It hangs    Please provide

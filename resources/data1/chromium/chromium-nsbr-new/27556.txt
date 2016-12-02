@@ -1,0 +1,1 @@
+<title>Issue 27556 -   chromium -    LayoutTests/websocket/* crash test_shell on startup on WIN/LINUX - Project Hosting on Google Code</title> <pre> Results in different stack traces depending on platform in   websocket_server.py.  First tests were introduced in WebKit <a href="/p/chromium/source/detail?r=50794">r50794</a>.    These tests are currently skipped. </pre>

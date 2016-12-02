@@ -1,0 +1,1 @@
+<title>Issue 32363 -   chromium -    Add a menus extension API  - Project Hosting on Google Code</title> <pre> It should be possible to add items to the page  wrench  and context menus   using the extensions system.    See also <a title="Need a way to provide customized context menu for extensions"  href="/p/chromium/issues/detail?id=29733">bug 29733</a> </pre>

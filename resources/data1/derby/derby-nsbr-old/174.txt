@@ -1,0 +1,1 @@
+setNull does not work with java.sql.Types.TIMESTAMP    Calling setNull(x java.sql.Types.TIMESTAMP) throws an exception with the following message.( x is the column number)Message is: ' An attempt was made to get a data value of type 'TIMESTAMP' from a data value of type 'null''.   

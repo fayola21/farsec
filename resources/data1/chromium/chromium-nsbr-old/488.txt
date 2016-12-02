@@ -1,0 +1,1 @@
+<title>Issue 488 -   chromium -    Settings always crash - Project Hosting on Google Code</title>   1. Install on XP 64 (SP2)  2. Open Settings  3. Crash      Settings can be changed      It just crashes    Please provide

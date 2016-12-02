@@ -1,0 +1,1 @@
+<title>Issue 18946 -   chromium -    Regression: Home  End  Page Up  Page Down keys no longer work on Mac - Project Hosting on Google Code</title> <pre>   1. Go to a page that is longer than the window vertical size  2. Try using Home  End  Page Up  Page Down keys  3. Nothing happens   </pre>

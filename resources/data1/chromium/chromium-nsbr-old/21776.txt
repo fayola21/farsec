@@ -1,0 +1,1 @@
+<title>Issue 21776 -   chromium -    Shard valgrind bots to decrease cycle times - Project Hosting on Google Code</title> <pre> Valgrind takes too long. Make it run on more machines in parallel to increase   throughput.    The main issue is UI: how to display results from many bots without making   the console/waterfall page even more unwieldy. </pre>

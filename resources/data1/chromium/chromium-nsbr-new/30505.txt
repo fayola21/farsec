@@ -1,0 +1,1 @@
+<title>Issue 30505 -   chromium -    Uninstalling a blacklisted external extension crashes Chrome - Project Hosting on Google Code</title> <pre>   1. Install an external extension.  2. Uninstall the external extension through the Chrome UI.  3. Uninstall the external extension through the prefs file.    Step 3 should be a no-op  but it crashes Chrome.     Investigating. </pre>

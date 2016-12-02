@@ -1,0 +1,1 @@
+Various issues related to decommission support    Tracking few issues related to decommission support Even with HBase HA only one master should be used for decommission Alternatively  for HDFS/MR/YARN use all master host components Do not use 'default' method while using python based system resources Add support for command details and custom command names   

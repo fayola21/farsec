@@ -1,0 +1,1 @@
+<title>Issue 3972 -   chromium -    add &quot;Undo close tab&quot; to tab context menu - Project Hosting on Google Code</title>   1. Close the tab.  2. Right-click on another tab.      One of the options in context menu is &quot;Undo close tab&quot;      There is no such option.    Please provide

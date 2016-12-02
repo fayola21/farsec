@@ -1,0 +1,1 @@
+<title>Issue 689 -   chromium -    Java applet works not  =&gt;  java.lang.NullPointerException - Project Hosting on Google Code</title>   1. Go to the URL and wait 2 seconds ;)            Some Java applets  which stream quotes of different currencies.        One applet loads and the others are missing  you can see the following   error:      Please provide

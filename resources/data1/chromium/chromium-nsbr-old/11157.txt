@@ -1,0 +1,1 @@
+<title>Issue 11157 -   chromium -    White flash when navigating from HTTPS to HTTPS - Project Hosting on Google Code</title> <pre> Sometimes when you navigate from HTTPS to HTTPS the location bar flashes   white.  I think I screwed something up in the new SSLManager design. </pre>

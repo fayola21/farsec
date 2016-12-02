@@ -1,0 +1,1 @@
+<title>Issue 23421 -   chromium -    Theme options under private pane not visible - Project Hosting on Google Code</title>   1. go to preferences  2. open the PRIVATE tab      Theme options should be visible        they are more than half covered (see screenshot)    <b>Please provide

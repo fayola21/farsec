@@ -1,0 +1,1 @@
+<title>Issue 27717 -   chromium -    lastpass extension 1.60 (The previous version of chrome was ok) - Project Hosting on Google Code</title>   1. Install Lastpass  2. Try to log in with the Lastpass button        The Lastpass button becomes ok (red)      The Lastpass button remains unconnected (grey)    <b>Please provide

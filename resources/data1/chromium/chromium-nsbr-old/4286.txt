@@ -1,0 +1,1 @@
+<title>Issue 4286 -   chromium -    Rename BrowserView2 to BrowserView - Project Hosting on Google Code</title> <pre> Now that the old frames are gone  BrowserView2 can be renamed. </pre>

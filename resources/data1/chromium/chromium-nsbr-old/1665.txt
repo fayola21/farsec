@@ -1,0 +1,1 @@
+<title>Issue 1665 -   chromium -    Cannot scroll horizontally using mouse wheel - Project Hosting on Google Code</title>   1. Load any page  2. Resize the window so that horizontal scrollbar appears  3. Try to scroll the page horizontally by tilting mouse wheel left or right       The page should scroll horizontally.       Nothing.    <b>Please provide

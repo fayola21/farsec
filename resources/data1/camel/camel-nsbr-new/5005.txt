@@ -1,0 +1,1 @@
+simple without embedded text results in an NPE    After switching to 2.9 the following results in a NPE&lt;camel:setBody&gt; &lt;camel:simple&gt;&lt;/camel:simple&gt;&lt;/camel:setBody&gt;I'm not sure if it is now required to have something in the content of the simple element. I used it for setting the body element to an empty string before (worked with 2.8.1)   

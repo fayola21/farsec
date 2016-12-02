@@ -1,0 +1,1 @@
+<title>Issue 30445 -   chromium -    Implement context menu for browser actions on mac - Project Hosting on Google Code</title> <pre> Browser actions should have a context menu in them with these three items:  - uninstall  - disable  - options (if the extension has options) </pre>

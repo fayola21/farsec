@@ -1,0 +1,1 @@
+<title>Issue 1847 -   chromium -    will not play video from cnn although flash is installed - Project Hosting on Google Code</title>   1. tried to watch a video on cnn  2. says i have to have flash 8 or higher and shows i have 9 installed                  Please provide

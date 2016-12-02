@@ -1,0 +1,1 @@
+<title>Issue 12371 -   chromium -    Hide URL from extension pages - Project Hosting on Google Code</title> <pre> We should hide the ugly URL from extension pages  like we do for NTP and   other chrome:// URLs.    This wouldn't be necessary if 12115 was fixed  but that one is really complex   and this is easy. </pre>

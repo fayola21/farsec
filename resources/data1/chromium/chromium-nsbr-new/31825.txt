@@ -1,0 +1,1 @@
+<title>Issue 31825 -   chromium -    Chrome wont close - Project Hosting on Google Code</title>   1. Right click on task bar &gt; Close  2. Left click 'X' on tile bar  3. Right click 'Window Menu' &gt; Close      Chrome will Close      Chrome stays open - no reaction    <b>Please provide

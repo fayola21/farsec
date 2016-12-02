@@ -1,0 +1,1 @@
+<title>Issue 365 -   chromium -    The application failed to intitialize properly (0xc0000005) - Project Hosting on Google Code</title>               It should open properly.        The application failed to initialize    Please provide

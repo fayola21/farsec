@@ -1,0 +1,1 @@
+<title>Issue 11083 -   chromium -    Hung renderer dialog not implemented - Project Hosting on Google Code</title> <pre> 1) Hang a renderer  via about:hang or whatever  2) Wait 10 seconds  3) [26878:26878:2524486112827:ERROR:./chrome/common/temp_scaffolding_stubs.h(395  )] Not implemented reached in static void   HungRendererWarning::ShowForWebContents(WebContents*) </pre>

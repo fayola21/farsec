@@ -1,0 +1,1 @@
+<title>Issue 36382 -   chromium -    Chrome freezes reepeatedly after extended use. - Project Hosting on Google Code</title>   1. Have Chrome running for more than an hour on the computer  2. Attempt to load a page  scroll through a page  or watch a video stream.        A page loads  I scroll  or I watch a video      Chrome freezes for 5-10 seconds    <b>Please provide

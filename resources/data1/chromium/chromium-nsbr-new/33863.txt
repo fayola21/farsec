@@ -1,0 +1,1 @@
+<title>Issue 33863 -   chromium -    Chrome Won't save pictures - Project Hosting on Google Code</title>   1.Find Image  2.Right Click &amp; choose &quot;save as&quot;        for a window to pop up showing where i want to save it      nothing    <b>Please provide

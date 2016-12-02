@@ -1,0 +1,1 @@
+<title>Issue 29820 -   chromium -    Clear private browsing - Project Hosting on Google Code</title>   1. Click: clear private data          For it to clear ALL private data  including most visited sites (showing up in   new tab)      It does not clear most visited sites as they show up in new tab's most   vistied sites.    <b>Please provide

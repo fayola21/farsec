@@ -1,0 +1,1 @@
+setters on FeedbackPanel do not return self  which prevents chaining    The setters on FeedbackPanel do not return 'this'.This makes chaining impossible  i.e. add(new FeedbackPanel('id').setFilter(filter).setRenderBodyOnly(true));I think it would be more consistent with the rest of wicket  and useful  if the setters are changed to support chaining.   

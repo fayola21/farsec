@@ -1,0 +1,1 @@
+<title>Issue 5346 -   chromium -    list style disc in place of circle: reopen Issue 5038 - Project Hosting on Google Code</title>   1. use LI {list-style: circle url();} or any other value  when blank url()   is present      it should return circle (or the other valid value)        it returns always disc (default value)      Please provide

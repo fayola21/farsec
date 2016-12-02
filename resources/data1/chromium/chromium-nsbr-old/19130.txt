@@ -1,0 +1,1 @@
+<title>Issue 19130 -   chromium -    Flashes after start and after window gets focus (Fluxbox) - Project Hosting on Google Code</title>   1. Start Chromium  or  1. Change from other application or screen to Chromium.      No flashes.      Flashes over the whole Chromium window. About 1 second long.    <b>Please provide

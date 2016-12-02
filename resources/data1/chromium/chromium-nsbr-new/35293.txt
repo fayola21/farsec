@@ -1,0 +1,1 @@
+<title>Issue 35293 -   chromium -    Ubuntu package broken due to third_party/ffmpeg/patches deletion - Project Hosting on Google Code</title> <pre> fta reported it on IRC.    Frank is messing with trying to update our ffmpeg and the tree is in flux.   This bug is just to track progress on that front. </pre>

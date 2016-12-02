@@ -1,0 +1,1 @@
+<title>Issue 674 -   chromium -    Bookmark Management UI - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)    Bookmark tab is too large and takes up a lot of the space that Chrome has   freed up  it would be better to have a small drop down button next to   &quot;Control The current Page&quot; that lists all the bookmarks.     </pre>

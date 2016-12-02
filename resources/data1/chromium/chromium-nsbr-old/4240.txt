@@ -1,0 +1,1 @@
+<title>Issue 4240 -   chromium -    Download arrow on the tab should change when all downloads on that tab's download shelf are completed - Project Hosting on Google Code</title> <pre> Currently we show a download arrow on tabs with download shelves. This   arrow should change (perhaps to a tick) when all downloads on that shelf   are complete. </pre>

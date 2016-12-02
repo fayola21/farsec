@@ -1,0 +1,1 @@
+<title>Issue 11893 -   chromium -    chromium_extension.py doesn't work with Python 3.x - Project Hosting on Google Code</title> <pre> According to user reports  anyway. I guess Python 3.x is not completely   backwards compatible.   </pre>

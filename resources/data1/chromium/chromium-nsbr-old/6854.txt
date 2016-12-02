@@ -1,0 +1,1 @@
+<title>Issue 6854 -   chromium -    Don't show accidental search infobar for bookmark keywords - Project Hosting on Google Code</title> <pre> If your intranet has a machine at e.g. http://w/ and you create a bookmark   keyword called &quot;w&quot; that navigates to some other URL  you get the accidental   search infobar when using it.   </pre>

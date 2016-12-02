@@ -1,0 +1,1 @@
+<title>Issue 400 -   chromium -    Typo in installer: Mozilla Firefow  - Project Hosting on Google Code</title> <pre> Product Version: 0.2.149.27 (1583)  Installer File version: 1.2.131.11  Language: NL      It's not a bug or defect...      There is a typo in the installer of Chrome.    Mozilla Firefow instead of Firefox. </pre>

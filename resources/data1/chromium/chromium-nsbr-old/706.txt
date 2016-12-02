@@ -1,0 +1,1 @@
+<title>Issue 706 -   chromium -    history - Project Hosting on Google Code</title> <pre> Product Version      : chrome              Firefox 3: ok      Chrome history display clearly  i like that. But can't right click and open   new tab or new window from it.            </pre>

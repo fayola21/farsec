@@ -1,0 +1,1 @@
+<title>Issue 28693 -   chromium -    Unexpected strikethrough in Gmail chat in iGoogle - Project Hosting on Google Code</title>   1. Open iGoogle  open GMail chat  2. Start typing messages to somebody        You should see the text of the messages without any additional effects.      Some random parts of the messages are struck through.    <b>Please provide

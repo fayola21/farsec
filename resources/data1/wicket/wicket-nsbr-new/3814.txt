@@ -1,0 +1,1 @@
+Localizer.get() should be static    org.apache.wicket.Localizer offers a get() method but it is not static.   

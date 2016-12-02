@@ -1,0 +1,1 @@
+<title>Issue 13559 -   chromium -    Chrome Task Manager Shows No Processes on Windows 7 - Project Hosting on Google Code</title>   1. Open Chrome  2. Hit Shift + Esc          Task Manager shows opened tabs  plugins.        Chrome Task Manager is empty. (see attached picture)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 25380 -   chromium -    Media layout tests failing due to played attribute - Project Hosting on Google Code</title> <pre> A collection of layout tests rely on the 'played' attribute.    At a glance it appears we've implemented it correctly  however the tests are   seriously broken. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 8082 -   chromium -    Gmail Shortcut does not work with OFFLINE - Project Hosting on Google Code</title>   1. Enable &quot;Offline&quot; in Gmail  2. Create Shortcut to Gmail  3. Launch Gmail from the Shortcut (rather than typing Gmail.com in browser)      Offline mode should work      Offline does not work when coming from Shortcut      Please provide

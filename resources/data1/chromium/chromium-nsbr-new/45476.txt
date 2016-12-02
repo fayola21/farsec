@@ -1,0 +1,1 @@
+<title>Issue 45476 -   chromium -    Chrome crashes on resume from standby windows - Project Hosting on Google Code</title>   1. Open Chrome instance  2. Goto standby.  3. Wakeup PC.      Chrome does not crash.      Chrome crashes.    <b>Please provide

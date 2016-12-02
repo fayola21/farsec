@@ -1,0 +1,1 @@
+<title>Issue 4997 -   chromium -    LayoutTests/fast/forms/search-transformed.html fails - Project Hosting on Google Code</title> <pre> The new layout test LayoutTests/fast/forms/search-transformed.html fails.   It seems to look OK when I run the browser  but something about the test   doesn't work right. Maybe it's because we have no x button in our search   fields.   </pre>

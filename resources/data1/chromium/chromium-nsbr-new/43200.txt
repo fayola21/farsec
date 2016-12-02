@@ -1,0 +1,1 @@
+<title>Issue 43200 -   chromium -    galery themes - Project Hosting on Google Code</title> <pre> I selected an &quot;Oscar dela renta&quot; theme and appears the following bug   </pre>

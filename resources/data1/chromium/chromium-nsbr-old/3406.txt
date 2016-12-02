@@ -1,0 +1,1 @@
+<title>Issue 3406 -   chromium -    Easy way to cancel all downloads - Project Hosting on Google Code</title>   1. Start a Download   2. Finish a Download  3. Don't cancel it from the list      Need a &quot;CANCEL ALL DOWNLOAD&quot; button      We have to cancel them manually  each one. Boring. If you want i can script   it    Please provide

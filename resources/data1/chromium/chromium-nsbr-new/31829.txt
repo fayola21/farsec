@@ -1,0 +1,1 @@
+<title>Issue 31829 -   chromium -    Implement method=POST for search providers - Project Hosting on Google Code</title>   1. Visit www.thai-language/dict and do a search.      The search is added to the Search Engines.      It isn't (I guess it is recognized that method=/=GET).    <b>Please provide

@@ -1,0 +1,1 @@
+Simplify SYSCS_BULK_INSERT with IdUtil.mkQualifiedName()    SystemProcedures.SYSCS_BULK_INSERT contains this piece of code: String entityName = IdUtil.normalToDelimited(tableName); if (schemaName != null) { entityName = IdUtil.normalToDelimited(schemaName) + '.' + entityName; }The helper method IdUtil.mkQualifiedName() could do the exact same in one line.   

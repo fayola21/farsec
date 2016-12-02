@@ -1,0 +1,1 @@
+<title>Issue 43152 -   chromium -    Remove -javascript-can-access-clipboard command-line switch - Project Hosting on Google Code</title> <pre> I think we should remove the command-line switch. It's not clear who would actually benefit from   that switch. Is a webpage actually going to say 'please restart Chrome and add this command-line   argument'? </pre>

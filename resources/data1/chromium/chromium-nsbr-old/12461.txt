@@ -1,0 +1,1 @@
+<title>Issue 12461 -   chromium -    would like API to get from tab to ports - Project Hosting on Google Code</title> <pre> From a conversation with an extension developer today.  They'd like to be   able to ask for a list of ports that are associated with a tab id rather than   having to maintain a mapping themselves. </pre>

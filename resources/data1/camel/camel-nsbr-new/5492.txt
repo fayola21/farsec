@@ -1,0 +1,1 @@
+Add option to restrict HTTP method in camel-jetty and camel-servlet    See http://camel.465427.n5.nabble.com/Jetty-consumer-restricting-methods-td5716938.html   

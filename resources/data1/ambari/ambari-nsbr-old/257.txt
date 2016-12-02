@@ -1,0 +1,1 @@
+Manage services section will have any empty section when no client only components installed    On the manage services page we have a section for client only services that have no long running processes.If the user has no such component there is a heading but no content. Maybe we can hide the heading when no such service is present.   

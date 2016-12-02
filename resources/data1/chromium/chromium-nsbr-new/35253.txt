@@ -1,0 +1,1 @@
+<title>Issue 35253 -   chromium -    Pin-Tab no-longer works - Project Hosting on Google Code</title>   1. Pin in Pre-Update  2. Open After update  3. Pin's no-longer taken effect      Pins to have been kept      Fully expanded tabs    <b>Please provide

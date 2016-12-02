@@ -1,0 +1,1 @@
+<title>Issue 35516 -   chromium -    Memory leak in Libxslt - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.326.0            Firefox 3.x: OK             IE 8: OK    The bug is in the libxslt number formatting function. It occurs when browser   formats a large number to the Roman numeral system. 'Aw  Snap!' window   appears within a few seconds. </pre>

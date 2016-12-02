@@ -1,0 +1,1 @@
+<title>Issue 25739 -   chromium -    PDF fails to render after installing acrobat/reader 9.2 - Project Hosting on Google Code</title>   1. open a link pointing to a .pdf file. after installing acrobat/reader   9.2.  2. pdf will fail to render in chrome.  3. resize chrome and the pdf will render correctly.      pdf integration with chrome      fails to render    <b>Please provide

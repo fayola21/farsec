@@ -1,0 +1,1 @@
+add feature for camel-context component    Workaround until this makes it into a release is of course justosgi:install -s mvn:org.apache.camel/camel-context/2.9.0   

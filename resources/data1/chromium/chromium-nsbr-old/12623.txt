@@ -1,0 +1,1 @@
+<title>Issue 12623 -   chromium -    Custom css properties support - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.182.1 16855                     IE 7:OK           IE 8:OK      1. declare custom css something like  .doc a{custom-property:x;}      a to have custom css property.      null   </pre>

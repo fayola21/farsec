@@ -1,0 +1,1 @@
+<title>Issue 35555 -   chromium -    Chrome won't exit full screen - Project Hosting on Google Code</title>   1. nothing found as yet  2. including restarting program / computer        F11 exits full screen      Tabs bar flashes momentarily  browser returns to full screen and &quot;Exit full   screen (F11) black box reappears at top of screen.    <b>Please provide

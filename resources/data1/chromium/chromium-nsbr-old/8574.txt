@@ -1,0 +1,1 @@
+<title>Issue 8574 -   chromium -    Pref service needs support for ASCII strings - Project Hosting on Google Code</title> <pre> Pref service supports wide strings and FilePaths  but not narrow strings  encoded in ASCII. Locales and languages could be stored as ASCII  and  probably various other prefs could as well. </pre>

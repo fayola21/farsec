@@ -1,0 +1,1 @@
+<title>Issue 28990 -   chromium -    Autocomplete needs expire code - Project Hosting on Google Code</title> <pre> Currently we don't remove autofill data. We should do something similar to   history expiring and remove autofill data after a month or so. </pre>

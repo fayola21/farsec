@@ -1,0 +1,1 @@
+<title>Issue 7610 -   chromium -    Close chrome confirmation dialog in Danish has layout issue. - Project Hosting on Google Code</title> <pre>   -Install Google chrome in XP Danish.  -Launch Chrome  -Try to uninstall it  when it is opened.    The confirmation dialog: close all google chrome windows has alignment  issue. See the attached screenshot.   </pre>

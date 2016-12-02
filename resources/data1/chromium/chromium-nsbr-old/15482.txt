@@ -1,0 +1,1 @@
+<title>Issue 15482 -   chromium -    XHR in workers do not set referer correctly - Project Hosting on Google Code</title> <pre> This has to be fixed in WebKit:  <a href="https://bugs.webkit.org/show_bug.cgi?id=24683">https://bugs.webkit.org/show_bug.cgi?id=24683</a> </pre>

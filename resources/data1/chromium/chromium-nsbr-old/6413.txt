@@ -1,0 +1,1 @@
+<title>Issue 6413 -   chromium -    Reloading frames does not reload the file with the &lt;frameset&gt; attribute - Project Hosting on Google Code</title>   1. Build a page with frames  2. start the page  3. modify the page with frames  4. refresh the page      The page with frames changes      the page with frames doesn't change    Please provide

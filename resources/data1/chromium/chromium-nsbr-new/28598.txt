@@ -1,0 +1,1 @@
+<title>Issue 28598 -   chromium -    Add perf tests for session restore - Project Hosting on Google Code</title> <pre> It'd be good to know how long it takes to load the browser with 10 tabs etc </pre>

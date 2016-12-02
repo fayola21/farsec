@@ -1,0 +1,1 @@
+The Mina VM protocol is not recognising codec and other options    Use of the vm protocol appears to ignore any codec options. There could be other options that are missed also.Using the same URI but for tcp works fine.   

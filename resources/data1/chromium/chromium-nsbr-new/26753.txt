@@ -1,0 +1,1 @@
+<title>Issue 26753 -   chromium -    Gmail focus out not handled on alt tab - Project Hosting on Google Code</title> <pre>   1. Pop out a chat on gmail  2. Hover over the options button so it lights up  3. Hit alt tab and move your mouse away     </pre>

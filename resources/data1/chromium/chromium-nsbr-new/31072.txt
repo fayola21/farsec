@@ -1,0 +1,1 @@
+<title>Issue 31072 -   chromium -    DevTools: refresh doubles heap profile snapshot list. - Project Hosting on Google Code</title> <pre> Every time one refreshes new snapshots are populated. </pre>

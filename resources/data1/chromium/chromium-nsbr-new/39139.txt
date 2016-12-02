@@ -1,0 +1,1 @@
+<title>Issue 39139 -   chromium -    Tab crash using combo/drop down box - Project Hosting on Google Code</title>   1. Open the URL in a new tab.  2. Drop down the &quot;Sort by&quot; combo box on the right.   3. Watch the tab crash!      No crash at all.        The tab crashes.      <b>Please provide

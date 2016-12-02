@@ -1,0 +1,1 @@
+<title>Issue 16890 -   chromium -    File chooser windows have no title - Project Hosting on Google Code</title>   1. right click link  click &quot;save link as&quot;  or any other thing that opens a file chooser  it seems.      File chooser window should have a title      no title     <b>Please provide

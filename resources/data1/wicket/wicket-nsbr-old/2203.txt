@@ -1,0 +1,1 @@
+WicketTester clickLink on submitLink fails with conversion error    When clicking with WicketTester a submitlink that is situated outside a Form  clickLink doesn't process the input correctly. It tries to set null on the inputs (which fails for int properties for obvious reasons).I've attached a quickstart that exhibits this behavior.   

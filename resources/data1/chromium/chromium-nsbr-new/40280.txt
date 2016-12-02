@@ -1,0 +1,1 @@
+<title>Issue 40280 -   chromium -    chrome hangs after any selection of picture or sudden click on data capture - Project Hosting on Google Code</title>   1.anytime u do sudden click on data capturing or sudden click on picture to   copy. then chrome hangs. and require restart                    <b>Please provide

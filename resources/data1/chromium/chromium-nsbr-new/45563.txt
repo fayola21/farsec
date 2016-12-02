@@ -1,0 +1,1 @@
+<title>Issue 45563 -   chromium -    AppLauncher: The underlying &quot;Go&quot; is confusing - Project Hosting on Google Code</title> <pre>   1. Enable apps  2. Open the launcher    As you can see in the screen shot  the &quot;Go&quot; button of the underlying window   is visible under the app launcher which will surely confuse people.   </pre>

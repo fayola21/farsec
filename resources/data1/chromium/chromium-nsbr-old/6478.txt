@@ -1,0 +1,1 @@
+<title>Issue 6478 -   chromium -    rssfeeds not showed - Project Hosting on Google Code</title>   1. Go to the url  2. See no rss support      RSS support like in IE      Plain text    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 19984 -   chromium -    Implement correlation for audio scaling - Project Hosting on Google Code</title> <pre> AudioRendererAlgorithmOLA should implement sample correlation during   overlaps  which will help improve audio quality for playback rates != 1.0f. </pre>

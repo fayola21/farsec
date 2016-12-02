@@ -1,0 +1,1 @@
+<title>Issue 6162 -   chromium -    Linux and Mac versions of platform_utils need to be moved - Project Hosting on Google Code</title> <pre> There is code in webkit/tools/layout_tests/layout_package/platform_utils  that needs to be merged into the tools/python/google/platform_utils copy.     See the comment on import in tools/valgrind/chrome_tests.py. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 18842 -   chromium -    vista sp2: when close button is clicked  either color changes back to blue or there is delay in indenting - Project Hosting on Google Code</title>   1.pressing x button          red x button indents      delay in indent or reverting back to background color(blue)    <b>Please provide

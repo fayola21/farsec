@@ -1,0 +1,1 @@
+Switching out of Jobs page does not launch popup anymore    On the jobs page click on Job-X and see the popup with all the job information. Now switch to Services page and come back to the jobs page. Now clicking on Job-X will not launch popup.   

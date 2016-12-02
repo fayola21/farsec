@@ -1,0 +1,1 @@
+<title>Issue 1222 -   chromium -    Freezes the media panel on my G15 keyboard - Project Hosting on Google Code</title>   1.Start Chrome and open any URL         What is the expected result? Media panel on keyboard will freeze at &quot;G15&quot;  Resolves by closing keyboard profiler and restarting          Please provide

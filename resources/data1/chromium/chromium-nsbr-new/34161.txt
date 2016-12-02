@@ -1,0 +1,1 @@
+<title>Issue 34161 -   chromium -    Trying to filter in about:ipc hangs the browser - Project Hosting on Google Code</title> <pre> Go to about:ipc and click &quot;Filter&quot;    CCing John since he was the last person to touch the about:ipc code. </pre>

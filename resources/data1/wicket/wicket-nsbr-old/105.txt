@@ -1,0 +1,1 @@
+Remove RequiredTextField from 2.0    To cut down on our API and remove some ultra-convenience stuff  Ipropose to remove RequiredTextField from our API. Requiredness iseasily achieved using 'setRequired(true)'  and therefore removes theneed for a special field.Vote was: 3 binding for removal only in 2.0   

@@ -1,0 +1,1 @@
+<title>Issue 34986 -   chromium -    window.history.forward(1) breaks page - Project Hosting on Google Code</title>   1. Open attached web page with window.history.forward(1) script on it.        H1 header &quot;This visible in all browsers except Google Chrome 5.0.&quot; should  be visible on the page.      Nothing. The body tag is not rendered.      <b>Please provide

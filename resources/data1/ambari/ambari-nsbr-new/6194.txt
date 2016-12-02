@@ -1,0 +1,1 @@
+Unsuitable height of dropdown menu on metrics page    STR:Delete all widgets from dashboard.Go to Metrics-&gt;Add menu.Result: Appeared inappropriate dropdown: bad_metrics.png   

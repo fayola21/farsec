@@ -1,0 +1,1 @@
+<title>Issue 11676 -   chromium -    Small window opens instead of full size - Project Hosting on Google Code</title>   1. Go to nickjr.com  2. Click on &quot;Games&quot; under today's date      What is the expected result? Window should open full size      What happens instead? A window the size of a postage stamp appears      <b>Please provide

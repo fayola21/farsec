@@ -1,0 +1,1 @@
+<title>Issue 6636 -   chromium -    Chrome cannot create New emails with BT Yahoo email - Project Hosting on Google Code</title>   1. log into to BT Yahoo email  2. Attempt to create a new email   3. Chrome shows an empty window      The BT Yahoo New e-mail window should appear.          Please provide

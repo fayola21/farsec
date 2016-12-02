@@ -1,0 +1,1 @@
+<title>Issue 12743 -   chromium -    Clicking over the downloaded file doesn't work at all - Project Hosting on Google Code</title>   1. Download whatever file from the web  2. Click over the downloaded file buttom from the bottom bar      Open the downloaded file with the corresponding program      Doen't work at all. It seems that isn't implemented.    <b>Please provide

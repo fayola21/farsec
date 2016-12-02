@@ -1,0 +1,1 @@
+<title>Issue 38001 -   chromium -    drop Oriya for now - Project Hosting on Google Code</title> <pre> We're not getting Oriya translation any more for new strings. Instead of   keeping Oriya partially translated  we're dropping Oriya for now.       The internal bug to drop Oriya from the download page is http://b/2508196       </pre>

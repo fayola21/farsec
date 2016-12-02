@@ -1,0 +1,1 @@
+<title>Issue 36664 -   chromium -    Aw  Snap! when editing text in TineMCE - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.307.7  URLs (if applicable) : node/246223/edit Drupal page        Firefox 3.x: OK      1. I've got TinyMCE editor when editing the page  2. When typing and pressing Enter it goes to 'Aw  Snap!'   </pre>

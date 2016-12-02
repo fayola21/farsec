@@ -1,0 +1,1 @@
+JMSXGroupID is not copied across ActiveMQ endpoints    See thread: http://www.nabble.com/MethodName-in-header-is-ignored-by-beanRef%28%29-tf4285009s22882.html#a12198390   

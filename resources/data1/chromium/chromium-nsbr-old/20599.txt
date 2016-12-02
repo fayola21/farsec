@@ -1,0 +1,1 @@
+<title>Issue 20599 -   chromium -    4th tab won't close unless moved to another place or chrome is unmaximized. - Project Hosting on Google Code</title>   1. Opening 4 tabs or more.      4th tab will always close when clicking the X.      The X is unclickable.    <b>Please provide

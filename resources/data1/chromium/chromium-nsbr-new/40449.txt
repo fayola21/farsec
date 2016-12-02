@@ -1,0 +1,1 @@
+<title>Issue 40449 -   chromium -    Broken thumbnails with clear browsing data. - Project Hosting on Google Code</title> <pre> Build: 5.0.369.0  OS: XP    -I've eight thumbnails in NNTP.  -Perform Clear browsing data for period &quot;Everything&quot;  -Refresh the NNTP      Issue:  User gets broken thumbnails - see the screenshot. </pre>

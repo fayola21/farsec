@@ -1,0 +1,1 @@
+<title>Issue 5627 -   chromium -    Error trying to write a new message in hotmail - Project Hosting on Google Code</title>   1. www.hotmail.com  2. Hotmail account  3. create a new message an then I could not to write the message  I could   select the destinataries and suject only                Please provide

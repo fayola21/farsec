@@ -1,0 +1,1 @@
+<title>Issue 8602 -   chromium -    If %TEMP% folder is not in Disk C  then it can not install/uninstall or update - Project Hosting on Google Code</title>   1. set TEMP and TMP to D:TEMP   2. install chrome_installer.exe or mini_installer.exe  3. then ... nothing                <b>Please provide

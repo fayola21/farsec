@@ -1,0 +1,1 @@
+<title>Issue 41990 -   chromium -    Truetype (not OpenType) kerning and ligatures are not supported on Linux - Project Hosting on Google Code</title> <pre> Look at third_partyWebKitLayoutTestsplatformchromium-linuxfastcsstext-  rendering-expected.png. It does not have the kerning nor the ligatures.    Works on Mac and Windows. </pre>

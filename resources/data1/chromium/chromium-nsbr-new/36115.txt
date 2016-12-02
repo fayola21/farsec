@@ -1,0 +1,1 @@
+<title>Issue 36115 -   chromium -    Please sync history along with bookmarks - Project Hosting on Google Code</title> <pre> It would be really useful if history was synced along with bookmarks between   Chrome browsers  so that I have a unified history as well as bookmarks.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21664 -   chromium -    sqlite fatal error 11 : Gdk-WARNING **: XID collision  trouble ahead - Project Hosting on Google Code</title>   1. When filling in some URL (probabyl one within the history urls)      Completing the url and hit enter.      Chrash with bug report.    <b>Please provide

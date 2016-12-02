@@ -1,0 +1,1 @@
+Allow log4j properties to be applied via the API in Ambari for hadoop/oozie/hbase/hive/zookeeper/pig    Allow log4j properties to be applied via the API in Ambari for hadoop/oozie/hbase/hive/zookeeper/pig.   

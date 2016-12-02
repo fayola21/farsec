@@ -1,0 +1,1 @@
+<title>Issue 17295 -   chromium -    Browser::IsApplication is a BAD_OVERRIDE in coverity. - Project Hosting on Google Code</title> <pre> Browser::IsApplication is a BAD_OVERRIDE in coverity because of const-ness. </pre>

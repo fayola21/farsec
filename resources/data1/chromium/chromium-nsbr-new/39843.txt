@@ -1,0 +1,1 @@
+<title>Issue 39843 -   chromium -    ExtensionApiTest.Tabs fails on chrome os - Project Hosting on Google Code</title> <pre>   OnRemoved doesn't always fire when a tab is closed.    See TODO in src/chrome/browser/extensions/extension_tabs_apitest.cc </pre>

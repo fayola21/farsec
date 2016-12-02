@@ -1,0 +1,1 @@
+<title>Issue 18758 -   chromium -    Ctrl + n - Project Hosting on Google Code</title> <pre> Abrir link em uma nova janela  &quot;Ctrl+n&quot; n��_��_o est��_��_ abrindo a mesma p��_��_gina.   Facilitaria muito a navega��__��_��_o e pesquisa na web  por isso  continuo usando   o windows explorer. </pre>

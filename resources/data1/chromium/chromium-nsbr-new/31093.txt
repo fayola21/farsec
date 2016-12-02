@@ -1,0 +1,1 @@
+<title>Issue 31093 -   chromium -    ffmpeg error correction may be too slow on netbooks - Project Hosting on Google Code</title> <pre> Current chrome/chromeos enables error correction.  The comment indicates this may be very slow.  We should consider disabling this for chromeos  which runs on slower   netbooks. </pre>

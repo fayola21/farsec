@@ -1,0 +1,1 @@
+<title>Issue 23513 -   chromium -    facebook Inbox message reply window text input does not work - Project Hosting on Google Code</title>   1. Login to Facebook  2. go to Inbox  3. open a message and try to type into the empty text box      you should see the text you are typing into the input box      you see no text as you type.    <b>Please provide

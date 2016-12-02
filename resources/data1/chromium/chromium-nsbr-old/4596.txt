@@ -1,0 +1,1 @@
+<title>Issue 4596 -   chromium -    Spacing between dialog content and buttons  - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.4.154.22    IMHO it would be nicer if there was a bit of spacing between the content   area of the various dialogs and the &quot;button row&quot;. Have a look at the   screenshot if you don't understand what I mean. </pre>

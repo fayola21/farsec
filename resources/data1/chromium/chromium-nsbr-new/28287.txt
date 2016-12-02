@@ -1,0 +1,1 @@
+<title>Issue 28287 -   chromium -    Metabug for issues related to making a real release for Linux distros - Project Hosting on Google Code</title> <pre> Though we provide source code  there are a few more steps necessary before   we are a real upstream usable by Linux distributions.  This is a metabug to   track those issues. </pre>

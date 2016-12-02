@@ -1,0 +1,1 @@
+<title>Issue 17849 -   chromium -    clean up PosFromChar - Project Hosting on Google Code</title> <pre> We need to clean up PosFromChar because PosFromChar() is apparently buggy. In   both LTR UI and RTL UI with left-to-right layout   in omnibox  PosFromChar(i) might return 0 when i is greater than 1. </pre>

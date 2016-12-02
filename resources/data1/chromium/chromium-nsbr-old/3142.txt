@@ -1,0 +1,1 @@
+<title>Issue 3142 -   chromium -    scroll=no defined for the body of an embedded html is honored only by IE - Project Hosting on Google Code</title>   1. enter URL          See the window media player plugin        just have a scroll bar running over it    Please provide

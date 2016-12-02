@@ -1,0 +1,1 @@
+<title>Issue 938 -   chromium -    problem scrolling with synaptics touchpad - Project Hosting on Google Code</title>   Running Vista 64bit on Dell e1505... Can scroll down but can't scroll up...       Should scroll up and down      Just scrolls down.      Please provide

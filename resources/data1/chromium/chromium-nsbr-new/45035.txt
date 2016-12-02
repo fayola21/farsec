@@ -1,0 +1,1 @@
+<title>Issue 45035 -   chromium -    Extension Docs don't list values of enumerated types from extension_api.json - Project Hosting on Google Code</title> <pre> for example     windows.types should list out its possible values.   </pre>

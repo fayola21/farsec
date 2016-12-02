@@ -1,0 +1,1 @@
+<title>Issue 39120 -   chromium -    Minimize - Project Hosting on Google Code</title>   1.make sure all tabs are active  2.minimize Chromium or windows key + m        should see clear desktop      see all my open tabs at the bottom of the screen. please see screenshot    <b>Please provide

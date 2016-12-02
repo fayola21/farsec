@@ -1,0 +1,1 @@
+<title>Issue 40510 -   chromium -    Gmail redirection fails - Project Hosting on Google Code</title>   1.Log in to iGoogle.  2.Ctrl + Click on gmail link on the top.  3. Gmail page opens but then redirects the user to iGoogle again.      Gmail page should be opened in a new tab      Gmail page loads and after that redirects the user to iGoogle page again    <b>Please provide

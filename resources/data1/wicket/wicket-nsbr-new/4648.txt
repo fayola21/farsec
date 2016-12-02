@@ -1,0 +1,1 @@
+Upgrade Atmosphere to 1.0-beta    Version 1.0 of the Atmosphere Framework is nearing completion. Wicket-atmosphere should be upgraded to 1.0-beta. Using the beta is fine  because wicket-atmosphere itself is also beta.   

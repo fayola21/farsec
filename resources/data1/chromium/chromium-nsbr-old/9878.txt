@@ -1,0 +1,1 @@
+<title>Issue 9878 -   chromium -    Cursor jumps / disappears when typing an email - Project Hosting on Google Code</title>   1. being typing an email  2. cursor will jump / disappear while typing  3. happens in both Chrome and IE                <b>Please provide

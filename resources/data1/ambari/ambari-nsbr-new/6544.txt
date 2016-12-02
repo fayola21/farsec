@@ -1,0 +1,1 @@
+Add ZKFC component to summary page (when NNHA enabled)    Add ZKFC component on summary page. Each Zkfc should under related Namenode  with a smaller size.   

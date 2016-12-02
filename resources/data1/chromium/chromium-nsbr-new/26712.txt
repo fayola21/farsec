@@ -1,0 +1,1 @@
+<title>Issue 26712 -   chromium -    Disable sync on Mac for Beta - Project Hosting on Google Code</title> <pre> We're not paying enough attention to sync on mac to get it to Beta quality (full   eng and test focus).    We should disable sync for Mac on the Beta branch before we release. </pre>

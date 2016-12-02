@@ -1,0 +1,1 @@
+<title>Issue 15800 -   chromium -    JS alert replaces SSL error page URL - Project Hosting on Google Code</title> <pre> Repros on all Channels + ToT.    -Navigate to any SSL error page.  -Navigate to JS alert in the same tab.    Notice  the alert replaces SSL error URL with the previous url in history   before SSL error page.    PS: Works fine in 1.0 builds. </pre>

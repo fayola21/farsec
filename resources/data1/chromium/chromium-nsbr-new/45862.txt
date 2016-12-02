@@ -1,0 +1,1 @@
+<title>Issue 45862 -   chromium -    no password-saving option on &quot;Euros4Click&quot; - Project Hosting on Google Code</title>   1. load the website  2. try to login (above right)      There should appear a bar in Chrome with the option to save the   password. This does not happen.      nothing    <b>Please provide

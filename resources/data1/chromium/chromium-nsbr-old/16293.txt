@@ -1,0 +1,1 @@
+<title>Issue 16293 -   chromium -    If click any link will fully autoclose chrome. - Project Hosting on Google Code</title>   1. I don't know what time will autoclose chrome if I click any link.            fix it.        I don't know why chrome autoclose.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 295 -   chromium -    Animated GIF issues - Project Hosting on Google Code</title>   1. View any animated .GIF      Normal playback of the animation.      While loading  the GIF is choppy and appears similar to tearing seen when   V-SYNC is disabled on video cards.  When the GIF is fully loaded  the   animation plays slowly (i.e. not at full speed).    Please provide

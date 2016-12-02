@@ -1,0 +1,1 @@
+<title>Issue 29765 -   chromium -    base/third_party/purify lacks README.chromium or LICENSE - Project Hosting on Google Code</title> <pre> We need docs indicating:    - the license  - what it is  - where it came from  - what changes we've made      Assigning to purify master (these files date back to before our commit   history).  Please reassign as you see fit. </pre>

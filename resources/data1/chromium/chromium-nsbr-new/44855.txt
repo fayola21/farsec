@@ -1,0 +1,1 @@
+<title>Issue 44855 -   chromium -    google home page getting distorted when clicking settings - Project Hosting on Google Code</title>   1. Go to google.com.  2. Make sure you are logged in.  3. Click on settings      The settings popup should contain        The popup does come. But the screen on top right corner get garbled    <b>Please provide

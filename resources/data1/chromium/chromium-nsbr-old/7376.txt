@@ -1,0 +1,1 @@
+<title>Issue 7376 -   chromium -    On-page autocomplete popup font size should match the OS default font size - Project Hosting on Google Code</title> <pre> The autocomplete popup uses a fixed font size of 12.  We should for accessibility reasons match whatever the OS is set to use.     </pre>

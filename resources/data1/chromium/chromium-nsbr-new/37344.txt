@@ -1,0 +1,1 @@
+<title>Issue 37344 -   chromium -    AX: Mac: need AXDescription on tables in preferences - Project Hosting on Google Code</title> <pre> There is at least one table in the preferences (Basics). This needs an   AXDescription (like &quot;Pages that will be opened&quot; </pre>

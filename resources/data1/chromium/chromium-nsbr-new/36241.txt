@@ -1,0 +1,1 @@
+<title>Issue 36241 -   chromium -    gif image broken - Project Hosting on Google Code</title>   1.open url  2.observe gif images        display gif images      only show the first frame    <b>Please provide

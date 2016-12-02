@@ -1,0 +1,1 @@
+<title>Issue 770 -   chromium -    Failure to initialize with error (0x000005) - Project Hosting on Google Code</title>   1. Start Chrome  2. At start receive the initialization error        Web page to open        Initialization error (0x000005)      Please provide

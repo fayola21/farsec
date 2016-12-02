@@ -1,0 +1,1 @@
+executeAjaxEvent in WicketTester works although Component is not enabled    When Component is disabled the executeAjaxEvent still works. Because it's not checking if Component is enabled.But the event attribute is not rendered to the component if it's disabled.   

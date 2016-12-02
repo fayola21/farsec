@@ -1,0 +1,1 @@
+<title>Issue 18256 -   chromium -    [extensions] The content script pattern http://*/* should match IP addresses - Project Hosting on Google Code</title> <pre> Create a script that matches http://*/* It should run on http pages whose   host is an IP address  but it doesn't. </pre>

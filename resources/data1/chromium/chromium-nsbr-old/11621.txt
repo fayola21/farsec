@@ -1,0 +1,1 @@
+<title>Issue 11621 -   chromium -    New omnibox treatment doesn't show whether page is bookmarked - Project Hosting on Google Code</title> <pre> With --enable-omnibox2 the popup no longer shows whether a page is starred. </pre>

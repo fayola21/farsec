@@ -1,0 +1,1 @@
+<title>Issue 35847 -   chromium -    Need pdf icons for &quot;content blocked&quot; icons. - Project Hosting on Google Code</title> <pre> At the moment  we use the pngs that windows / linux use. The pngs are   chrome/app/theme/blocked_*.png . In context: <a href="http://imgur.com/Yo0Ss">http://imgur.com/Yo0Ss</a> </pre>

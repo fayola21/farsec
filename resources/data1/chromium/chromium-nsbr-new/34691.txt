@@ -1,0 +1,1 @@
+<title>Issue 34691 -   chromium -    MIddle click randomly opens in same tab instead of a new one - Project Hosting on Google Code</title>   1. Open Chrome  2. Open any web page with html common links  3. Middle click on any link          The middle-clicked link loads in a new tab in the background.        The middle-clicked link loads in the same tab.    <b>Please provide

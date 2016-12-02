@@ -1,0 +1,1 @@
+Nagios Admin Contact should be checked to ensure it is always an email address       

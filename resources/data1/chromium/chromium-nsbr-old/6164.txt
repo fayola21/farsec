@@ -1,0 +1,1 @@
+<title>Issue 6164 -   chromium -    Linux platform_utils need to be added to tools/python/google. - Project Hosting on Google Code</title> <pre> Code from the linux files in  webkit/tools/layout_tests/layout_package/platform_utils needs to be  copied/moved to tools/python/google/platform_utils  as it only contains a  Windows implementation. </pre>

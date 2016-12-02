@@ -1,0 +1,1 @@
+<title>Issue 25174 -   chromium -    Moving tabs between windows crashes Chromium - Project Hosting on Google Code</title>   1. Have more than one window open  2. Try to drag a tab from one window to another        Tab should attach to window without crashing      Chromium crashes    <b>Please provide

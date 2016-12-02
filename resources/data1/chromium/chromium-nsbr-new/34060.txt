@@ -1,0 +1,1 @@
+<title>Issue 34060 -   chromium -    Chrome Bug - Project Hosting on Google Code</title> <pre> Sorry for my English  I am learning ...    Well  clicking a link sent by a contact of MSN 8.5 is   fought blank page without loading anything  even closing and reopening the   chrome not back to work. </pre>

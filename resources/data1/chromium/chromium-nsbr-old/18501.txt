@@ -1,0 +1,1 @@
+<title>Issue 18501 -   chromium -    enctype=&quot;multipart/form-data&quot; - Project Hosting on Google Code</title>   1. Try n upload multiple files thru HTTP method having one of the file as   zip or rar      Should get all the files uploaded        zip/rar doesnt get uploaded correctly      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17811 -   chromium -    Dragging items on the new new tab page when in list view hides the text - Project Hosting on Google Code</title> <pre> Switch to list view    Try dragging things around and notice how the title gets hidden. </pre>

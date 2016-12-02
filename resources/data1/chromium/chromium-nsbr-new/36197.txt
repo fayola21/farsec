@@ -1,0 +1,1 @@
+<title>Issue 36197 -   chromium -    Uninstalling an extension should remove all DBs associated with it - Project Hosting on Google Code</title> <pre> Uninstalling an extension should remove all DBs associated with it. </pre>

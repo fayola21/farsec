@@ -1,0 +1,1 @@
+<title>Issue 19499 -   chromium -    On getting/losing focus GC window blinks - Project Hosting on Google Code</title>   1. Run GC  2. Try to switch to/from GC window      Window should appear without any blinking/redrawing        On getting/losing focus GC repaints its window a bit slowly which in   general looks like blinking      <b>Please provide

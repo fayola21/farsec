@@ -1,0 +1,1 @@
+<title>Issue 27861 -   chromium -    Sample extensions use toolstrips - Project Hosting on Google Code</title> <pre> There are two sample extensions that still contain references to   &quot;toolstrips&quot;. Not sure if the code is active  but it should be removed one   way or the other. </pre>

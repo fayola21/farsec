@@ -1,0 +1,1 @@
+<title>Issue 34015 -   chromium -    Chrome doesn't run on another Windows account (Windows 7 Ultimate 32-bit) - Project Hosting on Google Code</title>   1. Install Chrome 4 under admin user 'dejan'  2. Run Crome 4 under another admin user 'gis'  3. Chrome does not start      Chrome should run.      Chrome doesn't run -- at least I don't see the GUI.    <b>Please provide

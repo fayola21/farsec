@@ -1,0 +1,1 @@
+<title>Issue 477 -   chromium -    Saving picture defaults to the &quot;Download&quot; folder in My Documents - Project Hosting on Google Code</title>             It should point to the last selected folder once the folder is selected.      It always points to My Documents/Downloads    Please provide

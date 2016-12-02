@@ -1,0 +1,1 @@
+<title>Issue 31783 -   chromium -    Link to the specific extensions gallery page from each extension in chrome://extensions/ - Project Hosting on Google Code</title> <pre> If the extension is in the gallery  we should link to the gallery page from   chrome://extensions/    This makes it easy to figure out what all the installed extensions are. </pre>

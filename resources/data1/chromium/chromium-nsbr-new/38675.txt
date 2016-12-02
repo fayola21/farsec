@@ -1,0 +1,1 @@
+<title>Issue 38675 -   chromium -    Page freezes - Project Hosting on Google Code</title>   1. Select something (text etc)  2. Attempt to drag it      Nothing unless you drop the data somewhere      The page crashes- you cannot scroll or select anything.    <b>Please provide

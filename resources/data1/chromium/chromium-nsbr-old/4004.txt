@@ -1,0 +1,1 @@
+<title>Issue 4004 -   chromium -    SilverLight media does not load properly on Microsoft.com (first page). - Project Hosting on Google Code</title>    1. Log on to www.microsoft.com         - The SilverLight Banner should load and be interactive            - Instead it shows more of a static image  sometimes nothing at all.         Please provide

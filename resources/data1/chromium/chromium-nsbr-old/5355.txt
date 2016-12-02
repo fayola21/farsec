@@ -1,0 +1,1 @@
+<title>Issue 5355 -   chromium -    BUG: Bookmark Manager issues - Project Hosting on Google Code</title> <pre> Chrome Version       : 0.4.154.33    You can create (also move or copy) more than one folder with the exact same   name in the same folder.    Double clicking on the title bar makes the window maximized  though no   button to restore (or maximize) it. </pre>

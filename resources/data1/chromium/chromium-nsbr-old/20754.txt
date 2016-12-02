@@ -1,0 +1,1 @@
+<title>Issue 20754 -   chromium -    Add logging to convert_dict - Project Hosting on Google Code</title> <pre> If an error occured when converting a hunspell dictionary to bdict format    the description of the error is useless  it just says:  &quot;Cannot convert dictionary&quot;    Some logging should be added so we can have better understanding for the   error. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 40917 -   chromium -    &quot;Crash Random Tabs&quot; menu item mistakenly named &quot;Copy Image&quot; - Project Hosting on Google Code</title> <pre> English    5.0.366.0 (43078) ALT Linux    Linux    Image right click menu.  &quot;Crash Random Tabs&quot; menu item mistakenly named   &quot;Copy Image&quot;. </pre>

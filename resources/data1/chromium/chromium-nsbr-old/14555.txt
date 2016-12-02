@@ -1,0 +1,1 @@
+<title>Issue 14555 -   chromium -    Double-Framed JavaScript Dialogs - Project Hosting on Google Code</title>     1. Open a page or perform an action that pops up a JS dialog        A single (skinned) frame around the dialog.        A skinned dialog frame surrounded by the default system frame.    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 10844 -   chromium -    Add unit tests for TaskManager - Project Hosting on Google Code</title> <pre> I'm going to add few unit tests for TaskManager (rather from backend   perspective than UI). They may be useful for porting work and well  they're   generally useful. </pre>

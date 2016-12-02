@@ -1,0 +1,1 @@
+<title>Issue 4523 -   chromium -    Need ProxyResolver implementation on Linux - Project Hosting on Google Code</title> <pre> See net/http/http_network_layer.cc.    This means we currently ignore proxies. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 17717 -   chromium -    Line separating toolbar from tabstrip is darker than tab outline - Project Hosting on Google Code</title> <pre> The line that separates the toolbar from the tabstrip is black  but the tab   outline is dark gray. Perhaps make the toolbar/tabstrip demarcation line   also dark gray? </pre>

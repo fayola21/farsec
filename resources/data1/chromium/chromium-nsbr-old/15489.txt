@@ -1,0 +1,1 @@
+<title>Issue 15489 -   chromium -    cannot copy cells using CTRL+C &amp; CTRL-V on google docs spreadsheets - Project Hosting on Google Code</title>   1. open a spreadsheet in google docs  2. Copy one or more cells using CTRL+C  3. Try to paste in other cells using CTRL+V            Not working    <b>Please provide

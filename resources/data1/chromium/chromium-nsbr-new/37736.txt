@@ -1,0 +1,1 @@
+<title>Issue 37736 -   chromium -    chromium does not build for Rich - Project Hosting on Google Code</title> <pre> Just a place holder crbug  to get Rich up to speed on build/bugs    Richard should be able to sync up  build  make a change  add/close crbug  do   code review.   </pre>

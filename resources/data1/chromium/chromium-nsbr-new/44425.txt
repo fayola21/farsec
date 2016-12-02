@@ -1,0 +1,1 @@
+<title>Issue 44425 -   chromium -    Incredibly annoying margin above tabs - Project Hosting on Google Code</title>   1. Open 2 or more tabs  2. If you have a mouse with a click-able scroll wheel in the middle  move   the cursor all the way up over a tab  and press the scroll wheel in to   close the tab.        The tab should close        Absolutely nothing    <b>Please provide

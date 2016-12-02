@@ -1,0 +1,1 @@
+<title>Issue 22687 -   chromium -    Make WorkerTest.WorkerXhrHttpLayoutTests and WorkerTest.WorkerHttpLayoutTests faster - Project Hosting on Google Code</title> <pre> WorkerTest.WorkerXhrHttpLayoutTests and WorkerTest.WorkerHttpLayoutTests  are two of the slowest tests right now  averaging 14.5 and 12.6 seconds per  run  respectively. Please try to make it faster.     </pre>

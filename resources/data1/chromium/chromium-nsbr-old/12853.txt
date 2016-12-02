@@ -1,0 +1,1 @@
+<title>Issue 12853 -   chromium -    REGRESSION: Add Link in gmail is not working - Project Hosting on Google Code</title>   1.In gmail compose a new email  2.Use the Link Icon  3.Attempt to add URL - box is available but you cannot add anything to the   URL part      Be able to add URL for link      Box is available but does not allow entry    <b>Please provide

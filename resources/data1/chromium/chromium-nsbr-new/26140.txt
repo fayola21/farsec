@@ -1,0 +1,1 @@
+<title>Issue 26140 -   chromium -    Chrome Linux single click does not select all - Project Hosting on Google Code</title> <pre> We are trying an experiment where we leave the edit control alone for mouse  selection.  Note that we still fiddle with PRIMARY on Control L  matching  Firefox.    If you don't like this behavior  please leave a comment indicating why. </pre>

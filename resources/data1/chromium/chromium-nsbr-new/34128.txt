@@ -1,0 +1,1 @@
+<title>Issue 34128 -   chromium -    Feature request: Better default file open in JS debugger - Project Hosting on Google Code</title> <pre> When I open the JS debugger  I'd like to see the HTML page that is open at  the moment just as Firebug does.  Instead Chrome seems to open the last  file that had any JS run in it?  That's not nearly as helpful. </pre>

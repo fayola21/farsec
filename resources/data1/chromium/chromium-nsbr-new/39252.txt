@@ -1,0 +1,1 @@
+<title>Issue 39252 -   chromium -    Add granular plugin settings to Content settings dialog - Project Hosting on Google Code</title> <pre> Add all plugins to the plug-ins tab of the Content settings dialog. Each   should have Allow/Ask/Block settings as well as an exception list. </pre>

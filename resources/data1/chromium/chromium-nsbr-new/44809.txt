@@ -1,0 +1,1 @@
+<title>Issue 44809 -   chromium -    Missing /theme - Project Hosting on Google Code</title>   1. Starting Chrome  2. Default Browser settings (none of my installed extensions  default   theme)  3. Bookmarks OK        Should see all my installed extensions and my installed theme        <b>Please provide

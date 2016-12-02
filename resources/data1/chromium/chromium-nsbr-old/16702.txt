@@ -1,0 +1,1 @@
+<title>Issue 16702 -   chromium -    No text on any web pages - Project Hosting on Google Code</title>   Difficult to reproduce as it happens after a while of using Chromium  but  once it occurs all new tabs exhibit the problem.      Pages with text!      No text on pages whatsoever.    <b>Please provide

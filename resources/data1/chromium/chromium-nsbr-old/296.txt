@@ -1,0 +1,1 @@
+<title>Issue 296 -   chromium -    flash videos flicker - Project Hosting on Google Code</title>   1. Go to the webpage (Chrome promo video :)  2. Notice how flash video periodically flickers  3. WinXP SP2  AthlonXP 2800+ 512MB of RAM (Compaq Laptop  DSL connection      Smooth flash video playback      It flickers every 10 seconds or so    Please provide

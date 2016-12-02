@@ -1,0 +1,1 @@
+Timed out Exchanges should be removed from seda queues    When the SedaProducer times out and stops waiting for an Exchange to be processed it should remove it from the queue as well. Same applies to the vm: component.   

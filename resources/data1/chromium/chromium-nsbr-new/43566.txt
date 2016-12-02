@@ -1,0 +1,1 @@
+<title>Issue 43566 -   chromium -    Google Reader Keyboard Shortcut j - Next item stopped working - Project Hosting on Google Code</title>   1. Open Google Reader  2. Use g-&gt;a to show all items  3. use j to jump to next item -&gt; NOT WORKING      View jumps to next item      Nothing!    <b>Please provide

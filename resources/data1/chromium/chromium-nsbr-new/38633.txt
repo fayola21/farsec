@@ -1,0 +1,1 @@
+<title>Issue 38633 -   chromium -    Gray stain under default them in Vista Aero - Project Hosting on Google Code</title>   1. Always visible          Clear toolbar      Gray stain is visible    <b>Please provide

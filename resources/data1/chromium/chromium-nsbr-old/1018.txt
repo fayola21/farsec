@@ -1,0 +1,1 @@
+<title>Issue 1018 -   chromium -    Unable to play parking war at facebook - Project Hosting on Google Code</title>   1. when try to click at any of empty parking lot          will get prompt to choose which car to be moved      nothing happen    Please provide

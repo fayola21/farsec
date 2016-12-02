@@ -1,0 +1,1 @@
+<title>Issue 19162 -   chromium -    Add one line tip to bottom of NNTP - Project Hosting on Google Code</title> <pre> Add tip to bottom of NNTP  as seen in attached mock.  Make tip service pull    tips from MadHat Help API.   </pre>

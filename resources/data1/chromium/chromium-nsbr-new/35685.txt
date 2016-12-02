@@ -1,0 +1,1 @@
+<title>Issue 35685 -   chromium -    Upgrade to 5.0.322.2 (Official Build 38810) dev fails on Debian Lenny - Project Hosting on Google Code</title>   1. Upgrade from 5.0.307.5 (Official Build 37950) dev to     5.0.322.2 (Official Build 38810) dev  2. Will fail. Depends on LSB (&gt;= 3.2)      Upgrade Chrome      Fails    <b>Please provide

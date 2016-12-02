@@ -1,0 +1,1 @@
+<title>Issue 36792 -   chromium -    Crash on text selection when multiple tabs opened - Project Hosting on Google Code</title>   1.opened 2 tabs  2.on the second tab go to a website  3.select a line of text from this website. Now  left click on the text and   try moving the selection to the right or to the left. Chrome should crash.    <b>Please provide

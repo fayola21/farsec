@@ -1,0 +1,1 @@
+<title>Issue 38039 -   chromium -    Crashes Everytime When Go To www Yahoo.Com - Project Hosting on Google Code</title>   1.Open Chrome 5.0.342.3  2.Write www.yahoo.com in adressbar and Go.        Chrome Doesn't have to crash!       Browser Crashes! Go Boom!     <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21014 -   chromium -    torrent is opened  not downloaded - Project Hosting on Google Code</title>   1. Go to <a href="http://stormos.org/node/59">http://stormos.org/node/59</a> and click on stormos-hail-beta2.torrent  2. Note that you will see the torrent-source-code      To start downloading the torrent      It opens its 'plain-text-content'    <b>Please provide

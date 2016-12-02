@@ -1,0 +1,1 @@
+dump as xml fails if message body is already xml    MessageHelper.dumpAsXml has a problem if the message body is already xml.   

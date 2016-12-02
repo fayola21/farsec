@@ -1,0 +1,1 @@
+<title>Issue 31157 -   chromium -    Freezing on certain sites - Project Hosting on Google Code</title>   1. Open Chrome and go to azunime.net or git.zen-kernel.org page      Working sites      Tab with site opened freezes.    <b>Please provide

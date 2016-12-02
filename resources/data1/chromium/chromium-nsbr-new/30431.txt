@@ -1,0 +1,1 @@
+<title>Issue 30431 -   chromium -    Make SUPPRESS_OPEN vs. IGNORE_ACTION sane - Project Hosting on Google Code</title> <pre> I don't know why we have both of these dispositions.  And if you grep the   codebase for both  neither one is effective  because we only look at the   former in the browser  and we only return the latter in the glue layer. </pre>

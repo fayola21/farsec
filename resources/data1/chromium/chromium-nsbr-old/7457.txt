@@ -1,0 +1,1 @@
+<title>Issue 7457 -   chromium -    Add other languages to setup resource file - Project Hosting on Google Code</title> <pre> Right now  setup's resource file only contains references for five   languages.  It should contain references for all 42  so that the EULA   dialog will show for any supported language.     </pre>

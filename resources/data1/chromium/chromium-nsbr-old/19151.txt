@@ -1,0 +1,1 @@
+<title>Issue 19151 -   chromium -    Incorrect encoding of Russian text in dropdown menus - Project Hosting on Google Code</title>   1. Visit the URL  2. Click on the dropdown menu near &quot;_��__��____��____�܊�� ��_��__��_��_��___:&quot; text      It is expected that the contents of the menu are shown correctly      There is a mess of symbols shown instead    <b>Please provide

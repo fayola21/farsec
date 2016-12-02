@@ -1,0 +1,1 @@
+<title>Issue 17619 -   chromium -    Fix the resize-sibling-of-parent nastiness with bookmark and info bar resizing  - Project Hosting on Google Code</title> <pre> The bookmark bar resizes it's parent (toolbar) and siblings of it's parent (info bar).  This is ugly.  Fix.   </pre>

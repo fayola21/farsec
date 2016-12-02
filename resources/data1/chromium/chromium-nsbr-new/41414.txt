@@ -1,0 +1,1 @@
+<title>Issue 41414 -   chromium -    Can drag-copy rich text out of Mac omnibox. - Project Hosting on Google Code</title> <pre>   1. Open TextEdit.  2. In Chrome browse to www.google.com/linux  3. Select-all in omnibox and drag contents to TextEdit.        Should get a plain-old string.  Instead get the string with boldface and gray text and stuff. </pre>

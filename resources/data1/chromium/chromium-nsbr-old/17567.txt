@@ -1,0 +1,1 @@
+<title>Issue 17567 -   chromium -    Disable DataGrid in WebCore until it's more functional - Project Hosting on Google Code</title> <pre> Per Darin: We should turn off ENABLE_DATAGRID in the WebCore configuration  because the   implementation is still far from functional. This could confuse early-adopters using our dev channel   releases. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 37495 -   chromium -    Can't scroll Chrome OPTION window - Project Hosting on Google Code</title>   1. Open 'options' window.  2. Tabs 'Basic'  'Personal Stuff' do not have scrolls. ('Under the hood'   tab does have a scroll.      They have scrolls so that user can scroll up/down.      No scrolls.  So some options are not shown.    <b>Please provide

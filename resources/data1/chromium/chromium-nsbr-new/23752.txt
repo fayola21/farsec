@@ -1,0 +1,1 @@
+<title>Issue 23752 -   chromium -    Facebook.com news feed appears incorrectly - Project Hosting on Google Code</title>   1. Login to facebook.com  2. Look at the dates on the news feeds.      News feeds should be sorted by freshness.      Either sorted backwards or some weird sorting performed.    <b>Please provide

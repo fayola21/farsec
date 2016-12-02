@@ -1,0 +1,1 @@
+<title>Issue 19878 -   chromium -    split syncapi.h - Project Hosting on Google Code</title> <pre> At least the virtual interfaces implemented by glue/ could be given their own   file(s)  and maybe we could move SyncManager to it's own file too. </pre>

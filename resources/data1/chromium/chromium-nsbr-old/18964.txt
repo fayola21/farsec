@@ -1,0 +1,1 @@
+<title>Issue 18964 -   chromium -    Command-Return should open in new tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.197.12  Type: Feature    Entering text in the omnibox and pressing command-return should open the   URL in a new tab.   </pre>

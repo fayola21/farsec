@@ -1,0 +1,1 @@
+<title>Issue 4145 -   chromium -    The form autofill popup should behave like the one in Firefox - Project Hosting on Google Code</title> <pre> The form autofill sets the text of its associated text field as soon as you  move the selection with the up/down arrows.  It should only set the text when enter is pressed or when an item is clicked.   </pre>

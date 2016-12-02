@@ -1,0 +1,1 @@
+<title>Issue 27609 -   chromium -    Crash when accessing font settings - Project Hosting on Google Code</title>   1. Click the wrench icon -&gt; Options -&gt; Under the Hood -&gt; Change font and  language settings.  2. Change anything or nothing (doesn't matter).  3. Click OK.      Chromium exits gracefully.      Chromium crashes.    <b>Please provide

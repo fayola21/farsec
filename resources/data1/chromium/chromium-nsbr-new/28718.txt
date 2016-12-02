@@ -1,0 +1,1 @@
+<title>Issue 28718 -   chromium -    Twitter lists stopped working - Project Hosting on Google Code</title>   1. Sign on to twitter  2. Open profile of someone you follow/would like to follow  3. Follow and list buttons do not react to click.        Lists options for follow  and manage lists should be displayed        Click is ignored    <b>Please provide

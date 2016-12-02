@@ -1,0 +1,1 @@
+<title>Issue 45390 -   chromium -    Chrome Crash after unplug the network cable - Project Hosting on Google Code</title>   1. Open some web pages in Chrome (especially on slow websites);  2. Unplug the network cable and wait a while;  3. Chrome crashes.    <b>Please provide

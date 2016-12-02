@@ -1,0 +1,1 @@
+<title>Issue 20862 -   chromium -    Chrome browser has vague tooltip - Project Hosting on Google Code</title> <pre> using Jaunty/KDE4 and 4.0.203.2.    There doesn't seem to be any subtext for chrome browser in the panel   tooltip/application list. </pre>

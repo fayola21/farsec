@@ -1,0 +1,1 @@
+<title>Issue 42193 -   chromium -    Breakpoints are not being hit - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.375.9 dev    OS version               : 10.5.8            1. Set a breakpoint  2. Run code to hit breakpoint      The debugger hits the breakpoint        The debugger runs past the breakpoint completely ignoring its existence.   </pre>

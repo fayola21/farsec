@@ -1,0 +1,1 @@
+<title>Issue 13488 -   chromium -    Copy URL in popup menu is disabled - Project Hosting on Google Code</title> <pre> Go to <a href="http://www.echoecho.com/jswindows03.htm">http://www.echoecho.com/jswindows03.htm</a>   Click on the link to open a popup  Click on Chrome icon to see the options    Copy URL is disabled. Is this intentional?  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23711 -   chromium -    i m not able to see indic fonts in chrome but in other browser its working  - Project Hosting on Google Code</title> <pre> [bengali]        [xp2]    [crome problem]       </pre>

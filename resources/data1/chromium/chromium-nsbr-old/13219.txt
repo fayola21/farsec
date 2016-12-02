@@ -1,0 +1,1 @@
+<title>Issue 13219 -   chromium -    about box credit link - Project Hosting on Google Code</title> <pre> Chrome version 3.0.182.4   At the bottom of the About Box  add    Chrome is made possible  by the &lt;link&gt;Chromium&lt;/link&gt; open source project and other &lt;link to  about:credits&gt;open source software&lt;/link&gt;.    Like Windows. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 31045 -   chromium -    Chromium crashes in file dialog when attempting to attach files - Project Hosting on Google Code</title>   1.Compose message in gmail  2.Attempt to attach a small .jpg file in /tmp        The file should be attached (!).      When you click the file to be attached in the file dialog  Chromium crashes    <b>Please provide

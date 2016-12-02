@@ -1,0 +1,1 @@
+<title>Issue 45487 -   chromium -    After showing/hiding bookmars bar address bar is drawn with glitches - Project Hosting on Google Code</title>   1. open couple tabs with sites  2. press Ctrl+b 2 times      address bar should be drawn without glitches      address bar is drawn with glitches. See screen    <b>Please provide

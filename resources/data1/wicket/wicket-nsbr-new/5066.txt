@@ -1,0 +1,1 @@
+Allow PackageResource to decide itself whether it could be accepted or not    By default PackageResource uses IPackageResourceGuard to check whether it can be rendered or not.By making org.apache.wicket.request.resource.PackageResource#accept(Class  String) protected the resource itself can do the check  e.g. allow the access when usually the guard would reject.   

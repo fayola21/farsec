@@ -1,0 +1,1 @@
+<title>Issue 46075 -   chromium -    AutoFill Profiles dialog handles multi-select and delete - Project Hosting on Google Code</title> <pre>   1. Launch Chrome  2. Open Preferences  3. Open AutoFill Profiles dialog  4. Select an item in the table  shift-select another item.    Expected:    Multi-select  and delete should work.    Actual:    Multi-select does not work.   </pre>

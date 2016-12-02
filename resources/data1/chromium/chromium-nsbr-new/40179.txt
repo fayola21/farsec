@@ -1,0 +1,1 @@
+<title>Issue 40179 -   chromium -    Helvetica (and maybe other sans) too large render. - Project Hosting on Google Code</title> <pre> Chrome Version: 5.0.360.0 (Build oficial 42309) dev  SO: Ubuntu 9.04 x86 desktop      1. Open the provided HTML (helvetica.html) under GNU/Linux      A font with other browsers similar size.      You get a much bigger font.   </pre>

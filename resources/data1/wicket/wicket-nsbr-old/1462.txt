@@ -1,0 +1,1 @@
+Problem with ajax form submission inside model window in IE and Safari       

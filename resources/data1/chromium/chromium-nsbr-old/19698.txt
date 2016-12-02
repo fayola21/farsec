@@ -1,0 +1,1 @@
+<title>Issue 19698 -   chromium -    Ctrl-C combo does not copy selected text in URL address bar - Project Hosting on Google Code</title>   1. Highlight the URL in the address bar  2. Type Ctrl-C  3. Text will unselect itself. Nothing goes into the clipboard buffer.                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21386 -   chromium -    Linux checksum computation produces results different from Win or upstream. - Project Hosting on Google Code</title> <pre> Just capturing a discussion into a bug.  <a href="http://groups.google.com/group/chromium-">http://groups.google.com/group/chromium-</a>  dev/browse_thread/thread/b1df82cf42b9bf0f </pre>

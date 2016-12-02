@@ -1,0 +1,1 @@
+<title>Issue 29775 -   chromium -    Implement Jump and Call commands - Project Hosting on Google Code</title> <pre> Implementing Jump and Call will let NaCl apps run at the maximum possible   speed by letting them pre-compute command buffers. This enables the same   techniques that 360 PS3 PS2 most other consoles use to get speed.   </pre>

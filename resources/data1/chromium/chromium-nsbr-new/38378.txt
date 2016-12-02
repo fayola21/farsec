@@ -1,0 +1,1 @@
+<title>Issue 38378 -   chromium -    Scroll wheel scrolls too many lines - Project Hosting on Google Code</title>   1. Go to any web page  2. Use the scroll wheel        IE and Firefox scroll about 2 lines      Chrome scrolls about 5 or 6 lines  making it unusable.    <b>Please provide

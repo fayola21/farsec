@@ -1,0 +1,1 @@
+<title>Issue 37079 -   chromium -    Bookmarks manager menu bar is ugly - Project Hosting on Google Code</title> <pre> Using Chromium 5.0.341.0 (40251). Under Ubuntu lucid and when book mark   manager is opened its menu bar is using mix theme colors. Its not a bug in   the theme. see the screenshot.   </pre>

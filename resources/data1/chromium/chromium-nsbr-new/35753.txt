@@ -1,0 +1,1 @@
+<title>Issue 35753 -   chromium -    AmericanGreetings.com received cards do not display - Project Hosting on Google Code</title>   1. Send yourself an ecard from americangreetings.com  2. Hit the URL of the card in the email your receive        Ecard opens.         HTML code gets displayed.    <b>Please provide

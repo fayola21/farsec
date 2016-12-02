@@ -1,0 +1,1 @@
+<title>Issue 13160 -   chromium -    Popup blocking is not implemented - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  Popups are not blocked when visiting a site that uses them. </pre>

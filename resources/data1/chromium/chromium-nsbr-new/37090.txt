@@ -1,0 +1,1 @@
+<title>Issue 37090 -   chromium -    Empty attachments - Project Hosting on Google Code</title>   1. use any email account and attach any file  you will find the attachment   size is 0 and files sent out are blank.          Attachments should be sent completely and correctly.      Blanks files were sent    <b>Please provide

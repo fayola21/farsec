@@ -1,0 +1,1 @@
+<title>Issue 40942 -   chromium -    Not all folders listed in drop-down in bookmarks bubble - Project Hosting on Google Code</title> <pre> Google Chrome	5.0.366.2 (Official Build 43280) dev      1. See screenshot.  Note that &quot;later&quot; isn't in the list.   </pre>

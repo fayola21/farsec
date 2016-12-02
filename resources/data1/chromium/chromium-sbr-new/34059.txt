@@ -1,0 +1,1 @@
+<title>Issue 34059 -   chromium -    Secunia reports a problem in chrome - Project Hosting on Google Code</title> <pre>       I don't know if this one has been solved/reported already  but I thought it   wouldn't harm to report it:  A security bug has been found.   <a href="http://secunia.com/advisories/38061/">http://secunia.com/advisories/38061/</a> </pre>

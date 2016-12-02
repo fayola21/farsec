@@ -1,0 +1,1 @@
+<title>Issue 34179 -   chromium -    Add typed-url SPECIFICS support to syncapi - Project Hosting on Google Code</title> <pre> We need to expose typed-url data through syncapi so we can access them from   the browser. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 9378 -   chromium -    It is hard to dismiss full screen mode thr touchpad. - Project Hosting on Google Code</title> <pre> Trunk (<a href="/p/chromium/source/detail?r=12555">r12555</a>)    I need to click on &quot;Exit Full screen&quot; twice or thrice through touchpad  to  dismiss the full screen mode.    (I'm using IBM lenovo T60p series)   </pre>

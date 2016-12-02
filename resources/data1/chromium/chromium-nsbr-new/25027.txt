@@ -1,0 +1,1 @@
+<title>Issue 25027 -   chromium -    Bank of America &quot;print my statement&quot; prints blank. - Project Hosting on Google Code</title> <pre> When using online banking with Bank of America (California)  when printing   statements to hard copy  the statements print as blank paper. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 35378 -   chromium -    Google Analytics page broken in Chrome 4 + win 7 (clean install) - Project Hosting on Google Code</title>   1. Install Windows7  2. Install Google Chrome  3. Access www.google.com/analytics/    What is the expected result?  to se google analytics home    What happens instead?  page is not displayed right    Please provide

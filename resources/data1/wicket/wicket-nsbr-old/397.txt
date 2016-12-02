@@ -1,0 +1,1 @@
+DropDownChoice  empty Model wrong default encoding of special chars    Iv the DDChoice is empty at first  you get a 'Bitte Ausw�_�__hlen' wich is wrongly decoded as 'Bitte Ausw?%len' - so the encoding needs to be checked that it gets correctly encoded according to HTML like &auml;   

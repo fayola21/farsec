@@ -1,0 +1,1 @@
+<title>Issue 32606 -   chromium -    WebGL running on Linux in Sandbox - Project Hosting on Google Code</title> <pre> Currently  WebGL runs without the sandbox on Linux.  To ship without a flag    we need it running inside the sandbox using the GPU process. </pre>

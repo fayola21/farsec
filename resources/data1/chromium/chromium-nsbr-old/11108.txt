@@ -1,0 +1,1 @@
+<title>Issue 11108 -   chromium -    Attach file function broken in Gmail - Project Hosting on Google Code</title>   1.Goto gmail  2.Create new message or Reply to an existing message  3.Click on Attach file      It should be possible to attach a file      Nothing  link is not clickable      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 34448 -   chromium -    Clear browsing data with many tabs open Crash - Project Hosting on Google Code</title>   1.Open multiple websites in multiple tabs.  2.Try cleaning the navigation data        Having clean data navigation        The browser simply closes  this happened in both running Windows Vista and   Debian Linux on different machines!    <b>Please provide

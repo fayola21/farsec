@@ -1,0 +1,1 @@
+<title>Issue 21364 -   chromium -    Popped block-ups can load videos - Project Hosting on Google Code</title> <pre> I believe this affects all Chrome versions  but I'm on Dev in Windows.    The pop-up blocker says 'x' popups blocked. But one of the popups is a video    and you can hear the video playing  even though the popup should be blocked.    I do not want this... </pre>

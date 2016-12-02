@@ -1,0 +1,1 @@
+After the downloading process  the layout of the remote file system doesn't match the local's one    When downloading a directory with a complex layout (mutli level directory)  the downloaded files do not reflect the local onemore info here http://www.nabble.com/FTP-component%3A-Possible-bug-td18540318s22882.html   

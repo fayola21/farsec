@@ -1,0 +1,1 @@
+<title>Issue 36302 -   chromium -    UMA stats for how many people have privacy mode enabled - Project Hosting on Google Code</title> <pre> It would be really good to know how many people have the new privacy enabled   settings.  It'll help us prioritize features and fixes. </pre>

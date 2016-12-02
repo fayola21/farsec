@@ -1,0 +1,1 @@
+Aggregator - The completionFromBatchConsumer option dont aggregate the last incoming exchange    See nabblehttp://camel.465427.n5.nabble.com/Last-Aggregated-Exchange-lost-Aggregator-with-a-Batch-Consumer-and-persistent-AggregationRepository-tp3346214p3346214.html   

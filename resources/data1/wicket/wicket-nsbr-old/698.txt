@@ -1,0 +1,1 @@
+If the model is List  PropertyResolver doesn't try to find fields.       

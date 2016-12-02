@@ -1,0 +1,1 @@
+<title>Issue 752 -   chromium -    Download bar closes when I close the tab - Project Hosting on Google Code</title> <pre> How about keep the download bar always open in the chrome window until I   have downloading and downloaded files in there? </pre>

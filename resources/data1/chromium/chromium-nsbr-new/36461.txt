@@ -1,0 +1,1 @@
+<title>Issue 36461 -   chromium -    Tabs Close on Selection - Project Hosting on Google Code</title>   1.Selecting a tab among the open ones                  <b>Please provide

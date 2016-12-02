@@ -1,0 +1,1 @@
+<title>Issue 29761 -   chromium -    SVG scrollbars - Project Hosting on Google Code</title>   1.Visit URL  2.Depending on screen size  zoom in until text disappears.  3.Attempt to scroll.      Scroll bars allow image-style scrolling.      No scrollbars or ability to scroll.    <b>Please provide

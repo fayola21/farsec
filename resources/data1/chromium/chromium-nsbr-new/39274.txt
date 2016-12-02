@@ -1,0 +1,1 @@
+<title>Issue 39274 -   chromium -    Create a allDownloadsHaveCompleted hook in the automation proxy - Project Hosting on Google Code</title> <pre> I spoke with John today and we need a way to know when all pending downloads are complete for   the download tests.  He said he could add it and I should assign it to him. </pre>

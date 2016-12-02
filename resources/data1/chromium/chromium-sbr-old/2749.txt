@@ -1,0 +1,1 @@
+<title>Issue 2749 -   chromium -    Warn when sending passwords in clear text. - Project Hosting on Google Code</title> <pre> Users should be warned when entering a username/password for basic auth.    As unless you are on HTTPS  the password is sent in the clear over the   network.    Firefox  Safari  IE all warn you about this; chromium does not.     </pre>

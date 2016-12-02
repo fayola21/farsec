@@ -1,0 +1,1 @@
+<title>Issue 21193 -   chromium -    Can't pause the flash plugin - Project Hosting on Google Code</title>   1.Go to youtube.com  2.Open a video  3.Try to pause the video      Expected to pause the video when click on it or click on the pause button?!      Video continues....    <b>Please provide

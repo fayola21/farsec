@@ -1,0 +1,1 @@
+<title>Issue 6954 -   chromium -    Tabs resize weird - Project Hosting on Google Code</title>   1. Open Google Chrome  2. Create  or open a link in a new tab      tab shows at a decent size  and at a resent space from the others      sometimes tabs are really small  and sometimes they are far apart  and   sometimes everything is fine    Please provide

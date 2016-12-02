@@ -1,0 +1,1 @@
+<title>Issue 26094 -   chromium -    Get GL code hacked into O3D renderer=cb  cb_service=gl - Project Hosting on Google Code</title> <pre> Part of GL-based command buffers:    *) Get GL code hacked into O3D renderer=cb  cb_service=gl    This is because that code is already using GL so it initializes GL for me and   because it already sets up a server thread.   </pre>

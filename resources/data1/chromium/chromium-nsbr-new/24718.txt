@@ -1,0 +1,1 @@
+<title>Issue 24718 -   chromium -    window.location.hash includes # on left - Project Hosting on Google Code</title>   1. write a file test.html that includes:  &lt;script   language=&quot;JavaScript&quot;&gt;document.write(window.location.hash);&lt;/script&gt;  and then browse to test.html#hash      the output should be 'hash'      the output is '#hash'    <b>Please provide

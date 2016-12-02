@@ -1,0 +1,1 @@
+<title>Issue 40434 -   chromium -    SIGSEGV after moving tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.368.0 (43430) Ubuntu      1. open more tabs  2. move one of them left/right  3. SIGSEGV </pre>

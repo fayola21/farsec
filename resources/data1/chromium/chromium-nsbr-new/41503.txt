@@ -1,0 +1,1 @@
+<title>Issue 41503 -   chromium -    Symbols are broken for crash reports ?? - Project Hosting on Google Code</title> <pre> Build: 5.0.375.7 (Official Build 44408)  OS: XP    -Go to about:crash    There are no symbols available for the crashes on this build.    Check this:  http://crash/reportdetail?reportid=3cd9a3661d0e6d2e </pre>

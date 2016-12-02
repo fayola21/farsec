@@ -1,0 +1,1 @@
+<title>Issue 21559 -   chromium -    Dangerous Download Dialog unreadable with dark themes - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.207.0      1. Apply a dark theme  2. Download a dmg        Warning dialog should be readable        It's unreadable. </pre>

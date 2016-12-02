@@ -1,0 +1,1 @@
+<title>Issue 3367 -   chromium -    Remember The Milk Enter Key - Project Hosting on Google Code</title>   1. Create New Task  2. Press &quot;S&quot; to add tags  3. Press Enter to save them (FAIL)                Please provide

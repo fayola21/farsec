@@ -1,0 +1,1 @@
+<title>Issue 46083 -   chromium -    CTRL+Click and Shift+Click on Omnibox - Project Hosting on Google Code</title> <pre> Chrome Version       : 6.0.422.0 (Official Build 48573) dev    We can middle click to an item of omnibox to open it in new tab. But we cannot CTRL+Click or Shift+Click to an item of omnibox to open it in new tab or new window. </pre>

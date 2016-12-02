@@ -1,0 +1,1 @@
+<title>Issue 41280 -   chromium -    Disallow overlapping extents - Project Hosting on Google Code</title> <pre> It should be an install-time error to have extensions with overlapping extents. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21526 -   chromium -    Can't attach files in Gmail (&quot;New Version&quot;) with new Chrome beta (though works in &quot;Older Version/View&quot;) - Project Hosting on Google Code</title>   1.click &quot;compose&quot; in gmail &quot;newer version&quot; to start new message  2.try to attach a file  3. attach link is dead                <b>Please provide

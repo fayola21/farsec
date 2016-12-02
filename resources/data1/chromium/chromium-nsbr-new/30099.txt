@@ -1,0 +1,1 @@
+<title>Issue 30099 -   chromium -    add to extensions api the way to prevent closing tab - Project Hosting on Google Code</title> <pre> add to tabs extensions api the way to prevent closing tab  or any way to detect closing last tab and doing some work within script </pre>

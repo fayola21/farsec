@@ -1,0 +1,1 @@
+<title>Issue 37546 -   chromium -    http://www.w3.org/TR/css3-ui/ crashes osx chrome version 5.0.307.11 beta - Project Hosting on Google Code</title> <pre> Summary says it.  all you have to do is navigate to that page  and kaboom    dead tab.    Safari renders the page fine. </pre>

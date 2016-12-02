@@ -1,0 +1,1 @@
+<title>Issue 39653 -   chromium -    Memory leak running WebWorker  no GC? - Project Hosting on Google Code</title>   1. Open attached htm and js file  2. Shift-Esc to Chrome Task Manager      No Memory Increase      Memory continues to increase  occasionally resets after long period of   time. Highest seen 256mb.    <b>Please provide

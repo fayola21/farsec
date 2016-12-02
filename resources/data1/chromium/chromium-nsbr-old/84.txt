@@ -1,0 +1,1 @@
+<title>Issue 84 -   chromium -    RSS or Atom support needed - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.149.27 (1583)             Safari 3: OK      Firefox 3: OK           IE 7: OK      1. Goto a rss-enabled page  2. Try to subscribe the feed  3. You just can't.      Being able to subscribe feeds?      It shows the XML code  unformatted     </pre>

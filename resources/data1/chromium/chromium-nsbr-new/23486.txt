@@ -1,0 +1,1 @@
+<title>Issue 23486 -   chromium -    Mac pixel tests: Selection glow gets clipped - Project Hosting on Google Code</title> <pre> The following pixel tests fail:    LayoutTests/editing/inserting/12882.html </pre>

@@ -1,0 +1,1 @@
+<title>Issue 12032 -   chromium -    Linux: Page and App menu buttons need a pressed state. - Project Hosting on Google Code</title> <pre> We currently only implement the preflight (hover) images  we need the   pressed images that stay pressed while the menu is open.  (At least this   would match what happens on Windows). </pre>

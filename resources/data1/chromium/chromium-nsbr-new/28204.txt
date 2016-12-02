@@ -1,0 +1,1 @@
+<title>Issue 28204 -   chromium -    Http cache may crash when waiting for a sparse entry to be ready. - Project Hosting on Google Code</title> <pre> We don't have the cancel logic in place for   HttpCache::Transaction::entry_ready_callback_ </pre>

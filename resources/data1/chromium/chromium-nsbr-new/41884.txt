@@ -1,0 +1,1 @@
+<title>Issue 41884 -   chromium -    mp3lyrics.org disables copy/paste - Project Hosting on Google Code</title>   1. Goto the website  2. Try and mark some text with the mouse        The text should the highlighted      Text is not high lighted.    <b>Please provide

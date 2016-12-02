@@ -1,0 +1,1 @@
+<title>Issue 41154 -   chromium -    Impossible obtaining Hotmail from Messenger - Project Hosting on Google Code</title>   1.(Chromium being the default browser of course)   On Windows Live Messenger main screen  clicking on the envelop (cf   screenshot)          You should obtain in Chromium a new tab with the Hotmail mailbox      Nothing    <b>Please provide

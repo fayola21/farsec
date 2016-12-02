@@ -1,0 +1,1 @@
+<title>Issue 2637 -   chromium -    Can't change whats selected with shift+arrows - Project Hosting on Google Code</title>   1. Select a part of a word or whatever.  2. Hold the shift-key and press the right-arrow.       The selection will extend one letter to the right.       Nothing.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 6768 -   chromium -    Advertisement is missing - Project Hosting on Google Code</title>   1. Go to <a href="http://infoseek.co.jp/">http://infoseek.co.jp/</a>          On the right side of page  there should be an advertisement displayed.      The advertisement is missing in Chrome. See screen-shot.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 32092 -   chromium -    Would be nice if cmd+number open the nth bookmark in the bookmark bar - Project Hosting on Google Code</title>   1. press cmd+number          The nth bookmark should opened      nothing    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 7629 -   chromium -    Chrome crashes when opening 'about:tabs' manually - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.162.0  URLs (if applicable) : about:tabs      1. Open chrome  2. open a page (for ex. www.google.com)  3. type in the address bar 'about:tabs'      chrome does not crash      chrome crashes </pre>

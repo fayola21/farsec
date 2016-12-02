@@ -1,0 +1,1 @@
+<title>Issue 45309 -   chromium -    Built-in Google Translate does not work in frames - Project Hosting on Google Code</title> <pre>   German -&gt; English    6.0.408.1    Windows 7 Ultimate x64  Ubuntu 10.04 LTS    spaceinvasion.bigpoint.com     </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1641 -   chromium -    Adobe Reader PDF Hangs (Freezes) Chrome - Project Hosting on Google Code</title>   1. Opening any PDF document and then scrolling down          PDF should load next part/page quickly        All Chrome windows/tabs hang/freeze      Please provide

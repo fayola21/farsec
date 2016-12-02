@@ -1,0 +1,1 @@
+<title>Issue 6230 -   chromium -    Can never find update server - Project Hosting on Google Code</title> <pre> Chrome Version       : Ex: 2.0.156.1    1. The update server always shows as unavailable in the About Google Chrome dialogue   </pre>

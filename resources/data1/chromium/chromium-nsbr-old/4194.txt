@@ -1,0 +1,1 @@
+<title>Issue 4194 -   chromium -    Move implementation bits of webkit/glue into webkit/glue/internal - Project Hosting on Google Code</title> <pre> Move implementation bits of webkit/glue into webkit/glue/internal    There is too much confusion over what is implementation and what is   interface.  We should separate them to help make it clearer. </pre>

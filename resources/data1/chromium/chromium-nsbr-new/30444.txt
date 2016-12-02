@@ -1,0 +1,1 @@
+<title>Issue 30444 -   chromium -    channel in about:version - Project Hosting on Google Code</title> <pre> about:version needs to have channel info (beta  dev  stable).  Currently OS-Mac and OS-Windows; not Linux yet.   </pre>

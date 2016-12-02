@@ -1,0 +1,1 @@
+<title>Issue 18334 -   chromium -    PHPMyadmin won't let me logout - Project Hosting on Google Code</title>   1. Login to PHPMyadmin  2. Hit the logout button        Be logged out :)      I stay logged in and have to close all tabs to be able to login using a   different account.    <b>Please provide

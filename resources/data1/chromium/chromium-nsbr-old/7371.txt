@@ -1,0 +1,1 @@
+<title>Issue 7371 -   chromium -    navigation_entry.cc needs a unit test - Project Hosting on Google Code</title> <pre> src/chrome/browser/tab_contents/navigation_entry.cc needs a unit test. </pre>

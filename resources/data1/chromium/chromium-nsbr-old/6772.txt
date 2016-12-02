@@ -1,0 +1,1 @@
+<title>Issue 6772 -   chromium -    Refactor and test AutocompleteEdit and AutocompletePopup - Project Hosting on Google Code</title> <pre> Preliminary splits into models/views are done but the code is uglier than   it was before.  These splits need to be finished and all this code reworked   and tested better.  Plans on my whiteboard. </pre>

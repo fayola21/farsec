@@ -1,0 +1,1 @@
+<title>Issue 44233 -   chromium -    Unpinning a closed pinned tab should remove it - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396.0 dev linux        1. Pin a tab  2. Close it  3. Unpin the tab        The icon of the pinned tab goes away.        The page loads as a new unpinned tab. </pre>

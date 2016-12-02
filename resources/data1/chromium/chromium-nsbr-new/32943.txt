@@ -1,0 +1,1 @@
+<title>Issue 32943 -   chromium -    bg - Bulgarian translation of &quot;Keep XXX as my search provider&quot; does not fit in button - Project Hosting on Google Code</title> <pre>   1.  Install Bulgarian (bg) translation of Chrome.  2.  Observe first-run bubble.  3.  The button's &quot;Keep XXX as my default search&quot; text runs far off the bubble   to the left.   </pre>

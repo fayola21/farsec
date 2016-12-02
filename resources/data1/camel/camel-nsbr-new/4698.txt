@@ -1,0 +1,1 @@
+Scala DSL does not support defining route-scoped error handlers    The Scala DSL does not allow for defining error handlers at the route scope. The 'errorHandler' method only sets the context-scoped error handler.   

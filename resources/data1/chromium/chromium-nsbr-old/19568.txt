@@ -1,0 +1,1 @@
+<title>Issue 19568 -   chromium -    Flash player crashed - Project Hosting on Google Code</title>   1.enable sync  2.notice stating flash crashed  3.restarting Chrome does not resolve the issue      Flash will work      Flash will crash    <b>Please provide

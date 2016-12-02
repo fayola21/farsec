@@ -1,0 +1,1 @@
+<title>Issue 11525 -   chromium -    Linux regression in tab painting - Project Hosting on Google Code</title> <pre> In debug mode  we have the debug seafoam green behind our tabs.    Attached a screenshot </pre>

@@ -1,0 +1,1 @@
+<title>Issue 23231 -   chromium -    Window Border Stays Windows Default in Theme Mode - Project Hosting on Google Code</title>   1.install old chrome version  2.change theme  3.update version of chrome         if theme changed yhe borders of windows must be theme borders        the window borders appears to be Microsoft Windows Default       <b>Please provide

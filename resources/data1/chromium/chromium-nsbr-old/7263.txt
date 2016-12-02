@@ -1,0 +1,1 @@
+<title>Issue 7263 -   chromium -    Zoom factor is not restored in session restore. - Project Hosting on Google Code</title> <pre> See &lt;b/952202&gt;    Repro  #####    -- Switch on session restore in Options dialog.    -- Goto any page and zoom in couple of times using Ctrl+    -- Close and restart Chrome    -- Page is not zoomed-in on restore. </pre>

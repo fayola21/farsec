@@ -1,0 +1,1 @@
+<title>Issue 31043 -   chromium -    Blacklist certain destinations for accidental search infobar - Project Hosting on Google Code</title> <pre> Per evan's email.  Comcast is apparently returning a 302 to a valid page at   *.comcast.com on every one-word query. </pre>

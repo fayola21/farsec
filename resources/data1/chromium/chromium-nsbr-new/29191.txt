@@ -1,0 +1,1 @@
+<title>Issue 29191 -   chromium -    spelling suggestions should be augmented from google.com - Project Hosting on Google Code</title> <pre> When you right-click on a misspelled work it should reach out to google.com   to get spelling suggestions  and if selected  that word should be added to   the local dictionary if it isn't already there. </pre>

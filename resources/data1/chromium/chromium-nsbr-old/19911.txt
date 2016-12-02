@@ -1,0 +1,1 @@
+<title>Issue 19911 -   chromium -    Remove linux splash page before beta release - Project Hosting on Google Code</title>   1. every time i call the browser  it shows me a welcome splash of linux           do not show it          <b>Please provide

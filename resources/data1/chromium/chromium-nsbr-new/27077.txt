@@ -1,0 +1,1 @@
+<title>Issue 27077 -   chromium -    Should request confirmation when closing windows with multiple tabs - Project Hosting on Google Code</title>   1. Have a window with 2 more or more tabs open.  2. Close the window.        Should ask for confirmation.      Just closes the whole window  thereby resulting in loss of work.    <b>Please provide

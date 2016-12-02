@@ -1,0 +1,1 @@
+<title>Issue 6084 -   chromium -    SVG - type-within-image effect not supported  - Project Hosting on Google Code</title> <pre>   Load attached testcase    What is the expected output?   The text is within the star image    What do you see instead?  Text is normal         </pre>

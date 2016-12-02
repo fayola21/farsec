@@ -1,0 +1,1 @@
+<title>Issue 1438 -   chromium -    Box Corners  - Project Hosting on Google Code</title>   1. Load www.googlelunarxprize.org  2. Look at the bottom of boxes with the RSS feeds.          Aligned box borders.        Box borders do not align or resize properly in several cases.    Please provide

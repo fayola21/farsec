@@ -1,0 +1,1 @@
+It is impossible to put # sign in SQL statement in camel-sql    SqlProducer implementation turns all # characters into ? making it impossible to have # in the SQL statement.   

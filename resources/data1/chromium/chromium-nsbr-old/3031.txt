@@ -1,0 +1,1 @@
+<title>Issue 3031 -   chromium -    JSON reader errors on vertical tabs - Project Hosting on Google Code</title> <pre> The writer handles properly escaping v  but the read doesn't. </pre>

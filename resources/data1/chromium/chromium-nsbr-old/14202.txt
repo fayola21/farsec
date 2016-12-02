@@ -1,0 +1,1 @@
+<title>Issue 14202 -   chromium -    Support relative paths when installing external extensions - Project Hosting on Google Code</title> <pre> The installer will drop files into subdirectories from the install directory.   It simplifies things for the installer if we can install external extensions   from paths relative to the install directory (not just absolute paths). </pre>

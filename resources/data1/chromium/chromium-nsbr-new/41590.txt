@@ -1,0 +1,1 @@
+<title>Issue 41590 -   chromium -    Can't display asian fonts - Project Hosting on Google Code</title>   1. Visit with any site that has Asian text. Try Square Enix Japan in Google          Display Asian Fonts.      Just square blocks. But it displays in every other browser I have.    <b>Please provide

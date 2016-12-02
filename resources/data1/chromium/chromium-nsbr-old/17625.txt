@@ -1,0 +1,1 @@
+<title>Issue 17625 -   chromium -    New tab style bookmark bar  - Project Hosting on Google Code</title> <pre> Mentioned in the janklist but I'm not sure what this is.  Find out  then fix.   </pre>

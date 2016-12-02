@@ -1,0 +1,1 @@
+<title>Issue 36081 -   chromium -    simple notifications are unnecessarily large - Project Hosting on Google Code</title> <pre>   1. Create a notification with just a title or just text &quot;You have new mail&quot;.        You get a large balloon with a lot of white space since we use a single  template that has height for an icon.       </pre>

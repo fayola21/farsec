@@ -1,0 +1,1 @@
+<title>Issue 18376 -   chromium -    Chrome can't open files in the &quot;HTML Document&quot; format - Project Hosting on Google Code</title> <pre> Paul saw the following error dialog.  Hopefully he can fill us in as to   which version of chrome he's running (from the about menu item) and the   steps to reproduce.   </pre>

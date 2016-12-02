@@ -1,0 +1,1 @@
+<title>Issue 29459 -   chromium -    Dead renderers spawn zombies in Linux Google Chrome with crash reporting enabled. - Project Hosting on Google Code</title> <pre>   1. Install Linux Google Chrome  2. Enable crash reporting  3. Visit about:crash        Expected: no zombies  Actual: zombies!! </pre>

@@ -1,0 +1,1 @@
+<title>Issue 3774 -   chromium -    Preserve NavigationEntry.referrer across session restore - Project Hosting on Google Code</title> <pre> I am adding a new field to NavigationEntry (referrer)  but have not yet updated the tab restore logic   to consider that field.   </pre>

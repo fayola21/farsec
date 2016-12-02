@@ -1,0 +1,1 @@
+<title>Issue 39468 -   chromium -    Close all tabs - Project Hosting on Google Code</title> <pre> Sometimes by mistake I close all tabs instead of current tab. It should ask   for confirmation to user before closing all tabs like &quot;Do you want to close   all tabs&quot; </pre>

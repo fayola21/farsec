@@ -1,0 +1,1 @@
+<title>Issue 33485 -   chromium -    No More Pin Tab ? - Project Hosting on Google Code</title>   1. open a url  2. right click the tab  3. choose 'pin tab'  4. whoopsy  you can't  there is no pin tab option        I quite wanted to pin a tab  but it is just not possible as far as I can   see.        <b>Please provide

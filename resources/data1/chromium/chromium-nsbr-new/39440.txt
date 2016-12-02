@@ -1,0 +1,1 @@
+<title>Issue 39440 -   chromium -    Multiple proxy authentication dialogs upon restore - Project Hosting on Google Code</title>   1. Crash the browser in some manner with multiple tabs.  2. Open the browser again and select &quot;restore&quot;.  3. Visit each tab      Only one dialog for authentication      Authentication dialog in each tab    <b>Please provide

@@ -1,0 +1,1 @@
+Host component live status is broken    When datanode is stopped on a host  its status keeps jumping.   

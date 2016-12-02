@@ -1,0 +1,1 @@
+<title>Issue 19345 -   chromium -    Delete all entrys not one - Project Hosting on Google Code</title>   1.Open Chrome  2.Goto New Tab tab  3.Close/Delete entry from menu      One selected goes and others stay      All Disappear    <b>Please provide

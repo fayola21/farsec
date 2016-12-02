@@ -1,0 +1,1 @@
+<title>Issue 21748 -   chromium -    Settings dialog too tall on small displays (can't be closed) - Project Hosting on Google Code</title>   1. open dialog for setting            setting can be closed by button CLOSED (or other name  I have Zav��_��_t in   Czech)      button is not avaible because of screen resolution    <b>Please provide

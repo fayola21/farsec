@@ -1,0 +1,1 @@
+Route definitions should use boxed types and lazy evaluate defaults in the getter    When you output a route definition as XML then all the boolean types and whatnot get outputted using their default values.For example inheritErrorHandler=true.This reduces the XML and keeps it much smaller.   

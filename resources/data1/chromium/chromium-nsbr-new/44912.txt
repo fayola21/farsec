@@ -1,0 +1,1 @@
+<title>Issue 44912 -   chromium -    Show toolbar when mouseover app tabs - Project Hosting on Google Code</title> <pre> When the mouse hovers over an app tab for a few moments  the toolbar should slide out. </pre>

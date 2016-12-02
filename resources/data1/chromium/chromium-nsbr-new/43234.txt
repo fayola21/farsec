@@ -1,0 +1,1 @@
+<title>Issue 43234 -   chromium -    Add automation support for listing all running Chrome processes - Project Hosting on Google Code</title> <pre> We want to be able to do the following:    - Open Chrome navigate to Google.com    - Verify we have a browser and renderer process    - Open a new tab and navigate to youtube.com    - Verify we have an additional plugin process </pre>

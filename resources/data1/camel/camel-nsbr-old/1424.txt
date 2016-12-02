@@ -1,0 +1,1 @@
+Bean component - improve method selection logic for overloaded methods    If end users have overloaded methods with different types as method parameter Camel should try to find the method with exact type match from the payload.See nabble:http://www.nabble.com/Is-it-possible-to-overload-a-bean-method--td22338316s22882.html   

@@ -1,0 +1,1 @@
+<title>Issue 42392 -   chromium -    Awfull starting time - Project Hosting on Google Code</title>   1.Start chrome          Fast starting      Very long starting time and cpu crunching    <b>Please provide

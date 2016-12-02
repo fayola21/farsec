@@ -1,0 +1,1 @@
+Nagios doesn't start after upgrade [SLES11  1.3.2->2.0.6]    check_cpu needs to be disabled for Suse for JobHistory server and ResourceManager   

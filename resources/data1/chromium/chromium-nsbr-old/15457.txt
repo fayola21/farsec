@@ -1,0 +1,1 @@
+<title>Issue 15457 -   chromium -    URLs delivered as tips to NTP should be validated. - Project Hosting on Google Code</title> <pre> Ensure that any link from a tip service displayed in the NTP starts with   &quot;http:// or &quot;https://   </pre>

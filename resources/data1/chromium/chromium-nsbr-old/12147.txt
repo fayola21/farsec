@@ -1,0 +1,1 @@
+<title>Issue 12147 -   chromium -    Linux: find bar got super wide - Project Hosting on Google Code</title> <pre> Find bar is much wider than it used to be.  Not sure if this was   intentional  but it looks like worse...  Probably a regression? </pre>

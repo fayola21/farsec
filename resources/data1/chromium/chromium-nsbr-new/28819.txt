@@ -1,0 +1,1 @@
+<title>Issue 28819 -   chromium -    Create a presubmit check for source tree size - Project Hosting on Google Code</title> <pre> We recently had a regression in which pulling in a new nacl rev brought in   large binaries. This is bad for git users and can break the bots.  A presubmit check could prevent this in the future.   </pre>

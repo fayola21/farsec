@@ -1,0 +1,1 @@
+<title>Issue 13155 -   chromium -    Dragging and dropping URLs to or from the browser is not implemented - Project Hosting on Google Code</title> <pre> Tracking bug for the Mac OS known issue:  Dragging and dropping URLs to or from the browser is not implemented. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 41198 -   chromium -    Flash Canvas Size - Project Hosting on Google Code</title>   1. Navigate to maps.google.com  2. Start street view        The street view window should occupy the entire provided space.        The street view window occupies only the top left 3/4 of the provided   space.      <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 10892 -   chromium -    Unfork InspectorController - Project Hosting on Google Code</title> <pre> InspectorController still has JSC guards. These need to be removed. </pre>

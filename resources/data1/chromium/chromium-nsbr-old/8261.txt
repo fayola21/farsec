@@ -1,0 +1,1 @@
+<title>Issue 8261 -   chromium -    Windows Taskbar appears on top when chrome is in Full Screen Mode. - Project Hosting on Google Code</title>   1. Press F11 to open in Full Screen mode.        Chrome full screen should cover the whole screen      Windows Taskbar appears on top of chrome.    Please provide

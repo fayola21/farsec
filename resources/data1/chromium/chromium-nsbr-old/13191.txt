@@ -1,0 +1,1 @@
+<title>Issue 13191 -   chromium -    SharePoint Workflow Forms Will Not Display in InfoPath - Project Hosting on Google Code</title>   1. Navigate to a SharePoint form          Microsoft InfoPath should open when the form link is clicked.      Chrome displays the data from the XML stream intended for InfoPath.    <b>Please provide

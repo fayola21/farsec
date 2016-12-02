@@ -1,0 +1,1 @@
+<title>Issue 20177 -   chromium -    cursor style not supported on AREA element - Project Hosting on Google Code</title>   1. Load the HTML code below.  2. Move the mouse to hover above the marker        The cursor becomes the help cursor.        The cursor becomes the pointer cursor.    <b>Please provide

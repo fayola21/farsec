@@ -1,0 +1,1 @@
+<title>Issue 33290 -   chromium -    User can no more block a pop-up - Project Hosting on Google Code</title> <pre> Build: 5.0.306.0    There is no option to enable/disable blocking of pop-up's    Previously  there was an option 'Notify me when a pop-up is blocked' under   Options/Under the hood/. I don't see it any  more.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 22099 -   chromium -    Implement browser action buttons - Project Hosting on Google Code</title> <pre> Glen has mocked up a prototype of a new idea for extensions that we want to   try out. See attached mocks.   </pre>

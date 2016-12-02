@@ -1,0 +1,1 @@
+<title>Issue 39104 -   chromium -    REGRESSION: Native dialogs got extended. - Project Hosting on Google Code</title> <pre> ToT(r 42375  XP.    Few native dlgs (about chromium  Create Application shortcuts dlgs) got extended ugly. -- See screenshot. </pre>

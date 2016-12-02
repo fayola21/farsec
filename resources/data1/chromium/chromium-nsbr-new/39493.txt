@@ -1,0 +1,1 @@
+<title>Issue 39493 -   chromium -    AutoFill localization of strings - Project Hosting on Google Code</title> <pre>   1. Notice that AutoFill is localized to English only.        Expect localized version of AutoFill in non-English languages.   </pre>

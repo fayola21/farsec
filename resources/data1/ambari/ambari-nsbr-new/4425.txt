@@ -1,0 +1,1 @@
+Add upgradestack support for MySQL    Similar to Oracle/Postgres we need to make sure that ambari-server upgradestack works for MySQL   

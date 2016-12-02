@@ -1,0 +1,1 @@
+<title>Issue 16736 -   chromium -    Video doesn't work on nightly Mac Chromium builds - Project Hosting on Google Code</title> <pre> Although the FFmpeg binaries are packaged with the builds  &lt;audio&gt; and   &lt;video&gt; remain disabled.   </pre>

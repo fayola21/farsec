@@ -1,0 +1,1 @@
+<title>Issue 21861 -   chromium -    localhost/phpmyadmin login problem - Project Hosting on Google Code</title>   1. AppServ 2.5.9 Installed  2. visit http://localhost/phpmyadmin/  3. chrome requires Username &amp; Password twice      login by providing username &amp; password once      required username &amp; password twice    <b>Please provide

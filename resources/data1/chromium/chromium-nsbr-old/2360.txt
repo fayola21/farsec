@@ -1,0 +1,1 @@
+<title>Issue 2360 -   chromium -    Bookmarks vanished - Project Hosting on Google Code</title>   1. I updated from the beta build to the dev build  and after restart all   bookmarks are gone.  2. I am also unable to add any new ones.                  Please provide

@@ -1,0 +1,1 @@
+<title>Issue 27411 -   chromium -    Streaming quotes not supported on Yahoo finance portfolios  - Project Hosting on Google Code</title>   1.Login to Yahoo/finance/prtfolios  2.Streaming quotes button is not displayed  3.Portfolio display does not stream    What is the expected result? Portfolios display will change as transactions  are logged            <b>Please provide

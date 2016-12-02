@@ -1,0 +1,1 @@
+<title>Issue 23546 -   chromium -    URDU as language in GOOGLE Translate - Project Hosting on Google Code</title> <pre>                     We all know that Pakistan is the 6th most populous country in the world  with Urdu as their main language  then why are the google translate don't  have URDU as language in its languages.     </pre>

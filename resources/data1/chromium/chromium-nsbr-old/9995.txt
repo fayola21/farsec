@@ -1,0 +1,1 @@
+<title>Issue 9995 -   chromium -    Increase resolution of chrome icon - Project Hosting on Google Code</title>   1. Change size of Google Chrome icon (e.g.: Desktop Shortcut) to a very   high value (Windows Vista: Ctrl+Scroll)      Icon should become bigger      It remains small due to the low resolution     <b>Please provide

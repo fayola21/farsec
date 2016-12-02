@@ -1,0 +1,1 @@
+JMX Instrumentation - check for already registered before registering    Camel does not check for already registered mbeans. There can be shared endpoints in the camel routes etc.We used to have an instance count and everything but at the end a jms endpoint such as 'activemq:topic:orders' can be reused in several routes and we should in fact only register it once.   

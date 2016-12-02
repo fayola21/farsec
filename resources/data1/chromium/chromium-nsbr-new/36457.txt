@@ -1,0 +1,1 @@
+<title>Issue 36457 -   chromium -    Bookmark manager i18n direction and font - Project Hosting on Google Code</title> <pre> Like other DOMUI we need to pass the direction and the font to the page. </pre>

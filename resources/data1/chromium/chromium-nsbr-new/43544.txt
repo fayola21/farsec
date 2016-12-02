@@ -1,0 +1,1 @@
+<title>Issue 43544 -   chromium -    Sortings on FTP and local file browser - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.396.0 (Official Build 46416) dev    I can't sort files by Date Modified  Size or Name in FTP or local file   browser. </pre>

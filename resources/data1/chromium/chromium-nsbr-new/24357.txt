@@ -1,0 +1,1 @@
+<title>Issue 24357 -   chromium -    data: URIs don't work for audio tag - Project Hosting on Google Code</title> <pre> apparently a data: uri is valid in &lt;audio&gt; tags for safari  but not chrome.  We should be compatible with Safari here. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 32126 -   chromium -    Can not install themes on chromium Mac build - Project Hosting on Google Code</title>   1. Go to theme page.  2. Click on any theme.  3. Wait forever.          Theme installs.         Download bar at bottom of screen just shows &quot;Starting...&quot; forever.    <b>Please provide

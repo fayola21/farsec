@@ -1,0 +1,1 @@
+<title>Issue 33585 -   chromium -    Printing USPS labels from PayPal website - Project Hosting on Google Code</title>   1. login to paypal  2. ship item; purchase label  3. go to print; prints out sample label      should print out normal label      prints out sample label with large red lettering &quot;SAMPLE&quot;    <b>Please provide

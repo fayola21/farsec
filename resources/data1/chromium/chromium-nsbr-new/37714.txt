@@ -1,0 +1,1 @@
+<title>Issue 37714 -   chromium -    Download bar flashes  then extension fails to load - Project Hosting on Google Code</title> <pre> Two people have reported a problem (cira and kkania) on the Mac where they   try to install an extension and the download bar opens briefly then closes   and the extension isn't installed.     Cira is looking into it a fix. </pre>

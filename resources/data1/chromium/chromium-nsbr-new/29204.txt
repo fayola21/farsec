@@ -1,0 +1,1 @@
+<title>Issue 29204 -   chromium -    Turn off sync/extensions promo line for linux  but leave puzzle piece - Project Hosting on Google Code</title> <pre> Because sync will not be available in linux  the promotional message should   be turned off for now.  However  puzzle piece will remain to advertise   availability of extensions.   </pre>

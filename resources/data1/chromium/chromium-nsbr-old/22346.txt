@@ -1,0 +1,1 @@
+<title>Issue 22346 -   chromium -    Bug (cant acces some forums) - Project Hosting on Google Code</title>   1. Cant acces some forums for example this one http://forum.celestial-  wars.com/  2. If i try with others browsers it will work                   <b>Please provide

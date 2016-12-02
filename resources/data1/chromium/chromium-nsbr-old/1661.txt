@@ -1,0 +1,1 @@
+<title>Issue 1661 -   chromium -    Bug in session isolation - Project Hosting on Google Code</title>   1. Login into gmail account  2. Open another tab  3. Login into another gmail account      The sessions should be isolated the same way the process threads are.        The first tab looses the session. So the first account is signed out.    Please provide

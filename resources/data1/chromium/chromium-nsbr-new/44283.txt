@@ -1,0 +1,1 @@
+<title>Issue 44283 -   chromium -    No option to choose download location - Project Hosting on Google Code</title> <pre> Chrome Version 5.0.375.38 beta        Windows Vista Home Premium; notice  no option of where to save files. </pre>

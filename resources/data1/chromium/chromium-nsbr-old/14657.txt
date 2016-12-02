@@ -1,0 +1,1 @@
+<title>Issue 14657 -   chromium -    After version upgrade  all pending logs should be discarded - Project Hosting on Google Code</title> <pre> We already discard all stability stats (from the old version)  and  we should also discard any accumulated logs (relating to the old  version). </pre>

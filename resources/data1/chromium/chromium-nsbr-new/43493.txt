@@ -1,0 +1,1 @@
+<title>Issue 43493 -   chromium -    Segmentation Fault when installing an Extension - Project Hosting on Google Code</title>   1. Click on Wrench  2. Click on Extensions  3. Search and install any extension.        Extension installed        Segmentation Fault    <b>Please provide

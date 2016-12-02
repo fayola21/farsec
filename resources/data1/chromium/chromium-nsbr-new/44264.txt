@@ -1,0 +1,1 @@
+<title>Issue 44264 -   chromium -    Can not get the latest pages from www.bmjk.se when using Chrome. It is working with IE - Project Hosting on Google Code</title>   1.I change the contents on www.bmjk.se  2. I press reload on Chrome - No change  on IE I see the change        Reload does not wort on this page        Nothing  the same old page      <b>Please provide

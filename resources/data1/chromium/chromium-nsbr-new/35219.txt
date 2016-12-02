@@ -1,0 +1,1 @@
+<title>Issue 35219 -   chromium -    Fnd box regression: Pressing enter key does not move to the next result - Project Hosting on Google Code</title> <pre> Happens on ToT.    1. Navigate to a page.  2. Press ctrl-f.  3. Enter a find query with more than one result.  4. Press enter.    The next result should be highlighted  but pressing enter does nothing. </pre>

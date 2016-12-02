@@ -1,0 +1,1 @@
+<title>Issue 4647 -   chromium -    wishlist - Project Hosting on Google Code</title> <pre> there is not &quot;HOME&quot; button like in IE or Mozilla Firefox  And it is kind of usefull </pre>

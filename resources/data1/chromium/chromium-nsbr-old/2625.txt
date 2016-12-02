@@ -1,0 +1,1 @@
+<title>Issue 2625 -   chromium -    Saving Multiple web pages as multiple bookmarks - Project Hosting on Google Code</title>   1. No option for saving multiple web pages as multiple bookmark with one   click.                    Please provide

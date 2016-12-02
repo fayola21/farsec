@@ -1,0 +1,1 @@
+<title>Issue 28130 -   chromium -    auto-spell-correct tag not working anymore - Project Hosting on Google Code</title>   1. Use the --auto-spell-correct tag            Should automatically correct words like teh  goign  beign etc.        Nothing  apart from they are underlined in red    <b>Please provide

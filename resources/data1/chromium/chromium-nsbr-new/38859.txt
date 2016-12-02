@@ -1,0 +1,1 @@
+<title>Issue 38859 -   chromium -    [1964:2680:221805937:ERROR:backend_impl.cc(916)] Critical error found -8 - Project Hosting on Google Code</title> <pre> buildbot version chrome.exe --show logging in a virtualized mode    [1964:2680:221805937:ERROR:backend_impl.cc(916)] Critical error found -8 </pre>

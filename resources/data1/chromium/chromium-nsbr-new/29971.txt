@@ -1,0 +1,1 @@
+<title>Issue 29971 -   chromium -    RTL: The Extensions popups are apeear outside the screen in  - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.249.25&gt;    When I am using the Hebrew version of Google Chrome   The popup of extensions (Like SideWiki) are shown in the outside the left of   the window. (See the screenshot) </pre>

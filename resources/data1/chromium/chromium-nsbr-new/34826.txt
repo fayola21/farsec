@@ -1,0 +1,1 @@
+<title>Issue 34826 -   chromium -    Notification UI polish - Project Hosting on Google Code</title> <pre> Tracking bug for notification UI polish items:    -shadow around frames  -glow on hover   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 313 -   chromium -    Labels dont fix to buttons - Project Hosting on Google Code</title> <pre> With Turkish translation  some labels dont fit into buttons. A sample   screenshot is in attachment. </pre>

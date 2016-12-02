@@ -1,0 +1,1 @@
+<title>Issue 7720 -   chromium -    gcl missing-test check should ignore third_party - Project Hosting on Google Code</title> <pre> The new gcl check for missing unit tests should ignore files in   third_party.    Not a very high priority  although it does slow down merges a bit by making   'gcl change' examine a large patch unnecessarily. </pre>

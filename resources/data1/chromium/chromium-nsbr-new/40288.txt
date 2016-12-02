@@ -1,0 +1,1 @@
+<title>Issue 40288 -   chromium -    Preferences service should send notifications when dictionary and list prefs and changed - Project Hosting on Google Code</title> <pre> This is needed so we know when to sync dictionary and list typed   preferences.   </pre>

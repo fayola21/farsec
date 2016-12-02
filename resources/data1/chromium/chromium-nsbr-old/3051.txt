@@ -1,0 +1,1 @@
+<title>Issue 3051 -   chromium -    REGRESSION: 3% perf regression in startup tests after the merge - Project Hosting on Google Code</title> <pre> After landing the webkit merge (<a href="/p/chromium/source/detail?r=2778">r2778</a>)  startup tests regressed 6%. </pre>

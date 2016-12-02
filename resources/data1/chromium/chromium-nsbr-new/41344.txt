@@ -1,0 +1,1 @@
+<title>Issue 41344 -   chromium -    Crash using Gmail Chat - Project Hosting on Google Code</title>   1. Open Gmail Chat  2. Chatting with maybe random length  3. Crash.    After crash  the os generated a crash report  here is the dump file of it.  I don't know if sending to apple would help much  so I am sending it to  chromemac dev.                <b>Please provide

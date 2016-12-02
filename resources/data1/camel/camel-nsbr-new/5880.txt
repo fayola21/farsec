@@ -1,0 +1,1 @@
+camel-quickfix: QuickfixjEndpoint should adhere the InOut exchange pattern if you would ask for this MEP    See http://camel.465427.n5.nabble.com/camel-quickfix-RequestReplyExample-java-io-IOException-td5723769.html   

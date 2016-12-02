@@ -1,0 +1,1 @@
+<title>Issue 9366 -   chromium -    Profile options don't appear in chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;2.0.171.0&gt;        Can��t create new profile in chrome      The options look exactly the same as in the previous version (1. something)          I have a theme instaled in chrome (replaced the original default.dll </pre>

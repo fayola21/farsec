@@ -1,0 +1,1 @@
+<title>Issue 33847 -   chromium -    Drag and drop extension icons - Project Hosting on Google Code</title> <pre> Some extensions add icons next to address bar. These icons should be user   adjustable similar to how tabs can be rearranged. </pre>

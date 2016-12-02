@@ -1,0 +1,1 @@
+<title>Issue 38984 -   chromium -    Black line next to address bar (pic included) - Project Hosting on Google Code</title>   1. Open Chrome.      No line.      Black line shows.    <b>Please provide

@@ -1,0 +1,1 @@
+Intermittent test failure with HBase port Scanner test.    This test fails sometimes and is not very reliable.   

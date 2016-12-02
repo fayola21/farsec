@@ -1,0 +1,1 @@
+<title>Issue 40137 -   chromium -    Security: XSS in net-internals - Project Hosting on Google Code</title> <pre> chrome://net-internals/view-cache/#&lt;script&gt;alert(chrome)&lt;/script&gt;    (This was found by swiecki@) </pre>

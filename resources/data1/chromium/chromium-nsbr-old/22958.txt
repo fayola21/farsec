@@ -1,0 +1,1 @@
+<title>Issue 22958 -   chromium -    star/go buttons clash with ssl and dark themes - Project Hosting on Google Code</title> <pre> go to https://something with the GTK theme + high contrast inverse. You can   barely see the go/star buttons. </pre>

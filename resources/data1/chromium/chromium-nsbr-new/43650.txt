@@ -1,0 +1,1 @@
+<title>Issue 43650 -   chromium -    Outlook 2010 email hyperlink crashes Chrome if not running - Project Hosting on Google Code</title>   1. Chrome as default browser  2. Chrome not runing  3. Click on web hyperlink in Outlook email      Link to open in chrome      Chrome opens blank with crash message for every extension      <b>Please provide

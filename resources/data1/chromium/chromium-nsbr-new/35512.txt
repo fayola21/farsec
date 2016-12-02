@@ -1,0 +1,1 @@
+<title>Issue 35512 -   chromium -    Flash-Movie White Flickering - Project Hosting on Google Code</title>   1. got to www.reeve-redman.com  2. click on collections &gt; fall winter  3. Flicker before flash loads      No more white flickering      No Flickering at all    <b>Please provide

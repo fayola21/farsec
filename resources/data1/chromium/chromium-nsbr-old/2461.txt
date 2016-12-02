@@ -1,0 +1,1 @@
+<title>Issue 2461 -   chromium -    No drop-down menu button in Apps - Project Hosting on Google Code</title> <pre> -Install google internet email a/c as application shortcut.    Notice you don't find the Menu drop-down button in App's title bar.    -See the attached screenshot.    </pre>

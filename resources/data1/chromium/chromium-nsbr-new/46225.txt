@@ -1,0 +1,1 @@
+<title>Issue 46225 -   chromium -    Object-toString returns wrong value for functions - Project Hosting on Google Code</title>   1. Open about:blank  2. Open Javascript Console  3. Run &quot;alert(Object.prototype.toString.call(function(){}))&quot;      The alert should show &quot;[object Function]&quot;      The alert shows &quot;[object Object]&quot;    <b>Please provide

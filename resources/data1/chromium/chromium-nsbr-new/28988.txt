@@ -1,0 +1,1 @@
+<title>Issue 28988 -   chromium -    Command-K and Command-Opt-F should focus search box and insert &quot;? &quot; - Project Hosting on Google Code</title> <pre> command K for backwards compatibility reasons (Windows does this for   Control K) and command-opt-f for compatibility with safari </pre>

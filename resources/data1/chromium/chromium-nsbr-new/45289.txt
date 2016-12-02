@@ -1,0 +1,1 @@
+<title>Issue 45289 -   chromium -    [pepper] registered ppapi plugins should appear in about:plugins - Project Hosting on Google Code</title> <pre> [pepper] registered ppapi plugins should appear in about:plugins </pre>

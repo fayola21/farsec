@@ -1,0 +1,1 @@
+SQL component will not look for parameters in header when no body in message    Line 60 in SqlProducer checks if the body is null. This will cause any parameters in header fields not to be populated into the prepared statement. Sample scenario is with a camel-jetty enriching a response using camel-sql.   

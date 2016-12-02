@@ -1,0 +1,1 @@
+<title>Issue 38139 -   chromium -    Blemish upper right above omnibar - Project Hosting on Google Code</title> <pre> Chrome Version       : 5.0.351.0 (41259)          There seems to be a small vertical bar/blemish just above the omnibar far   right.    Not present in previous build 5.0.347.0 (40840)    2 pics attached Window maximized/minimized </pre>

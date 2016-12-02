@@ -1,0 +1,1 @@
+<title>Issue 17776 -   chromium -    @font-face doent work - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.193.2  URLs (if applicable) : www.trouvepac.ca           Safari 4: OK      Firefox 3.x: OK           IE 7: OK           IE 8: OK    the @font-face doent work.                      </pre>

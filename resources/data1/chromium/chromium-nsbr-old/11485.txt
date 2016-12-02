@@ -1,0 +1,1 @@
+<title>Issue 11485 -   chromium -    Memory leak and sometimes constant 5% CPU use (Wired.com) - Project Hosting on Google Code</title>   1. enable AdSweep  2. load the page      constant memory use      always growing memory use  sometimes constant 5% CPU use - though I don't know how to reproduce that   part reliably    <b>Please provide

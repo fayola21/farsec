@@ -1,0 +1,1 @@
+<title>Issue 39308 -   chromium -    Drag-drop to textboxes - with Ctrl for copy - Project Hosting on Google Code</title> <pre> May I have the function that  when I drag-drop with Ctrl pressed  it make a   copy instead of moving... So that we don't need to &quot;Copy &amp; Paste&quot;. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 21376 -   chromium -    Regression: can't paste cyrillic text into gmail only - Project Hosting on Google Code</title>   1. Get cyrillic text like &quot;��_��__��_��_��_��_��_ ��_��__��_��_��_��_��_ ��_��__��__��_ _��____��_ ��_���_��_&quot;  2. paste into gmail compozer  3. text gets mangled      text does not get mangled      <b>Please provide

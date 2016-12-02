@@ -1,0 +1,1 @@
+<title>Issue 6335 -   chromium -    &quot;Download locations&quot; ignored - Project Hosting on Google Code</title>               Downloads to go to the requested folder        Downloads go to the default folder of C:Users[OWNER]AppDataLocalChromiumApplication2.0.157.0    Also  the UI looks weird (see attachment below).    Please provide

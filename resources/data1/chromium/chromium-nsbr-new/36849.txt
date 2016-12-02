@@ -1,0 +1,1 @@
+<title>Issue 36849 -   chromium -    Ogg videos no longer seek - Project Hosting on Google Code</title> <pre> Confirmed related to FFmpeg source update.    I believe hclam had a patch that fixed this.    Will use this as a reminder and for other users to recognize it's a known   issue. </pre>

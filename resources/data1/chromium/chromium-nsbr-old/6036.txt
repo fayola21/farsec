@@ -1,0 +1,1 @@
+<title>Issue 6036 -   chromium -    The installer encountered error 103. - Project Hosting on Google Code</title>   -- Run installer      -- Install chrome      -- Connecting to the internet  Downloading Google Chrome (for a minute or  so)  The installer encountered error 103.      Please provide

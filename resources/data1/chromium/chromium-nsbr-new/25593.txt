@@ -1,0 +1,1 @@
+<title>Issue 25593 -   chromium -    Mac preferences should have even spacing and better icons - Project Hosting on Google Code</title> <pre> Cole has a mock for mac pref window that has slimline toolbar buttons. We   should do that. </pre>

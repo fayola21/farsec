@@ -1,0 +1,1 @@
+<title>Issue 34605 -   chromium -    Chromium page program frez - Project Hosting on Google Code</title> <pre> Chrome Version       : Chromium        1.select an icon from the Applications tab to make it blue      What happens ?  The tab of application freez and you can't do nothing.     </pre>

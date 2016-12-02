@@ -1,0 +1,1 @@
+<title>Issue 7732 -   chromium -    mini_installer.exe no longer works - Project Hosting on Google Code</title>   1. download mini_installer.exe  2. run it  3. notice how it doesn't install anything      The latest rev of chromium to be installed.      Nothing.  Silent exit  without installation.    Please provide

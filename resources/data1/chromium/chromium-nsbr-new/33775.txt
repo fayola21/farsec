@@ -1,0 +1,1 @@
+<title>Issue 33775 -   chromium -    Bug on DevTools... - Project Hosting on Google Code</title> <pre> Notei esse erro de HighlightSyntax apos a inser��__��_��_o das abas (header|content)   em ResourcesTab... </pre>

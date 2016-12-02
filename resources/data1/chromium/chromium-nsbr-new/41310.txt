@@ -1,0 +1,1 @@
+<title>Issue 41310 -   chromium -    Drag'n drop not working in tabbed bookmark-manager - Project Hosting on Google Code</title>   1. open the bookmarmanager  2. drag a bookmark to another position or folder  3. flies back and nothing happens                <b>Please provide

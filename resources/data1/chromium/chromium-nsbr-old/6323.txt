@@ -1,0 +1,1 @@
+<title>Issue 6323 -   chromium -    Remove HttpTransactionWinHttp and --winhttp - Project Hosting on Google Code</title> <pre> We have just shipped 2.0.156.1 on the (new) Dev channel.  It is time to remove HttpTransactionWinHttp and the  --winhttp command-line switch. </pre>

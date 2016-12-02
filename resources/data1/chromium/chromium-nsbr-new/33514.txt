@@ -1,0 +1,1 @@
+<title>Issue 33514 -   chromium -    Pin tab option lost with newest version. - Project Hosting on Google Code</title>   1.Right click on a tab.          Option to pin tab      No option to pin tab.    <b>Please provide

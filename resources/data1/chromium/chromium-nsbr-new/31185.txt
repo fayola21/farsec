@@ -1,0 +1,1 @@
+<title>Issue 31185 -   chromium -    Address bar vanishes. Page content not completely viewable. - Project Hosting on Google Code</title>   1.Goto www.imdb.com  2.Goto some link in the site.      Complete page content viewable and scrollable.      Address bar vanishes. Content not scrollable.    <b>Please provide

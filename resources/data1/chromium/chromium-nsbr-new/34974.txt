@@ -1,0 +1,1 @@
+<title>Issue 34974 -   chromium -    RenderViewTest unittests failing after webkit roll to r54475 - Project Hosting on Google Code</title> <pre> These tests started failing on windows.    TEST_F(RenderViewTest  OnSetTextDirection) {  TEST_F(RenderViewTest  InsertCharacters) {    I'm disabling for now and will investigate offline. </pre>

@@ -1,0 +1,1 @@
+IOConverter.toInputStream opens a BufferReader which will never be closed    If called with a non-null charset IOConvert.toInputStream returns a InputStream which will never close the opened BufferedReader.   

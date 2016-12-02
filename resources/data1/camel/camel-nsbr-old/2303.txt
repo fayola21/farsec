@@ -1,0 +1,1 @@
+GroupedExchange in Aggregator is not working correctly    See nabblehttp://old.nabble.com/Help%21-org.apache.camel.impl.GroupedExchange-does-not-exist-in-the-latest-download-ts26841584.html   

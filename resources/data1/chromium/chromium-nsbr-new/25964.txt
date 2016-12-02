@@ -1,0 +1,1 @@
+<title>Issue 25964 -   chromium -    Plugins crashes aren't caught - Project Hosting on Google Code</title> <pre> &quot;Plugins weren't 100% working when we wrote the crash reporting code.&quot; </pre>

@@ -1,0 +1,1 @@
+<title>Issue 25735 -   chromium -    Chrome consistently crashes upon clicking a link - Project Hosting on Google Code</title>   1. click on a link on facebook  twitter  gmail (maybe all sites that use ajax)      Navigates to the link.      The browser crashes.    <b>Please provide

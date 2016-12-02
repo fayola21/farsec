@@ -1,0 +1,1 @@
+<title>Issue 45838 -   chromium -    Chromium doesn't remember login - Project Hosting on Google Code</title>   1. Go to any site and login with the box &quot;keep me logged in&quot; or &quot;remember   me&quot; checked.  2. Restart browser  3. Go to that same site again      Still being logged in      I'm not logged in    <b>Please provide

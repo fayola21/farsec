@@ -1,0 +1,1 @@
+<title>Issue 34653 -   chromium -    Show alert telling user to restart when they enable metrics recording - Project Hosting on Google Code</title> <pre> Title says it all. Windows shows an alert  we currently do not.    Good first bug. </pre>

@@ -1,0 +1,1 @@
+<title>Issue 44212 -   chromium -    chrome_launcher.exe often hangs for 60 seconds at exit - Project Hosting on Google Code</title> <pre> chrome_launcher.exe often hangs for 60 seconds at exit while shutting down   breakpad </pre>

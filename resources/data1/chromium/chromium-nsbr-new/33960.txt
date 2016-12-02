@@ -1,0 +1,1 @@
+<title>Issue 33960 -   chromium -    Implement plain text paste for Mac - Project Hosting on Google Code</title> <pre> On Windows and Linux  control + shift + v performs a plain text paste (as  opposed to rich text paste).  Mac should have an equivalent. </pre>

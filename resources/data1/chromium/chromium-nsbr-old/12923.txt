@@ -1,0 +1,1 @@
+<title>Issue 12923 -   chromium -    Text file opening wrong - Project Hosting on Google Code</title>   1. Go to the website. It should open a simple text page. It tries to play   it as a media file.          Simple text page      Tries to open as a media file    <b>Please provide

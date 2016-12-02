@@ -1,0 +1,1 @@
+camel-mail - extracting mails with headers using multi values inserts duplicates    Sending a message with headers that contains 2 values such a String[] with 2 values will result on the other side when consuming that mail message to contain a header with 2 entries. There should only be 1 entry with the 2 values.   

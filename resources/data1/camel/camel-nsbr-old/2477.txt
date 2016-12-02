@@ -1,0 +1,1 @@
+Camel Freemarker: change the case of all fields properties Header    Using the Freemarker component doesn't respect the case matching of all fields of the header.For example: the exchange of properties CorrelationID change the case matching  after using Freemarker component  it puts the property in lowercase correlationid.   

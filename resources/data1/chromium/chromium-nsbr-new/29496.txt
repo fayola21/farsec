@@ -1,0 +1,1 @@
+<title>Issue 29496 -   chromium -    Mac: draggings URLs to tab strip is ugly - Project Hosting on Google Code</title> <pre> You get this ugly arrow thing. We should animate stuff and make it look nice.   (Never mind the fact that Win/Chrome also only has an ugly arrow.) </pre>

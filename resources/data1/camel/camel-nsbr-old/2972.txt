@@ -1,0 +1,1 @@
+onException not working correctly when using routeContext    When using a routeContext  the last (in the xml-file) defined route-scoped &lt;onException&gt; configuration is shared by the other routes in the context.http://camel.465427.n5.nabble.com/possible-onException-bug-when-using-routeContext-td1616244.html#a1616244   

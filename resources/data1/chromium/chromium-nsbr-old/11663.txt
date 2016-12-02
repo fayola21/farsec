@@ -1,0 +1,1 @@
+<title>Issue 11663 -   chromium -    I'm Feeling Lucky keyboard shortcut - Project Hosting on Google Code</title> <pre> It would be nice if there was a keyboard shortcut so the multibar took you   directly to the top result on Google instead of having to go through the   search page. I suggest SHIFT-Return or AltGr-return. </pre>

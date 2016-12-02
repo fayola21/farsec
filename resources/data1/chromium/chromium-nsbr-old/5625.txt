@@ -1,0 +1,1 @@
+<title>Issue 5625 -   chromium -    paste url to new tab - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.36             Safari 3: no      Firefox 3: addon           IE 7: no      1. Need to open new tab  2. and oly then paste URL        paste and go <a href="http://pasteandgo2.mozdev.org/">http://pasteandgo2.mozdev.org/</a>       </pre>

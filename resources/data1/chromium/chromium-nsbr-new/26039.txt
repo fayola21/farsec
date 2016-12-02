@@ -1,0 +1,1 @@
+<title>Issue 26039 -   chromium -    Show download speed - Project Hosting on Google Code</title> <pre> I hope the download speed(such as 1M/s) can also be shown on the bar. Thanks. </pre>

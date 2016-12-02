@@ -1,0 +1,1 @@
+ResourceManager's RPC and NodeManager counts missing from time-series    ResourceManager's rpc.rpc.RpcQueueTimeAvgTime and yarn.ClusterMetrics.NumActiveNMs are not being provided accurately due to changes introduced in AMBARI-2910 to YARN configuration to collect more metrics.We need to narrow down the scope of metric collection to keep getting these previous metrics.   

@@ -1,0 +1,1 @@
+PageRequestHandlerTracker doesn't track resolves of handlers caused by Exception    PageRequestHandlerTracker should implement #onExceptionRequestHandlerResolved()   

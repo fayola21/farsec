@@ -1,0 +1,1 @@
+<title>Issue 38161 -   chromium -    New window bug - Project Hosting on Google Code</title>   1. Open Google Chrome  2. Open some page and be there 15-20 min  3. Open new window in Chrome (+)        Then I must wait some time (2-5 min.). Then is Chrome like &quot;Not   Responding&quot;. Then I must open other browser (IE 8). And there it works.          <b>Please provide

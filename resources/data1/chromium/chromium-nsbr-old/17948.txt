@@ -1,0 +1,1 @@
+<title>Issue 17948 -   chromium -    [buildbot] Specify the tests to run as a build property - Project Hosting on Google Code</title> <pre> Currently  the build factories are set at buildbot startup and are immuable.    The factories should mutate with the properties to specify which tests to   run.    This is mainly for the try server. </pre>

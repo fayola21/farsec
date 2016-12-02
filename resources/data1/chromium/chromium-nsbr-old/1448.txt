@@ -1,0 +1,1 @@
+<title>Issue 1448 -   chromium -    Bookmark sync - Project Hosting on Google Code</title> <pre> I would love a feature so you can sync your bookmarks over all your   computers. If this would work with different services other than google   bookmarks the feature would be even greater. </pre>

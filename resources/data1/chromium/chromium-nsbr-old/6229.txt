@@ -1,0 +1,1 @@
+<title>Issue 6229 -   chromium -    Chrome does not work in Win 7 Beta 1 (build 7000) - Project Hosting on Google Code</title>   1. Open Chrome in Windows 7 build 7000  2. Try to open a webpage        The webpage loads      The tab crashes  and any attempts to fix it (reload) do nothing    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 14676 -   chromium -    Google Desktop search blinks when google chrome is opened - Project Hosting on Google Code</title>             can't open google desktop search while chrome is active      Google desktop search blinks     <b>Please provide

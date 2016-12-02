@@ -1,0 +1,1 @@
+<title>Issue 20401 -   chromium -    REGRESSION: descenders cut off from tab labels - Project Hosting on Google Code</title> <pre> See the &quot;g&quot;s in the screenshot.  Happens in both standard and GTK themes.    CC'ing some likely candidates. </pre>

@@ -1,0 +1,1 @@
+Since there is the ability to log in to Ambari Web as different users the current user should be indicated       

@@ -1,0 +1,1 @@
+<title>Issue 9599 -   chromium -    Quick opening new tab and closing tab causes tabs to show very small - Project Hosting on Google Code</title>   1. Click the new-tab button  2. Very quick right after it click the x to close the tab next to the new-  tab button  3. Look at the tabs       To see the tabs normally       Tabs appear very small    <b>Please provide

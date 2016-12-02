@@ -1,0 +1,1 @@
+<title>Issue 36016 -   chromium -    New layout tests (svg/text/selection-{double|triple}click.svg) fail. - Project Hosting on Google Code</title> <pre> Added in <a href="/p/chromium/source/detail?r=54858">r54858</a>.  Probably just need baselines. </pre>

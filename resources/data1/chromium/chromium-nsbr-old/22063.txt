@@ -1,0 +1,1 @@
+<title>Issue 22063 -   chromium -    Make BrowserEncodingTest.TestEncodingAutoDetect faster - Project Hosting on Google Code</title> <pre> BrowserEncodingTest.TestEncodingAutoDetect is the slowest test  averaging  39 seconds per run. Please make it faster. </pre>

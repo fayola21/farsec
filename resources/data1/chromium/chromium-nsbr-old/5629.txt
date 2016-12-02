@@ -1,0 +1,1 @@
+<title>Issue 5629 -   chromium -    input right click no paste - Project Hosting on Google Code</title> <pre> when focus is not on an input and you right click on it  paste item is not   availble. you must first left click on it so it get focused then right   click so paste is avalible.   </pre>

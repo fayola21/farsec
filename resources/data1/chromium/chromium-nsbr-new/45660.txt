@@ -1,0 +1,1 @@
+<title>Issue 45660 -   chromium -    &quot;Reset to Defaults&quot; button in under the hood prefs is not hooked up and always greyed out - Project Hosting on Google Code</title> <pre> Clicking it should bring up a confirmation dialog and if &quot;confirm&quot; is pressed  all settings should go   back to their defaults. Like on windows. </pre>

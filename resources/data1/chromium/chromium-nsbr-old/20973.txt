@@ -1,0 +1,1 @@
+<title>Issue 20973 -   chromium -    &quot;close&quot; button is not drawn for some time  - Project Hosting on Google Code</title> <pre> Chrome Version       : 24859  OS + version : Gentoo  CPU architecture (32-bit / 64-bit): 32bit  window manager : Fluxbox  URLs (if applicable) : any      1. It just happens sometimes </pre>

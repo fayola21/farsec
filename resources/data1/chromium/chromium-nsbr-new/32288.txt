@@ -1,0 +1,1 @@
+<title>Issue 32288 -   chromium -    Some animated GIFs are played too slowly - Project Hosting on Google Code</title>   1. Open URL <a href="https://bug232769.bugzilla.mozilla.org/attachment.cgi?id=140328">https://bug232769.bugzilla.mozilla.org/attachment.cgi?id=140328</a>      The GIF plays very fast      The GIF plays slowly    <b>Please provide

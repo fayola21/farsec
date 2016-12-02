@@ -1,0 +1,1 @@
+<title>Issue 9721 -   chromium -    youtube - Project Hosting on Google Code</title> <pre> Chrome Version       : 1.0.154.53  URLs (if applicable) :www.youtube.com      go to the website play a video  there is video buffered(as it can be seen   from yhe bar) but the video wont play smoothly (the loading circle appears)  not happens all the time.     </pre>

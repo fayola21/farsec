@@ -1,0 +1,1 @@
+<title>Issue 15511 -   chromium -    Google chrome crashes if you clear browsing data - version - 3.0.190.4 - Project Hosting on Google Code</title>   1.GO to clear browsing data tab  2.Select all except password check box      Google chrome should work fine.      4.Google chrome crashes    <b>Please provide

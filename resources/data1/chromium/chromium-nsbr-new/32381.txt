@@ -1,0 +1,1 @@
+<title>Issue 32381 -   chromium -    Signature verification failed when installing extension. - Project Hosting on Google Code</title>   1. Try to install Sticky Tabs extension          Extension installed.      &quot;Signature verification failed&quot; message.    <b>Please provide

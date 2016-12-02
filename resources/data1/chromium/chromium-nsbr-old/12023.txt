@@ -1,0 +1,1 @@
+<title>Issue 12023 -   chromium -    Linux: extra menu items in WM context menus - Project Hosting on Google Code</title> <pre> On windows  if you right click on chrome's frame or chrome's entry in the   task bar  you get extra menu items beyond the normal ones windows gives you:    - New tab  - Reopen closed tab  - Task Manager    We should do this as well  if possible. </pre>

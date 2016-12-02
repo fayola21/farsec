@@ -1,0 +1,1 @@
+<title>Issue 17395 -   chromium -    Toggle system borders for popups - Project Hosting on Google Code</title>   1.Uncheck &quot;Use system title and borders&quot;  2.Launch a popup (eg: Options window)        Must show the popup with &quot;Chrome's&quot; borders and titlebar        System title &amp; borders are used      <b>Please provide

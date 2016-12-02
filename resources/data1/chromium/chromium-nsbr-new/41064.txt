@@ -1,0 +1,1 @@
+<title>Issue 41064 -   chromium -    Extension icon slider disappears when ripping away a tab - Project Hosting on Google Code</title>   1. Open a new tab  2. Rip away the tab into it's own window        Extension slider to remain      Extension slider disappears in the new window and is unusable until you   navigate to a new page    <b>Please provide

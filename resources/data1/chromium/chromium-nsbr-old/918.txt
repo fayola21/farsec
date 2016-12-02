@@ -1,0 +1,1 @@
+<title>Issue 918 -   chromium -    javascript optimization/speed comparisons - Project Hosting on Google Code</title>   1. Run the test  2. Compare to other browsers      par or better performance      some categories are lagging behind  namely date (loses to firefox3) and   regex (loses to both firefox3 and ie7) it seems.    Please provide

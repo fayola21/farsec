@@ -1,0 +1,1 @@
+<title>Issue 1503 -   chromium -    Chrome adds extra duplicate extension - Project Hosting on Google Code</title>   1. Enter URL in Chrome  2. Chrome will start downloading a file        Filename expected to be &quot;Zope-3.3.1.tgz&quot;.        Filename is &quot;Zope-3.3.1.tgz.tar&quot;.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 17868 -   chromium -    With sandbox enabled  user cannot select files for upload - Project Hosting on Google Code</title>   1. Navigate to any service that allows you upload files  i.e. Imageshack.  2. Try to select a file to upload.      Files on local drives can be accessed for uploading.      Files on local drives cannot be accessed.    <b>Please provide

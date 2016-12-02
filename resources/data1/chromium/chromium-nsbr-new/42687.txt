@@ -1,0 +1,1 @@
+<title>Issue 42687 -   chromium -    No built-in .WAV playback - Project Hosting on Google Code</title>   1. Try to play a wav.  This one works: <a href="http://junk.mzzt.net/monk_rant04.wav">http://junk.mzzt.net/monk_rant04.wav</a>        Built-in audio player kicks in and handles the wav.        Chrome passes it on to a plugin.    <b>Please provide

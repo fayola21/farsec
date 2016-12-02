@@ -1,0 +1,1 @@
+Support to build the camel-soap offline    camel-soap introduce soap12.xsd which has the import from the internet  it will cause some trouble when you build the camel-soap offline.   

@@ -1,0 +1,1 @@
+<title>Issue 39098 -   chromium -    Port Shutdown histograms to Linux/Mac - Project Hosting on Google Code</title> <pre> Currently the shutdown histograms are only available on Windows. We should   port these to Linux/Mac.    I believe we're too slow at shutting down  thus getting killed on Linux  but   I don't have numbers to back it up. </pre>

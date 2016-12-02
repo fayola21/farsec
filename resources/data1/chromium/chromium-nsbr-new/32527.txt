@@ -1,0 +1,1 @@
+<title>Issue 32527 -   chromium -    False error with certificate of secure www site - Project Hosting on Google Code</title>   1.Open link. Web page in Firefox opens normally. In Chrome show error. Teh   www i judical place and has to be good.          Open the page in secure connection      Error report is shown.    <b>Please provide

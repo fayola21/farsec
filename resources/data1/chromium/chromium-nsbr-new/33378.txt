@@ -1,0 +1,1 @@
+<title>Issue 33378 -   chromium -    Line Scaling different in Chrome than every other browser - Project Hosting on Google Code</title>   1. Scale any line           A line of 1 px width scaled by a factor of 5 will be 5 px wide (This is   what happens in every browser but Chrome)      The line remains 1 px wide    <b>Please provide

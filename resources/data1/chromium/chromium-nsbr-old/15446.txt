@@ -1,0 +1,1 @@
+<title>Issue 15446 -   chromium -    setDragImage and more generally default drag feedback does not work - Project Hosting on Google Code</title>             Feedback of the node being dragged      Only the cursor gives a visual feedback of the drag operation    <b>Please provide

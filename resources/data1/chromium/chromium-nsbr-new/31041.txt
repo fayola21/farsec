@@ -1,0 +1,1 @@
+<title>Issue 31041 -   chromium -    Previous google chrome directory not removed - Project Hosting on Google Code</title> <pre> C:UsersOwnerAppDataLocalGoogleChromeApplication    In that folder  I see two folders which are: 1. The previous stable version - 3.0.195.33.  2. The current stable version - 3.0.195.38. </pre>

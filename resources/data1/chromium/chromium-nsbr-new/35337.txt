@@ -1,0 +1,1 @@
+<title>Issue 35337 -   chromium -    Content Blocked icons should agree on whether to use blue background - Project Hosting on Google Code</title> <pre> The script and plugins icons have a blue roundrect behind them.  The other   three icons don't  they're just the plain object.  We should pick one style   and have them all agree. </pre>

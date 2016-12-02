@@ -1,0 +1,1 @@
+<title>Issue 11201 -   chromium -    long tab title overlaps the close button (instead of showing the ellipsis) - Project Hosting on Google Code</title> <pre>   1. Open a page with a long title        The tab title overlaps the close  ('X') button of the tab instead of showing the ellipsis (...)      Chrome 2.0.177.0  </pre>

@@ -1,0 +1,1 @@
+<title>Issue 2557 -   chromium -    Forms can not be seen correctly - Project Hosting on Google Code</title>             We expect that the box forms could be seen as it is. But it looks funny  as    I write this report and try to print via TinyPDF for attachment  after that   the form then seen okay. So it is a matter of compatibility or else ?          Please provide

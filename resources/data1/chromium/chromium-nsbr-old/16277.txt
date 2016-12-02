@@ -1,0 +1,1 @@
+<title>Issue 16277 -   chromium -    Clear history after exit - Project Hosting on Google Code</title> <pre> Hello :)  Is it possible for chrome to clean history after exit from chrome? Like in IE   (&quot;Delete browsing history on exit&quot; option). </pre>

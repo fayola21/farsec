@@ -1,0 +1,1 @@
+<title>Issue 28498 -   chromium -    default sans-serif font for simplified chinese is wrong in Simplified CHinese Chrome - Project Hosting on Google Code</title>   1.install the latest chromium build          sans-serif font default should be simsun 16       now it is simhei 16  so it is really hard to read chinese articles now    <b>Please provide

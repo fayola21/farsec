@@ -1,0 +1,1 @@
+<title>Issue 2381 -   chromium -    Use NotificationRegistrar object everywhere - Project Hosting on Google Code</title> <pre> brettw just wrote a snazzy new object called the NotificationRegistrar that   helps making notification unregistration easy and automatic.  We should   change most  if not all  notification observers to use this thing. </pre>

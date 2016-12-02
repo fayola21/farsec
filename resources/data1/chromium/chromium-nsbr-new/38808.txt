@@ -1,0 +1,1 @@
+<title>Issue 38808 -   chromium -    Bookmarks appear cut-off - Project Hosting on Google Code</title>   1. Opening Google Chrome  2. Viewing Bookmarks Bar (either in New Tab page  or as attached toolbar)      Bookmarks should be shown in their entirety  leaving no part invisible.      The tops and bottoms of bookmarks are cut off.    <b>Please provide

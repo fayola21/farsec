@@ -1,0 +1,1 @@
+<title>Issue 7010 -   chromium -    chome will not maximize properly - Project Hosting on Google Code</title>   1. maximize chrome in windows 7 (I have only tested this with aero basic)      window will maximize like it does in XP      black borders around entire window    Please provide

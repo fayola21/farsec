@@ -1,0 +1,1 @@
+<title>Issue 44708 -   chromium -    Infinite loop go to sad-tab - Project Hosting on Google Code</title> <pre> it maybe go to infinite loop protection  but always go to sad-tab.    I don't know if it's a security bug...    File to reproduce attached.    I will try to research further but today i'm tired.   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 43551 -   chromium -    Wrong Shortcuts - Project Hosting on Google Code</title>   1. Press Ctrl + Shift + B          Open the Bookmark Manager      Show/Hide the bookmarks bar.  And the shortcut for showing/hiding the bookmarks bar (Ctrl + B) does not   work.    <b>Please provide

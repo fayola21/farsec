@@ -1,0 +1,1 @@
+<title>Issue 23379 -   chromium -    Browser actions: implement setName() and setImage(path) - Project Hosting on Google Code</title> <pre> You should be able to update these properties dynamically and have the   changes show up in the UI. </pre>

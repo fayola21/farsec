@@ -1,0 +1,1 @@
+Component spring 'event' is not auto registered by Camel. Add a Event file in the folder META-INF/services/org/apache/camel/compoment of camel-spring    Component spring 'event' is not auto registered by Camel. Add a Event file in the folder META-INF/services/org/apache/camel/compoment of camel-spring.   

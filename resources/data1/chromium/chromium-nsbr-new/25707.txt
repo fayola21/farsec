@@ -1,0 +1,1 @@
+<title>Issue 25707 -   chromium -    Font problem for Display - Project Hosting on Google Code</title>   1.Open About...or Open &quot;Options&quot;  2.then see there are some Label display Not Normal.(Please See the Attach   file)                  <b>Please provide

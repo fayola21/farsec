@@ -1,0 +1,1 @@
+<title>Issue 9183 -   chromium -    Ctrl+T = Ctrl+U on NTP - Project Hosting on Google Code</title> <pre> Trunk (<a href="/p/chromium/source/detail?r=12281">r12281</a>)    Precondition:  Make sure NTP has set as your default home page.    -Launch Chromium.  -Hit Ctrl+U to show source page for NTP.    Result:  #######  One more New tab is created. </pre>

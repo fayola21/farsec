@@ -1,0 +1,1 @@
+<title>Issue 43727 -   chromium -    Chrome Pop-up Block - Project Hosting on Google Code</title>   1. Open the page with youtube video embeded.  2. Play the youtube video.  3. Click with the right button in youtube video and click in 'Watch on YouTube'.      The page is blocked  and only open if the user request.      The page dosen't display  but is opened.    <b>Please provide

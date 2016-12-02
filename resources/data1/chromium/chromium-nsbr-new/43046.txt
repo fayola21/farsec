@@ -1,0 +1,1 @@
+<title>Issue 43046 -   chromium -    google chrome error ! - Project Hosting on Google Code</title> <pre> i am using google chrome browers   with Windows 7 ultimate  i istall chrome   browers for some day  some error appears  &quot; GoogleChrome stop working&quot;  can you tell me the way to repair it  IE and Firefox is working well       </pre>

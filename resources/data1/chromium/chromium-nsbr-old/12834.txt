@@ -1,0 +1,1 @@
+<title>Issue 12834 -   chromium -    chrome-debug.log written within the bundle in release builds - Project Hosting on Google Code</title> <pre> the chrome-debug.log is written within the bundle in release builds. </pre>

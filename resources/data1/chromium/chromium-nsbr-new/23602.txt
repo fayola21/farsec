@@ -1,0 +1,1 @@
+<title>Issue 23602 -   chromium -    FFmpeg binaries are copied maunally in chrome.gyp and test_shell.gyp for mac - Project Hosting on Google Code</title> <pre> We have some extra rules to copy ffmpeg binaries into [App   Name]/Contents/MacOS in chrome.gyp and test_shell.gyp. These ffmpeg binaries   rules should only be in ffmpeg.gyp. </pre>

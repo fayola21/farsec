@@ -1,0 +1,1 @@
+<title>Issue 22112 -   chromium -    Page Up/Down no longer works in Google Docs - Project Hosting on Google Code</title>   1. Open a document in Google docs  2. Try to navigate using page up/page down      The page scrolls up/down      Nothing    <b>Please provide

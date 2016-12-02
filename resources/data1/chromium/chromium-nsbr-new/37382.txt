@@ -1,0 +1,1 @@
+<title>Issue 37382 -   chromium -    Hebrew error pages are  LTR (probably also Arabic and Farsi) - Project Hosting on Google Code</title>   1. Use Hebrew.  2. Get to an error page.  3. See that it is LTR.        The error page should be RTL.        The error page is LTR.    <b>Please provide

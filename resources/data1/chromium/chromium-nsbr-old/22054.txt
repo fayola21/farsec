@@ -1,0 +1,1 @@
+<title>Issue 22054 -   chromium -    Implement per-test timeout for UI tests to prevent hangs - Project Hosting on Google Code</title> <pre> UI tests are hanging and we need to prevent that. </pre>

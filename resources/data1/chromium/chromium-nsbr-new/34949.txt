@@ -1,0 +1,1 @@
+<title>Issue 34949 -   chromium -    Pin a Tab disapear in Chromium 5.0.313.0 (37799) - Project Hosting on Google Code</title> <pre> ALl is in he title  that's a bit disturbing for me :/ </pre>

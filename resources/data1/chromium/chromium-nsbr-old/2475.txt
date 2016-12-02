@@ -1,0 +1,1 @@
+<title>Issue 2475 -   chromium -    Checking from updates seem to never end - Project Hosting on Google Code</title>   1. Click on above google  2. Click &quot;Check for new update&quot;  3. Wait...  It seems that Checking for updates hangs  and does not provide a response   at any time.                Please provide

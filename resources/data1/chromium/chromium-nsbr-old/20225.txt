@@ -1,0 +1,1 @@
+<title>Issue 20225 -   chromium -    Allow language change for tips service - Project Hosting on Google Code</title> <pre> Tips service language is set on the first run of that profile with tips   turned on  and cannot be changed dynamically.  Allow user to change languages    without changing profile or wiping preferences. </pre>

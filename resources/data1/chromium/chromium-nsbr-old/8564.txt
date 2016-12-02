@@ -1,0 +1,1 @@
+<title>Issue 8564 -   chromium -    text zoom - Project Hosting on Google Code</title> <pre> why text zoom is replace with page zoom from ver 2? text zoom was a very   good feature. maybe you must put two different shortcuts for them. </pre>

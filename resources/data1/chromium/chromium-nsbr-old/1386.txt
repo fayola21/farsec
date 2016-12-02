@@ -1,0 +1,1 @@
+<title>Issue 1386 -   chromium -    It doesn't open pdf files inside the browser - Project Hosting on Google Code</title>   1. Open any pdf file online          Managing to open it fast and easily      Chrome tab stops to work until an error message appear    Please provide

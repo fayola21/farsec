@@ -1,0 +1,1 @@
+<title>Issue 18756 -   chromium -    X where head button should be - Project Hosting on Google Code</title>   1. Look at where the head button is supposed to be            There's a head        There's an X    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12444 -   chromium -    All label in title tabs and preferences tabs are very small... - Project Hosting on Google Code</title>   1. When I start and use the chromium browser...                    <b>Please provide

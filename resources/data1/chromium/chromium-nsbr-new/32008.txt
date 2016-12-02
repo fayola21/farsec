@@ -1,0 +1,1 @@
+<title>Issue 32008 -   chromium -    Creating a duplicate of a pinned tab shouldn't result in a pinned tab - Project Hosting on Google Code</title> <pre>   1. Pin a tab  2. Duplicate it        The duplicated tab should not be pinned.       </pre>

@@ -1,0 +1,1 @@
+<title>Issue 11160 -   chromium -    &lt;img align=&quot;right&quot;&gt; does not show image at all - Project Hosting on Google Code</title>   1. View the webpage URL above.      Picture of the Seattle Space Needle is visible.      No picture of the Seattle Space Needle.    <b>Please provide

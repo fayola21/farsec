@@ -1,0 +1,1 @@
+<title>Issue 40025 -   chromium -    can't -disable-plugins - Project Hosting on Google Code</title>   1.Windows 7   for some reason this version of will not take the commnad   line option -disable-plugins          We should have a little icon that shows plugins are disabled.      Everything is enabled.  Old version of chrome works fine.    <b>Please provide

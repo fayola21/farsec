@@ -1,0 +1,1 @@
+<title>Issue 29672 -   chromium -    Display Shearing/Garbled Pages - Project Hosting on Google Code</title>   1. Open the Browser  2. Attempt to use it  3. In particular  use the Mouse-wheel for scrolling        Pages are output in an intelligible manner        Images are sheared  and text is obscured by random fields of background  colour.    <b>Please provide

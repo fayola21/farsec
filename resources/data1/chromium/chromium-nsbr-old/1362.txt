@@ -1,0 +1,1 @@
+<title>Issue 1362 -   chromium -    Google Chrome Browser 0.2.149.27  Crashes while entering any URL - Project Hosting on Google Code</title>   1. not tested                Crashes with error code 0xc0000005. after its first installation and then  it never got re-installed even after multiple tries.    Please provide

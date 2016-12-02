@@ -1,0 +1,1 @@
+<title>Issue 34168 -   chromium -    Native drop-down should list on first click. - Project Hosting on Google Code</title> <pre> Build: 5.0.307.1    -Try to click on a native drop-down to show the list on first attempt.    Issue:  The drop-down list auto closes on 1st click. Need to click for 2nd time to   get the drop-down list.     </pre>

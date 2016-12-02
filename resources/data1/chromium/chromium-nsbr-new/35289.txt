@@ -1,0 +1,1 @@
+<title>Issue 35289 -   chromium -    Misalignment on Clear browsing data Dlg. - Project Hosting on Google Code</title> <pre> Build: 5.0.322.0 (Official Build 38504)    -Bring up Clear Browsing Data dlg.  -As shown in the screenshot  'Clear browsing data and close buttons are   very close to the drop-down box.    XP only. Looks good on Vista. </pre>

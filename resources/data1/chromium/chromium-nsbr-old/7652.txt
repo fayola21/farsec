@@ -1,0 +1,1 @@
+<title>Issue 7652 -   chromium -    Integrate breakpad with Chrome on OS X - Project Hosting on Google Code</title> <pre> Letting the OS X crash reporter handle chrome crashes takes a long time. </pre>

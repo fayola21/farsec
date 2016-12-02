@@ -1,0 +1,1 @@
+<title>Issue 30449 -   chromium -    [NaCl] Use ABI typdef instead of void* in shared structures - Project Hosting on Google Code</title> <pre> Affects these structures  possibly others:    NaClImcMsgIoVec  NaClImcMsgHeader  NaClImcTypedMsgHeader </pre>

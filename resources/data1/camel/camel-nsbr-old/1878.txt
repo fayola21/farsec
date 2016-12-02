@@ -1,0 +1,1 @@
+Bean component - invokes onMessage from javax.jms.MessageListener even though a specific method name have been provided    This is only an issue when your bean implements javax.jms.MessageListener and then specify a specific method to use  then Camel will still prefer to use the onMessage method.   

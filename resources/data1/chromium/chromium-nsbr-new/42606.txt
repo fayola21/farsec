@@ -1,0 +1,1 @@
+<title>Issue 42606 -   chromium -    Sync should use net/NetworkChangeNotifier - Project Hosting on Google Code</title> <pre> We shouldn't roll our own NetworkChangeNotifiers!    This is tricky as we have to proxy the notifications from the IO thread to our own. </pre>

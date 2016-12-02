@@ -1,0 +1,1 @@
+<title>Issue 34580 -   chromium -    Wrong Google Chrom icon appears on the taskbar - Project Hosting on Google Code</title> <pre> When I run the shortcut to the site from desktop  and then run Chrome   separately  Chrome has the same icon as running the label. See screenshots...   Sorry for my bad english)translated with Google translator.    arthurhachaturov@gmail.com </pre>

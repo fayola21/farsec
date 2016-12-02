@@ -1,0 +1,1 @@
+<title>Issue 12599 -   chromium -    'GO' button on proxy.org stops working after first try. - Project Hosting on Google Code</title>   1. Go to proxy.org  2. Enter google.com and press 'Go'  3. Try pressing again -&gt; doesn't work.      'go' button to always work      Stops working after first go    <b>Please provide

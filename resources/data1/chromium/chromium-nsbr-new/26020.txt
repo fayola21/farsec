@@ -1,0 +1,1 @@
+<title>Issue 26020 -   chromium -    focus doesn't work when browser action popup opens - Project Hosting on Google Code</title>   1. Install the attached crx  2. Click on the browser action button  3. The focus should be in the text field in the popup    I am doing textfield.focus(); on body.onload.                <b>Please provide

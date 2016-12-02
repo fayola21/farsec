@@ -1,0 +1,1 @@
+<title>Issue 28158 -   chromium -    We should skip file:// entries in content scripts matches  not make them errors - Project Hosting on Google Code</title> <pre> We have extensions in the field that have this in their manifests  they   shouldn't start erroring. </pre>

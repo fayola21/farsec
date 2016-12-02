@@ -1,0 +1,1 @@
+Slider apps table does not remove entry when app is removed    Lets say I have a running app. I freeze it and then destroy it. The app goes away from the /apps response. However the UI still continues to show it. I think the mapper is not removing deleted entries from the model.Mapper should remove entries not being sent by /apps.   

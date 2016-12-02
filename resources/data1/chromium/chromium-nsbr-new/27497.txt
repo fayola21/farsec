@@ -1,0 +1,1 @@
+<title>Issue 27497 -   chromium -    Error instead of SSL unsecurity warning page - Project Hosting on Google Code</title>   1. open google-chrome  2. go to <a href="https://www.unosoft.hu/mantis/">https://www.unosoft.hu/mantis/</a>        Shows the simple web html (after showing the unsecurity warning red page).        4net::ERR_INVALID_ARGUMENT    <b>Please provide

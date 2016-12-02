@@ -1,0 +1,1 @@
+CxfProducer should release the CXF when the Producer is stopped.    CXF ClientImpl has the requestContext need to be cleaned when the CxfProducer is stopped.If we don't call the Client.destory() method  the requestContext will cause the memory leak.   

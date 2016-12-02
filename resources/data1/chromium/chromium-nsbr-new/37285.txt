@@ -1,0 +1,1 @@
+<title>Issue 37285 -   chromium -    OS X: Add unit tests for all Sandbox profiles - Project Hosting on Google Code</title> <pre> We need to add unit tests for all our sandbox profiles to explicitly test that major areas of   functionality are correctly blocked off:  * File reading &amp; writing.  * Clipboard access.  * Accessibility APIs.     </pre>

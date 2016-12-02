@@ -1,0 +1,1 @@
+<title>Issue 19019 -   chromium -    Mac localizations need InfoPlist.strings - Project Hosting on Google Code</title> <pre> We should provide InfoPlist.strings files for our various localizations to set   CFBundleGetInfoString for use by the Finder's Get Info window.    NSHumanReadableCopyright should be set alongside it. </pre>

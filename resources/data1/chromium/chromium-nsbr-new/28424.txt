@@ -1,0 +1,1 @@
+<title>Issue 28424 -   chromium -    doc for chrome.tabs.executeScript doesn't mention that permissions are required for use - Project Hosting on Google Code</title> <pre> It should say that the target tab must match permissions declared in the   manifest. </pre>

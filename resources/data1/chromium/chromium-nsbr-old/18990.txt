@@ -1,0 +1,1 @@
+<title>Issue 18990 -   chromium -    need ui test for tab switching find bar focus code - Project Hosting on Google Code</title> <pre> We need to make sure the findbar is focused when switching to a tab that has   the findbar open. </pre>

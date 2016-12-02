@@ -1,0 +1,1 @@
+<title>Issue 37899 -   chromium -    User scripts not always recognized - Project Hosting on Google Code</title>   1. Nagivate to the url above  2. Chrome will not recognize the user script.        Chrome will prompt to install the user script.        It does not  treats it like a normal JavaScript file.    <b>Please provide

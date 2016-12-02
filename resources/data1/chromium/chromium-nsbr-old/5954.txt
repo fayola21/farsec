@@ -1,0 +1,1 @@
+<title>Issue 5954 -   chromium -    Problem with Hotmail - Project Hosting on Google Code</title>   1. when you are signed into hotmail  open a blank new e-mail message. the   signature does not appear in the body and you can not type a new message.                    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 30129 -   chromium -    Dutch: Undo menu title should be &quot;Herstel&quot; on Mac OS X - Project Hosting on Google Code</title> <pre> Dutch    4.0.249.30    Mac OS X 10.6.2    The Undo menu item in the menu Bewerken (sic) is localized as &quot;Ongedaan   maken&quot;. The correct localization on the Mac is &quot;Herstel&quot;.   </pre>

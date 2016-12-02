@@ -1,0 +1,1 @@
+<title>Issue 45053 -   chromium -    RedirectTest.ClientCancelled is failing - Project Hosting on Google Code</title> <pre> it was disabled in october 2009 after a webkit roll. AFAICT no bug was   filed.    I am marking it FAILS_. Either way  it seems a legit problem. </pre>

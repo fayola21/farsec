@@ -1,0 +1,1 @@
+<title>Issue 27865 -   chromium -    Make theme promo and promo message line slip inside scrollbars - Project Hosting on Google Code</title> <pre> When the NTP is made small  the theme promo box and message pop outside the   scrollbars.  Force them inside when this happens. </pre>

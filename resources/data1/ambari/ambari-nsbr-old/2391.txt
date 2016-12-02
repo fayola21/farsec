@@ -1,0 +1,1 @@
+Bootstrap is broken for ambari web with RHEL-5.8    Steps:1. Install ambari-server.2. Go to 'Install Options' page.3. Set the hosts list and ssh-key  click 'Next' button.Result:Ambari Web is blocked in 'Confirm Hosts'. Confirming was not ended after not less than 40 minutes.   

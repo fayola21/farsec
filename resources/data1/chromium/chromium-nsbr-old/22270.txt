@@ -1,0 +1,1 @@
+<title>Issue 22270 -   chromium -    blogger : edit post textbox has layout issue - Project Hosting on Google Code</title> <pre>   1. Login to blogger  2. Edit any post    What is the expected output?   no issue seen    What do you see instead?  Layout issue seen in textbox      Screenshot :   </pre>

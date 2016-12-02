@@ -1,0 +1,1 @@
+<title>Issue 14914 -   chromium -    New Tab button issues - Project Hosting on Google Code</title> <pre> - new tab button is slightly too high... distance from right most tab  should be equal to distance from the top of the toolbar stack.  - new tab button isn't curved at TR and BL edges. </pre>

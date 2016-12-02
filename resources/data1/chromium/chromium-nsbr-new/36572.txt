@@ -1,0 +1,1 @@
+<title>Issue 36572 -   chromium -    page broken with chrome - Project Hosting on Google Code</title> <pre> Chrome Version       : &lt;4.0.249.89 (Vers��_��_o oficial 38071)&gt;      Behavior in Firefox 3.x:OK      1.Login in Adsense;  2.Select new adsense to content  block ads;  3.Preview block adsense;   </pre>

@@ -1,0 +1,1 @@
+<title>Issue 1027 -   chromium -    Buttons Not Clickable in various application at facebook - Project Hosting on Google Code</title>   1. Button In photos application of facebook are not working.  2. button in friends for sale application are not working. Like I am not   able to buy people there.                  Please provide

@@ -1,0 +1,1 @@
+<title>Issue 28921 -   chromium -    Extensions can't XHR to local directories  even with permissions - Project Hosting on Google Code</title> <pre> Chrome Version       : 4.0.259.0 (Ubuntu build 33225)  Afert update Chromium  xhr can't get local directory with   &quot;file:///local_folder&quot; any more. </pre>

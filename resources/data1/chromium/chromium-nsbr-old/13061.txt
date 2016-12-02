@@ -1,0 +1,1 @@
+<title>Issue 13061 -   chromium -    Window bug in Windows 7 with chrome 2.0 - Project Hosting on Google Code</title>   1. None so far            Normal window          In the right hans corner the window is messed up.    <b>Please provide

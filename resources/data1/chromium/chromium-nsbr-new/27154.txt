@@ -1,0 +1,1 @@
+<title>Issue 27154 -   chromium -    WebApps combo box does not work in Chrome - Project Hosting on Google Code</title>   1. Try to use a combo box (Gmail  internal app  Chromium bug reporting)            - Able to see the options and select        - Blank dropdown (see attachment)    <b>Please provide

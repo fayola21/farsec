@@ -1,0 +1,1 @@
+<title>Issue 18667 -   chromium -    the grey scale theme has a white square in the bottom of the new tab page - Project Hosting on Google Code</title> <pre> see attacched </pre>

@@ -1,0 +1,1 @@
+Using recipient list in a doTry ... doCatch situation dont work properly    See nabblehttp://camel.465427.n5.nabble.com/Issue-with-doTry-doCatch-not-routing-correctly-tp5720325.htmlThe end user would expect that doTry .. doCatch will overrule. However it gets a bit further more complicated if the try block routes to other routes and using EIPs such as recipient list.   

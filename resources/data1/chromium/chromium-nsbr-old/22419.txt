@@ -1,0 +1,1 @@
+<title>Issue 22419 -   chromium -    Broken image while downloading (download window) - Project Hosting on Google Code</title>   1. Go to python.org  2. Download python  3. Press Ctrl + J to see the downloads window      There should be a nice image among the animation circle      I see a broken image icon    <b>Please provide

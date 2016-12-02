@@ -1,0 +1,1 @@
+<title>Issue 788 -   chromium -    Customize Frame Color - Project Hosting on Google Code</title>             Customization of the color of the window's frames in order to make it look  great with OS colors  like a black for Vista.      Chrome has only blue color for the window frames    Please provide

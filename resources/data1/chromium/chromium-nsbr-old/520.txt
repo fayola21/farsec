@@ -1,0 +1,1 @@
+<title>Issue 520 -   chromium -    Picassa album title image selection doesn't work - Project Hosting on Google Code</title>   1. Enter any album in picassa  2. Click on album title image to change it  3. Try to select image in &gt;5 row      Image selected (blue frame appers)      Selects image in 4th row in same column    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 3335 -   chromium -    Problem with BarahaIME in Chrome - Project Hosting on Google Code</title>   1. Use BarahaIME software to write Indian languages in Chrome  2. Write some words  and then press back-space to erase last word  3. The last word gets erased sometimes abruptly.      To erase only last word.      More words gets erased abruptly.    Please provide

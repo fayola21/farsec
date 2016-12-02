@@ -1,0 +1,1 @@
+<title>Issue 22727 -   chromium -    Tips &amp; Tricks text on NTP in wrong language - Project Hosting on Google Code</title> <pre> 4.0.211.2  OS X 10.6.0      1. Open NTP        Whole NTP should be english  like the rest of the browser UI. Instead  the   &quot;Tips &amp; Tricks&quot; text at the bottom is German. See attached screenshot.   </pre>

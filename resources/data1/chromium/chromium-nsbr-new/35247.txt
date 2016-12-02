@@ -1,0 +1,1 @@
+<title>Issue 35247 -   chromium -    Support multiple resolutions for login flow - Project Hosting on Google Code</title> <pre> Make sure that various resolutions are supported for login flow.  Some spacing and dialog sizes are now defined in absolute values. </pre>

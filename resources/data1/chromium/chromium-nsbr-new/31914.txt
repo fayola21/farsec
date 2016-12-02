@@ -1,0 +1,1 @@
+<title>Issue 31914 -   chromium -    CSS text-shadow causes text in Thai to disappear - Project Hosting on Google Code</title> <pre> Chrome Version       : 3.0.195.38    Other browsers tested: Firefox 3.5.4: OK      1. Browse any page with Thai letters with text-shadow      The text should be displayed.      The afore mentioned text disappear. </pre>

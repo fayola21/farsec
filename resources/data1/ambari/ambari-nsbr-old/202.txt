@@ -1,0 +1,1 @@
+Add check to verify jdk path after install    After the jdk install  we do not validate the path. This causes problems during service start in later stages.   

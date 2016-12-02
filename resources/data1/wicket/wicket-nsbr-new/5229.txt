@@ -1,0 +1,1 @@
+use jquery 'focusin'/'focusout' for ajax focus tracking    Focus tracking in wicket-ajax-jquery.js can be simplified with jQuery bubbling 'focusin'/'focusout'.   

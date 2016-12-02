@@ -1,0 +1,1 @@
+Empty content of review step in Add Host wizard    JS error: Uncaught TypeError: Cannot call method 'forEach' of undefined   

@@ -1,0 +1,1 @@
+<title>Issue 35442 -   chromium -    Chromium One Tab Pin Closing Crash - Project Hosting on Google Code</title>   1. Open only 1 tab and right-click and pin it  2. Right-click and click close on the pinned tab  3. Chromium Crashes      It will not close  or chromium will just close normaly      Chromium shows the crash message    <b>Please provide

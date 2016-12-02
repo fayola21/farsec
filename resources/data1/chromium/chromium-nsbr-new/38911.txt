@@ -1,0 +1,1 @@
+<title>Issue 38911 -   chromium -    Focus rectangle alignment issue - Project Hosting on Google Code</title> <pre> Build: 5.0.359.0  OS: Windows.    -Try to click on native radio button. (eg: Create app shortcuts dlg)    Issue: The focus rectangle is not not aligned properly. See screenshot.    PS: Windows only. Works fine on linux. </pre>

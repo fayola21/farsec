@@ -1,0 +1,1 @@
+<title>Issue 9798 -   chromium -    WebKit flaky tests - Project Hosting on Google Code</title> <pre> <a href="/p/chromium/source/detail?r=13212">r13212</a> makes Release builds use cpus+1 test_shells to run webkit tests.  This exposes some flakiness in the tests. It's not totally clear what the  cause of the flakiness is. Needs further investigation. </pre>

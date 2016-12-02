@@ -1,0 +1,1 @@
+<title>Issue 5195 -   chromium -    Dutch(nl): Tab Context Menu 'duplicate' - Project Hosting on Google Code</title> <pre>   Dutch (nl)      0.4.154.29      WinXP      Tab context menu: option 'Duplicate' has been named 'Kopi��_��_ren'  which means   'Copy'. A better name would be 'Dupliceren' or 'Ontdubbelen' </pre>

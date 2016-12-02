@@ -1,0 +1,1 @@
+<title>Issue 17812 -   chromium -    bug in yahoo mail  can't &quot;ctrl-tab&quot; to go to next tab - Project Hosting on Google Code</title>   1. login in yahoo mail  2. open anther tab (whatever site or   3. Try to go from yahoo_mail tab to next tab by clicking 'ctrl + tab'      Go to next tab      nothing :)    <b>Please provide

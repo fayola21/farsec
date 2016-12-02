@@ -1,0 +1,1 @@
+<title>Issue 44302 -   chromium -    Downloaded latest chrome version on Windows Vista system.  Now Chrome freezes when opened. - Project Hosting on Google Code</title>                       <b>Please provide

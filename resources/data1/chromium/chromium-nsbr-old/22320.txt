@@ -1,0 +1,1 @@
+<title>Issue 22320 -   chromium -    --enable-sync causes browser to crash - Project Hosting on Google Code</title>   1. Run chrome --enable-sync  2. Crash.  3. Repeat      Do not crash      Crashes    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36342 -   chromium -    Tab ContextMenu - Project Hosting on Google Code</title> <pre> Feature:    Add &quot;Mark as PhantonTab&quot; to contextMenu of each tab...    isso seria uma combina��__��_��_o que hoje ��_��_ poss��__vel somente por meio de 2 passos:  - Marcar guia  e depois clicar com o bot��_��_o central do mouse. </pre>

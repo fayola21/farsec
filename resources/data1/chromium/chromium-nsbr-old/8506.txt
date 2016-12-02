@@ -1,0 +1,1 @@
+<title>Issue 8506 -   chromium -    New Tab doesn't focus the location bar - Project Hosting on Google Code</title> <pre> Chrome Version       : 2.0.168.0 (Official Build 10971)      1. Open New Tab      Location bar to be in focus  so you can type a web address or search      It's not in focus   </pre>

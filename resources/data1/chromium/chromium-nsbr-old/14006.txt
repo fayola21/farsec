@@ -1,0 +1,1 @@
+<title>Issue 14006 -   chromium -    Need v8 bindings for DOM Storage - Project Hosting on Google Code</title> <pre> This is needed for Chromium + Android.    WebKit portions happening here: <a href="https://bugs.webkit.org/show_bug.cgi?id=26356">https://bugs.webkit.org/show_bug.cgi?id=26356</a>           </pre>

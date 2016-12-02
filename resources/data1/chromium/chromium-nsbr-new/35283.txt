@@ -1,0 +1,1 @@
+<title>Issue 35283 -   chromium -    Please add chrome_frame_tests to the flakiness dashboard - Project Hosting on Google Code</title> <pre> I suspect chrome_frame_tests are quite flaky looking at the waterfall and   seeing a few tests marked FLAKY anyway.    flakiness_dashboard.py has a list of build steps it monitors. Could you add   chrome_frame_tests to that list? </pre>

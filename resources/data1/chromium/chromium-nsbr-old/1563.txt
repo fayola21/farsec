@@ -1,0 +1,1 @@
+<title>Issue 1563 -   chromium -    I cannot scroll up. - Project Hosting on Google Code</title>   1. Opening the browser on a Gateway laptop computer.  2. Scrolling down in a page using the touchpad.  3. Attempting to scroll up in the page with the touchpad.      The page is supposed to scroll upward.      The page does not scroll upward.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 36949 -   chromium -    Content settings: Settings dialog sometimes doesn't focus the right tab - Project Hosting on Google Code</title> <pre> When opening the dialog through a bubble  the tab belonging to the bubble type should be   selected. Currently  it isn't. </pre>

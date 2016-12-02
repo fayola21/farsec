@@ -1,0 +1,1 @@
+<title>Issue 12642 -   chromium -    can't display hidden taskbar(if current window is maximized) - Project Hosting on Google Code</title>   1. Taskbar in the left.  2. Setting Taskbar hidden.  3. Open Google Chrome.  4. Maximize the window.  5. Move mouse cursor in display left position.      display taskbar.      can't display hidden taskbar.    <b>Please provide

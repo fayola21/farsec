@@ -1,0 +1,1 @@
+<title>Issue 11780 -   chromium -    Need dangerous download dialog for Linux - Project Hosting on Google Code</title> <pre> Wine associates itself with .exe  so we should treat .exe as dangerous on   Linux just as we do on Windows.    It's also unclear what we *do* once we know a download is dangerous.  I guess   add an extra confirmation step? </pre>

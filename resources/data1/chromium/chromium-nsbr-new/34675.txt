@@ -1,0 +1,1 @@
+<title>Issue 34675 -   chromium -    ChromeFrame Tests: Keyboard accelerators - Project Hosting on Google Code</title> <pre> Need automated tests for (at least) basic keyboard accelerators:  1. Backspace (Shift-Backspace) for back forward  2. Ctrl+R - page refresh  3. Ctrl+N - New window  4. Alt+d and Address bar Navigation  5. Ctrl+s - Save     </pre>

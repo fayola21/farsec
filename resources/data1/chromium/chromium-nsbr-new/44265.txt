@@ -1,0 +1,1 @@
+<title>Issue 44265 -   chromium -    Bookmark bar icons are clipped at both sides - Project Hosting on Google Code</title> <pre> See <a href="http://code.google.com/p/chromium/issues/detail?id=42516#c9">http://code.google.com/p/chromium/issues/detail?id=42516#c9</a> </pre>

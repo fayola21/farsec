@@ -1,0 +1,1 @@
+<title>Issue 3770 -   chromium -    Crash after 1 minute - Project Hosting on Google Code</title>   1. exacty 1 minute after open the browser.          Open any page.      Error: &quot;Whoa! Google Chrome has crashed. Restart now?&quot;    Please provide

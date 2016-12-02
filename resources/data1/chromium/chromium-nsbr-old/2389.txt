@@ -1,0 +1,1 @@
+<title>Issue 2389 -   chromium -    Ctrl+F doesn't search in the value of the CSS content property - Project Hosting on Google Code</title> <pre> Product Version      : 0.2.152.1 (Official Build 2164)             Safari 3: FAIL      Firefox 3: FAIL        1. Open the attached html.  2. Press Ctrl+F.  3. Search for &quot;before&quot;.      1 search result      no result     </pre>

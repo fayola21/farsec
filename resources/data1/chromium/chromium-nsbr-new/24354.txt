@@ -1,0 +1,1 @@
+<title>Issue 24354 -   chromium -    browser actions: setIcon with an index out of range causes browser crash - Project Hosting on Google Code</title> <pre> chrome.browser.setIcon(1000);  // crash the browser     </pre>

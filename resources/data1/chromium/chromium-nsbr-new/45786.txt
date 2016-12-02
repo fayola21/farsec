@@ -1,0 +1,1 @@
+<title>Issue 45786 -   chromium -    Can't read .cssRules (under file: or http: protocol) - Project Hosting on Google Code</title>   1. Save a web-site  with an external CSS file  locally.  2. Open the web-site from your local copy  3. Enter javascript:alert(document.styleSheets[0].cssRules) in the address   bar      [object CSSRuleStyle]      null      <b>Please provide

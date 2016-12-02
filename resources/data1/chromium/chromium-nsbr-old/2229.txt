@@ -1,0 +1,1 @@
+<title>Issue 2229 -   chromium -    Problem with popup - Project Hosting on Google Code</title>   1. Open a popup on a webpage (in new window)  2. From within this window  open a new link (in new tab)        Opening the link in a new tab within the popup window      It does nothing  (Opening in new window does work)    Please provide

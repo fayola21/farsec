@@ -1,0 +1,1 @@
+The url gets longer when using StatelessForm with GET method    The request parameter used for IRequestListener resolution is added to the page parameters for each form submit.   

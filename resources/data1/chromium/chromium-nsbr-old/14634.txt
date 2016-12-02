@@ -1,0 +1,1 @@
+<title>Issue 14634 -   chromium -    minimized chat windows in GMail disappear - Project Hosting on Google Code</title>   1. start a chat  2. minimize the chat  3. the chat window closes/disappears      The minimized tab appears at the bottom of the screen.      The minimized tab is nowhere to be found... it's just gone.    <b>Please provide

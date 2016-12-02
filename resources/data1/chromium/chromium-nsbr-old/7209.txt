@@ -1,0 +1,1 @@
+<title>Issue 7209 -   chromium -    Layout Test Failure: plugin.html - Project Hosting on Google Code</title> <pre> Upstreamed from Buganizer http://b/issue?id=883702    To summarize:  -------------  The empty plugin is not displayed in Chrome when the plugin type is unknown  or has not yet been downloaded.   </pre>

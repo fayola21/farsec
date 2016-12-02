@@ -1,0 +1,1 @@
+RepeatingView's Javadoc to include newChildId() and add()    A minor improvement of the Javadoc to  include newChildId() call  since most people will be using that rather than manual id input add(view) call so that its clear to novice that the components needs to be added typo: missing spaceSee the attached patch.   

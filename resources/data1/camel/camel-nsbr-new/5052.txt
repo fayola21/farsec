@@ -1,0 +1,1 @@
+DefaultUnitOfWork should copy headers from the original message if it's a JmsMessage    see Nabble for details   

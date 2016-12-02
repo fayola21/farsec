@@ -1,0 +1,1 @@
+<title>Issue 12407 -   chromium -    Non-english Chromiums have too small font - Project Hosting on Google Code</title> <pre> When you start Chromium (rev16500) in German (use commando line --lang=de)   you will see that the font is very small and only hard to read.     </pre>

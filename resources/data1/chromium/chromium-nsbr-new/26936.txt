@@ -1,0 +1,1 @@
+<title>Issue 26936 -   chromium -    Integrated adobe reader doesn't show content when opening a .pdf - Project Hosting on Google Code</title>   1. Opening pdf files  2. integrated adobe acrobat reader doesn't show the content                  <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 12087 -   chromium -    Crash when calling Tabs API in extension - Project Hosting on Google Code</title>   1. Enable extensions.  2. Install the gmail sample extension.  3. Click on the toolstrip button.      Open a new tab.      Crash.    <b>Please provide

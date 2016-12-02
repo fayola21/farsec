@@ -1,0 +1,1 @@
+<title>Issue 33479 -   chromium -    Embed gadget not showing up on Google Sites - Project Hosting on Google Code</title> <pre> Chrome Version: 4.0.302    Embed gadget not showing up on Google Sites  i use slide from    <a href="http://www.slideshare.net/">http://www.slideshare.net/</a>.    It works in Chrome 3.0.195.38  </pre>

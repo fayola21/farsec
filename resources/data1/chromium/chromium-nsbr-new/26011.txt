@@ -1,0 +1,1 @@
+<title>Issue 26011 -   chromium -    [GPU] Send repaint events [5] - Project Hosting on Google Code</title> <pre> Send repaint events from GPU plugin to client or client polls? </pre>

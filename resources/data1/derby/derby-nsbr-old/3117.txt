@@ -1,0 +1,1 @@
+Adjust master build script to require the Java 5 compiler to build Derby    Require the Java 5 compiler in order to build Derby as approved by the community recently: http://www.nabble.com/-VOTE--Require-Java-5-%28or-later%29-compiler-to-build-Derby-tf4522491.html#a13030783   

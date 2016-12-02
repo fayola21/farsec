@@ -1,0 +1,1 @@
+<title>Issue 1365 -   chromium -    FrameBorder property in Frameset element is not honored  - Project Hosting on Google Code</title>   1. Access the above URL in Chrome         The site should display the line divider between the right and left frames        The divider between the right and left frames are not visible.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 21269 -   chromium -    --show-extensions-on-top: installing a new extension doesn't resize the bar appropriately - Project Hosting on Google Code</title> <pre> I installed a new extension while in this mode  and the toolstrip wasn't   visible because the extension toolstrip area didn't resize appropriately. </pre>

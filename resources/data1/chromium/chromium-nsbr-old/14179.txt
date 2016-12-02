@@ -1,0 +1,1 @@
+<title>Issue 14179 -   chromium -    Native buttons/ are truncated. - Project Hosting on Google Code</title> <pre> ToT(<a href="/p/chromium/source/detail?r=18490">r18490</a>).    -See the attached screenshot  the buttons on FRUI bubble are truncated.      Marking this as DEV Block Release. </pre>

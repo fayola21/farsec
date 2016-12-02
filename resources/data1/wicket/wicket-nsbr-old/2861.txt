@@ -1,0 +1,1 @@
+getConvertedInput() returns null and selectedValues.addAll tries adding it    Came across this bug when upgrading from wicket 1.3 to 1.4.7. It occurred when we were clearing a form. Add a null check toselectedValues.addAll(getConvertedInput());in ListMultipChoice:updateModel() because getConvertedInput() can conceivably be null in normal situations.   

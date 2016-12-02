@@ -1,0 +1,1 @@
+<title>Issue 38366 -   chromium -    ctrl+enter during find-in-page should follow selected link (win) - Project Hosting on Google Code</title> <pre> see <a title="Want a way to click links with the keyboard" class=closed_ref href="/p/chromium/issues/detail?id=29500"> issue 29500 </a>. All that should be left is to hook up the shortcut. </pre>

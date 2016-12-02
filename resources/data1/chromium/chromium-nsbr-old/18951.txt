@@ -1,0 +1,1 @@
+<title>Issue 18951 -   chromium -    Feature Request: Showing thumbnails in downloadbar - Project Hosting on Google Code</title>   1. Download an image of any page      show a thumbnail of the image in the downloadbar (when finished)        The default image-icon appears (instead of the thumbnail)    <b>Please provide

@@ -1,0 +1,1 @@
+<title>Issue 187 -   chromium -    Flickr upload does not work - Project Hosting on Google Code</title>   1. Choosing a foto by clicking the Upload link does not give me the Foto   selector in the browser                    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 2972 -   chromium -    Canvas toDataURL isn't supported - Project Hosting on Google Code</title> <pre> After the WebKit merge  the following new tests fail because we don't   implement toDataURL:      LayoutTests/fast/canvas/toDataURL-noData.html    LayoutTests/fast/canvas/toDataURL-supportedTypes.html   </pre>

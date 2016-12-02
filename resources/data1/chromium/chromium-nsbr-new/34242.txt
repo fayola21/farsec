@@ -1,0 +1,1 @@
+<title>Issue 34242 -   chromium -    Default browser - Project Hosting on Google Code</title>   1. uninstall Chrome  2. select Firefox as the new default browser  3. a contact-us window will be displayed in IE and not Firefox      contact-us in Firefox      contact-us in IE    <b>Please provide

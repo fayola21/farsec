@@ -1,0 +1,1 @@
+<title>Issue 12759 -   chromium -    All Front End UI is messed up and very tiny on Vista-Swedish !! - Project Hosting on Google Code</title> <pre> Build: DEV-3.0.182.2  Build: Vista-Swedish VMWare image.    Looks good on XP-Danish image.      The Front END UI including the FRUI dialog are totally messed up and visible   as very small font  as shown in the screenshot.   </pre>

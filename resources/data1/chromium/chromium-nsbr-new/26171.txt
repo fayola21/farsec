@@ -1,0 +1,1 @@
+<title>Issue 26171 -   chromium -    Webkit merge broke DevToolsSanityTest.TestEnableResourcesTab - Project Hosting on Google Code</title> <pre> When I rolled from 50235 to 50245    DevToolsSanityTest.TestEnableResourcesTab started failing.  I don't know   much about this part of the code and it's just one test on Linux  so I figure it's   ok to disable for now. </pre>

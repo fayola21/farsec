@@ -1,0 +1,1 @@
+<title>Issue 2983 -   chromium -    Dragging a tab then quickly selecting another causes the dragged tab not to be drawn - Project Hosting on Google Code</title>   1. Start dragging a tab.  2. Release the tab.  3. Quickly select another tab before the original tab slides into position.      The tab should still be visible.      The original tab disappears.    Please provide

@@ -1,0 +1,1 @@
+<title>Issue 26068 -   chromium -    Add default implementation to WebFrameClient - Project Hosting on Google Code</title> <pre> Move default implementations to WebFrameClient.  Once we upstream the API   to svn.webkit.org  we'll need to make sure that all callbacks have default   implementations so that we can support using a newer WebKit with an older   Chromium.   </pre>
