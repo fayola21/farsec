@@ -268,7 +268,7 @@
       (cond
         (:wpp opts)        (make-tbls (:odir opts) (:proj opts) (read-string (:num opts)))
         (:tpp opts)        (make-cross-tbls (:odir opts) (:cproj opts) (:proj opts) (read-string (:num opts)))
-        (:wppx opts)       (make-farsec-tbls-0 (:odir opts) (:cproj opts) (:proj opts) true)
+        (:wppx opts)       (make-farsec-tbls (:odir opts) (:cproj opts) (:proj opts) true)
         (:tppx opts)       (make-farsec-tbls (:odir opts) (:cproj opts) (:proj opts) false)
         (:tfidf opts)      (make-pop-tbls (:odir opts) (:proj opts) (read-string (:num opts)))
         (:pop-chart opts)  (make-pop-chart (:odir opts) (:proj opts))
