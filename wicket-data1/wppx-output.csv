@@ -1,0 +1,6 @@
+train,test,learner,tn,tp,fn,fp,err,pd,pf,prec,g-measure
+wicket-farsec-train.csv,wicket-farsec-test.csv,logistic_regression,416,1,5,78,16.6,16.66666666666667,15.789473684210531,1.265822784810127,27.826086956521745
+wicket-farsec-train.csv,wicket-farsec-test.csv,naive_bayes,363,1,5,131,27.200000000000003,16.66666666666667,26.518218623481783,0.7575757575757576,27.170658682634738
+wicket-farsec-train.csv,wicket-farsec-test.csv,random_forest,493,0,6,1,1.4000000000000001,0,0.2024291497975709,0,0
+wicket-farsec-train.csv,wicket-farsec-test.csv,ib_k,494,0,6,0,1.2,0,0,0,0
+wicket-farsec-train.csv,wicket-farsec-test.csv,multilayer_perceptron,491,0,6,3,1.7999999999999998,0,0.6072874493927125,0,0
