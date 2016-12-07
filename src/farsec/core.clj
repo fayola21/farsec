@@ -171,11 +171,11 @@
   
    Examples: For 'Without-Ranking, before
    
-   (map-charts-tables 'wicket wicket-experiment-3 run-experiment-3d 'before)
-   (map-charts-tables 'ambari ambari-experiment-3 run-experiment-3d 'before)
-   (map-charts-tables 'camel camel-experiment-3 run-experiment-3d 'before)
-   (map-charts-tables 'derby derby-experiment-3 run-experiment-3d 'before)
-   (map-charts-tables 'chromium chromium-experiment-3 run-experiment-3d 'before)
+   (make-map-tbls 'wicket-data 'wicket wicket-experiment-3 run-experiment-3d 'before)
+   (make-map-tbls 'wicket-data 'ambari ambari-experiment-3 run-experiment-3d 'before)
+   (make-map-tbls 'wicket-data 'camel camel-experiment-3 run-experiment-3d 'before)
+   (make-map-tbls 'wicket-data 'derby derby-experiment-3 run-experiment-3d 'before)
+   (make-map-tbls 'wicket-data 'chromium chromium-experiment-3 run-experiment-3d 'before)
   "
   [outdir target target-exp-fnc run-exp-fnc outputname] ; outputname = before or after
   (let [map-data (target-exp-fnc outdir target run-exp-fnc)]

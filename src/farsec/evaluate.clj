@@ -67,6 +67,11 @@
     (map #(read-string %) two)))
 
 (defn fk5 [dat]
-  (let [;one (sort-by #(nth % 2) > dat)
-        two (second (transpose (sort-by #(nth % 3) > dat)))]
+  (let [two (second (transpose (sort-by #(nth % 3) > dat)))]
     (map #(read-string %) two)))
+
+(defn fk6 [dat]
+  (let [one   (sort-by #(nth % 2) > dat)
+        two   (sort-by #(nth % 3) > one)
+        three (second (transpose (sort-by #(nth % 4) > two)))]
+    (map #(read-string %) three)))

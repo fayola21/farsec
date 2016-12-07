@@ -289,6 +289,37 @@
         predict-dummy-ids   (sort-by first (map #(flatten (vector (read-string (first (clojure.string/split (first %) #"\."))) %)) predict))]
     (->> (map #(flatten (vector (rest %1) (rest (rest (rest %2))))) score-dummy-ids predict-dummy-ids) 
          (fk5)))) 
+
+(defn experiment-3e
+  "
+   Returns test bug labels of bug reports, sorted by 
+   1) report ids then 
+   2) bug report scores then 
+   3) prediction results pre-FARSEC
+   4) prediction results post-FARSEC 
+   Used for WPPx and TPPx results.
+
+   Example: WPPx
+            (def train-data-path (str my-home (subs (str :/resources/data1/wicket/wicket-mat-train.csv) 1)))
+            (def test-data-path (str my-home (subs (str :/resources/data1/wicket/wicket-mat-test.csv) 1)))
+            (def testid-data-path (str my-home (subs (str :/resources/data1/wicket/wicket-matid-test.csv) 1)))
+            (experiment-3c train-data-path test-data-path testid-data-path logistic-regression)
+
+   Example: TPPx, source = ambari, target = wicket
+            (def train-data-path (str my-home (subs (str :/resources/data1/ambari/ambari-mat-train.csv) 1)))
+            (def test-data-path (str my-home (subs (str :/resources/data1/wicket/wicketambari-cross-test.csv) 1)))
+            (def testid-data-path (str my-home (subs (str :/resources/data1/wicket/wicketambari-crossid-test.csv) 1)))
+            (experiment-3c train-data-path test-data-path testid-data-path naive-bayes)
+  "
+  [train-data-path train-data-path2 test-data-path test-data-path2 testid-data-path testid-data-path2 for-trainmap best-ml-fnc]
+  (let [score-reports       (score-bug-reports for-trainmap testid-data-path)
+        score-dummy-ids     (sort-by first (map #(flatten (vector (read-string (first (clojure.string/split (first %) #"\."))) %)) score-reports)) ; [numid,id,buglabel,score]
+        predict             (cr train-data-path test-data-path testid-data-path best-ml-fnc) ; [id,want,got]
+        predict2            (cr train-data-path2 test-data-path2 testid-data-path2 best-ml-fnc) ; [id,want,got2]
+        predict-dummy-ids   (sort-by first (map #(flatten (vector (read-string (first (clojure.string/split (first %) #"\."))) %)) predict)) ; [numid,id,want,got]
+        predict2-dummy-ids  (sort-by first (map #(flatten (vector (read-string (first (clojure.string/split (first %) #"\."))) %)) predict2))] ; [numid,id,want,got2]
+    (->> (map #(flatten (vector (rest %1) (rest (rest (rest %2))) (rest (rest (rest %3))))) score-dummy-ids predict-dummy-ids predict2-dummy-ids) ; [id,buglabel,score,got,got2]
+         (fk6)))) 
          
 
 ;-----------run experiments------------
@@ -445,6 +476,37 @@
                     (count (rest test)))]
     (map #(mean-avg-precision (take % wppx-tppx) %) nbaseline)))
 
+(defn run-experiment-3e 
+  "
+   Returns mean average precision of test bug labels, sorted by 
+   1) report ids then 
+   2) bug report scores then 
+   3) prediction results. 
+   Used for WPPx and TPPx results.
+
+   Example: WPPx
+            (def train-data-path (str my-home (subs (str :/resources/data1/wicket/wicket-mat-train.csv) 1)))
+            (def test-data-path (str my-home (subs (str :/resources/data1/wicket/wicket-mat-test.csv) 1)))
+            (def testid-data-path (str my-home (subs (str :/resources/data1/wicket/wicket-matid-test.csv) 1)))
+            (run-experiment-3c train-data-path test-data-path testid-data-path logistic-regression)
+
+   Example: TPPx, source = ambari, target = wicket
+            (def train-data-path (str my-home (subs (str :/resources/data1/ambari/ambari-mat-train.csv) 1)))
+            (def test-data-path (str my-home (subs (str :/resources/data1/wicket/wicketambari-cross-test.csv) 1)))
+            (def testid-data-path (str my-home (subs (str :/resources/data1/wicket/wicketambari-crossid-test.csv) 1)))
+            (run-experiment-3c train-data-path test-data-path testid-data-path naive-bayes)
+  "
+  [train-data-path train-data-path2 test-data-path test-data-path2 testid-data-path testid-data-path2 for-trainmap best-ml-fnc]
+  (let [wppx-tppx (experiment-3e train-data-path train-data-path2 test-data-path test-data-path2 testid-data-path testid-data-path2 for-trainmap best-ml-fnc)
+        test      (read-as-csv testid-data-path)
+        nbaseline (conj 
+                    (apply vector 
+                      (rest 
+                        (range 0 (count (rest test)) 
+                         (int (Math/ceil (/ (count (rest test)) 10)))))) 
+                    (count (rest test)))]
+    (map #(mean-avg-precision (take % wppx-tppx) %) nbaseline)))
+
 
 
 ;----------make charts for popularity of security related keywords-----XXXXXXX
@@ -549,18 +611,40 @@
    (map-charts-tables 'chromium chromium-experiment-3 run-experiment-3d 'before)
   "
   [target target-exp-fnc run-exp-fnc outputname]
-  (let [map-data (target-exp-fnc target run-exp-fnc)]
+  (let [map-data (target-exp-fnc target run-exp-fnc outputname)]
     (save-as-csv map-data 
-      (str my-home "/results1/"target"-map-farsec-incanter-"outputname".csv") 
-      ["tppx" "wppx" "tpp" "wpp" "baseline"])))
+      (str my-home "/results1/"target"-map-farsec-gnuplot-"outputname".csv") 
+      (if (= outputname "tpp")
+        ["best tppx" "tpp" "best tpp" "tppx" "baseline"]
+        ["best wppx" "wpp" "best wpp" "wppx" "baseline"]))))
+
+(defn map-charts-tables2
+  "
+   Generates the mean average precisions for each treatment.
+  
+   Examples: For 'Without-Ranking, before
+   
+   (map-charts-tables2 'wicket wicket-experiment-3 run-experiment-3d 'before)
+   (map-charts-tables2 'ambari ambari-experiment-3 run-experiment-3d 'before)
+   (map-charts-tables2 'camel camel-experiment-3 run-experiment-3d 'before)
+   (map-charts-tables2 'derby derby-experiment-3 run-experiment-3d 'before)
+   (map-charts-tables2 'chromium chromium-experiment-3 run-experiment-3d 'before)
+  "
+  [target target-exp-fnc run-exp-fnc outputname]
+  (let [map-data (target-exp-fnc target run-exp-fnc outputname)]
+    (save-as-csv map-data 
+      (str my-home "/results1/"target"-map-farsec-gnuplot-"outputname".csv") 
+      (if (= outputname "tpp")
+        ["best tppx" "tpp" "best tpp" "tppx" "baseline"]
+        ["best wppx" "wpp" "best wpp" "wppx" "baseline"]))))
 
 (defn map-charts
   "
    Generate charts from the mean average precisions.
   "
   [target title] ; (map-charts 'wicket 'Wicket)
-  (let [before-results  (map-charts-data (str my-home "/results1/"target"-map-farsec-incanter-before.csv"))
-        after-results   (map-charts-data (str my-home "/results1/"target"-map-farsec-incanter-after.csv"))
+  (let [before-results  (map-charts-data (str my-home "/results1/"target"-map-farsec-incanter-wpp.csv"))
+        after-results   (map-charts-data (str my-home "/results1/"target"-map-farsec-incanter-tpp.csv"))
         y-max           (max (nth before-results 0) (nth after-results 0))]
     (map-chart 
       y-max
@@ -631,3 +715,252 @@
         (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
        (transpose)
        (matrix)))
+
+
+
+;----------------------Match-----------------------
+
+(defn wicket-experiment-match-3 [target exp-fnc treatment] ;exp-fnc = run-experiment-3c (after) or run-experiment-3d (before), treatment wpp tpp
+  (if (= treatment "tpp")
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"camel-cross-train.csv")
+            (str my-home "/resources/data1/camel/camel-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"camel-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"camel-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"camel-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"camel-farsecid-test.csv") 
+            (str my-home "/resources/data1/camel/camel-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"camel-cross-train.csv") (str my-home "/resources/data1/"target"/"target"camel-cross-test.csv") (str my-home "/resources/data1/"target"/"target"camel-crossid-test.csv") naive-bayes)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv") (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv") (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv") naive-bayes)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv")
+            (str my-home "/resources/data1/ambari/ambari-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsecid-test.csv") 
+            (str my-home "/resources/data1/ambari/ambari-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") multilayer-perceptron)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            multilayer-perceptron)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))))
+
+(defn ambari-experiment-match-3 [target exp-fnc treatment]
+  (if (= treatment "tpp")
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv")
+            (str my-home "/resources/data1/derby/derby-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"derby-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"derby-farsecid-test.csv") 
+            (str my-home "/resources/data1/derby/derby-mat-train.csv") 
+            random-forest)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv") (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv") (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv") random-forest)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv") (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv") (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv") multilayer-perceptron)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv")
+            (str my-home "/resources/data1/derby/derby-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"derby-farsec-test.csv")
+            (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"derby-farsecid-test.csv") 
+            (str my-home "/resources/data1/derby/derby-mat-train.csv") 
+            multilayer-perceptron)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") naive-bayes)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") logistic-regression)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))))
+
+(defn camel-experiment-match-3 [target exp-fnc treatment]
+  (if (= treatment "tpp")
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv") 
+            (str my-home "/resources/data1/derby/derby-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-farsecid-test.csv") 
+            (str my-home "/resources/data1/derby/derby-mat-train.csv") 
+            multilayer-perceptron)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv") (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv") (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv") multilayer-perceptron)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv") (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv") (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv") logistic-regression)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-train.csv") 
+            (str my-home "/resources/data1/derby/derby-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-cross-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-crossid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"derby-farsecid-test.csv") 
+            (str my-home "/resources/data1/derby/derby-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") naive-bayes)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") logistic-regression)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))))
+  
+(defn derby-experiment-match-3 [target exp-fnc treatment]
+  (if (= treatment "tpp")
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv")
+            (str my-home "/resources/data1/ambari/ambari-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsecid-test.csv") 
+            (str my-home "/resources/data1/ambari/ambari-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv") (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv") (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv") logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv") (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv") (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv") naive-bayes)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv")
+            (str my-home "/resources/data1/ambari/ambari-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsecid-test.csv") 
+            (str my-home "/resources/data1/ambari/ambari-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") naive-bayes)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))))  
+
+(defn chromium-experiment-match-3 [target exp-fnc treatment]
+  (if (= treatment "tpp")
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv")
+            (str my-home "/resources/data1/ambari/ambari-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsecid-test.csv") 
+            (str my-home "/resources/data1/ambari/ambari-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv") (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv") (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv") logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv") (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv") (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv") logistic-regression)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-train.csv")
+            (str my-home "/resources/data1/ambari/ambari-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-cross-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"ambari-crossid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"ambari-farsecid-test.csv") 
+            (str my-home "/resources/data1/ambari/ambari-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))
+    (->> [(exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") logistic-regression)
+          (run-experiment-3b (str my-home "/resources/data1/"target"/"target"-mat-train.csv") (str my-home "/resources/data1/"target"/"target"-mat-test.csv") (str my-home "/resources/data1/"target"/"target"-matid-test.csv") naive-bayes)
+          (exp-fnc 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-train.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsec-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-matid-test.csv")
+            (str my-home "/resources/data1/"target"/"target"-farsecid-test.csv") 
+            (str my-home "/resources/data1/"target"/"target"-mat-train.csv") 
+            naive-bayes)
+          (run-experiment-3a (str my-home "/resources/data1/"target"/"target"-matid-test.csv"))]
+         (transpose)
+         (matrix))))
