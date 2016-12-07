@@ -1,6 +1,0 @@
-train,test,learner,tn,tp,fn,fp,err,pd,pf,prec,g-measure
-wicketambari-farsec-train.csv,wicketambari-farsec-test.csv,logistic_regression,394,2,4,100,20.8,33.33333333333333,20.24291497975709,1.9607843137254901,47.016706443914074
-wicketambari-farsec-train.csv,wicketambari-farsec-test.csv,naive_bayes,304,3,3,190,38.6,50.0,38.46153846153846,1.55440414507772,55.172413793103445
-wicketambari-farsec-train.csv,wicketambari-farsec-test.csv,random_forest,471,1,5,23,5.6000000000000005,16.66666666666667,4.65587044534413,4.166666666666667,28.37349397590362
-wicketambari-farsec-train.csv,wicketambari-farsec-test.csv,ib_k,481,0,6,13,3.8,0,2.631578947368421,0,0
-wicketambari-farsec-train.csv,wicketambari-farsec-test.csv,multilayer_perceptron,456,0,6,38,8.799999999999999,0,7.692307692307692,0,0

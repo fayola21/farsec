@@ -1,6 +1,0 @@
-train,test,learner,tn,tp,fn,fp,err,pd,pf,prec,g-measure
-wicketambari-cross-train.csv,wicketambari-cross-test.csv,logistic_regression,414,1,5,80,17.0,16.66666666666667,16.19433198380567,1.234567901234568,27.80389523169913
-wicketambari-cross-train.csv,wicketambari-cross-test.csv,naive_bayes,396,3,3,98,20.200000000000003,50.0,19.838056680161937,2.9702970297029703,61.58631415241057
-wicketambari-cross-train.csv,wicketambari-cross-test.csv,random_forest,494,0,6,0,1.2,0,0,0,0
-wicketambari-cross-train.csv,wicketambari-cross-test.csv,ib_k,490,0,6,4,2.0,0,0.8097165991902834,0,0
-wicketambari-cross-train.csv,wicketambari-cross-test.csv,multilayer_perceptron,466,0,6,28,6.800000000000001,0,5.668016194331984,0,0
