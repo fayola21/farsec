@@ -1,0 +1,1 @@
+Ensure that a temporary file is not created for a lob obtained from resultset unless user updates it.    Currently LOBStreamControl has a buffer limit of 4k if the lob is larger than this a temporary file is created. Ensure that lob data is kept in memory unless user start to update it.   

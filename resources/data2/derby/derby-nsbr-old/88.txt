@@ -1,0 +1,1 @@
+RunSuite summary rounds incorrectly    Example output from RunSuite in the report file203 Tests Run100% Pass (202 tests passed) 0% Fail (1 tests failed)A single failure should not lead to 0% fail and 100% pass.Should round down on pass percentage and round up on fail percentage.   

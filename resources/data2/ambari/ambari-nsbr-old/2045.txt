@@ -1,0 +1,1 @@
+Add Unit test to verify  client re-install for install failed client    Add Unit test to verify  When INSTALL is schedules on client components it should also be scheduled on components that are in INSTALL_FAILED state   

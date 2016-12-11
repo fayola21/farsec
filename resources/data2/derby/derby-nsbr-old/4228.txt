@@ -1,0 +1,1 @@
+Remove unused pre-i18n constructors in BatchUpdateException    client.am.BatchUpdateException contains a number of unused constructors. There is a comment saying that they should be removed when i18n is complete. Since the i18n work on the client driver has been completed  and the constructors are no longer used  they should be removed.   

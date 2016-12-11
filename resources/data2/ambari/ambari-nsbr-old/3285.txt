@@ -1,0 +1,1 @@
+Help Text for NameService ID when enabling HA is random in responding to mouse movement and clicks.       

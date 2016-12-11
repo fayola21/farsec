@@ -1,0 +1,1 @@
+Security wizard - Javascript error is thrown when zooKeeper is included as a secure service.       

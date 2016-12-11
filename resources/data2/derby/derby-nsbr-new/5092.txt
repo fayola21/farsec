@@ -1,0 +1,1 @@
+[patch] avoid Boolean allocations for rowset data in client cursor    code allocates a new Boolean for every row value of a boolean column  creating needless garbage. Patch switches to use immutable Boolean.TRUE and Boolean.FALSE values.   

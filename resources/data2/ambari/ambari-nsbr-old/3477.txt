@@ -1,0 +1,1 @@
+JavaScript errors during service tab changing    Steps:Open browser console.Run start or stop operation for any service.Switch between some services repeatedly.Result:'Calling set on destroyed view' was appeared in console.   

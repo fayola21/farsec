@@ -1,0 +1,1 @@
+Replace felix.jar file with the felix sources    In order to bundle Derby with popular linux distributions like Debian and Ubuntu  it must be possible to build Derby from sources and existing linux components. By replacing Felix jar with the corresponding sources  we move another step closer to being able to bundle Derby with linux distributions.   

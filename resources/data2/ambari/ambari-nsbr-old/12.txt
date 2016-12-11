@@ -1,0 +1,1 @@
+Add additional transition states    For running a server (daemon)  the current states are: START and STARTED. It would be nice to have transition state: STARTING  and STOPPING.   

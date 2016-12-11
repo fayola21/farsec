@@ -1,0 +1,1 @@
+'kdestroy' not required for zookeeper smoke test    zookeeper smoke test passes without having to 'kdestroy' on the user running the smoke test.   

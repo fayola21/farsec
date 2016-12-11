@@ -1,0 +1,1 @@
+Change the status message (success/error) location so that it shows below the page summary box  rather than above  more better visibility       

@@ -1,0 +1,1 @@
+Wrong install status shown in Add Service Wizard    Upon master component install failure  the host status becomes 'warning' instead of 'failed' for Add Service Wizard.   

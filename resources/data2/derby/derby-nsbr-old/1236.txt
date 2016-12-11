@@ -1,0 +1,1 @@
+Verify that applications can't manipulate the transaction state while inside a distributed transaction.    The next rev of the JDBC4 spec will clarify that applications may not call the following methods while inside distributed transactions: setAutoCommit( true )  commit()  rollback()  and setSavepoint(). We should verify that we conform.   

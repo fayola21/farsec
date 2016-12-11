@@ -1,0 +1,1 @@
+Minor cleanup in the Derby JUnit classes    Several of the JUnit classes have grown/developed and need various types of cleanup; remove unused imports improve/add JavaDoc remove unused methods etc...This issue is basically a placeholder for the patches.   

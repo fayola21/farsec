@@ -1,0 +1,1 @@
+Need better error log message when agent unable to reach server    http://hortonworks.com/community/forums/topic/installing-hdp2-0-6-on-centos6-4/The current ERROR in the agent log can be cryptic.   

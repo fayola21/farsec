@@ -1,0 +1,1 @@
+Make class org.apache.derby.iapi.store.raw.PageKey final    The methods of the PageKey class are called frequently both from the lock manager and the cache manager. Since no other classes extend it  it should be declared final to help the run-time compiler optimize the method calls.   

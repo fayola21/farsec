@@ -1,0 +1,1 @@
+Remove lang/scrollCursors1.sql    lang/scrollCursors1.sql was converted to JUnit in DERBY-2542. The canons were removed  but the original sql test file is still in the code. The sql file should also be removed.   

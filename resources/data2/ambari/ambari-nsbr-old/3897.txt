@@ -1,0 +1,1 @@
+Restart indicator flags not showing up for HDP 1.3.x stack services    When config-groups are used for HDP 1.3.x stack services  the stale_configs are always false.   

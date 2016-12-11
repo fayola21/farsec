@@ -1,0 +1,1 @@
+wrong property name for https address of NN in hdfs-site.xml    The property which defines the https address of namenode is dfs.namenode.https-address. In ambari   the property name is mentioned as 'dfs.https.namenode.https-address'   

@@ -1,0 +1,1 @@
+Fix MySQL and Oracle DDL scripts according to last DB changes    user_name column was added to clusterconfigmapping and hostconfigmapping tables. This changes should be made to DDL scripts for Oracle and MySQL also.   

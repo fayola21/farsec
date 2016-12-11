@@ -1,0 +1,1 @@
+filtering by selected hosts resets pagination    1. page size 102. select all 10 hosts on first page3. go to page 2  select 2 hosts (total 12 selection)4. click on '12 host selected' and it goes to page 1  1-10 of 12 hosts (correct)5. click to go to page 2 (to see the 2 hosts selected) but it resets to page 1  1-10 of 103   

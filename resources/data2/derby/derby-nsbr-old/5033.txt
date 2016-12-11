@@ -1,0 +1,1 @@
+[patch] System.arraycopy  being native  is more performant    various places in the code  manual loops are used to copy one array to another  switch with System.arraycopy for better performance.   

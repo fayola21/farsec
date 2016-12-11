@@ -1,0 +1,1 @@
+System logs are not present on tasktracker    Run a mapreduce job.Find the attempt id and look for system logs on tasktracker.http://ec2-54-224-138-78.compute-1.amazonaws.com:50060/tasklog?attemptid=attempt_201304121816_0003_m_000000_0Actual result:The syslogs are not present here.Only stdout and stderr logs are present.   

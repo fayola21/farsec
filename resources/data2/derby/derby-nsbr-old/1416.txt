@@ -1,0 +1,1 @@
+Message id J029 (CONN_RESTORE_FROM) does not have a matching message text    This is used by engine.org.apache.derby.jdbc.Driver20. Uncovered by the test i18n/MessageBundleTest.jav   

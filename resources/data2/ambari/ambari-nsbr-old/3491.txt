@@ -1,0 +1,1 @@
+HBase Master/RegionServer can no longer be started after reconfiguring HBase or HDFS with NameNode HA enabled       

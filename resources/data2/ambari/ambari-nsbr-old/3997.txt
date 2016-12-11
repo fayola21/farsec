@@ -1,0 +1,1 @@
+Config-Group POST call should tolerate name reuse    Cluster wide we prohibit reuse of config-group name. However names can be reused across services. The API should be updated to tolerate POST/PUT of similar named config-groups.   

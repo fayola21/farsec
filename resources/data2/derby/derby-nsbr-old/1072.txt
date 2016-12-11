@@ -1,0 +1,1 @@
+Misleading/wrong error message while dropping a view    while dropping a view which does not really exist on a database   the error message thrown by ij says ERROR X0X05: Table 'VIEW222' does not exist. It looks like we should make the error message to say that 'Table/View' does not exist  instead of 'table'.Look at other messages that are shared for both Table and View.   

@@ -1,0 +1,1 @@
+NullPointerException when invoking statement event listeners if one of the listeners is null    If PooledConnection.addStatementEventListener() is called with a null argument  the client driver throws a NullPointerException when the listeners are invoked. Embedded does not throw an exception.   

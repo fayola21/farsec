@@ -1,0 +1,1 @@
+ContextService.notifyAllActiveThreads()  and network server code need a privileged block around the calls to Thread.interrupt()    It looks to me as though the call to interrupt() can raise a SecurityException. I think this may give rise to another permission that we need to add to our template policy file and to our security documentation.   

@@ -1,0 +1,1 @@
+Mapreduce pid directory cutomization fails    Changing mapreduce log directory prefix results in Live status showing history server not started.   

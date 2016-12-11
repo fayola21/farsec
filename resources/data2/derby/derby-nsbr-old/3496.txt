@@ -1,0 +1,1 @@
+CallableStatement with output parameter leaves cursor open after execution    When executing a CallableStatement which has an output parameter  the language result set is left open and makes subsequent calls to Connection.setTransactionIsolation() fail with 'ERROR X0X03: Invalid transaction state - held cursor requires same isolation level'.   

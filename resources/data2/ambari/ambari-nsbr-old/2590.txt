@@ -1,0 +1,1 @@
+JS Error when deleting a widget after sorting it on remove/edit sign       

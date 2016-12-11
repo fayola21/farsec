@@ -1,0 +1,1 @@
+Storm: Add Storm UI Server  DRPC Server  LogViewer Server components config categories.    Add master components Storm UI Server  DRPC Server  Log Viewer Server. Create config categories for components. Replace exist configs according to categories.   

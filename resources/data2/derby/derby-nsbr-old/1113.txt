@@ -1,0 +1,1 @@
+transaction logs files requried for recovery are getting deleted when backup and checkpointas are running in parallel.    ----------------------------------------------------------------2006-03-14 19:45:40.573 GMT: Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.0.0 alpha - (1): instance c013800d-0109-fa4a-bf58-0000001078a0on database directory E:/

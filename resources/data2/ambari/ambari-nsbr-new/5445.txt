@@ -1,0 +1,1 @@
+When new host components are created thru API  some indication should be given that Nagios has to be restarted    Need to fix this on API side   

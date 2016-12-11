@@ -1,0 +1,1 @@
+For update statement  collect generated keys if Statement.RETURN_GENERATED_KEYS flag is supplied to the JDBC call.    DERBY-6414 is providing SQL support to update identity columns using DEFAULT keyword. This jira will look into collecting generated keys if Statement.RETURN_GENERATED_KEYS flag is supplied to the JDBC call for an UPDATE sql.   

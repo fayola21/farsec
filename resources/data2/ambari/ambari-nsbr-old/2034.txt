@@ -1,0 +1,1 @@
+Disable 'Add Component' button in the Host Details page if the host is in UNKNOWN state or !isHeartbeating       

@@ -1,0 +1,1 @@
+Manage Config Groups: if Ganglia is not installed config group popup doesn't appear    We take some data from Ganglia metrics for hosts and if Ganglia is not installed browser throw js error which blocks popup initializing.   

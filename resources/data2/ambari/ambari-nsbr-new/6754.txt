@@ -1,0 +1,1 @@
+Resource Manager HA: after enabling RM HA  UI does not display standby and active Resource Managers on Summary tab    STR:1) Deploy 3-node cluster2) Enable RM HA3) Go to YARN Service page  Summary tabResult: There are not Resource Managers on Summary tab4) Select config tab and after that return back to Summary tabResult: Summary tab is as expected   

@@ -1,0 +1,1 @@
+Cleanup suspect coding practices in org.apache.derby.iapi.services.io package    Similar to DERBY-6177.   

@@ -1,0 +1,1 @@
+Capacity Scheduler config cannot be saved    STR: Go to YARN &gt; Config Under 'Scheduler' section  modify 'Capacity Scheduler' configs. Hit Save. The page reloads. The modifications are reverted back.   

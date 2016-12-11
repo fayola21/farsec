@@ -1,0 +1,1 @@
+Fast user can skip 'Customize Services' step (add service wizard) while configs are not loaded    STR Install cluster Go to Add Service Wizard Proceed to step 'Customize services' While configs are loading click 'Next'.If user tried to install services with configs that should be provided manually using UI (like Nagios)  he will get JS-error on next step.   

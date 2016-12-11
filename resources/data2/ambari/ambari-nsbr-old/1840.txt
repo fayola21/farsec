@@ -1,0 +1,1 @@
+For global properties show restart for appropriate services only    Currently when one service changes a property which doesnt effect all other services  the rest of the services are marked for restart. This is because the global tags are changed. Using work done in AMBARI-1797  only appropriate services should be marked as needing restart.   

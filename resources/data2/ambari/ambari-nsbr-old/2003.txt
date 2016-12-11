@@ -1,0 +1,1 @@
+Hosts tab: clicking on red badge should not toggle 'Alerts' filter    Clicking on the red badge in the Hosts tab should not toggle the 'Alerts' filter on the Hosts page (clicking anywhere in Hosts tab should go to Hosts page with 'All' selected).   

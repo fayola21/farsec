@@ -1,0 +1,1 @@
+Fix copyright notices and other IBM/Cloudscape references in java/demo/*    Assigning this issue to 'Documentation' component  as there is not a Demos component.   

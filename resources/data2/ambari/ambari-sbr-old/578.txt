@@ -1,0 +1,1 @@
+Custom Config page: don't allow form submission if there are client-side validation errors    Currently the button looks disabled when there are client-side validation errors  but it is clickable. This is a problem because there is no server-side validation to make sure that the passwords match.   

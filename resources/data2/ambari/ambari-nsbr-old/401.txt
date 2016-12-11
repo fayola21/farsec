@@ -1,0 +1,1 @@
+Manual config changes for nn get reset on stop/start from hmc    Manual config changes for nn get reset on stop/start from hmc   

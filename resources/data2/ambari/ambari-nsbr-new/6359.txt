@@ -1,0 +1,1 @@
+Hosts page : mysterious 'selected hosts' keep coming back    See attached video.Somehow  there are always 10 hosts selected. After explicitly hitting 'clear selection'  page refresh somehow reverts back to 10 hosts being selected.   

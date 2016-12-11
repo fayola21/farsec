@@ -1,0 +1,1 @@
+Add utility methods to query state of URL attributes in EmbedConnection    Add utility methods to determine whether URL attributes are set or have the value true.The motivation for the change is improved readability/formatting of the code.   

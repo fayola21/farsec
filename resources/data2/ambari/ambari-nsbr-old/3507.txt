@@ -1,0 +1,1 @@
+'Assign Slaves' step. Error with installed NodeManagers    Installed NodeManagers don't appears as selected checkboxes on the 'Assign Slaves' step.   

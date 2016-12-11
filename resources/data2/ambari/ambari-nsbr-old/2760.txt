@@ -1,0 +1,1 @@
+Stack 2.0.3  Hive Check execute fail    When installing Hadoop 2 stack  Hive service check fails to run.   

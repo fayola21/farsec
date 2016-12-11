@@ -1,0 +1,1 @@
+Hosts: clarify which filter is in effect    1. Use a shadow with high contrast to make the current filter more visible.2. Show how many hosts total / how many are in the current view  and a 'Clear all filters' link.   

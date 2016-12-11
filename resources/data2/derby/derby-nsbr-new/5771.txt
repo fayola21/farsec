@@ -1,0 +1,1 @@
+Use TestNullOutputStream where possible    Derby's test framework provides a stream class  TestNullOutputStream  that discards all data written to it. Utf8CcsidManagerClientTest's constructor and BaseJDBCTestCase.runScript() create their own anonymous classes that provide the same functionality. They should be changed to reuse TestNullOutputStream.   

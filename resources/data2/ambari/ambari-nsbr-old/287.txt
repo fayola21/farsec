@@ -1,0 +1,1 @@
+Add link to uninstall on index page    Uninstall link is now hooked into the index page.   

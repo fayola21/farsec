@@ -1,0 +1,1 @@
+[patch] access static constants with static references    code access static fields by fetching instances and getting the static variable from the object. Just use the class reference.   

@@ -1,0 +1,1 @@
+Clean up table header UI for sorting and filter clear 'x' for Hosts table       

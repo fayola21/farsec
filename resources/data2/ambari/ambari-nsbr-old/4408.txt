@@ -1,0 +1,1 @@
+Background operations dialog in weird state after exception    Background operations dialog goes into a weird state after hitting an exception with request_schedule information. It always expects request_schedule information to be present.   

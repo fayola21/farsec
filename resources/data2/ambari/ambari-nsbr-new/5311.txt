@@ -1,0 +1,1 @@
+Falcon fails to deploy    Looks like Falcon service definition on the stack has changed by AMBARI-5278.Currently  any new definition of globals require duplicating them in the UI code but that was not done  so this is breaking Falcon installation.   

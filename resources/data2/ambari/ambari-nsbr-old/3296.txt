@@ -1,0 +1,1 @@
+SSH key in logs?    Notice after agent registration (automatic with SSH key)  I see the SSH key in the popup. Also see it in the ambari-agent.log.Not sure we want to capture this in the log and show in the UI?   

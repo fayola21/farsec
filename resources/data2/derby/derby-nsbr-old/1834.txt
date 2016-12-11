@@ -1,0 +1,1 @@
+Correct message SQL State 01006 to reflect that is being revoked - 'user' and update the Ref Manual    the SQL State 01006 'Privilege not revoked from {0}.' should be changed to 'Privilege notrevoked from user {0}.'Once changed in the code  the Ref Manual file rrefexcept71493. dita needs to be updated as well.   

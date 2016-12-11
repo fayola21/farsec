@@ -1,0 +1,1 @@
+Ambari should install yum priorities on all nodes to ensure main repo is picked first    Depending on which main hadoop repo is used to setup the cluster  sometimes  wrong packages may be pulled from add-on repos even if the main repo has a higher priority and has the same package. This can create problems by incompatible dependencies getting installed at times.   

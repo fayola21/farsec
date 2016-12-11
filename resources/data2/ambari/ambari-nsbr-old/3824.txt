@@ -1,0 +1,1 @@
+Provide change config-group action on host configs    On a host's configs page  provide a Change action beside config-group to switch from one group to another  or to Default.   

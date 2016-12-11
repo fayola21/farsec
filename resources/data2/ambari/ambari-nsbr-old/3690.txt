@@ -1,0 +1,1 @@
+Typo in text label on Hosts page    On the Hosts page  we have a typo in the label 'filterd'. Should be 'filtered'.   

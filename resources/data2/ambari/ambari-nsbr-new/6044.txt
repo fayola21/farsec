@@ -1,0 +1,1 @@
+Issues with jdbc properties    remove dots in --help params description and in warningscopy fails if jdbc selected by --jdbc-driver is already in resourceshide other points of ambari-server setup if jdbc options are passed and server is running   

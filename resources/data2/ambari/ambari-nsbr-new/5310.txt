@@ -1,0 +1,1 @@
+Don't do server-client version match check if App.version have not been set on ambari-web    With the new server-client version match check introduced  it is a bit annoying when building ambari-web locally and testing on the server for e2e testing  as the server and client versions must match exactly or you cannot proceed. We'll disable the check if App.version == ''.   

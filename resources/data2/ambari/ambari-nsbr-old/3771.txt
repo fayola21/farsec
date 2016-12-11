@@ -1,0 +1,1 @@
+Ambari should allow changing Ganglia cache location    Ambari allows changing Ganglia directory during installation  but not after the cluster is installed. We should allow changing this directory after cluster installed   

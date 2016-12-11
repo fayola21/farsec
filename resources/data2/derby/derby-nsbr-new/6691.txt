@@ -1,0 +1,1 @@
+ROW_NUMBER should not be allowed as argument in a procedure call    Fails with assert/NPE instead of proper error:ij&gt; call syscs_util.syscs_compress_table('APP'  'T'  row_number() over ());ERROR XJ001: Java exception: 'ASSERT FAILED cannot get interface without operand: org.apache.derby.shared.common.sanity.AssertFailure'.   

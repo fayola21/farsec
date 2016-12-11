@@ -1,0 +1,1 @@
+HBase master shuts down immediately after start in a secure cluster.    HBase master shuts down immediately after start in a secure cluster.Wrong settings in the hbase_master_jaas. Need to replace the 'HOST with actual fqdn   

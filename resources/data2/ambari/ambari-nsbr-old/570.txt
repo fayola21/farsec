@@ -1,0 +1,1 @@
+Consolidate head tags for organization and combine CSS files for faster load       

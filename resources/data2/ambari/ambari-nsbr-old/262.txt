@@ -1,0 +1,1 @@
+Init Wizard: Advanced Config validation errors can be bypassed    Make the Naigos password (and re-type password) different so as you cause a validation error.This will let the user move on to the next screen by ignoring all other validation errors on this page.   

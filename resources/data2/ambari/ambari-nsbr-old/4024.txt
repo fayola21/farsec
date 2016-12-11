@@ -1,0 +1,1 @@
+HiveSchema file for Hive should be hive-schema-0.12.0.oracle.sql    HiveSchema file for Hive should be hive-schema-0.12.0.oracle.sql   

@@ -1,0 +1,1 @@
+Fix oozie smoke test failure    Oozie smoke test failing with 'Error: E0301 : E0301: Invalid resource &#91;usr/lib/oozie/conf&#93;'   

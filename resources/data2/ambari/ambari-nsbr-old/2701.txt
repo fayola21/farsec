@@ -1,0 +1,1 @@
+Implement a cleanup thread that removes files in ambari-agent data directory that are older than a configurable amount of time    Implement a cleanup thread that removes files in ambari-agent data directory that are older than a month or so(must be configurable).It's required  because the directory will grow unbounded if it's not cleaned up.   

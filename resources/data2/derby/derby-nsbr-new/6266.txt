@@ -1,0 +1,1 @@
+Add ability to print a Derby execution ResultSet as xml.    Add a method for printing an org.apache.derby.iapi.sql.ResultSet as xml. The idea is to get a quick snapshot of a plan shape without all of the overhead of PlanExporter and runtimestatistics. This method could be used by our tests to verify plan shapes.   

@@ -1,0 +1,1 @@
+Support uninstall state in mysql modules    Currently  there is no support for uninstall of mysql package.   

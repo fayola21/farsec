@@ -1,0 +1,1 @@
+Background ops dialog checkbox UI cleanup    The OK and the text should be on the same centerline row.   

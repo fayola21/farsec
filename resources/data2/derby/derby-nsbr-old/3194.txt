@@ -1,0 +1,1 @@
+LOCALIZEDDISPLAY of CURRENT_TIMESTAMP returns only the TIME    In IJ - LOCALIZEDDISPLAY ON causes VALUES CURRENT_TIMESTAMP to display on the TIMEij&gt; values current_timestamp;1--------------------------2007-11-09 10:37:58.8281 row selectedij&gt; localizeddisplay on;ij&gt; values current_timestamp;1---------------10:38:10 AM PST1 row selected   

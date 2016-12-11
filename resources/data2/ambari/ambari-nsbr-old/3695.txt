@@ -1,0 +1,1 @@
+'Confirm hosts' shows 'ntpd not running' warning  but it's running on host    STR: Install  setup and start Ambari server by default. Reach 'Choose services' phase of installer.Actual result:'Confirm hosts' shows warning that ntpd service isn't running on hosts  but it's running in console by command service ntpd status   

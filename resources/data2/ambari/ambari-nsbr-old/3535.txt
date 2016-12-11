@@ -1,0 +1,1 @@
+skip 'Customize Services' step for services that can't be customized    Services like PIG  Sqoop can't be customized.Wizard should check services-list (that user want to add) and if no one service can't be customized  should skip 'Customize' step ('Back' click on the next step should also be verified).   

@@ -1,0 +1,1 @@
+Slaves API-calls    For Slaves (DataNodes  NodeManagers  RegionServers  or TaskTrackers): Start Stop Restart Decommission Recommission   

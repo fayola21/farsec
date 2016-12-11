@@ -1,0 +1,1 @@
+Services mysteriously disappear after Stack upgrade       

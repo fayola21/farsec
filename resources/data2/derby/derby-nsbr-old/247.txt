@@ -1,0 +1,1 @@
+Network Server demo program should support Derby network client driver    Currently  the Network Server demo programs require the IBM Universal JDBC Driver (JCC) for client functionality. The demo should be enhanced to also support using the Derby client driver.   

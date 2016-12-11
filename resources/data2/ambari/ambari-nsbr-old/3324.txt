@@ -1,0 +1,1 @@
+UI optimization: constrain hostComponents model loading    Constrain loading hostComponents into model  so then it loads only on initial loading or when added new hostComponents.   

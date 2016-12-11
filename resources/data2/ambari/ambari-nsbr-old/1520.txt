@@ -1,0 +1,1 @@
+Alerts take around 20-30 seconds to show up everytime you refresh the dashboard.    Alerts take around 20-30 seconds to show up everytime you refresh the dashboard.   

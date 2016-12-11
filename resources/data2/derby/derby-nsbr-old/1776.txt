@@ -1,0 +1,1 @@
+ERROR 42Z72: XML syntax error; missing keyword(s): 'AS'. - Misleading text    create table t (i int  x xml);select xmlserialize from t;ERROR 42Z72: XML syntax error; missing keyword(s): 'AS'.This is not an 'XML Syntax error'  it's a syntax in the SQL language. No need to have a special error messgae here  wouldn't the error be caught by regular parsing?   

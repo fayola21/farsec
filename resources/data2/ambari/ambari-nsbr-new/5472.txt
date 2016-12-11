@@ -1,0 +1,1 @@
+Use SchemaTool in Hive for init metastore DB schema    When Ambari create the metastore database in MySQL it uses auto create feature. This does not create the transaction tables  so any ACID operations (including streaming ingest) will not work.   

@@ -1,0 +1,1 @@
+Errors/messages early in starting the network server through NetworkServerControl.start() are not reported to the PrintWriter passed into start().    Cause seems to be not calling setLogWriter() in NetworkServerControlImpl.start() before calling startNetworkServer.   

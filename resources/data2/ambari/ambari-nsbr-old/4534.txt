@@ -1,0 +1,1 @@
+Add ability to delete individual DataNode  TaskTracker  NodeManager  and RegionServer from Host Details page    Note: We let the user delete Storm Supervisor already.   

@@ -1,0 +1,1 @@
+Post Ambari upgrade  Hive and Oozie fail to start after reconfigure       

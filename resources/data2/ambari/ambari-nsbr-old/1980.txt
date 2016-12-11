@@ -1,0 +1,1 @@
+When nagios is unavailable  return null instead of throwing an Exception    NAGIOS_SERVER alerts are retrieved from the nagios server when requesting the host_component. There is a SystemException thrown in the case of an IOException  which propagates as a 500 error for the entire request.In this case  set the nagios_alerts element to null instead of the 500 error.   

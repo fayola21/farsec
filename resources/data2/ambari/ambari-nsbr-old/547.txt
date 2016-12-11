@@ -1,0 +1,1 @@
+Change os type check during node bootstrap to allow RHEL6 or CentOS6 nodes    hmc/php/frontend/addNodes/verifyAndUpdateNodesInfo.php hardcodes checks to only allow rhel5 or centos5 nodes.   

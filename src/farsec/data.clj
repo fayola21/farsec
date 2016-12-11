@@ -22,11 +22,11 @@
             (def data-name-pathway (str my-home (subs (str :/resources/data1/wicket/wicket-rest.csv) 1)))
             (exp-0 data-name-pathway 'wicket)
   "
-  [data-name-path data-name-str]
+  [outdir data-name-path data-name-str split] ;split = 0.5, 0.75 (for ambari)
   (let [data        (read-as-csv data-name-path)
         dummy-att   (map read-string (map first (rest data))) ; to make sure the sort is correct.
         data-rows   (sort-by first (map #(flatten (vector %1 %2)) dummy-att (rest data)))
-        nsplit      (int (/ (count data-rows) 2))
+        nsplit      (int (* (count data-rows) split))
         train       (take nsplit data-rows)
         test        (drop nsplit data-rows)
         train-sbrs  (filter #(= (last %) "1") train)
@@ -34,10 +34,10 @@
         test-sbrs   (filter #(= (last %) "1") test)
         test-nsbrs  (filter #(= (last %) "0") test)
         dir-fnc     (fn [one dir-path] (spit (str dir-path (str (second one)".txt")) (nth one 2)))]
-     [(map #(dir-fnc % (str my-home "/resources/data1/" data-name-str "/" data-name-str"-sbr-old/")) train-sbrs)
-      (map #(dir-fnc % (str my-home "/resources/data1/" data-name-str "/" data-name-str"-nsbr-old/")) train-nsbrs)
-      (map #(dir-fnc % (str my-home "/resources/data1/" data-name-str "/" data-name-str"-sbr-new/")) test-sbrs)
-      (map #(dir-fnc % (str my-home "/resources/data1/" data-name-str "/" data-name-str"-nsbr-new/")) test-nsbrs)]))
+     [(map #(dir-fnc % (str my-home "/resources/"outdir"/" data-name-str "/" data-name-str"-sbr-old/")) train-sbrs)
+      (map #(dir-fnc % (str my-home "/resources/"outdir"/" data-name-str "/" data-name-str"-nsbr-old/")) train-nsbrs)
+      (map #(dir-fnc % (str my-home "/resources/"outdir"/" data-name-str "/" data-name-str"-sbr-new/")) test-sbrs)
+      (map #(dir-fnc % (str my-home "/resources/"outdir"/" data-name-str "/" data-name-str"-nsbr-new/")) test-nsbrs)]))
 
 ;-------------------------------------------------------------------
 ; Creating data matrices with the top n security related keywords.

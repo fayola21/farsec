@@ -1,0 +1,1 @@
+Hadoop Core Health Check script needs to be included in Ambari HDP installations       

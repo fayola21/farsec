@@ -1,0 +1,1 @@
+Add hadoop-lzo to be one of the rpms to check for before installation.    Add hadoop-lzo to be one of the rpms to check for before installation.   

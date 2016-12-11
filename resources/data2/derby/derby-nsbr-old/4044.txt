@@ -1,0 +1,1 @@
+Use helper methods from IdUtil to quote SQL identifiers in EmbedResultSet    EmbedResultSet has two methods quoteSqlIdentifier() and getFullBaseTableName() which should be replaced with IdUtil.normalToDelimited() and IdUtil.mkQualifiedName()  respectively.   

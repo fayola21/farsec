@@ -1,0 +1,1 @@
+Create heatmap legend entries for missing data/invalid hosts    Currently we dont fill anything which is ambiguous.   

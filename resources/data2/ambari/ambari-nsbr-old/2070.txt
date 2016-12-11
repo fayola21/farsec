@@ -1,0 +1,1 @@
+Changing service directories should popup a confirmation/warning dialog upon save    Post-install  if the user tries to reconfigure NN  SNN  MapReduce local/system directories  we should popup a confirmation/warning upon Save as this is potentially a dangerous operation.   

@@ -1,0 +1,1 @@
+jdbcapi/blobclob4BLOB.java fails with JCC drivers    Test fails with JCC versions 2.4  2.6 and 2.8. Sample diff:&lt; FAIL: Caught exception java.lang.NegativeArraySizeException592a592&gt; FAIL: Caught exception java.lang.NegativeArraySizeException:   

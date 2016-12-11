@@ -1,0 +1,1 @@
+Restart All fails for Client only components    Restart for a service calls stop and start on all components. Currently there is no implementation for stopping a client component. This leads to error message: 'Stop not implemented for component'   

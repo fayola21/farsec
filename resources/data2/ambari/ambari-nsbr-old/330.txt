@@ -1,0 +1,1 @@
+Provide a way to resume if browser crashes/is closed during the deploy-in-progress    Currently when the browser is closed one cannot view the install in progress. They will have to look at the logs on the hmc machine to figure out whats going on. It would be nice if we can provide a way to get back to the install progress.   

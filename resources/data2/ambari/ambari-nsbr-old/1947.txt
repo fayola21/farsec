@@ -1,0 +1,1 @@
+Oozie Smoke test fails with errors on the start services/install page.    Ozzie smoke tests fail   

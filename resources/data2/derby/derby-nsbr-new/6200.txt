@@ -1,0 +1,1 @@
+Cleanup suspect coding practices in the org.apache.derby.iapi.types package    Similar to DERBY-6177.   

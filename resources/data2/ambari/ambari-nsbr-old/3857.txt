@@ -1,0 +1,1 @@
+Clicking on Settings link navigates to login page for a non-admin user.    This happens because non-admin users are not authorized to make POST/PUT calls to any resource  including 'persist'.For now  let's hide 'Settings' if the user is a non-admin user.   

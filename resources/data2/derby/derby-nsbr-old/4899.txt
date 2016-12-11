@@ -1,0 +1,1 @@
+Refactor access to primary structures in AlterTableConstantAction    Many of the private methods in impl.sql.execute.AlterTableConstantAction take the activation (and sometimes a number of references obtained through it) as an argument. This seems unnecessary  and it clutters the code with argument passing  boilerplate code and variable hiding.   

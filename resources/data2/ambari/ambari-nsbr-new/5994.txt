@@ -1,0 +1,1 @@
+Storm UI in Ambari quick link fails when Storm UI server is not co-hosted with nimbus host    quick link for Storm UI was linked with nimbus server. it should use Storm UI server host.   

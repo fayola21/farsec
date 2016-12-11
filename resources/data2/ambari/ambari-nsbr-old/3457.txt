@@ -1,0 +1,1 @@
+When multiple MR2 Clients are installed  the label is a bit off    When multiple MR2 Clients are installed  the MR2 summary panel has a label like: '3 MapReduce2 Client s Installed' (with an unnecessary space)   

@@ -1,0 +1,1 @@
+Ambari version is unknown during installer via UI    During installer user does not see Ambari Version from UI (see screenshot)  but on monitoring phase it's available in the same Admin -&gt; About   

@@ -1,0 +1,1 @@
+AccessControlException when exiting junit.swingui.TestRunner    When the JUnit tests are run with junit.swingui.TestRunner  one gets the following exception when the test runner window is closed:Exception in thread 'AWT-EventQueue-0' java.security.AccessControlException: access denied (java.io.FilePermission /home/kh160127/.junitsession write)   

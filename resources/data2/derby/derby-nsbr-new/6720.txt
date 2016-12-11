@@ -1,0 +1,1 @@
+Add derbyoptionaltools.jar to the maven artifacts we publish    The new derbyoptionaltools.jar is not published to the maven repositories along with the other Derby jar files.   

@@ -1,0 +1,1 @@
+modify setCharacterStreamInternal to take a long for the length  and perform the > max int check in the method    A similar change to setBinaryStreamInternal is being handled as part of DERBY-599.   

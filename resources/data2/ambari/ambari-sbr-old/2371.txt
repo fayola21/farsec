@@ -1,0 +1,1 @@
+Security Wizard: webhcat Server start fails on enabling security    This happens when templeton.kerberos.principal property is set to HTTP/_HOST@&lt;realm name&gt; instead of HTTP/&lt;internal host name&gt;@&lt;realm name&gt;   

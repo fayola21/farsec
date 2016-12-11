@@ -1,0 +1,1 @@
+Dashboard page: buttons are shifted if screen width is more than 1200px       

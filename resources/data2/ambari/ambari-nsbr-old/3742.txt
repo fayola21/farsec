@@ -1,0 +1,1 @@
+HBase Links widget has 'more' button out of bounds and looks broken when there are multiple masters    When there are multiple HBase Masters  the HBase Links widget looks broken. Let's get rid of the 'and X Standby Masters' static text as it is not a link and not very useful.So the widget would look like:'HBase Master''X RegionServers''Master Web UI'   

@@ -1,0 +1,1 @@
+Remove agent entities beans from public schema xsd    Agent entities beans are located ambari-client: org.apache.ambari.common.rest.entities.agent. Hence  schema xsd generation for public rest api will include agent entities beans. We should move it to org.apache.ambari.common.rest.agent to exclude agent entities to expose to public.   

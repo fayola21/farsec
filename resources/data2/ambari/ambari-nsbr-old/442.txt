@@ -1,0 +1,1 @@
+Duplicate definition: Class[Hdp-hbase::Regionserver::Enable-ganglia]    Duplicate definition: Class&#91;Hdp-hbase::Regionserver::Enable-ganglia&#93; is already defined; cannot redefine at /etc/puppet/agent/modules/hdp-ganglia/manifests/monitor.pp:37 on node ip-10-64-19-248.ec2.internal   

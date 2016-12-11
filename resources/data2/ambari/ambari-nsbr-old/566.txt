@@ -1,0 +1,1 @@
+Update documentation    Modify pom.xml to create output files under ../site  rather than ./target.Make minor wording modifications.   

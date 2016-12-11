@@ -1,0 +1,1 @@
+Reduce loading time of Host Warnings popup    Wizard-&gt;Confirm Hosts step:1. Refactor parsing of json response with hosts warnings.2. Reduce latency on opening Host Warnings popup.   

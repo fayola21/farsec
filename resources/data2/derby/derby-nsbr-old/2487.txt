@@ -1,0 +1,1 @@
+Enhance Derby with EXPLAIN Functionality    This enhancement extends Derby with EXPLAIN functions. Users want to have more feedback than they're getting with the current RuntimeStatistics facility. This extension is based on the RuntimeStatistics/ResultSetStatistics functions / classes.   

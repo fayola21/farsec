@@ -1,0 +1,1 @@
+org.apache.derby.impl.load.Import needs to escape single quotes    The code that builds the SQL statement that invokes the Import VTI doesn't properly escape single quotes. This causes problems for users  see: http://mail-archives.apache.org/mod_mbox/db-derby-user/200901.mbox/%3c21754463.post@talk.nabble.com%3eImport.performImport() is the method that needs to be fixed.   

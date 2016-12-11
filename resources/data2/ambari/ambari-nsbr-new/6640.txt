@@ -1,0 +1,1 @@
+Memory leaks during tabs switching on 'Customize Services' page    Steps:Go to 'Customize services page'.Switch to other tab many a time (50 switches = about 100MB).Result: firefox browser gets 1.2 GB in memory.   

@@ -1,0 +1,1 @@
+Add Host wizard get stuck on Confirm Hosts step       

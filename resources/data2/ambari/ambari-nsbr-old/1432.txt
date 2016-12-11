@@ -1,0 +1,1 @@
+Ambari Agent registration hangs due to Acceptor bug in Jetty for not reading through accepted connections.    Ambari Agent registration hangs due to Acceptor bug in Jetty for not reading through accepted connections.   

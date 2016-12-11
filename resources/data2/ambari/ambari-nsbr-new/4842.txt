@@ -1,0 +1,1 @@
+Update falcon install scripts to recent changes    Following features must be implemented: /apps/falcon directory on hdfs and owned by falcon user make falcon able to be runned from custom user change alerts text   

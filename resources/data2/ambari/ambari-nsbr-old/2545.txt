@@ -1,0 +1,1 @@
+Regression: Agent external hostname is not verified during bootstrap with no warnings    When confirming hosts using external addresses bootstrapping should be failed immediately and a warning should be logged. Right now this functionality is broken  neither warning in log nor failing immediately present   

@@ -1,0 +1,1 @@
+Datanode data directory is not created correctly    dfs.datanode.data.dir must be handled as comma separated directories.   

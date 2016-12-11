@@ -1,0 +1,1 @@
+Table of Confirm Hosts step is collapsed    Steps to reproduce:1. Run hosts registration2. Switch to Registering category3. Wait till all hosts become registeredResult: Table is collapsed.JS error occured: Uncaught Error: assertion failed: calling set on destroyed object   

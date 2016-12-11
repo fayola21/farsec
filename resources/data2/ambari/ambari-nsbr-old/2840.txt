@@ -1,0 +1,1 @@
+YARN and ZK data directory names have ' ' at end    Installed the Hadoop2 stack and upon finishing the zk_data_dir in global  and yarn.nodemanager.local-dirs in yarn-site have the folder names suffixed with ' ' in API. Consequently  the folder names on system end up with a ' ' at end. Ex: /hadoop/yarn  and /hadoop/zookeeper .   

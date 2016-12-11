@@ -1,0 +1,1 @@
+On 2.x stack  dfs.block.local-path-access.user should not be set in hdfs-site       

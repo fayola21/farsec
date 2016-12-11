@@ -1,0 +1,1 @@
+Oozie properties for principal and keytab not read from oozie-site    Oozie principal is create by the UI as oozie/${hostname}@realm.comPuppet script has a bug that does not read this property and uses default 'oozie' as the principal   

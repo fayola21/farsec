@@ -1,0 +1,1 @@
+Implement CROSS JOIN    Implement the CROSS JOIN syntaxSELECT * from t1 CROSS JOIN t2;as an alternative syntax toSELECT * FROM t1  t2; This should be pretty straight forward and ease the migration of SQL code to Derby.   

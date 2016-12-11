@@ -1,0 +1,1 @@
+ResultSetFromPreparedStatementTest keeps references to non-default connections    ResultSetFromPreparedStatementTest keeps references to non-default connections in the fields c2 and c3. c2 is closed and nulled out in tearDown(). c3 is only closed. It should be nulled out too in order to allow gc of resources after test completion.   

@@ -1,0 +1,1 @@
+Perf: Service summary view inefficiently binds to host components    In ambari-web/app/views/main/service/info/summary.js#hostComponentsUpd()  is called per each hostComponent's host and master property change. On a 150 node cluster  we get like 300 calls just for this method.Due to this  service_mapper  which usually maps in 600ms  takes now 5.8s.   

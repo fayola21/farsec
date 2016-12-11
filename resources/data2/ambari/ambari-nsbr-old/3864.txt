@@ -1,0 +1,1 @@
+JS Error in 'Add Host Wizard' if we proceed with failed registered hosts    1. Add two hosts in Add Host Wizard.2. In Conform Hosts step  one registered successfully  the other failed.3. Proceed to next  JS error happened when deploy  wizard UI hang up.   

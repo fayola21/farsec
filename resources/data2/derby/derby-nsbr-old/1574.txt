@@ -1,0 +1,1 @@
+NullPointerException in UPDATE with COALESCE and subquery    The following statements generate a NullPointerException:CREATE TABLE t1 (i INTEGER);CREATE TABLE t2 (i INTEGER);UPDATE t1 SET i = COALESCE( (SELECT i FROM t2 WHERE t2.i=t1.i)  0);Any further SQL statements generate an internal error in RawStore  e.g.:SELECT * FROM t1;   

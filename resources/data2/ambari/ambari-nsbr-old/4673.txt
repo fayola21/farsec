@@ -1,0 +1,1 @@
+Bulk Ops: add Supervisor to Bulk Ops on Hosts page    Add Supervisor to Hosts page's Bulk Ops menu if Storm is installed.Decommission and Recommission should be disabled  as Supervisors do not support these operations.   

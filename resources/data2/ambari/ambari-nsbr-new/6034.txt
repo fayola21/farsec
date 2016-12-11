@@ -1,0 +1,1 @@
+Services -> Configs page for Yarn  HIVE  MapReduce services is not displayed    Config page for services that use App.YARNDefaultsProvider is not displayed.Following JS error thrown:Uncaught TypeError: Cannot call method 'forEach' of null yarn_defaults_provider.js:291   

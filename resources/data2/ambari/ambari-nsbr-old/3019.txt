@@ -1,0 +1,1 @@
+Ambari should always point to latest repo    Ambari should always point to latest repo.   

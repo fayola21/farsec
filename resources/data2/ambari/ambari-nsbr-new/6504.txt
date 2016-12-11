@@ -1,0 +1,1 @@
+Incorrect errors count for YARN on step 7 of Install Wizard (HDP 2.0)    'Customize Services' step indicates that 8 YARN properties need revision but no one is highlighted as incorrect.   

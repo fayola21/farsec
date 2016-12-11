@@ -1,0 +1,1 @@
+Making transitionToNextStage more robust    If the currentStage is null  we should not proceed with a transition.   

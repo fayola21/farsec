@@ -1,0 +1,1 @@
+Cleanup UX for advanced database in 'ambari-server setup'    Cleanup UX...Enter advanced database configuration [y/n] (n)? y==============================================================================Choose one of the following options:[1] - PostgreSQL (Embedded)[2] - Oracle==============================================================================Enter choice (1):   

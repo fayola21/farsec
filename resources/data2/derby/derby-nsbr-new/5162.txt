@@ -1,0 +1,1 @@
+CLOB INOUT arg set to NULL by procedure does not preserve NULL value when re-invoked    If a procedure sets an INOUT CLOB arg to NULL and is then re-invoked  the NULL is not preserved. Instead  the procedure sees the same CLOB that it saw in the last invocation. This bug was disclosed during the testing of the fix for DERBY-2515. I will attach a repro.   

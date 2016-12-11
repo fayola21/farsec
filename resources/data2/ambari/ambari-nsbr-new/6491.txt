@@ -1,0 +1,1 @@
+Default config group name contains 'undefined' instead of service name in Manage Config Groups popup       

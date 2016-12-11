@@ -1,0 +1,1 @@
+Upon restart of ambari-server  the service status on Dashboard page remain unchanged    After ambari-server restart  if FE remains at the Dashboard page  the service status (Yellow buttons) never gets updated even if the API indicates that the status are all Green/Red. In my case  never is 6 minutes.Upon refresh or moving to other tabs the view is promptly updated.   

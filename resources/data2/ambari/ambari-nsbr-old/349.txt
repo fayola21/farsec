@@ -1,0 +1,1 @@
+Logging in case of error during uninstall needs to be fixed.    Logs disappear post uninstall because the transaction is also cleaned from the db.   

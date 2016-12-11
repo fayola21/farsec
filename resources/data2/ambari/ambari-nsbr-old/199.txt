@@ -1,0 +1,1 @@
+Remove import of mysql puppet module from manifest.    Remove import of mysql puppet module from manifest because this module is deprecated.   

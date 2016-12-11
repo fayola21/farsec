@@ -1,0 +1,1 @@
+JS error when switching config groups in Hive / Oozie service config pages       

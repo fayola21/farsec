@@ -1,0 +1,1 @@
+TestDataSourceFactory doesn't work correctly outside the old harness    TestDataSourceFactory uses TestUtil to create DataSource  ConnectionPoolDataSource and XADataSource objects. TestUtil needs to run in the old harness in order to detect which framework it is running under  so it will create embedded data sources for all JUnit tests that are run outside the old harness.   

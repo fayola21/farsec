@@ -1,0 +1,1 @@
+Host Details > Actions pulldown likes to hide    Actions pull down on the Host Detail page likes to hide itself when it's open. This is a bit annoying.   

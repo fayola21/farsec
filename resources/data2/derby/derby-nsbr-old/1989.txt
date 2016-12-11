@@ -1,0 +1,1 @@
+Convert jdbc4/TestDbMetaData.java to JUnit    Rewrite the test in JUnit using the utility methods added in DERBY-1976.   

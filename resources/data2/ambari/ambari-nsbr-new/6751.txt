@@ -1,0 +1,1 @@
+HostNames and Slaves broken in two lines on Assign Slaves step    On Assign Slaves step  elements in the table got broken in two lines.see attached.   

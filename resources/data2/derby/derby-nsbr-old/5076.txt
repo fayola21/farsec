@@ -1,0 +1,1 @@
+[patch] move instanceof check up above where casts occur    code does an instanceof check on Diagnosable much after multiple casts to Diagnosable occurs above it.Move the instanceof check up before the first cast  so that it does some good.   

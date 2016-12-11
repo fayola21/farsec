@@ -1,0 +1,1 @@
+Jobs run date and duration not sorting correctly    Input and output bytes columns have been removed from the UI  but the web service doesn't know about that yet so it doesn't map the column index to a sort field correctly.   

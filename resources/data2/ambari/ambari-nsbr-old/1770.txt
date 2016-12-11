@@ -1,0 +1,1 @@
+Hue installation fails due to manifest errors    Hue installation fails due to following errors:1. Change in the name of rpm bundle2. Empty values in the hue.ini sections   

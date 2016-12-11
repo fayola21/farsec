@@ -1,0 +1,1 @@
+medkit-icons are shifted out of their places  in hosts table in Safari.       

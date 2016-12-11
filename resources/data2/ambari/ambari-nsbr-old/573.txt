@@ -1,0 +1,1 @@
+Puppet error: Cannot reassign variable zookeeper_hosts at modules/hdp/manifests/params.pp:47    Seems like a typo: $zookeeper_hosts = hdp_default('zookeeper_hosts')Should be $public_zookeeper_hosts   

@@ -1,0 +1,1 @@
+Excessive requests are sending on hosts page    When we open hosts page  we can see  that we have excessive requests as spinner appears two times one after another.   

@@ -1,0 +1,1 @@
+Cluster status update needs to happen for all stages of installation wizard.    Cluster status should be updated in db for each stage of the installation wizard. This is used to enable restart of browser and also showing status of the cluster on the index page.   

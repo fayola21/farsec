@@ -1,0 +1,1 @@
+HDFS health status when HA config'd    When NameNode HA is config'd:1) HDFS status green if and only if there is Active NameNode; red otherwise2) green -&gt; HDFS Service Stop enabled  HDFS Service Start disabled. red -&gt; HDFS Service Start enabled  HDFS Service Stop disabled   

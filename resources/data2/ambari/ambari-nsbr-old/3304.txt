@@ -1,0 +1,1 @@
+Nagios alert text for NodeManagers should say 'live'    Services &gt; YARNSee screen shot.Should say 'Percent NodeManagers live'   

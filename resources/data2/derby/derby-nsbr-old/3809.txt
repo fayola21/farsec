@@ -1,0 +1,1 @@
+Add a SHOW FUNCTIONS command to ij    Currently  the ij SHOW command can give you information on a number of schema objects  including procedures. It should be fairly easy to add SHOW FUNCTIONS as well. This request surfaced on the user list: http://www.nabble.com/How-can-i-see-my-self-defined-functions--td18773980.html#a18773980   

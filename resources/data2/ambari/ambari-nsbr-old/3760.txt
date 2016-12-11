@@ -1,0 +1,1 @@
+Provide config-group support in add-host wizard    When adding hosts  a user should be able to select which config-groups this host belongs to. Configurations of that group (Default or config-group) will be applied on that host.   

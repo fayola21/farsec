@@ -1,0 +1,1 @@
+Remove unused method Connection.resetConnection(LogWriter  String  Properties)    The method Connection.resetConnection(LogWriter  String  Properties) in package org.apache.derby.client.am isn't used and can be removed.There is another resetConnection-method that is being used.   

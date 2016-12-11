@@ -1,0 +1,1 @@
+Do not use regex to determine folder name by full path for dfs_domain_socket_path    The point is to use custom puppet function instead of regex for line$dfs_domain_socket_path_dir = regsubst($hdp-hadoop::params::dfs_domain_socket_path  '/[^//]+$'  '').It could be implemented with ruby:File.split('/path/to/file') # =&gt; ['/path/to'  'file']   

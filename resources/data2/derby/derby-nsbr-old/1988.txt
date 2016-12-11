@@ -1,0 +1,1 @@
+Convert jdbc4/TestJDBC40Exception.java to JUnit    TestJDBC40Exception is written in a JUnit-like style and could easily be converted into JUnit.   

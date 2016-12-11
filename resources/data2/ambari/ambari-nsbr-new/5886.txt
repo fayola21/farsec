@@ -1,0 +1,1 @@
+Implement app_types endpoint to provide app definitions    Slider Apps View should provide /api/v1/app_types endpoint to provide definitions of various app_types supported by this Slider Apps View. Only apps in this type can be created through UI.   

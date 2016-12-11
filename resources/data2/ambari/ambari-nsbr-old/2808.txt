@@ -1,0 +1,1 @@
+Can't add from UI some queues in capacity-scheduler.xml    Properties of capacity-scheduler.xml are truncated by ' '. It make impossible to create multiple queues  please see http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/CapacityScheduler.html   

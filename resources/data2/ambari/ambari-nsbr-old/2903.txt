@@ -1,0 +1,1 @@
+Add HBase 96 metrics changes to jmx in a backwards compatible way.    Add HBase 96 metrics changes to jmx in a backwards compatible way.   

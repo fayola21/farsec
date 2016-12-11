@@ -1,0 +1,1 @@
+hadoop dependency version for ambari-log4j is hardcoded  making it regular expression based to pick latest from the repository.    Ambari-log4j has hardcoded hadoop-core and hadoop-tools dependency. Make it version as regular expression to pick from the range from 1.0 &lt;= x &lt; 2.0.Also  updating the repository url.   

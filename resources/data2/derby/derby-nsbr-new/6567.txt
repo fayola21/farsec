@@ -1,0 +1,1 @@
+Incorrect nullability for CASE expression with parameter    This JUnit test code fails because it detects that the query returns null even though the result column is reported as not nullable: PreparedStatement ps = prepareStatement( 'values case when false then 1 else ? end'); ps.setNull(1  Types.INTEGER); JDBC.assertSingleValueResultSet(ps.executeQuery()  null);   

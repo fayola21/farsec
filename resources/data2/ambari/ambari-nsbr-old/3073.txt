@@ -1,0 +1,1 @@
+Amabri Client refactoring -2    1) The last patch had an issue with the testcase because of which it did not compile. I might have accidently added a line while I was saving some of the files.(this is fixed in the new patch)The trunk currently fails for ambari-client.https://cwiki.apache.org/confluence/display/AMBARI/Ambari+python+Client has all the exposed methods   

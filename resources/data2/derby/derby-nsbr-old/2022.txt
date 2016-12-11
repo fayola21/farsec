@@ -1,0 +1,1 @@
+jdbcapi.LobStreamsTest runs only in client (not embedded) but its suite() method gives no reason why.    It's essential to document why such decisions were made  makes life easier for subsequent deveopers as they try to understand the code and why it is not being used to test embedded.   

@@ -1,0 +1,1 @@
+Deprecate scripts in frameworks directory    With revision 432159  new scripts to be added to the -bin distribution as a part of DERBY-1032 were added to the distributions and snapshots. The old frameworks scripts should be marked as deprecated where appropriate in the documentation  readme files  and release pages.   

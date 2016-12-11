@@ -1,0 +1,1 @@
+Remove classic dashboard view from Ambari    remove classic dashboard from Ambari  as it's not used any more and doesn't support new services   

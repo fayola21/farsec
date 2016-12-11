@@ -1,0 +1,1 @@
+Disallow actions upon host components on hosts that stopped heartbeating    On a host that stopped heartbeating  the UI shows actions to perform on host components. However  upon executing an action  the backend does not create any tasks and returns 200. The UI doesn't do anything in this case. Instead  the UI should disable action buttons in this case.   

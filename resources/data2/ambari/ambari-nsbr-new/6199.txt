@@ -1,0 +1,1 @@
+ListBoxes with hostnames on 'Select Hosts' page of 'Enable NameNode HA Wizard' do not work    On the second step of HA 'Enable NameNode HA Wizard' do not work listboxes with hostnames. Real additional components position does not depend from values in listboxes (see screenshots).It is possible to choose any host in any listbox  which is incorrect.   

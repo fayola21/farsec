@@ -1,0 +1,1 @@
+JavaDoc warnings in several classes in impl/sql/execute/rts    A 'raw non-ASCII' character was introduced in several classes as part of a commit for DERBY-2487.These should be removed to get rid of the JavaDoc warnings.I plan to enable JavaDoc warnings reporting in the Hudson Derby build job.   

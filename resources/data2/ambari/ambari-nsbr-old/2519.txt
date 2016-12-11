@@ -1,0 +1,1 @@
+Add download CSV action for security wizard    We need CSV content which shows which principals  keytabs etc. end up on the various hosts. This will be useful in scripts or other tools which can create appropriate environment.   

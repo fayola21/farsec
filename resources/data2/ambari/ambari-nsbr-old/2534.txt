@@ -1,0 +1,1 @@
+Some memory configs are set to -1 in Ambari    Some memory configs are set to -1 in ambari-mapred.cluster.reduce.memory.mb-mapred.jobtracker.maxtasks.per.job-mapred.cluster.max.reduce.memory.mb-mapred.cluster.map.memory.mb-mapred.job.map.memory.mb-mapred.job.reduce.memory.mb-mapred.cluster.max.map.memory.mbModify the stack definition to put default values as appropriate.   

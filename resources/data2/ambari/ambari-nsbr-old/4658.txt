@@ -1,0 +1,1 @@
+Routes are incorrect after launching wizard    Steps to reproduce:1. Launch Add Service wizard2. Close wizard3. Go by link #/main/services/add/step1 (type it in address bar)The router goes to nonexistent page '#/main/services/add/summary'.   

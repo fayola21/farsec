@@ -1,0 +1,1 @@
+Uninstall support from UI    Uninstall/wipeout support from UI.   

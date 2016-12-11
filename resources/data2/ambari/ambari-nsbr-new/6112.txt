@@ -1,0 +1,1 @@
+Filter by alerts fails on Hosts table    Steps to reproduce:1. Go to Hosts page2. Choose filter AlertsResult:Hosts are not filtered by alerts.The request with filter by alerts has incorrect url data.   

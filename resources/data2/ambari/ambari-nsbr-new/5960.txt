@@ -1,0 +1,1 @@
+Add support for auth proxy    When using a proxy for internet access  add support to set properties for proxy user and password.������Dhttp.proxyUser=someUserName -Dhttp.proxyPassword=somePassword������  

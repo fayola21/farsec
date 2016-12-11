@@ -1,0 +1,1 @@
+Clicking on Cancel on the Service Config page should not reload the entire app    When Cancel is clicked on the Service Config page  simply reload the config (not the entire app).   

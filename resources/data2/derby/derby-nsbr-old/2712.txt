@@ -1,0 +1,1 @@
+If large clob is updated after Reader. the reader continues to point to old data    If a Reader is fetched from a large clob (obtained from ResultSet) a reader linked to the dvd stream is returned once a set method is called on it the clob data is materialized in control class but the Reader returned previously continues to point to old data.   

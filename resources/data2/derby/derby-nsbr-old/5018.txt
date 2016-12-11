@@ -1,0 +1,1 @@
+[patch] remove erroneous throws clauses on non derivable methods that don't throw    various constructors/private methods declare throwing exceptions that they don't in fact throw. This causes calling methods to handle these exceptions  for no reason. patch removes.   

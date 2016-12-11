@@ -1,0 +1,1 @@
+Failed tests should save the database off to the fail directory    Currently failed tests save the derby.log to the fail directory for that test. It would be useful to save the database as well.   

@@ -1,0 +1,1 @@
+Implement Bracketed SQL comments (/*...*/ comments)    Hibernate use multiline sql statements to show the internal building of the hql statements. You can disable this feature  but it would be nice if you can implements bracketed SQL comments in Derby.Thanks.   

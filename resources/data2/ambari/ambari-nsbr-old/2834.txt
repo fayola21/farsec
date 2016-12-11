@@ -1,0 +1,1 @@
+Utility script to generate keytabs is broken    keytab Tar for each host is packaged including hostname. Untaring it on a host creates path starting with &lt;hostanme&gt;/&lt;actual path&gt;. Fix is to package the content inside the hostname directory excluding the hostname directory itself.   

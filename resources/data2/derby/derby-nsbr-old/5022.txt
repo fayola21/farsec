@@ -1,0 +1,1 @@
+[patch] override equals correctly    code implements equals w/o an Object parm. Calling code that doesn't have first class signature of FormatableBitSet will not work as expected. Properly override equals to fix.   

@@ -1,0 +1,1 @@
+User-specified custom configs (such as hdfs-site.xml overrides) should be persisted to maintain what the user specified       

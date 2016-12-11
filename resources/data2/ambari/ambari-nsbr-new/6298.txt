@@ -1,0 +1,1 @@
+Custom Command execution takes too long    It takes significant amount of time to populate clusterHostInfo for every Execution Cmd on a 2000 node cluster.org.apache.ambari.server.utils.StageUtils.getClusterHostInfo(Map  Cluster)   

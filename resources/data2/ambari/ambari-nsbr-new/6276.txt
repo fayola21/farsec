@@ -1,0 +1,1 @@
+Prompt to put Service in Maintenance Mode when doing Rolling Restart / Service Stop    When initiating Rolling Restart / Service Stop  they would like an option (via a checkbox  for example) to put the service in maintenance mode (if it is not already in MM) to avoid getting a lot of alerts.   

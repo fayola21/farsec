@@ -1,0 +1,1 @@
+Add MessageBundleTest to build script to verify that there are no orphaned message ids    MessageBundleTest can't be run with the regular tests because it relies on SQLState.java and MessageId.java  which are not in the jar files. But it actually makes more sense to run it as part of the build  as we are verifying the consistency of code references.   

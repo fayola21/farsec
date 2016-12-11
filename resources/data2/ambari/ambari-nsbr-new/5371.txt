@@ -1,0 +1,1 @@
+Dashboard: dashboard actions do not work for non-admin users    For non-admin users action 'Switch to classic dashboard' returns JS error and 'Reset all widgets to default' action throws to Login page.   

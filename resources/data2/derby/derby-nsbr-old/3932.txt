@@ -1,0 +1,1 @@
+Add tests of generated columns when sql authorization is turned on    Add tests of generated columns under sql authorization. For instance  we need to verify the current_role cannot appear in generation clauses.   

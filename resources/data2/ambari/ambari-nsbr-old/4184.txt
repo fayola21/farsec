@@ -1,0 +1,1 @@
+Fix versions of rpms in the stack to match the installed ones.    Fix versions of rpms in the stack to match the installed ones.   

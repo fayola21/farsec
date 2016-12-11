@@ -1,0 +1,1 @@
+When filtering on hosts  the table column sizes shift  should stay fixed.    For the 'defaultsProvider' and 'serviceValidator' functionalities  we need unit tests   

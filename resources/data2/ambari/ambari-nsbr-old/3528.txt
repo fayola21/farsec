@@ -1,0 +1,1 @@
+DB url isn't calculated automatically    Select Hive or Oozie and go to step 'Customize services'.'Open' Oozie tab.Database Url is 'jdbc'.Click 'Existing MySQL Database'.Click 'New Derby Database'.Database Url became jdbc:derby:${oozie.data.dir}/${oozie.db.schema.name}-db;create=true.Expect:proper value should be right after step is loaded.   

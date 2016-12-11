@@ -1,0 +1,1 @@
+Cleanup of Cluster > Admin tab    1. Remove 'Users' and 'Access' category from 'Admin' tab on the main menu.2. Rename 'Clusters' --&gt; 'Repositories'3. Rename 'misc' --&gt; 'Service Accounts'   

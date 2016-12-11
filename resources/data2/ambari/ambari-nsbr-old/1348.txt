@@ -1,0 +1,1 @@
+Externalize strings to messages.js    Externalize string resources to messages.js.   

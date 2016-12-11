@@ -1,0 +1,1 @@
+UngroupedAggregatesNegativeTest doesn't call super.tearDown()    public void tearDown() throws SQLException { dropTable('t1'); dropTable('t2'); }Should call super.tearDown() to close and release connection and statements.   

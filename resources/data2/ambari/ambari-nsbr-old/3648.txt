@@ -1,0 +1,1 @@
+Failed to start Hive Metastore (centos5.8  Stack 2.0)    Occurred during install as warning (could not start the service). Clicked next to continue  when into Ambari  then tried to start Hive there as well  same issue.   

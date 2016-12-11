@@ -1,0 +1,1 @@
+Rename agent.fqdn property in ambari.props to server.fqdn    lets just rename agent -&gt; server   

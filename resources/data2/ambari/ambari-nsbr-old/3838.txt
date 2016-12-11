@@ -1,0 +1,1 @@
+Services sidebar for host configs needs vertical gap    When you go to host configs page  there is no gap between the services sidebar and the tabs. This should be changed so that the config-group bar and services sidebar have the same gap from the tabs at top.   

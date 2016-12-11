@@ -1,0 +1,1 @@
+rs.moveToInsertRow() causes loss of connection with TERRITORY_BASED collation.    In the attached test case  rs.moveToInsertRow() causes loss of the connection with a TERRITORY_BASED collation database. With UCS_BASIC it is fine.   

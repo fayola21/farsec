@@ -1,0 +1,1 @@
+Ambari needs to set right path for GC log directory of Hbase process.    Ambari needs to set right path for GC log directory of Hbase process.   

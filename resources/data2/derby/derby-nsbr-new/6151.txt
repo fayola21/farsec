@@ -1,0 +1,1 @@
+Derby does not report warnings raised by table functions    If a table function raises warnings as the user loops through ResultSet.next()  those warnings are silently thrown away by Derby. Derby should return those warnings when the user calls ResultSet.getWarnings().   

@@ -1,0 +1,1 @@
+Create a regression test which will fail if classes from one Derby jar file leak into another jar file    We should write a test so that we find out early on when a checkin breaks the separation between Derby jar files.   

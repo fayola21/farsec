@@ -1,0 +1,1 @@
+hbase super user cannot submit jobs since Ambari creates hbase super user with uid<1000    Copytable jobs need to be submitted as the hbase super user however the uid for hbase super user created by Ambari has uid &lt; 1000   

@@ -1,0 +1,1 @@
+java.lang.NoSuchMethodError chaining a function and procedure    java.lang.NoSuchMethodError is raised when calling a procedure which takes an Integer argument and passing it the result of a function which returns an int. The error is raised in generated code.   

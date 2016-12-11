@@ -1,0 +1,1 @@
+YARN and MapReduce2 configs is not displayed    In Services -&gt; Configs YARN and MapReduce2 configs is not displayed.   

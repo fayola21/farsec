@@ -1,0 +1,1 @@
+Host specific progress bar for a task has some inconsistencies    See the attached images. The third image added is a summary of what was going on.   

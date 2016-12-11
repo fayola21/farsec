@@ -1,0 +1,1 @@
+Add host stops all services    STR Install cluster Add hostActual resultAfter adding host all components on all hosts are stoppedExpected resultAll components on all hosts are started   

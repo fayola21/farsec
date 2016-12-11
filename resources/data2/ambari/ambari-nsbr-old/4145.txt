@@ -1,0 +1,1 @@
+Ability to restart a component    Add option to Actions menu for 'restart'. That should queue the stop and start tasks.We should assume 'RESTART' as a default command. The base/default implementation is to call STOP and then START.   

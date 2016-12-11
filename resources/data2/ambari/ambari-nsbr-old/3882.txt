@@ -1,0 +1,1 @@
+Background operations popup window minimum size should be fixed when narrowing down the browser       

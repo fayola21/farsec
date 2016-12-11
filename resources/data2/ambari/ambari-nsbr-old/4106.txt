@@ -1,0 +1,1 @@
+Should not allow blank config group name    1) Create config group2) just enter a &lt;space&gt; for the name3) That enables the OK button to save4) You can save that config group w/o a name.is reproducible on installer (works fine after installation)   

@@ -1,0 +1,1 @@
+Install wizard should have ability to load default 'final' configs  and save them    In Ambari if a stack service has configs with final=true  then during install wizard these configs should have the final-checkbox checked. Also  if the user changes these checkboxes  the values should be stored in the properties_attributes of configs when Deploy is hit.   

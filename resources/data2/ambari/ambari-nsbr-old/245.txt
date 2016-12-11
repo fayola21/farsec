@@ -1,0 +1,1 @@
+Support data cleanup if installation fails.    We need to support data cleanup so that a cluster can be re-installed in case of failures.   

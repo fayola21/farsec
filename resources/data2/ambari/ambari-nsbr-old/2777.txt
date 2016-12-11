@@ -1,0 +1,1 @@
+Cannot save HDFS configs with SNN in MAINTENANCE mode       

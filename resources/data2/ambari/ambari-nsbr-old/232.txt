@@ -1,0 +1,1 @@
+Enable LZO should show checkbox instead of text    Currently the enable lzo option shows a text box that needs to be filled with true/false. Changing the UI element to checkbox.   

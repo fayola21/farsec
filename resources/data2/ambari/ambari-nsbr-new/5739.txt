@@ -1,0 +1,1 @@
+File View Cleanup    A few items that need to be rectified for the File view submission:1. Modify code to abide by Ambari Coding Standards2. JavaDoc Interfaces and Methods.https://cwiki.apache.org/confluence/display/AMBARI/Coding+Guidelines+for+Ambari.   

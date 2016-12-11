@@ -1,0 +1,1 @@
+Decommission data node not working in secure mode    Decommission datanode does not do kinit before refresh.   

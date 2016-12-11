@@ -1,0 +1,1 @@
+During any process in the cluster initialization wizard  if the user goes back to the '1 Create Cluster' tab  the user is stuck.       

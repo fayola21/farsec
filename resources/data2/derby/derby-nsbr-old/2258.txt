@@ -1,0 +1,1 @@
+DatabaseMetaData.getTypeInfo() does not list supported Derby SQL types correctly.    These types are returned but not supported by Derby.LONG NVARCHARNATIONAL CHARNATIONAL CHAR VARYINGThe XML type is supported by Derby but not returned.   

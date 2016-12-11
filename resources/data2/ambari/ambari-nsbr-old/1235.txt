@@ -1,0 +1,1 @@
+Host health indicator should have a tooltip showing details       

@@ -1,0 +1,1 @@
+Some HBase properties are empty  but required to be filled    This HBase properties are empty after install via blueprint: hbase.coprocessor.region.classes hbase.coprocessor.master.classesBut they required to be filled.After enabling security they became filled.   

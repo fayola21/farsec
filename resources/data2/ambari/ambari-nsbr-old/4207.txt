@@ -1,0 +1,1 @@
+Frontend: History server should be managed as separate component    For stack 1.x history server will be as separate master component. Add ability to choose host on which this component will be installed. Set value for 'mapreduce.history.server.http.address'  i.e. &lt;historyserverHost&gt;:&lt;historyServerPort&gt;.   

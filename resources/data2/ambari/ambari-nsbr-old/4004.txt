@@ -1,0 +1,1 @@
+Duplicate hosts after closing addServiceWizard    Install cluster with 2 hosts (with HDFS  ZooKeeper).Go to Add Service Wizard.Select some configurable service.Go to Step 4 (Customize services).Close wizard.Go to Hosts page.Result:each host appears two times.   

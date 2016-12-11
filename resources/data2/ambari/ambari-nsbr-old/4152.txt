@@ -1,0 +1,1 @@
+Service Config page shows a blank page after enabling security (JS error)    UI don't respond after enabling security   

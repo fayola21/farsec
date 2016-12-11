@@ -1,0 +1,1 @@
+Package up the fonts/ subdirectory in the HMC RPM    The new fonts/ subdirectory used for the buttons on the ManageServices page isn't packaged up.   

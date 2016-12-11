@@ -1,0 +1,1 @@
+FE should show the error-details when it encounters error while persisting web client state    Error which occurred while requesting cluster status is not informative.Change url in request for cluster state  go to admin page and try to enable security.   

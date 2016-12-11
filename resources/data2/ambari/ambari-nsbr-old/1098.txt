@@ -1,0 +1,1 @@
+Switching services does not update various UI elements    When you switch services in the UI  sometimes alerts are mismatched compared to selected service. Also the highlights in left-bar are not working.   

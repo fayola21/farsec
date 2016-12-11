@@ -1,0 +1,1 @@
+'IN' clause ignores valid results  incorrect qualifier handling suspected    All these methods have cousins taking 4 arguments  which are being used by on one occasion: ClientPooledConnection.getConnection().

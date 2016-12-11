@@ -1,0 +1,1 @@
+Call initCause() and getCause() without reflection in BaseJDBCTestCase    BaseJDBCTestCase uses reflection to call Throwable.initCause() and Throwable.getCause(). This was needed when running the tests on Java 1.3 and on Foundation Profile 1.0  but those platforms aren't supported any more. Now we should call the methods directly.   

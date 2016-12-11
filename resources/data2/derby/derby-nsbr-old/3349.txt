@@ -1,0 +1,1 @@
+Nested WHERE EXISTS queries need improved testing    DERBY-3301 reported an error in subquery flattening of nested WHERE EXISTS clauses  or WHERE EXISTS subqueries. The query returned the wrong number of rows. There is currently some tests for WHERE EXISTS  but none for nested WHERE EXISTS clauses.See DERBY-3301 for a full sql repro.   

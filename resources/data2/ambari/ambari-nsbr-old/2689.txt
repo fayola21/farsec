@@ -1,0 +1,1 @@
+Enable Security Wizard stops on step '2. Save Configurations' and doesn't let the user leave the wizard       

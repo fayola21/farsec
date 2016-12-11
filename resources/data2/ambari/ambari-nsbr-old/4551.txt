@@ -1,0 +1,1 @@
+Alert count badge and restart indicator issues    The alert badge shown in the left nav shows up a bit strange (too little padding on the right). Also  when the restart indicator appears  the padding for the alert badge fixes itself  but the restart indicator appears too close. See attached.   

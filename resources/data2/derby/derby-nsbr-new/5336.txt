@@ -1,0 +1,1 @@
+Repeated database creation causes OutOfMemoryError    Repeatedly creating  querying  updating  and shutting down a database or databases eventually causes OutOfMemoryError.Java source reproducing the problem is attached.   

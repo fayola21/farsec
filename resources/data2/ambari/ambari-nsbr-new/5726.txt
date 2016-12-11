@@ -1,0 +1,1 @@
+Adding Oozie failed at service check    This happens because HDFS and YARN/MapReduce requires to be restarted for Oozie smoke test to pass successfullyAs a fix to this issue: Don't run smoke test on 'Install  Start and Test' page of the add service wizard. Review page should ask user to restart all stale services.   

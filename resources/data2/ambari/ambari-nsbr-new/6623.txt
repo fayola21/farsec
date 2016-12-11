@@ -1,0 +1,1 @@
+Fix unit tests that are broken after AMBARI-6533    Unit tests are broken after commit f3aab68ec417d8e2c39c216962e1e1d47d56d401The root cause is the properties in InMemoryDefaultTestModule.java.   

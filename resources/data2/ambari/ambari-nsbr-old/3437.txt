@@ -1,0 +1,1 @@
+Incorrect alert for NodeManager    Error with RM nagios alert for rpc latency.[1380746845] SERVICE NOTIFICATION: nagiosadmin;&lt;hostaname&gt;;RESOURCEMANAGER::ResourceManager RPC latency;CRITICAL;notify-service-by-email;CRITICAL: Data inaccessible  Status code = 200   

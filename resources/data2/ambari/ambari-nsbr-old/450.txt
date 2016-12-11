@@ -1,0 +1,1 @@
+Boldify/Redify restart HMC message when nagios/ganglia is on the hmc host       

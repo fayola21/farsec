@@ -1,0 +1,1 @@
+host checks 'Show Report' link is missing from dialog    On 'Confirm Hosts' step &gt; Hosts Check popup window  the 'Show Reports' link is missing even if the host check warnings existed.Reason:The newly added hosts checks (jdk  disk  repo and hostNameResolution) dont trigger the ''show reports' link to show up.   

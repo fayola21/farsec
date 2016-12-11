@@ -1,0 +1,1 @@
+Cleanup suspect coding practices in misc Derby packages    Similar to DERBY-6177.   

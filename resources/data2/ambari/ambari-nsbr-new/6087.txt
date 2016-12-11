@@ -1,0 +1,1 @@
+Multiple ATS appear on YARN summary page    STR1. Go to add Service Wizard.2. Select some new services and proceed to deploy.3. Close Wizard (Esc-button).4. Wait a little bit (maybe page-refresh needed).5. Go to YARN summary.6. New 'none' components will appear periodically.See screenshot.   

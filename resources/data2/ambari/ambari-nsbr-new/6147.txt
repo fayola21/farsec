@@ -1,0 +1,1 @@
+Ambari Dashboard page  click NameNode link returns wrong page    STR:1. go to dashboard page2. click NameNode link inside HDFS Links widget.instead of go to NameNode host detail page  it returns an empty page   

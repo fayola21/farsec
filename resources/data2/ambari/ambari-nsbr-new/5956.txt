@@ -1,0 +1,1 @@
+DB connection check error if jdk_name does not exist.    We can get such situation when user using custom java.   

@@ -1,0 +1,1 @@
+Provide read-only view of security wizard entries    After enabling security  when browsing back to Admin &gt; Security  it would be good to see the tabs with the values entered during wizard setup (read-only)  just so it's easy to see what the user specifically entered during the wizard setup.   

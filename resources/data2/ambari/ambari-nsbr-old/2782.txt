@@ -1,0 +1,1 @@
+Hadoop2 stack install should merge YARN MR2 options    YARN in current Hadoop 2 stack has only MR2 as application. Since it does not make sense to install YARN without a default application  and MR2 cannot be installed by itself  we should combine both into a single install option (see screenshot).   

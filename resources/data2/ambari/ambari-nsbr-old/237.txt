@@ -1,0 +1,1 @@
+Refactor puppet kick loop to easily change retries and timeouts.    Refactor puppet kick loop to easily change retries and timeouts.   

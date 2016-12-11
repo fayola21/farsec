@@ -1,0 +1,1 @@
+License header for PHP files should use PHP comments  not HTML comments    Some PHP files have the HTML-style comments. This is problematic sincethe license headers are becoming part of the HTML response. Worse yet  the headers are repeated multiple times in the response. This can also cause unexpected behavior.   

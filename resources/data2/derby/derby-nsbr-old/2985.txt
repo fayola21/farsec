@@ -1,0 +1,1 @@
+In suites.All  certain test orders cause AccessControlException    While working on DERBY-2925  order of tests in suites/AllPackages.java causedjava.security.AccessControlException. For related derby-dev discussion please see:http://www.nabble.com/forum/ViewPost.jtp?post=11835420&amp;framed=y   

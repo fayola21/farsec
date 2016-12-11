@@ -1,0 +1,1 @@
+Ambari Groovy client enhancements    Ambari REST client (Groovy) enhancements -refactor - simplified unit tests taking leverage groovy's metaclass capabilities-more REST calls implemented-api compatibility with version 1.6.0   

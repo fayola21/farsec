@@ -1,0 +1,1 @@
+Dashboard quick links polls desired_configs every 6s    On the dashboard  calls to /clusters/{clusterName}?fields=Clusters/desired_configs are made every 6s. We need to verify if this really is necessary. Initial investigation revealed calls from quick-links  where links were set based on security being enabled. But there is no need to poll every 6s for this.   

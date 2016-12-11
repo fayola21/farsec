@@ -1,0 +1,1 @@
+Hosts table: sort order arrows should be close to the respective column label    The sort order arrows are right-justified within the column.This makes it look like the arrows apply to the column next to it.Instead  we should show the arrows right next to the respective column label.Like:Name (arrows) IP Address (arrows)Not:Name (arrows) IP Address   

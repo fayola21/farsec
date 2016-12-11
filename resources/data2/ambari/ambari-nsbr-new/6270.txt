@@ -1,0 +1,1 @@
+Repoinfo.xml should use family tag rather than type tag    That is a bit confusing we should change that  since we changed the way itworks &lt;os type='redhat6'&gt;should be &lt;os family='redhat6'&gt;   

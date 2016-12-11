@@ -1,0 +1,1 @@
+Hbase secure config properties in HDP-2.x stack revert back to non-secure values on reconfiguration       

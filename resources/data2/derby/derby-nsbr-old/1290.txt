@@ -1,0 +1,1 @@
+Resolve test failures with JCC2.8    The following tests fail when run with JCC 2.8 driver:derbynetmats/derbynetmats.fail:jdbcapi/resultset.javaderbynetmats/derbynetmats.fail:jdbcapi/LOBTest.javaderbynetmats/derbynetmats.fail:jdbcapi/parameterMapping.javaderbynetmats/derbynetmats.fail:derbynet/testSecMec.java (fails with Sun JDKs only)   

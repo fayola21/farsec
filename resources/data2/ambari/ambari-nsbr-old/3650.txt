@@ -1,0 +1,1 @@
+Poll for host_components which have stale_configs    UI needs to know which host_components need restart due to stale_configs (saved but not picked up). Server API provide stale_configs flag per host-component. We need this polled and maintained on client model.   

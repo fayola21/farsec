@@ -1,0 +1,1 @@
+UI freezes for more than 2 seconds  every 15 seconds  on 2K-node cluster    It seems that we call App.componentConfigMapper every 15 seconds.This mapper takes more than 2 seconds to run. While the mapper is running  the entire UI is frozen.   

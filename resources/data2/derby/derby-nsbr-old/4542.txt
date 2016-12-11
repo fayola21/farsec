@@ -1,0 +1,1 @@
+Avoid materialization where possible when cloning CollatorSQLClob    Cloning a CollatorSQLClob results in always materializing the value. Since CLOBs can be very large  this should be avoided. There should now be sufficient functionality to do this  see SQLClob.   

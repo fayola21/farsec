@@ -1,0 +1,1 @@
+NameNode fails to start due to 'fs.defaultFS' being null       

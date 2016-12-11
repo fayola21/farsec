@@ -1,0 +1,1 @@
+Service reconfiguration fails for multiple services    Service reconfiguration fails for HDFS  MapReduce and Hive service with js error. For other services it fails silently without any error (no API call is triggered).   

@@ -1,0 +1,1 @@
+Add hosts is broken    This is due to performance enhancements for querying hosts.Hosts/disk_info for the hosts being added is expected in the Add Hosts wizard  but it is now missing.   

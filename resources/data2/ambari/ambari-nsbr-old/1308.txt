@@ -1,0 +1,1 @@
+Properly display Apps page aggregate summary and data table when there are no data to be shown       

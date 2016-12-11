@@ -1,0 +1,1 @@
+Add host fails after configuring NN HA with JavaScript error       

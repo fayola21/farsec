@@ -1,0 +1,1 @@
+Hostname case sensitivity    Hostname CaSe SeNsiTiVity causes hostnames don't match error.'in the install wizard  the hostnames MUST be lower case in the user input  otherwise the 'hostnames don't match' during the install and it fails. Ambari should tolower() both hosts before comparing.'Effected Install/Add Host Wizard.   

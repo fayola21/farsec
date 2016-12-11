@@ -1,0 +1,1 @@
+Host checks say pass when all hosts failed to register    When all hosts fail to register  there are no warnings  and hence we show OK for host checks.   

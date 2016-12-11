@@ -1,0 +1,1 @@
+Remove unused methods in DDMReader and DDMWriter    Many of the methods in DDMReader and DDMWriter are not used anymore. Those methods could be removed.   

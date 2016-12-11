@@ -1,0 +1,1 @@
+add ibm18 class to functionTests.harness    The 'old test harness'  in package java.org.apache.derbyTesting.functionTests.harness  needs an ibm18 class - similar to ibm17. I don't plan to run tests with this jvm against branches older than 10.8  but it will need to be backported to 10.9 and 10.8.   

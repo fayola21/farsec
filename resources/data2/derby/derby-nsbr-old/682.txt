@@ -1,0 +1,1 @@
+Add tests for error codes for severe exceptions    Add tests to test error codes for disconnect exceptions and other severe errors for client and embedded drivers.   

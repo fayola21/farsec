@@ -1,0 +1,1 @@
+Add Node installs MySQL Server for Hive    Adding slave nodes post cluster install will install MySQL Server if Hive was selected as a service at the time of cluster installation.   

@@ -1,0 +1,1 @@
+NullPointerException when USING clause contains all columns in both join tables    ij&gt; create table t(x int);0 rows inserted/updated/deletedij&gt; select t1.  t2. from t t1 join t t2 using ;ERROR XJ001: Java exception: ': java.lang.NullPointerException'.This statement should have raised an exception because both t1.* and t2.* expand to no columns. See DERBY-4407.   

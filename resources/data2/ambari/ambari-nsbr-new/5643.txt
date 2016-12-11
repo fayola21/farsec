@@ -1,0 +1,1 @@
+Add Services is disabled after upgrading the stack from HDP-2.0 to HDP-2.1    Prior to upgrade  launch Add Services wizard using Ambari 1.5.0 (crucial step) Upgrade stack to a stack with new services and Ambari to 1.5.1 Add Services button is disabled  even though there are services that have not been added to the cluster   

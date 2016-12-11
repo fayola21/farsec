@@ -1,0 +1,1 @@
+Make the daemon names and other field names consistent    Following names need to be consistent: Hdfs -&gt; HDFS Mapreduce -&gt; MapReduce Zookeeper -&gt; ZooKeeper HADOOP -&gt; Hadoop   

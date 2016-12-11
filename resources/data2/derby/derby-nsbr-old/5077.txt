@@ -1,0 +1,1 @@
+[patch] remove non productive instanceof checks    various places in code does instanceof checks where the outcome can be determined statically to be always true or always false.removed these checks as they do nothing.   

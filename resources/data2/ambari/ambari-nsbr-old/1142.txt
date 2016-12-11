@@ -1,0 +1,1 @@
+On Notification Popup  clicking 'go to nagios UI' doesn't load nagios UI    1) Cause notification to occur (for example  stop oozie)2) On dashboard  click notification icon3) On the notification popup  click 'go to nagios web UI'4) nothing happens.This issue is on IE9  Safari and Chrome. Works fine on Firefox.   

@@ -1,0 +1,1 @@
+Add hosts  if using Local Repository  UI incorrectly says 'no'    On review page of install wizard/add host wizard -List the repos with their OS-Say 'Repositories'  not 'Local Repository'-Not a yes or no   

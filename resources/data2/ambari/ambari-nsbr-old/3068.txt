@@ -1,0 +1,1 @@
+Warning messages not cleared when task fails    Installed a cluster  namenode start fails  install exits with warnings.If i go an look at the specific task that fails  the puppet warnings are still present. Seems like those puppet warnings didn't get cleared.In a task failure case  having the warnings clear is when it's most important.   

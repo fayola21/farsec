@@ -1,0 +1,1 @@
+Infinite loop in PredicateList.joinClauseTransitiveClosure()    This sequence of statements triggers an infinite loop in PredicateList.joinClauseTransitiveClosure() and never completes:create table c (a int  b int  c int);create table cc (aa int);select * from cc t1  c t2  cc t3 where t3.aa = t2.a and t3.aa = t2.b and t3.aa = t2.c;   

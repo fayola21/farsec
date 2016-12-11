@@ -1,0 +1,1 @@
+Request support for CAST() in Like clause    Request support for CAST() in like clause for example:select t0.ID  t0.QUANTITY  t0.NAME  t0.PRICE  t0.PNUM from PRODUCTEJB_TABLE t0 where t0.NAME like CAST (? AS VARCHAR(32672))This is supported by DB2 and will ease migration between DB2 and Derby   

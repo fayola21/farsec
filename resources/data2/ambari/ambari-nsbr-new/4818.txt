@@ -1,0 +1,1 @@
+Do not show 'restart' op on non-admin user    1) As admin  change a config but do not perform the restarts2) Create a test user (non-admin)3) login as test user4) in host details page  operation to restart is shown. Should not be shown   

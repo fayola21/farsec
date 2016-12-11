@@ -1,0 +1,1 @@
+Alerts for ATS Component    Impl alert for ATS server ATS process (running / not running)Note: this alert should be disabled/removed when ATS gets deleted (when Kerb is enabled).   

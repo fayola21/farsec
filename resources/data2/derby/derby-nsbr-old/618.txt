@@ -1,0 +1,1 @@
+Make the client driver connection URL work when spaces are in the URL.    At present  if I want to connect to a database on a Derby server which has a space in the path  there is no way to do it.This can be done with the embedded driver  and for consistency it would be good if it worked for the client driver in the same fashion.   

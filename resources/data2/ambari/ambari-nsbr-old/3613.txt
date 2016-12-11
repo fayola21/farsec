@@ -1,0 +1,1 @@
+Enable HA wizard loads after sign in    Steps: Go to 'Admin' page -&gt; 'High Availability' tab and run 'Enable NameNode HA' wizard. Close wizard. Sign out (or reopen browser). Sign in.Result:After sign in was opened first page of 'Enable NameNode HA' wizard instead 'Dashboard' page.   

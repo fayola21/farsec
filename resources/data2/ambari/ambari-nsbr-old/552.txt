@@ -1,0 +1,1 @@
+Update README to point to trunk    We need to fix the README to point to trunk after the merge of ambari-186 branch.   

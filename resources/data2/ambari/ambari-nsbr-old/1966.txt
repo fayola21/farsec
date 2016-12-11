@@ -1,0 +1,1 @@
+Client install tasks are shown twice in progress popup during start phase of install wizard (update API call to include params/reconfigure_client)       

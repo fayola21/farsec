@@ -1,0 +1,1 @@
+Jobs dont show up as links for a moment when page is visited    I had a couple of finished jobs showing the jobs page. Then I clicked on one job and went back to the jobs page. For a moment both jobs were not shown as links - though they are clickable. This is basically an appearance issue where the job doesnt look like a link for a moment.   

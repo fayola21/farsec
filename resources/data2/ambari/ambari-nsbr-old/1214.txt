@@ -1,0 +1,1 @@
+In any starts fails  'warn' the host and the overall install    If any service start fails  'warn' the host and 'warn' the overall install.Allow the other start tasks to complete.Allow the user to click next.   

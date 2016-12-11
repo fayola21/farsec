@@ -1,0 +1,1 @@
+Remove all text from Apps views  controllers  templates to messages.js       

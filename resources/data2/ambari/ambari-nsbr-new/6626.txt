@@ -1,0 +1,1 @@
+HDP-1.3 stack shows HUE in select services page    HUE is defined in HDP-1.3.2 stack with configuration sites but there is no agent scripts defining configure/stop/start/status functions for the service.HUE is not supported to work with Ambari. In that case we should not expose HUE via stack definition API as supported service of HDP-1.x stack.   

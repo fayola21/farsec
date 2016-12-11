@@ -1,0 +1,1 @@
+Fix ambari agent init.d scripts and the bootstrapping.       

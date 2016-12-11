@@ -1,0 +1,1 @@
+lang/procedureInTrigger.sql fails with wctme5.7 foundation with CNFE  java.sql.DriverManager and other exceptions.    Test failed with 10.3 jars 10.3.0.0 alpha - (439522). I am attaching the report file from the test run wctme5.7_derbyall_report.txt . Please see this file for the diff. This test was added as part of DERBY-551 and checkin - r421281.   

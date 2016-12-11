@@ -1,0 +1,1 @@
+Starting all services fails on secure cluster (excluding HBase and ZooKeeper)    HDFS service check failure leads to this.After the failure of the 'HDFS service check' task  stage fails. But HDFS comes up.The Ambari server hostname for secure cluster: ec2-54-234-164-5.compute-1.amazonaws.com   

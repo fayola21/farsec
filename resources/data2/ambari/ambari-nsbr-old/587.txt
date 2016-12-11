@@ -1,0 +1,1 @@
+Rat compliance patch    Adding apache license to all the files within Ambari for rat tool compliance.   

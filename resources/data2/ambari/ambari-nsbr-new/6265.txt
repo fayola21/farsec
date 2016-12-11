@@ -1,0 +1,1 @@
+Have spinners instead of charts at Dashboard and Service tabs on IE 11    STR:1) Deploy cluster with defualt settings.2) Navigate on Dashboard pageExpected result:All charts are present.Actual result:Have spinners instead some charts.   

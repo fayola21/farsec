@@ -1,0 +1,1 @@
+hadoop-env.sh and core-site are missing on hosts that have only yarn components deployed    Yarn component need hadoop-env.sh and core-site.xml. These files should be deployed on hosts on which only yarn components are deployed.   

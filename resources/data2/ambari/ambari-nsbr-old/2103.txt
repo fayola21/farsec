@@ -1,0 +1,1 @@
+Support for configuring and running Ambari Web Server https    Need to be able to run Ambari Web (and access Ambari REST APIs) over HTTPS. Should document assuming the user comes with their own certificate. User should also be able to configure which port to expose HTTPS.   

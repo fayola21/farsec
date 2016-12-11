@@ -1,0 +1,1 @@
+AssertFailure class should use JDK's built-in chaining of exceptions    Currently  AssertFailure implements its own chaining of exceptions. It should use the chaining mechanism provided by the JDK.   

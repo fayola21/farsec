@@ -1,0 +1,1 @@
+Show installed stack and its services    List the installed stack and its services in Admin &gt; Cluster page.   

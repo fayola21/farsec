@@ -11,25 +11,25 @@
 
 (def learners [logistic-regression naive-bayes random-forest ib-k multilayer-perceptron])
     
-(defn make-tbls [outdir dataname n]
+(defn make-tbls [outdir splitdir dataname n] ; splitdir = data1 (0.5 split) or data2 (0.75 split)
   (get-frequency-tables 
-    (str "/resources/data1/"dataname"/"dataname"-sbr-old/")
-    (str "/resources/data1/"dataname"/"dataname"-nsbr-old/")
-    (str "/resources/data1/"dataname"/"dataname"-sbr-new/") 
-    (str "/resources/data1/"dataname"/"dataname"-nsbr-new/")
+    (str "/resources/"splitdir"/"dataname"/"dataname"-sbr-old/")
+    (str "/resources/"splitdir"/"dataname"/"dataname"-nsbr-old/")
+    (str "/resources/"splitdir"/"dataname"/"dataname"-sbr-new/") 
+    (str "/resources/"splitdir"/"dataname"/"dataname"-nsbr-new/")
     (str dataname"-mat")
     (str "/"outdir"/")
-    (exp-1 (str "/resources/data1/"dataname"/"dataname"-sbr-old") n)))
+    (exp-1 (str "/resources/"splitdir"/"dataname"/"dataname"-sbr-old") n)))
 
-(defn make-cross-tbls [outdir crossdataname dataname n]
+(defn make-cross-tbls [outdir splitdir crossdataname dataname n]
   (get-frequency-tables 
-    (str "/resources/data1/"crossdataname"/"crossdataname"-sbr-old/")
-    (str "/resources/data1/"crossdataname"/"crossdataname"-nsbr-old/")
-    (str "/resources/data1/"dataname"/"dataname"-sbr-new/") 
-    (str "/resources/data1/"dataname"/"dataname"-nsbr-new/")
+    (str "/resources/"splitdir"/"crossdataname"/"crossdataname"-sbr-old/")
+    (str "/resources/"splitdir"/"crossdataname"/"crossdataname"-nsbr-old/")
+    (str "/resources/"splitdir"/"dataname"/"dataname"-sbr-new/") 
+    (str "/resources/"splitdir"/"dataname"/"dataname"-nsbr-new/")
     (str dataname crossdataname"-cross")
     (str "/"outdir"/")
-    (exp-1 (str "/resources/data1/"crossdataname"/"crossdataname"-sbr-old") n)))
+    (exp-1 (str "/resources/"splitdir"/"crossdataname"/"crossdataname"-sbr-old") n)))
 
 (defn make-farsec-tbls-0 [outdir crossdataname dataname type]
   (filter-bug-reports 
@@ -246,28 +246,29 @@
           ["-t" "--tfidf" "Keywords with high tf-idf" :flag true :default false]
           ["--c1" "Popularity of keywords in different corpora" :flag true :default false]
           ["--target" "Project name as a string" :flag true :default false]
-          ["-o" "--odir" "REQUIRED: Output directory for data" :default "wicket-data"]
+          ["-o" "--odir" "REQUIRED: Output directory for data" :default "wicket-data1"]
           ["-p" "--proj" "REQUIRED: Project name" :default "wicket"]
           ["-c" "--cproj" "Source project for cross prediction" :default "ambari"]
           ["-n" "--num" "Number of keywords returned" :default "100"]
           ["-s" "--treatment" "wpp, wppx, tpp, or tppx" :default "tppx"]
+          ["-k" "--splitdir" "Split bug reports in other directory" :default "data1"]
           ["--wpp" "Make tables for WPP" :flag true :default false]
           ["--tpp" "Make tables for TPP" :flag true :default false]
           ["--wppx" "Make tables for WPPx" :flag true :default false]
           ["--tppx" "Make tables for TPPx" :flag true :default false]
           ["--tfidf" "Make tables for tfidf" :flag true :default false]
-          ["--pop-chart" "Make chart for tfidf" :flag true :default false]
-          ["--predict" "Predict SBRs" :flag true :default false]
-          ["--map-after" "Find mean average precision" :flag true :default false]
-          ["--map-before" "Find mean average precision" :flag true :default false]
-          ["--map-chart" "Chart mean average precision" :flag true :default false])]                       
+          ["--pop-chart" "Make chart for tfidf" :flag true :default true]
+          ["--predict" "Predict SBRs" :flag true :default false])]
+          ;["--map-after" "Find mean average precision" :flag true :default false]
+          ;["--map-before" "Find mean average precision" :flag true :default false]
+          ;["--map-chart" "Chart mean average precision" :flag true :default false])]                       
     (when (:help opts)
       (println banner)
       (System/exit 0))
     (if (:odir opts)
       (cond
-        (:wpp opts)        (make-tbls (:odir opts) (:proj opts) (read-string (:num opts)))
-        (:tpp opts)        (make-cross-tbls (:odir opts) (:cproj opts) (:proj opts) (read-string (:num opts)))
+        (:wpp opts)        (make-tbls (:odir opts) (:splitdir opts) (:proj opts) (read-string (:num opts)))
+        (:tpp opts)        (make-cross-tbls (:odir opts) (:splitdir opts) (:cproj opts) (:proj opts) (read-string (:num opts)))
         (:wppx opts)       (make-farsec-tbls (:odir opts) (:cproj opts) (:proj opts) true)
         (:tppx opts)       (make-farsec-tbls (:odir opts) (:cproj opts) (:proj opts) false)
         (:tfidf opts)      (make-pop-tbls (:odir opts) (:proj opts) (read-string (:num opts)))

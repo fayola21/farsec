@@ -1,0 +1,1 @@
+Increase puppet agent timeout.    Puppet agent timeout should be increases as sometimes (possibly due to a bug in ruby) puppet master takes long time to compile and send back the catalog.   

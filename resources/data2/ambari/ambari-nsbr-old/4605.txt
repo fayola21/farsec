@@ -1,0 +1,1 @@
+Host details: clients list disappears    Go to host page with some clients installedRefresh itGot: clients are not displayed on the pageExpected: list of installed clients   

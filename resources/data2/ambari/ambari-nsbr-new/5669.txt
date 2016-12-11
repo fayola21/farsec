@@ -1,0 +1,1 @@
+Alternatives issues has error message (missing translation)    Build 1.6.0-151Missing translation: installer.step3.hostWarningsPopup.alternatives.emptyinstaller.step3.hostWarningsPopup.alternatives.empty   

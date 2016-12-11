@@ -1,0 +1,1 @@
+[patch] Client driver lexer to determine statement type: fix bad attempt at incrementing a variable    In the client driver lexer to determine statement type  we look for token 'select'  'update'  'values' etc. The lexer used to has a bug in itshandling of end-of-line comments '--'.code doesidx = idx++;but this does absolutely nothing   

@@ -1,0 +1,1 @@
+Capacity Scheduler: when adding a new queue  populate fields    When creating a new queue  populate all fields with default values except for:Queue NameCapacityMax CapacityUsersGroupsAdmin UsersAdmin Groups   

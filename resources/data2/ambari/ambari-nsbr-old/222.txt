@@ -1,0 +1,1 @@
+Remove the word alert from all the Nagios alerts descriptions.    IT is sort of redundant..   

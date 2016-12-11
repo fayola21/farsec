@@ -1,0 +1,1 @@
+Global configs are not sent to server    On the Deploy step Global Configs are not sent to server.So  Nagios and Ganglia (if installed via add service wizard) don't have any configs in service config page.   

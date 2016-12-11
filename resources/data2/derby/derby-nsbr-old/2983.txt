@@ -1,0 +1,1 @@
+The ResultSet returned by DatabaseMetaData.getFunctions() does not contain a required column named FUNCTION_TYPE.    The FUNCTION_TYPE column  sandwiched between REMARKS and SPECIFIC_NAME  is supposed to describe the return type of the function.   

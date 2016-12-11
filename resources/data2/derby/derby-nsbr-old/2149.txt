@@ -1,0 +1,1 @@
+Replace Vectors and Hashtables with ArrayLists and HashMaps in RAMTransaction    In org.apache.derby.impl.store.access.RAMTransaction  synchronized collection objects could be replaced with unsynchronized ones. See discussion here: http://www.nabble.com/Use-of-synchronized-containers-in-engine-code-tf2754469.html   

@@ -1,0 +1,1 @@
+Action buttons on host details page not formatted properly on Firefox       

@@ -1,0 +1,1 @@
+Bulk operations confirmation popup    Hosts page  'Actions' menu (dropdown)Each action shows confirmation popup with list of affected hosts.For big cluster this may be 2000+ hosts.If there are more than 3 hosts  then show 'host1  host2  host3  and X more hosts show all'   

@@ -1,0 +1,1 @@
+Deploy progress bar is not correct    All ajax-requests are completed  but progress bar doesn't filled to 100%.   

@@ -1,0 +1,1 @@
+Rename/Relocate files as appropriate    There's some images in the html/ directory (that should be in images/)  there's .html files whose extension should be changed to .htmli  and such  that would be nice to clean up.   

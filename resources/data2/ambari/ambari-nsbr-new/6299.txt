@@ -1,0 +1,1 @@
+JMXPropertyProvider makes call to endpoint without checking support for properties    Causes CPU usage go upto 1500 % and UI becomes unusable.1000's of Exception:00:01:50 666 ERROR [pool-1-thread-17] JMXPropertyProvider:539 - Caught exception getting JMX metrics : Connection refusedAll JMX endpoints called for any JMX metric.   

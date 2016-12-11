@@ -1,0 +1,1 @@
+Service tab: growing number of calls to update alerts    After routing by services on Service page number of calls to server(to get Alerts) grows.Also mock json with alerts need to be added.   

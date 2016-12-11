@@ -1,0 +1,1 @@
+Check for NN safemode during restarts    There is no checks for safemode when we reconfigure the cluster.   

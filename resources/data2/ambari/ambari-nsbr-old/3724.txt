@@ -1,0 +1,1 @@
+Incorrect host status when slave down    When host has slave down status 'No Heartbeat' status is shown instead of 'Slave Down'.   

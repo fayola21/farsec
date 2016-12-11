@@ -1,0 +1,1 @@
+Popover stuck after routing to another page    Steps to reporduce:1. Go to Installer-&gt;Welcome step2. Focus on cluster name textfield3. Hover on 'learn more' label4. Press Enter to route to the next pageResult:Popover remains visible on other pages   

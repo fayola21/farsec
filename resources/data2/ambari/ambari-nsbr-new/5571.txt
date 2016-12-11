@@ -1,0 +1,1 @@
+Restart option is enabled for components in 'Decommissioned' state but it should not    'Restart' option should not be enabled if a slave component is in 'decommissioned' state  but it is.STR:1) Go to 'Host details' page2) Make any slave component 'Decommissioned'Actual result: 'Restart' option is enabled (see screenshot)Expected result: 'Restart' option should be disabled.   

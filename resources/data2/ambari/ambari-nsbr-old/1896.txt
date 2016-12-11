@@ -1,0 +1,1 @@
+Disable editing Capacity Scheduler on host configs    Go to Configs tab of Host.Result: Queues in Capacity Scheduler category are editable.Expected: Queues in Capacity Scheduler category shouldn't be editable.   

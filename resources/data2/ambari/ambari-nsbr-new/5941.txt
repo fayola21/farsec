@@ -1,0 +1,1 @@
+Ambari should generate config files in sorted order    Ambari should generate config files sorted by key. It would make doing compares between files much easier.   

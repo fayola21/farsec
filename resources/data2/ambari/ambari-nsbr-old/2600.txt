@@ -1,0 +1,1 @@
+Add Quick Links (Web UI) for Oozie  Hue  Nagios  Ganglia    There are no quick links for Oozie. Similarly  some other services also are missing the quick links.   

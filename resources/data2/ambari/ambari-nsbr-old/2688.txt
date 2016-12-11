@@ -1,0 +1,1 @@
+Error messages printed to log    Notice in the ambari-server snippet below a lot of these messages:ERROR Configuration:616 - Cannot read password for alias = nullSteps to reproduce:Setup serverSetup encrypt passwords  don't persist the keySetup httpsStart the server  provided master keyDo cluster install   

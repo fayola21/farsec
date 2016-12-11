@@ -1,0 +1,1 @@
+Zookeeper smoke test failed after being triggered after deleting a host  containing ZookeeperServer    1. Stopped all host components on a host ( to be deleted) with ZookeeperServer. 2. Deleted a host from cluster. 3. Ran Zookeeper Service Check.Actual result: failed. Expected: ok.   

@@ -1,0 +1,1 @@
+Filtered hosts get out of sync with the filter selection    1. Browse to Hosts2. Click one of the filters3. Browse to Services and back to Hosts4. The filter links show All as the current filter but the filter didn't reset and still shows a sub-set of hosts   

@@ -1,0 +1,1 @@
+The database set up script has a duplicate definition of AmbariConfig so install fails       

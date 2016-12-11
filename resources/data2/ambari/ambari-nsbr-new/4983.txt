@@ -1,0 +1,1 @@
+During upgrade. migrate decommissioned DN hosts list to the new format    The details of how the notion of a decommissioned DN is stored has changed for 1.5.0. Add support to modify persisted data when Ambari is upgraded to 1.5.0.   

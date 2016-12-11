@@ -1,0 +1,1 @@
+When SSL is enabled on Hadoop JMX endpoints ResourceManager quick links become unavailable    When hadoop.ssl.enabled=true  ResourceManager port is 8090. When it is false  the port is still 8088.   

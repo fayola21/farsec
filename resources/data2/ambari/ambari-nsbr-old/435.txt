@@ -1,0 +1,1 @@
+Uninstall needs to update status for failure.    This is to enable the routing layer to redirect appropriately.   

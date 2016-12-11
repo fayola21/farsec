@@ -1,0 +1,1 @@
+Dashboard - make disk usage pie chart in HDFS summary easier to understand       

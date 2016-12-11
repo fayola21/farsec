@@ -1,0 +1,1 @@
+unittest NagiosPropertyProviderTest fails    testNoNagiosServerCompoonent(org.apache.ambari.server.controller.nagios.NagiosPropertyProviderTest): Expected no alertstestNoNagiosService(org.apache.ambari.server.controller.nagios.NagiosPropertyProviderTest): Expected no alerts   

@@ -1,0 +1,1 @@
+'Refresh configs' action doesn't work for Flume    STR: Deployed cluster with Flume  without Flume Agents. Added Flume agent on each host. Configured 7 agents  assigned to different hosts. Changed config of one Flume agent. Clicked 'Refresh configs' action.Result: Nothing happened.   

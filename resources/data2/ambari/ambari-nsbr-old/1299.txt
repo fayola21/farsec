@@ -1,0 +1,1 @@
+Bootstrap can hang indefinitely    I was bootstrapping 4 nodes. One of them got stuck in 'Installing' phase and won't time out even after ~30 minutes.It seems like starting of ambari-agent was hanging.   

@@ -1,0 +1,1 @@
+Need tooltip showing error why local repo is bad    I selected HDP 2.0.8 stack and Centos5 base-url was bad. The reason was given in the response - but it is not shown anywhere in UI. On the red exclamation mark we need a tooltip showing the error message from server along with HTTP error code.   

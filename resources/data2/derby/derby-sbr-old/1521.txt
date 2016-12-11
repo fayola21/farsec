@@ -1,0 +1,1 @@
+Upgrade test needs to be enhanced to test grant revoke    Grant Revoke is one of the features targeted for 10.2 Release. The upgrade test should be modified to test this feature with various upgrade scenarios to make sure everything works fine.   

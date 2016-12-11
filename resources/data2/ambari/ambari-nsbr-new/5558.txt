@@ -1,0 +1,1 @@
+Navigating back from Host page to Heatmaps page is broken    STR: Go to Dashboard page. Switch to 'Heatmaps' tab. Click on first host. On host page click 'Back'.Actual result: Appeared 'Cluster Status and Metrics' tab.Expected result: Should appear 'Heatmaps' tab.   

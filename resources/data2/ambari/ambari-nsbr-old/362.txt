@@ -1,0 +1,1 @@
+Create lock file as part of rpm install    Lock file is being created as part of create cluster. This is brittle and needs to be done as part of the rpm install.   

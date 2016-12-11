@@ -1,0 +1,1 @@
+Directory permissions on httpd /var/www/cgi-bin should not be touched by Ambari.    Directory permissions on httpd /var/www/cgi-bin should not be touched by Ambari.   

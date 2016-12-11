@@ -1,0 +1,1 @@
+Modify the config mappings in the upgrade script to reflect the latest    Modify the upgrade mappings for hdfs-site  core-site  mapred-site  and global to reflect the latest.   

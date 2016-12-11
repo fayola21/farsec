@@ -1,0 +1,1 @@
+App Browser rows colours should alternate from dark grey to light grey and back       

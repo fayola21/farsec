@@ -1,0 +1,1 @@
+Remove unused class ExecProcUtil    The class living in java/testing/org/apache/derbyTesting/functionTests/util/ExecProcUtil.java isn't used and can be removed.   

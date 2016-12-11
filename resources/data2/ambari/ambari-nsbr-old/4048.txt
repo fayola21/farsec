@@ -1,0 +1,1 @@
+Minor manage-config-group dialog UI changes    Label on top of left hand config-group table should be removed Left hand table and right hand table should occupy 1/3 and 2/3 of the dialog.   

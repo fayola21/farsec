@@ -1,0 +1,1 @@
+health status yellow (lost heartbeat) not showing icon    See attached. Using 1.5.0.335On Hosts page. Other pages seem fine.   

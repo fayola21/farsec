@@ -1,0 +1,1 @@
+Remove 'Playground' files from HMC    There's a bunch of (temporary playground) files that got wrongly committed to the HMC codebase  so this is to remove all of them and get things into a cleaner state (at least on the face of things).   

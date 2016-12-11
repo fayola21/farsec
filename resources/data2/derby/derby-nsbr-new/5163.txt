@@ -1,0 +1,1 @@
+[patch] fix up sql cleanup handling    When a sql exception occurs  don't allow potential cascading sql problems when closing sql objects from masking the original cause of the exception.Also make sure statements get closed.   

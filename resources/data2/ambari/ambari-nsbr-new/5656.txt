@@ -1,0 +1,1 @@
+Views: do not let the user click on the Views icon in the top nav    When clicking on the Views icon in the top nav  the page content turns blank.We will show a view index page in a later release  but for now  let's just disable clicking on that icon.   

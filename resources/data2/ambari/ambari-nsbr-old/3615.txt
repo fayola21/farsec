@@ -1,0 +1,1 @@
+Ambari agent creates empty folder /var/ambari-agent    Ambari agent creates an empty directory /var/ambari-agent during installation.This directory isn't needed  /var/run/ambari-agent is used instead.   

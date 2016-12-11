@@ -1,0 +1,1 @@
+Misalignment of 'Filter' combobox on installer when browser window is narrow       

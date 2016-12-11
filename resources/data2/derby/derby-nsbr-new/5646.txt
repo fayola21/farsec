@@ -1,0 +1,1 @@
+Get upgrade tests to pass on OJEC 1.1    The upgrade tests fail on OJEC 1.1 because Derby 10.3.1.4 cannot be loaded. That version is ignored on phoneME for the exact same reason. We should do the same for OJEC.   

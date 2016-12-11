@@ -1,0 +1,1 @@
+'Uncaught exception' in JS while navigating through services on Services page    This one was discovered while quick navigating through services on Services page.To reproduce just try to click on services links fast.After that service content is not displayed.   

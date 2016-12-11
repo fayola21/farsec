@@ -1,0 +1,1 @@
+HBase Heatmaps: clean up labels and units       

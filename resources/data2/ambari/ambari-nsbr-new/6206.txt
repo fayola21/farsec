@@ -1,0 +1,1 @@
+BGO popup: Incorrect number of tasks in category    Tasks with 'aborted' status are not included in any 'Aborted' category.   

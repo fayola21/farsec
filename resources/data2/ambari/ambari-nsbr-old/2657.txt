@@ -1,0 +1,1 @@
+Add a re-type new password field when changing passwords for ambari users    We should add a third text box to re-type the new password while changing the password for an ambari user.   

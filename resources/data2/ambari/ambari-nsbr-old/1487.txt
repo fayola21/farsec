@@ -1,0 +1,1 @@
+Fix alerts at host level if MapReduce is not selected not to alert for tasktrackers not running.    Fix alerts at host level if MapReduce is not selected not to alert for tasktrackers not running.   

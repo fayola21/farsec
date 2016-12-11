@@ -1,0 +1,1 @@
+Hosts table: whether the alert filter is in effect or not is not clear    Currently  when the red badge inside the Hosts tab is clicked  it shows hosts that have at least one alert and no other hosts are displayed.The fact that the alert filter is in effect is not clear to the user and causes confusion.   

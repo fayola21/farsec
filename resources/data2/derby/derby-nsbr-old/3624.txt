@@ -1,0 +1,1 @@
+testfailure in storetests/st_derby715 with ibm 1.5 on iseries machine; one deadlock message missing    I saw this fail once; a couple of reruns didn't duplicate the problem.The only difference appears to be that one of the deadlock messages is missing from the output.4 del&lt; Got a Deadlock.   
